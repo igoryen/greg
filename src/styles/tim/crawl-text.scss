@@ -1,0 +1,79 @@
+$from: 80%;
+$to: 0%;
+$dur: 15s;
+
+.crawl-text-box {
+    // color: red;
+    overflow: hidden;
+    // border: 1px solid red;
+}
+
+.crawl-text {
+    font-size: 1em;
+    /* animation properties */
+    -moz-transform: translateX($from);
+    -webkit-transform: translateX($from);
+    transform: translateX($from);
+
+    -moz-animation: my-animation $dur linear infinite;
+    -webkit-animation: my-animation $dur linear infinite;
+    animation: my-animation $dur linear infinite;
+}
+
+/* for Firefox */
+@-moz-keyframes my-animation {
+    from {
+        -moz-transform: translateX($from);
+    }
+
+    to {
+        -moz-transform: translateX($to);
+    }
+}
+
+/* for Chrome */
+@-webkit-keyframes my-animation {
+    from {
+        -webkit-transform: translateX($from);
+        // opacity: 0;
+    }
+
+    to {
+        -webkit-transform: translateX($to);
+        // opacity: 1;
+    }
+}
+
+@keyframes my-animation {
+    from {
+        -moz-transform: translateX($from);
+        -webkit-transform: translateX($from);
+        transform: translateX($from);
+        opacity: 0;
+        // font-size: 0.2em;
+        // transform: scale(0, 1);
+        // color: red;
+    }
+    10%,
+    90% {
+        // color: red;
+        opacity: 1;
+        // transform: scale(1, 1);
+    }
+    50% {
+        // color: blue;
+        // font-size: 2em;
+        // transform: scale(1);
+    }
+
+    to {
+        -moz-transform: translateX($to);
+        -webkit-transform: translateX($to);
+        transform: translateX($to);
+        // color: red;
+
+        // transform: scale(0, 1);
+        opacity: 0;
+        // font-size: 0.2em;
+    }
+}

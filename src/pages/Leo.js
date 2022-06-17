@@ -3,7 +3,9 @@ import "../styles/leo/leo.scss"
 const Leo = () => {
     return (
         <section className="main" id="leo">
-            <p className="explain">a study in parallax</p>
+            <div className="crawl-text-box">
+                <div className='crawl-text'>a study in parallax</div>
+            </div>
             <div className="parallax">
 
                 <div id="group1" className="parallax__group">

@@ -11,8 +11,12 @@ import videoWebm from "../images/tim/video.webm";
 import "../styles/tim/linea/icon-font/styles.css";
 
 const Tim = () => {
+
     return (
         <section className="main" id="tim">
+            <div className="crawl-text-box">
+                <div className='crawl-text'>a study in advanced css</div>
+            </div>
             <div className="aaa">
                 <div className="navigation">
                     <input
