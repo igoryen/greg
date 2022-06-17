@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import "../styles/Home/home.scss"
 import myResume from "../cv/igoryen-resume.pdf"
 const HomePage = () => {
