@@ -1,0 +1,44 @@
+@keyframes slideInFromLeft {
+    // start
+    0% {
+        opacity: 0;
+        transform: translateX(-10rem); // on the abscissa
+    }
+    80% {
+        transform: translateX(1rem);
+    }
+    // finish
+    100% {
+        opacity: 1;
+        transform: translateX(0); // on the abscissa
+    }
+}
+
+@keyframes slideInFromRight {
+    // start
+    0% {
+        opacity: 0;
+        transform: translateX(10rem); // on the abscissa
+    }
+    80% {
+        transform: translateX(-1rem);
+    }
+    // finish
+    100% {
+        opacity: 1;
+        transform: translateX(0px); // on the abscissa
+    }
+}
+
+@keyframes slideInFromBottom {
+    // start
+    0% {
+        opacity: 0;
+        transform: translateY(3rem); // on the ordinate
+    }
+    // finish
+    100% {
+        opacity: 1;
+        transform: translateY(0); // on the ordinate
+    }
+}

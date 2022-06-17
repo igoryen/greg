@@ -1,0 +1,93 @@
+.form {
+    &__group:not(:last-child) {
+        margin-bottom: 2rem;
+    }
+
+    &__input {
+        background-color: rgba($color-white, 0.5);
+        border-radius: 2px;
+        border: none;
+        border-bottom: 3px solid transparent; // after 'border: none'
+        color: inherit;
+        display: block;
+        font-family: inherit;
+        font-size: 1.5rem;
+        padding: 1.5rem 2rem;
+        transition: all 0.3s;
+        width: 90%;
+
+        &:focus {
+            border-bottom: 3px solid $color-primary;
+            box-shadow: $box-shadow-form-input;
+            outline: none; // border will not get default highlight on focus
+
+            &:invalid {
+                border-bottom: 3px solid $color-secondary-dark;
+            }
+        }
+        &::-webkit-input-placeholder {
+            color: $color-gray-dark-2;
+        }
+    }
+
+    &__input:placeholder-shown + &__label {
+        // if placeholder is shown then the sibling that follows directly is hidden
+        // and vice versa
+        opacity: 0;
+        transform: translateY(-4rem);
+        visibility: hidden;
+    }
+
+    &__label {
+        display: block;
+        font-size: 1.2rem;
+        font-weight: 700;
+        margin-left: 2rem;
+        margin-top: 0.7rem;
+        transition: all 0.3s;
+    }
+
+    &__radio {
+        &-group {
+            display: inline-block;
+            width: 49%;
+        }
+        &-input {
+            display: none;
+        }
+
+        &-label {
+            cursor: pointer;
+            font-size: $default-font-size;
+            padding-left: 4.5rem;
+            position: relative;
+        }
+
+        &-button {
+            border-radius: 50%;
+            border: 5px solid $color-primary;
+            display: inline-block;
+            height: 3rem;
+            left: 0;
+            position: absolute;
+            top: -0.5rem;
+            width: 3rem;
+
+            &::after {
+                @include absolutely-centered;
+                background-color: $color-primary;
+                border-radius: 50%;
+                content: "";
+                display: block;
+                height: 1.3rem;
+                opacity: 0;
+                transition: opacity 0.2s;
+                width: 1.3rem;
+            }
+        }
+
+        &-input:checked ~ &-label &-button::after {
+            opacity: 1;
+        }
+    }
+}

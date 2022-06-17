@@ -1,0 +1,32 @@
+// utility classes
+.u {
+    &-center-text {
+        text-align: center !important;
+    }
+
+    &-margin {
+        &-bottom {
+            &-big {
+                margin-bottom: 8rem !important;
+            }
+
+            &-medium {
+                margin-bottom: 4rem !important;
+            }
+
+            &-small {
+                margin-bottom: 1.5rem !important;
+            }
+        }
+
+        &-top {
+            &-big {
+                margin-top: 8rem !important;
+            }
+
+            &-huge {
+                margin-top: 10rem !important;
+            }
+        }
+    }
+}
