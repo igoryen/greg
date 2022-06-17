@@ -27,27 +27,27 @@ const Tim = () => {
                     <nav className="navigation__nav">
                         <ul className="navigation__list">
                             <li className="navigation__item">
-                                <a href="#" className="navigation__link"
+                                <a href="/#" className="navigation__link"
                                 ><span>01</span>About Natours</a
                                 >
                             </li>
                             <li className="navigation__item">
-                                <a href="#" className="navigation__link"
+                                <a href="/#" className="navigation__link"
                                 ><span>02</span>Your benefits</a
                                 >
                             </li>
                             <li className="navigation__item">
-                                <a href="#" className="navigation__link"
+                                <a href="/#" className="navigation__link"
                                 ><span>03</span>Popular tours</a
                                 >
                             </li>
                             <li className="navigation__item">
-                                <a href="#" className="navigation__link"
+                                <a href="/#" className="navigation__link"
                                 ><span>04</span>Stories</a
                                 >
                             </li>
                             <li className="navigation__item">
-                                <a href="#" className="navigation__link"
+                                <a href="/#" className="navigation__link"
                                 ><span>05</span>Book now</a
                                 >
                             </li>
@@ -102,7 +102,7 @@ const Tim = () => {
                                     elit.
                                 </p>
 
-                                <a href="#" className="btn-text">Learn more &rarr;</a>
+                                <a href="/#" className="btn-text">Learn more &rarr;</a>
                             </div>
                             <div className="col-50prc">
                                 <div className="composition">
@@ -293,7 +293,7 @@ const Tim = () => {
                         </div>
 
                         <div className="u-center-text u-margin-top-huge">
-                            <a href="#" className="btn btn--green">Discover all tours</a>
+                            <a href="/#" className="btn btn--green">Discover all tours</a>
                         </div>
                     </section>
 
@@ -367,7 +367,7 @@ const Tim = () => {
                         </div>
 
                         <div className="u-center-text u-margin-top-huge">
-                            <a href="#" className="btn-text">Read all stories &rarr;</a>
+                            <a href="/#" className="btn-text">Read all stories &rarr;</a>
                         </div>
                     </section>
 
@@ -470,30 +470,30 @@ const Tim = () => {
                             <div className="footer__navigation">
                                 <ul className="footer__list">
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link">Company</a>
+                                        <a href="/#" className="footer__link">Company</a>
                                     </li>
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link">Contact us</a>
+                                        <a href="/#" className="footer__link">Contact us</a>
                                     </li>
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link">Careers</a>
+                                        <a href="/#" className="footer__link">Careers</a>
                                     </li>
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link"
+                                        <a href="/#" className="footer__link"
                                         >Privacy policy</a
                                         >
                                     </li>
                                     <li className="footer__item">
-                                        <a href="#" className="footer__link">Terms</a>
+                                        <a href="/#" className="footer__link">Terms</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="col-50prc">
                             <p className="footer__copyright">
-                                Built by <a href="#" className="footer__link">IGORYEN</a>. Originally
-                                built and designed by <a href="#" className="footer__link">JONAS SCHMEDTMANN</a> for
-                                his online course <a href="" className="footer__link">ADVANCED CSS AND SASS</a>. Copyright &copy; by Jonas Schmedtmann.
+                                Built by <a href="/#" className="footer__link">IGORYEN</a>. Originally
+                                built and designed by <a href="/#" className="footer__link">JONAS SCHMEDTMANN</a> for
+                                his online course <a href="/#" className="footer__link">ADVANCED CSS AND SASS</a>. Copyright &copy; by Jonas Schmedtmann.
                             </p>
                         </div>
                     </div>
@@ -528,7 +528,7 @@ const Tim = () => {
                                 officiis possimus obcaecati velit quae mollitia tempora
                                 deserunt!
                             </p>
-                            <a href="#" className="btn btn--green">Book now</a>
+                            <a href="/#" className="btn btn--green">Book now</a>
                         </div>
                     </div>
                 </div>
