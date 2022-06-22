@@ -1,4 +1,5 @@
 import "../styles/Home/home.scss"
+import "../styles/Home/eye-track.scss"
 import myResume from "../cv/igoryen-resume.pdf"
 const HomePage = () => {
 
@@ -135,9 +136,10 @@ const HomePage = () => {
                 </p>
                 <p></p>
             </div>
-            <div className="proj-list-container">
 
 
+            <div className="proj-list-container eye-track-area">
+                <div className="eye-track"></div>
 
                 {Items.map(item => (
                     <a className="proj-list-card" href={item.link} target="_blank" rel="noreferrer" key={item.id}>
