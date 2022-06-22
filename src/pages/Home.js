@@ -137,33 +137,34 @@ const HomePage = () => {
                 <p></p>
             </div>
 
+            <div className="aaa">
+                <div className="proj-list-container eye-track-area">
+                    <div className="eye-track"></div>
 
-            <div className="proj-list-container eye-track-area">
-                <div className="eye-track"></div>
-
-                {Items.map(item => (
-                    <a className="proj-list-card" href={item.link} target="_blank" rel="noreferrer" key={item.id}>
-                        <div className="bkgimg"
-                            style={{
-                                backgroundImage: `url( ${require(`../../public/images/home/${item.image}`)}`
-                            }}></div>
-                        <div className="info">
-                            <h2>
-                                <span>{item.title}</span>
-                            </h2>
-                            <div>
-                                <span>{item.desc}</span>
+                    {Items.map(item => (
+                        <a className="proj-list-card" href={item.link} target="_blank" rel="noreferrer" key={item.id}>
+                            <div className="bkgimg"
+                                style={{
+                                    backgroundImage: `url( ${require(`../../public/images/home/${item.image}`)}`
+                                }}></div>
+                            <div className="info">
+                                <h2>
+                                    <span>{item.title}</span>
+                                </h2>
+                                <div>
+                                    <span>{item.desc}</span>
+                                </div>
+                                <div v-if="item.for">
+                                    <span>For: {item.for}</span>
+                                </div>
+                                <div>
+                                    <span>{item.date}</span>
+                                </div>
                             </div>
-                            <div v-if="item.for">
-                                <span>For: {item.for}</span>
-                            </div>
-                            <div>
-                                <span>{item.date}</span>
-                            </div>
-                        </div>
-                        {item.title}
-                    </a>
-                ))}
+                            {item.title}
+                        </a>
+                    ))}
+                </div>
             </div>
         </section>
     );

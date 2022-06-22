@@ -16,6 +16,10 @@
     offset-path: path("M100,100 L200,100 L200,2200 L100,2200 L100,100");
 }
 
+.aaa {
+    display: flex;
+    justify-content: center;
+}
 .eye-track-area {
     position: relative;
 }
