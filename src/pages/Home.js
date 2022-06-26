@@ -134,7 +134,6 @@ const HomePage = () => {
                     <a className="download-stuff" href={myResume} target="_blank" rel="noreferrer">download &#x1F4E5; my resume</a>
                     and check out my frontend projects below.
                 </p>
-                <p></p>
             </div>
 
             <div className="aaa">
