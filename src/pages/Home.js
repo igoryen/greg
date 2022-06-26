@@ -1,5 +1,6 @@
 import "../styles/Home/home.scss"
 import "../styles/Home/eye-track.scss"
+import "../styles/Home/animate-characters.scss"
 import myResume from "../cv/igoryen-resume.pdf"
 const HomePage = () => {
 
@@ -124,13 +125,13 @@ const HomePage = () => {
         <section className="main home">
             <div className="hello">
 
-                <div className="photo">
+                {/*<div className="photo">
                     <div className="photo-image"></div>
-                </div>
-                <h1>Hi!</h1>
-                <h2>igoryen here.</h2>
+                </div>*/}
+                <h1 className="animate-character">hello</h1>
+                <h2>igoryen here</h2>
                 <p>
-                    Feel free to
+                    feel free to
                     <a className="download-stuff" href={myResume} target="_blank" rel="noreferrer">download &#x1F4E5; my resume</a>
                     and check out my frontend projects below.
                 </p>
