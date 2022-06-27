@@ -18,7 +18,9 @@ const Layout = () => {
                         <li>
                             <Link to="/leo">Leo</Link>
                         </li>
-
+                        <li>
+                            <Link to="/sam">Sam</Link>
+                        </li>
 
 
                     </ul>
