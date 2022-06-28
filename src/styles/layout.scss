@@ -5,6 +5,8 @@
     font-size: 1.2em;
 }
 
+$color1: #4d004d; // purple
+$color2: #000000; // black
 .spaceship {
     display: flex;
     flex-direction: row;
@@ -14,7 +16,6 @@
             @include typography();
             font-family: "Open Sans", sans-serif;
             text-transform: lowercase;
-            // background-color: aqua;
             margin: 1em;
 
             nav {
@@ -25,17 +26,34 @@
                     flex-direction: column;
 
                     li {
-                        display: inline-block;
+                        display: flex;
+                        flex-direction: column;
                         font-size: 1.5em;
-                        margin: 0.5em 0;
+                        margin: 0 0 1em 0;
                         text-transform: lowercase;
+                        width: 100%;
+
+                        a {
+                            color: $color2;
+                        }
+
+                        .underline {
+                            display: block;
+                            height: 3px;
+                            background-color: $color1;
+                            width: 0%;
+
+                            transition-duration: 300ms;
+                            transition-timing-function: ease-in-out;
+                        }
 
                         &:hover {
-                            background-color: rgba(
-                                $color: #000000,
-                                $alpha: 0.1
-                            );
-                            transform: translate(5px, 0px);
+                            a {
+                                color: $color1;
+                            }
+                            .underline {
+                                width: 100%;
+                            }
                         }
 
                         transition: all;
@@ -44,9 +62,6 @@
 
                     a {
                         text-decoration: none;
-                        // background-color: aquamarine;
-
-                        padding: 1em 0;
                     }
                 }
             }

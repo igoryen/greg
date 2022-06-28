@@ -11,15 +11,19 @@ const Layout = () => {
                     <ul>
                         <li>
                             <Link to="/">Home</Link>
+                            <div className="underline"></div>
                         </li>
                         <li>
                             <Link to="/tim">Tim</Link>
+                            <div className="underline"></div>
                         </li>
                         <li>
                             <Link to="/leo">Leo</Link>
+                            <div className="underline"></div>
                         </li>
                         <li>
                             <Link to="/sam">Sam</Link>
+                            <div className="underline"></div>
                         </li>
 
 

@@ -1,17 +1,26 @@
 $end: 2000;
 
-@keyframes dash {
-    from {
-        stroke-dashoffset: $end;
-    }
-    to {
-        stroke-dashoffset: 0;
+// @keyframes dash {
+//     from {
+//         stroke-dashoffset: $end;
+//     }
+//     80% {
+//     }
+//     to {
+//         stroke-dashoffset: 0;
+//     }
+// }
+
+@keyframes aaa {
+    80% {
+        opacity: 0;
     }
 }
 
 .name {
     // width: 180px;
     // background-color: #1c1c6d;
+    // animation: aaa 3s linear forwards infinite;
     .path {
         width: 100px;
         stroke-dasharray: $end;
