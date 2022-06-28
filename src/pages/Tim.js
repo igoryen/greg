@@ -17,7 +17,7 @@ const Tim = () => {
             <div className="crawl-text-box">
                 <div className='crawl-text'>a study in advanced css</div>
             </div>
-            <div className="aaa">
+            <div className="aaab">
                 <div className="navigation">
                     <input
                         type="checkbox"
@@ -58,7 +58,7 @@ const Tim = () => {
                         </ul>
                     </nav>
                 </div>
-                <header className="header">
+                <header className="tim header">
                     <div className="header__logo-box">
                         <img src={logoWhite}
                             alt="logo"

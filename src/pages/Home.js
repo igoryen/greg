@@ -123,7 +123,7 @@ const HomePage = () => {
         // },
     ];
     return (
-        <section className="main home">
+        <section className="main" id="home">
             <div className="hello">
 
                 {/*<div className="photo">

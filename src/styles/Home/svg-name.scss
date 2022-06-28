@@ -16,7 +16,7 @@ $end: 2000;
         opacity: 0;
     }
 }
-.home {
+#home {
     .name {
         // width: 180px;
         // background-color: #1c1c6d;
@@ -31,7 +31,7 @@ $end: 2000;
 }
 
 @media only screen and (min-width: 220px) {
-    .home {
+    #home {
         .name {
             svg {
                 width: 240px;
@@ -40,7 +40,7 @@ $end: 2000;
     }
 }
 @media only screen and (min-width: 720px) {
-    .home {
+    #home {
         .name {
             svg {
                 width: 500px;
