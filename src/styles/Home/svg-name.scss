@@ -16,18 +16,35 @@ $end: 2000;
         opacity: 0;
     }
 }
-
-.name {
-    // width: 180px;
-    // background-color: #1c1c6d;
-    // animation: aaa 3s linear forwards infinite;
-    .path {
-        width: 100px;
-        stroke-dasharray: $end;
-        stroke-dashoffset: $end;
-        animation: dash 3s linear forwards infinite;
+.home {
+    .name {
+        // width: 180px;
+        // background-color: #1c1c6d;
+        // animation: aaa 3s linear forwards infinite;
+        .path {
+            width: 100px;
+            stroke-dasharray: $end;
+            stroke-dashoffset: $end;
+            animation: dash 3s linear forwards infinite;
+        }
     }
-    svg {
-        width: 500px;
+}
+
+@media only screen and (min-width: 220px) {
+    .home {
+        .name {
+            svg {
+                width: 240px;
+            }
+        }
+    }
+}
+@media only screen and (min-width: 720px) {
+    .home {
+        .name {
+            svg {
+                width: 500px;
+            }
+        }
     }
 }
