@@ -1,4 +1,4 @@
-import "../styles/leo/leo.scss"
+import "../styles/leo/leoMain.scss"
 
 const Leo = () => {
     return (

@@ -1,7 +1,4 @@
-import "../styles/Home/home.scss"
-import "../styles/Home/eye-track.scss"
-import "../styles/Home/animate-characters.scss"
-import "../styles/Home/svg-name.scss"
+import "../styles/Home/homeMain.scss";
 import myResume from "../cv/igoryen-resume.pdf"
 const HomePage = () => {
 

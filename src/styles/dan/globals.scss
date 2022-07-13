@@ -1,0 +1,19 @@
+@import "_variables";
+
+body.dan {
+    font-family: "Open Sans", sans-serif;
+    // background-color: $clr_0001;
+    // margin: 0;
+
+    div {
+        // border: 1px solid blue;
+    }
+    button,
+    input {
+        font-family: "Open Sans", sans-serif;
+    }
+}
+
+#dan {
+    background-color: $clr_0001;
+}

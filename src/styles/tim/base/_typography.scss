@@ -1,66 +1,68 @@
-body {
+body.tim {
     color: $color-grey-dark;
     font-family: "Lato", sans-serif;
+
+    // below are // moved to globalsL0.scss
     // font-size: 16px;
-    font-weight: 400;
-    line-height: 1.7;
-}
+    // font-weight: 400;
+    // line-height: 1.7;
 
-.heading {
-    &-primary {
-        align-items: baseline;
-        backface-visibility: hidden; // fix the jolt at animation end
-        // background-color: red;
-        color: $color-white;
-        display: flex;
-        flex-direction: column;
-        margin-bottom: 6rem;
-        text-transform: uppercase;
+    .heading {
+        &-primary {
+            align-items: baseline;
+            backface-visibility: hidden; // fix the jolt at animation end
+            // background-color: red;
+            color: $color-white;
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 6rem;
+            text-transform: uppercase;
 
-        &--main {
-            // display: block;
-            // animation-delay: 3s;
-            animation-duration: 1s;
-            animation-name: slideInFromLeft;
-            animation-timing-function: ease-out;
-            font-size: 6rem;
-            font-weight: 400px;
-            letter-spacing: 3.5rem;
+            &--main {
+                // display: block;
+                // animation-delay: 3s;
+                animation-duration: 1s;
+                animation-name: slideInFromLeft;
+                animation-timing-function: ease-out;
+                font-size: 6rem;
+                font-weight: 400px;
+                letter-spacing: 3.5rem;
+            }
+            &--sub {
+                // display: block;
+                animation: slideInFromRight 1s ease-out;
+                font-size: 2rem;
+                font-weight: 700;
+                letter-spacing: 1.75rem;
+            }
         }
-        &--sub {
-            // display: block;
-            animation: slideInFromRight 1s ease-out;
-            font-size: 2rem;
+
+        &-secondary {
+            @include string-gradient;
+            font-size: 3.5rem;
             font-weight: 700;
-            letter-spacing: 1.75rem;
+            letter-spacing: 0.2rem;
+            text-transform: uppercase;
+            transition: all 0.2s;
+
+            &:hover {
+                text-shadow: 0.5rem 1rem 2rem rgba($color-black, 0.2);
+                transform: skewY(2deg) skewX(15deg) scale(1.1);
+            }
+        }
+
+        &-tertiary {
+            font-size: $default-font-size;
+            font-weight: 700;
+            margin-top: 0; // temporary
+            text-transform: uppercase;
         }
     }
 
-    &-secondary {
-        @include string-gradient;
-        font-size: 3.5rem;
-        font-weight: 700;
-        letter-spacing: 0.2rem;
-        text-transform: uppercase;
-        transition: all 0.2s;
-
-        &:hover {
-            text-shadow: 0.5rem 1rem 2rem rgba($color-black, 0.2);
-            transform: skewY(2deg) skewX(15deg) scale(1.1);
-        }
-    }
-
-    &-tertiary {
+    .paragraph {
         font-size: $default-font-size;
-        font-weight: 700;
-        margin-top: 0; // temporary
-        text-transform: uppercase;
-    }
-}
-
-.paragraph {
-    font-size: $default-font-size;
-    &:not(:last-child) {
-        margin-bottom: 3rem;
+        &:not(:last-child) {
+            margin-bottom: 3rem;
+        }
     }
 }

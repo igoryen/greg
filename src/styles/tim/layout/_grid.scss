@@ -1,47 +1,53 @@
-.row {
-    margin: 0 auto;
-    max-width: $grid-width;
-
-    &:not(:last-child) {
-        margin-bottom: $gutter-ns; // do not sort this line
-    }
-
-    @include clearfix;
-
-    [class^="col-"] {
-        // class names that start with string "col-"
-        float: left;
+.tim {
+    .row {
+        margin: 0 auto;
+        max-width: $grid-width;
 
         &:not(:last-child) {
-            margin-right: $gutter-ew;
-        }
-    }
-
-    .col {
-        // HALVES
-
-        &-50prc {
-            width: calc((100% - #{$gutter-ew}) / 2);
+            margin-bottom: $gutter-ns; // do not sort this line
         }
 
-        // THIRDS
+        @include clearfix;
 
-        &-33prc {
-            width: calc((100% - 2 * #{$gutter-ew}) / 3); // 1 of 3
+        [class^="col-"] {
+            // class names that start with string "col-"
+            float: left;
+
+            &:not(:last-child) {
+                margin-right: $gutter-ew;
+            }
         }
 
-        &-66prc {
-            width: calc((((100% - 2 * #{$gutter-ew}) * 2) / 3) + #{$gutter-ew}); // 2 of 3
-        }
+        .col {
+            // HALVES
 
-        // QUARTERS
+            &-50prc {
+                width: calc((100% - #{$gutter-ew}) / 2);
+            }
 
-        &-25prc {
-            width: calc((100% - 3 * #{$gutter-ew}) / 4); // 1 of 4
-        }
+            // THIRDS
 
-        &-75prc {
-            width: calc((((100% - 3 * #{$gutter-ew}) * 3) / 4) + 2 * #{$gutter-ew}); // 2 of 4
+            &-33prc {
+                width: calc((100% - 2 * #{$gutter-ew}) / 3); // 1 of 3
+            }
+
+            &-66prc {
+                width: calc(
+                    (((100% - 2 * #{$gutter-ew}) * 2) / 3) + #{$gutter-ew}
+                ); // 2 of 3
+            }
+
+            // QUARTERS
+
+            &-25prc {
+                width: calc((100% - 3 * #{$gutter-ew}) / 4); // 1 of 4
+            }
+
+            &-75prc {
+                width: calc(
+                    (((100% - 3 * #{$gutter-ew}) * 3) / 4) + 2 * #{$gutter-ew}
+                ); // 2 of 4
+            }
         }
     }
 }

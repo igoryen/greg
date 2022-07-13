@@ -1,18 +1,11 @@
-@mixin typography {
-    font-family: "Open Sans", sans-serif;
-    font-weight: 500;
-    text-transform: lowercase;
-    font-size: 1.2em;
-}
+// @import "../../Layout/components/base";
+@import "../components/mixins";
+@import "../../Layout/components/variables";
 
-$color1: #4d004d; // purple
-$color2: #000000; // black
 .spaceship {
-    display: flex;
-    flex-direction: row;
-
     section {
-        &.navigation {
+        &.spaceship-navigation {
+            // background-color: antiquewhite;
             @include typography();
             font-family: "Open Sans", sans-serif;
             text-transform: lowercase;
@@ -66,45 +59,5 @@ $color2: #000000; // black
                 }
             }
         }
-
-        &.spacesuit {
-            width: 100%;
-        }
     }
-
-    header.head,
-    footer.feet {
-        @include typography();
-    }
-
-    header.head,
-    footer.feet {
-        padding: 0.5em 1em;
-        color: rgba($color: #000000, $alpha: 0.4);
-        text-align: center;
-    }
-}
-
-.spacesuit {
-    // display: flex;
-    // border: 1px solid red;
-    // margin-bottom: 1em;
-    .torso {
-        display: flex;
-        flex-direction: row;
-        width: 100%;
-
-        section {
-            // border: 1px solid red;
-
-            // <Outlet />
-            &.main {
-                width: 100%;
-            }
-        }
-    }
-}
-
-.explain {
-    text-align: center;
 }
