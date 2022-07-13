@@ -16,7 +16,9 @@
         height: 15rem;
         overflow: hidden; // fixes image's outlines showing
         position: relative;
-        shape-outside: circle(50% at 50% 50%); // defines the outside of the shape
+        shape-outside: circle(
+            50% at 50% 50%
+        ); // defines the outside of the shape
         transform: translateX(-3rem) skewX(12deg); // shift circle west
         width: 15rem;
     }
