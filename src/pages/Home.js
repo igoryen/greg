@@ -2,7 +2,17 @@ import "../styles/Home/homeMain.scss";
 import myResume from "../cv/igoryen-resume.pdf"
 const HomePage = () => {
 
+    // https://www.345tool.com/generator/random-id-generator
     const Items = [
+        {
+            id: 'e1e830a6-824e-4a5a-8876-ddc85e940439',
+            title: "Zenkova",
+            desc: "a website for a tour guide on Cuba",
+            link: "https://liudmilazenkova.netlify.app/",
+            date: "2022",
+            image: "zenkova.png",
+            for: "a friend"
+        },
         {
             id: 'dd264b69f8362ee106f25f11b13a46f7',
             title: "Emblica",
