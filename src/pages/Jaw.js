@@ -5,8 +5,7 @@ console.log(data[0].tone1char);
 let grList = [];
 
 
-data.map((item) => {
-    console.log(item)
+data.map((item) => (
     grList.push(
         <div className="row">
             <div className="cell">
@@ -34,7 +33,7 @@ data.map((item) => {
 
         </div>
     )
-});
+));
 
 
 const Jaw = () => {

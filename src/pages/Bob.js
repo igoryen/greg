@@ -432,12 +432,11 @@ char.example.grs.map((gr, index, ary) => {
 
     grItem = formGR(gr);
 
-    if (ary.length - 1 !== index) { // if this item is not the last item
+    if(ary.length - 1 !== index) { // if this item is not the last item
         grItem.push(<span>&nbsp;</span>);
     }
     grList.push(grItem);
-
-
+    return null;
 });
 
 
