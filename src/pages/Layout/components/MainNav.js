@@ -43,6 +43,10 @@ class MainNav extends React.Component {
                             <div className="underline"></div>
                         </li>
                         <li>
+                            <Link to="/jaw">Jaw</Link>
+                            <div className="underline"></div>
+                        </li>
+                        <li>
                             <Link to="/tim">Tim</Link>
                             <div className="underline"></div>
                         </li>

@@ -13,10 +13,12 @@
 
             nav {
                 ul {
-                    list-style-type: none;
-                    padding: 0;
+                    border-right: 1px solid #130642;
                     display: flex;
                     flex-direction: column;
+                    list-style-type: none;
+                    padding: 0 0.33em 0 0;
+                    // background-color:  #1103253d;
 
                     li {
                         display: flex;

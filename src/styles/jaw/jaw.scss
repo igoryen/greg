@@ -1,0 +1,52 @@
+@mixin font_for_chin_chars {
+    font-family: KaiTi, simsun, Nsimsun, STKaiti, STSong, arial unicode MS, sans-serif, arial;
+}
+
+.jaw01 {
+    // background-color: yellow;
+
+    .row {
+        // background-color: antiquewhite;
+        // flex-wrap: nowrap;
+        border-bottom: 1px solid #ccc;
+        display: flex;
+        flex-direction: row;
+        margin: 3px;
+        padding: 3px;
+    }
+
+    .cell {
+        // background-color: azure;
+        // border-right: 1px solid lightgrey;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: 0px 3px 0px 0px;
+        width: 22%;
+        // padding: 3px;
+
+        &-4 {
+            // background-color: aquamarine;
+            // align-content: center;
+            display: flex;
+            flex-wrap: wrap;
+            @include font_for_chin_chars();
+            justify-content: center;
+            writing-mode: vertical-rl;
+            text-orientation: upright;
+        }
+    }
+
+    .part1 {
+        font-size: 4em;
+        @include font_for_chin_chars();
+        line-height: 1;
+        text-align: center;
+    }
+    .part2 {
+        display: flex;
+        justify-content: center;
+        font-family: "Open Sans", sans-serif;
+        font-size: 1.2em;
+    }
+}

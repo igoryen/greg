@@ -1,0 +1,151 @@
+$character_size: 20em;
+$gr_size: 5em;
+
+@mixin square_div_1 {
+    $side_length: 50%;
+    height: 0;
+    padding-bottom: $side_length;
+    width: $side_length;
+}
+
+@mixin square_div_2 {
+    aspect-ratio: 1 / 1;
+    width: 40em;
+}
+
+@mixin center_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin justify_space_between {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+@mixin font_for_cyr_and_lat {
+    // font-family: 'Pangolin', cursive;
+    font-family: 'Neucha', cursive;
+}
+
+@mixin font_for_latin {
+    // font-family: "Lato", sans-serif;
+    // font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Sorts Mill Goudy', serif;
+    // font-family: Verdana, Geneva, Tahoma, sans-serif;
+    // font-family: "Noto Sans TC", sans-serif;
+}
+
+@mixin font_for_chin_chars {
+    font-family: KaiTi, simsun, Nsimsun, STKaiti, STSong, arial unicode MS, sans-serif, arial;
+}
+
+#bob {
+    .bob01 {
+        border: 1px solid red;
+    }
+
+    .frame {
+        // @include square_div_1();
+        @include center_content();
+        @include square_div_2();
+        font-family: "Lato", sans-serif;
+
+        
+        border: 1px solid lightgray;
+        flex-direction: column;
+        margin: 1em;
+        padding: 1em;
+        
+        &.example {
+            // background-color: antiquewhite;
+            .gr {
+                @include font_for_cyr_and_lat();
+                font-size: calc($gr_size / 1.5);
+            }
+            .character {
+                font-size: calc($character_size / 2.2);
+            }
+        }
+
+
+        .hanzi {
+            @include center_content();
+            // background-color: yellow;
+            flex-direction: column;
+            padding: 1rem;
+            
+        }
+
+        .character {
+            // background-color: pink;
+            @include font_for_chin_chars();
+            font-size: $character_size;
+            line-height: 1;
+        }
+
+        .gr {
+            // background-color: pink;
+            // @include font_for_latin();
+            @include font_for_cyr_and_lat();
+            
+            font-size: $gr_size;
+            font-weight: bold;
+            line-height: 1.1;
+
+            .glide,
+            .pre, .post {
+                color: #aaa;
+            }
+            .clr {
+                
+                
+                &__tone2 {
+                    color: blue;
+                }
+                &__tone3 {
+                    color: green;
+                }
+                &__tone4 {
+                    color: red;
+                }
+                
+            }
+           
+        }
+
+        .meaning {
+            @include center_content();            
+            // @include font_for_latin();
+            @include font_for_cyr_and_lat();
+            flex-direction: column;
+            flex-grow: 1;
+            font-size: 3em;
+
+            .ru {
+                color: red;
+            }
+            .en {
+                color: blue;
+            }
+            .es {
+                color: orangered;
+            }
+        }
+
+        .pronunciation {
+
+            @include justify_space_between();
+
+            // background: antiquewhite;
+            
+            color: gray;
+            // font-family: 'Sorts Mill Goudy', serif;
+            font-size: 3em;
+            line-height: 1;
+            margin-top: auto;
+        }
+    }
+}
