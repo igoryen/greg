@@ -9,6 +9,9 @@ class SS04 extends React.Component {
     render() {
         return (
             <div>
+                <h3>Anglofor</h3>
+                <h1>Sveltana L4</h1>
+
                 <section className="words">
 
 
