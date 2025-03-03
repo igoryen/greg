@@ -3,7 +3,7 @@
 
 .spaceship {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     transition: backgroun-color 1s;
 
     &.active {
@@ -30,6 +30,7 @@
 }
 
 .spacesuit {
+
     // display: flex;
     // border: 1px solid red;
     // margin-bottom: 1em;

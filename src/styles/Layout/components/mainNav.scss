@@ -10,12 +10,13 @@
             font-family: "Open Sans", sans-serif;
             text-transform: lowercase;
             margin: 1em;
+            overflow-x: scroll;
 
             nav {
                 ul {
                     border-right: 1px solid #130642;
                     display: flex;
-                    flex-direction: column;
+                    flex-direction: row;
                     list-style-type: none;
                     padding: 0 0.33em 0 0;
                     // background-color:  #1103253d;
@@ -24,7 +25,7 @@
                         display: flex;
                         flex-direction: column;
                         font-size: 1.5em;
-                        margin: 0 0 1em 0;
+                        margin: 0 10px;
                         text-transform: lowercase;
                         width: 100%;
 
@@ -46,6 +47,7 @@
                             a {
                                 color: $color1;
                             }
+
                             .underline {
                                 width: 100%;
                             }
