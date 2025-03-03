@@ -1,0 +1,200 @@
+:root {
+    /* --bkgd: #FAF0D9; */
+    /* --side: #d7f9f8; */
+    /* --ipatext: #e30022; */
+
+    --bkgd: #fff6e6;
+    --side: #ffddd6;
+    --cardno: #efc4d6;
+    --ipatext: #333;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: var(--bkgd);
+    color: #333;
+    margin: 0;
+    padding: 1rem;
+}
+
+
+.words {
+    /* columns: 100px 6; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2em;
+    margin-bottom: 3em;
+}
+
+.word {}
+
+.part {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 100%;
+    /* border: 1px solid #ddd; */
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    min-width: 10em;
+    text-align: center;
+    cursor: pointer;
+    /* transition: transform .2s; */
+
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    position: relative;
+}
+
+.part p {
+    bottom: 3px;
+    color: var(--cardno);
+    font-size: 3em;
+    font-weight: 900;
+    left: 5px;
+    margin: 0;
+    position: absolute;
+}
+
+.part:hover {
+    /* transform: scale(1.05); */
+    /* background-color: #fff; */
+}
+
+.part1 {
+    background-color: var(--side);
+}
+
+
+.rus {
+    color: #333;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: medium;
+    z-index: 1;
+}
+
+.cefr {
+    color: palevioletred;
+    font-size: small;
+}
+
+.spell,
+.ipa {
+    font-size: xx-large;
+}
+
+.spell {
+
+    /* font-family: "Playwrite DE Grund Guides", cursive; */
+    font-family: "Noto Sans", serif;
+
+    font-style: normal;
+    font-weight: 400;
+    color: royalblue;
+
+}
+
+.ipa {
+    color: var(--ipatext);
+    font-family: "Noto Sans", serif;
+}
+
+.vowel {
+    color: forestgreen;
+}
+
+/*=======================================*/
+/* example sentences*/
+/*=======================================*/
+
+.sentences,
+.song {
+    background-color: #fff;
+    padding: 1em;
+}
+
+.sentences {
+    /* font-weight: 600; */
+    color: royalblue;
+    font-family: "Playwrite DE Grund Guides", cursive;
+    font-size: x-large;
+}
+
+.sentences li {
+    margin-bottom: 0.5em;
+}
+
+.sentences .tw {
+    /* background-color: black; */
+    color: #333;
+}
+
+.sentences i {
+    /* opacity: 0; */
+    /* padding: 0 3px; */
+    background-color: black;
+    color: transparent;
+    cursor: pointer;
+    font-style: normal;
+    transition: all 0.2s;
+}
+
+.sentences i:hover {
+    opacity: 1;
+    background-color: #fff;
+    color: black;
+
+}
+
+.song {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+/*=============================
+signification over words
+===============================*/
+span.sgn {
+    background-color: yellow;
+    position: relative;
+    word-spacing: normal;
+}
+
+span.sgn i {
+    color: gray;
+    font-size: small;
+    left: 0;
+    position: absolute;
+    top: -11px;
+}
+
+/* NEW ADDITION 250223  */
+
+
+.spell,
+.rus,
+.ipa {
+
+    word-break: break-word;
+}
+
+.word {
+    max-width: 18em;
+    width: -webkit-fill-available;
+}
+
+.rus {
+    font-size: large;
+}
+
+.cefr {
+    display: none;
+}
+
+.ipa,
+.spell {
+    font-size: x-large;
+}
