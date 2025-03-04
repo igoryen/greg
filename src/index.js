@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout/Layout";
 import Home from "./pages/Home";
 import SS04 from "./pages/SS04";
+import AB01 from "./pages/AB01";
 import Bob from "./pages/Bob";
 import Jaw from "./pages/Jaw";
 import Leo from "./pages/Leo";
@@ -17,6 +18,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+          <Route path="ab01" element={<AB01 />} />
           <Route path="ss04" element={<SS04 />} />
           <Route path="bob" element={<Bob />} />
           <Route path="jaw" element={<Jaw />} />
