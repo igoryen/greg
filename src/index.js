@@ -2,6 +2,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout/Layout";
 import Home from "./pages/Home";
+import SS from "./pages/SS";
 import SS04 from "./pages/SS04";
 import SS05 from "./pages/SS05";
 import AB01 from "./pages/AB01";
@@ -20,6 +21,7 @@ export default function App() {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
           <Route path="ab01" element={<AB01 />} />
+          <Route path="ss" element={<SS />} />
           <Route path="ss04" element={<SS04 />} />
           <Route path="ss05" element={<SS05 />} />
           <Route path="bob" element={<Bob />} />
