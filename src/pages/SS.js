@@ -12,8 +12,10 @@ class SS extends React.Component {
                 <h3>Anglofor</h3>
                 <h1>Sveltana</h1>
                 <section className="tom">
-                    <p><a href="/ss04" rel="noopener noreferrer">ss04</a></p>
-                    <p><a href="/ss05" rel="noopener noreferrer">ss05</a></p>
+                    <p><a href="/ss01" rel="noopener noreferrer">Lesson 1</a></p>
+                    <p><a href="/ss04" rel="noopener noreferrer">Lesson 2</a></p>
+                    <p><a href="/ss05" rel="noopener noreferrer">Lesson 3</a></p>
+
 
                 </section>
 
