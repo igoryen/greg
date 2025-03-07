@@ -16,6 +16,7 @@ class SS extends React.Component {
                     <p><a href="/ss01" rel="noopener noreferrer">Lesson 1</a></p>
                     <p><a href="/ss04" rel="noopener noreferrer">Lesson 4</a></p>
                     <p><a href="/ss05" rel="noopener noreferrer">Lesson 5</a></p>
+                    <p><a href="/ss06" rel="noopener noreferrer">Lesson 6</a></p>
 
 
                 </section>

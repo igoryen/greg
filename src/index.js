@@ -11,6 +11,7 @@ import SS00 from "./pages/SS00";
 import SS01 from "./pages/SS01";
 import SS04 from "./pages/SS04";
 import SS05 from "./pages/SS05";
+import SS06 from "./pages/SS06";
 import AB01 from "./pages/AB01";
 import Bob from "./pages/Bob";
 import Jaw from "./pages/Jaw";
@@ -36,6 +37,7 @@ export default function App() {
           <Route path="ss01" element={<SS01 />} />
           <Route path="ss04" element={<SS04 />} />
           <Route path="ss05" element={<SS05 />} />
+          <Route path="ss06" element={<SS06 />} />
           <Route path="bob" element={<Bob />} />
           <Route path="jaw" element={<Jaw />} />
           <Route path="leo" element={<Leo />} />
