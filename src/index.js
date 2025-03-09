@@ -9,6 +9,8 @@ import Bob from "./pages/Bob";
 import Dan from "./pages/Dan";
 import IM from "./pages/IM";
 import IM01 from "./pages/IM01";
+import IP from "./pages/IP";
+import IP03 from "./pages/IP03";
 import Jaw from "./pages/Jaw";
 import Leo from "./pages/Leo";
 import ML from "./pages/ML";
@@ -36,6 +38,8 @@ export default function App() {
           <Route path="ab04" element={<AB04 />} />
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
+          <Route path="ip" element={<IP />} />
+          <Route path="ip03" element={<IP03 />} />
           <Route path="ml" element={<ML />} />
           <Route path="ml25" element={<ML25 />} />
           <Route path="ms" element={<MS />} />
