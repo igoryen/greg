@@ -2,23 +2,25 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout/Layout";
 import Home from "./pages/Home";
+import AB from "./pages/AB";
+import AB01 from "./pages/AB01";
+import AB04 from "./pages/AB04";
+import Bob from "./pages/Bob";
+import Dan from "./pages/Dan";
 import IM from "./pages/IM";
 import IM01 from "./pages/IM01";
+import Jaw from "./pages/Jaw";
+import Leo from "./pages/Leo";
 import ML from "./pages/ML";
 import ML25 from "./pages/ML25";
+import Sam from "./pages/Sam";
 import SS from "./pages/SS";
 import SS00 from "./pages/SS00";
 import SS01 from "./pages/SS01";
 import SS04 from "./pages/SS04";
 import SS05 from "./pages/SS05";
 import SS06 from "./pages/SS06";
-import AB01 from "./pages/AB01";
-import Bob from "./pages/Bob";
-import Jaw from "./pages/Jaw";
-import Leo from "./pages/Leo";
 import Tim from "./pages/Tim";
-import Sam from "./pages/Sam";
-import Dan from "./pages/Dan";
 import NoPage from "./pages/NoPage";
 
 export default function App() {
@@ -27,7 +29,9 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+          <Route path="ab" element={<AB />} />
           <Route path="ab01" element={<AB01 />} />
+          <Route path="ab04" element={<AB04 />} />
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
           <Route path="ml" element={<ML />} />
