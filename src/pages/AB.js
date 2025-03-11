@@ -10,6 +10,7 @@ class AB extends React.Component {
                 <section className="tom">
                     <p><a href="/ab01" rel="noopener noreferrer">Lesson 1</a></p>
                     <p><a href="/ab04" rel="noopener noreferrer">Lesson 4</a></p>
+                    <p><a href="/ab05" rel="noopener noreferrer">Lesson 5</a></p>
                 </section>
             </div>
         );
