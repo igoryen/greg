@@ -353,7 +353,7 @@ class AB05 extends React.Component {
             {
                 "cefr": "",
                 "def1": "сильнее",
-                "ipa": "ˈstrɔŋər",
+                "ipa": "ˈstrɔŋɡər",
                 "spell": "stronger"
             },
             {
