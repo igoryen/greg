@@ -10,6 +10,7 @@ import Dan from "./pages/Dan";
 import IM from "./pages/IM";
 import IM01 from "./pages/IM01";
 import IP from "./pages/IP";
+import IP04 from "./pages/IP04";
 import IP03 from "./pages/IP03";
 import Jaw from "./pages/Jaw";
 import Leo from "./pages/Leo";
@@ -24,6 +25,8 @@ import SS01 from "./pages/SS01";
 import SS04 from "./pages/SS04";
 import SS05 from "./pages/SS05";
 import SS06 from "./pages/SS06";
+import VK from "./pages/VK";
+import VK05 from "./pages/VK05";
 import Tim from "./pages/Tim";
 import NoPage from "./pages/NoPage";
 
@@ -40,6 +43,7 @@ export default function App() {
           <Route path="im01" element={<IM01 />} />
           <Route path="ip" element={<IP />} />
           <Route path="ip03" element={<IP03 />} />
+          <Route path="ip04" element={<IP04 />} />
           <Route path="ml" element={<ML />} />
           <Route path="ml25" element={<ML25 />} />
           <Route path="ms" element={<MS />} />
@@ -50,6 +54,8 @@ export default function App() {
           <Route path="ss04" element={<SS04 />} />
           <Route path="ss05" element={<SS05 />} />
           <Route path="ss06" element={<SS06 />} />
+          <Route path="vk" element={<VK />} />
+          <Route path="vk05" element={<VK05 />} />
           <Route path="bob" element={<Bob />} />
           <Route path="jaw" element={<Jaw />} />
           <Route path="leo" element={<Leo />} />
