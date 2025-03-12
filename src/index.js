@@ -27,6 +27,7 @@ import SS01 from "./pages/SS01";
 import SS04 from "./pages/SS04";
 import SS05 from "./pages/SS05";
 import SS06 from "./pages/SS06";
+import SS07 from "./pages/SS07";
 import VK from "./pages/VK";
 import VK05 from "./pages/VK05";
 import Tim from "./pages/Tim";
@@ -58,6 +59,7 @@ export default function App() {
           <Route path="ss04" element={<SS04 />} />
           <Route path="ss05" element={<SS05 />} />
           <Route path="ss06" element={<SS06 />} />
+          <Route path="ss07" element={<SS07 />} />
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
           <Route path="bob" element={<Bob />} />
