@@ -11,8 +11,9 @@ import Dan from "./pages/Dan";
 import IM from "./pages/IM";
 import IM01 from "./pages/IM01";
 import IP from "./pages/IP";
-import IP04 from "./pages/IP04";
 import IP03 from "./pages/IP03";
+import IP04 from "./pages/IP04";
+import IP05 from "./pages/IP05";
 import Jaw from "./pages/Jaw";
 import Leo from "./pages/Leo";
 import ML from "./pages/ML";
@@ -48,6 +49,7 @@ export default function App() {
           <Route path="ip" element={<IP />} />
           <Route path="ip03" element={<IP03 />} />
           <Route path="ip04" element={<IP04 />} />
+          <Route path="ip05" element={<IP05 />} />
           <Route path="ml" element={<ML />} />
           <Route path="ml25" element={<ML25 />} />
           <Route path="ml26" element={<ML26 />} />
