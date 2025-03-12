@@ -77,8 +77,8 @@ class SS07 extends React.Component {
             {
                 "cefr": "",
                 "def1": "дрожь, колотун",
-                "ipa": "ˈʃɪvərz",
-                "spell": "shivers"
+                "ipa": "ðə ˈʃɪvərz",
+                "spell": "the shivers"
             },
             {
                 "cefr": "",
