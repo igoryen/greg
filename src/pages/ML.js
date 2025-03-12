@@ -9,6 +9,7 @@ class ML extends React.Component {
                 <h1>Maria</h1>
                 <section className="tom">
                     <p><a href="/ml25" rel="noopener noreferrer">Lesson 25</a></p>
+                    <p><a href="/ml26" rel="noopener noreferrer">Lesson 26</a></p>
                 </section>
             </div>
         );
