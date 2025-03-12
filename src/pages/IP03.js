@@ -1,11 +1,17 @@
 import "../styles/fc.scss";
 import React from "react";
+import Leon from "../components/Leon";
 
 class IP03 extends React.Component {
     componentDidMount() {
         window.$(".word").flip({ speed: 200 });
     }
     render() {
+        const lesson = {
+            "student": "Ihor",
+            "number": 3,
+            "slug": "ip"
+        };
 
         const words = [
             {
@@ -211,8 +217,7 @@ class IP03 extends React.Component {
 
         return (
             <div>
-                <h3>Anglofor</h3>
-                <h1>Ihor :: Lesson 3</h1>
+                <Leon lesson={lesson} />
                 <section className="words">
                     {wordsFinal}
                 </section>
