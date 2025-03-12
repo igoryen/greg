@@ -1,5 +1,6 @@
 import "../styles/fc.scss";
 import React from "react";
+import Leon from "../components/Leon";
 
 class SS04 extends React.Component {
     componentDidMount() {
@@ -7,10 +8,14 @@ class SS04 extends React.Component {
         window.$(".word").flip({ speed: 200 });
     }
     render() {
+        const lesson = {
+            "student": "Svetlana",
+            "number": 4,
+            "slug": "ss"
+        };
         return (
             <div>
-                <h3>Anglofor</h3>
-                <h1>Sveltana L4</h1>
+                <Leon lesson={lesson} />
 
                 <section className="words">
 

@@ -10,7 +10,7 @@ class SS extends React.Component {
         return (
             <div>
                 <h3>Anglofor</h3>
-                <h1>Sveltana</h1>
+                <h1>Svetlana</h1>
                 <section className="tom">
                     <p><a href="/ss07" rel="noopener noreferrer">Lesson 7</a></p>
                     <p><a href="/ss06" rel="noopener noreferrer">Lesson 6</a></p>

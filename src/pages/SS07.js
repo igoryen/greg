@@ -1,5 +1,6 @@
 import "../styles/fc.scss";
 import React from "react";
+import Leon from "../components/Leon";
 
 class SS07 extends React.Component {
     componentDidMount() {
@@ -7,6 +8,11 @@ class SS07 extends React.Component {
     }
     render() {
 
+        const lesson = {
+            "student": "Svetlana",
+            "number": 7,
+            "slug": "ss"
+        };
         const words = [
             {
                 "cefr": "",
@@ -157,8 +163,7 @@ class SS07 extends React.Component {
 
         return (
             <div>
-                <h3>Anglofor</h3>
-                <h1>Sveltana :: Lesson 7</h1>
+                <Leon lesson={lesson} />
                 <section className="words">
                     {wordsFinal}
                 </section>
