@@ -8,9 +8,10 @@ class AB extends React.Component {
                 <h3>Anglofor</h3>
                 <h1>Alena</h1>
                 <section className="tom">
-                    <p><a href="/ab01" rel="noopener noreferrer">Lesson 1</a></p>
-                    <p><a href="/ab04" rel="noopener noreferrer">Lesson 4</a></p>
+                    <p><a href="/ab06" rel="noopener noreferrer">Lesson 6</a></p>
                     <p><a href="/ab05" rel="noopener noreferrer">Lesson 5</a></p>
+                    <p><a href="/ab04" rel="noopener noreferrer">Lesson 4</a></p>
+                    <p><a href="/ab01" rel="noopener noreferrer">Lesson 1</a></p>
                 </section>
             </div>
         );

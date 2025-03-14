@@ -1,5 +1,6 @@
 import "../styles/fc.scss";
 import React from "react";
+import Leon from "../components/Leon";
 
 class AB01 extends React.Component {
     componentDidMount() {
@@ -7,11 +8,14 @@ class AB01 extends React.Component {
         window.$(".word").flip({ speed: 200 });
     }
     render() {
+        const lesson = {
+            "student": "Alena",
+            "number": 1,
+            "slug": "ab"
+        };
         return (
             <div>
-                <h3>Anglofor</h3>
-                <h1>Alena L1</h1>
-
+                <Leon lesson={lesson} />
                 <section className="words">
 
 
@@ -100,14 +104,9 @@ class AB01 extends React.Component {
                     <div class="word">	<div class="front part part1">	<p>	83	</p>	<div class="rus">	я изучала английский в уничерситете	</div>	<div class="cefr">		</div>	</div>	<div class="back part part2">	<div class="ipa">	aɪ ˈstʌdid ˈɪŋɡlɪʃ æt ˌjunəˈvɜrsəti.	</div>	<div class="spell">	I studied English at university.	</div>	</div>	</div>
                     <div class="word">	<div class="front part part1">	<p>	84	</p>	<div class="rus">	мы живём в США уже больше года	</div>	<div class="cefr">		</div>	</div>	<div class="back part part2">	<div class="ipa">	wi hæv lɪvd ɪn ði ju ɛs fɔr mɔr ðæn ə jɪr	</div>	<div class="spell">	we have lived in the US for more than a year	</div>	</div>	</div>
                 </section>
-
-
-
             </div>
         );
     }
-
-
 }
 
 
