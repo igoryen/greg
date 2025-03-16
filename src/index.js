@@ -27,6 +27,7 @@ import ML26 from "./pages/ML26";
 import ML27 from "./pages/ML27";
 import MS from "./pages/MS";
 import MS06 from "./pages/MS06";
+import MS09 from "./pages/MS09";
 import Sam from "./pages/Sam";
 import SS from "./pages/SS";
 import SS00 from "./pages/SS00";
@@ -67,6 +68,7 @@ export default function App() {
           <Route path="ml27" element={<ML27 />} />
           <Route path="ms" element={<MS />} />
           <Route path="ms06" element={<MS06 />} />
+          <Route path="ms09" element={<MS09 />} />
           <Route path="ss" element={<SS />} />
           <Route path="ss00" element={<SS00 />} />
           <Route path="ss01" element={<SS01 />} />
