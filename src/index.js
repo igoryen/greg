@@ -10,6 +10,7 @@ import AB04 from "./pages/AB04";
 import AB05 from "./pages/AB05";
 import AB06 from "./pages/AB06";
 import AB07 from "./pages/AB07";
+import AB08 from "./pages/AB08";
 import Bob from "./pages/Bob";
 import Dan from "./pages/Dan";
 import IM from "./pages/IM";
@@ -60,6 +61,7 @@ export default function App() {
           <Route path="ab05" element={<AB05 />} />
           <Route path="ab06" element={<AB06 />} />
           <Route path="ab07" element={<AB07 />} />
+          <Route path="ab08" element={<AB08 />} />
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
           <Route path="im04" element={<IM04 />} />
