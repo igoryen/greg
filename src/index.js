@@ -34,6 +34,7 @@ import ML29 from "./pages/ML29";
 import MS from "./pages/MS";
 import MS06 from "./pages/MS06";
 import MS09 from "./pages/MS09";
+import MS10 from "./pages/MS10";
 import Sam from "./pages/Sam";
 import SB from "./pages/SB";
 import SB01 from "./pages/SB01";
@@ -45,6 +46,7 @@ import SS05 from "./pages/SS05";
 import SS06 from "./pages/SS06";
 import SS07 from "./pages/SS07";
 import SS08 from "./pages/SS08";
+import SS10 from "./pages/SS10";
 import VK from "./pages/VK";
 import VK05 from "./pages/VK05";
 import Tim from "./pages/Tim";
@@ -83,6 +85,7 @@ export default function App() {
           <Route path="ms" element={<MS />} />
           <Route path="ms06" element={<MS06 />} />
           <Route path="ms09" element={<MS09 />} />
+          <Route path="ms10" element={<MS10 />} />
           <Route path="sb" element={<SB />} />
           <Route path="sb01" element={<SB01 />} />
           <Route path="ss" element={<SS />} />
@@ -93,6 +96,7 @@ export default function App() {
           <Route path="ss06" element={<SS06 />} />
           <Route path="ss07" element={<SS07 />} />
           <Route path="ss08" element={<SS08 />} />
+          <Route path="ss10" element={<SS10 />} />
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
           <Route path="bob" element={<Bob />} />
