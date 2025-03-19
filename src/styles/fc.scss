@@ -100,6 +100,7 @@ body {
 .ipa {
     color: var(--ipatext);
     font-family: "Noto Sans", serif;
+    font-size: large;
 }
 
 .vowel {
@@ -194,13 +195,40 @@ span.sgn i {
     display: none;
 }
 
-.ipa,
 .spell {
     font-size: x-large;
+}
+
+.ipa {
+    font-size: 20px;
 }
 
 .tom {
     p {
         font-size: 2em;
+    }
+}
+
+
+/***/
+.sentence {
+    padding-top: 1em;
+    position: relative;
+
+    .glico {
+        color: darkblue;
+    }
+
+    .fanva {
+        color: #333;
+        font-size: 20px;
+        font-style: italic;
+    }
+
+    .kanju {
+        color: rgb(16, 186, 16);
+        left: 1px;
+        position: absolute;
+        top: 1px;
     }
 }
