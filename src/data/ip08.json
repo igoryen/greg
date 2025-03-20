@@ -1,0 +1,476 @@
+[
+ {
+   "cefr": "",
+   "def1": "лід",
+   "ipa": "aɪs",
+   "spell": "ice"
+ },
+ {
+   "cefr": "",
+   "def1": "важко",
+   "ipa": "hɑrd",
+   "spell": "hard"
+ },
+ {
+   "cefr": "",
+   "def1": "гарячий",
+   "ipa": "hɑt",
+   "spell": "hot"
+ },
+ {
+   "cefr": "",
+   "def1": "пара",
+   "ipa": "stim",
+   "spell": "steam"
+ },
+ {
+   "cefr": "",
+   "def1": "весна",
+   "ipa": "sprɪŋ",
+   "spell": "spring"
+ },
+ {
+   "cefr": "",
+   "def1": "літо",
+   "ipa": "ˈsʌmər",
+   "spell": "summer"
+ },
+ {
+   "cefr": "",
+   "def1": "зима",
+   "ipa": "ˈwɪntər",
+   "spell": "winter"
+ },
+ {
+   "cefr": "",
+   "def1": "казати",
+   "ipa": "tu seɪ",
+   "spell": "to say"
+ },
+ {
+   "cefr": "",
+   "def1": "народы",
+   "ipa": "ˈpipəlz",
+   "spell": "peoples"
+ },
+ {
+   "cefr": "",
+   "def1": "питати",
+   "ipa": "tu æsk",
+   "spell": "to ask"
+ },
+ {
+   "cefr": "",
+   "def1": "Європа",
+   "ipa": "ˈjʊrəp",
+   "spell": "Europe"
+ },
+ {
+   "cefr": "",
+   "def1": "зупинка",
+   "ipa": "ə stɑp",
+   "spell": "a stop"
+ },
+ {
+   "cefr": "",
+   "def1": "людина",
+   "ipa": "ˈpɜrsən",
+   "spell": "person"
+ },
+ {
+   "cefr": "",
+   "def1": "поездка",
+   "ipa": "ə raɪd",
+   "spell": "a ride"
+ },
+ {
+   "cefr": "",
+   "def1": "рідина",
+   "ipa": "ˈlɪkwɪd",
+   "spell": "liquid"
+ },
+ {
+   "cefr": "",
+   "def1": "махати",
+   "ipa": "tu weɪv",
+   "spell": "to wave"
+ },
+ {
+   "cefr": "",
+   "def1": "особи",
+   "ipa": "ˈpɜrsənz",
+   "spell": "persons"
+ },
+ {
+   "cefr": "",
+   "def1": "телефон",
+   "ipa": "ə foʊn",
+   "spell": "a phone"
+ },
+ {
+   "cefr": "",
+   "def1": "швидко",
+   "ipa": "ˈkwɪkli",
+   "spell": "quickly"
+ },
+ {
+   "cefr": "",
+   "def1": "гаманець",
+   "ipa": "ə pɜrs",
+   "spell": "a purse"
+ },
+ {
+   "cefr": "",
+   "def1": "трохи",
+   "ipa": "ə ˈlɪtəl",
+   "spell": "a little"
+ },
+ {
+   "cefr": "",
+   "def1": "водити",
+   "ipa": "tu draɪv",
+   "spell": "to drive"
+ },
+ {
+   "cefr": "",
+   "def1": "сміятися",
+   "ipa": "tu læf",
+   "spell": "to laugh"
+ },
+ {
+   "cefr": "",
+   "def1": "стояти",
+   "ipa": "tu stænd",
+   "spell": "to stand"
+ },
+ {
+   "cefr": "",
+   "def1": "важко",
+   "ipa": "ˈdɪfəkəlt",
+   "spell": "difficult"
+ },
+ {
+   "cefr": "",
+   "def1": "дзеркало",
+   "ipa": "ə ˈmɪrər",
+   "spell": "a mirror"
+ },
+ {
+   "cefr": "",
+   "def1": "запит",
+   "ipa": "ə rɪˈkwɛst",
+   "spell": "a request"
+ },
+ {
+   "cefr": "",
+   "def1": "Щасти!",
+   "ipa": "ɡʊd lʌk!",
+   "spell": "Good luck!"
+ },
+ {
+   "cefr": "",
+   "def1": "обережно",
+   "ipa": "ˈkɛrfəli",
+   "spell": "carefully"
+ },
+ {
+   "cefr": "",
+   "def1": "пора року",
+   "ipa": "ə ˈsizən",
+   "spell": "a season"
+ },
+ {
+   "cefr": "",
+   "def1": "улюблений",
+   "ipa": "ˈfeɪvərɪt",
+   "spell": "favorite"
+ },
+ {
+   "cefr": "",
+   "def1": "важливий",
+   "ipa": "ɪmˈpɔrtənt",
+   "spell": "important"
+ },
+ {
+   "cefr": "",
+   "def1": "осінь",
+   "ipa": "ˈɔtəm, fɔl",
+   "spell": "autumn, fall"
+ },
+ {
+   "cefr": "",
+   "def1": "посміхатися",
+   "ipa": "tu smaɪl",
+   "spell": "to smile"
+ },
+ {
+   "cefr": "",
+   "def1": "пасажир",
+   "ipa": "ə ˈpæsənʤər",
+   "spell": "a passenger"
+ },
+ {
+   "cefr": "",
+   "def1": "я запізнююся",
+   "ipa": "aɪ æm leɪt",
+   "spell": "I am late"
+ },
+ {
+   "cefr": "",
+   "def1": "переклад",
+   "ipa": "ə trænˈzleɪʃən",
+   "spell": "a translation"
+ },
+ {
+   "cefr": "",
+   "def1": "я вчитель",
+   "ipa": "aɪ æm ə ˈtiʧər",
+   "spell": "I am a teacher"
+ },
+ {
+   "cefr": "",
+   "def1": "що в ньому?",
+   "ipa": "wɑt ɪz ɪn ɪt?",
+   "spell": "what is in it?"
+ },
+ {
+   "cefr": "",
+   "def1": "калькулятор",
+   "ipa": "ə ˈkælkjəˌleɪtər",
+   "spell": "a calculator"
+ },
+ {
+   "cefr": "",
+   "def1": "висадити її",
+   "ipa": "tu drɑp hɜr ɔf",
+   "spell": "to drop her off"
+ },
+ {
+   "cefr": "",
+   "def1": "гарячий сезон",
+   "ipa": "ðə hɑt ˈsizən",
+   "spell": "the hot season"
+ },
+ {
+   "cefr": "",
+   "def1": "до аеропорту",
+   "ipa": "tu ði ˈɛrˌpɔrt",
+   "spell": "to the airport"
+ },
+ {
+   "cefr": "",
+   "def1": "водій Uber",
+   "ipa": "ən ˈjubər ˈdraɪvər",
+   "spell": "an Uber driver"
+ },
+ {
+   "cefr": "",
+   "def1": "це цікаво",
+   "ipa": "ðæts ˈɪntrəstɪŋ",
+   "spell": "that’s interesting"
+ },
+ {
+   "cefr": "",
+   "def1": "холодний сезон",
+   "ipa": "ðə koʊld ˈsizən",
+   "spell": "the cold season"
+ },
+ {
+   "cefr": "",
+   "def1": "ще один запит",
+   "ipa": "əˈnʌðər rɪˈkwɛst",
+   "spell": "another request"
+ },
+ {
+   "cefr": "",
+   "def1": "Безпека понад усе!",
+   "ipa": "ˈseɪfti fɜrst!",
+   "spell": "Safety first!"
+ },
+ {
+   "cefr": "",
+   "def1": "запит на поїздку",
+   "ipa": "ə raɪd rɪˈkwɛst",
+   "spell": "a ride request"
+ },
+ {
+   "cefr": "",
+   "def1": "пункт призначення",
+   "ipa": "ə ˌdɛstəˈneɪʃən",
+   "spell": "a destination"
+ },
+ {
+   "cefr": "",
+   "def1": "я в своїй машині",
+   "ipa": "aɪ æm ɪn maɪ kɑr",
+   "spell": "I am in my car"
+ },
+ {
+   "cefr": "",
+   "def1": "забрати чоловіка",
+   "ipa": "tu pɪk ʌp ə mæn",
+   "spell": "to pick up a man"
+ },
+ {
+   "cefr": "",
+   "def1": "сісти в машину",
+   "ipa": "tu ɡɛt ɪn ðə kɑr",
+   "spell": "to get in the car"
+ },
+ {
+   "cefr": "",
+   "def1": "Приємної поїздки!",
+   "ipa": "hæv ə ɡʊd trɪp!",
+   "spell": "Have a good trip!"
+ },
+ {
+   "cefr": "",
+   "def1": "куди ви їдете?",
+   "ipa": "wɛr ɑr ju ˈɡoʊɪŋ?",
+   "spell": "where are you going?"
+ },
+ {
+   "cefr": "",
+   "def1": "я радий вчитися",
+   "ipa": "aɪ æm ˈhæpi tu lɜrn",
+   "spell": "I am happy to learn"
+ },
+ {
+   "cefr": "",
+   "def1": "я водій Uber",
+   "ipa": "aɪ æm ən ˈjubər ˈdraɪvər",
+   "spell": "I am an Uber driver"
+ },
+ {
+   "cefr": "",
+   "def1": "я з тих місць",
+   "ipa": "aɪ æm frʌm ðoʊz pɑrts",
+   "spell": "I am from those parts"
+ },
+ {
+   "cefr": "",
+   "def1": "працювати водієм Uber",
+   "ipa": "tu draɪv fɔr ˈjubər",
+   "spell": "to drive for Uber"
+ },
+ {
+   "cefr": "",
+   "def1": "я готовий до роботи",
+   "ipa": "aɪ æm ˈrɛdi fɔr wɜrk",
+   "spell": "I am ready for work"
+ },
+ {
+   "cefr": "",
+   "def1": "Будь ласка, їдьте швидше!",
+   "ipa": "pliz draɪv fæst!",
+   "spell": "Please drive fast!"
+ },
+ {
+   "cefr": "",
+   "def1": "дивитися в дзеркало",
+   "ipa": "tu lʊk ɪn ðə ˈmɪrər",
+   "spell": "to look in the mirror"
+ },
+ {
+   "cefr": "",
+   "def1": "ти чудовий водій",
+   "ipa": "ju ɑr ə ɡreɪt ˈdraɪvər",
+   "spell": "you are a great driver"
+ },
+ {
+   "cefr": "",
+   "def1": "важливий документ",
+   "ipa": "ən ɪmˈpɔrtənt ˈdɑkjəmɛnt",
+   "spell": "an important document"
+ },
+ {
+   "cefr": "",
+   "def1": "я обережний водій",
+   "ipa": "aɪ æm ə ˈkɛrfəl ˈdraɪvər",
+   "spell": "I am a careful driver"
+ },
+ {
+   "cefr": "",
+   "def1": "Що те таке англійською?",
+   "ipa": "wɑt ɪz ðæt ɪn ˈɪŋɡlɪʃ?",
+   "spell": "What is that in English?"
+ },
+ {
+   "cefr": "",
+   "def1": "Що це таке англійською?",
+   "ipa": "wɑt ɪz ðɪs ɪn ˈɪŋɡlɪʃ?",
+   "spell": "What is this in English?"
+ },
+ {
+   "cefr": "",
+   "def1": "зупинитися на червоне світло",
+   "ipa": "tu stɑp æt ə rɛd laɪt",
+   "spell": "to stop at a red light"
+ },
+ {
+   "cefr": "",
+   "def1": "Що цi такi англійською?",
+   "ipa": "wɑt ɑr ðiz ɪn ˈɪŋɡlɪʃ?",
+   "spell": "What are these in English?"
+ },
+ {
+   "cefr": "",
+   "def1": "Що тi такi англійською?",
+   "ipa": "wɑt ɑr ðoʊz ɪn ˈɪŋɡlɪʃ?",
+   "spell": "What are those in English?"
+ },
+ {
+   "cefr": "",
+   "def1": "водити Uber цікаво",
+   "ipa": "ˈdraɪvɪŋ ˈjubər ɪz ˈɪntrəstɪŋ",
+   "spell": "driving Uber is interesting"
+ },
+ {
+   "cefr": "",
+   "def1": "моя машина чиста і готова",
+   "ipa": "maɪ kɑr ɪz klin ænd ˈrɛdi",
+   "spell": "my car is clean and ready"
+ },
+ {
+   "cefr": "",
+   "def1": "дякую, що поїхали зі мною",
+   "ipa": "θæŋk ju fɔr ˈraɪdɪŋ wɪð mi",
+   "spell": "thank you for riding with me"
+ },
+ {
+   "cefr": "",
+   "def1": "мені подобається вчити англійську",
+   "ipa": "aɪ laɪk tu lɜrn ˈɪŋɡlɪʃ",
+   "spell": "I like to learn English"
+ },
+ {
+   "cefr": "",
+   "def1": "їхати до пункту призначення",
+   "ipa": "tu draɪv tu ðə ˌdɛstəˈneɪʃən",
+   "spell": "to drive to the destination"
+ },
+ {
+   "cefr": "",
+   "def1": "мій улюблений сезон — весна",
+   "ipa": "maɪ ˈfeɪvərɪt ˈsizən ɪz sprɪŋ",
+   "spell": "my favorite season is spring"
+ },
+ {
+   "cefr": "",
+   "def1": "мій улюблений сезон — осінь",
+   "ipa": "maɪ ˈfeɪvərɪt ˈsizən ɪz ˈɔtəm",
+   "spell": "my favorite season is autumn"
+ },
+ {
+   "cefr": "",
+   "def1": "я їжджу швидко, але обережно",
+   "ipa": "aɪ draɪv ˈkwɪkli bʌt ˈkɛrfəli",
+   "spell": "I drive quickly but carefully"
+ },
+ {
+   "cefr": "",
+   "def1": "відвезти когось в аеропорт",
+   "ipa": "tu drɑp ˈsʌmˌbɑdi æt ði ˈɛrˌpɔrt",
+   "spell": "to drop somebody at the airport"
+ }
+]
