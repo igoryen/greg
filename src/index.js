@@ -11,6 +11,7 @@ import AB05 from "./pages/AB05";
 import AB06 from "./pages/AB06";
 import AB07 from "./pages/AB07";
 import AB08 from "./pages/AB08";
+import AB09 from "./pages/AB09";
 import AG from "./pages/AG";
 import AG08 from "./pages/AG08";
 import Bob from "./pages/Bob";
@@ -37,6 +38,7 @@ import MS from "./pages/MS";
 import MS06 from "./pages/MS06";
 import MS09 from "./pages/MS09";
 import MS10 from "./pages/MS10";
+import MS11 from "./pages/MS11";
 import Sam from "./pages/Sam";
 import SB from "./pages/SB";
 import SB01 from "./pages/SB01";
@@ -68,6 +70,7 @@ export default function App() {
           <Route path="ab06" element={<AB06 />} />
           <Route path="ab07" element={<AB07 />} />
           <Route path="ab08" element={<AB08 />} />
+          <Route path="ab09" element={<AB09 />} />
           <Route path="ag" element={<AG />} />
           <Route path="ag08" element={<AG08 />} />
           <Route path="im" element={<IM />} />
@@ -90,6 +93,7 @@ export default function App() {
           <Route path="ms06" element={<MS06 />} />
           <Route path="ms09" element={<MS09 />} />
           <Route path="ms10" element={<MS10 />} />
+          <Route path="ms11" element={<MS11 />} />
           <Route path="sb" element={<SB />} />
           <Route path="sb01" element={<SB01 />} />
           <Route path="ss" element={<SS />} />
