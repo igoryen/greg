@@ -8,6 +8,7 @@ class MS extends React.Component {
                 <h3>Anglofor</h3>
                 <h1>Mykola Stepan</h1>
                 <section className="tom">
+                    <p><a href="/ms11" rel="noopener noreferrer">Lesson 11</a></p>
                     <p><a href="/ms10" rel="noopener noreferrer">Lesson 10</a></p>
                     <p><a href="/ms09" rel="noopener noreferrer">Lesson 9</a></p>
                     <p><a href="/ms06" rel="noopener noreferrer">Lesson 6</a></p>
