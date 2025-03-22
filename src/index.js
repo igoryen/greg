@@ -56,6 +56,7 @@ import SS08 from "./pages/SS08";
 import SS10 from "./pages/SS10";
 import VK from "./pages/VK";
 import VK05 from "./pages/VK05";
+import Voksa from "./pages/Voksa";
 import Tim from "./pages/Tim";
 import NoPage from "./pages/NoPage";
 
@@ -113,6 +114,7 @@ export default function App() {
           <Route path="ss10" element={<SS10 />} />
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
+          <Route path="voksa" element={<Voksa />} />
           <Route path="bob" element={<Bob />} />
           <Route path="jaw" element={<Jaw />} />
           <Route path="leo" element={<Leo />} />

@@ -1,0 +1,339 @@
+$bkgd: #000;
+$cardback: whitesmoke;
+$cardfront: #333;
+$cardno: #000;
+$ipatext: #ccc;
+$textipa: #ffd380;
+$textrus: #aaa;
+$wrongson: lightskyblue;
+$divider: dodgerblue;
+
+:root {
+    /* --bkgd: #FAF0D9; */
+    /* --cardfront: #d7f9f8; */
+    /* --ipatext: #e30022; */
+
+    // --bkgd: #fff6e6;
+    // --cardfront: #ffddd6;
+    // --cardno: #efc4d6;
+    // --ipatext: #333;
+    // --textrus: gray;
+    // --wrongson: blue;
+
+
+
+    // --bkgd: #00202e;
+    // --cardback: #ffd380;
+    // --cardfront: #003f5c;
+    // --cardno: #00202e;
+    // --ipatext: #ffa600;
+    // --textipa: #ffd380;
+    // --textrus: #bc5090;
+    // --wrongson: #ff8531;
+
+
+    // --bkgd: #000;
+    // --cardback: whitesmoke;
+    // --cardfront: #333;
+    // --cardno: #000;
+    // --ipatext: #ccc;
+    // --textipa: #ffd380;
+    // --textrus: #aaa;
+    // --wrongson: lightskyblue;
+    // --divider: dodgerblue;
+
+
+
+}
+
+.voksa {
+    background-color: $bkgd;
+    color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 1rem;
+    width: 100%;
+
+
+
+    .cuxna {
+        /* columns: 100px 6; */
+        /* flex-wrap: wrap; */
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        gap: 30em;
+        margin: 30em 0;
+    }
+
+    .relpi {
+        /* max-width: 20em; */
+        /* border: 1px solid red; */
+    }
+
+
+
+    .part {
+        /* background-color: #fff; */
+        /* border: 1px solid #ddd; */
+        /* justify-content: space-evenly; */
+        /* margin: 10px; */
+        /* min-width: 10em; */
+        /* padding: 10px; */
+        /* transition: transform .2s; */
+        align-items: anchor-center;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+        cursor: pointer;
+        display: flex;
+        flex-direction: row;
+        position: relative;
+        text-align: center;
+        width: 100%;
+
+        p {
+            bottom: 3px;
+            color: $cardno;
+            font-size: 3em;
+            font-weight: 900;
+            left: 5px;
+            margin: 0;
+            position: absolute;
+            display: none;
+        }
+    }
+
+
+
+    .part:hover {
+        /* transform: scale(1.05); */
+        /* background-color: #fff; */
+    }
+
+    .part1 {
+        /* align-items: normal; */
+        background-color: $cardfront;
+
+    }
+
+    .part2 {
+        background-color: $cardback;
+        flex-direction: column;
+        /* padding: 2em; */
+    }
+
+
+    .rus {
+        color: $textrus;
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: medium;
+        z-index: 1;
+
+
+        padding: 0 2em 0.5em;
+        font-size: 1.7em;
+        color: rosybrown;
+    }
+
+    .cefr {
+        color: palevioletred;
+        font-size: small;
+    }
+
+    .spell,
+    .ipa {
+        font-size: x-large;
+    }
+
+    .spell {
+        background-color: whitesmoke;
+        color: royalblue;
+        font-family: "Playwrite DE Grund Guides", cursive;
+        font-size: xxx-large;
+        font-style: normal;
+        font-weight: 400;
+        padding: 0.5em 2em 0;
+    }
+
+    .spell,
+    .rus {
+        /* padding: 0.5em 1.5em; */
+    }
+
+    .spell {}
+
+    .rus {
+        // padding: 0 2em 0.5em;
+        // font-size: 1.7em;
+        // color: rosybrown;
+    }
+
+    .ipa {
+        color: $ipatext;
+        /* font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+        font-family: "Noto Sans", serif;
+    }
+
+
+
+    .pair {
+        /* border: 1px solid red; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /* padding: 1em; */
+    }
+
+
+
+
+    .front {
+        .pair {
+            &.left {
+                .ipa {
+                    em {
+                        color: forestgreen;
+                        font-style: normal;
+                        text-shadow: 0px 0px 10px darkgreen;
+                    }
+                }
+            }
+
+            &.right {
+                .ipa {
+                    em {
+                        color: crimson;
+                        font-style: normal;
+                        text-shadow: 0px 0px 10px darkred;
+                    }
+                }
+            }
+
+            .ipa {
+                color: $ipatext;
+                font-size: 5em;
+                letter-spacing: 3px;
+
+                em {
+                    font-weight: 600;
+                    letter-spacing: normal;
+                }
+            }
+        }
+    }
+
+    .part {
+        div {
+            &.br {
+                /* background-color: gray; */
+                background-color: $divider;
+                height: 1px;
+                width: 80%;
+            }
+        }
+    }
+
+    .back .pair {
+        /* text-align: left; */
+    }
+
+
+    .raktu {
+
+        /* color: blue; */
+        align-items: center;
+        top: 5px;
+        color: $wrongson;
+        display: flex;
+        font-family: "Noto Sans", serif;
+        font-size: 1.7em;
+        // font-style: italic;
+        left: 15px;
+        position: absolute;
+
+        // text-decoration: line-through;
+        &::after {
+            content: "?";
+            color: coral;
+        }
+    }
+
+    .p2 {
+        align-items: anchor-center;
+        display: flex;
+        flex-direction: column;
+        flex: 1 1 100%;
+        justify-content: space-evenly;
+        z-index: 1;
+    }
+
+
+
+    /*=======================================*/
+    /* example sentences*/
+    /*=======================================*/
+
+    .sentences,
+    .song {
+        background-color: #fff;
+        padding: 1em;
+    }
+
+    .sentences {
+        /* font-weight: 600; */
+        color: royalblue;
+        font-family: "Playwrite DE Grund Guides", cursive;
+        font-size: x-large;
+    }
+
+    .sentences li {
+        margin-bottom: 0.5em;
+    }
+
+    .sentences .tw {
+        /* background-color: black; */
+        color: #333;
+    }
+
+    .sentences i {
+        /* opacity: 0; */
+        /* padding: 0 3px; */
+        background-color: black;
+        color: transparent;
+        cursor: pointer;
+        font-style: normal;
+        transition: all 0.2s;
+
+    }
+
+    .sentences i:hover {
+        opacity: 1;
+        background-color: #fff;
+        color: black;
+
+    }
+
+    .song {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: x-large;
+    }
+
+
+    /*=============================
+        signification over words
+        ===============================*/
+    span.sgn {
+        background-color: yellow;
+        position: relative;
+        word-spacing: normal;
+    }
+
+    span.sgn i {
+        color: gray;
+        font-size: small;
+        left: 0;
+        position: absolute;
+        top: -11px;
+    }
+
+}
