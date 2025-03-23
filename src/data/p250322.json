@@ -1,389 +1,389 @@
 [
- {
-   "raktu": "эт",
-   "drudi": "æd",
-   "betfu": "æt",
-   "zulna": "add",
-   "clira": "добавлять",
-   "pritu": "at",
-   "lastu": "в"
- },
- {
-   "raktu": "нат",
-   "drudi": "nɑd",
-   "betfu": "nɑt",
-   "zulna": "nod",
-   "clira": "кивок",
-   "pritu": "not",
-   "lastu": "не"
- },
- {
-   "raktu": "хэт",
-   "drudi": "hæd",
-   "betfu": "hæt",
-   "zulna": "had",
-   "clira": "имел",
-   "pritu": "hat",
-   "lastu": "шляпа"
- },
- {
-   "raktu": "хис",
-   "drudi": "hɪz",
-   "betfu": "hɪs",
-   "zulna": "his",
-   "clira": "его",
-   "pritu": "hiss",
-   "lastu": "шипеть"
- },
- {
-   "raktu": "бэт",
-   "drudi": "bɛd",
-   "betfu": "bɛt",
-   "zulna": "bed",
-   "clira": "кровать",
-   "pritu": "bet",
-   "lastu": "пари"
- },
- {
-   "raktu": "бит",
-   "drudi": "bid",
-   "betfu": "bit",
-   "zulna": "bead",
-   "clira": "бусина",
-   "pritu": "beat",
-   "lastu": "бить"
- },
- {
-   "raktu": "бёрт",
-   "drudi": "bɝd",
-   "betfu": "bɝt",
-   "zulna": "bird",
-   "clira": "птица",
-   "pritu": "Bert",
-   "lastu": "Берт"
- },
- {
-   "raktu": "мак",
-   "drudi": "mʌɡ",
-   "betfu": "mʌk",
-   "zulna": "mug",
-   "clira": "кружка",
-   "pritu": "muck",
-   "lastu": "грязь"
- },
- {
-   "raktu": "рэк",
-   "drudi": "ɹæɡ",
-   "betfu": "ɹæk",
-   "zulna": "rag",
-   "clira": "тряпка",
-   "pritu": "rack",
-   "lastu": "стойка"
- },
- {
-   "raktu": "тэп",
-   "drudi": "tʰæb",
-   "betfu": "tʰæp",
-   "zulna": "tab",
-   "clira": "вкладка",
-   "pritu": "tap",
-   "lastu": "кран"
- },
- {
-   "raktu": "бэйс",
-   "drudi": "beɪz",
-   "betfu": "beɪs",
-   "zulna": "bays",
-   "clira": "бухты",
-   "pritu": "base",
-   "lastu": "база"
- },
- {
-   "raktu": "кит",
-   "drudi": "kʰɪd",
-   "betfu": "kʰɪt",
-   "zulna": "kid",
-   "clira": "ребёнок",
-   "pritu": "kit",
-   "lastu": "набор"
- },
- {
-   "raktu": "рут",
-   "drudi": "ɹud",
-   "betfu": "ɹut",
-   "zulna": "rude",
-   "clira": "грубый",
-   "pritu": "root",
-   "lastu": "корень"
- },
- {
-   "raktu": "кат",
-   "drudi": "kʰʌd",
-   "betfu": "kʰʌt",
-   "zulna": "cud",
-   "clira": "жвачка",
-   "pritu": "cut",
-   "lastu": "резать"
- },
- {
-   "raktu": "сэк",
-   "drudi": "sæɡ",
-   "betfu": "sæk",
-   "zulna": "sag",
-   "clira": "провисать",
-   "pritu": "sack",
-   "lastu": "мешок"
- },
- {
-   "raktu": "роут",
-   "drudi": "ɹoʊd",
-   "betfu": "ɹoʊt",
-   "zulna": "rode",
-   "clira": "ехал",
-   "pritu": "wrote",
-   "lastu": "писал"
- },
- {
-   "raktu": "бас",
-   "drudi": "bʌz",
-   "betfu": "bʌs",
-   "zulna": "buzz",
-   "clira": "жужжать",
-   "pritu": "bus",
-   "lastu": "автобус"
- },
- {
-   "raktu": "хэф",
-   "drudi": "hæv",
-   "betfu": "hæf",
-   "zulna": "have",
-   "clira": "иметь",
-   "pritu": "half",
-   "lastu": "половина"
- },
- {
-   "raktu": "фикс",
-   "drudi": "fɪgz",
-   "betfu": "fɪks",
-   "zulna": "figs",
-   "clira": "инжир",
-   "pritu": "fix",
-   "lastu": "чинить"
- },
- {
-   "raktu": "нус",
-   "drudi": "nuz",
-   "betfu": "nus",
-   "zulna": "news",
-   "clira": "новости",
-   "pritu": "noose",
-   "lastu": "петля"
- },
- {
-   "raktu": "ланч",
-   "drudi": "lʌnʤ",
-   "betfu": "lʌnʧ",
-   "zulna": "lunge",
-   "clira": "выпад",
-   "pritu": "lunch",
-   "lastu": "обед"
- },
- {
-   "raktu": "лиф",
-   "drudi": "liv",
-   "betfu": "lif",
-   "zulna": "leave",
-   "clira": "оставлять",
-   "pritu": "leaf",
-   "lastu": "лист"
- },
- {
-   "raktu": "лэт",
-   "drudi": "lɛd",
-   "betfu": "lɛt",
-   "zulna": "lead",
-   "clira": "свинец",
-   "pritu": "let",
-   "lastu": "позволять"
- },
- {
-   "raktu": "сис",
-   "drudi": "siz",
-   "betfu": "sis",
-   "zulna": "sees",
-   "clira": "видит",
-   "pritu": "cease",
-   "lastu": "прекратить"
- },
- {
-   "raktu": "вэт",
-   "drudi": "wɛd",
-   "betfu": "wɛt",
-   "zulna": "wed",
-   "clira": "обвенчались",
-   "pritu": "wet",
-   "lastu": "влажный"
- },
- {
-   "raktu": "бэт",
-   "drudi": "bæd",
-   "betfu": "bæt",
-   "zulna": "bad",
-   "clira": "плохой",
-   "pritu": "bat",
-   "lastu": "летучая мышь"
- },
- {
-   "raktu": "райт",
-   "drudi": "ɹaɪd",
-   "betfu": "ɹaɪt",
-   "zulna": "ride",
-   "clira": "поездка",
-   "pritu": "right",
-   "lastu": "верно"
- },
- {
-   "raktu": "карт",
-   "drudi": "kʰɑɹd",
-   "betfu": "kʰɑɹt",
-   "zulna": "card",
-   "clira": "карта",
-   "pritu": "cart",
-   "lastu": "тележка"
- },
- {
-   "raktu": "кап",
-   "drudi": "kʰɑb",
-   "betfu": "kʰɑp",
-   "zulna": "cob",
-   "clira": "початок",
-   "pritu": "cop",
-   "lastu": "полицейский"
- },
- {
-   "raktu": "клак",
-   "drudi": "kʰlɑg",
-   "betfu": "kʰlɑk",
-   "zulna": "clog",
-   "clira": "засорять",
-   "pritu": "clock",
-   "lastu": "часы"
- },
- {
-   "raktu": "рэйс",
-   "drudi": "ɹeɪz",
-   "betfu": "ɹeɪs",
-   "zulna": "raise",
-   "clira": "поднимать",
-   "pritu": "race",
-   "lastu": "гонка"
- },
- {
-   "raktu": "плэйс",
-   "drudi": "pleɪz",
-   "betfu": "pleɪs",
-   "zulna": "plays",
-   "clira": "играет",
-   "pritu": "place",
-   "lastu": "место"
- },
- {
-   "raktu": "нит",
-   "drudi": "nid",
-   "betfu": "nit",
-   "zulna": "need",
-   "clira": "нуждаться",
-   "pritu": "neat",
-   "lastu": "аккуратный"
- },
- {
-   "raktu": "бэч",
-   "drudi": "bæʤ",
-   "betfu": "bæʧ",
-   "zulna": "badge",
-   "clira": "значок",
-   "pritu": "batch",
-   "lastu": "партия товара"
- },
- {
-   "raktu": "брайт",
-   "drudi": "bɹaɪd",
-   "betfu": "bɹaɪt",
-   "zulna": "bride",
-   "clira": "невеста",
-   "pritu": "bright",
-   "lastu": "яркий"
- },
- {
-   "raktu": "сэнт",
-   "drudi": "sɛnd",
-   "betfu": "sɛnt",
-   "zulna": "send",
-   "clira": "отправлять",
-   "pritu": "sent",
-   "lastu": "отправил"
- },
- {
-   "raktu": "трэйс",
-   "drudi": "tʰɹeɪz",
-   "betfu": "tʰɹeɪs",
-   "zulna": "trays",
-   "clira": "подносы",
-   "pritu": "trace",
-   "lastu": "след"
- },
- {
-   "raktu": "пост",
-   "drudi": "pʰoʊzd",
-   "betfu": "pʰoʊst",
-   "zulna": "posed",
-   "clira": "позировал",
-   "pritu": "post",
-   "lastu": "почта"
- },
- {
-   "raktu": "сэнц",
-   "drudi": "sɛndz",
-   "betfu": "sɛnts",
-   "zulna": "sends",
-   "clira": "отправляет",
-   "pritu": "cents",
-   "lastu": "центы"
- },
- {
-   "raktu": "клоус",
-   "drudi": "kʰloʊz",
-   "betfu": "kʰloʊs",
-   "zulna": "close",
-   "clira": "закрывать",
-   "pritu": "close",
-   "lastu": "близко"
- },
- {
-   "raktu": "стэйт",
-   "drudi": "steɪd",
-   "betfu": "steɪt",
-   "zulna": "stayed",
-   "clira": "остался",
-   "pritu": "state",
-   "lastu": "состояние"
- },
- {
-   "raktu": "стрэйт",
-   "drudi": "stɹeɪd",
-   "betfu": "stɹeɪt",
-   "zulna": "strayed",
-   "clira": "заблудился",
-   "pritu": "straight",
-   "lastu": "прямой"
- },
- {
-   "raktu": "плэнт",
-   "drudi": "pʰlænd",
-   "betfu": "pʰlænt",
-   "zulna": "planned",
-   "clira": "запланировано",
-   "pritu": "plant",
-   "lastu": "растение"
- }
+  {
+    "raktu": "эт",
+    "drudi": "æd",
+    "betfu": "æt",
+    "zulna": "add",
+    "clira": "добавлять",
+    "pritu": "at",
+    "lastu": "в"
+  },
+  {
+    "raktu": "нат",
+    "drudi": "nɑd",
+    "betfu": "nɑt",
+    "zulna": "nod",
+    "clira": "кивок",
+    "pritu": "not",
+    "lastu": "не"
+  },
+  {
+    "raktu": "хэт",
+    "drudi": "hæd",
+    "betfu": "hæt",
+    "zulna": "had",
+    "clira": "имел",
+    "pritu": "hat",
+    "lastu": "шляпа"
+  },
+  {
+    "raktu": "хис",
+    "drudi": "hɪz",
+    "betfu": "hɪs",
+    "zulna": "his",
+    "clira": "его",
+    "pritu": "hiss",
+    "lastu": "шипеть"
+  },
+  {
+    "raktu": "бэт",
+    "drudi": "bɛd",
+    "betfu": "bɛt",
+    "zulna": "bed",
+    "clira": "кровать",
+    "pritu": "bet",
+    "lastu": "пари"
+  },
+  {
+    "raktu": "бит",
+    "drudi": "bid",
+    "betfu": "bit",
+    "zulna": "bead",
+    "clira": "бусина",
+    "pritu": "beat",
+    "lastu": "бить"
+  },
+  {
+    "raktu": "бёрт",
+    "drudi": "bɝd",
+    "betfu": "bɝt",
+    "zulna": "bird",
+    "clira": "птица",
+    "pritu": "Bert",
+    "lastu": "Берт"
+  },
+  {
+    "raktu": "мак",
+    "drudi": "mʌɡ",
+    "betfu": "mʌk",
+    "zulna": "mug",
+    "clira": "кружка",
+    "pritu": "muck",
+    "lastu": "грязь"
+  },
+  {
+    "raktu": "рэк",
+    "drudi": "ɹæɡ",
+    "betfu": "ɹæk",
+    "zulna": "rag",
+    "clira": "тряпка",
+    "pritu": "rack",
+    "lastu": "стойка"
+  },
+  {
+    "raktu": "тэп",
+    "drudi": "tʰæb",
+    "betfu": "tʰæp",
+    "zulna": "tab",
+    "clira": "вкладка",
+    "pritu": "tap",
+    "lastu": "кран"
+  },
+  {
+    "raktu": "бэйс",
+    "drudi": "beɪz",
+    "betfu": "beɪs",
+    "zulna": "bays",
+    "clira": "бухты",
+    "pritu": "base",
+    "lastu": "база"
+  },
+  {
+    "raktu": "кит",
+    "drudi": "kʰɪd",
+    "betfu": "kʰɪt",
+    "zulna": "kid",
+    "clira": "ребёнок",
+    "pritu": "kit",
+    "lastu": "набор"
+  },
+  {
+    "raktu": "рут",
+    "drudi": "ɹud",
+    "betfu": "ɹut",
+    "zulna": "rude",
+    "clira": "грубый",
+    "pritu": "root",
+    "lastu": "корень"
+  },
+  {
+    "raktu": "кат",
+    "drudi": "kʰʌd",
+    "betfu": "kʰʌt",
+    "zulna": "cud",
+    "clira": "жвачка",
+    "pritu": "cut",
+    "lastu": "резать"
+  },
+  {
+    "raktu": "сэк",
+    "drudi": "sæɡ",
+    "betfu": "sæk",
+    "zulna": "sag",
+    "clira": "провисать",
+    "pritu": "sack",
+    "lastu": "мешок"
+  },
+  {
+    "raktu": "роут",
+    "drudi": "ɹoʊd",
+    "betfu": "ɹoʊt",
+    "zulna": "rode",
+    "clira": "ехал",
+    "pritu": "wrote",
+    "lastu": "писал"
+  },
+  {
+    "raktu": "бас",
+    "drudi": "bʌz",
+    "betfu": "bʌs",
+    "zulna": "buzz",
+    "clira": "жужжать",
+    "pritu": "bus",
+    "lastu": "автобус"
+  },
+  {
+    "raktu": "хэф",
+    "drudi": "hæv",
+    "betfu": "hæf",
+    "zulna": "have",
+    "clira": "иметь",
+    "pritu": "half",
+    "lastu": "половина"
+  },
+  {
+    "raktu": "фикс",
+    "drudi": "fɪgz",
+    "betfu": "fɪks",
+    "zulna": "figs",
+    "clira": "инжир",
+    "pritu": "fix",
+    "lastu": "чинить"
+  },
+  {
+    "raktu": "нус",
+    "drudi": "nuz",
+    "betfu": "nus",
+    "zulna": "news",
+    "clira": "новости",
+    "pritu": "noose",
+    "lastu": "петля"
+  },
+  {
+    "raktu": "ланч",
+    "drudi": "lʌnʤ",
+    "betfu": "lʌnʧ",
+    "zulna": "lunge",
+    "clira": "выпад",
+    "pritu": "lunch",
+    "lastu": "обед"
+  },
+  {
+    "raktu": "лиф",
+    "drudi": "liv",
+    "betfu": "lif",
+    "zulna": "leave",
+    "clira": "оставлять",
+    "pritu": "leaf",
+    "lastu": "лист"
+  },
+  {
+    "raktu": "лэт",
+    "drudi": "lɛd",
+    "betfu": "lɛt",
+    "zulna": "lead",
+    "clira": "свинец",
+    "pritu": "let",
+    "lastu": "позволять"
+  },
+  {
+    "raktu": "сис",
+    "drudi": "siz",
+    "betfu": "sis",
+    "zulna": "sees",
+    "clira": "видит",
+    "pritu": "cease",
+    "lastu": "прекратить"
+  },
+  {
+    "raktu": "вэт",
+    "drudi": "wɛd",
+    "betfu": "wɛt",
+    "zulna": "wed",
+    "clira": "обвенчались",
+    "pritu": "wet",
+    "lastu": "влажный"
+  },
+  {
+    "raktu": "бэт",
+    "drudi": "bæd",
+    "betfu": "bæt",
+    "zulna": "bad",
+    "clira": "плохой",
+    "pritu": "bat",
+    "lastu": "летучая мышь"
+  },
+  {
+    "raktu": "райт",
+    "drudi": "ɹaɪd",
+    "betfu": "ɹaɪt",
+    "zulna": "ride",
+    "clira": "поездка",
+    "pritu": "right",
+    "lastu": "верно"
+  },
+  {
+    "raktu": "карт",
+    "drudi": "kʰɑɹd",
+    "betfu": "kʰɑɹt",
+    "zulna": "card",
+    "clira": "карта",
+    "pritu": "cart",
+    "lastu": "тележка"
+  },
+  {
+    "raktu": "кап",
+    "drudi": "kʰɑb",
+    "betfu": "kʰɑp",
+    "zulna": "cob",
+    "clira": "початок",
+    "pritu": "cop",
+    "lastu": "полицейский"
+  },
+  {
+    "raktu": "клак",
+    "drudi": "kʰlɑg",
+    "betfu": "kʰlɑk",
+    "zulna": "clog",
+    "clira": "засорять",
+    "pritu": "clock",
+    "lastu": "часы"
+  },
+  {
+    "raktu": "рэйс",
+    "drudi": "ɹeɪz",
+    "betfu": "ɹeɪs",
+    "zulna": "raise",
+    "clira": "поднимать",
+    "pritu": "race",
+    "lastu": "гонка"
+  },
+  {
+    "raktu": "плэйс",
+    "drudi": "pʰleɪz",
+    "betfu": "pʰleɪs",
+    "zulna": "plays",
+    "clira": "играет",
+    "pritu": "place",
+    "lastu": "место"
+  },
+  {
+    "raktu": "нит",
+    "drudi": "nid",
+    "betfu": "nit",
+    "zulna": "need",
+    "clira": "нуждаться",
+    "pritu": "neat",
+    "lastu": "аккуратный"
+  },
+  {
+    "raktu": "бэч",
+    "drudi": "bæʤ",
+    "betfu": "bæʧ",
+    "zulna": "badge",
+    "clira": "значок",
+    "pritu": "batch",
+    "lastu": "партия товара"
+  },
+  {
+    "raktu": "брайт",
+    "drudi": "bɹaɪd",
+    "betfu": "bɹaɪt",
+    "zulna": "bride",
+    "clira": "невеста",
+    "pritu": "bright",
+    "lastu": "яркий"
+  },
+  {
+    "raktu": "сэнт",
+    "drudi": "sɛnd",
+    "betfu": "sɛnt",
+    "zulna": "send",
+    "clira": "отправлять",
+    "pritu": "sent",
+    "lastu": "отправил"
+  },
+  {
+    "raktu": "трэйс",
+    "drudi": "tʰɹeɪz",
+    "betfu": "tʰɹeɪs",
+    "zulna": "trays",
+    "clira": "подносы",
+    "pritu": "trace",
+    "lastu": "след"
+  },
+  {
+    "raktu": "пост",
+    "drudi": "pʰoʊzd",
+    "betfu": "pʰoʊst",
+    "zulna": "posed",
+    "clira": "позировал",
+    "pritu": "post",
+    "lastu": "почта"
+  },
+  {
+    "raktu": "сэнц",
+    "drudi": "sɛndz",
+    "betfu": "sɛnts",
+    "zulna": "sends",
+    "clira": "отправляет",
+    "pritu": "cents",
+    "lastu": "центы"
+  },
+  {
+    "raktu": "клоус",
+    "drudi": "kʰloʊz",
+    "betfu": "kʰloʊs",
+    "zulna": "close",
+    "clira": "закрывать",
+    "pritu": "close",
+    "lastu": "близко"
+  },
+  {
+    "raktu": "стэйт",
+    "drudi": "steɪd",
+    "betfu": "steɪt",
+    "zulna": "stayed",
+    "clira": "остался",
+    "pritu": "state",
+    "lastu": "состояние"
+  },
+  {
+    "raktu": "стрэйт",
+    "drudi": "stɹeɪd",
+    "betfu": "stɹeɪt",
+    "zulna": "strayed",
+    "clira": "заблудился",
+    "pritu": "straight",
+    "lastu": "прямой"
+  },
+  {
+    "raktu": "плэнт",
+    "drudi": "pʰlænd",
+    "betfu": "pʰlænt",
+    "zulna": "planned",
+    "clira": "запланировано",
+    "pritu": "plant",
+    "lastu": "растение"
+  }
 ]
