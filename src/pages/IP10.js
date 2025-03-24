@@ -1,6 +1,7 @@
 import "../styles/fc.scss";
 import React from "react";
 import Leon from "../components/Leon";
+import Word from "../components/Word";
 import words from "../data/ip10.json";
 
 class IP10 extends React.Component {
@@ -35,12 +36,10 @@ class IP10 extends React.Component {
 
 
         return (
-            <div>
+            <>
                 <Leon lesson={lesson} />
-                <section className="words">
-                    {wordsFinal}
-                </section>
-            </div>
+                <Word words={words} />
+            </>
         );
     }
 }
