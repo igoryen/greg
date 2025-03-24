@@ -3,7 +3,7 @@ import React from "react";
 import Leon from "../components/Leon";
 import words from "../data/ip09.json";
 
-class IP08 extends React.Component {
+class IP09 extends React.Component {
     componentDidMount() {
         window.$(".word").flip({ speed: 200 });
     }
@@ -45,4 +45,4 @@ class IP08 extends React.Component {
     }
 }
 
-export default IP08;
+export default IP09;
