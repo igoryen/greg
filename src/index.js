@@ -45,6 +45,7 @@ import Sam from "./pages/Sam";
 import SB from "./pages/SB";
 import SB01 from "./pages/SB01";
 import SB02 from "./pages/SB02";
+import SB03 from "./pages/SB03";
 import SS from "./pages/SS";
 import SS00 from "./pages/SS00";
 import SS01 from "./pages/SS01";
@@ -104,6 +105,7 @@ export default function App() {
           <Route path="sb" element={<SB />} />
           <Route path="sb01" element={<SB01 />} />
           <Route path="sb02" element={<SB02 />} />
+          <Route path="sb03" element={<SB03 />} />
           <Route path="ss" element={<SS />} />
           <Route path="ss00" element={<SS00 />} />
           <Route path="ss01" element={<SS01 />} />
