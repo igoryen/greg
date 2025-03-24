@@ -1,0 +1,572 @@
+[
+  {
+    "cefr": "",
+    "def1": "однажды",
+    "ipa": "wʌns",
+    "spell": "once"
+  },
+  {
+    "cefr": "",
+    "def1": "позже",
+    "ipa": "ˈleɪtər",
+    "spell": "later"
+  },
+  {
+    "cefr": "",
+    "def1": "причина",
+    "ipa": "ə kɑz",
+    "spell": "a cause"
+  },
+  {
+    "cefr": "",
+    "def1": "активно",
+    "ipa": "ˈæktɪvli",
+    "spell": "actively"
+  },
+  {
+    "cefr": "",
+    "def1": "гибкий",
+    "ipa": "ˈflɛksəbəl",
+    "spell": "flexible"
+  },
+  {
+    "cefr": "",
+    "def1": "надежно",
+    "ipa": "sɪˈkjʊrli",
+    "spell": "securely"
+  },
+  {
+    "cefr": "",
+    "def1": "внимательный",
+    "ipa": "ˈkɛrfəl",
+    "spell": "careful"
+  },
+  {
+    "cefr": "",
+    "def1": "сложный",
+    "ipa": "ˈʧælənʤɪŋ",
+    "spell": "challenging"
+  },
+  {
+    "cefr": "",
+    "def1": "внимательно",
+    "ipa": "ˈkɛrfəli",
+    "spell": "carefully"
+  },
+  {
+    "cefr": "",
+    "def1": "немедленный",
+    "ipa": "ɪˈmidiət",
+    "spell": "immediate"
+  },
+  {
+    "cefr": "",
+    "def1": "общительный",
+    "ipa": "ˈsoʊʃəbəl",
+    "spell": "sociable"
+  },
+  {
+    "cefr": "",
+    "def1": "преуспевать",
+    "ipa": "tu θraɪv",
+    "spell": "to thrive"
+  },
+  {
+    "cefr": "",
+    "def1": "довольный",
+    "ipa": "ˈsætəˌsfaɪd",
+    "spell": "satisfied"
+  },
+  {
+    "cefr": "",
+    "def1": "динамичный",
+    "ipa": "fæst-peɪst",
+    "spell": "fast-paced"
+  },
+  {
+    "cefr": "",
+    "def1": "моя сила",
+    "ipa": "maɪ strɛŋkθ",
+    "spell": "my strength"
+  },
+  {
+    "cefr": "",
+    "def1": "восхищаться",
+    "ipa": "tu ædˈmaɪr",
+    "spell": "to admire"
+  },
+  {
+    "cefr": "",
+    "def1": "замена",
+    "ipa": "ə rɪˈpleɪsmənt",
+    "spell": "a replacement"
+  },
+  {
+    "cefr": "",
+    "def1": "потенциально",
+    "ipa": "pəˈtɛnʃəli",
+    "spell": "potentially"
+  },
+  {
+    "cefr": "",
+    "def1": "моя слабость",
+    "ipa": "maɪ ˈwiknəs",
+    "spell": "my weakness"
+  },
+  {
+    "cefr": "",
+    "def1": "веха, этап",
+    "ipa": "ə ˈmaɪlˌstoʊn",
+    "spell": "a milestone"
+  },
+  {
+    "cefr": "",
+    "def1": "случай, когда",
+    "ipa": "ə taɪm wɛn",
+    "spell": "a time when"
+  },
+  {
+    "cefr": "",
+    "def1": "инициатива",
+    "ipa": "ən ɪˈnɪʃətɪv",
+    "spell": "an initiative"
+  },
+  {
+    "cefr": "",
+    "def1": "достижение",
+    "ipa": "ən əˈʧivmənt",
+    "spell": "an achievement"
+  },
+  {
+    "cefr": "",
+    "def1": "гордиться",
+    "ipa": "tu bi praʊd ʌv",
+    "spell": "to be proud of"
+  },
+  {
+    "cefr": "",
+    "def1": "люди в нужде",
+    "ipa": "ˈpipəl ɪn nid",
+    "spell": "people in need"
+  },
+  {
+    "cefr": "",
+    "def1": "например через",
+    "ipa": "sʌʧ æz θru",
+    "spell": "such as through"
+  },
+  {
+    "cefr": "",
+    "def1": "описать это",
+    "ipa": "tu dɪˈskraɪb ɪt",
+    "spell": "to describe it"
+  },
+  {
+    "cefr": "",
+    "def1": "повысить меня",
+    "ipa": "tu prəˈmoʊt mi",
+    "spell": "to promote me"
+  },
+  {
+    "cefr": "",
+    "def1": "приобрести это",
+    "ipa": "tu ˈpɜrʧəs ɪt",
+    "spell": "to purchase it"
+  },
+  {
+    "cefr": "",
+    "def1": "проблема / беспокойство",
+    "ipa": "ə kənˈsɜrn",
+    "spell": "a concern"
+  },
+  {
+    "cefr": "",
+    "def1": "я ценю это",
+    "ipa": "aɪ əˈpriʃiˌeɪt ɪt",
+    "spell": "I appreciate it"
+  },
+  {
+    "cefr": "",
+    "def1": "удовлетворенность",
+    "ipa": "ˌsætəˈsfækʃən",
+    "spell": "satisfaction"
+  },
+  {
+    "cefr": "",
+    "def1": "что помогает мне",
+    "ipa": "wɪʧ hɛlps mi",
+    "spell": "which helps me"
+  },
+  {
+    "cefr": "",
+    "def1": "решение (проблемы)",
+    "ipa": "ə ˌrɛzəˈluʃən",
+    "spell": "a resolution"
+  },
+  {
+    "cefr": "",
+    "def1": "справиться с этим",
+    "ipa": "tu ˈhændəl ɪt",
+    "spell": "to handle it"
+  },
+  {
+    "cefr": "",
+    "def1": "оставаться спокойным",
+    "ipa": "tu steɪ kɑm",
+    "spell": "to stay calm"
+  },
+  {
+    "cefr": "",
+    "def1": "приверженный (чему-то)",
+    "ipa": "kəˈmɪtəd tu",
+    "spell": "committed to"
+  },
+  {
+    "cefr": "",
+    "def1": "значимое дело",
+    "ipa": "ə ˈminɪŋfəl kɑz",
+    "spell": "a meaningful cause"
+  },
+  {
+    "cefr": "",
+    "def1": "работать над этим",
+    "ipa": "tu wɜrk ɑn ðɪs",
+    "spell": "to work on this"
+  },
+  {
+    "cefr": "",
+    "def1": "управляющий магазином",
+    "ipa": "stɔr ˈmænəʤər",
+    "spell": "store manager"
+  },
+  {
+    "cefr": "",
+    "def1": "удовлетворить",
+    "ipa": "tu ˈsætəˌsfaɪ",
+    "spell": "to satisfy"
+  },
+  {
+    "cefr": "",
+    "def1": "оценить",
+    "ipa": "tu əˈpriʃiˌeɪt",
+    "spell": "to appreciate"
+  },
+  {
+    "cefr": "",
+    "def1": "развивать навыки",
+    "ipa": "tu dɪˈvɛləp skɪlz",
+    "spell": "to develop skills"
+  },
+  {
+    "cefr": "",
+    "def1": "принять решение",
+    "ipa": "tu meɪk ə dɪˈsɪʒən",
+    "spell": "to make a decision"
+  },
+  {
+    "cefr": "",
+    "def1": "в качестве продавца",
+    "ipa": "æz ə seɪlz klɜrk",
+    "spell": "as a sales clerk"
+  },
+  {
+    "cefr": "",
+    "def1": "полтора года",
+    "ipa": "fɔr ə jɪr ænd ə hæf",
+    "spell": "for a year and a half"
+  },
+  {
+    "cefr": "",
+    "def1": "справляться со стрессом",
+    "ipa": "tu ˈhændəl strɛs",
+    "spell": "to handle stress"
+  },
+  {
+    "cefr": "",
+    "def1": "начиная с отгрузки",
+    "ipa": "ˈstɑrtɪŋ ɪn ˈʃɪpɪŋ",
+    "spell": "starting in shipping"
+  },
+  {
+    "cefr": "",
+    "def1": "высоко мотивированный",
+    "ipa": "ˈhaɪli ˈmoʊtəˌveɪtəd",
+    "spell": "highly motivated"
+  },
+  {
+    "cefr": "",
+    "def1": "оставаться сосредоточенным",
+    "ipa": "tu steɪ ˈfoʊkəst",
+    "spell": "to stay focused"
+  },
+  {
+    "cefr": "",
+    "def1": "управленческая должность",
+    "ipa": "ə ˈmænəʤmənt roʊl",
+    "spell": "a management role"
+  },
+  {
+    "cefr": "",
+    "def1": "они ушли довольными",
+    "ipa": "ðeɪ lɛft ˈsætəˌsfaɪd",
+    "spell": "they left satisfied"
+  },
+  {
+    "cefr": "",
+    "def1": "быть частью команды",
+    "ipa": "tu bi pɑrt ʌv ə tim",
+    "spell": "to be part of a team"
+  },
+  {
+    "cefr": "",
+    "def1": "быть заинтересованным в",
+    "ipa": "tu bi ˈɪntrɪstɪd ɪn",
+    "spell": "to be interested in"
+  },
+  {
+    "cefr": "",
+    "def1": "справляться с давлением",
+    "ipa": "tu ˈhændəl ˈprɛʃər",
+    "spell": "to handle pressure"
+  },
+  {
+    "cefr": "",
+    "def1": "привести к росту",
+    "ipa": "tu lid tu ən ˈɪnˌkris",
+    "spell": "to lead to an increase"
+  },
+  {
+    "cefr": "",
+    "def1": "акция в магазине",
+    "ipa": "ə prəˈmoʊʃən æt ə stɔr",
+    "spell": "a promotion at a store"
+  },
+  {
+    "cefr": "",
+    "def1": "руководящая должность",
+    "ipa": "ə ˌsupərˈvaɪzəri roʊl",
+    "spell": "a supervisory role"
+  },
+  {
+    "cefr": "",
+    "def1": "в качестве мерчендайзера",
+    "ipa": "æz ə ˈmɜrʧənˌdaɪzər",
+    "spell": "as a merchandiser"
+  },
+  {
+    "cefr": "",
+    "def1": "отдать приоритет этому",
+    "ipa": "tu praɪˈɔrəˌtaɪz ðæt",
+    "spell": "to prioritize that"
+  },
+  {
+    "cefr": "",
+    "def1": "такое значимое дело",
+    "ipa": "sʌʧ ə ˈminɪŋfəl kɑz",
+    "spell": "such a meaningful cause"
+  },
+  {
+    "cefr": "",
+    "def1": "сложная ситуация",
+    "ipa": "ə ˈʧælənʤɪŋ ˌsɪʧuˈeɪʃən",
+    "spell": "a challenging situation"
+  },
+  {
+    "cefr": "",
+    "def1": "сильный командный игрок",
+    "ipa": "ə strɔŋ tim ˈpleɪər",
+    "spell": "a strong team player"
+  },
+  {
+    "cefr": "",
+    "def1": "предложить замену",
+    "ipa": "tu ˈɔfər ə rɪˈpleɪsmənt",
+    "spell": "to offer a replacement"
+  },
+  {
+    "cefr": "",
+    "def1": "немедленное увеличение",
+    "ipa": "ən ɪˈmidiət ˈɪnˌkris",
+    "spell": "an immediate increase"
+  },
+  {
+    "cefr": "",
+    "def1": "столкнуться с ситуацией",
+    "ipa": "tu feɪs ə ˌsɪʧuˈeɪʃən",
+    "spell": "to face a situation"
+  },
+  {
+    "cefr": "",
+    "def1": "работая в Польше",
+    "ipa": "waɪl ˈwɜrkɪŋ ɪn ˈpoʊlənd",
+    "spell": "while working in Poland"
+  },
+  {
+    "cefr": "",
+    "def1": "грузить их в грузовики",
+    "ipa": "tu loʊd ðɛm ɪn trʌks",
+    "spell": "to load them in trucks"
+  },
+  {
+    "cefr": "",
+    "def1": "динамичная среда",
+    "ipa": "ə fæst-peɪst ɪnˈvaɪrənmənt",
+    "spell": "a fast-paced environment"
+  },
+  {
+    "cefr": "",
+    "def1": "я могу быть немного застенчивой",
+    "ipa": "aɪ kæn bi ə bɪt ʃaɪ",
+    "spell": "I can be a bit shy"
+  },
+  {
+    "cefr": "",
+    "def1": "веха в моей карьере",
+    "ipa": "ə ˈmaɪlˌstoʊn ɪn maɪ kəˈrɪr",
+    "spell": "a milestone in my career"
+  },
+  {
+    "cefr": "",
+    "def1": "проактивная коммуникация",
+    "ipa": "ˈproʊˈæktɪv kəmˌjunəˈkeɪʃən",
+    "spell": "proactive communication"
+  },
+  {
+    "cefr": "",
+    "def1": "повысить уверенность в себе",
+    "ipa": "tu bɪld maɪ ˈkɑnfədəns",
+    "spell": "to build my confidence"
+  },
+  {
+    "cefr": "",
+    "def1": "поддерживать сообщество",
+    "ipa": "tu səˈpɔrt ðə kəmˈjunəti",
+    "spell": "to support the community"
+  },
+  {
+    "cefr": "",
+    "def1": "получить опыт в этом",
+    "ipa": "tu ɡeɪn ɪkˈspɪriəns ɪn ðæt",
+    "spell": "to gain experience in that"
+  },
+  {
+    "cefr": "",
+    "def1": "надёжно/плотно упаковывать товары",
+    "ipa": "tu pæk ˈaɪtəmz sɪˈkjʊrli",
+    "spell": "to pack items securely"
+  },
+  {
+    "cefr": "",
+    "def1": "расти внутри компании",
+    "ipa": "tu ɡroʊ wɪˈðɪn ðə ˈkʌmpəni",
+    "spell": "to grow within the company"
+  },
+  {
+    "cefr": "",
+    "def1": "расставлять приоритеты в задачах",
+    "ipa": "tu praɪˈɔrəˌtaɪz tæsks",
+    "spell": "to prioritize tasks"
+  },
+  {
+    "cefr": "",
+    "def1": "при знакомстве с новыми людьми",
+    "ipa": "wɛn ˈmitɪŋ nu ˈpipəl",
+    "spell": "when meeting new people"
+  },
+  {
+    "cefr": "",
+    "def1": "внимательно их выслушать",
+    "ipa": "tu ˈlɪsən ˈkɛrfəli tu ðɛm",
+    "spell": "to listen carefully to them"
+  },
+  {
+    "cefr": "",
+    "def1": "сохранять продуктивность",
+    "ipa": "tu meɪnˈteɪn ˌproʊdəkˈtɪvəti",
+    "spell": "to maintain productivity"
+  },
+  {
+    "cefr": "",
+    "def1": "перейти на другую должность",
+    "ipa": "tu muv ˈɪntu əˈnʌðər roʊl",
+    "spell": "to move into another role"
+  },
+  {
+    "cefr": "",
+    "def1": "решать задачи по одной",
+    "ipa": "tu ˈtækəl tæsks wʌn æt ə taɪm",
+    "spell": "to tackle tasks one at a time"
+  },
+  {
+    "cefr": "",
+    "def1": "брать на себя обязанности",
+    "ipa": "tu teɪk ɑn riˌspɑnsəˈbɪlətiz",
+    "spell": "to take on responsibilities"
+  },
+  {
+    "cefr": "",
+    "def1": "преданность делу помощи людям",
+    "ipa": "ə kəˈmɪtmənt tu ˈhɛlpɪŋ ˈpipəl",
+    "spell": "a commitment to helping people"
+  },
+  {
+    "cefr": "",
+    "def1": "перейти на другую должность",
+    "ipa": "tu trænˈzɪʃən tu əˈnʌðər roʊl",
+    "spell": "to transition to another role"
+  },
+  {
+    "cefr": "",
+    "def1": "эффективно справляться со стрессом",
+    "ipa": "tu ˈmænəʤ strɛs ɪˈfɛktɪvli",
+    "spell": "to manage stress effectively"
+  },
+  {
+    "cefr": "",
+    "def1": "я хотела бы внести вклад в это",
+    "ipa": "aɪd lʌv tu kənˈtrɪbjut tu ðɪs",
+    "spell": "I’d love to contribute to this"
+  },
+  {
+    "cefr": "",
+    "def1": "извиниться за неудобства",
+    "ipa": "tu əˈpɑləˌʤaɪz fɔr ði ˌɪnkənˈvinjəns",
+    "spell": "to apologize for the inconvenience"
+  },
+  {
+    "cefr": "",
+    "def1": "предоставлять продукты и услуги",
+    "ipa": "tu prəˈvaɪd ˈprɑdəkts ænd ˈsɜrvəsəz",
+    "spell": "to provide products and services"
+  },
+  {
+    "cefr": "",
+    "def1": "стремление улучшить качество",
+    "ipa": "ə ˌdɛdəˈkeɪʃən tu ɪmˈpruvɪŋ ðə ˈkwɑləti",
+    "spell": "a dedication to improving the quality"
+  },
+  {
+    "cefr": "",
+    "def1": "высококачественные продукты и услуги",
+    "ipa": "haɪ-ˈkwɑləti ˈprɑdəkts ænd ˈsɜrvəsəz",
+    "spell": "high-quality products and services"
+  },
+  {
+    "cefr": "",
+    "def1": "значительная веха в моей карьере",
+    "ipa": "ə səɡˈnɪfɪkənt ˈmaɪlˌstoʊn ɪn maɪ kəˈrɪr",
+    "spell": "a significant milestone in my career"
+  },
+  {
+    "cefr": "",
+    "def1": "общаться с клиентами и коллегами",
+    "ipa": "tu ɛnˈɡeɪʤ wɪð ˈkʌstəmərz ænd ˈkɑliɡz",
+    "spell": "to engage with customers and colleagues"
+  },
+  {
+    "cefr": "",
+    "def1": "ставить удовлетворенность клиентов на первое место",
+    "ipa": "tu praɪˈɔrəˌtaɪz ˈkʌstəmər ˌsætəˈsfækʃən",
+    "spell": "to prioritize customer satisfaction"
+  }
+]
