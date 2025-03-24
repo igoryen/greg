@@ -36,10 +36,10 @@ class IP10 extends React.Component {
 
 
         return (
-            <>
+            <div>
                 <Leon lesson={lesson} />
                 <Word words={words} />
-            </>
+            </div>
         );
     }
 }
