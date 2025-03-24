@@ -28,6 +28,7 @@ import IP06 from "./pages/IP06";
 import IP07 from "./pages/IP07";
 import IP08 from "./pages/IP08";
 import IP09 from "./pages/IP09";
+import IP10 from "./pages/IP10";
 import Jaw from "./pages/Jaw";
 import Leo from "./pages/Leo";
 import ML from "./pages/ML";
@@ -91,6 +92,7 @@ export default function App() {
           <Route path="ip07" element={<IP07 />} />
           <Route path="ip08" element={<IP08 />} />
           <Route path="ip09" element={<IP09 />} />
+          <Route path="ip10" element={<IP10 />} />
           <Route path="ml" element={<ML />} />
           <Route path="ml25" element={<ML25 />} />
           <Route path="ml26" element={<ML26 />} />

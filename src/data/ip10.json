@@ -1,0 +1,476 @@
+[
+ {
+   "cefr": "",
+   "def1": "погано",
+   "ipa": "bæd",
+   "spell": "bad"
+ },
+ {
+   "cefr": "",
+   "def1": "ліжко",
+   "ipa": "ə bɛd",
+   "spell": "a bed"
+ },
+ {
+   "cefr": "",
+   "def1": "рожевий",
+   "ipa": "pɪŋk",
+   "spell": "pink"
+ },
+ {
+   "cefr": "",
+   "def1": "сумка",
+   "ipa": "ə bæɡ",
+   "spell": "a bag"
+ },
+ {
+   "cefr": "",
+   "def1": "собака",
+   "ipa": "ə dɔɡ",
+   "spell": "a dog"
+ },
+ {
+   "cefr": "",
+   "def1": "кільце",
+   "ipa": "ə rɪŋ",
+   "spell": "a ring"
+ },
+ {
+   "cefr": "",
+   "def1": "папір",
+   "ipa": "ˈpeɪpər",
+   "spell": "paper"
+ },
+ {
+   "cefr": "",
+   "def1": "справжній",
+   "ipa": "riəl",
+   "spell": "real"
+ },
+ {
+   "cefr": "",
+   "def1": "платити",
+   "ipa": "tu peɪ",
+   "spell": "to pay"
+ },
+ {
+   "cefr": "",
+   "def1": "стілець",
+   "ipa": "ə ʧɛr",
+   "spell": "a chair"
+ },
+ {
+   "cefr": "",
+   "def1": "неділя",
+   "ipa": "ˈsʌnˌdeɪ",
+   "spell": "Sunday"
+ },
+ {
+   "cefr": "",
+   "def1": "актор",
+   "ipa": "ən ˈæktər",
+   "spell": "an actor"
+ },
+ {
+   "cefr": "",
+   "def1": "навушники",
+   "ipa": "irpɑdz",
+   "spell": "earpods"
+ },
+ {
+   "cefr": "",
+   "def1": "вівторок",
+   "ipa": "ˈtuzˌdeɪ",
+   "spell": "Tuesday"
+ },
+ {
+   "cefr": "",
+   "def1": "дочка",
+   "ipa": "ə ˈdɔtər",
+   "spell": "a daughter"
+ },
+ {
+   "cefr": "",
+   "def1": "п'ятниця",
+   "ipa": "ˈfraɪˌdeɪ",
+   "spell": "Friday"
+ },
+ {
+   "cefr": "",
+   "def1": "понеділок",
+   "ipa": "ˈmʌnˌdeɪ",
+   "spell": "Monday"
+ },
+ {
+   "cefr": "",
+   "def1": "сестра",
+   "ipa": "ə ˈsɪstər",
+   "spell": "a sister"
+ },
+ {
+   "cefr": "",
+   "def1": "фіолетовий",
+   "ipa": "ˈpɜrpəl",
+   "spell": "purple"
+ },
+ {
+   "cefr": "",
+   "def1": "четвер",
+   "ipa": "ˈθɜrzˌdeɪ",
+   "spell": "Thursday"
+ },
+ {
+   "cefr": "",
+   "def1": "середа",
+   "ipa": "ˈwɛnzˌdeɪ",
+   "spell": "Wednesday"
+ },
+ {
+   "cefr": "",
+   "def1": "субота",
+   "ipa": "ˈsætərˌdeɪ",
+   "spell": "Saturday"
+ },
+ {
+   "cefr": "",
+   "def1": "Я працював",
+   "ipa": "aɪ wɜrkt",
+   "spell": "I worked"
+ },
+ {
+   "cefr": "",
+   "def1": "не справжній",
+   "ipa": "nɑt ril",
+   "spell": "not real"
+ },
+ {
+   "cefr": "",
+   "def1": "приклад",
+   "ipa": "ən ɪɡˈzæmpəl",
+   "spell": "an example"
+ },
+ {
+   "cefr": "",
+   "def1": "Гарне ліжко!",
+   "ipa": "naɪs bɛd!",
+   "spell": "Nice bed!"
+ },
+ {
+   "cefr": "",
+   "def1": "персонаж",
+   "ipa": "ə ˈkɛrɪktər",
+   "spell": "a character"
+ },
+ {
+   "cefr": "",
+   "def1": "погане ліжко",
+   "ipa": "ə bæd bɛd",
+   "spell": "a bad bed"
+ },
+ {
+   "cefr": "",
+   "def1": "Гарне взуття!",
+   "ipa": "naɪs ʃuz!",
+   "spell": "Nice shoes!"
+ },
+ {
+   "cefr": "",
+   "def1": "Гарна каблучка!",
+   "ipa": "naɪs rɪŋ!",
+   "spell": "Nice ring!"
+ },
+ {
+   "cefr": "",
+   "def1": "Гарна сорочка!",
+   "ipa": "naɪs ʃɜrt!",
+   "spell": "Nice shirt!"
+ },
+ {
+   "cefr": "",
+   "def1": "це краще",
+   "ipa": "ðɪs ɪz ˈbɛtər",
+   "spell": "this is better"
+ },
+ {
+   "cefr": "",
+   "def1": "давайте порівняти",
+   "ipa": "lɛts mæʧ",
+   "spell": "let's match"
+ },
+ {
+   "cefr": "",
+   "def1": "скорочення",
+   "ipa": "ə kənˈtrækʃən",
+   "spell": "a contraction"
+ },
+ {
+   "cefr": "",
+   "def1": "щоб продовжити",
+   "ipa": "tu kənˈtɪnju",
+   "spell": "to continue"
+ },
+ {
+   "cefr": "",
+   "def1": "просто слова",
+   "ipa": "ʤʌst ðə wɜrdz",
+   "spell": "just the words"
+ },
+ {
+   "cefr": "",
+   "def1": "скажи ще раз!",
+   "ipa": "seɪ ɪt əˈɡɛn!",
+   "spell": "say it again!"
+ },
+ {
+   "cefr": "",
+   "def1": "двоспальне ліжко",
+   "ipa": "ə ˈdʌbəl bɛd",
+   "spell": "a double bed"
+ },
+ {
+   "cefr": "",
+   "def1": "Він актор.",
+   "ipa": "hi ɪz ən ˈæktər.",
+   "spell": "He is an actor."
+ },
+ {
+   "cefr": "",
+   "def1": "Гарні навушники!",
+   "ipa": "naɪs irpɑdz!",
+   "spell": "Nice earpods!"
+ },
+ {
+   "cefr": "",
+   "def1": "Це мій син.",
+   "ipa": "ðɪs ɪz maɪ sʌn.",
+   "spell": "This is my son."
+ },
+ {
+   "cefr": "",
+   "def1": "прочитайте імена",
+   "ipa": "rid ðə neɪmz",
+   "spell": "read the names"
+ },
+ {
+   "cefr": "",
+   "def1": "Це містер Бін.",
+   "ipa": "ɪts ˈmɪstər bin.",
+   "spell": "It’s Mr Bean."
+ },
+ {
+   "cefr": "",
+   "def1": "двоспальне ліжко",
+   "ipa": "ə kɪŋ-saɪz bɛd",
+   "spell": "a king-size bed"
+ },
+ {
+   "cefr": "",
+   "def1": "Це моєї дружини.",
+   "ipa": "ɪts maɪ waɪfs.",
+   "spell": "It’s my wife’s."
+ },
+ {
+   "cefr": "",
+   "def1": "давайте продовжимо",
+   "ipa": "lɛts kənˈtɪnju",
+   "spell": "let's continue"
+ },
+ {
+   "cefr": "",
+   "def1": "просто прочитайте їх",
+   "ipa": "ʤʌst rid ðɛm",
+   "spell": "just read them"
+ },
+ {
+   "cefr": "",
+   "def1": "Це мого сина.",
+   "ipa": "ðɪs ɪz maɪ sʌnz.",
+   "spell": "This is my son’s."
+ },
+ {
+   "cefr": "",
+   "def1": "Це мої сини.",
+   "ipa": "ðiz ɑr maɪ sʌnz.",
+   "spell": "These are my sons."
+ },
+ {
+   "cefr": "",
+   "def1": "це кольори",
+   "ipa": "ðiz ɑr ðə ˈkʌlərz",
+   "spell": "these are the colors"
+ },
+ {
+   "cefr": "",
+   "def1": "ця книга рожева",
+   "ipa": "ðɪs bʊk ɪz pɪŋk",
+   "spell": "this book is pink"
+ },
+ {
+   "cefr": "",
+   "def1": "сумка вашої дружини",
+   "ipa": "jʊər waɪfs bæɡ",
+   "spell": "your wife’s bag"
+ },
+ {
+   "cefr": "",
+   "def1": "Вони мого сина.",
+   "ipa": "ðeɪ ɑr maɪ sʌnz.",
+   "spell": "They are my son’s."
+ },
+ {
+   "cefr": "",
+   "def1": "Вони мого тата.",
+   "ipa": "ðeɪ ɑr maɪ dædz.",
+   "spell": "They are my dad’s."
+ },
+ {
+   "cefr": "",
+   "def1": "Вони моєї мами.",
+   "ipa": "ðeɪ ɑr maɪ mɑmz.",
+   "spell": "They are my mom’s."
+ },
+ {
+   "cefr": "",
+   "def1": "Він персонаж.",
+   "ipa": "hi ɪz ə ˈkɛrɪktər.",
+   "spell": "He is a character."
+ },
+ {
+   "cefr": "",
+   "def1": "персонаж фільму",
+   "ipa": "ə ˈmuvi ˈkɛrɪktər",
+   "spell": "a movie character"
+ },
+ {
+   "cefr": "",
+   "def1": "Це моїх синів.",
+   "ipa": "ðiz ɑr maɪ sɑnz.",
+   "spell": "These are my sons’."
+ },
+ {
+   "cefr": "",
+   "def1": "мої сидіння чорні",
+   "ipa": "maɪ sits ɑr blæk",
+   "spell": "my seats are black"
+ },
+ {
+   "cefr": "",
+   "def1": "скласти речення",
+   "ipa": "tu meɪk ə ˈsɛntəns",
+   "spell": "to make a sentence"
+ },
+ {
+   "cefr": "",
+   "def1": "Я залишився вдома.",
+   "ipa": "aɪ steɪd æt hoʊm.",
+   "spell": "I stayed at home."
+ },
+ {
+   "cefr": "",
+   "def1": "яка різниця?",
+   "ipa": "wʌts ðə ˈdɪfərəns?",
+   "spell": "what's the difference?"
+ },
+ {
+   "cefr": "",
+   "def1": "Вони мого друга.",
+   "ipa": "ðeɪ ɑr maɪ frɛndz.",
+   "spell": "They are my friend’s."
+ },
+ {
+   "cefr": "",
+   "def1": "моя футболка чорна",
+   "ipa": "maɪ ti-ʃɜrt ɪz blæk",
+   "spell": "my T-shirt is black"
+ },
+ {
+   "cefr": "",
+   "def1": "Вони мого брата.",
+   "ipa": "ðeɪ ɑr maɪ ˈbrʌðərz.",
+   "spell": "They are my brother’s."
+ },
+ {
+   "cefr": "",
+   "def1": "Вони моїх братів.",
+   "ipa": "ðeɪ ɑr maɪ ˈbrʌðərz.",
+   "spell": "They are my brothers’."
+ },
+ {
+   "cefr": "",
+   "def1": "спочатку прочитай імена",
+   "ipa": "fɜrst rid ðə neɪmz",
+   "spell": "first read the names"
+ },
+ {
+   "cefr": "",
+   "def1": "як пройшли вихідні?",
+   "ipa": "haʊ wʌz jʊər ˈwiˌkɛnd?",
+   "spell": "How was your weekend?"
+ },
+ {
+   "cefr": "",
+   "def1": "Дякую, це з Іспанії!",
+   "ipa": "θæŋks, ɪts frʌm speɪn!",
+   "spell": "Thanks, it’s from Spain!"
+ },
+ {
+   "cefr": "",
+   "def1": "які кольори ти знаєш?",
+   "ipa": "wɑt ˈkʌlərz du ju noʊ?",
+   "spell": "what colors do you know?"
+ },
+ {
+   "cefr": "",
+   "def1": "Дякую, це з Америки.",
+   "ipa": "θæŋks, ɪts frʌm əˈmɛrəkə.",
+   "spell": "Thanks, it’s from America."
+ },
+ {
+   "cefr": "",
+   "def1": "розкажи мені про свою машину",
+   "ipa": "tɛl mi əˈbaʊt jʊər kɑr",
+   "spell": "tell me about your car"
+ },
+ {
+   "cefr": "",
+   "def1": "щоб зробити вам комплімент",
+   "ipa": "tu peɪ ju ə ˈkɑmpləmənt",
+   "spell": "to pay you a compliment"
+ },
+ {
+   "cefr": "",
+   "def1": "Номер один - Містер Бін.",
+   "ipa": "ˈnʌmbər wʌn ɪz ˈmɪstər. bin.",
+   "spell": "Number one is Mr. Bean."
+ },
+ {
+   "cefr": "",
+   "def1": "Він персонаж чи актор?",
+   "ipa": "ɪz hi ə ˈkɛrɪktər ɔr ən ˈæktər?",
+   "spell": "Is he a character or an actor?"
+ },
+ {
+   "cefr": "",
+   "def1": "Дякую, вони моїй дівчині.",
+   "ipa": "θæŋks, ðeɪ ɑr maɪ ˈɡɜrlˌfrɛndz.",
+   "spell": "Thanks, they are my girlfriend’s."
+ },
+ {
+   "cefr": "",
+   "def1": "Номер третє - Деніел Редкліфф.",
+   "ipa": "ˈnʌmbər θri ɪz ˈdænjəl ˈrædklɪf.",
+   "spell": "Number three is Daniel Radcliffe."
+ },
+ {
+   "cefr": "",
+   "def1": "якого кольору сидіння у вашій машині?",
+   "ipa": "wɑt ˈkʌlər ɑr ðə sits ɪn jʊər kɑr",
+   "spell": "what color are the seats in your car?"
+ },
+ {
+   "cefr": "",
+   "def1": "Хороший автомобіль! Дякую, це з Японії.",
+   "ipa": "naɪs kɑr! θæŋks, ɪt ɪz frʌm ʤəˈpæn.",
+   "spell": "Nice car! Thanks, it is from Japan."
+ }
+]
