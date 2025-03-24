@@ -16,9 +16,7 @@ class MS06 extends React.Component {
             "slug": "ms"
         };
 
-
         const wordsFinal = [];
-        const story = [];
 
         for (let [i, word] of words.entries()) {
             i++;
@@ -43,7 +41,7 @@ class MS06 extends React.Component {
                 <section className="words">
                     {wordsFinal}
                 </section>
-
+                <br></br>
                 <Jufra jufra={sentences} />
             </div>
         );
