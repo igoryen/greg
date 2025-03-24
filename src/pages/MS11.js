@@ -3,6 +3,7 @@ import React from "react";
 import Leon from "../components/Leon";
 import words from "../data/ms10.json";
 import sentences from "../data/ms11s.json";
+import Jufra from "../components/Jufra";
 
 class MS06 extends React.Component {
     componentDidMount() {
@@ -36,18 +37,6 @@ class MS06 extends React.Component {
             );
         }
 
-        for (let [i, sentence] of sentences.entries()) {
-            i++;
-            story.push(
-                <div className="sentence" key={i}>
-                    <span className="kanju">{i}</span>
-                    <p className="glico">{sentence.glico}</p>
-                    <p className="fanva">{sentence.fanva}</p>
-                </div>
-            );
-        }
-
-
         return (
             <div>
                 <Leon lesson={lesson} />
@@ -55,9 +44,7 @@ class MS06 extends React.Component {
                     {wordsFinal}
                 </section>
 
-                <section className="song">
-                    {story}
-                </section>
+                <Jufra jufra={sentences} />
             </div>
         );
     }
