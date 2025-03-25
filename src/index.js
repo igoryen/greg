@@ -12,6 +12,7 @@ import AB06 from "./pages/AB06";
 import AB07 from "./pages/AB07";
 import AB08 from "./pages/AB08";
 import AB09 from "./pages/AB09";
+import AB10 from "./pages/AB10";
 import AG from "./pages/AG";
 import AG08 from "./pages/AG08";
 import AS from "./pages/AS";
@@ -80,6 +81,7 @@ export default function App() {
           <Route path="ab07" element={<AB07 />} />
           <Route path="ab08" element={<AB08 />} />
           <Route path="ab09" element={<AB09 />} />
+          <Route path="ab10" element={<AB10 />} />
           <Route path="ag" element={<AG />} />
           <Route path="ag08" element={<AG08 />} />
           <Route path="as" element={<AS />} />
