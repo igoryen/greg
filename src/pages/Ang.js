@@ -2,10 +2,6 @@ import "../styles/fc.scss";
 import React from "react";
 
 class Ang extends React.Component {
-    // componentDidMount() {
-    //     // window.$(".multiple-skils").select2();
-    //     window.$(".word").flip({ speed: 200 });
-    // }
     render() {
         return (
             <div>
@@ -14,6 +10,7 @@ class Ang extends React.Component {
                 <section className="tom">
                     <p><a href="/ab" rel="noopener noreferrer">ab</a></p>
                     <p><a href="/ag" rel="noopener noreferrer">ag</a></p>
+                    <p><a href="/as" rel="noopener noreferrer">as</a></p>
                     <p><a href="/im" rel="noopener noreferrer">im</a></p>
                     <p><a href="/ip" rel="noopener noreferrer">ip</a></p>
                     <p><a href="/ml" rel="noopener noreferrer">ml</a></p>
@@ -22,14 +19,9 @@ class Ang extends React.Component {
                     <p><a href="/ss" rel="noopener noreferrer">ss</a></p>
                     <p><a href="/vk" rel="noopener noreferrer">vk</a></p>
                 </section>
-
             </div>
         );
     }
-
-
 }
-
-
 
 export default Ang;
