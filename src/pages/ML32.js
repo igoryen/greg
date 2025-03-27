@@ -1,7 +1,7 @@
 import "../styles/fc.scss";
 import React from "react";
 import Leon from "../components/Leon";
-import Word from "../components/Word";
+import Mathilda from "../components/Mathilda";
 import words from "../data/ml32.json";
 
 class ML32 extends React.Component {
@@ -16,7 +16,7 @@ class ML32 extends React.Component {
         return (
             <div>
                 <Leon lesson={lesson} />
-                <Word words={words} />
+                <Mathilda words={words} />
             </div>
         );
     }
