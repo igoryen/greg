@@ -1,18 +1,18 @@
-function Paloma({ paloma, sound }) {
+function Paloma({ bag, sound, lang }) {
 
     const bucket = [];
-    for (let [i, sentence] of paloma.entries()) {
+    for (let [i, sentence] of bag.entries()) {
         i++;
 
-        let index = sentence.ipa_uenba.indexOf(sound);
-        let firstPart = sentence.ipa_uenba.substr(0, index);
-        let _sound = sentence.ipa_uenba.charAt(index);
-        let lastPart = sentence.ipa_uenba.substr(index + 1);
+        let index = sentence.ipa.indexOf(sound);
+        let firstPart = sentence.ipa.substr(0, index);
+        let _sound = sentence.ipa.charAt(index);
+        let lastPart = sentence.ipa.substr(index + 1);
 
         bucket.push(
             <div className="word_uenba" key={i}>
                 <div className="jim">
-                    <div className="rus_uenba"> {sentence.rus_uenba} </div>
+                    <div className="rus_uenba"> {sentence[lang]} </div>
                     <div className="cefr_uenba"> {sentence.cefr_uenba} </div>
                 </div>
                 <div className="tim">
@@ -24,6 +24,7 @@ function Paloma({ paloma, sound }) {
     }
     return (
         <section className="xxx">
+            <pre>{lang}</pre>
             {bucket}
         </section>
     );
