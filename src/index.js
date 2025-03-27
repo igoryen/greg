@@ -42,6 +42,7 @@ import ML26 from "./pages/ML26";
 import ML27 from "./pages/ML27";
 import ML29 from "./pages/ML29";
 import ML30 from "./pages/ML30";
+import ML32 from "./pages/ML32";
 import MS from "./pages/MS";
 import MS06 from "./pages/MS06";
 import MS09 from "./pages/MS09";
@@ -109,6 +110,7 @@ export default function App() {
           <Route path="ml27" element={<ML27 />} />
           <Route path="ml29" element={<ML29 />} />
           <Route path="ml30" element={<ML30 />} />
+          <Route path="ml32" element={<ML32 />} />
           <Route path="ms" element={<MS />} />
           <Route path="ms06" element={<MS06 />} />
           <Route path="ms09" element={<MS09 />} />
