@@ -1,14 +1,13 @@
 import "../styles/fc.scss";
 import React from "react";
 import Leon from "../components/Leon";
-import words from "../data/ms10.json";
-import sentences from "../data/ms11s.json";
-import Jufra from "../components/Jufra";
+import Mathilda from "../components/Mathilda";
+import words from "../data/ms11.json";
+// import sentences from "../data/ms11s.json";
+// import Jufra from "../components/Jufra";
 
-class MS06 extends React.Component {
-    componentDidMount() {
-        window.$(".word").flip({ speed: 200 });
-    }
+class MS11 extends React.Component {
+
     render() {
         const lesson = {
             "student": "Mykola",
@@ -16,36 +15,14 @@ class MS06 extends React.Component {
             "slug": "ms"
         };
 
-        const wordsFinal = [];
-
-        for (let [i, word] of words.entries()) {
-            i++;
-            wordsFinal.push(
-                <div className="word" key={i}>
-                    <div className="front part part1">
-                        <p>{i}</p>
-                        <div className="rus">{word.def1}</div>
-                        <div className="cefr">{word.cefr}</div>
-                    </div>
-                    <div className="back part part2">
-                        <div className="ipa">{word.ipa}</div>
-                        <div className="spell">{word.spell}</div>
-                    </div>
-                </div>
-            );
-        }
-
         return (
             <div>
                 <Leon lesson={lesson} />
-                <section className="words">
-                    {wordsFinal}
-                </section>
-                <br></br>
-                <Jufra jufra={sentences} />
+                <Mathilda words={words} />
+                {/* <Jufra jufra={sentences} /> */}
             </div>
         );
     }
 }
 
-export default MS06;
+export default MS11;

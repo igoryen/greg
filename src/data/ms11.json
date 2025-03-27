@@ -1,0 +1,206 @@
+[
+ {
+   "cefr": "",
+   "def1": "базовый, центральный",
+   "ipa": "kɔr",
+   "spell": "core"
+ },
+ {
+   "cefr": "",
+   "def1": "бо́льшая часть, большинство",
+   "ipa": "məˈʤɔrəti",
+   "spell": "majority"
+ },
+ {
+   "cefr": "",
+   "def1": "гибкий",
+   "ipa": "ˈflɛksəbəl",
+   "spell": "flexible"
+ },
+ {
+   "cefr": "",
+   "def1": "гибкость",
+   "ipa": "ˌflɛksəˈbɪləti",
+   "spell": "flexibility"
+ },
+ {
+   "cefr": "",
+   "def1": "городской",
+   "ipa": "ˈɜrbən",
+   "spell": "urban"
+ },
+ {
+   "cefr": "",
+   "def1": "грамотность",
+   "ipa": "ˈlɪtərəsi",
+   "spell": "literacy"
+ },
+ {
+   "cefr": "",
+   "def1": "грамотный",
+   "ipa": "ˈlɪtərət",
+   "spell": "literate"
+ },
+ {
+   "cefr": "",
+   "def1": "зелёное пространство",
+   "ipa": "ə ɡrin speɪs",
+   "spell": "a green space"
+ },
+ {
+   "cefr": "",
+   "def1": "квартал",
+   "ipa": "ə ˈkwɔrtər",
+   "spell": "a quarter"
+ },
+ {
+   "cefr": "",
+   "def1": "начиная",
+   "ipa": "ˈstɑrtɪŋ",
+   "spell": "starting"
+ },
+ {
+   "cefr": "",
+   "def1": "облегчить",
+   "ipa": "tu fəˈsɪləˌteɪt",
+   "spell": "to facilitate"
+ },
+ {
+   "cefr": "",
+   "def1": "обратная связь",
+   "ipa": "ˈfidˌbæk",
+   "spell": "feedback"
+ },
+ {
+   "cefr": "",
+   "def1": "одновременно",
+   "ipa": "ˌsaɪməlˈteɪniəsli",
+   "spell": "simultaneously"
+ },
+ {
+   "cefr": "",
+   "def1": "одновременный",
+   "ipa": "ˌsaɪməlˈteɪniəs",
+   "spell": "simultaneous"
+ },
+ {
+   "cefr": "",
+   "def1": "ориентированный на высокие технологии",
+   "ipa": "tɛk-ˈdrɪvən",
+   "spell": "tech-driven"
+ },
+ {
+   "cefr": "",
+   "def1": "остающийся",
+   "ipa": "rɪˈmeɪnɪŋ",
+   "spell": "remaining"
+ },
+ {
+   "cefr": "",
+   "def1": "охладить",
+   "ipa": "tu kul",
+   "spell": "to cool"
+ },
+ {
+   "cefr": "",
+   "def1": "повлиять, затронуть",
+   "ipa": "tu əˈfɛkt",
+   "spell": "to affect"
+ },
+ {
+   "cefr": "",
+   "def1": "позволяя; позволяющий",
+   "ipa": "pərˈmɪtɪŋ",
+   "spell": "permitting"
+ },
+ {
+   "cefr": "",
+   "def1": "присутствие",
+   "ipa": "ˈprɛzəns",
+   "spell": "presence"
+ },
+ {
+   "cefr": "",
+   "def1": "проинструктировать, приказать",
+   "ipa": "tu ɪnˈstrʌkt",
+   "spell": "to instruct"
+ },
+ {
+   "cefr": "",
+   "def1": "рекомендации",
+   "ipa": "ˈɡaɪˌdlaɪnz",
+   "spell": "guidelines"
+ },
+ {
+   "cefr": "",
+   "def1": "сделать обязательным",
+   "ipa": "tu ˈmænˌdeɪt",
+   "spell": "to mandate"
+ },
+ {
+   "cefr": "",
+   "def1": "сократить",
+   "ipa": "tu rəˈdus",
+   "spell": "to reduce"
+ },
+ {
+   "cefr": "",
+   "def1": "строгий",
+   "ipa": "strɪkt",
+   "spell": "strict"
+ },
+ {
+   "cefr": "",
+   "def1": "удалённый, отдалённый",
+   "ipa": "rɪˈmoʊt",
+   "spell": "remote"
+ },
+ {
+   "cefr": "",
+   "def1": "усилить, увеличить",
+   "ipa": "tu ɛnˈhæns",
+   "spell": "to enhance"
+ },
+ {
+   "cefr": "",
+   "def1": "устранить, уничтожить",
+   "ipa": "tu ɪˈlɪməˌneɪt",
+   "spell": "to eliminate"
+ },
+ {
+   "cefr": "",
+   "def1": "ухудшить(ся)",
+   "ipa": "tu ˈwɜrsən",
+   "spell": "to worsen"
+ },
+ {
+   "cefr": "",
+   "def1": "учебная программа",
+   "ipa": "kəˈrɪkjələm",
+   "spell": "curriculum"
+ },
+ {
+   "cefr": "",
+   "def1": "цифровая грамотность",
+   "ipa": "ˈdɪʤətəl ˈlɪtərəsi",
+   "spell": "digital literacy"
+ },
+ {
+   "cefr": "",
+   "def1": "цифровой",
+   "ipa": "ˈdɪʤətəl",
+   "spell": "digital"
+ },
+ {
+   "cefr": "",
+   "def1": "эффект \"теплового острова\"",
+   "ipa": "ðə hit ˈaɪlənd ɪˈfɛkt",
+   "spell": "the heat island effect"
+ },
+ {
+   "cefr": "",
+   "def1": "я один, сам по себе",
+   "ipa": "aɪm ɑn maɪ oʊn",
+   "spell": "I'm on my own"
+ }
+]
