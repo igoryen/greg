@@ -13,11 +13,11 @@ function Paloma({ bag, sound, lang }) {
             <div className="word_uenba" key={i}>
                 <div className="jim">
                     <div className="rus_uenba"> {sentence[lang]} </div>
-                    <div className="cefr_uenba"> {sentence.cefr_uenba} </div>
+                    <div className="cefr_uenba"> {sentence.cefr} </div>
                 </div>
                 <div className="tim">
                     <div className="ipa_uenba">{firstPart}<span className="vowel_uenba">{_sound}</span>{lastPart}</div>
-                    <div className="spell_uenba"> {sentence.spell_uenba} </div>
+                    <div className="spell_uenba"> {sentence.spell} </div>
                 </div>
             </div>
         );
