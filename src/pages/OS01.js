@@ -1,27 +1,25 @@
 import "../styles/fc.scss";
 import React from "react";
 import Leon from "../components/Leon";
-import Word from "../components/Word";
+import Mathilda from "../components/Mathilda";
 import words from "../data/as01.json";
 
-class IP10 extends React.Component {
-    componentDidMount() {
-        window.$(".word").flip({ speed: 200 });
-    }
+class OS01 extends React.Component {
+
     render() {
         const lesson = {
             "student": "Alex",
             "number": 1,
-            "slug": "as"
+            "slug": "os"
         };
 
         return (
             <div>
                 <Leon lesson={lesson} />
-                <Word words={words} />
+                <Mathilda words={words} />
             </div>
         );
     }
 }
 
-export default IP10;
+export default OS01;
