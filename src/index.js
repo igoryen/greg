@@ -66,6 +66,7 @@ import SS12 from "./pages/SS12";
 import VK from "./pages/VK";
 import VK05 from "./pages/VK05";
 import Voksa from "./pages/Voksa";
+import Uenba from "./pages/Uenba";
 import Tim from "./pages/Tim";
 import NoPage from "./pages/NoPage";
 
@@ -136,6 +137,8 @@ export default function App() {
           <Route path="bob" element={<Bob />} />
           <Route path="jaw" element={<Jaw />} />
           <Route path="leo" element={<Leo />} />
+
+          <Route path="uenba" element={<Uenba />} />
           <Route path="tim" element={<Tim />} />
           <Route path="dan" element={<Dan />} />
           <Route path="sam" element={<Sam />} />

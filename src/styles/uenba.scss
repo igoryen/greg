@@ -1,0 +1,45 @@
+.uenba {
+    .word_uenba {
+        align-items: center;
+        background-color: #fff;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 10px;
+        padding: 10px;
+
+    }
+
+    /*.word_uenba > div { flex: 1 0 50%;}*/
+    .word_uenba>div:first-child {
+        flex: 0 1 100%;
+    }
+
+    .rus_uenba {
+        color: grey;
+        flex-grow: 3;
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: medium;
+    }
+
+    .spell_uenba {
+        font-family: "Playwrite DE Grund Guides", cursive;
+        font-size: xxx-large;
+        font-style: normal;
+        font-weight: 400;
+        color: royalblue;
+    }
+
+    .ipa_uenba {
+        color: #333;
+        font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: xxx-large;
+    }
+
+    .vowel_uenba {
+        color: forestgreen;
+    }
+}
