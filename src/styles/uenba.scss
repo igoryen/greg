@@ -1,13 +1,15 @@
 .uenba {
+    width: 100%;
+
     .word_uenba {
-        align-items: center;
+        // align-items: center;
         background-color: #fff;
         border-radius: 5px;
         border: 1px solid #ddd;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: wrap;
-        justify-content: space-between;
+        // justify-content: space-between;
         margin: 10px;
         padding: 10px;
 
@@ -18,7 +20,8 @@
         flex: 0 1 100%;
     }
 
-    .rus_uenba {
+    .rus_uenba,
+    .def_1 {
         color: grey;
         flex-grow: 3;
         font-family: Verdana, Geneva, sans-serif;
@@ -40,6 +43,24 @@
     }
 
     .vowel_uenba {
-        color: forestgreen;
+        // color: forestgreen;
+        color: crimson;
+        text-shadow: 1px 1px 2px crimson;
+    }
+
+    .cefr_uenba {
+        /* display: none; */
+        color: gray;
+    }
+
+    .jim,
+    .tim {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .spell,
+    .ipa {
+        font-size: xx-large;
     }
 }

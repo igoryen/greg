@@ -1,0 +1,653 @@
+[
+  {
+    "rus_uenba": "план",
+    "ipa_uenba": "pʰlæn",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑐𐑤𐑨𐑯",
+    "spell_uenba": "plan"
+  },
+  {
+    "rus_uenba": "рослина",
+    "ipa_uenba": "pʰlænt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑐𐑤𐑨𐑯𐑑",
+    "spell_uenba": "plant"
+  },
+  {
+    "rus_uenba": "пакунок",
+    "ipa_uenba": "pʰæk",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑐𐑨𐑒",
+    "spell_uenba": "pack"
+  },
+  {
+    "rus_uenba": "стежка",
+    "ipa_uenba": "pʰæθ",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑐𐑨𐑔",
+    "spell_uenba": "path"
+  },
+  {
+    "rus_uenba": "проходити",
+    "ipa_uenba": "pʰæs",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑐𐑨𐑕",
+    "spell_uenba": "pass"
+  },
+  {
+    "rus_uenba": "минуле",
+    "ipa_uenba": "pʰæst",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑐𐑨𐑕𐑑",
+    "spell_uenba": "past"
+  },
+  {
+    "rus_uenba": "латка",
+    "ipa_uenba": "pʰæʧ",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑐𐑨𐑗",
+    "spell_uenba": "patch"
+  },
+  {
+    "rus_uenba": "каструля",
+    "ipa_uenba": "pʰæn",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑐𐑨𐑯",
+    "spell_uenba": "pan"
+  },
+  {
+    "rus_uenba": "штани",
+    "ipa_uenba": "pʰænts",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑐𐑨𐑯𐑑𐑕",
+    "spell_uenba": "pants"
+  },
+  {
+    "rus_uenba": "кран",
+    "ipa_uenba": "tʰæp",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑑𐑨𐑐",
+    "spell_uenba": "tap"
+  },
+  {
+    "rus_uenba": "податок",
+    "ipa_uenba": "tʰæks",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑑𐑨𐑒𐑕",
+    "spell_uenba": "tax"
+  },
+  {
+    "rus_uenba": "танк",
+    "ipa_uenba": "tʰæŋk",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑑𐑨𐑙𐑒",
+    "spell_uenba": "tank"
+  },
+  {
+    "rus_uenba": "ярлик",
+    "ipa_uenba": "tʰæɡ",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑑𐑨𐑜",
+    "spell_uenba": "tag"
+  },
+  {
+    "rus_uenba": "пастка",
+    "ipa_uenba": "tʰɹæp",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑑𐑮𐑨𐑐",
+    "spell_uenba": "trap"
+  },
+  {
+    "rus_uenba": "трек",
+    "ipa_uenba": "tʰɹæk",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑑𐑮𐑨𐑒",
+    "spell_uenba": "track"
+  },
+  {
+    "rus_uenba": "клас",
+    "ipa_uenba": "kʰlæs",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑒𐑤𐑨𐑕",
+    "spell_uenba": "class"
+  },
+  {
+    "rus_uenba": "кепка",
+    "ipa_uenba": "kʰæp",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑒𐑨𐑐",
+    "spell_uenba": "cap"
+  },
+  {
+    "rus_uenba": "кіт",
+    "ipa_uenba": "kʰæt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑒𐑨𐑑",
+    "spell_uenba": "cat"
+  },
+  {
+    "rus_uenba": "акторський склад",
+    "ipa_uenba": "kʰæst",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑒𐑨𐑕𐑑",
+    "spell_uenba": "cast"
+  },
+  {
+    "rus_uenba": "ловити",
+    "ipa_uenba": "kʰæʧ",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑒𐑨𐑗",
+    "spell_uenba": "catch"
+  },
+  {
+    "rus_uenba": "банка",
+    "ipa_uenba": "kʰæn",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑒𐑨𐑯",
+    "spell_uenba": "can"
+  },
+  {
+    "rus_uenba": "тріщина",
+    "ipa_uenba": "kʰɹæk",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑒𐑮𐑨𐑒",
+    "spell_uenba": "crack"
+  },
+  {
+    "rus_uenba": "ремесло",
+    "ipa_uenba": "kʰɹæft",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑒𐑮𐑨𐑓𐑑",
+    "spell_uenba": "craft"
+  },
+  {
+    "rus_uenba": "аварія",
+    "ipa_uenba": "kʰɹæʃ",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑒𐑮𐑨𐑖",
+    "spell_uenba": "crash"
+  },
+  {
+    "rus_uenba": "спалах",
+    "ipa_uenba": "flæʃ",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑓𐑤𐑨𐑖",
+    "spell_uenba": "flash"
+  },
+  {
+    "rus_uenba": "прапор",
+    "ipa_uenba": "flæɡ",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑓𐑤𐑨𐑜",
+    "spell_uenba": "flag"
+  },
+  {
+    "rus_uenba": "жир",
+    "ipa_uenba": "fæt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑓𐑨𐑑",
+    "spell_uenba": "fat"
+  },
+  {
+    "rus_uenba": "факт",
+    "ipa_uenba": "fækt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑓𐑨𐑒𐑑",
+    "spell_uenba": "fact"
+  },
+  {
+    "rus_uenba": "швидкий",
+    "ipa_uenba": "fæst",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑓𐑨𐑕𐑑",
+    "spell_uenba": "fast"
+  },
+  {
+    "rus_uenba": "вентилятор",
+    "ipa_uenba": "fæn",
+    "cefr_uenba": "A2 (Ox3K)",
+    "shavian": "𐑓𐑨𐑯",
+    "spell_uenba": "fan"
+  },
+  {
+    "rus_uenba": "дякувати",
+    "ipa_uenba": "θæŋk",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑔𐑨𐑙𐑒",
+    "spell_uenba": "thank"
+  },
+  {
+    "rus_uenba": "дякую",
+    "ipa_uenba": "θæŋks",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑔𐑨𐑙𐑒𐑕",
+    "spell_uenba": "thanks"
+  },
+  {
+    "rus_uenba": "персонал",
+    "ipa_uenba": "stæf",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑕𐑑𐑨𐑓",
+    "spell_uenba": "staff"
+  },
+  {
+    "rus_uenba": "позиція",
+    "ipa_uenba": "stæns",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑕𐑑𐑨𐑯𐑕",
+    "spell_uenba": "stance"
+  },
+  {
+    "rus_uenba": "стояти",
+    "ipa_uenba": "stænd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑕𐑑𐑨𐑯𐑛",
+    "spell_uenba": "stand"
+  },
+  {
+    "rus_uenba": "сканувати",
+    "ipa_uenba": "skæn",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑕𐑒𐑨𐑯",
+    "spell_uenba": "scan"
+  },
+  {
+    "rus_uenba": "подряпина",
+    "ipa_uenba": "skɹæʧ",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑕𐑒𐑮𐑨𐑗",
+    "spell_uenba": "scratch"
+  },
+  {
+    "rus_uenba": "сумний",
+    "ipa_uenba": "sæd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑕𐑨𐑛",
+    "spell_uenba": "sad"
+  },
+  {
+    "rus_uenba": "пісок",
+    "ipa_uenba": "sænd",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑕𐑨𐑯𐑛",
+    "spell_uenba": "sand"
+  },
+  {
+    "rus_uenba": "матиму",
+    "ipa_uenba": "ʃæl",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑖𐑨𐑤",
+    "spell_uenba": "shall"
+  },
+  {
+    "rus_uenba": "чорний",
+    "ipa_uenba": "blæk",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑚𐑤𐑨𐑒",
+    "spell_uenba": "black"
+  },
+  {
+    "rus_uenba": "кажан",
+    "ipa_uenba": "bæt",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑚𐑨𐑑",
+    "spell_uenba": "bat"
+  },
+  {
+    "rus_uenba": "спина",
+    "ipa_uenba": "bæk",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑚𐑨𐑒",
+    "spell_uenba": "back"
+  },
+  {
+    "rus_uenba": "спина",
+    "ipa_uenba": "bæk",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑚𐑨𐑒",
+    "spell_uenba": "back"
+  },
+  {
+    "rus_uenba": "ванна",
+    "ipa_uenba": "bæθ",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑚𐑨𐑔",
+    "spell_uenba": "bath"
+  },
+  {
+    "rus_uenba": "банк",
+    "ipa_uenba": "bæŋk",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑚𐑨𐑙𐑒 (𐑥𐑳𐑯𐑦)",
+    "spell_uenba": "bank"
+  },
+  {
+    "rus_uenba": "поганий",
+    "ipa_uenba": "bæd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑚𐑨𐑛",
+    "spell_uenba": "bad"
+  },
+  {
+    "rus_uenba": "сумка",
+    "ipa_uenba": "bæɡ",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑚𐑨𐑜",
+    "spell_uenba": "bag"
+  },
+  {
+    "rus_uenba": "значок",
+    "ipa_uenba": "bæʤ",
+    "cefr_uenba": "B2 (Ox5K)",
+    "shavian": "𐑚𐑨𐑡",
+    "spell_uenba": "badge"
+  },
+  {
+    "rus_uenba": "заборона",
+    "ipa_uenba": "bæn",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑚𐑨𐑯",
+    "spell_uenba": "ban"
+  },
+  {
+    "rus_uenba": "група",
+    "ipa_uenba": "bænd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑚𐑨𐑯𐑛",
+    "spell_uenba": "band"
+  },
+  {
+    "rus_uenba": "гілка",
+    "ipa_uenba": "bɹænʧ",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑚𐑮𐑨𐑯𐑗",
+    "spell_uenba": "branch"
+  },
+  {
+    "rus_uenba": "бренд",
+    "ipa_uenba": "bɹænd",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑚𐑮𐑨𐑯𐑛",
+    "spell_uenba": "brand"
+  },
+  {
+    "rus_uenba": "тато",
+    "ipa_uenba": "dæd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑛𐑨𐑛",
+    "spell_uenba": "dad"
+  },
+  {
+    "rus_uenba": "танець",
+    "ipa_uenba": "dæns",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑛𐑨𐑯𐑕",
+    "spell_uenba": "dance"
+  },
+  {
+    "rus_uenba": "танець",
+    "ipa_uenba": "dæns",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑛𐑨𐑯𐑕",
+    "spell_uenba": "dance"
+  },
+  {
+    "rus_uenba": "чернетка",
+    "ipa_uenba": "dɹæft",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑛𐑮𐑨𐑓𐑑",
+    "spell_uenba": "draft"
+  },
+  {
+    "rus_uenba": "тягнути",
+    "ipa_uenba": "dɹæɡ",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑛𐑮𐑨𐑜",
+    "spell_uenba": "drag"
+  },
+  {
+    "rus_uenba": "скло",
+    "ipa_uenba": "ɡlæs",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑜𐑤𐑨𐑕",
+    "spell_uenba": "glass"
+  },
+  {
+    "rus_uenba": "радий",
+    "ipa_uenba": "ɡlæd",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑜𐑤𐑨𐑛",
+    "spell_uenba": "glad"
+  },
+  {
+    "rus_uenba": "банда",
+    "ipa_uenba": "ɡæŋ",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑜𐑨𐑙",
+    "spell_uenba": "gang"
+  },
+  {
+    "rus_uenba": "хапати",
+    "ipa_uenba": "ɡɹæb",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑜𐑮𐑨𐑚",
+    "spell_uenba": "grab"
+  },
+  {
+    "rus_uenba": "грант",
+    "ipa_uenba": "ɡɹænt",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑜𐑮𐑨𐑯𐑑",
+    "spell_uenba": "grant"
+  },
+  {
+    "rus_uenba": "великий",
+    "ipa_uenba": "ɡɹænd",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑜𐑮𐑨𐑯𐑛",
+    "spell_uenba": "grand"
+  },
+  {
+    "rus_uenba": "величезний",
+    "ipa_uenba": "væst",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑝𐑨𐑕𐑑",
+    "spell_uenba": "vast"
+  },
+  {
+    "rus_uenba": "фургон",
+    "ipa_uenba": "væn",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑝𐑨𐑯",
+    "spell_uenba": "van"
+  },
+  {
+    "rus_uenba": "той",
+    "ipa_uenba": "ðæt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑞𐑨𐑑",
+    "spell_uenba": "that"
+  },
+  {
+    "rus_uenba": "той",
+    "ipa_uenba": "ðæt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑞𐑨𐑑",
+    "spell_uenba": "that"
+  },
+  {
+    "rus_uenba": "той",
+    "ipa_uenba": "ðæt",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑞𐑨𐑑",
+    "spell_uenba": "that"
+  },
+  {
+    "rus_uenba": "ніж",
+    "ipa_uenba": "ðæn",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑞𐑨𐑯",
+    "spell_uenba": "than"
+  },
+  {
+    "rus_uenba": "капелюх",
+    "ipa_uenba": "hæt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑣𐑨𐑑",
+    "spell_uenba": "hat"
+  },
+  {
+    "rus_uenba": "половина",
+    "ipa_uenba": "hæf",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑣𐑨𐑓",
+    "spell_uenba": "half"
+  },
+  {
+    "rus_uenba": "висити",
+    "ipa_uenba": "hæŋ",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑣𐑨𐑙",
+    "spell_uenba": "hang"
+  },
+  {
+    "rus_uenba": "мати",
+    "ipa_uenba": "hæv",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑣𐑨𐑝",
+    "spell_uenba": "have"
+  },
+  {
+    "rus_uenba": "рука",
+    "ipa_uenba": "hænd",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑣𐑨𐑯𐑛",
+    "spell_uenba": "hand"
+  },
+  {
+    "rus_uenba": "рука",
+    "ipa_uenba": "hænd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑣𐑨𐑯𐑛",
+    "spell_uenba": "hand"
+  },
+  {
+    "rus_uenba": "нестача",
+    "ipa_uenba": "læk",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑤𐑨𐑒",
+    "spell_uenba": "lack"
+  },
+  {
+    "rus_uenba": "сміятися",
+    "ipa_uenba": "læf",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑤𐑨𐑓",
+    "spell_uenba": "laugh"
+  },
+  {
+    "rus_uenba": "останній",
+    "ipa_uenba": "læst",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑤𐑨𐑕𐑑 (1) (𐑓𐑲𐑯𐑩𐑤)",
+    "spell_uenba": "last"
+  },
+  {
+    "rus_uenba": "земля",
+    "ipa_uenba": "lænd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑤𐑨𐑯𐑛",
+    "spell_uenba": "land"
+  },
+  {
+    "rus_uenba": "карта",
+    "ipa_uenba": "mæp",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑥𐑨𐑐",
+    "spell_uenba": "map"
+  },
+  {
+    "rus_uenba": "карта",
+    "ipa_uenba": "mæp",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑥𐑨𐑐",
+    "spell_uenba": "map"
+  },
+  {
+    "rus_uenba": "маса",
+    "ipa_uenba": "mæs",
+    "cefr_uenba": "B2 (Ox3K)",
+    "shavian": "𐑥𐑨𐑕",
+    "spell_uenba": "mass"
+  },
+  {
+    "rus_uenba": "матч",
+    "ipa_uenba": "mæʧ",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑥𐑨𐑗",
+    "spell_uenba": "match"
+  },
+  {
+    "rus_uenba": "божевільний",
+    "ipa_uenba": "mæd",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑥𐑨𐑛",
+    "spell_uenba": "mad"
+  },
+  {
+    "rus_uenba": "чоловік",
+    "ipa_uenba": "mæn",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑥𐑨𐑯",
+    "spell_uenba": "man"
+  },
+  {
+    "rus_uenba": "у",
+    "ipa_uenba": "æt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑨𐑑",
+    "spell_uenba": "at"
+  },
+  {
+    "rus_uenba": "дія",
+    "ipa_uenba": "ækt",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑨𐑒𐑑",
+    "spell_uenba": "act"
+  },
+  {
+    "rus_uenba": "питати",
+    "ipa_uenba": "æsk",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑨𐑕𐑒",
+    "spell_uenba": "ask"
+  },
+  {
+    "rus_uenba": "додавати",
+    "ipa_uenba": "æd",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑨𐑛",
+    "spell_uenba": "add"
+  },
+  {
+    "rus_uenba": "оголошення",
+    "ipa_uenba": "æd",
+    "cefr_uenba": "B1 (Ox3K)",
+    "shavian": "𐑨𐑛",
+    "spell_uenba": "ad"
+  },
+  {
+    "rus_uenba": "як",
+    "ipa_uenba": "æz",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑨𐑟",
+    "spell_uenba": "as"
+  },
+  {
+    "rus_uenba": "мураха",
+    "ipa_uenba": "ænt",
+    "cefr_uenba": "A1 (Ox3K)",
+    "shavian": "𐑨𐑯𐑑",
+    "spell_uenba": "ant"
+  }
+]
