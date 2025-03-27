@@ -1,19 +1,20 @@
-:root {
-    /* --bkgd: #FAF0D9; */
-    /* --side: #d7f9f8; */
-    /* --ipatext: #e30022; */
+$bkgd: #fff6e6;
+$side: #ffddd6;
+$cardno: #efc4d6;
 
-    --bkgd: #fff6e6;
-    --side: #ffddd6;
-    --cardno: #efc4d6;
-    --ipatext: #333;
+// $ipatext: #333;
+// $ipatext: darkred;
+$ipatext: #222;
 
-}
+
+// $spelltext: #333;
+$spelltext: darkblue;
+$spelltext: royalblue;
 
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: var(--bkgd);
+    background-color: $bkgd;
     color: #333;
     margin: 0;
     padding: 1rem;
@@ -51,7 +52,7 @@ body {
 
 .part p {
     bottom: 3px;
-    color: var(--cardno);
+    color: $cardno;
     font-size: 3em;
     font-weight: 900;
     left: 5px;
@@ -65,7 +66,7 @@ body {
 }
 
 .part1 {
-    background-color: var(--side);
+    background-color: $side;
 }
 
 
@@ -81,24 +82,24 @@ body {
     font-size: small;
 }
 
-.spell,
-.ipa {
-    font-size: xx-large;
-}
 
 .spell {
 
     /* font-family: "Playwrite DE Grund Guides", cursive; */
     font-family: "Noto Sans", serif;
+    // font-family: Georgia, 'Times New Roman', Times, serif;
+    // font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 
     font-style: normal;
     font-weight: 400;
-    color: royalblue;
+    color: $spelltext;
+
 
 }
 
 .ipa {
-    color: var(--ipatext);
+    color: $ipatext;
     font-family: "Noto Sans", serif;
     font-size: large;
 }
@@ -196,11 +197,11 @@ span.sgn i {
 }
 
 .spell {
-    font-size: x-large;
+    font-size: 20px;
 }
 
 .ipa {
-    font-size: 20px;
+    font-size: x-large;
 }
 
 .tom {
