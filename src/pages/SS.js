@@ -2,16 +2,13 @@ import "../styles/fc.scss";
 import React from "react";
 
 class SS extends React.Component {
-    // componentDidMount() {
-    //     // window.$(".multiple-skils").select2();
-    //     window.$(".word").flip({ speed: 200 });
-    // }
     render() {
         return (
             <div>
                 <h3>Anglofor</h3>
                 <h1>Svetlana</h1>
                 <section className="tom">
+                    <p><a href="/ss14" rel="noopener noreferrer">Lesson 14</a></p>
                     <p><a href="/ss12" rel="noopener noreferrer">Lesson 12</a></p>
                     <p><a href="/ss10" rel="noopener noreferrer">Lesson 10</a></p>
                     <p><a href="/ss08" rel="noopener noreferrer">Lesson 8</a></p>
@@ -26,10 +23,6 @@ class SS extends React.Component {
             </div>
         );
     }
-
-
 }
-
-
 
 export default SS;
