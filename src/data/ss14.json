@@ -1,554 +1,554 @@
 [
- {
-   "cefr": "",
-   "def1": "(неожиданный) поворот",
-   "ipa": "ə twɪst",
-   "spell": "a twist"
- },
- {
-   "cefr": "",
-   "def1": "буханка, батон",
-   "ipa": "loʊf",
-   "spell": "loaf"
- },
- {
-   "cefr": "",
-   "def1": "быть волонтёром",
-   "ipa": "tu ˌvɑlənˈtɪr",
-   "spell": "to volunteer"
- },
- {
-   "cefr": "",
-   "def1": "ведро",
-   "ipa": "ə ˈbʌkət",
-   "spell": "a bucket"
- },
- {
-   "cefr": "",
-   "def1": "волонтёр",
-   "ipa": "ə ˌvɑlənˈtɪr",
-   "spell": "a volunteer"
- },
- {
-   "cefr": "",
-   "def1": "вылепить, сформировать",
-   "ipa": "tu ʃeɪp",
-   "spell": "to shape"
- },
- {
-   "cefr": "",
-   "def1": "глаз",
-   "ipa": "ən aɪ",
-   "spell": "an eye"
- },
- {
-   "cefr": "",
-   "def1": "глазировка",
-   "ipa": "ˈfrɔstɪŋ",
-   "spell": "frosting"
- },
- {
-   "cefr": "",
-   "def1": "говяжий фарш",
-   "ipa": "ɡraʊnd bif",
-   "spell": "ground beef"
- },
- {
-   "cefr": "",
-   "def1": "депо",
-   "ipa": "ˈdipoʊ",
-   "spell": "depot"
- },
- {
-   "cefr": "",
-   "def1": "для того, чтобы не думать об этом",
-   "ipa": "nɑt tu θɪŋk əˈbaʊt ɪt",
-   "spell": "not to think about it"
- },
- {
-   "cefr": "",
-   "def1": "доброта",
-   "ipa": "ˈɡʊdnəs",
-   "spell": "goodness"
- },
- {
-   "cefr": "",
-   "def1": "если честно",
-   "ipa": "ˈfræŋkli",
-   "spell": "frankly"
- },
- {
-   "cefr": "",
-   "def1": "ещё нет ",
-   "ipa": "nɑt jɛt",
-   "spell": "not yet"
- },
- {
-   "cefr": "",
-   "def1": "ждать",
-   "ipa": "tu weɪt",
-   "spell": "to wait"
- },
- {
-   "cefr": "",
-   "def1": "иммигрант",
-   "ipa": "ən ˈɪməɡrənt",
-   "spell": "an immigrant"
- },
- {
-   "cefr": "",
-   "def1": "каждое слово",
-   "ipa": "ˈɛvəri wɜrd",
-   "spell": "every word"
- },
- {
-   "cefr": "",
-   "def1": "календарь",
-   "ipa": "ə ˈkæləndər",
-   "spell": "a calendar"
- },
- {
-   "cefr": "",
-   "def1": "карман",
-   "ipa": "ə ˈpɑkət",
-   "spell": "a pocket"
- },
- {
-   "cefr": "",
-   "def1": "кассовый аппарат",
-   "ipa": "ˈrɛʤɪstər",
-   "spell": "register"
- },
- {
-   "cefr": "",
-   "def1": "кричать",
-   "ipa": "tu ʃaʊt",
-   "spell": "to shout"
- },
- {
-   "cefr": "",
-   "def1": "ломтик",
-   "ipa": "slaɪs",
-   "spell": "slice"
- },
- {
-   "cefr": "",
-   "def1": "люди, которые меня собеседовали",
-   "ipa": "ðə ˈpipəl hu ˈɪntərˌvjud mi",
-   "spell": "the people who interviewed me"
- },
- {
-   "cefr": "",
-   "def1": "меня осенило",
-   "ipa": "ɪt dɔnd ɑn mi",
-   "spell": "it dawned on me"
- },
- {
-   "cefr": "",
-   "def1": "мне отвлечься",
-   "ipa": "tu dɪˈstrækt ˌmaɪˈsɛlf",
-   "spell": "to distract myself"
- },
- {
-   "cefr": "",
-   "def1": "мой сон сбывается",
-   "ipa": "maɪ drim kʌmz tru",
-   "spell": "my dream comes true"
- },
- {
-   "cefr": "",
-   "def1": "моё сердце колотится",
-   "ipa": "maɪ hɑrt ɪz ˈpaʊndɪŋ",
-   "spell": "my heart is pounding"
- },
- {
-   "cefr": "",
-   "def1": "мы ещё не купили x",
-   "ipa": "wi ˈhævənt bɑt ə ɛks jɛt",
-   "spell": "we haven't bought a x yet"
- },
- {
-   "cefr": "",
-   "def1": "мясной хлеб",
-   "ipa": "mit brɛd",
-   "spell": "meat bread"
- },
- {
-   "cefr": "",
-   "def1": "на автобусе",
-   "ipa": "baɪ bʌs",
-   "spell": "by bus"
- },
- {
-   "cefr": "",
-   "def1": "на моей предыдущей работе",
-   "ipa": "æt maɪ ˈpriviəs ʤɑb",
-   "spell": "at my previous job"
- },
- {
-   "cefr": "",
-   "def1": "надпись (на табличке)",
-   "ipa": "ə saɪn",
-   "spell": "a sign"
- },
- {
-   "cefr": "",
-   "def1": "нанять на эту должность",
-   "ipa": "tu ˈhaɪər fɔr ðɪs pəˈzɪʃən",
-   "spell": "to hire for this position"
- },
- {
-   "cefr": "",
-   "def1": "не зацикливайся",
-   "ipa": "doʊnt ˌoʊvərˈθɪŋk",
-   "spell": "don't overthink"
- },
- {
-   "cefr": "",
-   "def1": "но я готов учиться",
-   "ipa": "bʌt aɪm ˈwɪlɪŋ tu lɜrn",
-   "spell": "but I'm willing to learn"
- },
- {
-   "cefr": "",
-   "def1": "номер телефона",
-   "ipa": "ə foʊn ˈnʌmbər",
-   "spell": "a phone number"
- },
- {
-   "cefr": "",
-   "def1": "овощной отдел",
-   "ipa": "ˈproʊdus ˈsɛkʃən",
-   "spell": "produce section"
- },
- {
-   "cefr": "",
-   "def1": "она вчера ходила и (она) уже получила ответ",
-   "ipa": "ʃi wɛnt ˈjɛstərˌdeɪ, ænd (ʃi) hæz rəˈsivd ə rɪˈplaɪ ɔlˈrɛdi",
-   "spell": "she went yesterday, and (she) has received a reply already"
- },
- {
-   "cefr": "",
-   "def1": "она вчера ходила и получила ответ",
-   "ipa": "ʃi wɛnt ænd rəˈsivd ə rɪˈplaɪ ˈjɛstərˌdeɪ",
-   "spell": "she went and received a reply yesterday"
- },
- {
-   "cefr": "",
-   "def1": "она вчера ходила на собеседование и уже получила ответ",
-   "ipa": "ʃi wɛnt fɔr ən ˈɪntərˌvju ˈjɛstərˌdeɪ, ænd ʃi hæz rəˈsivd ə rɪˈplaɪ ɔlˈrɛdi",
-   "spell": "she went for an interview yesterday, and she has received a reply already"
- },
- {
-   "cefr": "",
-   "def1": "она любит меня",
-   "ipa": "ʃi lʌvz mi",
-   "spell": "she loves me"
- },
- {
-   "cefr": "",
-   "def1": "она мне сказала",
-   "ipa": "ʃi sɛd tu mi",
-   "spell": "she said to me"
- },
- {
-   "cefr": "",
-   "def1": "она не прошла на следующий этап",
-   "ipa": "ʃi dɪd nɑt pæs/ɡɛt tu ðə nɛkst ˈlɛvəl",
-   "spell": "she did not pass/get to the next level"
- },
- {
-   "cefr": "",
-   "def1": "она разговаривала",
-   "ipa": "ʃi spoʊk",
-   "spell": "she spoke"
- },
- {
-   "cefr": "",
-   "def1": "она сомневается",
-   "ipa": "ʃi daʊts",
-   "spell": "she doubts"
- },
- {
-   "cefr": "",
-   "def1": "они использовали сложные слова",
-   "ipa": "ðeɪ juzd ˈdɪfəkəlt wɜrdz",
-   "spell": "they used difficult words"
- },
- {
-   "cefr": "",
-   "def1": "они плохо говорят по-английски",
-   "ipa": "ðeɪ doʊnt spik ɡʊd ˈɪŋɡlɪʃ",
-   "spell": "they don't speak good English"
- },
- {
-   "cefr": "",
-   "def1": "отличается от других",
-   "ipa": "ˈdɪfərənt frʌm ði ˈʌðərz",
-   "spell": "different from the others"
- },
- {
-   "cefr": "",
-   "def1": "охранник",
-   "ipa": "ə sɪˈkjʊrəti ɡɑrd",
-   "spell": "a security guard"
- },
- {
-   "cefr": "",
-   "def1": "первое, что я вижу",
-   "ipa": "ðə fɜrst θɪŋ aɪ si",
-   "spell": "the first thing I see"
- },
- {
-   "cefr": "",
-   "def1": "первое, что я делаю",
-   "ipa": "ðə fɜrst θɪŋ aɪ du",
-   "spell": "the first thing I do"
- },
- {
-   "cefr": "",
-   "def1": "перемолотый",
-   "ipa": "ɡraʊnd",
-   "spell": "ground"
- },
- {
-   "cefr": "",
-   "def1": "повод для надежды",
-   "ipa": "ə ˈrizən tu hoʊp",
-   "spell": "a reason to hope"
- },
- {
-   "cefr": "",
-   "def1": "подойти ко мне",
-   "ipa": "tu kʌm ʌp tu mi",
-   "spell": "to come up to me"
- },
- {
-   "cefr": "",
-   "def1": "полировать/шлифовать",
-   "ipa": "tu ˈpɑlɪʃ",
-   "spell": "to polish"
- },
- {
-   "cefr": "",
-   "def1": "положить в мешок, пакет",
-   "ipa": "tu bæɡ",
-   "spell": "to bag"
- },
- {
-   "cefr": "",
-   "def1": "получать",
-   "ipa": "tu rəˈsiv",
-   "spell": "to receive"
- },
- {
-   "cefr": "",
-   "def1": "польский",
-   "ipa": "ˈpɑlɪʃ",
-   "spell": "Polish"
- },
- {
-   "cefr": "",
-   "def1": "притворяться",
-   "ipa": "tu priˈtɛnd",
-   "spell": "to pretend"
- },
- {
-   "cefr": "",
-   "def1": "продукты",
-   "ipa": "ˈɡroʊsəriz",
-   "spell": "groceries"
- },
- {
-   "cefr": "",
-   "def1": "проход между полками",
-   "ipa": "ən aɪl",
-   "spell": "an aisle"
- },
- {
-   "cefr": "",
-   "def1": "сегодняшний день",
-   "ipa": "təˈdeɪ",
-   "spell": "today"
- },
- {
-   "cefr": "",
-   "def1": "складской рабочий",
-   "ipa": "ə stɑk bɔɪ",
-   "spell": "a stock boy"
- },
- {
-   "cefr": "",
-   "def1": "слава богу! ",
-   "ipa": "θæŋk ˈɡʊdnəs!",
-   "spell": "thank goodness!"
- },
- {
-   "cefr": "",
-   "def1": "смотреть на",
-   "ipa": "tu lʊk æt",
-   "spell": "to look at"
- },
- {
-   "cefr": "",
-   "def1": "смотреть на меня",
-   "ipa": "tu lʊk æt mi",
-   "spell": "to look at me"
- },
- {
-   "cefr": "",
-   "def1": "смотреть пристально",
-   "ipa": "tu lʊk hɑrd",
-   "spell": "to look hard"
- },
- {
-   "cefr": "",
-   "def1": "собеседующий",
-   "ipa": "ən ˈɪntərˌvjuər",
-   "spell": "an interviewer"
- },
- {
-   "cefr": "",
-   "def1": "спаржевая капуста",
-   "ipa": "ˈbrɑkəli",
-   "spell": "broccoli"
- },
- {
-   "cefr": "",
-   "def1": "специалист по наполнению полок товарами в магазине",
-   "ipa": "ˈstɑkər",
-   "spell": "stocker"
- },
- {
-   "cefr": "",
-   "def1": "срок реализации",
-   "ipa": "ðə sɛl-baɪ deɪt; bɛst bɪˈfɔr",
-   "spell": "the sell-by date; best before"
- },
- {
-   "cefr": "",
-   "def1": "стенд с товаром",
-   "ipa": "dɪˈspleɪ",
-   "spell": "display"
- },
- {
-   "cefr": "",
-   "def1": "стенд с цветами",
-   "ipa": "ˈflaʊər dɪˈspleɪ",
-   "spell": "flower display"
- },
- {
-   "cefr": "",
-   "def1": "таращить / пялить глаза",
-   "ipa": "stɛr",
-   "spell": "stare"
- },
- {
-   "cefr": "",
-   "def1": "тереть",
-   "ipa": "tu rʌb",
-   "spell": "to rub"
- },
- {
-   "cefr": "",
-   "def1": "у неё есть сомнения",
-   "ipa": "ʃi hæz daʊts",
-   "spell": "she has doubts"
- },
- {
-   "cefr": "",
-   "def1": "уже",
-   "ipa": "ɔlˈrɛdi",
-   "spell": "already"
- },
- {
-   "cefr": "",
-   "def1": "уложить в штабели, ярусами",
-   "ipa": "tu stæk",
-   "spell": "to stack"
- },
- {
-   "cefr": "",
-   "def1": "упаковщик (в мешки, пакеты) ",
-   "ipa": "ˈbæɡər",
-   "spell": "bagger"
- },
- {
-   "cefr": "",
-   "def1": "форма",
-   "ipa": "ə ʃeɪp",
-   "spell": "a shape"
- },
- {
-   "cefr": "",
-   "def1": "хлопья (на завтрак) ",
-   "ipa": "ˈsɪriəl",
-   "spell": "cereal"
- },
- {
-   "cefr": "",
-   "def1": "чистящее средство",
-   "ipa": "ˈklinɪŋ ˈprɑdəkt",
-   "spell": "cleaning product"
- },
- {
-   "cefr": "",
-   "def1": "шанс",
-   "ipa": "ə ʧæns",
-   "spell": "a chance"
- },
- {
-   "cefr": "",
-   "def1": "я ей нравлюсь",
-   "ipa": "ʃi laɪks mi",
-   "spell": "she likes me"
- },
- {
-   "cefr": "",
-   "def1": "я ещё не получил ответа",
-   "ipa": "aɪ ˈhævənt rəˈsivd ə rɪˈplaɪ jɛt",
-   "spell": "I haven't received a reply yet"
- },
- {
-   "cefr": "",
-   "def1": "я ещё не сделала",
-   "ipa": "aɪ ˈhævənt dʌn ɪt jɛt",
-   "spell": "I haven’t done it yet"
- },
- {
-   "cefr": "",
-   "def1": "я не была готова",
-   "ipa": "aɪ ˈwɑzənt ˈrɛdi",
-   "spell": "I wasn't ready"
- },
- {
-   "cefr": "",
-   "def1": "я не ожидала",
-   "ipa": "aɪ ˈdɪdənt ɪkˈspɛkt",
-   "spell": "i didn’t expect"
- },
- {
-   "cefr": "",
-   "def1": "я растерялась",
-   "ipa": "aɪ wʌz lɔst",
-   "spell": "I was lost"
- },
- {
-   "cefr": "",
-   "def1": "я сделала всё возможное",
-   "ipa": "aɪ dɪd maɪ bɛst",
-   "spell": "I did my best"
- },
- {
-   "cefr": "",
-   "def1": "я тру глаза",
-   "ipa": "aɪ rʌb maɪ aɪz",
-   "spell": "I rub my eyes"
- },
- {
-   "cefr": "",
-   "def1": "я уже сделала",
-   "ipa": "aɪ hæv dʌn ɪt ɔlˈrɛdi",
-   "spell": "i have done it already"
- }
+  {
+    "cefr": "",
+    "def1": "(неожиданный) поворот",
+    "ipa": "ə twɪst",
+    "spell": "a twist"
+  },
+  {
+    "cefr": "",
+    "def1": "буханка, батон",
+    "ipa": "loʊf",
+    "spell": "loaf"
+  },
+  {
+    "cefr": "",
+    "def1": "быть волонтёром",
+    "ipa": "tu ˌvɑlənˈtɪr",
+    "spell": "to volunteer"
+  },
+  {
+    "cefr": "",
+    "def1": "ведро",
+    "ipa": "ə ˈbʌkət",
+    "spell": "a bucket"
+  },
+  {
+    "cefr": "",
+    "def1": "волонтёр",
+    "ipa": "ə ˌvɑlənˈtɪr",
+    "spell": "a volunteer"
+  },
+  {
+    "cefr": "",
+    "def1": "вылепить, сформировать",
+    "ipa": "tu ʃeɪp",
+    "spell": "to shape"
+  },
+  {
+    "cefr": "",
+    "def1": "глаз",
+    "ipa": "ən aɪ",
+    "spell": "an eye"
+  },
+  {
+    "cefr": "",
+    "def1": "глазировка",
+    "ipa": "ˈfrɔstɪŋ",
+    "spell": "frosting"
+  },
+  {
+    "cefr": "",
+    "def1": "говяжий фарш",
+    "ipa": "ɡraʊnd bif",
+    "spell": "ground beef"
+  },
+  {
+    "cefr": "",
+    "def1": "депо",
+    "ipa": "ˈdipoʊ",
+    "spell": "depot"
+  },
+  {
+    "cefr": "",
+    "def1": "для того, чтобы не думать об этом",
+    "ipa": "nɑt tu θɪŋk əˈbaʊt ɪt",
+    "spell": "not to think about it"
+  },
+  {
+    "cefr": "",
+    "def1": "доброта",
+    "ipa": "ˈɡʊdnəs",
+    "spell": "goodness"
+  },
+  {
+    "cefr": "",
+    "def1": "если честно",
+    "ipa": "ˈfræŋkli",
+    "spell": "frankly"
+  },
+  {
+    "cefr": "",
+    "def1": "ещё нет ",
+    "ipa": "nɑt jɛt",
+    "spell": "not yet"
+  },
+  {
+    "cefr": "",
+    "def1": "ждать",
+    "ipa": "tu weɪt",
+    "spell": "to wait"
+  },
+  {
+    "cefr": "",
+    "def1": "иммигрант",
+    "ipa": "ən ˈɪməɡrənt",
+    "spell": "an immigrant"
+  },
+  {
+    "cefr": "",
+    "def1": "каждое слово",
+    "ipa": "ˈɛvəri wɜrd",
+    "spell": "every word"
+  },
+  {
+    "cefr": "",
+    "def1": "календарь",
+    "ipa": "ə ˈkæləndər",
+    "spell": "a calendar"
+  },
+  {
+    "cefr": "",
+    "def1": "карман",
+    "ipa": "ə ˈpɑkət",
+    "spell": "a pocket"
+  },
+  {
+    "cefr": "",
+    "def1": "кассовый аппарат",
+    "ipa": "ˈrɛʤɪstər",
+    "spell": "register"
+  },
+  {
+    "cefr": "",
+    "def1": "кричать",
+    "ipa": "tu ʃaʊt",
+    "spell": "to shout"
+  },
+  {
+    "cefr": "",
+    "def1": "ломтик",
+    "ipa": "slaɪs",
+    "spell": "slice"
+  },
+  {
+    "cefr": "",
+    "def1": "люди, которые меня собеседовали",
+    "ipa": "ðə ˈpipəl hu ˈɪntərˌvjud mi",
+    "spell": "the people who interviewed me"
+  },
+  {
+    "cefr": "",
+    "def1": "меня осенило",
+    "ipa": "ɪt dɔnd ɑn mi",
+    "spell": "it dawned on me"
+  },
+  {
+    "cefr": "",
+    "def1": "мне отвлечься",
+    "ipa": "tu dɪˈstrækt ˌmaɪˈsɛlf",
+    "spell": "to distract myself"
+  },
+  {
+    "cefr": "",
+    "def1": "мой сон сбывается",
+    "ipa": "maɪ drim kʌmz tru",
+    "spell": "my dream comes true"
+  },
+  {
+    "cefr": "",
+    "def1": "моё сердце колотится",
+    "ipa": "maɪ hɑrt ɪz ˈpaʊndɪŋ",
+    "spell": "my heart is pounding"
+  },
+  {
+    "cefr": "",
+    "def1": "мы ещё не купили x",
+    "ipa": "wi ˈhævənt bɑt ə ɛks jɛt",
+    "spell": "we haven't bought a x yet"
+  },
+  {
+    "cefr": "",
+    "def1": "мясной хлеб",
+    "ipa": "mit brɛd",
+    "spell": "meat bread"
+  },
+  {
+    "cefr": "",
+    "def1": "на автобусе",
+    "ipa": "baɪ bʌs",
+    "spell": "by bus"
+  },
+  {
+    "cefr": "",
+    "def1": "на моей предыдущей работе",
+    "ipa": "æt maɪ ˈpriviəs ʤɑb",
+    "spell": "at my previous job"
+  },
+  {
+    "cefr": "",
+    "def1": "надпись (на табличке)",
+    "ipa": "ə saɪn",
+    "spell": "a sign"
+  },
+  {
+    "cefr": "",
+    "def1": "нанять на эту должность",
+    "ipa": "tu ˈhaɪər fɔr ðɪs pəˈzɪʃən",
+    "spell": "to hire for this position"
+  },
+  {
+    "cefr": "",
+    "def1": "не зацикливайся",
+    "ipa": "doʊnt ˌoʊvərˈθɪŋk",
+    "spell": "don't overthink"
+  },
+  {
+    "cefr": "",
+    "def1": "но я готов учиться",
+    "ipa": "bʌt aɪm ˈwɪlɪŋ tu lɜrn",
+    "spell": "but I'm willing to learn"
+  },
+  {
+    "cefr": "",
+    "def1": "номер телефона",
+    "ipa": "ə foʊn ˈnʌmbər",
+    "spell": "a phone number"
+  },
+  {
+    "cefr": "",
+    "def1": "овощной отдел",
+    "ipa": "ˈproʊdus ˈsɛkʃən",
+    "spell": "produce section"
+  },
+  {
+    "cefr": "",
+    "def1": "она вчера ходила и (она) уже получила ответ",
+    "ipa": "ʃi wɛnt ˈjɛstərˌdeɪ, ænd (ʃi) hæz rəˈsivd ə rɪˈplaɪ ɔlˈrɛdi",
+    "spell": "she went yesterday, and (she) has received a reply already"
+  },
+  {
+    "cefr": "",
+    "def1": "она вчера ходила и получила ответ",
+    "ipa": "ʃi wɛnt ænd rəˈsivd ə rɪˈplaɪ ˈjɛstərˌdeɪ",
+    "spell": "she went and received a reply yesterday"
+  },
+  {
+    "cefr": "",
+    "def1": "она вчера ходила на собеседование и уже получила ответ",
+    "ipa": "ʃi wɛnt fɔr ən ˈɪntərˌvju ˈjɛstərˌdeɪ, ænd ʃi hæz rəˈsivd ə rɪˈplaɪ ɔlˈrɛdi",
+    "spell": "she went for an interview yesterday, and she has received a reply already"
+  },
+  {
+    "cefr": "",
+    "def1": "она любит меня",
+    "ipa": "ʃi lʌvz mi",
+    "spell": "she loves me"
+  },
+  {
+    "cefr": "",
+    "def1": "она мне сказала",
+    "ipa": "ʃi sɛd tu mi",
+    "spell": "she said to me"
+  },
+  {
+    "cefr": "",
+    "def1": "она не прошла на следующий этап",
+    "ipa": "ʃi dɪd nɑt pæs/ɡɛt tu ðə nɛkst ˈlɛvəl",
+    "spell": "she did not pass/get to the next level"
+  },
+  {
+    "cefr": "",
+    "def1": "она разговаривала",
+    "ipa": "ʃi spoʊk",
+    "spell": "she spoke"
+  },
+  {
+    "cefr": "",
+    "def1": "она сомневается",
+    "ipa": "ʃi daʊts",
+    "spell": "she doubts"
+  },
+  {
+    "cefr": "",
+    "def1": "они использовали сложные слова",
+    "ipa": "ðeɪ juzd ˈdɪfəkəlt wɜrdz",
+    "spell": "they used difficult words"
+  },
+  {
+    "cefr": "",
+    "def1": "они плохо говорят по-английски",
+    "ipa": "ðeɪ doʊnt spik ɡʊd ˈɪŋɡlɪʃ",
+    "spell": "they don't speak good English"
+  },
+  {
+    "cefr": "",
+    "def1": "отличается от других",
+    "ipa": "ˈdɪfərənt frʌm ði ˈʌðərz",
+    "spell": "different from the others"
+  },
+  {
+    "cefr": "",
+    "def1": "охранник",
+    "ipa": "ə sɪˈkjʊrəti ɡɑrd",
+    "spell": "a security guard"
+  },
+  {
+    "cefr": "",
+    "def1": "первое, что я вижу",
+    "ipa": "ðə fɜrst θɪŋ aɪ si",
+    "spell": "the first thing I see"
+  },
+  {
+    "cefr": "",
+    "def1": "первое, что я делаю",
+    "ipa": "ðə fɜrst θɪŋ aɪ du",
+    "spell": "the first thing I do"
+  },
+  {
+    "cefr": "",
+    "def1": "перемолотый",
+    "ipa": "ɡraʊnd",
+    "spell": "ground"
+  },
+  {
+    "cefr": "",
+    "def1": "повод для надежды",
+    "ipa": "ə ˈrizən tu hoʊp",
+    "spell": "a reason to hope"
+  },
+  {
+    "cefr": "",
+    "def1": "подойти ко мне",
+    "ipa": "tu kʌm ʌp tu mi",
+    "spell": "to come up to me"
+  },
+  {
+    "cefr": "",
+    "def1": "полировать/шлифовать",
+    "ipa": "tu ˈpɑlɪʃ",
+    "spell": "to polish"
+  },
+  {
+    "cefr": "",
+    "def1": "положить в мешок, пакет",
+    "ipa": "tu bæɡ",
+    "spell": "to bag"
+  },
+  {
+    "cefr": "",
+    "def1": "получать",
+    "ipa": "tu rəˈsiv",
+    "spell": "to receive"
+  },
+  {
+    "cefr": "",
+    "def1": "польский",
+    "ipa": "ˈpoʊlɪʃ",
+    "spell": "Polish"
+  },
+  {
+    "cefr": "",
+    "def1": "притворяться",
+    "ipa": "tu priˈtɛnd",
+    "spell": "to pretend"
+  },
+  {
+    "cefr": "",
+    "def1": "продукты",
+    "ipa": "ˈɡroʊsəriz",
+    "spell": "groceries"
+  },
+  {
+    "cefr": "",
+    "def1": "проход между полками",
+    "ipa": "ən aɪl",
+    "spell": "an aisle"
+  },
+  {
+    "cefr": "",
+    "def1": "сегодняшний день",
+    "ipa": "təˈdeɪ",
+    "spell": "today"
+  },
+  {
+    "cefr": "",
+    "def1": "складской рабочий",
+    "ipa": "ə stɑk bɔɪ",
+    "spell": "a stock boy"
+  },
+  {
+    "cefr": "",
+    "def1": "слава богу! ",
+    "ipa": "θæŋk ˈɡʊdnəs!",
+    "spell": "thank goodness!"
+  },
+  {
+    "cefr": "",
+    "def1": "смотреть на",
+    "ipa": "tu lʊk æt",
+    "spell": "to look at"
+  },
+  {
+    "cefr": "",
+    "def1": "смотреть на меня",
+    "ipa": "tu lʊk æt mi",
+    "spell": "to look at me"
+  },
+  {
+    "cefr": "",
+    "def1": "смотреть пристально",
+    "ipa": "tu lʊk hɑrd",
+    "spell": "to look hard"
+  },
+  {
+    "cefr": "",
+    "def1": "собеседующий",
+    "ipa": "ən ˈɪntərˌvjuər",
+    "spell": "an interviewer"
+  },
+  {
+    "cefr": "",
+    "def1": "спаржевая капуста",
+    "ipa": "ˈbrɑkəli",
+    "spell": "broccoli"
+  },
+  {
+    "cefr": "",
+    "def1": "специалист по наполнению полок товарами в магазине",
+    "ipa": "ˈstɑkər",
+    "spell": "stocker"
+  },
+  {
+    "cefr": "",
+    "def1": "срок реализации",
+    "ipa": "ðə sɛl-baɪ deɪt; bɛst bɪˈfɔr",
+    "spell": "the sell-by date; best before"
+  },
+  {
+    "cefr": "",
+    "def1": "стенд с товаром",
+    "ipa": "dɪˈspleɪ",
+    "spell": "display"
+  },
+  {
+    "cefr": "",
+    "def1": "стенд с цветами",
+    "ipa": "ˈflaʊər dɪˈspleɪ",
+    "spell": "flower display"
+  },
+  {
+    "cefr": "",
+    "def1": "таращить / пялить глаза",
+    "ipa": "stɛr",
+    "spell": "stare"
+  },
+  {
+    "cefr": "",
+    "def1": "тереть",
+    "ipa": "tu rʌb",
+    "spell": "to rub"
+  },
+  {
+    "cefr": "",
+    "def1": "у неё есть сомнения",
+    "ipa": "ʃi hæz daʊts",
+    "spell": "she has doubts"
+  },
+  {
+    "cefr": "",
+    "def1": "уже",
+    "ipa": "ɔlˈrɛdi",
+    "spell": "already"
+  },
+  {
+    "cefr": "",
+    "def1": "уложить в штабели, ярусами",
+    "ipa": "tu stæk",
+    "spell": "to stack"
+  },
+  {
+    "cefr": "",
+    "def1": "упаковщик (в мешки, пакеты) ",
+    "ipa": "ˈbæɡər",
+    "spell": "bagger"
+  },
+  {
+    "cefr": "",
+    "def1": "форма",
+    "ipa": "ə ʃeɪp",
+    "spell": "a shape"
+  },
+  {
+    "cefr": "",
+    "def1": "хлопья (на завтрак) ",
+    "ipa": "ˈsɪriəl",
+    "spell": "cereal"
+  },
+  {
+    "cefr": "",
+    "def1": "чистящее средство",
+    "ipa": "ˈklinɪŋ ˈprɑdəkt",
+    "spell": "cleaning product"
+  },
+  {
+    "cefr": "",
+    "def1": "шанс",
+    "ipa": "ə ʧæns",
+    "spell": "a chance"
+  },
+  {
+    "cefr": "",
+    "def1": "я ей нравлюсь",
+    "ipa": "ʃi laɪks mi",
+    "spell": "she likes me"
+  },
+  {
+    "cefr": "",
+    "def1": "я ещё не получил ответа",
+    "ipa": "aɪ ˈhævənt rəˈsivd ə rɪˈplaɪ jɛt",
+    "spell": "I haven't received a reply yet"
+  },
+  {
+    "cefr": "",
+    "def1": "я ещё не сделала",
+    "ipa": "aɪ ˈhævənt dʌn ɪt jɛt",
+    "spell": "I haven’t done it yet"
+  },
+  {
+    "cefr": "",
+    "def1": "я не была готова",
+    "ipa": "aɪ ˈwɑzənt ˈrɛdi",
+    "spell": "I wasn't ready"
+  },
+  {
+    "cefr": "",
+    "def1": "я не ожидала",
+    "ipa": "aɪ ˈdɪdənt ɪkˈspɛkt",
+    "spell": "i didn’t expect"
+  },
+  {
+    "cefr": "",
+    "def1": "я растерялась",
+    "ipa": "aɪ wʌz lɔst",
+    "spell": "I was lost"
+  },
+  {
+    "cefr": "",
+    "def1": "я сделала всё возможное",
+    "ipa": "aɪ dɪd maɪ bɛst",
+    "spell": "I did my best"
+  },
+  {
+    "cefr": "",
+    "def1": "я тру глаза",
+    "ipa": "aɪ rʌb maɪ aɪz",
+    "spell": "I rub my eyes"
+  },
+  {
+    "cefr": "",
+    "def1": "я уже сделала",
+    "ipa": "aɪ hæv dʌn ɪt ɔlˈrɛdi",
+    "spell": "i have done it already"
+  }
 ]
