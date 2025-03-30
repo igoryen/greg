@@ -12,6 +12,7 @@ class Ang extends React.Component {
                     <p><a href="/ag" rel="noopener noreferrer">ag</a></p>
                     <p><a href="/im" rel="noopener noreferrer">im</a></p>
                     <p><a href="/ip" rel="noopener noreferrer">ip</a></p>
+                    <p><a href="/is" rel="noopener noreferrer">is</a></p>
                     <p><a href="/ml" rel="noopener noreferrer">ml</a></p>
                     <p><a href="/ms" rel="noopener noreferrer">ms</a></p>
                     <p><a href="/os" rel="noopener noreferrer">os</a></p>
