@@ -1,5 +1,7 @@
 import "../styles/fc.scss";
 import React from "react";
+import Derek from "../components/Derek";
+import lines from "../data/sb.json";
 
 class SB extends React.Component {
 
@@ -8,11 +10,7 @@ class SB extends React.Component {
             <div>
                 <h3>Anglofor</h3>
                 <h1>Sviatlana B.</h1>
-                <section className="tom">
-                    <p><a href="/sb03" rel="noopener noreferrer">Lesson 3</a></p>
-                    <p><a href="/sb02" rel="noopener noreferrer">Lesson 2</a></p>
-                    <p><a href="/sb01" rel="noopener noreferrer">Lesson 1</a></p>
-                </section>
+                <Derek derek={lines} slug="sb" />
             </div>
         );
     }
