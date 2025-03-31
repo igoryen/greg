@@ -1,0 +1,344 @@
+[
+ {
+   "cefr": "",
+   "def1": "(Они) ещё ничего не починили.",
+   "ipa": "ðeɪ ˈhævənt fɪkst ˈɛniˌθɪŋ jɛt.",
+   "spell": "They haven't fixed anything yet."
+ },
+ {
+   "cefr": "",
+   "def1": "(Они) мне всё рассказали.",
+   "ipa": "ðeɪ hæv toʊld mi ˈɛvriˌθɪŋ.",
+   "spell": "They have told me everything."
+ },
+ {
+   "cefr": "",
+   "def1": "Вас когда-нибудь били по ночам?",
+   "ipa": "hæv ðeɪ ˈɛvər ˈbitən ju æt naɪt?",
+   "spell": "Have they ever beaten you at night?"
+ },
+ {
+   "cefr": "",
+   "def1": "Весь день идёт дождь.",
+   "ipa": "ɪt hæz bɪn ˈreɪnɪŋ ɔl deɪ.",
+   "spell": "It has been raining all day."
+ },
+ {
+   "cefr": "",
+   "def1": "высотка, многоэтажка",
+   "ipa": "ə haɪ raɪz",
+   "spell": "a high rise"
+ },
+ {
+   "cefr": "",
+   "def1": "высотное здание",
+   "ipa": "ə ˈtaʊər",
+   "spell": "a tower"
+ },
+ {
+   "cefr": "",
+   "def1": "как ты (поживаешь)?",
+   "ipa": "haʊ hæv ju bɪn?",
+   "spell": "how have you been?"
+ },
+ {
+   "cefr": "",
+   "def1": "как часто ты это делал?",
+   "ipa": "haʊ ˈɔfən hæv ju dʌn ɪt?",
+   "spell": "how often have you done it?"
+ },
+ {
+   "cefr": "",
+   "def1": "Мне это никогда не было нужно.",
+   "ipa": "aɪ hæv ˈnɛvər ˈnidɪd ðæt.",
+   "spell": "I have never needed that."
+ },
+ {
+   "cefr": "",
+   "def1": "многоэтажное здание",
+   "ipa": "ˈmʌltiˌstɔriɪd ˈbɪldɪŋ",
+   "spell": "multi-storied building"
+ },
+ {
+   "cefr": "",
+   "def1": "Мы ещё не ели.",
+   "ipa": "wi ˈhævənt ˈitən jɛt.",
+   "spell": "We haven’t eaten yet."
+ },
+ {
+   "cefr": "",
+   "def1": "Мы уже здесь месяц отдыхаем.",
+   "ipa": "wiv bɪn ˈsteɪɪŋ hir fɔr ə mʌnθ naʊ.",
+   "spell": "We've been staying here for a month now."
+ },
+ {
+   "cefr": "",
+   "def1": "Мы учимся всю неделю.",
+   "ipa": "wiv bɪn ˈstʌdiɪŋ ɔl wik.",
+   "spell": "We've been studying all week."
+ },
+ {
+   "cefr": "",
+   "def1": "мы хорошо проводим время",
+   "ipa": "wi hæv bɪn ˈhævɪŋ ə ɡʊd taɪm",
+   "spell": "we have been having a good time"
+ },
+ {
+   "cefr": "",
+   "def1": "Он работает всю неделю. У него ботинки грязные.",
+   "ipa": "hiz bɪn ˈwɜrkɪŋ ɔl wik. hɪz ʃuz ɑr ˈdɜrti.",
+   "spell": "He's been working all week. His shoes are dirty."
+ },
+ {
+   "cefr": "",
+   "def1": "Он рассказал мне новости.",
+   "ipa": "hi hæz toʊld mi ðə nuz.",
+   "spell": "He has told me the news."
+ },
+ {
+   "cefr": "",
+   "def1": "Она мне что-то сказала.",
+   "ipa": "ʃi hæz toʊld ˈsʌmθɪŋ tu mi.",
+   "spell": "She has told something to me."
+ },
+ {
+   "cefr": "",
+   "def1": "Она рассказала тебе новости?",
+   "ipa": "hæz ʃi toʊld ðə nuz tu ju?",
+   "spell": "Has she told the news to you?"
+ },
+ {
+   "cefr": "",
+   "def1": "Она самая красивая женщина, которую я когда-либо видел.",
+   "ipa": "ʃi ɪz ðə ˈprɪtiəst ˈwʊmən aɪ hæv ˈɛvər sin.",
+   "spell": "She is the prettiest woman I have ever seen."
+ },
+ {
+   "cefr": "",
+   "def1": "Она слушает меня всю ночь.",
+   "ipa": "ʃiz bɪn ˈlɪsənɪŋ tu mi ɔl naɪt.",
+   "spell": "She's been listening to me all night."
+ },
+ {
+   "cefr": "",
+   "def1": "Сколько книжек ты прочитала?",
+   "ipa": "haʊ ˈmɛni bʊks hæv ju rid?",
+   "spell": "How many books have you read?"
+ },
+ {
+   "cefr": "",
+   "def1": "Сколько она уже там?",
+   "ipa": "haʊ lɔŋ hæz ʃi bɪn ðɛr?",
+   "spell": "How long has she been there?"
+ },
+ {
+   "cefr": "",
+   "def1": "Сколько она уже это делает?",
+   "ipa": "haʊ lɔŋ hæv ju bɪn ˈduɪŋ ɪt?",
+   "spell": "How long have you been doing it?"
+ },
+ {
+   "cefr": "",
+   "def1": "Сколько ты сделала?",
+   "ipa": "haʊ mʌʧ hæv ju dʌn?",
+   "spell": "How much have you done?"
+ },
+ {
+   "cefr": "",
+   "def1": "Сколько ты уже делаешь это?",
+   "ipa": "haʊ lɔŋ hæv ju dʌn ɪt?",
+   "spell": "How long have you done it?"
+ },
+ {
+   "cefr": "",
+   "def1": "Тебя полиция когда-нибудь арестовывала?",
+   "ipa": "hæv ðə pəˈlis ˈɛvər əˈrɛstɪd ju?",
+   "spell": "Have the police ever arrested you?"
+ },
+ {
+   "cefr": "",
+   "def1": "Ты делала это раньше?",
+   "ipa": "hæv ju dʌn ɪt bɪˈfɔr?",
+   "spell": "Have you done it before?"
+ },
+ {
+   "cefr": "",
+   "def1": "Ты когда-нибудь это делал это?",
+   "ipa": "hæv ju ˈɛvər dʌn ɪt?",
+   "spell": "Have you ever done it?"
+ },
+ {
+   "cefr": "",
+   "def1": "Ты ходишь по магазинам весь день. Ты хочешь есть.",
+   "ipa": "ju hæv bɪn ˈʃɑpɪŋ ɔl deɪ. jʊr ˈhʌŋɡri.",
+   "spell": "You have been shopping all day. You're hungry."
+ },
+ {
+   "cefr": "",
+   "def1": "Эта машина у нас уже 3 года.",
+   "ipa": "wi hæv hæd ðə kɑr fɔr θri jɪrz.",
+   "spell": "We have had the car for three years."
+ },
+ {
+   "cefr": "",
+   "def1": "это было прекрасно!",
+   "ipa": "ɪt hæz bɪn ɡreɪt!",
+   "spell": "it has been great!"
+ },
+ {
+   "cefr": "",
+   "def1": "Это всегда мне нравилось",
+   "ipa": "aɪ hæv ˈɔlˌweɪz laɪkt ɪt",
+   "spell": "I have always liked it"
+ },
+ {
+   "cefr": "",
+   "def1": "Это лучшее, что я когда-либо читал.",
+   "ipa": "ɪts ðə bɛst θɪŋ aɪ hæv ˈɛvər rid.",
+   "spell": "It’s the best thing I have ever read."
+ },
+ {
+   "cefr": "",
+   "def1": "Это лучший фильм, который я когда-либо видел. ",
+   "ipa": "ɪts ðə bɛst ˈmuvi aɪ hæv ˈɛvər sin.",
+   "spell": "It’s the best movie I have ever seen."
+ },
+ {
+   "cefr": "",
+   "def1": "эффект \"теплового острова\"",
+   "ipa": "ðə hit ˈaɪlənd ɪˈfɛkt",
+   "spell": "the heat island effect"
+ },
+ {
+   "cefr": "",
+   "def1": "Я весь день бегаю.",
+   "ipa": "aɪv bɪn ˈrʌnɪŋ ɔl deɪ.",
+   "spell": "I’ve been running all day."
+ },
+ {
+   "cefr": "",
+   "def1": "Я готовлю весь день.",
+   "ipa": "aɪv bɪn ˈkʊkɪŋ ɔl deɪ.",
+   "spell": "I've been cooking all day."
+ },
+ {
+   "cefr": "",
+   "def1": "Я ещё не легла спать.",
+   "ipa": "aɪ ˈhævənt ɡɔn tu bɛd jɛt.",
+   "spell": "I haven’t gone to bed yet."
+ },
+ {
+   "cefr": "",
+   "def1": "я живу здесь с 2023 года",
+   "ipa": "aɪ hæv lɪvd hir sɪns ˈtwɛnti ˈtwɛnti θri",
+   "spell": "I have lived here since twenty twenty three"
+ },
+ {
+   "cefr": "",
+   "def1": "Я занимаюсь этим 3 дня с пятницы.",
+   "ipa": "aɪv bɪn ˈduɪŋ ɪt fɔr θri deɪz sɪns ˈfraɪˌdeɪ.",
+   "spell": "I’ve been doing it for three days since Friday."
+ },
+ {
+   "cefr": "",
+   "def1": "я запаслась, затарилась, закупилась ",
+   "ipa": "aɪ hæv stɑkt ʌp",
+   "spell": "I have stocked up"
+ },
+ {
+   "cefr": "",
+   "def1": "Я здесь весь день!",
+   "ipa": "aɪ hæv bɪn hir ɔl deɪ!",
+   "spell": "I have been here all day!"
+ },
+ {
+   "cefr": "",
+   "def1": "я здесь целую вечность",
+   "ipa": "aɪ hæv bɪn hir fəˈrɛvər",
+   "spell": "I have been here forever"
+ },
+ {
+   "cefr": "",
+   "def1": "я знаю её лично целую вечность",
+   "ipa": "aɪ hæv noʊn hɜr ˈpɜrsənəli fəˈrɛvər",
+   "spell": "I have known her personally forever"
+ },
+ {
+   "cefr": "",
+   "def1": "я знаю тебя с детства",
+   "ipa": "aɪ hæv noʊn ju sɪns aɪ wʌz ə ʧaɪld",
+   "spell": "I have known you since I was a child"
+ },
+ {
+   "cefr": "",
+   "def1": "Я знаю это уже больше 10 лет.",
+   "ipa": "aɪ hæv noʊn ɪt fɔr mɔr ðæn tɛn jɪrz.",
+   "spell": "I have known it for more than ten years."
+ },
+ {
+   "cefr": "",
+   "def1": "Я никогда не знал этого.",
+   "ipa": "aɪ hæv ˈnɛvər noʊn ðæt.",
+   "spell": "I have never known that."
+ },
+ {
+   "cefr": "",
+   "def1": "Я никогда этого раньше не делал",
+   "ipa": "aɪ hæv ˈnɛvər dʌn ɪt (bɪˈfɔr).",
+   "spell": "I have never done it (before)."
+ },
+ {
+   "cefr": "",
+   "def1": "Я никому не рассказывал.",
+   "ipa": "aɪ ˈhævənt toʊld ˈɛniˌwʌn.",
+   "spell": "I haven't told anyone."
+ },
+ {
+   "cefr": "",
+   "def1": "Я плохо сплю в последнее время.",
+   "ipa": "aɪ hæv nɑt bɪn ˈslipɪŋ wɛl ˈrisəntli.",
+   "spell": "I have not been sleeping well recently."
+ },
+ {
+   "cefr": "",
+   "def1": "Я работаю здесь уже неделю.",
+   "ipa": "aɪ hæv bɪn ˈwɜrkɪŋ hir fɔr ə wik naʊ.",
+   "spell": "I have been working here for a week now."
+ },
+ {
+   "cefr": "",
+   "def1": "Я сижу здесь весь вечер!",
+   "ipa": "aɪ hæv sæt hir ɔl ˈivnɪŋ!",
+   "spell": "I have sat here all evening!"
+ },
+ {
+   "cefr": "",
+   "def1": "Я убираюсь всё утро. Я устала.",
+   "ipa": "aɪv bɪn ˈklinɪŋ ɔl ˈmɔrnɪŋ. aɪ æm ˈtaɪərd.",
+   "spell": "I’ve been cleaning all morning. I am tired."
+ },
+ {
+   "cefr": "",
+   "def1": "Я уже это сделала.",
+   "ipa": "aɪ hæv ɔlˈrɛdi dʌn ɪt.",
+   "spell": "I have already done it."
+ },
+ {
+   "cefr": "",
+   "def1": "Я этим занимаюсь весь день.",
+   "ipa": "aɪv bɪn ˈduɪŋ ɪt ɔl deɪ.",
+   "spell": "I’ve been doing it all day."
+ },
+ {
+   "cefr": "",
+   "def1": "Я это ещё не сделала.",
+   "ipa": "aɪ ˈhævənt dʌn ɪt jɛt.",
+   "spell": "I haven’t done it yet."
+ },
+ {
+   "cefr": "",
+   "def1": "Я это тебе уже 3 раза сказала.",
+   "ipa": "aɪ hæv toʊld ju ðæt θri taɪmz ɔlˈrɛdi.",
+   "spell": "I have told you that three times already."
+ }
+]
