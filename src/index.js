@@ -18,6 +18,7 @@ import AG from "./pages/AG";
 import AG08 from "./pages/AG08";
 import OS from "./pages/OS";
 import OS01 from "./pages/OS01";
+import OS02 from "./pages/OS02";
 import Bob from "./pages/Bob";
 import Dan from "./pages/Dan";
 import IM from "./pages/IM";
@@ -96,6 +97,7 @@ export default function App() {
           <Route path="ag08" element={<AG08 />} />
           <Route path="os" element={<OS />} />
           <Route path="os01" element={<OS01 />} />
+          <Route path="os02" element={<OS02 />} />
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
           <Route path="im04" element={<IM04 />} />
