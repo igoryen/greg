@@ -8,6 +8,7 @@ class IP extends React.Component {
                 <h3>Anglofor</h3>
                 <h1>Ihor P.</h1>
                 <section className="tom">
+                    <p><a href="/ip12" rel="noopener noreferrer">Lesson 12</a></p>
                     <p><a href="/ip11" rel="noopener noreferrer">Lesson 11</a></p>
                     <p><a href="/ip10" rel="noopener noreferrer">Lesson 10</a></p>
                     <p><a href="/ip09" rel="noopener noreferrer">Lesson 9</a></p>
