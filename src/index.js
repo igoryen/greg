@@ -78,6 +78,7 @@ import SS14 from "./pages/SS14";
 import SS15 from "./pages/SS15";
 import VK from "./pages/VK";
 import VK05 from "./pages/VK05";
+import VK06 from "./pages/VK06";
 import Voksa from "./pages/Voksa";
 import Uenba from "./pages/Uenba";
 import Tim from "./pages/Tim";
@@ -159,6 +160,7 @@ export default function App() {
           <Route path="ss15" element={<SS15 />} />
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
+          <Route path="vk06" element={<VK06 />} />
           <Route path="voksa" element={<Voksa />} />
           <Route path="bob" element={<Bob />} />
           <Route path="jaw" element={<Jaw />} />
