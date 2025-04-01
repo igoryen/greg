@@ -18,6 +18,7 @@ import AB13 from "./pages/AB13";
 import AB14 from "./pages/AB14";
 import AG from "./pages/AG";
 import AG08 from "./pages/AG08";
+import AG10 from "./pages/AG10";
 import OS from "./pages/OS";
 import OS01 from "./pages/OS01";
 import OS02 from "./pages/OS02";
@@ -105,6 +106,7 @@ export default function App() {
           <Route path="ab14" element={<AB14 />} />
           <Route path="ag" element={<AG />} />
           <Route path="ag08" element={<AG08 />} />
+          <Route path="ag10" element={<AG10 />} />
           <Route path="os" element={<OS />} />
           <Route path="os01" element={<OS01 />} />
           <Route path="os02" element={<OS02 />} />
