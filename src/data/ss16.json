@@ -1,0 +1,572 @@
+[
+ {
+   "cefr": "",
+   "def1": "ассортимент продуктов",
+   "ipa": "ðə ˈprɑdəkt reɪnʤ",
+   "spell": "the product range"
+ },
+ {
+   "cefr": "",
+   "def1": "больше часов",
+   "ipa": "mɔr ˈaʊərz",
+   "spell": "more hours"
+ },
+ {
+   "cefr": "",
+   "def1": "быть на связи",
+   "ipa": "tu bi ɪn tʌʧ",
+   "spell": "to be in touch"
+ },
+ {
+   "cefr": "",
+   "def1": "ваша цель",
+   "ipa": "jʊər ɡoʊl",
+   "spell": "your goal"
+ },
+ {
+   "cefr": "",
+   "def1": "Возвращайтесь!",
+   "ipa": "kʌm bæk sun!",
+   "spell": "Come back soon!"
+ },
+ {
+   "cefr": "",
+   "def1": "вот, пожалуйста!",
+   "ipa": "ðɛr ju ɡoʊ!",
+   "spell": "there you go!"
+ },
+ {
+   "cefr": "",
+   "def1": "вы должны сделать их счастливыми",
+   "ipa": "ju hæv tu meɪk ðɛm ˈhæpi",
+   "spell": "you have to make them happy"
+ },
+ {
+   "cefr": "",
+   "def1": "Вы когда-нибудь работали в рознице в Канаде?",
+   "ipa": "hæv ju ˈɛvər wɜrkt ɪn ˈriˌteɪl ɪn ˈkænədə?",
+   "spell": "have you ever worked in retail in Canada?"
+ },
+ {
+   "cefr": "",
+   "def1": "где их получить / достать",
+   "ipa": "wɛr tu ɡɛt ðɛm",
+   "spell": "where to get them"
+ },
+ {
+   "cefr": "",
+   "def1": "главное - не останавливаться",
+   "ipa": "æz lɔŋ æz ju doʊnt stɑp",
+   "spell": "as long as you don’t stop"
+ },
+ {
+   "cefr": "",
+   "def1": "да, но я хочу, чтобы это было красиво",
+   "ipa": "jɛs, bʌt aɪ wɑnt ɪt tu bi ˈprɪti",
+   "spell": "yes, but I want it to be pretty"
+ },
+ {
+   "cefr": "",
+   "def1": "делай всё, что он тебе скажет",
+   "ipa": "du ˌwʌˈtɛvər hi sɛz tu ju",
+   "spell": "do whatever he says to you"
+ },
+ {
+   "cefr": "",
+   "def1": "другой человек",
+   "ipa": "əˈnʌðər ˈpɜrsən",
+   "spell": "another person"
+ },
+ {
+   "cefr": "",
+   "def1": "если всё получится",
+   "ipa": "ɪf ɪt wɜrks aʊt",
+   "spell": "if it works out"
+ },
+ {
+   "cefr": "",
+   "def1": "если они вас оставят",
+   "ipa": "ɪf ðeɪ kip ju",
+   "spell": "if they keep you"
+ },
+ {
+   "cefr": "",
+   "def1": "если они меня пригласят",
+   "ipa": "ɪf ðeɪ ɪnˈvaɪt mi",
+   "spell": "if they invite me"
+ },
+ {
+   "cefr": "",
+   "def1": "её английский лучше вашего?",
+   "ipa": "ɪz hɜr ˈɪŋɡlɪʃ ˈbɛtər ðæn jʊrz?",
+   "spell": "is her English better than yours?"
+ },
+ {
+   "cefr": "",
+   "def1": "её нет",
+   "ipa": "ʃiz nɑt ðɛr",
+   "spell": "she’s not there"
+ },
+ {
+   "cefr": "",
+   "def1": "Желаете что-нибудь ещё? ",
+   "ipa": "wʊd ju laɪk ˈɛniˌθɪŋ ɛls?",
+   "spell": "Would you like anything else?"
+ },
+ {
+   "cefr": "",
+   "def1": "завернуть как конверт",
+   "ipa": "tu ræp ɪt laɪk ən ˈɛnvəˌloʊp",
+   "spell": "to wrap it like an envelope"
+ },
+ {
+   "cefr": "",
+   "def1": "заворачивать",
+   "ipa": "tu ræp",
+   "spell": "to wrap"
+ },
+ {
+   "cefr": "",
+   "def1": "Извините, мой польский ограничен. Можем попробовать на английском?",
+   "ipa": "aɪ əˈpɑləˌʤaɪz — maɪ ˈpɑlɪʃ ɪz ˈlɪmɪtɪd. kæn wi traɪ ˈɪŋɡlɪʃ?",
+   "spell": "I apologize — my Polish is limited. Can we try English?"
+ },
+ {
+   "cefr": "",
+   "def1": "извините, я говорю только по-английски",
+   "ipa": "aɪm ˈsɑri, aɪ ˈoʊnli spik ˈɪŋɡlɪʃ",
+   "spell": "I’m sorry, I only speak English"
+ },
+ {
+   "cefr": "",
+   "def1": "их английский такой же, как у меня",
+   "ipa": "ðɛr ˈɪŋɡlɪʃ ɪz ðə seɪm æz maɪn",
+   "spell": "their English is the same as mine"
+ },
+ {
+   "cefr": "",
+   "def1": "меня повысили",
+   "ipa": "aɪ wʌz prəˈmoʊtəd",
+   "spell": "I was promoted"
+ },
+ {
+   "cefr": "",
+   "def1": "Мне не нравится, когда кто-то постоянно стоит у меня за спиной",
+   "ipa": "aɪ doʊnt laɪk ɪt wɛn ˈsʌmˌbɑdi ɪz ˈɔlˌweɪz bɪˈhaɪnd maɪ bæk",
+   "spell": "I don’t like it when somebody is always behind my back"
+ },
+ {
+   "cefr": "",
+   "def1": "мне платят чеками",
+   "ipa": "ðeɪ peɪ mi baɪ ʧɛk",
+   "spell": "they pay me by check"
+ },
+ {
+   "cefr": "",
+   "def1": "мой польский не так хорош",
+   "ipa": "maɪ ˈpɑlɪʃ ɪz nɑt ðæt ɡʊd",
+   "spell": "my Polish is not that good"
+ },
+ {
+   "cefr": "",
+   "def1": "на моём уровне",
+   "ipa": "æt maɪ ˈlɛvəl",
+   "spell": "at my level"
+ },
+ {
+   "cefr": "",
+   "def1": "на слайсере",
+   "ipa": "ɑn ðə ˈslaɪsər",
+   "spell": "on the slicer"
+ },
+ {
+   "cefr": "",
+   "def1": "Нарезать вам?",
+   "ipa": "ʃæl aɪ slaɪs ɪt fɔr ju?",
+   "spell": "Shall I slice it for you?"
+ },
+ {
+   "cefr": "",
+   "def1": "не всегда",
+   "ipa": "nɑt ˈɔlˌweɪz",
+   "spell": "not always"
+ },
+ {
+   "cefr": "",
+   "def1": "несколько позиций",
+   "ipa": "ə fju pəˈzɪʃənz",
+   "spell": "a few positions"
+ },
+ {
+   "cefr": "",
+   "def1": "но всё же",
+   "ipa": "bʌt stɪl",
+   "spell": "but still"
+ },
+ {
+   "cefr": "",
+   "def1": "Нужно что-то ещё?",
+   "ipa": "nid ˈɛniˌθɪŋ ɛls təˈdeɪ?",
+   "spell": "Need anything else today?"
+ },
+ {
+   "cefr": "",
+   "def1": "он имел в виду Х",
+   "ipa": "hi mɛnt Х",
+   "spell": "he meant Х"
+ },
+ {
+   "cefr": "",
+   "def1": "он сказал ей",
+   "ipa": "hi toʊld hɜr",
+   "spell": "he told her"
+ },
+ {
+   "cefr": "",
+   "def1": "она нервничает, \"стрессует\"",
+   "ipa": "ʃi ɪz ˈstrɛsɪŋ aʊt",
+   "spell": "she is stressing out"
+ },
+ {
+   "cefr": "",
+   "def1": "она обучала меня",
+   "ipa": "ʃi treɪnd mi",
+   "spell": "she trained me"
+ },
+ {
+   "cefr": "",
+   "def1": "она сказала мне",
+   "ipa": "ʃi toʊld mi",
+   "spell": "she told me"
+ },
+ {
+   "cefr": "",
+   "def1": "они говорят как я",
+   "ipa": "ðeɪ spik laɪk mi",
+   "spell": "they speak like me"
+ },
+ {
+   "cefr": "",
+   "def1": "они говорят по-английски как я",
+   "ipa": "ðeɪ spik ˈɪŋɡlɪʃ æt maɪ ˈlɛvəl",
+   "spell": "they speak English at my level"
+ },
+ {
+   "cefr": "",
+   "def1": "они говорят по-польски",
+   "ipa": "ðeɪ spik ˈpɑlɪʃ",
+   "spell": "they speak Polish"
+ },
+ {
+   "cefr": "",
+   "def1": "они меня не пригласили",
+   "ipa": "ðeɪ ˈhævənt ɪnˈvaɪtɪd mi",
+   "spell": "they haven’t invited me"
+ },
+ {
+   "cefr": "",
+   "def1": "они мне скажут",
+   "ipa": "ðeɪ wɪl tɛl mi",
+   "spell": "they will tell me"
+ },
+ {
+   "cefr": "",
+   "def1": "они ответили",
+   "ipa": "ðeɪ rɪˈplaɪd",
+   "spell": "they replied"
+ },
+ {
+   "cefr": "",
+   "def1": "они сказали мне",
+   "ipa": "ðeɪ toʊld mi",
+   "spell": "they told me"
+ },
+ {
+   "cefr": "",
+   "def1": "ошибиться",
+   "ipa": "tu meɪk ə mɪsˈteɪk",
+   "spell": "to make a mistake"
+ },
+ {
+   "cefr": "",
+   "def1": "пока что",
+   "ipa": "soʊ fɑr",
+   "spell": "so far"
+ },
+ {
+   "cefr": "",
+   "def1": "потому что я не беспокоюсь",
+   "ipa": "bɪˈkɔz aɪ doʊnt ˈwɜri",
+   "spell": "because I don't worry"
+ },
+ {
+   "cefr": "",
+   "def1": "практиковать английский",
+   "ipa": "tu ˈpræktəs ˈɪŋɡlɪʃ",
+   "spell": "to practice English"
+ },
+ {
+   "cefr": "",
+   "def1": "предлагать товары",
+   "ipa": "tu ˈɔfər ˈprɑdəkts",
+   "spell": "to offer products"
+ },
+ {
+   "cefr": "",
+   "def1": "предложить другую должность",
+   "ipa": "tu ˈɔfər əˈnʌðər pəˈzɪʃən",
+   "spell": "to offer another position"
+ },
+ {
+   "cefr": "",
+   "def1": "приятный человек",
+   "ipa": "ə ˈplɛzənt ˈpɜrsən",
+   "spell": "a pleasant person"
+ },
+ {
+   "cefr": "",
+   "def1": "продолжай",
+   "ipa": "kip ˈɡoʊɪŋ",
+   "spell": "keep going"
+ },
+ {
+   "cefr": "",
+   "def1": "продолжайте подавать заявки",
+   "ipa": "kip əˈplaɪɪŋ",
+   "spell": "keep applying"
+ },
+ {
+   "cefr": "",
+   "def1": "сейчас Пасха (хр.)",
+   "ipa": "ɪts ˈistər",
+   "spell": "it's Easter"
+ },
+ {
+   "cefr": "",
+   "def1": "сейчас Песах (иуд.)",
+   "ipa": "ɪts ˈpæˌsoʊvər",
+   "spell": "it's Passover"
+ },
+ {
+   "cefr": "",
+   "def1": "сказать что-то не так",
+   "ipa": "tu seɪ ˈsʌmθɪŋ rɔŋ",
+   "spell": "to say something wrong"
+ },
+ {
+   "cefr": "",
+   "def1": "сколько его?",
+   "ipa": "haʊ mʌʧ ʌv ɪt?",
+   "spell": "how much of it?"
+ },
+ {
+   "cefr": "",
+   "def1": "сколько продукта?",
+   "ipa": "haʊ mʌʧ ʌv ðə ˈprɑdəkt?",
+   "spell": "how much of the product?"
+ },
+ {
+   "cefr": "",
+   "def1": "сколько сможешь",
+   "ipa": "æz ˈmɛni æz ju kæn",
+   "spell": "as many as you can"
+ },
+ {
+   "cefr": "",
+   "def1": "Спасибо за покупку",
+   "ipa": "θæŋk ju fɔr ˈʃɑpɪŋ wɪð ʌs",
+   "spell": "Thank you for shopping with us"
+ },
+ {
+   "cefr": "",
+   "def1": "Спасибо, приходите ещё",
+   "ipa": "θæŋk ju, pliz kʌm əˈɡɛn",
+   "spell": "Thank you, please come again"
+ },
+ {
+   "cefr": "",
+   "def1": "стоять на расстоянии",
+   "ipa": "tu stænd æt ə ˈdɪstəns",
+   "spell": "to stand at a distance"
+ },
+ {
+   "cefr": "",
+   "def1": "ступенька",
+   "ipa": "ə ˈstɛpɪŋ stoʊn",
+   "spell": "a stepping stone"
+ },
+ {
+   "cefr": "",
+   "def1": "ты делаешь всё в первый же день",
+   "ipa": "ju du ˈɛvriˌθɪŋ ɑn ðə fɜrst deɪ",
+   "spell": "you do everything on the first day"
+ },
+ {
+   "cefr": "",
+   "def1": "у тебя красивая улыбка",
+   "ipa": "ju hæv ə ˈbjutəfəl smaɪl",
+   "spell": "you have a beautiful smile"
+ },
+ {
+   "cefr": "",
+   "def1": "уволить вас",
+   "ipa": "tu lɛt ju ɡoʊ",
+   "spell": "to let you go"
+ },
+ {
+   "cefr": "",
+   "def1": "улыбайся больше",
+   "ipa": "smaɪl mɔr",
+   "spell": "smile more"
+ },
+ {
+   "cefr": "",
+   "def1": "уточнить насчёт вашего заявления",
+   "ipa": "tu ˈfɑloʊ ʌp ɑn jʊər ˌæpləˈkeɪʃən",
+   "spell": "to follow up on your application"
+ },
+ {
+   "cefr": "",
+   "def1": "форма",
+   "ipa": "ə ʃeɪp",
+   "spell": "a shape"
+ },
+ {
+   "cefr": "",
+   "def1": "Хорошего дня!",
+   "ipa": "hæv ə ɡreɪt deɪ!\"",
+   "spell": "Have a great day!\""
+ },
+ {
+   "cefr": "",
+   "def1": "хорошо выглядеть",
+   "ipa": "tu lʊk ɡʊd",
+   "spell": "to look good"
+ },
+ {
+   "cefr": "",
+   "def1": "Хотите, чтобы я нарезала это для вас?",
+   "ipa": "du ju wɑnt mi tu slaɪs ɪt fɔr ju?",
+   "spell": "Do you want me to slice it for you?"
+ },
+ {
+   "cefr": "",
+   "def1": "Целиком или кусочек?",
+   "ipa": "ə hoʊl pis ɔr ə slaɪs?",
+   "spell": "A whole piece or a slice?"
+ },
+ {
+   "cefr": "",
+   "def1": "чем больше, тем лучше",
+   "ipa": "ðə mɔr ðə ˈbɛtər",
+   "spell": "the more the better"
+ },
+ {
+   "cefr": "",
+   "def1": "чем я могу вам помочь (сегодня)?",
+   "ipa": "haʊ kæn aɪ hɛlp ju (təˈdeɪ)?",
+   "spell": "how can I help you (today)?"
+ },
+ {
+   "cefr": "",
+   "def1": "Чем я могу вам помочь?",
+   "ipa": "kæn aɪ du ˈɛniˌθɪŋ fɔr ju?",
+   "spell": "Can I do anything for you?"
+ },
+ {
+   "cefr": "",
+   "def1": "Чем я могу вам помочь?",
+   "ipa": "haʊ kæn aɪ hɛlp ju?",
+   "spell": "How can I help you?"
+ },
+ {
+   "cefr": "",
+   "def1": "что-нибудь еще?",
+   "ipa": "ˈɛniˌθɪŋ ɛls?",
+   "spell": "anything else?"
+ },
+ {
+   "cefr": "",
+   "def1": "это вам поможет",
+   "ipa": "ɪt wɪl hɛlp ju",
+   "spell": "it will help you"
+ },
+ {
+   "cefr": "",
+   "def1": "это выглядит хорошо",
+   "ipa": "ɪt lʊks ɡʊd",
+   "spell": "it looks good"
+ },
+ {
+   "cefr": "",
+   "def1": "это не имеет значения",
+   "ipa": "ɪt ˈdʌzənt ˈmætər",
+   "spell": "it doesn’t matter"
+ },
+ {
+   "cefr": "",
+   "def1": "это хороший знак",
+   "ipa": "ðæts ə ɡʊd saɪn",
+   "spell": "that’s a good sign"
+ },
+ {
+   "cefr": "",
+   "def1": "я буду рад помочь вам на английском",
+   "ipa": "aɪ wɪl bi ˈhæpi tu hɛlp ju ɪn ˈɪŋɡlɪʃ",
+   "spell": "I will be happy to help you in English"
+ },
+ {
+   "cefr": "",
+   "def1": "я заинтересована",
+   "ipa": "aɪ æm ˈɪntrɪstɪd",
+   "spell": "I am interested"
+ },
+ {
+   "cefr": "",
+   "def1": "я могу нарезать это для вас, если хотите",
+   "ipa": "aɪ kæn slaɪs ɪt fɔr ju ɪf ju wɑnt",
+   "spell": "I can slice it for you if you want"
+ },
+ {
+   "cefr": "",
+   "def1": "я не была уверена",
+   "ipa": "aɪ ˈwɑzənt ʃʊr",
+   "spell": "I wasn’t sure"
+ },
+ {
+   "cefr": "",
+   "def1": "я не люблю, когда за мной наблюдают",
+   "ipa": "aɪ doʊnt laɪk tu bi wɑʧt",
+   "spell": "I don’t like to be watched"
+ },
+ {
+   "cefr": "",
+   "def1": "я нервничаю",
+   "ipa": "aɪ æm ˈnɜrvəs",
+   "spell": "I am nervous"
+ },
+ {
+   "cefr": "",
+   "def1": "я сказал ей",
+   "ipa": "aɪ sɛd tu hɜr",
+   "spell": "I said to her"
+ },
+ {
+   "cefr": "",
+   "def1": "я хорошо работаю",
+   "ipa": "aɪ du ə ɡʊd ʤɑb",
+   "spell": "I do a good job"
+ },
+ {
+   "cefr": "",
+   "def1": "я хорошо справляюсь",
+   "ipa": "aɪ ˈmænəʤ wɛl",
+   "spell": "I manage well"
+ },
+ {
+   "cefr": "",
+   "def1": "я хочу, чтобы это выглядело хорошо",
+   "ipa": "aɪ wɑnt ɪt tu lʊk ɡʊd",
+   "spell": "I want it to look good"
+ }
+]
