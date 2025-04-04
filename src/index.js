@@ -66,6 +66,7 @@ import MS09 from "./pages/MS09";
 import MS10 from "./pages/MS10";
 import MS11 from "./pages/MS11";
 import MS12 from "./pages/MS12";
+import MS13 from "./pages/MS13";
 import Sam from "./pages/Sam";
 import SB from "./pages/SB";
 import SB01 from "./pages/SB01";
@@ -158,6 +159,7 @@ export default function App() {
           <Route path="ms10" element={<MS10 />} />
           <Route path="ms11" element={<MS11 />} />
           <Route path="ms12" element={<MS12 />} />
+          <Route path="ms13" element={<MS13 />} />
           <Route path="sb" element={<SB />} />
           <Route path="sb01" element={<SB01 />} />
           <Route path="sb02" element={<SB02 />} />
