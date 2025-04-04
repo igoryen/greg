@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-function Mathilda({ words }) {
+function Mathilda({ words, showSpell = true }) {
     useEffect(() => {
         // code to run after render goes here
         window.$(".word").flip({ speed: 200 });
@@ -38,7 +38,7 @@ function Mathilda({ words }) {
                 </div>
                 <div className="back part part2">
                     <div className="ipa">{word.ipa}</div>
-                    <div className="spell">{word.spell}</div>
+                    {showSpell && <div className="spell">{word.spell}</div>}
                 </div>
             </div>
         );
