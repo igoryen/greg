@@ -45,8 +45,11 @@ function Mathilda({ words, showSpell = true }) {
     }
 
     return (
-        <section className="words">
-            {wordsFinal}
+        <section className="words_">
+            {!showSpell && <div className="attn">Spelling is hidden</div>}
+            <div className="words">
+                {wordsFinal}
+            </div>
         </section>
     );
 }
