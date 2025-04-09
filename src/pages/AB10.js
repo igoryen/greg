@@ -2,7 +2,7 @@ import "../styles/fc.scss";
 import React from "react";
 import Leon from "../components/Leon";
 import Word from "../components/Word";
-import words from "../data/ab10.json";
+import words from "../data/ab/ab10.json";
 
 class IP10 extends React.Component {
 
