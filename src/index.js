@@ -34,7 +34,7 @@ import IM07 from "./pages/IM07";
 import IM09 from "./pages/IM09";
 import IM10 from "./pages/IM10";
 import IM12 from "./pages/IM12";
-import IP from "./pages/IP";
+import IP from "./pages/ip/IP";
 import IP03 from "./pages/IP03";
 import IP04 from "./pages/IP04";
 import IP05 from "./pages/IP05";
@@ -47,6 +47,7 @@ import IP11 from "./pages/IP11";
 import IP12 from "./pages/IP12";
 import IP13 from "./pages/IP13";
 import IP14 from "./pages/IP14";
+import IP17 from "./pages/ip/IP17";
 import IS from "./pages/IS";
 import IS01 from "./pages/IS01";
 import Jaw from "./pages/Jaw";
@@ -146,6 +147,7 @@ export default function App() {
           <Route path="ip12" element={<IP12 />} />
           <Route path="ip13" element={<IP13 />} />
           <Route path="ip14" element={<IP14 />} />
+          <Route path="ip17" element={<IP17 />} />
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />
           <Route path="ml" element={<ML />} />
