@@ -75,7 +75,7 @@ import SB01 from "./pages/SB01";
 import SB02 from "./pages/SB02";
 import SB03 from "./pages/SB03";
 import SB05 from "./pages/SB05";
-import SS from "./pages/SS";
+import SS from "./pages/ss/SS";
 import SS00 from "./pages/SS00";
 import SS01 from "./pages/SS01";
 import SS04 from "./pages/SS04";
@@ -89,6 +89,7 @@ import SS14 from "./pages/SS14";
 import SS15 from "./pages/SS15";
 import SS16 from "./pages/SS16";
 import SS17 from "./pages/SS17";
+import SS19 from "./pages/ss/SS19";
 import VK from "./pages/VK";
 import VK05 from "./pages/VK05";
 import VK06 from "./pages/VK06";
@@ -184,6 +185,7 @@ export default function App() {
           <Route path="ss15" element={<SS15 />} />
           <Route path="ss16" element={<SS16 />} />
           <Route path="ss17" element={<SS17 />} />
+          <Route path="ss19" element={<SS19 />} />
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
           <Route path="vk06" element={<VK06 />} />
