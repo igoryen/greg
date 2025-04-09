@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import words from "../data/ab/ab09.json";
+import Leon from "../../components/Leon";
+import words from "../../data/ab/ab09.json";
 
 class AB08 extends React.Component {
     componentDidMount() {

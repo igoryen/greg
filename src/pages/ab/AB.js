@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Derek from "../components/Derek";
-import lines from "../data/ab/ab.json";
+import Derek from "../../components/Derek";
+import lines from "../../data/ab/ab.json";
 
 class AB extends React.Component {
     render() {
