@@ -1,0 +1,506 @@
+[
+ {
+   "cefr": "",
+   "def1": "автобус 🚌",
+   "ipa": "ə bʌs",
+   "spell": "a bŭs"
+ },
+ {
+   "cefr": "",
+   "def1": "бедняжка!",
+   "ipa": "pʊr θɪŋ!",
+   "spell": "poor thing!"
+ },
+ {
+   "cefr": "",
+   "def1": "бежать 🏃",
+   "ipa": "tu rʌn",
+   "spell": "to rŭn"
+ },
+ {
+   "cefr": "",
+   "def1": "бита 🦇",
+   "ipa": "ə bæt",
+   "spell": "a băt"
+ },
+ {
+   "cefr": "",
+   "def1": "бревно 🪵",
+   "ipa": "ə lɔɡ",
+   "spell": "a lŏg"
+ },
+ {
+   "cefr": "",
+   "def1": "быть",
+   "ipa": "tu bi",
+   "spell": "to bē"
+ },
+ {
+   "cefr": "",
+   "def1": "ведущий",
+   "ipa": "ə hoʊst",
+   "spell": "a host"
+ },
+ {
+   "cefr": "",
+   "def1": "велосипед 🚲",
+   "ipa": "ə baɪk",
+   "spell": "a bīke"
+ },
+ {
+   "cefr": "",
+   "def1": "верёвка 🧶",
+   "ipa": "ə roʊp",
+   "spell": "a rōpe"
+ },
+ {
+   "cefr": "",
+   "def1": "видеть 👀",
+   "ipa": "tu si",
+   "spell": "to sēē"
+ },
+ {
+   "cefr": "",
+   "def1": "время ⏰",
+   "ipa": "taɪm",
+   "spell": "tīme"
+ },
+ {
+   "cefr": "",
+   "def1": "все вместе",
+   "ipa": "ɔl təˈɡɛðər",
+   "spell": "all together"
+ },
+ {
+   "cefr": "",
+   "def1": "высокий ⬆️",
+   "ipa": "haɪ",
+   "spell": "hīgh"
+ },
+ {
+   "cefr": "",
+   "def1": "горячий 🔥",
+   "ipa": "hɑt",
+   "spell": "hŏt"
+ },
+ {
+   "cefr": "",
+   "def1": "губа 👄",
+   "ipa": "ə lɪp",
+   "spell": "a lĭp"
+ },
+ {
+   "cefr": "",
+   "def1": "дерево 🌳",
+   "ipa": "ə tri",
+   "spell": "a trēe"
+ },
+ {
+   "cefr": "",
+   "def1": "дождь 🌧️",
+   "ipa": "reɪn",
+   "spell": "rāin"
+ },
+ {
+   "cefr": "",
+   "def1": "долгая или краткая?",
+   "ipa": "lɔŋ ɔr ʃɔrt?",
+   "spell": "long or short?"
+ },
+ {
+   "cefr": "",
+   "def1": "дом 🏠",
+   "ipa": "ə hoʊm",
+   "spell": "a hōme"
+ },
+ {
+   "cefr": "",
+   "def1": "забеременеть",
+   "ipa": "tu ɡɛt ˈprɛɡnənt",
+   "spell": "to get pregnant"
+ },
+ {
+   "cefr": "",
+   "def1": "знаменитый",
+   "ipa": "ˈfeɪməs",
+   "spell": "famous"
+ },
+ {
+   "cefr": "",
+   "def1": "идёт снег",
+   "ipa": "ɪts ˈsnoʊɪŋ",
+   "spell": "it’s snowing"
+ },
+ {
+   "cefr": "",
+   "def1": "имя 📛",
+   "ipa": "ə neɪm",
+   "spell": "a nāme"
+ },
+ {
+   "cefr": "",
+   "def1": "карта 🗺️",
+   "ipa": "ə mæp",
+   "spell": "a măp"
+ },
+ {
+   "cefr": "",
+   "def1": "ключ 🔑",
+   "ipa": "ə ki",
+   "spell": "a kēy"
+ },
+ {
+   "cefr": "",
+   "def1": "коза",
+   "ipa": "ə ɡoʊt",
+   "spell": "a gōat"
+ },
+ {
+   "cefr": "",
+   "def1": "кость 🦴",
+   "ipa": "ə boʊn",
+   "spell": "a bōne"
+ },
+ {
+   "cefr": "",
+   "def1": "кот 🐱",
+   "ipa": "ə kæt",
+   "spell": "a căt"
+ },
+ {
+   "cefr": "",
+   "def1": "кошка родила котят",
+   "ipa": "ðə kæt ɡeɪv bɜrθ tu ˈkɪtənz",
+   "spell": "the cat gave birth to kittens"
+ },
+ {
+   "cefr": "",
+   "def1": "кошка рожает",
+   "ipa": "ðə kæt ɪz ˈɡɪvɪŋ bɜrθ",
+   "spell": "the cat is giving birth"
+ },
+ {
+   "cefr": "",
+   "def1": "красный 🔴",
+   "ipa": "rɛd",
+   "spell": "rĕd"
+ },
+ {
+   "cefr": "",
+   "def1": "кратка, дуга, бре́ве,бре́вис, улыбка",
+   "ipa": "ə breve",
+   "spell": "a breve"
+ },
+ {
+   "cefr": "",
+   "def1": "кровать 🛏️",
+   "ipa": "ə bɛd",
+   "spell": "a bĕd"
+ },
+ {
+   "cefr": "",
+   "def1": "кусочек",
+   "ipa": "ə bɪt",
+   "spell": "a bĭt"
+ },
+ {
+   "cefr": "",
+   "def1": "любимый",
+   "ipa": "ˈfeɪvərɪt",
+   "spell": "favorite"
+ },
+ {
+   "cefr": "",
+   "def1": "макро́н",
+   "ipa": "ə macron",
+   "spell": "a macron"
+ },
+ {
+   "cefr": "",
+   "def1": "мелодия 🎶",
+   "ipa": "ə tun",
+   "spell": "a tūne"
+ },
+ {
+   "cefr": "",
+   "def1": "меня",
+   "ipa": "mi",
+   "spell": "mē"
+ },
+ {
+   "cefr": "",
+   "def1": "милый 😊",
+   "ipa": "kjut",
+   "spell": "cūte"
+ },
+ {
+   "cefr": "",
+   "def1": "мокрый 💧",
+   "ipa": "wɛt",
+   "spell": "wĕt"
+ },
+ {
+   "cefr": "",
+   "def1": "мороз и ветер",
+   "ipa": "ɪts ˈfrizɪŋ ænd ˈwɪndi",
+   "spell": "it’s freezing and windy"
+ },
+ {
+   "cefr": "",
+   "def1": "морозно",
+   "ipa": "ɪts ˈfrɔsti",
+   "spell": "it's frosty"
+ },
+ {
+   "cefr": "",
+   "def1": "мотоцикл",
+   "ipa": "ə ˈmoʊtərˌsaɪkəl",
+   "spell": "a motorcycle"
+ },
+ {
+   "cefr": "",
+   "def1": "мы смотрели видео",
+   "ipa": "wi wɑʧt ə ˈvɪdioʊ",
+   "spell": "we watched a video"
+ },
+ {
+   "cefr": "",
+   "def1": "немой 🤫",
+   "ipa": "mjut",
+   "spell": "mūte"
+ },
+ {
+   "cefr": "",
+   "def1": "нога 🦵",
+   "ipa": "ə lɛɡ",
+   "spell": "a lĕg"
+ },
+ {
+   "cefr": "",
+   "def1": "нота 🎵",
+   "ipa": "ə noʊt",
+   "spell": "a nōte"
+ },
+ {
+   "cefr": "",
+   "def1": "она ещё родила котят?",
+   "ipa": "hæz ʃi ˈɡɪvən bɜrθ tu mɔr ˈkɪtənz?",
+   "spell": "has she given birth to more kittens?"
+ },
+ {
+   "cefr": "",
+   "def1": "остановка 🛑",
+   "ipa": "ə stɑp",
+   "spell": "a stŏp"
+ },
+ {
+   "cefr": "",
+   "def1": "отопление",
+   "ipa": "ˈhitɪŋ",
+   "spell": "heating"
+ },
+ {
+   "cefr": "",
+   "def1": "печь 🍞",
+   "ipa": "tu beɪk",
+   "spell": "to bāke"
+ },
+ {
+   "cefr": "",
+   "def1": "по сути",
+   "ipa": "ˈbeɪsɪkli",
+   "spell": "basically"
+ },
+ {
+   "cefr": "",
+   "def1": "побеждать 🏆",
+   "ipa": "tu wɪn",
+   "spell": "to wĭn"
+ },
+ {
+   "cefr": "",
+   "def1": "позвать ветеринара",
+   "ipa": "tu kɔl ðə vɛt",
+   "spell": "to call the vet"
+ },
+ {
+   "cefr": "",
+   "def1": "поздний ⏳",
+   "ipa": "leɪt",
+   "spell": "lāte"
+ },
+ {
+   "cefr": "",
+   "def1": "пока родила только двух котят",
+   "ipa": "soʊ fɑr ʃi hæz ˈɡɪvən bɜrθ tu ˈoʊnli tu ˈkɪtənz",
+   "spell": "so far she has given birth to only two kittens"
+ },
+ {
+   "cefr": "",
+   "def1": "пока только 2",
+   "ipa": "soʊ fɑr ˈoʊnli 2",
+   "spell": "so far only 2"
+ },
+ {
+   "cefr": "",
+   "def1": "полоса",
+   "ipa": "ə straɪp",
+   "spell": "a stripe"
+ },
+ {
+   "cefr": "",
+   "def1": "полосатая кошка",
+   "ipa": "ə straɪpt kæt",
+   "spell": "a striped cat"
+ },
+ {
+   "cefr": "",
+   "def1": "популярный",
+   "ipa": "ˈpɑpjələr",
+   "spell": "popular"
+ },
+ {
+   "cefr": "",
+   "def1": "правило 👑",
+   "ipa": "ə rul",
+   "spell": "a rūle"
+ },
+ {
+   "cefr": "",
+   "def1": "родить их всех сразу",
+   "ipa": "tu ɡɪv bɜrθ tu ɔl ʌv ðɛm æt wʌns",
+   "spell": "to give birth to all of them at once"
+ },
+ {
+   "cefr": "",
+   "def1": "ручка ✏️",
+   "ipa": "ə pɛn",
+   "spell": "a pĕn"
+ },
+ {
+   "cefr": "",
+   "def1": "рыба 🐟",
+   "ipa": "ə fɪʃ",
+   "spell": "a fĭsh"
+ },
+ {
+   "cefr": "",
+   "def1": "свет 💡",
+   "ipa": "laɪt",
+   "spell": "līght"
+ },
+ {
+   "cefr": "",
+   "def1": "сидела 🧘",
+   "ipa": "ʃi sæt",
+   "spell": "she săt"
+ },
+ {
+   "cefr": "",
+   "def1": "сидеть 🪑",
+   "ipa": "tu sɪt",
+   "spell": "to sĭt"
+ },
+ {
+   "cefr": "",
+   "def1": "синий 🔵",
+   "ipa": "blu",
+   "spell": "blūe"
+ },
+ {
+   "cefr": "",
+   "def1": "скала 🪨",
+   "ipa": "ə rɑk",
+   "spell": "a rŏck"
+ },
+ {
+   "cefr": "",
+   "def1": "собака 🐶",
+   "ipa": "ə dɔɡ",
+   "spell": "a dŏg"
+ },
+ {
+   "cefr": "",
+   "def1": "солнце ☀️",
+   "ipa": "ə sʌn",
+   "spell": "a sŭn"
+ },
+ {
+   "cefr": "",
+   "def1": "составить мне компанию",
+   "ipa": "tu kip mi ˈkʌmpəni",
+   "spell": "to keep me company"
+ },
+ {
+   "cefr": "",
+   "def1": "стоит мороз",
+   "ipa": "ɪts ˈfrizɪŋ",
+   "spell": "it's freezing"
+ },
+ {
+   "cefr": "",
+   "def1": "тогда",
+   "ipa": "ðɛn",
+   "spell": "then"
+ },
+ {
+   "cefr": "",
+   "def1": "торт 🍰",
+   "ipa": "ə keɪk",
+   "spell": "a cāke"
+ },
+ {
+   "cefr": "",
+   "def1": "тёплый",
+   "ipa": "wɔrm",
+   "spell": "warm"
+ },
+ {
+   "cefr": "",
+   "def1": "у неё ещё остались котята? пусть рожает",
+   "ipa": "ʃi stɪl hæz mɔr ˈkɪtənz? hæv ðɛm",
+   "spell": "she still has more kittens? have them"
+ },
+ {
+   "cefr": "",
+   "def1": "утка 🦆",
+   "ipa": "ə dʌk",
+   "spell": "a dŭck"
+ },
+ {
+   "cefr": "",
+   "def1": "цикл",
+   "ipa": "ə ˈsaɪkəl",
+   "spell": "a cycle"
+ },
+ {
+   "cefr": "",
+   "def1": "чашка ☕",
+   "ipa": "ə kʌp",
+   "spell": "a cŭp"
+ },
+ {
+   "cefr": "",
+   "def1": "чего она хочет?",
+   "ipa": "wɑt dʌz ʃi wɑnt?",
+   "spell": "what does she want?"
+ },
+ {
+   "cefr": "",
+   "def1": "шахта ⛏️",
+   "ipa": "ə maɪn",
+   "spell": "a mīne"
+ },
+ {
+   "cefr": "",
+   "def1": "шляпа 🎩",
+   "ipa": "ə hæt",
+   "spell": "a hăt"
+ },
+ {
+   "cefr": "",
+   "def1": "это требует времени",
+   "ipa": "ɪt teɪks taɪm",
+   "spell": "it takes time"
+ }
+]
