@@ -6,7 +6,7 @@ class Ang extends React.Component {
         return (
             <div>
                 <h3>Anglofor</h3>
-                <h1>Students</h1>
+                <h1>Classes</h1>
                 <section className="tom">
                     <ol>
                         <li><p><a href="/ab" rel="noopener noreferrer">ab</a></p></li>
