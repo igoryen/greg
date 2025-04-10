@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Derek from "../components/Derek";
-import lines from "../data/ml.json";
+import Derek from "../../components/Derek";
+import lines from "../../data/ml/ml.json";
 
 class ML extends React.Component {
     render() {
