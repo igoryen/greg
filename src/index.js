@@ -26,6 +26,8 @@ import OS01 from "./pages/OS01";
 import OS02 from "./pages/OS02";
 import Bob from "./pages/Bob";
 import Dan from "./pages/Dan";
+import GK from "./pages/gk/GK";
+import GK01 from "./pages/gk/GK01";
 import GP from "./pages/GP";
 import GP01 from "./pages/GP01";
 import IM from "./pages/IM";
@@ -127,6 +129,8 @@ export default function App() {
           <Route path="ag10" element={<AG10 />} />
           <Route path="os" element={<OS />} />
           <Route path="os01" element={<OS01 />} />
+          <Route path="gk" element={<GK />} />
+          <Route path="gk01" element={<GK01 />} />
           <Route path="gp" element={<GP />} />
           <Route path="gp01" element={<GP01 />} />
           <Route path="os02" element={<OS02 />} />
