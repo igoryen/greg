@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
 
-import Leon from "../components/Leon";
+import Leon from "../../components/Leon";
 
 class MS06 extends React.Component {
     componentDidMount() {

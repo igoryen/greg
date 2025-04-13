@@ -1,10 +1,10 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Mathilda from "../components/Mathilda";
-import words from "../data/ms12.json";
-import sentences from "../data/ms11s.json";
-import Jufra from "../components/Jufra";
+import Leon from "../../components/Leon";
+import Mathilda from "../../components/Mathilda";
+import words from "../../data/ms/ms12.json";
+import sentences from "../../data/ms/ms11s.json";
+import Jufra from "../../components/Jufra";
 
 class MS12 extends React.Component {
 

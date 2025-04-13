@@ -1,8 +1,8 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import words from "../data/ms10.json";
-import sentences from "../data/ms10s.json";
+import Leon from "../../components/Leon";
+import words from "../../data/ms/ms10.json";
+import sentences from "../../data/ms/ms10s.json";
 
 class MS06 extends React.Component {
     componentDidMount() {
