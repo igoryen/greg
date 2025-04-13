@@ -6,7 +6,7 @@ function Mathilda({ words, lang = 'def1', showSpell = true }) {
         window.$(".word").flip({ speed: 200 });
     });
 
-    let language = lang.slice(-1) == "1" ? "Russian" : "Ukrainian";
+    let language = lang.slice(-1) === "1" ? "Russian" : "Ukrainian";
 
     // src: https://stackoverflow.com/a/2450976/2938344
     function shuffle(array) {
