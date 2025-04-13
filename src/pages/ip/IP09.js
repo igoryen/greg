@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import words from "../data/ip09.json";
+import Leon from "../../components/Leon";
+import words from "../../data/ip/ip09.json";
 
 class IP09 extends React.Component {
     componentDidMount() {

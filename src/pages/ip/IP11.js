@@ -1,15 +1,15 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Word from "../components/Word";
-import words from "../data/ip13.json";
+import Leon from "../../components/Leon";
+import Word from "../../components/Word";
+import words from "../../data/ip/ip11.json";
 
-class IP13 extends React.Component {
+class IP11 extends React.Component {
 
     render() {
         const lesson = {
             "student": "Ihor",
-            "number": 13,
+            "number": 11,
             "slug": "ip"
         };
 
@@ -22,4 +22,4 @@ class IP13 extends React.Component {
     }
 }
 
-export default IP13;
+export default IP11;

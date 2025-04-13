@@ -1,8 +1,8 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Word from "../components/Word";
-import words from "../data/ip10.json";
+import Leon from "../../components/Leon";
+import Word from "../../components/Word";
+import words from "../../data/ip/ip10.json";
 
 class IP10 extends React.Component {
     componentDidMount() {
