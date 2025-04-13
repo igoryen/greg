@@ -205,6 +205,8 @@ export default function App() {
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
           <Route path="vk06" element={<VK06 />} />
+
+          {/* // voksa - the file to use for pairs of words to make reels on Instagram */}
           <Route path="voksa" element={<Voksa />} />
           <Route path="bob" element={<Bob />} />
           <Route path="jaw" element={<Jaw />} />

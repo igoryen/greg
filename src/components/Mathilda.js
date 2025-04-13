@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-function Mathilda({ words, showSpell = true }) {
+function Mathilda({ words, lang = 'def1', showSpell = true }) {
     useEffect(() => {
         // code to run after render goes here
         window.$(".word").flip({ speed: 200 });
@@ -33,7 +33,7 @@ function Mathilda({ words, showSpell = true }) {
             <div className="word" key={i}>
                 <div className="front part part1">
                     <p>{i}</p>
-                    <div className="rus">{word.def1}</div>
+                    <div className="rus">{word[lang]}</div>
                     <div className="cefr">{word.cefr}</div>
                 </div>
                 <div className="back part part2">
@@ -46,6 +46,7 @@ function Mathilda({ words, showSpell = true }) {
 
     return (
         <section className="words_">
+            <pre>{lang.slice(-1)}</pre>
             {!showSpell && <div className="attn">Spelling is hidden</div>}
             <div className="words">
                 {wordsFinal}

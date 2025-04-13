@@ -232,6 +232,18 @@ span.sgn i {
 
 }
 
+.pijne {
+    padding: 10px;
+
+    button {
+        margin: 0 10px 0 0;
+        padding: 5px;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
 
 /***/
 .sentence {

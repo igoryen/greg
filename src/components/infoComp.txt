@@ -1,0 +1,4 @@
+Mathilda
+    component. renders the body of a flashcards page. renders the flashcards on each class's page.
+    
+Paloma
