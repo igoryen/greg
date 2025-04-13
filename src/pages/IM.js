@@ -8,7 +8,7 @@ class IM extends React.Component {
         return (
             <div>
                 <h3>Anglofor</h3>
-                <h1>Ivan Maslov</h1>
+                <h1>Ivan</h1>
                 <Derek derek={lines} slug="im" />
             </div>
         );

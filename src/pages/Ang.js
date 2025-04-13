@@ -13,7 +13,7 @@ class Ang extends React.Component {
                         <li><p><a href="/ag" rel="noopener noreferrer">ag</a></p></li>
                         <li><p><a href="/gk" rel="noopener noreferrer">gk</a></p></li>
                         <li><p><a href="/gp" rel="noopener noreferrer">gp</a></p></li>
-                        <li><p><a href="/im" rel="noopener noreferrer">im</a></p></li>
+
                         <li><p><a href="/ip" rel="noopener noreferrer">ip</a></p></li>
                         <li><p><a href="/is" rel="noopener noreferrer">is</a></p></li>
                         <li><p><a href="/ml" rel="noopener noreferrer">ml</a></p></li>
@@ -25,6 +25,13 @@ class Ang extends React.Component {
                         <li><p><a href="/vk" rel="noopener noreferrer">vk</a></p></li>
                     </ol>
                 </section>
+                <h2>Paused</h2>
+                <section className="tom">
+                    <ol>
+                        <li><p><a href="/im" rel="noopener noreferrer">im</a></p></li>
+                    </ol>
+                </section>
+
             </div>
         );
     }
