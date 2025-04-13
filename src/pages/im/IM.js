@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Derek from "../components/Derek";
-import lines from "../data/im.json";
+import Derek from "../../components/Derek";
+import lines from "../../data/im/im.json";
 
 class IM extends React.Component {
     render() {

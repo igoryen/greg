@@ -1,16 +1,16 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Word from "../components/Word";
-import words from "../data/im09.json";
+import Leon from "../../components/Leon";
+import Word from "../../components/Word";
+import words from "../../data/im/im10.json";
 
-class IM09 extends React.Component {
+class IM10 extends React.Component {
 
     render() {
 
         const lesson = {
             "student": "Ivan",
-            "number": 9,
+            "number": 10,
             "slug": "im"
         };
 
@@ -23,4 +23,4 @@ class IM09 extends React.Component {
     }
 }
 
-export default IM09;
+export default IM10;

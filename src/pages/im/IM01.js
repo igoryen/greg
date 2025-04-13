@@ -1,4 +1,4 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
 
 class IM01 extends React.Component {
@@ -121,7 +121,7 @@ class IM01 extends React.Component {
         return (
             <div>
                 <h3>Anglofor</h3>
-                <h1>Ivan Maslov :: Lesson 1</h1>
+                <h1>Ivan :: Lesson 1</h1>
                 <section className="words">
                     {wordsFinal}
                 </section>

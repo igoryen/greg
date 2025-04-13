@@ -1,8 +1,8 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Word from "../components/Word";
-import words from "../data/im12.json";
+import Leon from "../../components/Leon";
+import Word from "../../components/Word";
+import words from "../../data/im/im12.json";
 
 class IM12 extends React.Component {
 

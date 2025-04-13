@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import words from "../data/im07.json";
+import Leon from "../../components/Leon";
+import words from "../../data/im/im07.json";
 
 class IM07 extends React.Component {
     componentDidMount() {
