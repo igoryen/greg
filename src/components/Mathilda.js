@@ -6,6 +6,8 @@ function Mathilda({ words, lang = 'def1', showSpell = true }) {
         window.$(".word").flip({ speed: 200 });
     });
 
+    let language = lang.slice(-1) == "1" ? "Russian" : "Ukrainian";
+
     // src: https://stackoverflow.com/a/2450976/2938344
     function shuffle(array) {
         let currentIndex = array.length;
@@ -46,7 +48,7 @@ function Mathilda({ words, lang = 'def1', showSpell = true }) {
 
     return (
         <section className="words_">
-            <pre>{lang.slice(-1)}</pre>
+            <pre>{language}</pre>
             {!showSpell && <div className="attn">Spelling is hidden</div>}
             <div className="words">
                 {wordsFinal}

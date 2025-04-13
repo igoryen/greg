@@ -28,11 +28,11 @@ class GK01 extends React.Component {
                 <Leon lesson={lesson} />
                 <div className="pijne">
                     <button onClick={() => { this.setLang('def1') }} >
-                        Language 1
+                        Rus (1)
                     </button>
 
                     <button onClick={() => { this.setLang('def2') }} >
-                        Language 2
+                        Ukr (2)
                     </button>
                 </div>
                 <Mathilda words={words} lang={this.state.lng} />
