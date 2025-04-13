@@ -1,436 +1,436 @@
 [
- {
-   "cefr": "",
-   "def2": "річ",
-   "def1": "вещь",
-   "ipa": "ə θɪŋ",
-   "spell": "a thing"
- },
- {
-   "cefr": "",
-   "def2": "вода",
-   "def1": "вода",
-   "ipa": "ˈwɔtər",
-   "spell": "water"
- },
- {
-   "cefr": "",
-   "def2": "ось як…",
-   "def1": "вот как...",
-   "ipa": "ðæt ɪz haʊ…",
-   "spell": "that is how…"
- },
- {
-   "cefr": "",
-   "def2": "ви, хлопці, тут",
-   "def1": "вы здесь",
-   "ipa": "ju ɡaɪz ɑr hir",
-   "spell": "you guys are here"
- },
- {
-   "cefr": "",
-   "def2": "додати",
-   "def1": "добавлять",
-   "ipa": "tu æd",
-   "spell": "to add"
- },
- {
-   "cefr": "",
-   "def2": "думати",
-   "def1": "думать",
-   "ipa": "tu θɪŋk",
-   "spell": "to think"
- },
- {
-   "cefr": "",
-   "def2": "однина",
-   "def1": "единственное число",
-   "ipa": "ˈsɪŋɡjələr",
-   "spell": "singular"
- },
- {
-   "cefr": "",
-   "def2": "рідина",
-   "def1": "жидкость",
-   "ipa": "ə ˈlɪkwɪd",
-   "spell": "a liquid"
- },
- {
-   "cefr": "",
-   "def2": "як справи?",
-   "def1": "как вы?",
-   "ipa": "haʊ ɑr ju ɡaɪz (ˈduɪŋ)?",
-   "spell": "How are you guys (doing)?"
- },
- {
-   "cefr": "",
-   "def2": "як сказати...",
-   "def1": "как сказать",
-   "ipa": "haʊ du ju/aɪ seɪ...",
-   "spell": "how do you/I say..."
- },
- {
-   "cefr": "",
-   "def2": "яка різниця між цими словами?",
-   "def1": "какая разница между этими словами?",
-   "ipa": "wʌts ðə ˈdɪfərəns bɪˈtwin ðiz wɜrdz?",
-   "spell": "what’s the difference between these words?"
- },
- {
-   "cefr": "",
-   "def2": "звичайно",
-   "def1": "конечно",
-   "ipa": "ʌv kɔrs",
-   "spell": "of course"
- },
- {
-   "cefr": "",
-   "def2": "мені подобаються ці печива",
-   "def1": "мне нравятся эти печенья",
-   "ipa": "aɪ laɪk ðiz ˈkʊkiz",
-   "spell": "I like these cookies"
- },
- {
-   "cefr": "",
-   "def2": "множина",
-   "def1": "множественное число",
-   "ipa": "ˈplʊrəl",
-   "spell": "plural"
- },
- {
-   "cefr": "",
-   "def2": "шахрай",
-   "def1": "мошенник",
-   "ipa": "ə ˈskæmər",
-   "spell": "a scammer"
- },
- {
-   "cefr": "",
-   "def2": "моє прізвище",
-   "def1": "моя фамилия",
-   "ipa": "maɪ læst neɪm",
-   "spell": "my last name"
- },
- {
-   "cefr": "",
-   "def2": "моє ім’я",
-   "def1": "моё имя",
-   "ipa": "maɪ fɜrst neɪm",
-   "spell": "my first name"
- },
- {
-   "cefr": "",
-   "def2": "ненавидіти",
-   "def1": "ненавидеть",
-   "ipa": "tu heɪt",
-   "spell": "to hate"
- },
- {
-   "cefr": "",
-   "def2": "немає кращого способу",
-   "def1": "нет лучшего способа",
-   "ipa": "ðɛr ɪz noʊ ˈbɛtər weɪ",
-   "spell": "there is no better way"
- },
- {
-   "cefr": "",
-   "def2": "немає жодної різниці",
-   "def1": "нет никакой разницы",
-   "ipa": "ðɛr ɪz noʊ ˈdɪfərəns æt ɔl",
-   "spell": "there is no difference at all"
- },
- {
-   "cefr": "",
-   "def2": "ніколи",
-   "def1": "никогда",
-   "ipa": "ˈnɛvər",
-   "spell": "never"
- },
- {
-   "cefr": "",
-   "def2": "ніколи не знаєш",
-   "def1": "никогда не угадаешь",
-   "ipa": "ju ˈnɛvər noʊ",
-   "spell": "you never know"
- },
- {
-   "cefr": "",
-   "def2": "зазвичай ні",
-   "def1": "обычно нет",
-   "ipa": "ˈnɔrməli, noʊ",
-   "spell": "normally, no"
- },
- {
-   "cefr": "",
-   "def2": "означати",
-   "def1": "означать",
-   "ipa": "tu stænd fɔr",
-   "spell": "to stand for"
- },
- {
-   "cefr": "",
-   "def2": "вони там",
-   "def1": "они - там",
-   "ipa": "ðeɪ ɑr ðɛr",
-   "spell": "they are there"
- },
- {
-   "cefr": "",
-   "def2": "перша літера вашого прізвища",
-   "def1": "первая буква твоей фамилии",
-   "ipa": "ðə fɜrst ˈlɛtər ʌv jʊər læst neɪm",
-   "spell": "the first letter of your last name"
- },
- {
-   "cefr": "",
-   "def2": "переглядати",
-   "def1": "повторять",
-   "ipa": "tu ˌriˈvju",
-   "spell": "to review"
- },
- {
-   "cefr": "",
-   "def2": "поверх",
-   "def1": "пол; этаж",
-   "ipa": "ə flɔr",
-   "spell": "a floor"
- },
- {
-   "cefr": "",
-   "def2": "корисний",
-   "def1": "полезный",
-   "ipa": "ˈjusfəl",
-   "spell": "useful"
- },
- {
-   "cefr": "",
-   "def2": "половина",
-   "def1": "половина",
-   "ipa": "ə hæf",
-   "spell": "a half"
- },
- {
-   "cefr": "",
-   "def2": "використання",
-   "def1": "польза, прок",
-   "ipa": "juz",
-   "spell": "use"
- },
- {
-   "cefr": "",
-   "def2": "агов [багатьом людям]!",
-   "def1": "привет [ко многим]!",
-   "ipa": "heɪ ju ɡaɪz!",
-   "spell": "hey you guys!"
- },
- {
-   "cefr": "",
-   "def2": "пустишка \"ду\"",
-   "def1": "пустышка \"ду\"",
-   "ipa": "ðə ˈdʌmi du",
-   "spell": "the dummy 'do'"
- },
- {
-   "cefr": "",
-   "def2": "засіб",
-   "def1": "средство",
-   "ipa": "ə minz (ʌv/tu)",
-   "spell": "a means (of/to)"
- },
- {
-   "cefr": "",
-   "def2": "старий",
-   "def1": "старый",
-   "ipa": "oʊld",
-   "spell": "old"
- },
- {
-   "cefr": "",
-   "def2": "рахувати",
-   "def1": "считать",
-   "ipa": "tu kaʊnt",
-   "spell": "to count"
- },
- {
-   "cefr": "",
-   "def2": "твердий",
-   "def1": "твёрдый",
-   "ipa": "ˈsɑləd",
-   "spell": "solid"
- },
- {
-   "cefr": "",
-   "def2": "ті",
-   "def1": "те",
-   "ipa": "ðoʊz",
-   "spell": "those"
- },
- {
-   "cefr": "",
-   "def2": "тe",
-   "def1": "то",
-   "ipa": "ðæt",
-   "spell": "that"
- },
- {
-   "cefr": "",
-   "def2": "ти бачиш гроші?",
-   "def1": "ты видишь деньги?",
-   "ipa": "du ju si ˈmʌni?",
-   "spell": "do you see money?"
- },
- {
-   "cefr": "",
-   "def2": "ти тут",
-   "def1": "ты здесь",
-   "ipa": "ju ɑr hir",
-   "spell": "you are here"
- },
- {
-   "cefr": "",
-   "def2": "ти можеш робити ці речі?",
-   "def1": "ты можешь сделать эти вещи?",
-   "ipa": "kæn ju du ðiz θɪŋz?",
-   "spell": "can you do these things?"
- },
- {
-   "cefr": "",
-   "def2": "ти розумієш?",
-   "def1": "ты понимаешь?",
-   "ipa": "du ju ˌʌndərˈstænd?",
-   "spell": "do you understand?"
- },
- {
-   "cefr": "",
-   "def2": "ти",
-   "def1": "ты, Вы",
-   "ipa": "ju",
-   "spell": "you"
- },
- {
-   "cefr": "",
-   "def2": "у мене є час",
-   "def1": "у меня есть время",
-   "ipa": "aɪ hæv taɪm",
-   "spell": "I have time"
- },
- {
-   "cefr": "",
-   "def2": "у мене немає часу",
-   "def1": "у меня нет времени",
-   "ipa": "aɪ du nɑt hæv taɪm",
-   "spell": "I do not have time"
- },
- {
-   "cefr": "",
-   "def2": "у них немає кави",
-   "def1": "у них нет кофе",
-   "ipa": "ðeɪ du nɑt hæv ˈkɑfi",
-   "spell": "they do not have coffee"
- },
- {
-   "cefr": "",
-   "def2": "у вас є X?",
-   "def1": "у тебя есть X?",
-   "ipa": "du ju hæv ɛks?",
-   "spell": "do you have X?"
- },
- {
-   "cefr": "",
-   "def2": "у вас є час?",
-   "def1": "у тебя есть время?",
-   "ipa": "du ju hæv taɪm?",
-   "spell": "do you have time?"
- },
- {
-   "cefr": "",
-   "def2": "людина",
-   "def1": "человек",
-   "ipa": "ə ˈpɜrsən",
-   "spell": "a person"
- },
- {
-   "cefr": "",
-   "def2": "що у вас є?",
-   "def1": "что у тебя есть?",
-   "ipa": "wɑt du ju hæv?",
-   "spell": "what do you have?"
- },
- {
-   "cefr": "",
-   "def2": "еквівалент",
-   "def1": "эквивалент",
-   "ipa": "ən ɪˈkwɪvələnt",
-   "spell": "an equivalent"
- },
- {
-   "cefr": "",
-   "def2": "ці",
-   "def1": "эти",
-   "ipa": "ðiz",
-   "spell": "these"
- },
- {
-   "cefr": "",
-   "def2": "це",
-   "def1": "это",
-   "ipa": "ðɪs",
-   "spell": "this"
- },
- {
-   "cefr": "",
-   "def2": "не має значення",
-   "def1": "это не имеет значения",
-   "ipa": "ɪt ˈdʌzənt ˈmætər",
-   "spell": "it doesn’t matter"
- },
- {
-   "cefr": "",
-   "def2": "я заплутався",
-   "def1": "я в замешательстве",
-   "ipa": "aɪ æm kənˈfjuzd",
-   "spell": "I am confused"
- },
- {
-   "cefr": "",
-   "def2": "я бачу гроші",
-   "def1": "я вижу деньги",
-   "ipa": "aɪ si ˈmʌni",
-   "spell": "I see money"
- },
- {
-   "cefr": "",
-   "def2": "я тут",
-   "def1": "я здесь",
-   "ipa": "aɪ æm hir",
-   "spell": "I am here"
- },
- {
-   "cefr": "",
-   "def2": "я можу робити це, але не можу робити те",
-   "def1": "я могу сделать это, но не могу сделать то",
-   "ipa": "aɪ kæn du ðɪs θɪŋ bʌt aɪ ˈkænɑt du ðæt θɪŋ",
-   "spell": "I can do this thing but I cannot do that thing"
- },
- {
-   "cefr": "",
-   "def2": "я не бачу грошей",
-   "def1": "я не вижу денег",
-   "ipa": "aɪ du nɑt si ˈmʌni",
-   "spell": "I do not see money"
- },
- {
-   "cefr": "",
-   "def2": "не думаю, що можу робити ці речі",
-   "def1": "я не думаю, что могу сделать эти вещи",
-   "ipa": "aɪ doʊnt θɪŋk aɪ kæn du ðiz θɪŋz",
-   "spell": "I don’t think I can do these things"
- },
- {
-   "cefr": "",
-   "def2": "я сама",
-   "def1": "я сама",
-   "ipa": "ˌmaɪˈsɛlf",
-   "spell": "myself"
- }
+  {
+    "cefr": "",
+    "def2": "річ",
+    "def1": "вещь",
+    "ipa": "ə θɪŋ",
+    "spell": "a thing"
+  },
+  {
+    "cefr": "",
+    "def2": "вода",
+    "def1": "вода",
+    "ipa": "ˈwɔtər",
+    "spell": "water"
+  },
+  {
+    "cefr": "",
+    "def2": "ось як…",
+    "def1": "вот как...",
+    "ipa": "ðæt ɪz haʊ…",
+    "spell": "that is how…"
+  },
+  {
+    "cefr": "",
+    "def2": "ви, хлопці, тут",
+    "def1": "вы здесь",
+    "ipa": "ju ɡaɪz ɑr hir",
+    "spell": "you guys are here"
+  },
+  {
+    "cefr": "",
+    "def2": "додати",
+    "def1": "добавлять",
+    "ipa": "tu æd",
+    "spell": "to add"
+  },
+  {
+    "cefr": "",
+    "def2": "думати",
+    "def1": "думать",
+    "ipa": "tu θɪŋk",
+    "spell": "to think"
+  },
+  {
+    "cefr": "",
+    "def2": "однина",
+    "def1": "единственное число",
+    "ipa": "ˈsɪŋɡjələr",
+    "spell": "singular"
+  },
+  {
+    "cefr": "",
+    "def2": "рідина",
+    "def1": "жидкость",
+    "ipa": "ə ˈlɪkwɪd",
+    "spell": "a liquid"
+  },
+  {
+    "cefr": "",
+    "def2": "як справи?",
+    "def1": "как вы?",
+    "ipa": "haʊ ɑr ju ɡaɪz (ˈduɪŋ)?",
+    "spell": "How are you guys (doing)?"
+  },
+  {
+    "cefr": "",
+    "def2": "як сказати...",
+    "def1": "как сказать",
+    "ipa": "haʊ du ju/aɪ seɪ...",
+    "spell": "how do you/I say..."
+  },
+  {
+    "cefr": "",
+    "def2": "яка різниця між цими словами?",
+    "def1": "какая разница между этими словами?",
+    "ipa": "wʌts ðə ˈdɪfərəns bɪˈtwin ðiz wɜrdz?",
+    "spell": "what’s the difference between these words?"
+  },
+  {
+    "cefr": "",
+    "def2": "звичайно",
+    "def1": "конечно",
+    "ipa": "ʌv kɔrs",
+    "spell": "of course"
+  },
+  {
+    "cefr": "",
+    "def2": "мені подобаються ці печива",
+    "def1": "мне нравятся эти печенья",
+    "ipa": "aɪ laɪk ðiz ˈkʊkiz",
+    "spell": "I like these cookies"
+  },
+  {
+    "cefr": "",
+    "def2": "множина",
+    "def1": "множественное число",
+    "ipa": "ˈplʊrəl",
+    "spell": "plural"
+  },
+  {
+    "cefr": "",
+    "def2": "шахрай",
+    "def1": "мошенник",
+    "ipa": "ə ˈskæmər",
+    "spell": "a scammer"
+  },
+  {
+    "cefr": "",
+    "def2": "моє прізвище",
+    "def1": "моя фамилия",
+    "ipa": "maɪ læst neɪm",
+    "spell": "my last name"
+  },
+  {
+    "cefr": "",
+    "def2": "моє ім’я",
+    "def1": "моё имя",
+    "ipa": "maɪ fɜrst neɪm",
+    "spell": "my first name"
+  },
+  {
+    "cefr": "",
+    "def2": "ненавидіти",
+    "def1": "ненавидеть",
+    "ipa": "tu heɪt",
+    "spell": "to hate"
+  },
+  {
+    "cefr": "",
+    "def2": "немає кращого способу",
+    "def1": "нет лучшего способа",
+    "ipa": "ðɛr ɪz noʊ ˈbɛtər weɪ",
+    "spell": "there is no better way"
+  },
+  {
+    "cefr": "",
+    "def2": "немає жодної різниці",
+    "def1": "нет никакой разницы",
+    "ipa": "ðɛr ɪz noʊ ˈdɪfərəns æt ɔl",
+    "spell": "there is no difference at all"
+  },
+  {
+    "cefr": "",
+    "def2": "ніколи",
+    "def1": "никогда",
+    "ipa": "ˈnɛvər",
+    "spell": "never"
+  },
+  {
+    "cefr": "",
+    "def2": "ніколи не знаєш",
+    "def1": "никогда не угадаешь",
+    "ipa": "ju ˈnɛvər noʊ",
+    "spell": "you never know"
+  },
+  {
+    "cefr": "",
+    "def2": "зазвичай ні",
+    "def1": "обычно нет",
+    "ipa": "ˈnɔrməli, noʊ",
+    "spell": "normally, no"
+  },
+  {
+    "cefr": "",
+    "def2": "означати",
+    "def1": "означать",
+    "ipa": "tu stænd fɔr",
+    "spell": "to stand for"
+  },
+  {
+    "cefr": "",
+    "def2": "вони там",
+    "def1": "они - там",
+    "ipa": "ðeɪ ɑr ðɛr",
+    "spell": "they are there"
+  },
+  {
+    "cefr": "",
+    "def2": "перша літера вашого прізвища",
+    "def1": "первая буква твоей фамилии",
+    "ipa": "ðə fɜrst ˈlɛtər ʌv jʊər læst neɪm",
+    "spell": "the first letter of your last name"
+  },
+  {
+    "cefr": "",
+    "def2": "переглядати",
+    "def1": "повторять",
+    "ipa": "tu ˌriˈvju",
+    "spell": "to review"
+  },
+  {
+    "cefr": "",
+    "def2": "поверх",
+    "def1": "пол; этаж",
+    "ipa": "ə flɔr",
+    "spell": "a floor"
+  },
+  {
+    "cefr": "",
+    "def2": "корисний",
+    "def1": "полезный",
+    "ipa": "ˈjusfəl",
+    "spell": "useful"
+  },
+  {
+    "cefr": "",
+    "def2": "половина",
+    "def1": "половина",
+    "ipa": "ə hæf",
+    "spell": "a half"
+  },
+  {
+    "cefr": "",
+    "def2": "використання",
+    "def1": "польза, прок",
+    "ipa": "jus",
+    "spell": "use"
+  },
+  {
+    "cefr": "",
+    "def2": "агов [багатьом людям]!",
+    "def1": "привет [ко многим]!",
+    "ipa": "heɪ ju ɡaɪz!",
+    "spell": "hey you guys!"
+  },
+  {
+    "cefr": "",
+    "def2": "пустишка \"ду\"",
+    "def1": "пустышка \"ду\"",
+    "ipa": "ðə ˈdʌmi du",
+    "spell": "the dummy 'do'"
+  },
+  {
+    "cefr": "",
+    "def2": "засіб",
+    "def1": "средство",
+    "ipa": "ə minz (ʌv/tu)",
+    "spell": "a means (of/to)"
+  },
+  {
+    "cefr": "",
+    "def2": "старий",
+    "def1": "старый",
+    "ipa": "oʊld",
+    "spell": "old"
+  },
+  {
+    "cefr": "",
+    "def2": "рахувати",
+    "def1": "считать",
+    "ipa": "tu kaʊnt",
+    "spell": "to count"
+  },
+  {
+    "cefr": "",
+    "def2": "твердий",
+    "def1": "твёрдый",
+    "ipa": "ˈsɑləd",
+    "spell": "solid"
+  },
+  {
+    "cefr": "",
+    "def2": "ті",
+    "def1": "те",
+    "ipa": "ðoʊz",
+    "spell": "those"
+  },
+  {
+    "cefr": "",
+    "def2": "тe",
+    "def1": "то",
+    "ipa": "ðæt",
+    "spell": "that"
+  },
+  {
+    "cefr": "",
+    "def2": "ти бачиш гроші?",
+    "def1": "ты видишь деньги?",
+    "ipa": "du ju si ˈmʌni?",
+    "spell": "do you see money?"
+  },
+  {
+    "cefr": "",
+    "def2": "ти тут",
+    "def1": "ты здесь",
+    "ipa": "ju ɑr hir",
+    "spell": "you are here"
+  },
+  {
+    "cefr": "",
+    "def2": "ти можеш робити ці речі?",
+    "def1": "ты можешь сделать эти вещи?",
+    "ipa": "kæn ju du ðiz θɪŋz?",
+    "spell": "can you do these things?"
+  },
+  {
+    "cefr": "",
+    "def2": "ти розумієш?",
+    "def1": "ты понимаешь?",
+    "ipa": "du ju ˌʌndərˈstænd?",
+    "spell": "do you understand?"
+  },
+  {
+    "cefr": "",
+    "def2": "ти",
+    "def1": "ты, Вы",
+    "ipa": "ju",
+    "spell": "you"
+  },
+  {
+    "cefr": "",
+    "def2": "у мене є час",
+    "def1": "у меня есть время",
+    "ipa": "aɪ hæv taɪm",
+    "spell": "I have time"
+  },
+  {
+    "cefr": "",
+    "def2": "у мене немає часу",
+    "def1": "у меня нет времени",
+    "ipa": "aɪ du nɑt hæv taɪm",
+    "spell": "I do not have time"
+  },
+  {
+    "cefr": "",
+    "def2": "у них немає кави",
+    "def1": "у них нет кофе",
+    "ipa": "ðeɪ du nɑt hæv ˈkɑfi",
+    "spell": "they do not have coffee"
+  },
+  {
+    "cefr": "",
+    "def2": "у вас є X?",
+    "def1": "у тебя есть X?",
+    "ipa": "du ju hæv ɛks?",
+    "spell": "do you have X?"
+  },
+  {
+    "cefr": "",
+    "def2": "у вас є час?",
+    "def1": "у тебя есть время?",
+    "ipa": "du ju hæv taɪm?",
+    "spell": "do you have time?"
+  },
+  {
+    "cefr": "",
+    "def2": "людина",
+    "def1": "человек",
+    "ipa": "ə ˈpɜrsən",
+    "spell": "a person"
+  },
+  {
+    "cefr": "",
+    "def2": "що у вас є?",
+    "def1": "что у тебя есть?",
+    "ipa": "wɑt du ju hæv?",
+    "spell": "what do you have?"
+  },
+  {
+    "cefr": "",
+    "def2": "еквівалент",
+    "def1": "эквивалент",
+    "ipa": "ən ɪˈkwɪvələnt",
+    "spell": "an equivalent"
+  },
+  {
+    "cefr": "",
+    "def2": "ці",
+    "def1": "эти",
+    "ipa": "ðiz",
+    "spell": "these"
+  },
+  {
+    "cefr": "",
+    "def2": "це",
+    "def1": "это",
+    "ipa": "ðɪs",
+    "spell": "this"
+  },
+  {
+    "cefr": "",
+    "def2": "не має значення",
+    "def1": "это не имеет значения",
+    "ipa": "ɪt ˈdʌzənt ˈmætər",
+    "spell": "it doesn’t matter"
+  },
+  {
+    "cefr": "",
+    "def2": "я заплутався",
+    "def1": "я в замешательстве",
+    "ipa": "aɪ æm kənˈfjuzd",
+    "spell": "I am confused"
+  },
+  {
+    "cefr": "",
+    "def2": "я бачу гроші",
+    "def1": "я вижу деньги",
+    "ipa": "aɪ si ˈmʌni",
+    "spell": "I see money"
+  },
+  {
+    "cefr": "",
+    "def2": "я тут",
+    "def1": "я здесь",
+    "ipa": "aɪ æm hir",
+    "spell": "I am here"
+  },
+  {
+    "cefr": "",
+    "def2": "я можу робити це, але не можу робити те",
+    "def1": "я могу сделать это, но не могу сделать то",
+    "ipa": "aɪ kæn du ðɪs θɪŋ bʌt aɪ ˈkænɑt du ðæt θɪŋ",
+    "spell": "I can do this thing but I cannot do that thing"
+  },
+  {
+    "cefr": "",
+    "def2": "я не бачу грошей",
+    "def1": "я не вижу денег",
+    "ipa": "aɪ du nɑt si ˈmʌni",
+    "spell": "I do not see money"
+  },
+  {
+    "cefr": "",
+    "def2": "не думаю, що можу робити ці речі",
+    "def1": "я не думаю, что могу сделать эти вещи",
+    "ipa": "aɪ doʊnt θɪŋk aɪ kæn du ðiz θɪŋz",
+    "spell": "I don’t think I can do these things"
+  },
+  {
+    "cefr": "",
+    "def2": "я сама",
+    "def1": "я сама",
+    "ipa": "ˌmaɪˈsɛlf",
+    "spell": "myself"
+  }
 ]
