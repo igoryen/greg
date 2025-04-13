@@ -1,15 +1,15 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Mathilda from "../components/Mathilda";
-import words from "../data/ag08.json";
+import Leon from "../../components/Leon";
+import Mathilda from "../../components/Mathilda";
+import words from "../../data/ag/ag10.json";
 
-class AG08 extends React.Component {
+class AG10 extends React.Component {
 
     render() {
         const lesson = {
             "student": "Artyom",
-            "number": 8,
+            "number": 10,
             "slug": "ag"
         };
 
@@ -22,4 +22,4 @@ class AG08 extends React.Component {
     }
 }
 
-export default AG08;
+export default AG10;
