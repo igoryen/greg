@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import words from "../data/ml30.json";
+import Leon from "../../components/Leon";
+import words from "../../data/ml/ml30.json";
 
 class ML29 extends React.Component {
     componentDidMount() {

@@ -1,8 +1,8 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Mathilda from "../components/Mathilda";
-import words from "../data/ml35.json";
+import Leon from "../../components/Leon";
+import Mathilda from "../../components/Mathilda";
+import words from "../../data/ml/ml35.json";
 
 class ML35 extends React.Component {
 

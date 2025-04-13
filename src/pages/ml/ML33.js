@@ -1,15 +1,15 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Mathilda from "../components/Mathilda";
-import words from "../data/ml32.json";
+import Leon from "../../components/Leon";
+import Mathilda from "../../components/Mathilda";
+import words from "../../data/ml/ml33.json";
 
-class ML32 extends React.Component {
+class ML33 extends React.Component {
 
     render() {
         const lesson = {
             "student": "Maria",
-            "number": 32,
+            "number": 33,
             "slug": "ml"
         };
 
@@ -22,4 +22,4 @@ class ML32 extends React.Component {
     }
 }
 
-export default ML32;
+export default ML33;
