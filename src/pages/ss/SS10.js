@@ -1,11 +1,9 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import words from "../data/ss12.json";
-import sentences from "../data/ss12s.json";
-import Jufra from "../components/Jufra";
+import Leon from "../../components/Leon";
+import words from "../../data/ss/ss10.json";
 
-class SS12 extends React.Component {
+class SS10 extends React.Component {
     componentDidMount() {
         window.$(".word").flip({ speed: 200 });
     }
@@ -13,7 +11,7 @@ class SS12 extends React.Component {
 
         const lesson = {
             "student": "Svetlana",
-            "number": 12,
+            "number": 10,
             "slug": "ss"
         };
 
@@ -42,12 +40,9 @@ class SS12 extends React.Component {
                 <section className="words">
                     {wordsFinal}
                 </section>
-
-                <Jufra jufra={sentences} />
-
             </div>
         );
     }
 }
 
-export default SS12;
+export default SS10;
