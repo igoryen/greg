@@ -115,6 +115,7 @@ import SS15 from "./pages/ss/SS15";
 import SS16 from "./pages/ss/SS16";
 import SS17 from "./pages/ss/SS17";
 import SS19 from "./pages/ss/SS19";
+import SS21 from "./pages/ss/SS21";
 
 import VK from "./pages/vk/VK";
 import VK05 from "./pages/vk/VK05";
@@ -236,6 +237,7 @@ export default function App() {
           <Route path="ss16" element={<SS16 />} />
           <Route path="ss17" element={<SS17 />} />
           <Route path="ss19" element={<SS19 />} />
+          <Route path="ss21" element={<SS21 />} />
 
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
