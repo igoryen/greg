@@ -1,4 +1,4 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
 
 class OS extends React.Component {
