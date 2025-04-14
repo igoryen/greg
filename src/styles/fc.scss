@@ -35,9 +35,9 @@ body {
     flex-wrap: wrap;
     gap: 2em;
     margin-bottom: 3em;
+    padding: 1em;
 }
 
-.word {}
 
 .part {
     display: flex;
@@ -46,7 +46,7 @@ body {
     width: 100%;
     /* border: 1px solid #ddd; */
     background-color: #fff;
-    margin: 10px;
+    // margin: 10px;
     padding: 10px;
     min-width: 10em;
     text-align: center;
@@ -55,17 +55,19 @@ body {
 
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     position: relative;
+
+    p {
+        bottom: 3px;
+        color: $cardno;
+        font-size: 3em;
+        font-weight: 900;
+        left: 5px;
+        margin: 0;
+        position: absolute;
+    }
 }
 
-.part p {
-    bottom: 3px;
-    color: $cardno;
-    font-size: 3em;
-    font-weight: 900;
-    left: 5px;
-    margin: 0;
-    position: absolute;
-}
+
 
 .part:hover {
     /* transform: scale(1.05); */
@@ -191,7 +193,8 @@ span.sgn i {
 }
 
 .word {
-    max-width: 18em;
+    // max-width: 50%;
+    max-width: 23em;
     width: -webkit-fill-available;
 }
 
