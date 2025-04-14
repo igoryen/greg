@@ -1,7 +1,7 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Derek from "../components/Derek";
-import lines from "../data/vk.json";
+import Derek from "../../components/Derek";
+import lines from "../../data/vk/vk.json";
 
 class VK extends React.Component {
     render() {
