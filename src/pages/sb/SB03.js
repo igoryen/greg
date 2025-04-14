@@ -1,17 +1,17 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import words from "../data/sb02.json";
+import Leon from "../../components/Leon";
+import words from "../../data/sb/sb03.json";
 
-class SB02 extends React.Component {
+class SB03 extends React.Component {
     componentDidMount() {
         window.$(".word").flip({ speed: 200 });
     }
     render() {
 
         const lesson = {
-            "student": "Svetlana B.",
-            "number": 2,
+            "student": "Svetlana",
+            "number": 3,
             "slug": "sb"
         };
 
@@ -45,4 +45,4 @@ class SB02 extends React.Component {
     }
 }
 
-export default SB02;
+export default SB03;

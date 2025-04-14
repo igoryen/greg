@@ -1,6 +1,6 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
+import Leon from "../../components/Leon";
 
 class SB01 extends React.Component {
     componentDidMount() {
@@ -9,7 +9,7 @@ class SB01 extends React.Component {
     render() {
 
         const lesson = {
-            "student": "Svetlana B.",
+            "student": "Svetlana",
             "number": 1,
             "slug": "sb"
         };

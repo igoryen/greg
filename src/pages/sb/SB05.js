@@ -1,15 +1,15 @@
-import "../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../components/Leon";
-import Mathilda from "../components/Mathilda";
-import words from "../data/sb05.json";
+import Leon from "../../components/Leon";
+import Mathilda from "../../components/Mathilda";
+import words from "../../data/sb/sb05.json";
 
 class SB05 extends React.Component {
 
     render() {
 
         const lesson = {
-            "student": "Svetlana B.",
+            "student": "Svetlana",
             "number": 5,
             "slug": "sb"
         };
