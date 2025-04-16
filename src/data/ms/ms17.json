@@ -1,0 +1,611 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "такого-то числа я столкнулся с X",
+   "ipa": "ɑn ɛks, aɪ ɪkˈspɪriənst ɛks",
+   "spell": "On X, I experienced X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "(Позвольте)(Я хотел бы) представиться;",
+   "ipa": "(əˈlaʊ mi tu)(aɪ wʊd laɪk tu) ˌɪntrəˈdus ˌmaɪˈsɛlf;",
+   "spell": "(allow me to)(I would like to) introduce myself;"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в хорошем настроении",
+   "ipa": "ɪn ɡʊd ˈspɪrɪts",
+   "spell": "in good spirits"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ваше (оперативное) внимание к",
+   "ipa": "jʊər (prɑmpt) əˈtɛnʃən tu",
+   "spell": "your (prompt) attention to"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вашего оперативного внимания к этому вопросу",
+   "ipa": "jʊər prɑmpt əˈtɛnʃən tu ðɪs ˈmætər",
+   "spell": "your prompt attention to this matter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вашу помощь",
+   "ipa": "jʊər əˈsɪstəns",
+   "spell": "your assistance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "внедрение этого предложения могло бы X",
+   "ipa": "ˈɪmpləˌmɛntɪŋ ðɪs səɡˈʤɛsʧən kʊd ɛks",
+   "spell": "Implementing this suggestion could X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Во-вторых, X",
+   "ipa": "ˈsɛkəndli, ɛks",
+   "spell": "Secondly, X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "воспримете эту обратную связь серьёзно и решите проблемы соответствующим образом, чтобы обеспечить более положительный опыт для будущих клиентов",
+   "ipa": "teɪk ðɪs ˈfidˌbæk ˈsɪriəsli ænd ˈæˌdrɛs ði ˈɪʃuz əˈkɔrdɪŋli tu ɛnˈʃʊr ə mɔr ˈpɑzətɪv ɪkˈspɪriəns fɔr ˈfjuʧər ˈkʌstəmərz",
+   "spell": "take this feedback seriously and address the issues accordingly to ensure a more positive experience for future customers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выразить своё",
+   "ipa": "ɪkˈsprɛs maɪ",
+   "spell": "express my"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если бы вы могли предоставить мне X",
+   "ipa": "ɪt ɪf ju kʊd prəˈvaɪd mi wɪð ɛks",
+   "spell": "it if you could provide me with X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если бы вы могли предоставить объяснение причинённых неудобств и описать шаги по предотвращению подобных случаев в будущем",
+   "ipa": "ɪt ɪf ju kʊd prəˈvaɪd ən ˌɛkspləˈneɪʃən fɔr ði ˌɪnkənˈvinjəns kɑzd ænd ˈaʊtˌlaɪn stɛps tu prɪˈvɛnt ˈsɪmələr əˈkɜrənsɪz ɪn ðə ˈfjuʧər",
+   "spell": "it if you could provide an explanation for the inconvenience caused and outline steps to prevent similar occurrences in the future"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Если вам потребуется дополнительная информация с моей стороны, пожалуйста, не стесняйтесь спросить.",
+   "ipa": "ʃʊd ju ˌriˈkwaɪər ˈɛni ˈfɜrðər dɪˈteɪlz frʌm maɪ ɛnd, pliz du nɑt ˈhɛzəˌteɪt tu æsk.",
+   "spell": "should you require any further details from my end, please do not hesitate to ask."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если вам потребуются дополнительные детали с моей стороны, пожалуйста, не стесняйтесь спросить",
+   "ipa": "ʃʊd ju ˌriˈkwaɪər ˈɛni ˈfɜrðər dɪˈteɪlz frʌm maɪ ɛnd, pliz du nɑt ˈhɛzəˌteɪt tu æsk",
+   "spell": "should you require any further details from my end, please do not hesitate to ask"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Запрос на X",
+   "ipa": "rɪˈkwɛst fɔr ɛks",
+   "spell": "Request for X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Запрос относительно X",
+   "ipa": "ɪnˈkwaɪri rəˈɡɑrdɪŋ ɛks",
+   "spell": "Inquiry Regarding X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запросить X для исправления этой ситуации",
+   "ipa": "rɪˈkwɛst ɛks tu ˈrɛktəˌfaɪ ðɪs ˌsɪʧuˈeɪʃən",
+   "spell": "request X to rectify this situation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запросить вашу помощь с X",
+   "ipa": "rɪˈkwɛst jʊər əˈsɪstəns wɪð ɛks",
+   "spell": "request your assistance with X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здоровым(ой)",
+   "ipa": "wɛl",
+   "spell": "well"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Искренне ваш,",
+   "ipa": "sɪnˈsɪrli,",
+   "spell": "Sincerely,"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его преданность делу и профессионализм делают их выдающимся кандидатом на X",
+   "ipa": "ðɛr ˌdɛdəˈkeɪʃən ænd prəˈfɛʃənəˌlɪzəm meɪk ðɛm ə ˈstænˌdaʊt ˈkændədeɪt fɔr ɛks",
+   "spell": "Their dedication and professionalism make them a standout candidate for X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его преданность и профессионализм делают их выдающимся кандидатом для X",
+   "ipa": "ðɛr ˌdɛdəˈkeɪʃən ænd prəˈfɛʃənəˌlɪzəm meɪk ðɛm ə ˈstænˌdaʊt ˈkændədeɪt fɔr ɛks",
+   "spell": "Their dedication and professionalism make them a standout candidate for X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "канцелярщина; казённый язык; канцелярит",
+   "ipa": "ði əfɪʃəˈliz",
+   "spell": "the officialese"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моё имя X, и я (пишу)(обращаюсь к вам), чтобы",
+   "ipa": "maɪ neɪm ɪz ɛks, ænd aɪ æm (ˈraɪtɪŋ) (ˈriʧɪŋ aʊt) tu",
+   "spell": "my name is X, and I am (writing) (reaching out) to"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Недовольство последним опытом",
+   "ipa": "ˌdɪsætɪˈsfækʃən wɪð ˈrisənt ɪkˈspɪriəns",
+   "spell": "Dissatisfaction with Recent Experience"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "недовольство последним опытом в X",
+   "ipa": "ˌdɪsætɪˈsfækʃən wɪð ðə ˈrisənt ɪkˈspɪriəns aɪ hæd æt ɛks",
+   "spell": "dissatisfaction with the recent experience I had at X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "некоторые проблемы с качеством X, которые я недавно приобрел в X",
+   "ipa": "sʌm kənˈsɜrnz aɪ hæv rəˈɡɑrdɪŋ ðə ˈkwɑləti ʌv ɛks aɪ ˈrisəntli ˈpɜrʧəst frʌm ɛks",
+   "spell": "some concerns I have regarding the quality of X I recently purchased from X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "немедленно примете меры по решению этих проблем и внедрите стандарты для поддержания более высокого уровня здоровья и безопасности в будущем",
+   "ipa": "teɪk ɪˈmidiət ˈækʃən tu ˈæˌdrɛs ðiz kənˈsɜrnz ænd ˈɪmpləmənt ˈmɛʒərz tu əpˈhoʊld ˈhaɪər ˈstændərdz ʌv hɛlθ ænd ˈseɪfti ɪn ðə ˈfjuʧər",
+   "spell": "take immediate action to address these concerns and implement measures to uphold higher standards of health and safety in the future"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Неприятный опыт с X",
+   "ipa": "ənˈplɛzənt ɪkˈspɪriəns wɪð ɛks",
+   "spell": "Unpleasant Experience with X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "несмотря на мои попытки решить этот вопрос в тот момент, проблема остаётся нерешённой",
+   "ipa": "dɪˈspaɪt maɪ əˈtɛmpts tu riˈzɑlv ðə ˈmætər æt ðə taɪm, ði ˈɪʃu rɪˈmeɪnz ənrɪˈzɑlvd",
+   "spell": "despite my attempts to resolve the matter at the time, the issue remains unresolved"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Неудовлетворительный опыт обслуживания",
+   "ipa": "ˌʌnsətɪˈsfæktəri ˈkʌstəmər ˈsɜrvəs ɪkˈspɪriəns",
+   "spell": "Unsatisfactory Customer Service Experience"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обратить ваше внимание на",
+   "ipa": "brɪŋ tu jʊər əˈtɛnʃən",
+   "spell": "bring to your attention"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оперативно разобраться в этом вопросе и предоставить решение для устранения расхождений в счетах",
+   "ipa": "ɪnˈvɛstəˌɡeɪt ðɪs ˈmætər ˈprɑmptli ænd prəˈvaɪd ə ˌrɛzəˈluʃən tu ˈrɛktəˌfaɪ ðə ˈbɪlɪŋ dɪˈskrɛpənsiz",
+   "spell": "investigate this matter promptly and provide a resolution to rectify the billing discrepancies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подробности моего взаимодействия с представителями службы поддержки",
+   "ipa": "dɪˈteɪlz ʌv maɪ ˌɪntəˈrækʃən wɪð ˈkʌstəmər ˈsɜrvəs ˌrɛprəˈzɛntətɪvz",
+   "spell": "details of my interaction with customer service representatives"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подчеркнуть исключительную квалификацию и навыки X",
+   "ipa": "ˈhaɪˌlaɪt ɛks ɛs ɪkˈsɛpʃənəl ˌkwɑləfəˈkeɪʃənz ænd skɪlz",
+   "spell": "highlight X 's exceptional qualifications and skills"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "позвольте мне предоставить контекст ситуации",
+   "ipa": "lɛt mi prəˈvaɪd ju wɪð ðə ˈkɑntɛkst ʌv ðə ˌsɪʧuˈeɪʃən",
+   "spell": "let me provide you with the context of the situation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "позитивный настрой Джона и его способность X несомненно внесли бы вклад в успех X",
+   "ipa": "ʤɑnz ˈpɑzətɪv ˈætəˌtud ænd əˈbɪləti tu ɛks wʊd ənˈdaʊtɪdli kənˈtrɪbjut tu ðə səkˈsɛs ʌv ɛks",
+   "spell": "John's positive attitude and ability to X would undoubtedly contribute to the success of X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Положительное отношение Джона и его способность X, несомненно, внесли бы вклад в успех X",
+   "ipa": "ʤɑnz ˈpɑzətɪv ˈætəˌtud ænd əˈbɪləti tu ɛks wʊd ənˈdaʊtɪdli kənˈtrɪbjut tu ðə səkˈsɛs ʌv ɛks",
+   "spell": "John's positive attitude and ability to X would undoubtedly contribute to the success of X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Предложение для X",
+   "ipa": "səɡˈʤɛsʧən fɔr ɛks",
+   "spell": "Suggestion for X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предложить X",
+   "ipa": "prəˈpoʊz ɛks",
+   "spell": "propose X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предоставить контекст для моего запроса",
+   "ipa": "prəˈvaɪd ˈkɑntɛkst fɔr maɪ rɪˈkwɛst",
+   "spell": "provide context for my request"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предоставить некоторую справочную информацию",
+   "ipa": "prəˈvaɪd sʌm ˈbækˌɡraʊnd ˌɪnfərˈmeɪʃən",
+   "spell": "provide some background information"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "принять соответствующие меры для решения этих проблем с качеством и предотвращения подобных случаев в будущем",
+   "ipa": "teɪk əˈproʊpriət ˈækʃən tu ˈæˌdrɛs ðiz ˈkwɑləti ˈɪʃuz ænd prɪˈvɛnt ˈsɪmələr əˈkɜrənsɪz ɪn ðə ˈfjuʧər",
+   "spell": "take appropriate action to address these quality issues and prevent similar occurrences in the future"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "проблему, с которой я столкнулся(лась) во время моего последнего взаимодействия с вашим(ей) X",
+   "ipa": "ði ˈɪʃu aɪ ɪnˈkaʊntərd ˈdʊrɪŋ maɪ ˈrisənt ˌɪntəˈrækʃən wɪð jʊər ɛks",
+   "spell": "the issue I encountered during my recent interaction with your X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Проблемы здоровья и безопасности",
+   "ipa": "hɛlθ ænd ˈseɪfti kənˈsɜrnz",
+   "spell": "Health and Safety Concerns"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Проблемы с качеством X",
+   "ipa": "ˈkwɑləti kənˈsɜrnz wɪð ɛks",
+   "spell": "Quality Concerns with X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разочарование X, которое я недавно испытал с X",
+   "ipa": "ˌdɪsəˈpɔɪntmənt wɪð ɛks aɪ ˈrisəntli hæd wɪð ɛks",
+   "spell": "disappointment with X I recently had with X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разочарование уровнем обслуживания, которое я получил во время моего последнего взаимодействия с вашей компанией",
+   "ipa": "ˌdɪsəˈpɔɪntmənt wɪð ðə ˈlɛvəl ʌv ˈkʌstəmər ˈsɜrvəs aɪ rəˈsivd ˈdʊrɪŋ maɪ ˈrisənt ˌɪntəˈrækʃən wɪð jʊər ˈkʌmpəni",
+   "spell": "disappointment with the level of customer service I received during my recent interaction with your company"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расследуете этот вопрос и примете соответствующие меры для улучшения качества обслуживания вашей командой",
+   "ipa": "ɪnˈvɛstəˌɡeɪt ðɪs ˈmætər ænd teɪk əˈproʊpriət ˈmɛʒərz tu ɪmˈpruv ðə ˈkwɑləti ʌv ˈkʌstəmər ˈsɜrvəs ˈɔfərd baɪ jʊər tim",
+   "spell": "investigate this matter and take appropriate measures to improve the quality of customer service offered by your team"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рассмотрение моего (вклада) (рекомендации)",
+   "ipa": "kənˈsɪdərɪŋ maɪ (ˈɪnˌpʊt) (ˌrɛkəmənˈdeɪʃən)",
+   "spell": "considering my (input) (recommendation)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Расхождения в счетах и вопросы по оплате",
+   "ipa": "ˈbɪlɪŋ dɪˈskrɛpənsiz ænd ˈpeɪmənt kənˈsɜrnz",
+   "spell": "Billing Discrepancies and Payment Concerns"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расхождения, которые я обнаружил в моём последнем счете/учётной записи относительно X",
+   "ipa": "sʌm dɪˈskrɛpənsiz aɪ hæv aɪˈdɛntəˌfaɪd ɪn maɪ ˈrisənt ˈbɪlɪŋ ˈsteɪtmənt/əˈkaʊnt rəˈɡɑrdɪŋ ɛks",
+   "spell": "some discrepancies I have identified in my recent billing statement/account regarding X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Рекомендация для X",
+   "ipa": "ˌrɛkəmənˈdeɪʃən fɔr ɛks",
+   "spell": "Recommendation for X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "С наилучшими / Добрыми / Тёплыми пожеланиями,",
+   "ipa": "bɛst / kaɪnd / wɔrm rɪˈɡɑrdz,",
+   "spell": "Best / Kind / Warm regards,"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "серьёзные опасения по поводу стандартов здоровья и безопасности, соблюдаемых в X",
+   "ipa": "ˈsɪriəs kənˈsɜrnz rəˈɡɑrdɪŋ ðə hɛlθ ænd ˈseɪfti ˈstændərdz əbˈzɜrvd æt ɛks",
+   "spell": "serious concerns regarding the health and safety standards observed at X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "соответствующие номера счетов или детали транзакций для подтверждения моей претензии",
+   "ipa": "ˈɛni ˈrɛləvənt əˈkaʊnt ˈnʌmbərz ɔr trænˈzækʃən dɪˈteɪlz tu səˈpɔrt maɪ kleɪm",
+   "spell": "any relevant account numbers or transaction details to support my claim"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Спасибо за",
+   "ipa": "θæŋk ju fɔr",
+   "spell": "Thank you for"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у вас всё хорошо",
+   "ipa": "ju ɑr ˈduɪŋ wɛl",
+   "spell": "you are doing well"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Уважаемый(ая) X,",
+   "ipa": "dɪr ɛks,",
+   "spell": "Dear X,"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уточнить о X",
+   "ipa": "ɪnˈkwaɪr əˈbaʊt ɛks",
+   "spell": "inquire about X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это (письмо)(сообщение) застанет вас",
+   "ipa": "ðɪs (iˈmeɪl)(ˈmɛsəʤ) faɪndz ju",
+   "spell": "this (email)(message) finds you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эта информация значительно поможет мне в X",
+   "ipa": "ðɪs ˌɪnfərˈmeɪʃən wɪl ˈɡreɪtli əˈsɪst mi ɪn ɛks",
+   "spell": "This information will greatly assist me in X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Эта ситуация побудила меня искать X",
+   "ipa": "ðɪs ˌsɪʧuˈeɪʃən hæz ˈprɑmptɪd mi tu sik ɛks",
+   "spell": "This situation has prompted me to seek X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Это дополнительное предложение могло бы дополнительно улучшить X",
+   "ipa": "ðɪs əˈdɪʃənəl səɡˈʤɛsʧən kʊd ˈfɜrðər ɛnˈhæns ɛks",
+   "spell": "This additional suggestion could further enhance X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дополнительное предложение может дополнительно улучшить X",
+   "ipa": "ðɪs əˈdɪʃənəl səɡˈʤɛsʧən kʊd ˈfɜrðər ɛnˈhæns ɛks",
+   "spell": "This additional suggestion could further enhance X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "этому (срочному) делу",
+   "ipa": "ðɪs (ˈɜrʤənt) ˈmætər",
+   "spell": "this (urgent) matter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "этому вопросу",
+   "ipa": "ðɪs kənˈsɜrn",
+   "spell": "this concern"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я (надеюсь)(уверен)",
+   "ipa": "aɪ (hoʊp)(trʌst)",
+   "spell": "I (hope)(trust)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я был бы признателен(льна)",
+   "ipa": "aɪ wʊd əˈpriʃiˌeɪt",
+   "spell": "I would appreciate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я вежливо прошу вас X",
+   "ipa": "aɪ ˈkaɪndli rɪˈkwɛst ðæt ju ɛks",
+   "spell": "I kindly request that you X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я выделю случаи плохой коммуникации, бесполезности или неудовлетворённости предоставленным решением",
+   "ipa": "aɪ wɪl ˈhaɪˌlaɪt ˈɪnstənsəz ʌv pʊr kəmˌjunəˈkeɪʃən, ənˈhɛlpfəlnəs, ɔr ˌdɪsætɪˈsfækʃən wɪð ðə ˌrɛzəˈluʃən prəˈvaɪdɪd",
+   "spell": "I will highlight instances of poor communication, unhelpfulness, or dissatisfaction with the resolution provided"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я изложу X, которые я наблюдал",
+   "ipa": "aɪ wɪl ˈaʊtˌlaɪn ɛks aɪ hæv əbˈzɜrvd",
+   "spell": "I will outline X I have observed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я изложу конкретные проблемы, с которыми я столкнулся с X",
+   "ipa": "aɪ wɪl ˈaʊtˌlaɪn ðə spəˈsɪfɪk ˈɪʃuz aɪ hæv ɪnˈkaʊntərd wɪð ɛks",
+   "spell": "I will outline the specific issues I have encountered with X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я отмечу случаи плохой коммуникации, бесполезности или неудовлетворённости предоставленным решением",
+   "ipa": "aɪ wɪl ˈhaɪˌlaɪt ˈɪnstənsəz ʌv pʊr kəmˌjunəˈkeɪʃən, ənˈhɛlpfəlnəs, ɔr ˌdɪsætɪˈsfækʃən wɪð ðə ˌrɛzəˈluʃən prəˈvaɪdɪd",
+   "spell": "I will highlight instances of poor communication, unhelpfulness, or dissatisfaction with the resolution provided"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я пишу вам, чтобы настоятельно рекомендовать X для X",
+   "ipa": "aɪ æm ˈraɪtɪŋ tu ju təˈdeɪ tu ˈhaɪli ˌrɛkəˈmɛnd ɛks fɔr ɛks",
+   "spell": "I am writing to you today to highly recommend X for X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я подробно опишу X, с которыми я столкнулся(лась)",
+   "ipa": "aɪ wɪl dɪˈteɪl ɛks aɪ hæv ɪnˈkaʊntərd wɪð",
+   "spell": "I will detail X I have encountered with"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я подробно опишу конкретный инцидент или взаимодействие, которое вызвало моё недовольство, выделив соответствующие детали, такие как дата, время и вовлечённые лица",
+   "ipa": "aɪ wɪl dɛlv ˈɪntu ðə spəˈsɪfɪk ˈɪnsədənt ɔr ˌɪntəˈrækʃən ðæt lɛd tu maɪ ˌdɪsætɪˈsfækʃən, ˈhaɪˌlaɪtɪŋ ˈɛni ˈrɛləvənt dɪˈteɪlz sʌʧ æz deɪt, taɪm, ænd ˌɪndəˈvɪʤəwəlz ɪnˈvɑlvd",
+   "spell": "I will delve into the specific incident or interaction that led to my dissatisfaction, highlighting any relevant details such as date, time, and individuals involved"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я подробно расскажу о влиянии этих проблем на мой опыт как клиента",
+   "ipa": "aɪ wɪl ɪˈlæbəˌreɪt ɑn ði ˈɪmpækt ðiz ˈɪʃuz hæv hæd ɑn maɪ ɪkˈspɪriəns æz ə ˈkʌstəmər",
+   "spell": "I will elaborate on the impact these issues have had on my experience as a customer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я подчеркну важность оперативного решения этих вопросов для обеспечения благополучия клиентов и сотрудников",
+   "ipa": "aɪ wɪl ˈɛmfəˌsaɪz ði ɪmˈpɔrtəns ʌv əˈdrɛsɪŋ ðiz ˈɪʃuz ˈprɑmptli tu ɛnˈʃʊr ðə ˌwɛlˈbiɪŋ ʌv ˈkʌstəmərz ænd ɛmˈplɔɪiz",
+   "spell": "I will emphasize the importance of addressing these issues promptly to ensure the well-being of customers and employees"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я предоставлю",
+   "ipa": "aɪ wɪl prəˈvaɪd",
+   "spell": "I will provide"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я считаю, что X было бы уместно в этой ситуации",
+   "ipa": "aɪ bɪˈliv ðæt ɛks wʊd bi əˈproʊpriət ɪn ðɪs ˌsɪʧuˈeɪʃən",
+   "spell": "I believe that X would be appropriate in this situation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я считаю, что было бы полезно X",
+   "ipa": "aɪ bɪˈliv ɪt wʊd bi ˌbɛnəˈfɪʃəl tu ɛks",
+   "spell": "I believe it would be beneficial to X"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я считаю, что внедрение этих предложений могло бы X, и я буду рад обсудить их подробнее, если потребуется",
+   "ipa": "aɪ bɪˈliv ðæt ˈɪmpləˌmɛntɪŋ ðiz səɡˈʤɛsʧənz kʊd ɛks, ænd aɪ wʊd bi ˈhæpi tu dɪˈskʌs ðɛm ˈfɜrðər ɪf ˈnidɪd",
+   "spell": "I believe that implementing these suggestions could X, and I would be happy to discuss them further if needed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я уверен, что X стал бы ценным активом для X и преуспела бы в X новой роли",
+   "ipa": "aɪ æm ˈkɑnfədənt ðæt ɛks wʊd bi ə ˈvæljəbəl ˈæˌsɛt tu ɛks ænd wʊd ɪkˈsɛl ɪn ɛks nu roʊl",
+   "spell": "I am confident that X would be a valuable asset to X and would excel in X new role"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я уверен, что вы",
+   "ipa": "aɪ trʌst ðæt ju wɪl",
+   "spell": "I trust that you will"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я хотел бы",
+   "ipa": "aɪ wʊd laɪk tu",
+   "spell": "I would like to"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я хотел бы поделиться некоторыми мыслями и предложениями относительно X",
+   "ipa": "aɪ ˈwɔntɪd tu teɪk ə ˈmoʊmənt tu ʃɛr sʌm θɔts ænd səɡˈʤɛsʧənz rəˈɡɑrdɪŋ ɛks",
+   "spell": "I wanted to take a moment to share some thoughts and suggestions regarding X"
+ }
+]
