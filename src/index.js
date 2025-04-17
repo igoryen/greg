@@ -35,6 +35,7 @@ import Dan from "./pages/Dan";
 
 import GK from "./pages/gk/GK";
 import GK01 from "./pages/gk/GK01";
+import GK02 from "./pages/gk/GK02";
 import GK03 from "./pages/gk/GK03";
 
 import GP from "./pages/gp/GP";
@@ -168,6 +169,7 @@ export default function App() {
           <Route path="gk" element={<GK />} />
           <Route path="gk01" element={<GK01 />} />
           <Route path="gk03" element={<GK03 />} />
+          <Route path="gk02" element={<GK02 />} />
 
           <Route path="gp" element={<GP />} />
           <Route path="gp01" element={<GP01 />} />
