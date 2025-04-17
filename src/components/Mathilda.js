@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-function Mathilda({ words, lang = 'def1', showSpell = true }) {
+function Mathilda({ words, lang = 'def1' }) {
     useEffect(() => {
         // code to run after render goes here
         window.$(".word").flip({ speed: 200 });

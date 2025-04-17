@@ -16,7 +16,7 @@ class ML35 extends React.Component {
         return (
             <div>
                 <Leon lesson={lesson} />
-                <Mathilda words={words} showSpell={false} />
+                <Mathilda words={words} />
             </div>
         );
     }
