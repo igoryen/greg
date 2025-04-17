@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 function Mathilda({ words, lang = 'def1', showSpell = true }) {
     useEffect(() => {
@@ -6,7 +6,12 @@ function Mathilda({ words, lang = 'def1', showSpell = true }) {
         window.$(".word").flip({ speed: 200 });
     });
 
-    let language = lang.slice(-1) === "1" ? "Russian" : "Ukrainian";
+    const [spellingToggle, setSpellingToggle] = useState(false);
+    const spellingToggleChange = () => {
+        setSpellingToggle(!spellingToggle);
+    }
+
+    let language = lang.slice(-1) === "1" ? "." : "Ukrainian";
 
     // src: https://stackoverflow.com/a/2450976/2938344
     function shuffle(array) {
@@ -40,7 +45,7 @@ function Mathilda({ words, lang = 'def1', showSpell = true }) {
                 </div>
                 <div className="back part part2">
                     <div className="ipa">{word.ipa}</div>
-                    {showSpell && <div className="spell">{word.spell}</div>}
+                    {spellingToggle && <div className="spell">{word.spell}</div>}
                 </div>
             </div>
         );
@@ -49,7 +54,11 @@ function Mathilda({ words, lang = 'def1', showSpell = true }) {
     return (
         <section className="words_">
             <pre>{language}</pre>
-            {!showSpell && <div className="attn">Spelling is hidden</div>}
+            <div className="spelling_switch">
+                <button onClick={spellingToggleChange} className={spellingToggle ? "spelling on" : "spelling off"}>SPELLING</button>
+                <div className={spellingToggle ? "spelling on" : "spelling off"}>{spellingToggle ? "ON" : "OFF"}</div>
+            </div>
+
             <div className="words">
                 {wordsFinal}
             </div>

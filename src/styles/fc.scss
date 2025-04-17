@@ -270,3 +270,34 @@ span.sgn i {
         top: 1px;
     }
 }
+
+.spelling_switch {
+    align-items: center;
+    // border: 1px solid;
+    display: flex;
+    flex-direction: row;
+
+
+    button {
+        margin: 0.5em;
+        padding: 0.5em;
+        border-radius: 5px;
+        letter-spacing: 1px;
+        border-color: #aaa;
+    }
+}
+
+
+
+
+.spelling {
+    font-weight: 900;
+
+    &.on {
+        color: green;
+    }
+
+    &.off {
+        color: gray;
+    }
+}
