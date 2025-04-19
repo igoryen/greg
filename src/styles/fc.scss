@@ -47,7 +47,7 @@ body {
     /* border: 1px solid #ddd; */
     background-color: #fff;
     // margin: 10px;
-    padding: 10px;
+    padding: 1em;
     min-width: 10em;
     text-align: center;
     cursor: pointer;
@@ -76,6 +76,9 @@ body {
 
 .part1 {
     background-color: $side;
+    display: flex;
+    justify-content: center;
+    line-height: normal;
 }
 
 
@@ -207,11 +210,17 @@ span.sgn i {
 }
 
 .spell {
-    font-size: large;
+    font-size: 1em;
 }
 
 .ipa {
-    font-size: large;
+    font-size: 1em;
+}
+
+
+.ipa,
+.spell {
+    font-size: 1.4em;
 }
 
 .tom {
