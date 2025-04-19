@@ -1,0 +1,401 @@
+[
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не покупаю в макдональдс",
+    "ipa": "aɪ doʊnt baɪ æt məkˈdɑnəldz",
+    "spell": "I don't buy at McDonald's"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "какая у тебя кошка?",
+    "ipa": "wɑt kaɪnd ʌv kæt du ju hæv?",
+    "spell": "what kind of cat do you have?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "привычка",
+    "ipa": "ə ˈhæbət",
+    "spell": "a habit"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "род, вид",
+    "ipa": "ə kaɪnd",
+    "spell": "a kind"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "овощ",
+    "ipa": "ə ˈvɛʤtəbəl",
+    "spell": "a vegetable"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "упражнение",
+    "ipa": "ən ˈɛksərˌsaɪz",
+    "spell": "an exercise"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дома",
+    "ipa": "æt hoʊm",
+    "spell": "at home"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "на завтрак",
+    "ipa": "fɔr ˈbrɛkfəst",
+    "spell": "for breakfast"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "на ужин",
+    "ipa": "fɔr ˈdɪnər",
+    "spell": "for dinner"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не ем в макдональдс",
+    "ipa": "aɪ doʊnt it æt məkˈdɑnəldz",
+    "spell": "I don't eat at McDonald's"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не ем хот-доги",
+    "ipa": "aɪ doʊnt it hɑt dɑɡz",
+    "spell": "I don’t eat hot dogs"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у меня есть кот",
+    "ipa": "aɪ hæv ə kæt",
+    "spell": "I have a cat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я живу в доме",
+    "ipa": "aɪ lɪv ɪn ə haʊs",
+    "spell": "I live in a house"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я занимаюсь спортом",
+    "ipa": "aɪ pleɪ ə spɔrt",
+    "spell": "I play a sport"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "в праздники",
+    "ipa": "ɑn ˈhɑləˌdeɪz",
+    "spell": "on holidays"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "текущие привычки",
+    "ipa": "ˈprɛzənt ˈhæbəts",
+    "spell": "present habits"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "меры безопасности",
+    "ipa": "sɪˈkjʊrəti ˈmɛʒərz",
+    "spell": "security measures"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "готовить еду",
+    "ipa": "tu kʊk fud",
+    "spell": "to cook food"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "танцевать",
+    "ipa": "tu dæns",
+    "spell": "to dance"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ехать на работу",
+    "ipa": "tu draɪv tu wɜrk",
+    "spell": "to drive to work"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "спать днём",
+    "ipa": "tu slip ɪn ði ˌæftərˈnun",
+    "spell": "to sleep in the afternoon"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "плавать",
+    "ipa": "tu swɪm",
+    "spell": "to swim"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ходить на работу пешком",
+    "ipa": "tu wɔk tu wɜrk",
+    "spell": "to walk to work"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "обычно",
+    "ipa": "ˈjuʒəwəli",
+    "spell": "usually"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "какой у тебя дом?",
+    "ipa": "wɑt kaɪnd ʌv haʊs du ju hæv?",
+    "spell": "what kind of house do you have?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "какой фильм?",
+    "ipa": "wɑt kaɪnd ʌv ˈmuvi?",
+    "spell": "what kind of movie?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "каким спортом ты занимаешься?",
+    "ipa": "wɑt kaɪnd ʌv spɔrt du ju pleɪ?",
+    "spell": "what kind of sport do you play?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "какой фильм?",
+    "ipa": "wɑt ˈmuvi?",
+    "spell": "what movie?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "когда мы говорим о привычках",
+    "ipa": "wɛn wi tɔk əˈbaʊt ˈhæbəts",
+    "spell": "when we talk about habits"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "который",
+    "ipa": "wɪʧ wʌn",
+    "spell": "which one"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты веган",
+    "ipa": "ju ɑr ə ˈviɡən",
+    "spell": "you are a vegan"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты вегетарианец",
+    "ipa": "ju ɑr ə ˌvɛʤəˈtɛriən",
+    "spell": "you are a vegetarian"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты не ешь мясо",
+    "ipa": "ju doʊnt it mit",
+    "spell": "you don’t eat meat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "боль, обида",
+    "ipa": "(eɪ) hɜrt",
+    "spell": "(a) hurt"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "водить машину быстро",
+    "ipa": "tu draɪv fæst",
+    "spell": "to drive fast"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "водить машину медленно",
+    "ipa": "tu draɪv sloʊ",
+    "spell": "to drive slow"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "есть, кушать",
+    "ipa": "tu hæv",
+    "spell": "to have"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Железный Дровосек",
+    "ipa": "ðə ˈtɪnˌmæn",
+    "spell": "the Tinman"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "заниматься спортом",
+    "ipa": "tu ˈɛksərˌsaɪz",
+    "spell": "to exercise"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мозг, ум",
+    "ipa": "ə breɪn",
+    "spell": "a brain"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы не пьём",
+    "ipa": "wi doʊnt drɪŋk",
+    "spell": "we don’t drink"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "не надо",
+    "ipa": "doʊnt",
+    "spell": "don’t"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "отсутствующий",
+    "ipa": "ˈmɪsɪŋ",
+    "spell": "missing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "очень, реально",
+    "ipa": "ˈrɪli",
+    "spell": "really"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Страшила, пугало",
+    "ipa": "ðə ˈskærkroʊ",
+    "spell": "the Scarecrow"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "пустышка \"ду\"",
+    "ipa": "ðə ˈdʌmi du",
+    "spell": "the dummy do"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сердце",
+    "ipa": "ə hɑrt",
+    "spell": "a heart"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Трусливый Лев",
+    "ipa": "ðə ˈkaʊərdli ˈlaɪən",
+    "spell": "the Cowardly Lion"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у меня болит сердце",
+    "ipa": "maɪ hɑrt hɜrts",
+    "spell": "my heart hurts"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у меня нет мозга/ума",
+    "ipa": "aɪ doʊnt hæv ə breɪn",
+    "spell": "I don’t have a brain"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у меня нет сердца",
+    "ipa": "aɪ doʊnt hæv ə hɑrt",
+    "spell": "I don’t have a heart"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у меня нет смелости",
+    "ipa": "aɪ doʊnt hæv ˈkɜrəʤ",
+    "spell": "I don’t have courage"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я ем",
+    "ipa": "aɪ it",
+    "spell": "I eat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не буду есть",
+    "ipa": "aɪ wɪl nɑt it",
+    "spell": "I will not eat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не ем",
+    "ipa": "aɪ du nɑt it",
+    "spell": "I do not eat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не ем",
+    "ipa": "aɪ doʊnt it",
+    "spell": "I don’t eat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не кушаю",
+    "ipa": "aɪ doʊnt hæv",
+    "spell": "I don’t have"
+  }
+]
