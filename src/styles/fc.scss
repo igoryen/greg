@@ -303,7 +303,8 @@ span.sgn i {
     font-weight: 900;
 
     &.on {
-        color: green;
+        color: #0a970a;
+        text-shadow: 0px 0px 3px #10c31f;
     }
 
     &.off {
