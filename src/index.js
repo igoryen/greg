@@ -41,6 +41,7 @@ import GK03 from "./pages/gk/GK03";
 
 import GP from "./pages/gp/GP";
 import GP01 from "./pages/gp/GP01";
+import GP02 from "./pages/gp/GP02";
 import GP03 from "./pages/gp/GP03";
 
 import IM from "./pages/im/IM";
@@ -177,6 +178,7 @@ export default function App() {
 
           <Route path="gp" element={<GP />} />
           <Route path="gp01" element={<GP01 />} />
+          <Route path="gp02" element={<GP02 />} />
           <Route path="gp03" element={<GP03 />} />
 
           <Route path="os02" element={<OS02 />} />
