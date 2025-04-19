@@ -57,7 +57,7 @@ body {
     position: relative;
 
     p {
-        bottom: 3px;
+        bottom: 0;
         color: $cardno;
         font-size: 3em;
         font-weight: 900;
@@ -221,7 +221,7 @@ span.sgn i {
 
 .ipa,
 .spell {
-    font-size: 1.4em;
+    font-size: 1.5em;
     line-height: normal;
 }
 
