@@ -230,20 +230,55 @@ span.sgn i {
         font-size: 2em;
     }
 
-    span {
-        font-size: 13px;
-        font-weight: 700;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        color: #aaa;
-        margin-left: 1em;
+    // span {
+    //     font-size: 13px;
+    //     font-weight: 700;
+    //     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    //     color: #aaa;
+    //     margin-left: 1em;
 
-    }
+    // }
 
     ol {
         margin: 1em;
         padding: 1em;
     }
 
+}
+
+.derek {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+
+    p {
+        background-color: #fff;
+        box-shadow: 1px 1px 1px #bbb;
+        display: flex;
+        flex-direction: column;
+        padding: 0.5em;
+        text-align: center;
+
+        a {
+            color: #555;
+            line-height: normal;
+            text-align: center;
+            text-decoration: none;
+
+            .session {
+                font-size: 0.7em;
+            }
+
+            .number {
+                font-size: 2em;
+            }
+
+            .date {
+                font-size: 0.5em;
+            }
+        }
+    }
 }
 
 .pijne {

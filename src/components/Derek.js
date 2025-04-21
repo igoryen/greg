@@ -6,13 +6,17 @@ function Derek({ derek, slug }) {
             let lesnum = lesson.number < 10 ? "0" + lesson.number : lesson.number;
             lessons.push(
                 <p key={i}>
-                    <a href={`/${slug}${lesnum}`} rel="noopener noreferrer">Lesson {lesson.number}</a><span>{lesson.date}</span>
+                    <a href={`/${slug}${lesnum}`} rel="noopener noreferrer">
+                        <div className="session">Lesson</div>
+                        <div className="number">{lesson.number}</div>
+                        <div className="date">{lesson.date}</div>
+                    </a>
                 </p>
             );
         }
     }
     return (
-        <section className="tom">
+        <section className="tom derek">
             {lessons}
         </section>
     );
