@@ -1,0 +1,653 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "холодно",
+   "ipa": "koʊld",
+   "spell": "cold"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дуже тепло",
+   "ipa": "ɪts ˈvɛri wɔrm",
+   "spell": "it’s very warm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твоє вікно відчинене?",
+   "ipa": "ɪz jʊər ˈwɪndoʊ ˈoʊpən?",
+   "spell": "is your window open?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на вулиці тепло",
+   "ipa": "ɪts wɔrm ˈaʊtˈsaɪd",
+   "spell": "it’s warm outside"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "але",
+   "ipa": "bʌt",
+   "spell": "but"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "від",
+   "ipa": "frʌm",
+   "spell": "from"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вгору",
+   "ipa": "ʌp",
+   "spell": "up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "книга",
+   "ipa": "ə bʊk",
+   "spell": "a book"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стопа",
+   "ipa": "ə fʊt",
+   "spell": "a foot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добре",
+   "ipa": "ɡʊd",
+   "spell": "good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дивитися",
+   "ipa": "tu lʊk",
+   "spell": "to look"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "класти",
+   "ipa": "tu pʊt",
+   "spell": "to put"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брав",
+   "ipa": "tʊk",
+   "spell": "took"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вовна",
+   "ipa": "wʊl",
+   "spell": "wool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чобіт",
+   "ipa": "ə but",
+   "spell": "a boot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їжа",
+   "ipa": "fud",
+   "spell": "food"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дурень",
+   "ipa": "ə ful",
+   "spell": "a fool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хто",
+   "ipa": "hu",
+   "spell": "who"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "настрій",
+   "ipa": "mud",
+   "spell": "mood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "місяць",
+   "ipa": "ðə mun",
+   "spell": "the moon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "басейн",
+   "ipa": "ə pul",
+   "spell": "a pool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скоро",
+   "ipa": "sun",
+   "spell": "soon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стіна",
+   "ipa": "ə wɔl",
+   "spell": "a wall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "відро",
+   "ipa": "ə bɪn",
+   "spell": "a bin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трохи",
+   "ipa": "ə bɪt",
+   "spell": "a bit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "занурювати",
+   "ipa": "tu dɪp",
+   "spell": "to dip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крапати",
+   "ipa": "tu drɪp",
+   "spell": "to drip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ноги",
+   "ipa": "fit",
+   "spell": "feet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "підходити",
+   "ipa": "tu fɪt",
+   "spell": "to fit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перевертати",
+   "ipa": "tu flɪp",
+   "spell": "to flip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давати",
+   "ipa": "tu ɡɪv",
+   "spell": "to give"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стискати",
+   "ipa": "tu ɡrɪp",
+   "spell": "to grip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бити",
+   "ipa": "tu hɪt",
+   "spell": "to hit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в",
+   "ipa": "ɪn",
+   "spell": "in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це",
+   "ipa": "ɪt",
+   "spell": "it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дитина",
+   "ipa": "ə kɪd",
+   "spell": "a kid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "набір",
+   "ipa": "ə kɪt",
+   "spell": "a kit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "губа",
+   "ipa": "ə lɪp",
+   "spell": "a lip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пропускати",
+   "ipa": "tu mɪs",
+   "spell": "to miss"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вкусити",
+   "ipa": "tu nɪp",
+   "spell": "to nip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шпилька",
+   "ipa": "ə pɪn",
+   "spell": "a pin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яма",
+   "ipa": "ə pɪt",
+   "spell": "a pit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рвати",
+   "ipa": "tu rɪp",
+   "spell": "to rip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ковтати",
+   "ipa": "tu sɪp",
+   "spell": "to sip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ковзати",
+   "ipa": "tu slɪp",
+   "spell": "to slip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бляшанка",
+   "ipa": "ə tɪn",
+   "spell": "a tin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "порада",
+   "ipa": "ə tɪp",
+   "spell": "a tip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подорож",
+   "ipa": "ə trɪp",
+   "spell": "a trip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "воля",
+   "ipa": "wɪl",
+   "spell": "will"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вигравати",
+   "ipa": "tu wɪn",
+   "spell": "to win"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "застібати",
+   "ipa": "tu zɪp",
+   "spell": "to zip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "справжній",
+   "ipa": "riəl",
+   "spell": "real"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бути",
+   "ipa": "tu bi",
+   "spell": "to be"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бити",
+   "ipa": "tu bit",
+   "spell": "to beat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я",
+   "ipa": "mi",
+   "spell": "me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бачити",
+   "ipa": "tu si",
+   "spell": "to see"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сидіння",
+   "ipa": "ə sit",
+   "spell": "a seat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми",
+   "ipa": "wi",
+   "spell": "we"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "птах",
+   "ipa": "ə bɜrd",
+   "spell": "a bird"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "горіти",
+   "ipa": "tu bɜrn",
+   "spell": "to burn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перший",
+   "ipa": "fɜrst",
+   "spell": "first"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стадо",
+   "ipa": "ə hɜrd",
+   "spell": "a herd"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "боліти",
+   "ipa": "tu hɜrt",
+   "spell": "to hurt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "повертати",
+   "ipa": "tu tɜrn",
+   "spell": "to turn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слово",
+   "ipa": "ə wɜrd",
+   "spell": "a word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "працювати",
+   "ipa": "tu wɜrk",
+   "spell": "to work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "черв'як",
+   "ipa": "ə wɜrm",
+   "spell": "a worm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закладати",
+   "ipa": "tu bɛt",
+   "spell": "to bet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отримувати",
+   "ipa": "tu ɡɛt",
+   "spell": "to get"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кричати",
+   "ipa": "tu jɛl",
+   "spell": "to yell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ще",
+   "ipa": "jɛt",
+   "spell": "yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "провів",
+   "ipa": "lɛd",
+   "spell": "led"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "червоний",
+   "ipa": "rɛd",
+   "spell": "red"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добре",
+   "ipa": "wɛl",
+   "spell": "well"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мокрий",
+   "ipa": "wɛt",
+   "spell": "wet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на",
+   "ipa": "ɑn",
+   "spell": "on"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крапля",
+   "ipa": "ə drɑp",
+   "spell": "a drop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жаба",
+   "ipa": "ə frɑɡ",
+   "spell": "a frog"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "урожай",
+   "ipa": "ə krɑp",
+   "spell": "a crop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зупиняти",
+   "ipa": "tu stɑp",
+   "spell": "to stop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бій",
+   "ipa": "ə baʊt",
+   "spell": "a bout"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "знайшов",
+   "ipa": "faʊnd",
+   "spell": "found"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "голосний",
+   "ipa": "laʊd",
+   "spell": "loud"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "круглий",
+   "ipa": "raʊnd",
+   "spell": "round"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "звук",
+   "ipa": "ə saʊnd",
+   "spell": "a sound"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кусати",
+   "ipa": "tu baɪt",
+   "spell": "to bite"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "привіт",
+   "ipa": "haɪ",
+   "spell": "hi"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "повітряний змій",
+   "ipa": "ə kaɪt",
+   "spell": "a kite"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "світло",
+   "ipa": "laɪt",
+   "spell": "light"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можливо",
+   "ipa": "maɪt",
+   "spell": "might"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правий",
+   "ipa": "raɪt",
+   "spell": "right"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на",
+   "ipa": "æt",
+   "spell": "at"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "летюча миша",
+   "ipa": "ə bæt",
+   "spell": "a bat"
+ }
+]
