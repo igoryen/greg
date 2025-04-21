@@ -11,7 +11,7 @@ function Mathilda({ words, lang = 'def1' }) {
         setSpellingToggle(!spellingToggle);
     }
 
-    let language = lang.slice(-1) === "1" ? "." : "Ukrainian";
+    let language = lang.slice(-1) === "1" ? "" : "Ukrainian";
 
     // src: https://stackoverflow.com/a/2450976/2938344
     function shuffle(array) {
