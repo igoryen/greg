@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import clsx from "clsx";
+import "../styles/mathilda.scss";
 
 function Mathilda({ words, lang = 'def1' }) {
     useEffect(() => {
@@ -10,6 +12,11 @@ function Mathilda({ words, lang = 'def1' }) {
     const spellingToggleChange = () => {
         setSpellingToggle(!spellingToggle);
     }
+
+    const IpaClassNames = clsx('ipa', {
+        'spell_off': !spellingToggle
+    });
+
 
     let language = lang.slice(-1) === "1" ? "" : "Ukrainian";
 
@@ -44,7 +51,7 @@ function Mathilda({ words, lang = 'def1' }) {
                     <div className="cefr">{word.cefr}</div>
                 </div>
                 <div className="back part part2">
-                    <div className="ipa">{word.ipa}</div>
+                    <div className={IpaClassNames}>{word.ipa}</div>
                     {spellingToggle && <div className="spell">{word.spell}</div>}
                 </div>
             </div>
@@ -52,7 +59,7 @@ function Mathilda({ words, lang = 'def1' }) {
     }
 
     return (
-        <section className="words_">
+        <section className="words_ mathilda">
             <pre>{language}</pre>
             <div className="spelling_switch">
                 <button onClick={spellingToggleChange} className={spellingToggle ? "spelling on" : "spelling off"}>SPELLING</button>
