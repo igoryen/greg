@@ -1,0 +1,450 @@
+@mixin color01 {
+    background-color: #696969;
+    /* dimgray*/
+}
+
+@mixin color02 {
+    background-color: #556b2f;
+    /* darkolivegreen*/
+}
+
+@mixin color03 {
+    background-color: #7f0000;
+    /* maroon2*/
+}
+
+@mixin color04 {
+    background-color: #483d8b;
+    /* darkslateblue*/
+}
+
+@mixin color05 {
+    background-color: #008000;
+    /* green*/
+}
+
+@mixin color06 {
+    background-color: #008b8b;
+    /* darkcyan*/
+}
+
+@mixin color07 {
+    background-color: #cd853f;
+    /* peru*/
+}
+
+@mixin color08 {
+    background-color: #00008b;
+    /* darkblue*/
+}
+
+@mixin color09 {
+    background-color: #32cd32;
+    /* limegreen*/
+}
+
+@mixin color10 {
+    background-color: #8fbc8f;
+    /* darkseagreen*/
+}
+
+@mixin color11 {
+    background-color: #800080;
+    /* purple*/
+}
+
+@mixin color12 {
+    background-color: #b03060;
+    /* maroon3*/
+}
+
+@mixin color13 {
+    background-color: #ff4500;
+    /* orangered*/
+}
+
+@mixin color14 {
+    background-color: #ff8c00;
+    /* darkorange*/
+}
+
+@mixin color15 {
+    background-color: #ffd700;
+    /* gold*/
+}
+
+@mixin color16 {
+    background-color: #00ff00;
+    /* lime*/
+}
+
+@mixin color17 {
+    background-color: #8a2be2;
+    /* blueviolet*/
+}
+
+@mixin color18 {
+    background-color: #dc143c;
+    /* crimson*/
+}
+
+@mixin color19 {
+    background-color: #00ffff;
+    /* aqua*/
+}
+
+@mixin color20 {
+    background-color: #00bfff;
+    /* deepskyblue*/
+}
+
+@mixin color21 {
+    background-color: #0000ff;
+    /* blue*/
+}
+
+@mixin color22 {
+    background-color: #f08080;
+    /* lightcoral*/
+}
+
+@mixin color23 {
+    background-color: #adff2f;
+    /* greenyellow*/
+}
+
+@mixin color24 {
+    background-color: #da70d6;
+    /* orchid*/
+}
+
+@mixin color25 {
+    background-color: #d8bfd8;
+    /* thistle*/
+}
+
+@mixin color26 {
+    background-color: #ff00ff;
+    /* fuchsia*/
+}
+
+@mixin color27 {
+    background-color: #1e90ff;
+    /* dodgerblue*/
+}
+
+@mixin color28 {
+    background-color: #f0e68c;
+    /* khaki*/
+}
+
+@mixin color29 {
+    background-color: #90ee90;
+    /* lightgreen*/
+}
+
+@mixin color30 {
+    background-color: #ff1493;
+    /* deeppink*/
+}
+
+@mixin color31 {
+    background-color: #7b68ee;
+    /* mediumslateblue*/
+}
+
+@mixin color32 {
+    background-color: #ffffe0;
+    /* lightyellow*/
+}
+
+.prisma {
+    width: 100%;
+
+    div {
+        /*            border: 1px solid black;*/
+        width: 100%;
+        display: flex;
+        /*            justify-content: center;*/
+        /*            align-items: center;*/
+        /*            margin: 2px;*/
+        padding: 2px;
+        font-family: Verdana, sans-serif;
+        font-size: 3px;
+    }
+
+    .a {
+
+        flex-direction: row;
+
+        margin: 0 3px;
+
+        div {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+    }
+
+
+
+    .b {
+        flex-direction: row;
+
+        /*            background-color: yellow;*/
+    }
+
+    .c {
+        flex-direction: column;
+
+        /*            border-color: green;*/
+        /*            background-color: #333;*/
+
+    }
+
+    .d {
+        flex-direction: row;
+        /*            border-color: red;*/
+        align-items: center;
+        /*            background-color: aqua;*/
+    }
+
+    .e {
+        flex-direction: column;
+        /*            border-color: blue;*/
+        justify-content: center;
+        height: 100%;
+    }
+
+    .f {
+        flex-direction: row;
+        border-color: pink;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .p1 {
+        .sing {
+            .affirm {
+                @include color24();
+
+                .posit {
+                    @include color03();
+
+                    .simp {
+                        // background-color: #00bfff;
+                        @include color07();
+
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf {
+                        @include color09();
+
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf_cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+                }
+
+                .negat {
+                    @include color04();
+
+                    .simp {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf_cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+                }
+
+            }
+
+            .interr {
+                @include color26();
+
+                .posit {
+                    @include color05();
+
+                    .simp {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf_cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+                }
+
+                .negat {
+                    @include color10();
+
+                    .simp {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+
+                    .perf_cont {
+                        .be {
+                            background-color: rgb(150, 223, 199);
+                        }
+
+                        .do {
+                            background-color: rgb(130, 214, 47);
+                        }
+                    }
+                }
+            }
+        }
+
+        .plur {
+            background-color: lightgreen;
+        }
+
+    }
+
+    .p2 {
+        .e {
+            max-width: 50%;
+            align-items: center;
+
+            background-color: pink;
+        }
+    }
+
+    .p3 {
+        .e {
+            &.sing {
+                background-color: lightblue;
+            }
+
+            &.plur {
+                background-color: lightcyan;
+            }
+        }
+    }
+
+    .g {
+        flex-direction: column;
+        /*            border-color: brown;*/
+    }
+}
