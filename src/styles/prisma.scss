@@ -223,195 +223,40 @@
         justify-content: center;
     }
 
+
+
     .p1 {
         .sing {
             .affirm {
-                @include color24();
+                // @include color24();
 
                 .posit {
                     @include color03();
 
-                    .simp {
-                        // background-color: #00bfff;
-                        @include color07();
 
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf {
-                        @include color09();
-
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf_cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
                 }
 
                 .negat {
                     @include color04();
 
-                    .simp {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
 
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf_cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
                 }
 
             }
 
             .interr {
-                @include color26();
+                // @include color26();
 
                 .posit {
                     @include color05();
 
-                    .simp {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
 
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf_cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
                 }
 
                 .negat {
                     @include color10();
 
-                    .simp {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
 
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
-
-                    .perf_cont {
-                        .be {
-                            background-color: rgb(150, 223, 199);
-                        }
-
-                        .do {
-                            background-color: rgb(130, 214, 47);
-                        }
-                    }
                 }
             }
         }
@@ -446,5 +291,37 @@
     .g {
         flex-direction: column;
         /*            border-color: brown;*/
+    }
+
+    .simple {
+
+        .simp,
+        .perf {
+            // background-color: #00bfff;
+            // @include color07();
+
+            .be {
+                background-color: rgb(198, 233, 222);
+            }
+
+            .do {
+                background-color: rgb(171, 215, 127);
+            }
+        }
+    }
+
+    .contin {
+
+        .simp,
+        .perf {
+            .be {
+                background-color: rgb(126, 233, 200);
+            }
+
+            .do {
+                background-color: rgb(120, 192, 48);
+            }
+        }
+
     }
 }

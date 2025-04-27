@@ -332,7 +332,7 @@ class Prisma extends React.Component {
                         <div class="e sing">
                             <div class="d affirm">
                                 <div class="c posit">
-                                    <div class="b">
+                                    <div class="b simple">
                                         <div class="a simp">
                                             <div className="be">I am</div>
                                             <div className="do">I do</div>
@@ -342,12 +342,12 @@ class Prisma extends React.Component {
                                             <div className="do">I have done</div>
                                         </div>
                                     </div>
-                                    <div class="b">
-                                        <div class="a cont">
+                                    <div class="b contin">
+                                        <div class="a simp">
                                             <div className="be">I am being</div>
                                             <div className="do">I am doing</div>
                                         </div>
-                                        <div class="a perf_cont">
+                                        <div class="a perf">
                                             <div className="be">...</div>
                                             <div className="do">I have been doing</div>
                                         </div>
@@ -356,7 +356,7 @@ class Prisma extends React.Component {
                                 </div>
 
                                 <div class="c negat">
-                                    <div class="b">
+                                    <div class="b simple">
                                         <div class="a simp">
                                             <div className="be">I am not</div>
                                             <div className="do">I do not</div>
@@ -366,12 +366,12 @@ class Prisma extends React.Component {
                                             <div className="do">I have not done</div>
                                         </div>
                                     </div>
-                                    <div class="b">
-                                        <div class="a cont">
+                                    <div class="b contin">
+                                        <div class="a simp">
                                             <div className="be">I am not being</div>
                                             <div className="do">I am not doing</div>
                                         </div>
-                                        <div class="a perf_cont">
+                                        <div class="a perf">
                                             <div className="be">...</div>
                                             <div className="do">I have not been doing</div>
                                         </div>
@@ -382,7 +382,7 @@ class Prisma extends React.Component {
 
                             <div class="d interr">
                                 <div class="c posit">
-                                    <div class="b">
+                                    <div class="b simple">
                                         <div class="a simp">
                                             <div className="be">am I?</div>
                                             <div className="do">do I?</div>
@@ -392,12 +392,12 @@ class Prisma extends React.Component {
                                             <div className="do">have I done?</div>
                                         </div>
                                     </div>
-                                    <div class="b">
-                                        <div class="a cont">
+                                    <div class="b contin">
+                                        <div class="a simp">
                                             <div className="be">am I being?</div>
                                             <div className="do">am I doing?</div>
                                         </div>
-                                        <div class="a perf_cont">
+                                        <div class="a perf">
                                             <div className="be">...</div>
                                             <div className="do">have I been doing?</div>
                                         </div>
@@ -406,7 +406,7 @@ class Prisma extends React.Component {
                                 </div>
 
                                 <div class="c negat">
-                                    <div class="b">
+                                    <div class="b simple">
                                         <div class="a simp">
                                             <div className="be">am I not?</div>
                                             <div className="do">do I not?</div>
@@ -416,12 +416,12 @@ class Prisma extends React.Component {
                                             <div className="do">have I not done?</div>
                                         </div>
                                     </div>
-                                    <div class="b">
-                                        <div class="a cont">
+                                    <div class="b contin">
+                                        <div class="a simp">
                                             <div className="be">am I not being?</div>
                                             <div className="do">am I not doing?</div>
                                         </div>
-                                        <div class="a perf_cont">
+                                        <div class="a perf">
                                             <div className="be">...</div>
                                             <div className="do">have I not been doing?</div>
                                         </div>
