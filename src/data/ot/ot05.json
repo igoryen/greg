@@ -1,380 +1,380 @@
 [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заглавная буква",
-   "ipa": "ə ˈkæpətəl ˈlɛtər",
-   "spell": "a capital letter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "депо",
-   "ipa": "ə ˈdipoʊ",
-   "spell": "a depot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ель",
-   "ipa": "ə fɜr tri",
-   "spell": "a fur tree"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "письмо",
-   "ipa": "ə ˈlɛtər",
-   "spell": "a letter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "партнёр",
-   "ipa": "ə ˈpɑrtnər",
-   "spell": "a partner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "слово",
-   "ipa": "ə wɜrd",
-   "spell": "a word"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мир",
-   "ipa": "ə wɜrld",
-   "spell": "a world"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Африка",
-   "ipa": "ˈæfrəkə",
-   "spell": "Africa"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "африканский",
-   "ipa": "ˈæfrəkən",
-   "spell": "African"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Америка",
-   "ipa": "əˈmɛrəkə",
-   "spell": "America"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "американский",
-   "ipa": "əˈmɛrəkən",
-   "spell": "American"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Азия",
-   "ipa": "ˈeɪʒə",
-   "spell": "Asia"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "азиатский",
-   "ipa": "ˈeɪʒən",
-   "spell": "Asian"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Австралия",
-   "ipa": "ɔˈstreɪljə",
-   "spell": "Australia"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "австралийский",
-   "ipa": "ɔˈstreɪljən",
-   "spell": "Australian"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Китай",
-   "ipa": "ˈʧaɪnə",
-   "spell": "China"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "китайский",
-   "ipa": "ʧaɪˈniz",
-   "spell": "Chinese"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "цитрусовый",
-   "ipa": "ˈsɪtrəs",
-   "spell": "citrus"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Восток",
-   "ipa": "ist",
-   "spell": "East"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "восемь",
-   "ipa": "eɪt",
-   "spell": "eight"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Европа",
-   "ipa": "ˈjʊrəp",
-   "spell": "Europe"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "европейский",
-   "ipa": "ˌjʊrəˈpiən",
-   "spell": "European"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "частый",
-   "ipa": "ˈfrikwənt",
-   "spell": "frequent"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "немецкий",
-   "ipa": "ˈʤɜrmən",
-   "spell": "German"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Германия",
-   "ipa": "ˈʤɜrməni",
-   "spell": "Germany"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Дом-Депо",
-   "ipa": "hoʊm ˈdipoʊ",
-   "spell": "Home Depot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "У меня аллергия на цветы",
-   "ipa": "aɪ æm əˈlɜrʤɪk tu ˈflaʊərz",
-   "spell": "I am allergic to flowers"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "У меня аллергия на пыльцу",
-   "ipa": "aɪ æm əˈlɜrʤɪk tu ˈpɑlən",
-   "spell": "I am allergic to pollen"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Я надела куртку",
-   "ipa": "aɪ pʊt ɑn ə ˈʤækət",
-   "spell": "I put on a jacket"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Ирландия",
-   "ipa": "ˈaɪərlənd",
-   "spell": "Ireland"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это произносится",
-   "ipa": "ɪts prəˈnaʊnst",
-   "spell": "it's pronounced"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я в порядке",
-   "ipa": "aɪm ɡʊd",
-   "spell": "I’m good"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня всё хорошо",
-   "ipa": "aɪm wɛl",
-   "spell": "I’m well"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Мексика",
-   "ipa": "ˈmɛksəˌkoʊ",
-   "spell": "Mexico"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Север",
-   "ipa": "nɔrθ",
-   "spell": "North"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Северная Америка",
-   "ipa": "nɔrθ əˈmɛrəkə",
-   "spell": "North America"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дождливый",
-   "ipa": "ˈreɪni",
-   "spell": "rainy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "очень солнечно",
-   "ipa": "ˈrɪli ˈsʌni",
-   "spell": "really sunny"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Россия",
-   "ipa": "ˈrʌʃə",
-   "spell": "Russia"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "русский",
-   "ipa": "ˈrʌʃən",
-   "spell": "Russian"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Юг",
-   "ipa": "saʊθ",
-   "spell": "South"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Южная Америка",
-   "ipa": "saʊθ əˈmɛrəkə",
-   "spell": "South America"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Испания",
-   "ipa": "speɪn",
-   "spell": "Spain"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "солнечный",
-   "ipa": "ˈsʌni",
-   "spell": "sunny"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "погода была хорошая",
-   "ipa": "ðə ˈwɛðər wʌz naɪs",
-   "spell": "the weather was nice"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ветер свистит",
-   "ipa": "ðə wɪnd ɪz ˈwɪslɪŋ",
-   "spell": "the wind is whistling"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вокруг нас горы, поэтому ветреная погода бывает редко",
-   "ipa": "ðɛr ɑr ˈmaʊntənz əˈraʊnd ʌs, soʊ ˈwɪndi ˈwɛðər ɪz ˈvɛri rɛr",
-   "spell": "there are mountains around us, so windy weather is very rare"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "четверг",
-   "ipa": "ˈθɜrzˌdeɪ",
-   "spell": "Thursday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тёплый",
-   "ipa": "wɔrm",
-   "spell": "warm"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы хорошо провели время",
-   "ipa": "wi hæd ə ˈvɛri ɡʊd taɪm",
-   "spell": "we had a very good time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы провели время с родственниками",
-   "ipa": "wi spɛnt taɪm wɪð ˈrɛlətɪvz",
-   "spell": "we spent time with relatives"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "среда",
-   "ipa": "ˈwɛnzˌdeɪ",
-   "spell": "Wednesday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Запад",
-   "ipa": "wɛst",
-   "spell": "West"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "червь",
-   "ipa": "wɜrm",
-   "spell": "worm"
- }
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "заглавная буква",
+    "ipa": "ə ˈkæpətəl ˈlɛtər",
+    "spell": "a capital letter"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "депо",
+    "ipa": "ə ˈdipoʊ",
+    "spell": "a depot"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ель",
+    "ipa": "ə fɜr tri",
+    "spell": "a fur tree"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "буква",
+    "ipa": "ə ˈlɛtər",
+    "spell": "a letter"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "партнёр",
+    "ipa": "ə ˈpɑrtnər",
+    "spell": "a partner"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "слово",
+    "ipa": "ə wɜrd",
+    "spell": "a word"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мир",
+    "ipa": "ə wɜrld",
+    "spell": "a world"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Африка",
+    "ipa": "ˈæfrəkə",
+    "spell": "Africa"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "африканский",
+    "ipa": "ˈæfrəkən",
+    "spell": "African"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Америка",
+    "ipa": "əˈmɛrəkə",
+    "spell": "America"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "американский",
+    "ipa": "əˈmɛrəkən",
+    "spell": "American"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Азия",
+    "ipa": "ˈeɪʒə",
+    "spell": "Asia"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "азиатский",
+    "ipa": "ˈeɪʒən",
+    "spell": "Asian"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Австралия",
+    "ipa": "ɔˈstreɪljə",
+    "spell": "Australia"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "австралийский",
+    "ipa": "ɔˈstreɪljən",
+    "spell": "Australian"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Китай",
+    "ipa": "ˈʧaɪnə",
+    "spell": "China"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "китайский",
+    "ipa": "ʧaɪˈniz",
+    "spell": "Chinese"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "цитрусовый",
+    "ipa": "ˈsɪtrəs",
+    "spell": "citrus"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Восток",
+    "ipa": "ist",
+    "spell": "East"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "восемь",
+    "ipa": "eɪt",
+    "spell": "eight"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Европа",
+    "ipa": "ˈjʊrəp",
+    "spell": "Europe"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "европейский",
+    "ipa": "ˌjʊrəˈpiən",
+    "spell": "European"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "частый",
+    "ipa": "ˈfrikwənt",
+    "spell": "frequent"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "немецкий",
+    "ipa": "ˈʤɜrmən",
+    "spell": "German"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Германия",
+    "ipa": "ˈʤɜrməni",
+    "spell": "Germany"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Дом-Депо",
+    "ipa": "hoʊm ˈdipoʊ",
+    "spell": "Home Depot"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "У меня аллергия на цветы",
+    "ipa": "aɪ æm əˈlɜrʤɪk tu ˈflaʊərz",
+    "spell": "I am allergic to flowers"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "У меня аллергия на пыльцу",
+    "ipa": "aɪ æm əˈlɜrʤɪk tu ˈpɑlən",
+    "spell": "I am allergic to pollen"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Я надела куртку",
+    "ipa": "aɪ pʊt ɑn ə ˈʤækət",
+    "spell": "I put on a jacket"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Ирландия",
+    "ipa": "ˈaɪərlənd",
+    "spell": "Ireland"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это произносится",
+    "ipa": "ɪts prəˈnaʊnst",
+    "spell": "it's pronounced"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я в порядке",
+    "ipa": "aɪm ɡʊd",
+    "spell": "I’m good"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я здорова",
+    "ipa": "aɪm wɛl",
+    "spell": "I’m well"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Мексика",
+    "ipa": "ˈmɛksəˌkoʊ",
+    "spell": "Mexico"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Север",
+    "ipa": "nɔrθ",
+    "spell": "North"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Северная Америка",
+    "ipa": "nɔrθ əˈmɛrəkə",
+    "spell": "North America"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дождливый",
+    "ipa": "ˈreɪni",
+    "spell": "rainy"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "очень солнечно",
+    "ipa": "ˈrɪli ˈsʌni",
+    "spell": "really sunny"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Россия",
+    "ipa": "ˈrʌʃə",
+    "spell": "Russia"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "русский",
+    "ipa": "ˈrʌʃən",
+    "spell": "Russian"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Юг",
+    "ipa": "saʊθ",
+    "spell": "South"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Южная Америка",
+    "ipa": "saʊθ əˈmɛrəkə",
+    "spell": "South America"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Испания",
+    "ipa": "speɪn",
+    "spell": "Spain"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "солнечный",
+    "ipa": "ˈsʌni",
+    "spell": "sunny"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "погода была хорошая",
+    "ipa": "ðə ˈwɛðər wʌz naɪs",
+    "spell": "the weather was nice"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ветер свистит",
+    "ipa": "ðə wɪnd ɪz ˈwɪslɪŋ",
+    "spell": "the wind is whistling"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вокруг нас горы, поэтому ветреная погода бывает редко",
+    "ipa": "ðɛr ɑr ˈmaʊntənz əˈraʊnd ʌs, soʊ ˈwɪndi ˈwɛðər ɪz ˈvɛri rɛr",
+    "spell": "there are mountains around us, so windy weather is very rare"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "четверг",
+    "ipa": "ˈθɜrzˌdeɪ",
+    "spell": "Thursday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "тёплый",
+    "ipa": "wɔrm",
+    "spell": "warm"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы хорошо провели время",
+    "ipa": "wi hæd ə ˈvɛri ɡʊd taɪm",
+    "spell": "we had a very good time"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы провели время с родственниками",
+    "ipa": "wi spɛnt taɪm wɪð ˈrɛlətɪvz",
+    "spell": "we spent time with relatives"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "среда",
+    "ipa": "ˈwɛnzˌdeɪ",
+    "spell": "Wednesday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Запад",
+    "ipa": "wɛst",
+    "spell": "West"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "червь",
+    "ipa": "wɜrm",
+    "spell": "worm"
+  }
 ]
