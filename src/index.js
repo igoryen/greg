@@ -107,6 +107,7 @@ import OT from "./pages/ot/OT";
 import OT01 from "./pages/ot/OT01";
 import OT02 from "./pages/ot/OT02";
 import OT03 from "./pages/ot/OT03";
+import OT05 from "./pages/ot/OT05";
 
 import Prisma from "./pages/Prisma";
 
@@ -253,6 +254,7 @@ export default function App() {
           <Route path="ot01" element={<OT01 />} />
           <Route path="ot02" element={<OT02 />} />
           <Route path="ot03" element={<OT03 />} />
+          <Route path="ot05" element={<OT05 />} />
 
           <Route path="sb" element={<SB />} />
           <Route path="sb01" element={<SB01 />} />
