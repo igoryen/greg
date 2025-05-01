@@ -1,0 +1,380 @@
+[
+  {
+    "cefr": "",
+    "def2": "театральна каса",
+    "def1": "касса кинотеатра",
+    "ipa": "ə bɑks ˈɔfəs",
+    "spell": "a box office"
+  },
+  {
+    "cefr": "",
+    "def2": "хлопець несе валізу",
+    "def1": "мальчик несёт чемодан",
+    "ipa": "ə bɔɪ ɪz ˈkæriɪŋ ə ˈsutˌkeɪs",
+    "spell": "a boy is carrying a suitcase"
+  },
+  {
+    "cefr": "",
+    "def2": "автовокзал",
+    "def1": "автовокзал",
+    "ipa": "ə bʌs ˈsteɪʃən",
+    "spell": "a bus station"
+  },
+  {
+    "cefr": "",
+    "def2": "автобусна зупинка",
+    "def1": "автобусная остановка",
+    "ipa": "ə bʌs stɑp",
+    "spell": "a bus stop"
+  },
+  {
+    "cefr": "",
+    "def2": "пара виходить з готелю",
+    "def1": "пара выходит из отеля",
+    "ipa": "ə ˈkʌpəl ɪz ˈlivɪŋ ðə hoʊˈtɛl",
+    "spell": "a couple is leaving the hotel"
+  },
+  {
+    "cefr": "",
+    "def2": "натовп виходить з готелю",
+    "def1": "толпа выходит из отеля",
+    "ipa": "ə kraʊd ɪz ˈlivɪŋ ðə hoʊˈtɛl",
+    "spell": "a crowd is leaving the hotel"
+  },
+  {
+    "cefr": "",
+    "def2": "група виходить з готелю",
+    "def1": "группа выходит из отеля",
+    "ipa": "ə ɡrup ɪz ˈlivɪŋ ðə hoʊˈtɛl",
+    "spell": "a group is leaving the hotel"
+  },
+  {
+    "cefr": "",
+    "def2": "багато транспорту",
+    "def1": "много транспорта",
+    "ipa": "ə lɑt ʌv ˈtræfɪk",
+    "spell": "a lot of traffic"
+  },
+  {
+    "cefr": "",
+    "def2": "народ виходить з готелю",
+    "def1": "народ выходит из отеля",
+    "ipa": "ə ˈpipəl ɪz ˈlivɪŋ ðə hoʊˈtɛl",
+    "spell": "a people is leaving the hotel"
+  },
+  {
+    "cefr": "",
+    "def2": "футболка",
+    "def1": "футболка",
+    "ipa": "ə ˈti ʃɜrt",
+    "spell": "a T-shirt"
+  },
+  {
+    "cefr": "",
+    "def2": "транспортний засіб",
+    "def1": "транспортное средство",
+    "ipa": "ə ˈvihɪkəl",
+    "spell": "a vehicle"
+  },
+  {
+    "cefr": "",
+    "def2": "яблуко",
+    "def1": "яблоко",
+    "ipa": "ən ˈæpəl",
+    "spell": "an apple"
+  },
+  {
+    "cefr": "",
+    "def2": "індієць",
+    "def1": "индиец",
+    "ipa": "ən ˈɪndiən",
+    "spell": "an Indian"
+  },
+  {
+    "cefr": "",
+    "def2": "офіс",
+    "def1": "офис",
+    "ipa": "ən ˈɔfəs",
+    "spell": "an office"
+  },
+  {
+    "cefr": "",
+    "def2": "апельсин",
+    "def1": "апельсин",
+    "ipa": "ən ˈɔrənʤ",
+    "spell": "an orange"
+  },
+  {
+    "cefr": "",
+    "def2": "парасолька",
+    "def1": "зонт",
+    "ipa": "ən əmˈbrɛlə",
+    "spell": "an umbrella"
+  },
+  {
+    "cefr": "",
+    "def2": "ясно",
+    "def1": "ясно",
+    "ipa": "ˈklɪrli",
+    "spell": "clearly"
+  },
+  {
+    "cefr": "",
+    "def2": "точний",
+    "def1": "точный",
+    "ipa": "ɪɡˈzækt",
+    "spell": "exact"
+  },
+  {
+    "cefr": "",
+    "def2": "точно",
+    "def1": "точно",
+    "ipa": "ɪɡˈzæktli",
+    "spell": "exactly"
+  },
+  {
+    "cefr": "",
+    "def2": "від X до Y",
+    "def1": "от X до Y",
+    "ipa": "frʌm ɛks tu waɪ",
+    "spell": "from X to Y"
+  },
+  {
+    "cefr": "",
+    "def2": "він пакує валізу",
+    "def1": "он собирает чемодан",
+    "ipa": "hi ɪz ˈpækɪŋ ə ˈsutˌkeɪs",
+    "spell": "he is packing a suitcase"
+  },
+  {
+    "cefr": "",
+    "def2": "я рідко дивлюся відео",
+    "def1": "я редко смотрю видео",
+    "ipa": "aɪ ˈrɛrli wɑʧ ˈvɪdioʊz",
+    "spell": "I rarely watch videos"
+  },
+  {
+    "cefr": "",
+    "def2": "це зрозуміло?",
+    "def1": "это понятно?",
+    "ipa": "ɪz ɪt klɪr?",
+    "spell": "is it clear?"
+  },
+  {
+    "cefr": "",
+    "def2": "це зрозуміліше для тебе?",
+    "def1": "это понятнее для тебя?",
+    "ipa": "ɪz ɪt ˈklɪrər fɔr ju?",
+    "spell": "is it clearer for you?"
+  },
+  {
+    "cefr": "",
+    "def2": "жінка робить те ж саме?",
+    "def1": "женщина делает то же самое?",
+    "ipa": "ɪz ðə ˈwʊmən ˈduɪŋ ðə seɪm θɪŋ?",
+    "spell": "is the woman doing the same thing?"
+  },
+  {
+    "cefr": "",
+    "def2": "слухай мене!",
+    "def1": "слушай меня!",
+    "ipa": "ˈlɪsən tu mi!",
+    "spell": "listen to me!"
+  },
+  {
+    "cefr": "",
+    "def2": "зовні",
+    "def1": "снаружи",
+    "ipa": "ˈaʊtˈsaɪd",
+    "spell": "outside"
+  },
+  {
+    "cefr": "",
+    "def2": "народи",
+    "def1": "народы",
+    "ipa": "ˈpipəlz",
+    "spell": "peoples"
+  },
+  {
+    "cefr": "",
+    "def2": "швидкий",
+    "def1": "быстрый",
+    "ipa": "kwɪk",
+    "spell": "quick"
+  },
+  {
+    "cefr": "",
+    "def2": "наукова фантастика",
+    "def1": "научная фантастика",
+    "ipa": "saɪ-faɪ, ˈsaɪəns ˈfɪkʃən",
+    "spell": "ˌsciˈfi, science fiction"
+  },
+  {
+    "cefr": "",
+    "def2": "повільний",
+    "def1": "медленный",
+    "ipa": "sloʊ",
+    "spell": "slow"
+  },
+  {
+    "cefr": "",
+    "def2": "початок",
+    "def1": "начало",
+    "ipa": "ðə bɪˈɡɪnɪŋ",
+    "spell": "the beginning"
+  },
+  {
+    "cefr": "",
+    "def2": "кінець",
+    "def1": "конец",
+    "ipa": "ði ɛnd",
+    "spell": "the end"
+  },
+  {
+    "cefr": "",
+    "def2": "чоловік і жінка виходять з готелю",
+    "def1": "мужчина и женщина выходят из отеля",
+    "ipa": "ðə mæn ænd ðə ˈwʊmən ɑr ˈlivɪŋ ðə hoʊˈtɛl",
+    "spell": "the man and the woman are leaving the hotel"
+  },
+  {
+    "cefr": "",
+    "def2": "поліція тут",
+    "def1": "полиция здесь",
+    "ipa": "ðə pəˈlis ɑr hir",
+    "spell": "the police are here"
+  },
+  {
+    "cefr": "",
+    "def2": "жінка носить капелюх",
+    "def1": "женщина носит шляпу",
+    "ipa": "ðə ˈwʊmən ɪz ˈwɛrɪŋ ə hæt",
+    "spell": "the woman is wearing a hat"
+  },
+  {
+    "cefr": "",
+    "def2": "вони купують різні речі",
+    "def1": "они покупают разные вещи",
+    "ipa": "ðeɪ ɑr ˈbaɪɪŋ ˈdɪfərənt θɪŋz",
+    "spell": "they are buying different things"
+  },
+  {
+    "cefr": "",
+    "def2": "вони виходять з готелю",
+    "def1": "они выходят из отеля",
+    "ipa": "ðeɪ ɑr ˈlivɪŋ ðə hoʊˈtɛl",
+    "spell": "they are leaving the hotel"
+  },
+  {
+    "cefr": "",
+    "def2": "вони не купують одне й те ж",
+    "def1": "они не покупают одно и то же",
+    "ipa": "ðeɪ ɑr nɑt ˈbaɪɪŋ ðə seɪm θɪŋ",
+    "spell": "they are not buying the same thing"
+  },
+  {
+    "cefr": "",
+    "def2": "починати",
+    "def1": "начинать",
+    "ipa": "tu bɪˈɡɪn",
+    "spell": "to begin"
+  },
+  {
+    "cefr": "",
+    "def2": "закінчувати",
+    "def1": "заканчивать",
+    "ipa": "tu ɛnd",
+    "spell": "to end"
+  },
+  {
+    "cefr": "",
+    "def2": "викликати таксі",
+    "def1": "вызывать такси",
+    "ipa": "tu ɡɛt ə ˈtæksi",
+    "spell": "to get a taxi"
+  },
+  {
+    "cefr": "",
+    "def2": "пакувати валізу",
+    "def1": "собирать чемодан",
+    "ipa": "tu pæk ə ˈsutˌkeɪs",
+    "spell": "to pack a suitcase"
+  },
+  {
+    "cefr": "",
+    "def2": "відтворювати",
+    "def1": "воспроизводить",
+    "ipa": "tu ˈrɛpləˌkeɪt",
+    "spell": "to replicate"
+  },
+  {
+    "cefr": "",
+    "def2": "занадто багато шуму",
+    "def1": "слишком много шума",
+    "ipa": "tu mʌʧ nɔɪz",
+    "spell": "too much noise"
+  },
+  {
+    "cefr": "",
+    "def2": "до, у напрямку",
+    "def1": "к, в направлении",
+    "ipa": "təˈwɔrdz",
+    "spell": "towards"
+  },
+  {
+    "cefr": "",
+    "def2": "дві людини",
+    "def1": "два человека",
+    "ipa": "tu ˈpipəl",
+    "spell": "two people"
+  },
+  {
+    "cefr": "",
+    "def2": "чекай на мене!",
+    "def1": "жди меня!",
+    "ipa": "weɪt fɔr mi!",
+    "spell": "wait for me!"
+  },
+  {
+    "cefr": "",
+    "def2": "що",
+    "def1": "что",
+    "ipa": "wɑt",
+    "spell": "what"
+  },
+  {
+    "cefr": "",
+    "def2": "що жінка купує?",
+    "def1": "что женщина покупает?",
+    "ipa": "wɑt ɪz ðə ˈwʊmən ˈbaɪɪŋ?",
+    "spell": "what is the woman buying?"
+  },
+  {
+    "cefr": "",
+    "def2": "який серіал ти дивишся цього тижня?",
+    "def1": "какой сериал ты смотришь на этой неделе?",
+    "ipa": "wɑt ˈtiˈvi-ʃoʊ ɑr ju ˈwɑʧɪŋ ðɪs wik?",
+    "spell": "what TV-show are you watching this week?"
+  },
+  {
+    "cefr": "",
+    "def2": "коли почуєте свій номер, підніміть руку, будь ласка",
+    "def1": "когда услышишь свой номер, подними руку, пожалуйста",
+    "ipa": "wɛn ju hir jʊər ˈnʌmbər reɪz jʊər hænd, pliz",
+    "spell": "when you hear your number raise your hand, please"
+  },
+  {
+    "cefr": "",
+    "def2": "будь-який",
+    "def1": "любой",
+    "ipa": "wɪˈʧɛvər",
+    "spell": "whichever"
+  },
+  {
+    "cefr": "",
+    "def2": "благодаря тебе",
+    "def1": "благодаря тебе",
+    "ipa": "θæŋks tu ju",
+    "spell": "thanks to you"
+  }
+]
