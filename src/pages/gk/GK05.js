@@ -35,7 +35,7 @@ class GK05 extends React.Component {
                         Ukr (2)
                     </button>
                 </div>
-                <Mathilda words={words} lang={this.state.lng} />
+                <Mathilda words={words} lang={this.state.lng} lesnum={lesson.number} />
             </div>
         );
     }

@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import clsx from "clsx";
 import "../styles/mathilda.scss";
 
-function Mathilda({ words, lang = 'def1' }) {
+function Mathilda({ words, lang = 'def1', lesnum }) {
     useEffect(() => {
         // code to run after render goes here
         window.$(".word").flip({ speed: 200 });
@@ -17,6 +17,7 @@ function Mathilda({ words, lang = 'def1' }) {
         'spell_off': !spellingToggle
     });
 
+    let sectionClasses = `"words mathilda palette${typeof lesnum !== 'undefined' ? lesnum.toString().at(-1) : "1"}"`;
 
     let language = lang.slice(-1) === "1" ? "" : "Ukrainian";
 
@@ -59,7 +60,7 @@ function Mathilda({ words, lang = 'def1' }) {
     }
 
     return (
-        <section className="words_ mathilda">
+        <section className={sectionClasses}>
             <pre>{language}</pre>
             <div className="spelling_switch">
                 <button onClick={spellingToggleChange} className={spellingToggle ? "spelling on" : "spelling off"}>SPELLING</button>
