@@ -16,7 +16,7 @@ class SS23 extends React.Component {
         return (
             <div>
                 <Leon lesson={lesson} />
-                <Mathilda words={words} />
+                <Mathilda words={words} lesnum={lesson.number} />
             </div>
         );
     }
