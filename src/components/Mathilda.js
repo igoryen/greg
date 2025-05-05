@@ -17,7 +17,7 @@ function Mathilda({ words, lang = 'def1', lesnum }) {
         'spell_off': !spellingToggle
     });
 
-    let sectionClasses = `"words mathilda palette${typeof lesnum !== 'undefined' ? lesnum.toString().at(-1) : "1"}"`;
+    let sectionClasses = `words mathilda palette${typeof lesnum !== 'undefined' ? lesnum.toString().at(-1) : "1"}`;
 
     let language = lang.slice(-1) === "1" ? "" : "Ukrainian";
 

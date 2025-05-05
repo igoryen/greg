@@ -20,6 +20,7 @@ body {
     padding: 1rem;
 }
 
+// .mathilda {
 .words_ {
     .attn {
         background-color: white;
@@ -246,40 +247,7 @@ span.sgn i {
 
 }
 
-.derek {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 1em;
 
-    p {
-        background-color: #fff;
-        box-shadow: 1px 1px 1px #bbb;
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-
-        a {
-            color: #555;
-            line-height: normal;
-            padding: 0.5em;
-            text-align: center;
-            text-decoration: none;
-
-            .session {
-                font-size: 0.7em;
-            }
-
-            .number {
-                font-size: 2em;
-            }
-
-            .date {
-                font-size: 0.3em;
-            }
-        }
-    }
-}
 
 .pijne {
     padding: 10px;
@@ -346,5 +314,196 @@ span.sgn i {
 
     &.off {
         color: gray;
+    }
+}
+
+
+///////
+/// .mathilda
+/// flash cards palettes
+///
+/// 
+
+.palette1 {
+
+    .part1 {
+        background-color: $side;
+
+        p {
+            color: $cardno;
+        }
+    }
+}
+
+.palette2 {
+
+    // distinct color: #00ffff // aqua
+    .word {
+        .part1 {
+            background-color: #00ffff26;
+
+            p {
+                color: #00ffff3d;
+            }
+        }
+    }
+}
+
+.palette3 {
+
+    // distinct color: #ffff00 // yellow
+    .word {
+        .part1 {
+            background-color: rgb(255 174 0 / 24%);
+
+            p {
+                color: #d3a00661;
+            }
+        }
+    }
+}
+
+.palette4 {
+
+    // distinct color: brown
+    .word {
+        .part1 {
+            background-color: #a52a2a2b;
+
+            p {
+                color: #a52a2a36;
+            }
+        }
+    }
+}
+
+.palette5 {
+
+    // distinct color: #ff8c00 // darkorange
+    .word {
+        .part1 {
+            background-color: #ff8c0042;
+
+            p {
+                color: #ff8c0080;
+            }
+        }
+    }
+}
+
+.palette6 {
+
+    // distinct color: #b03060 // maroon3
+    .word {
+        .part1 {
+            background-color: #b030602e;
+
+            p {
+                color: #b030603b;
+            }
+        }
+    }
+}
+
+.palette7 {
+
+    // distinct color: #00008b // darkblue
+    .word {
+        .part1 {
+            background-color: #00008b26;
+
+            p {
+                color: #00008b30;
+            }
+        }
+    }
+}
+
+.palette8 {
+
+    // distinct color: #6495ed  // cornflower
+    .word {
+        .part1 {
+            background-color: #6495ed33;
+
+            p {
+                color: #6495ed4d;
+            }
+        }
+    }
+}
+
+.palette9 {
+
+    // distinct color: #00ff7f //springgreen
+    .word {
+        .part1 {
+            background-color: #00ff7f30;
+
+            p {
+                color: #00ff7f45;
+            }
+        }
+    }
+}
+
+.palette0 {
+
+    // distinct color: #ff00ff // fuchsia
+    .word {
+        .part1 {
+            background-color: #ff00ff24;
+
+            p {
+                color: #ff00ff3d;
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.derek {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+
+    p {
+        background-color: #fff;
+        box-shadow: 1px 1px 1px #bbb;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+
+        a {
+            color: #555;
+            line-height: normal;
+            padding: 0.5em;
+            text-align: center;
+            text-decoration: none;
+
+            .session {
+                font-size: 0.7em;
+            }
+
+            .number {
+                font-size: 2em;
+            }
+
+            .date {
+                font-size: 0.3em;
+            }
+        }
     }
 }
