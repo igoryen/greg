@@ -1,8 +1,8 @@
 import "../../styles/fc.scss";
 import React from "react";
 import Leon from "../../components/Leon";
-import Word from "../../components/Word";
 import words from "../../data/ip/ip13.json";
+import Mathilda from "../../components/Mathilda";
 
 class IP13 extends React.Component {
 
@@ -16,7 +16,7 @@ class IP13 extends React.Component {
         return (
             <div>
                 <Leon lesson={lesson} />
-                <Word words={words} />
+                <Mathilda words={words} lesnum={lesson.number} />
             </div>
         );
     }
