@@ -22,6 +22,7 @@ import AB17 from "./pages/ab/AB17";
 import AB18 from "./pages/ab/AB18";
 import AB19 from "./pages/ab/AB19";
 import AB20 from "./pages/ab/AB20";
+import AB28 from "./pages/ab/AB28";
 
 import AG from "./pages/ag/AG";
 import AG08 from "./pages/ag/AG08";
@@ -181,6 +182,7 @@ export default function App() {
           <Route path="ab18" element={<AB18 />} />
           <Route path="ab19" element={<AB19 />} />
           <Route path="ab20" element={<AB20 />} />
+          <Route path="ab28" element={<AB28 />} />
 
           <Route path="ag" element={<AG />} />
           <Route path="ag08" element={<AG08 />} />
