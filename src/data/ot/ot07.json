@@ -1,0 +1,345 @@
+[
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ваш номерной знак",
+    "ipa": "jʊər ˈlaɪsəns pleɪt",
+    "spell": "your license plate"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ваши задние фары в порядке?",
+    "ipa": "ɑr jʊər teɪl laɪts ˈoʊˈkeɪ?",
+    "spell": "are your tail lights OK?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вытирать",
+    "ipa": "tu waɪp",
+    "spell": "to wipe"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "габариты, задние фары",
+    "ipa": "teɪl laɪts",
+    "spell": "tail lights"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "грязный",
+    "ipa": "ˈdɜrti",
+    "spell": "dirty"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дальний свет",
+    "ipa": "haɪ bimz",
+    "spell": "high beams"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дальний свет включён",
+    "ipa": "ðə haɪ bimz ɑr ɑn",
+    "spell": "the high beams are on"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дальний свет включён?",
+    "ipa": "ɑr ðə haɪ bimz ɑn?",
+    "spell": "are the high beams on?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дальний свет не включён",
+    "ipa": "ðə haɪ bimz ɑr nɑt ɑn",
+    "spell": "the high beams are not on"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дверь закрыта",
+    "ipa": "ðə dɔr ɪz kloʊzd",
+    "spell": "the door is closed"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дверь закрыта?",
+    "ipa": "ɪz ðə dɔr kloʊzd?",
+    "spell": "is the door closed?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дверь не закрыта",
+    "ipa": "ðə dɔr ɪz nɑt kloʊzd",
+    "spell": "the door is not closed"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дворники включены",
+    "ipa": "ðə ˈwaɪpərz ɑr ɑn",
+    "spell": "the wipers are on"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дворники включены?",
+    "ipa": "ɑr ðə ˈwaɪpərz ɑn?",
+    "spell": "are the wipers on?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дворники не включены",
+    "ipa": "ðə ˈwaɪpərz ɑr nɑt ɑn",
+    "spell": "the wipers are not on"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "капот не открыт",
+    "ipa": "ðə hʊd ɪz nɑt ˈoʊpən",
+    "spell": "the hood is not open"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "капот открыт",
+    "ipa": "ðə hʊd ɪz ˈoʊpən",
+    "spell": "the hood is open"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "капот открыт?",
+    "ipa": "ɪz ðə hʊd ˈoʊpən?",
+    "spell": "is the hood open?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "лучи",
+    "ipa": "bimz",
+    "spell": "beams"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Меня здесь нет",
+    "ipa": "aɪ æm nɑt hir",
+    "spell": "I am not here"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мои задние фары в порядке",
+    "ipa": "maɪ teɪl laɪts ɑr ˈoʊˈkeɪ",
+    "spell": "my tail lights are OK"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мои задние фары не в порядке",
+    "ipa": "maɪ teɪl laɪts ɑr nɑt ˈoʊˈkeɪ",
+    "spell": "my tail lights are not OK"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мой багажник не пустой",
+    "ipa": "maɪ trʌŋk ɪz nɑt ˈɛmpti",
+    "spell": "my trunk is not empty"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мой багажник пустой",
+    "ipa": "maɪ trʌŋk ɪz ˈɛmpti",
+    "spell": "my trunk is empty"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мой багажник пустой?",
+    "ipa": "ɪz maɪ trʌŋk ˈɛmpti?",
+    "spell": "is my trunk empty?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мой номерной знак грязный",
+    "ipa": "maɪ ˈlaɪsəns pleɪt ɪz ˈdɜrti",
+    "spell": "my license plate is dirty"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мой номерной знак грязный?",
+    "ipa": "ɪz maɪ ˈlaɪsəns pleɪt ˈdɜrti?",
+    "spell": "is my license plate dirty?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мой номерной знак не грязный",
+    "ipa": "maɪ ˈlaɪsəns pleɪt ɪz nɑt ˈdɜrti",
+    "spell": "my license plate is not dirty"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Он из Перу? Да, он из Перу",
+    "ipa": "ɪz hi frʌm pəˈru? jɛs, hi ɪz",
+    "spell": "is he from Peru? Yes, he is"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Они студенты",
+    "ipa": "ðeɪ ɑr ˈstudənts",
+    "spell": "they are students"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Они студенты?",
+    "ipa": "ɑr ðeɪ ˈstudənts?",
+    "spell": "are they students?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "плоский",
+    "ipa": "flæt",
+    "spell": "flat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Сегодня очень жаркий день",
+    "ipa": "təˈdeɪ ɪz ə ˈvɛri hɑt deɪ",
+    "spell": "today is a very hot day"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Сегодня очень жарко",
+    "ipa": "ɪt ɪz ˈvɛri hɑt təˈdeɪ",
+    "spell": "it is very hot today"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Ты в тени",
+    "ipa": "ju ɑr ɪn ðə ʃeɪd",
+    "spell": "you are in the shade"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Ты здесь? да, ты здесь",
+    "ipa": "ɑr ju hir? jɛs, ju ɑr",
+    "spell": "are you here? yes, you are"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Ты здесь? нет, ты не здесь",
+    "ipa": "ɑr ju hir? noʊ, ju ɑr nɑt",
+    "spell": "are you here? no, you are not"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "шина",
+    "ipa": "ə ˈtaɪər",
+    "spell": "a tire"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "шина не спущена",
+    "ipa": "ðə ˈtaɪər ɪz nɑt flæt",
+    "spell": "the tire is not flat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "шина спущена",
+    "ipa": "ðə ˈtaɪər ɪz flæt",
+    "spell": "the tire is flat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "шина спущена?",
+    "ipa": "ɪz ðə ˈtaɪər flæt?",
+    "spell": "is the tire flat?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Это испанский",
+    "ipa": "ɪt ɪz ˈspænɪʃ",
+    "spell": "it is Spanish"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Это испанский?",
+    "ipa": "ɪz ɪt ˈspænɪʃ?",
+    "spell": "is it Spanish?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Я в десятой комнате",
+    "ipa": "aɪ æm ɪn rum tɛn",
+    "spell": "I am in room ten"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Я в десятой комнате?",
+    "ipa": "æm aɪ ɪn rum tɛn?",
+    "spell": "am I in room ten?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я вожу людей",
+    "ipa": "aɪ ɡɪv ˈpipəl raɪdz",
+    "spell": "I give people rides"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Я здесь",
+    "ipa": "aɪ æm hir",
+    "spell": "I am here"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Я здесь? да, я здесь",
+    "ipa": "æm aɪ hir? jɛs, aɪ æm",
+    "spell": "am I here? yes, I am"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Я здесь? нет, я не здесь",
+    "ipa": "æm aɪ hir? noʊ, aɪ æm nɑt",
+    "spell": "am I here? no, I am not"
+  }
+]
