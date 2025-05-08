@@ -5,6 +5,9 @@ import Home from "./pages/Home";
 
 import Ang from "./pages/Ang";
 
+import AA from "./pages/aa/AA";
+import AA01 from "./pages/aa/AA01";
+
 import AB from "./pages/ab/AB";
 import AB01 from "./pages/ab/AB01";
 import AB04 from "./pages/ab/AB04";
@@ -169,7 +172,11 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+
           <Route path="ang" element={<Ang />} />
+
+          <Route path="aa" element={<AA />} />
+          <Route path="aa01" element={<AA01 />} />
 
           <Route path="ab" element={<AB />} />
           <Route path="ab01" element={<AB01 />} />
