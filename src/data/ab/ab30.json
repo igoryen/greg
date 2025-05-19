@@ -1,0 +1,338 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сейчас три часа дня",
+   "ipa": "ɪt ɪz θri pi.ɛm.",
+   "spell": "it is 3 p.m."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сейчас Рождество",
+   "ipa": "ɪt ɪz ˈkrɪsməs",
+   "spell": "it is Christmas"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сейчас вечер",
+   "ipa": "ɪt ɪz ˈivnɪŋ",
+   "spell": "it is evening"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сейчас утро",
+   "ipa": "ɪt ɪz ˈmɔrnɪŋ",
+   "spell": "it is morning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во сколько завтрак?",
+   "ipa": "wɑt taɪm ɪz ˈbrɛkfəst?",
+   "spell": "what time is breakfast?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во сколько обед?",
+   "ipa": "wɑt taɪm ɪz lʌnʧ?",
+   "spell": "what time is lunch?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во сколько наш рейс?",
+   "ipa": "wɑt taɪm ɪz ˈaʊər flaɪt?",
+   "spell": "what time is our flight?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во сколько фильм?",
+   "ipa": "wɑt taɪm ɪz ðə ˈmuvi?",
+   "spell": "what time is the movie?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во сколько твой поезд?",
+   "ipa": "wɑt taɪm ɪz jʊər treɪn?",
+   "spell": "what time is your train?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во сколько?",
+   "ipa": "wɑt taɪm?",
+   "spell": "what time?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Все счастливы в отпуске!",
+   "ipa": "ˈɛvriˌbɑdi ɪz ˈhæpi ɑn veɪˈkeɪʃən!",
+   "spell": "Everybody is happy on vacation!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Всё потрясающе в отпуске!",
+   "ipa": "ˈɛvriˌθɪŋ ɪz ˈɑsəm ɑn veɪˈkeɪʃən!",
+   "spell": "Everything is awesome on vacation!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "думать",
+   "ipa": "tu θɪŋk",
+   "spell": "to think"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "желание, пожелание, хотение",
+   "ipa": "ə wɪʃ",
+   "spell": "a wish"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "желание, страсть, жажда",
+   "ipa": "ə dɪˈzaɪər",
+   "spell": "a desire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "задача",
+   "ipa": "ə tæsk",
+   "spell": "a task"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как долго лететь (как долог полёт) на Кубу?",
+   "ipa": "haʊ lɔŋ ɪz ðə flaɪt tu ˈkjubə?",
+   "spell": "how long is the flight to Cuba?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как долго ты летишь туда?",
+   "ipa": "haʊ lɔŋ du ju flaɪ ðɛr?",
+   "spell": "how long do you fly there?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "куда ты ходил / вы ездили?",
+   "ipa": "wɛr dɪd ju ɡoʊ?",
+   "spell": "where did you go?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мать и отец",
+   "ipa": "ˈmʌðər ænd ˈfɑðər",
+   "spell": "mother and father"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мне нужен отдых.",
+   "ipa": "aɪ nid rɛst.",
+   "spell": "I need rest."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы едим здоровую еду.",
+   "ipa": "wi it ˈhɛlθi fud.",
+   "spell": "We eat healthy food."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы любим тёплые дни.",
+   "ipa": "wi lʌv wɔrm deɪz.",
+   "spell": "We love warm days."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы плаваем и гуляем.",
+   "ipa": "wi swɪm ænd wɔk.",
+   "spell": "We swim and walk."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы работаем каждый день.",
+   "ipa": "wi wɜrk ˈɛvəri deɪ.",
+   "spell": "We work every day."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы слушаем птиц.",
+   "ipa": "wi ˈlɪsən tu ðə bɜrdz.",
+   "spell": "We listen to the birds."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы хотим никакой работы, никакой спешки.",
+   "ipa": "wi wɑnt noʊ wɜrk, noʊ ˈhɜri.",
+   "spell": "We want no work, no hurry."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы хотим уехать!",
+   "ipa": "wi wɑnt tu ɡoʊ əˈweɪ!",
+   "spell": "We want to go away!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мы чувствуем себя хорошо!",
+   "ipa": "wi fil ɡʊd!",
+   "spell": "We feel good!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Нам всем нужно тихое утро и покой.",
+   "ipa": "wi ɔl nid ə ˈkwaɪət ˈmɔrnɪŋ ænd pis ænd ˈkwaɪət.",
+   "spell": "We all need a quiet morning and peace and quiet."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отпук моей мечты",
+   "ipa": "maɪ drim veɪˈkeɪʃən",
+   "spell": "my dream vacation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Погода отличная на пляже!",
+   "ipa": "ðə ˈwɛðər ɪz faɪn æt ðə biʧ!",
+   "spell": "The weather is fine at the beach!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Тебе тоже нужен отдых.",
+   "ipa": "ju nid rɛst tu.",
+   "spell": "You need rest too."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тонуть",
+   "ipa": "tu sɪŋk",
+   "spell": "to sink"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ты живёшь в доме.",
+   "ipa": "ju lɪv ɪn ə haʊs.",
+   "spell": "You live in a house."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ты не ешь хот-доги.",
+   "ipa": "ju doʊnt it hɑt dɑɡz.",
+   "spell": "You don’t eat hot dogs."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ты слушаешь музыку.",
+   "ipa": "ju ˈlɪsən tu ˈmjuzɪk.",
+   "spell": "You listen to music."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ты тоже любишь солнечную погоду.",
+   "ipa": "ju laɪk ˈsʌni ˈwɛðər tu.",
+   "spell": "You like sunny weather too."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ты хочешь увидеть пляж.",
+   "ipa": "ju wɑnt tu si ðə biʧ.",
+   "spell": "You want to see the beach."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты экономишь время",
+   "ipa": "ju seɪv taɪm",
+   "spell": "you save time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "У нас нет свободы.",
+   "ipa": "wi doʊnt hæv ˈfridəm.",
+   "spell": "We don’t have freedom."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я живу в доме.",
+   "ipa": "aɪ lɪv ɪn ə haʊs.",
+   "spell": "I live in a house."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я люблю солнечную погоду.",
+   "ipa": "aɪ laɪk ˈsʌni ˈwɛðər.",
+   "spell": "I like sunny weather."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я не ем в Макдональдсе.",
+   "ipa": "aɪ doʊnt it æt məkˈdɑnəldz.",
+   "spell": "I don’t eat at McDonald’s."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я не люблю дождь.",
+   "ipa": "aɪ doʊnt laɪk reɪn.",
+   "spell": "I don’t like rain."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я слушаю музыку.",
+   "ipa": "aɪ ˈlɪsən tu ˈmjuzɪk.",
+   "spell": "I listen to music."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я хочу отпуск!",
+   "ipa": "aɪ wɑnt ə veɪˈkeɪʃən!",
+   "spell": "I want a vacation!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я хочу увидеть зоопарк.",
+   "ipa": "aɪ wɑnt tu si ðə zu.",
+   "spell": "I want to see the zoo."
+ }
+]
