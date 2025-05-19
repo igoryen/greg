@@ -1,0 +1,58 @@
+[
+  {
+    "cefr": "",
+    "def2": "paragraphus",
+    "def1": "абзац",
+    "ipa": "ə ˈpærəˌɡræf",
+    "spell": "a paragraph"
+  },
+  {
+    "cefr": "",
+    "def2": "porcellus",
+    "def1": "поросёнок",
+    "ipa": "ə ˈpɪɡlɪt",
+    "spell": "a piglet"
+  },
+  {
+    "cefr": "",
+    "def2": "agens itineris",
+    "def1": "туристическое агентство",
+    "ipa": "ə ˈtrævəl ˈeɪʤənsi",
+    "spell": "a travel agency"
+  },
+  {
+    "cefr": "",
+    "def2": "linum",
+    "def1": "лён",
+    "ipa": "flæks",
+    "spell": "flax"
+  },
+  {
+    "cefr": "",
+    "def2": "fallere systema",
+    "def1": "обмануть систему",
+    "ipa": "tu ʧit ðə ˈsɪstəm",
+    "spell": "to cheat the system"
+  },
+  {
+    "cefr": "",
+    "def2": "ingenium artificiosum, ratio artificiosa",
+    "def1": "искин",
+    "ipa": "ˌeɪ ˈaɪ",
+    "spell": "AI"
+  },
+  {
+    "cefr": "",
+    "def2": "id nobis inscribetur",
+    "def1": "он будет записан на нас",
+    "ipa": "ɪt wɪl bi ˈrɛʤɪstərd tu ʌs",
+    "spell": "it will be registered to us"
+  },
+  {
+    "cefr": "",
+    "def2": "mediocris statisticus",
+    "def1": "среднестатистический",
+    "ipa": "stəˈtɪstɪkəli ˈævərɪʤ",
+    "spell": "statistically average"
+  }
+]
