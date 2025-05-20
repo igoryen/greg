@@ -87,6 +87,7 @@ import IP26 from "./pages/ip/IP26";
 import IP27 from "./pages/ip/IP27";
 import IP28 from "./pages/ip/IP28";
 import IP29 from "./pages/ip/IP29";
+import IP30 from "./pages/ip/IP30";
 
 import IS from "./pages/is/IS";
 import IS01 from "./pages/is/IS01";
@@ -263,6 +264,7 @@ export default function App() {
           <Route path="ip27" element={<IP27 />} />
           <Route path="ip28" element={<IP28 />} />
           <Route path="ip29" element={<IP29 />} />
+          <Route path="ip30" element={<IP30 />} />
 
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />

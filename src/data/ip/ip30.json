@@ -1,0 +1,436 @@
+[
+ {
+   "cefr": "",
+   "def2": "feles amans",
+   "def1": "любитель котів",
+   "ipa": "ə kæt ˈpɜrsən",
+   "spell": "a cat person"
+ },
+ {
+   "cefr": "",
+   "def2": "commune dictum",
+   "def1": "поширений вираз",
+   "ipa": "ə ˈkɑmən freɪz",
+   "spell": "a common phrase"
+ },
+ {
+   "cefr": "",
+   "def2": "filia",
+   "def1": "дочка",
+   "ipa": "ə ˈdɔtər",
+   "spell": "a daughter"
+ },
+ {
+   "cefr": "",
+   "def2": "silentium (muffler as car part)",
+   "def1": "глушник",
+   "ipa": "ə ˈmʌflər",
+   "spell": "a muffler"
+ },
+ {
+   "cefr": "",
+   "def2": "focale (scarf)",
+   "def1": "шарф",
+   "ipa": "ə ˈmʌflər (skɑrf)",
+   "spell": "a muffler (scarf)"
+ },
+ {
+   "cefr": "",
+   "def2": "filius",
+   "def1": "син",
+   "ipa": "ə sʌn",
+   "spell": "a son"
+ },
+ {
+   "cefr": "",
+   "def2": "decies",
+   "def1": "близько десяти разів",
+   "ipa": "əˈbaʊt tɛn taɪmz",
+   "spell": "about ten times"
+ },
+ {
+   "cefr": "",
+   "def2": "contra",
+   "def1": "проти",
+   "ipa": "əˈɡɛnst",
+   "spell": "against"
+ },
+ {
+   "cefr": "",
+   "def2": "omnino",
+   "def1": "зовсім",
+   "ipa": "æt ɔl",
+   "spell": "at all"
+ },
+ {
+   "cefr": "",
+   "def2": "quod periculosum est",
+   "def1": "тому що це небезпечно",
+   "ipa": "bɪˈkɔz ɪt ɪz ˈdeɪnʤərəs",
+   "spell": "because it is dangerous"
+ },
+ {
+   "cefr": "",
+   "def2": "fractus",
+   "def1": "зламаний",
+   "ipa": "ˈbroʊkən",
+   "spell": "broken"
+ },
+ {
+   "cefr": "",
+   "def2": "in duas partes fractus",
+   "def1": "розбитий на дві частини",
+   "ipa": "ˈbroʊkən ˈɪntu tu ˈpisəz",
+   "spell": "broken into two pieces"
+ },
+ {
+   "cefr": "",
+   "def2": "res communes",
+   "def1": "поширені речі",
+   "ipa": "ˈkɑmən θɪŋz",
+   "spell": "common things"
+ },
+ {
+   "cefr": "",
+   "def2": "gubernatio distracta",
+   "def1": "відволікаюче водіння",
+   "ipa": "dɪˈstræktɪd ˈdraɪvɪŋ",
+   "spell": "distracted driving"
+ },
+ {
+   "cefr": "",
+   "def2": "utroque modo",
+   "def1": "у будь-якому випадку",
+   "ipa": "ˈiðər weɪ",
+   "spell": "either way"
+ },
+ {
+   "cefr": "",
+   "def2": "satis",
+   "def1": "достатньо",
+   "ipa": "ɪˈnʌf",
+   "spell": "enough"
+ },
+ {
+   "cefr": "",
+   "def2": "etiam sine manibus",
+   "def1": "навіть hands-free",
+   "ipa": "ˈivɪn hændz-fri",
+   "spell": "even hands-free"
+ },
+ {
+   "cefr": "",
+   "def2": "satis bonus",
+   "def1": "достатньо добре",
+   "ipa": "ɡʊd ɪˈnʌf",
+   "spell": "good enough"
+ },
+ {
+   "cefr": "",
+   "def2": "cibus domesticus",
+   "def1": "домашня їжа",
+   "ipa": "ˈhoʊmˈmeɪd fud",
+   "spell": "home-made food"
+ },
+ {
+   "cefr": "",
+   "def2": "non sum caecus",
+   "def1": "я не сліпий",
+   "ipa": "aɪ æm nɑt blaɪnd",
+   "spell": "I am not blind"
+ },
+ {
+   "cefr": "",
+   "def2": "non specto YouTube cum guberno",
+   "def1": "я не дивлюсь відео на YouTube, коли за кермом",
+   "ipa": "aɪ doʊnt wɑʧ ˈjutub ˈvɪdioʊz wɛn aɪ draɪv",
+   "spell": "I don’t watch youtube videos when I drive"
+ },
+ {
+   "cefr": "",
+   "def2": "id per Google quaero",
+   "def1": "я гуглю це",
+   "ipa": "aɪ ˈɡuɡəl ɪt",
+   "spell": "I google it"
+ },
+ {
+   "cefr": "",
+   "def2": "muffler fractus habeo",
+   "def1": "у мене зламаний глушник",
+   "ipa": "aɪ hæv ə ˈbroʊkən ˈmʌflər",
+   "spell": "I have a broken muffler"
+ },
+ {
+   "cefr": "",
+   "def2": "video homines piscari",
+   "def1": "я бачу, як люди рибалять",
+   "ipa": "aɪ si ˈpipəl fɪʃ",
+   "spell": "I see people fish"
+ },
+ {
+   "cefr": "",
+   "def2": "paulum Anglice loquor sed singulis hebdomadis lectiones habeo",
+   "def1": "я трохи розмовляю англійською, але відвідую уроки щотижня",
+   "ipa": "aɪ spik ə ˈlɪtəl ˈɪŋɡlɪʃ bʌt aɪ teɪk ˈɪŋɡlɪʃ ˈklæsəz ˈɛvəri wik",
+   "spell": "I speak a little English but I take English classes every week"
+ },
+ {
+   "cefr": "",
+   "def2": "specto homines piscari",
+   "def1": "я спостерігаю, як люди рибалять",
+   "ipa": "aɪ wɑʧ ˈpipəl fɪʃ",
+   "spell": "I watch people fish"
+ },
+ {
+   "cefr": "",
+   "def2": "non est salubris semper cibum velocem edere",
+   "def1": "шкідливо завжди їсти фастфуд",
+   "ipa": "ɪt ɪz nɑt ˈhɛlθi tu ˈɔlˌweɪz it fæst fud",
+   "spell": "it is not healthy to always eat fast food"
+ },
+ {
+   "cefr": "",
+   "def2": "non est salubris omni tempore cibum velocem edere",
+   "def1": "шкідливо постійно їсти фастфуд",
+   "ipa": "ɪt ɪz nɑt ˈhɛlθi tu it fæst fud ɔl ðə taɪm",
+   "spell": "it is not healthy to eat fast food all the time"
+ },
+ {
+   "cefr": "",
+   "def2": "periculosissimum est videre videos cum gubernas",
+   "def1": "дуже небезпечно дивитися відео під час водіння",
+   "ipa": "ɪt ɪz ˈvɛri ˈdeɪnʤərəs tu wɑʧ ˈvɪdioʊz wɛn ju draɪv",
+   "spell": "it is very dangerous to watch videos when you drive"
+ },
+ {
+   "cefr": "",
+   "def2": "delictum grave est",
+   "def1": "це серйозний правопорушення",
+   "ipa": "ɪts ə ˈsɪriəs əˈfɛns",
+   "spell": "it's a serious offence"
+ },
+ {
+   "cefr": "",
+   "def2": "delictum est",
+   "def1": "це правопорушення",
+   "ipa": "ɪts ən əˈfɛns",
+   "spell": "it's an offence"
+ },
+ {
+   "cefr": "",
+   "def2": "pergemus cum eo",
+   "def1": "продовжимо з цим",
+   "ipa": "lɛts kənˈtɪnju wɪð ɪt",
+   "spell": "let's continue with it"
+ },
+ {
+   "cefr": "",
+   "def2": "lege inspice",
+   "def1": "подивись у закон",
+   "ipa": "lʊk æt ðə lɔ",
+   "spell": "look at the law"
+ },
+ {
+   "cefr": "",
+   "def2": "uxor mea et ego",
+   "def1": "я і моя дружина",
+   "ipa": "maɪ waɪf ænd aɪ",
+   "spell": "my wife and I"
+ },
+ {
+   "cefr": "",
+   "def2": "semel",
+   "def1": "один раз",
+   "ipa": "wʌns",
+   "spell": "once"
+ },
+ {
+   "cefr": "",
+   "def2": "parentes liberos suos spectant",
+   "def1": "батьки спостерігають за своїми дітьми",
+   "ipa": "ˈpɛrənts wɑʧ ðɛr ˈʧɪldrən",
+   "spell": "parents watch their children"
+ },
+ {
+   "cefr": "",
+   "def2": "ea allergica est felibus",
+   "def1": "у неї алергія на котів",
+   "ipa": "ʃi ɪz əˈlɜrʤɪk tu kæts",
+   "spell": "she is allergic to cats"
+ },
+ {
+   "cefr": "",
+   "def2": "ab anno 2019",
+   "def1": "з 2019 року",
+   "ipa": "sɪns ˈtwɛnti ˈnaɪnˈtin",
+   "spell": "since twenty nineteen"
+ },
+ {
+   "cefr": "",
+   "def2": "somnolentus",
+   "def1": "сонний",
+   "ipa": "ˈslipi",
+   "spell": "sleepy"
+ },
+ {
+   "cefr": "",
+   "def2": "lubricus",
+   "def1": "слизький",
+   "ipa": "ˈslɪpəɹi",
+   "spell": "slippery "
+ },
+ {
+   "cefr": "",
+   "def2": "loquere mecum",
+   "def1": "говори зі мною",
+   "ipa": "spik tu mi",
+   "spell": "speak to me"
+ },
+ {
+   "cefr": "",
+   "def2": "vigiles nocturni territorium custodiunt",
+   "def1": "нічна варта стежить за територією",
+   "ipa": "ðə naɪt ˈwɑʧəz wɑʧ ðə ˈtɛrɪˌtɔri",
+   "spell": "the night watches watch the territory"
+ },
+ {
+   "cefr": "",
+   "def2": "vigiles (politia) custodiunt currus",
+   "def1": "поліція стежить за машинами",
+   "ipa": "ðə pəˈlis wɑʧ kɑrz",
+   "spell": "the police watch cars"
+ },
+ {
+   "cefr": "",
+   "def2": "lex contra id est",
+   "def1": "існує закон проти цього",
+   "ipa": "ðɛr ɪz ə lɔ əˈɡɛnst ɪt",
+   "spell": "there is a law against it"
+ },
+ {
+   "cefr": "",
+   "def2": "ter in hebdomade",
+   "def1": "три рази на тиждень",
+   "ipa": "θri taɪmz ə wik",
+   "spell": "three times a week"
+ },
+ {
+   "cefr": "",
+   "def2": "somnolentus esse",
+   "def1": "бути сонним",
+   "ipa": "tu bi ˈslipi",
+   "spell": "to be sleepy"
+ },
+ {
+   "cefr": "",
+   "def2": "piscari",
+   "def1": "рибалити",
+   "ipa": "tu fɪʃ",
+   "spell": "to fish"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquid audire",
+   "def1": "слухати щось",
+   "ipa": "tu ˈlɪsən tu ˈsʌmθɪŋ",
+   "spell": "to listen to something"
+ },
+ {
+   "cefr": "",
+   "def2": "cum aliquo loqui",
+   "def1": "розмовляти з кимось",
+   "ipa": "tu spik tu ˈsʌmˌbɑdi",
+   "spell": "to speak to somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "telephone loqui",
+   "def1": "розмовляти по телефону",
+   "ipa": "tu tɔk ɑn ðə foʊn",
+   "spell": "to talk on the phone"
+ },
+ {
+   "cefr": "",
+   "def2": "telephone sine manibus loqui",
+   "def1": "розмовляти по телефону hands-free",
+   "ipa": "tu tɔk ɑn ðə foʊn hændz-fri",
+   "spell": "to talk on the phone hands-free"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquid exspectare",
+   "def1": "чекати на щось",
+   "ipa": "tu weɪt fɔr ˈsʌmθɪŋ",
+   "spell": "to wait for something"
+ },
+ {
+   "cefr": "",
+   "def2": "valde similis",
+   "def1": "дуже схожий",
+   "ipa": "ˈvɛri ˈsɪmələr",
+   "spell": "very similar"
+ },
+ {
+   "cefr": "",
+   "def2": "minimizare debemus linguam primam",
+   "def1": "ми повинні мінімізувати рідну мову",
+   "ipa": "wi mʌst ˈmɪnəˌmaɪz ðə fɜrst ˈlæŋɡwəʤ",
+   "spell": "we must minimize the first language"
+ },
+ {
+   "cefr": "",
+   "def2": "vidimus homines piscari",
+   "def1": "ми бачили, як люди рибалять",
+   "ipa": "wi sɔ ˈpipəl fɪʃ",
+   "spell": "we saw people fish"
+ },
+ {
+   "cefr": "",
+   "def2": "spectavimus homines piscari",
+   "def1": "ми спостерігали, як люди рибалять",
+   "ipa": "wi wɑʧt ˈpipəl fɪʃ",
+   "spell": "we watched people fish"
+ },
+ {
+   "cefr": "",
+   "def2": "cum guberno",
+   "def1": "коли я за кермом",
+   "ipa": "wɛn aɪ draɪv",
+   "spell": "when I drive"
+ },
+ {
+   "cefr": "",
+   "def2": "cum satis bene Anglice loquar",
+   "def1": "коли я досить добре говоритиму англійською",
+   "ipa": "wɛn aɪ spik ˈɪŋɡlɪʃ wɛl ɪˈnʌf",
+   "spell": "when I speak English well enough"
+ },
+ {
+   "cefr": "",
+   "def2": "cum mea Anglica satis bona erit",
+   "def1": "коли моя англійська буде достатньо хорошою",
+   "ipa": "wɛn maɪ ˈɪŋɡlɪʃ ɪz ɡʊd ɪˈnʌf",
+   "spell": "when my english is good enough"
+ },
+ {
+   "cefr": "",
+   "def2": "cum gubernas",
+   "def1": "коли ти за кермом",
+   "ipa": "wɛn ju draɪv",
+   "spell": "when you drive"
+ },
+ {
+   "cefr": "",
+   "def2": "Cur non facis?",
+   "def1": "Чому ти цього не робиш?",
+   "ipa": "waɪ doʊnt ju du ɪt?",
+   "spell": "Why don’t you do it?"
+ },
+ {
+   "cefr": "",
+   "def2": "spectas homines saltare",
+   "def1": "ти спостерігаєш, як люди танцюють",
+   "ipa": "ju wɑʧ ˈpipəl dæns",
+   "spell": "you watch people dance"
+ }
+]
