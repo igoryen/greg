@@ -168,6 +168,7 @@ import VK06 from "./pages/vk/VK06";
 import YK from "./pages/yk/YK";
 import YK01 from "./pages/yk/YK01";
 import YK03 from "./pages/yk/YK03";
+import YK05 from "./pages/yk/YK05";
 
 import Voksa from "./pages/Voksa";
 import Uenba from "./pages/Uenba";
@@ -339,6 +340,7 @@ export default function App() {
           <Route path="yk" element={<YK />} />
           <Route path="yk01" element={<YK01 />} />
           <Route path="yk03" element={<YK03 />} />
+          <Route path="yk05" element={<YK05 />} />
 
           {/* // voksa - the file to use for pairs of words to make reels on Instagram */}
           <Route path="voksa" element={<Voksa />} />
