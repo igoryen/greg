@@ -1,0 +1,226 @@
+[
+ {
+   "cefr": "",
+   "def2": "colloquium",
+   "def1": "разговор",
+   "ipa": "ə ˌkɑnvərˈseɪʃən",
+   "spell": "a conversation"
+ },
+ {
+   "cefr": "",
+   "def2": "adulescens",
+   "def1": "подросток",
+   "ipa": "ə ˈtiˌneɪʤər",
+   "spell": "a teenager"
+ },
+ {
+   "cefr": "",
+   "def2": "contus",
+   "def1": "шест",
+   "ipa": "ə poʊl",
+   "spell": "a pole"
+ },
+ {
+   "cefr": "",
+   "def2": "semper",
+   "def1": "всегда",
+   "ipa": "ˈɔlˌweɪz",
+   "spell": "always"
+ },
+ {
+   "cefr": "",
+   "def2": "Sinae sunt illi?",
+   "def1": "они из Китая?",
+   "ipa": "ɑr ðeɪ frʌm ˈʧaɪnə?",
+   "spell": "are they from China?"
+ },
+ {
+   "cefr": "",
+   "def2": "Sinae es tu?",
+   "def1": "ты из Китая?",
+   "ipa": "ɑr ju frʌm ˈʧaɪnə?",
+   "spell": "are you from China?"
+ },
+ {
+   "cefr": "",
+   "def2": "ubique",
+   "def1": "везде",
+   "ipa": "ˈɛvriˌwɛr",
+   "spell": "everywhere"
+ },
+ {
+   "cefr": "",
+   "def2": "Brasiliensis est",
+   "def1": "он из Бразилии",
+   "ipa": "hi ɪz frʌm brəˈzɪl",
+   "spell": "he is from Brazil"
+ },
+ {
+   "cefr": "",
+   "def2": "is, ea, id",
+   "def1": "он, она, оно",
+   "ipa": "hi, ʃi, ɪt",
+   "spell": "he, she, it"
+ },
+ {
+   "cefr": "",
+   "def2": "Americae sum",
+   "def1": "я из Америки",
+   "ipa": "aɪ æm frʌm əˈmɛrəkə",
+   "spell": "I am from America"
+ },
+ {
+   "cefr": "",
+   "def2": "ad opus rediturus sum",
+   "def1": "я собираюсь вернуться на работу",
+   "ipa": "aɪ æm ˈɡɑnə ɡoʊ bæk tu wɜrk",
+   "spell": "I am gonna go back to work"
+ },
+ {
+   "cefr": "",
+   "def2": "domum ibo ut cibum postea coquam",
+   "def1": "потом я поеду домой готовить еду",
+   "ipa": "aɪ æm ˈɡɑnə ɡoʊ hoʊm tu kʊk sʌm fud ˈleɪtər",
+   "spell": "I am gonna go home to cook some food later"
+ },
+ {
+   "cefr": "",
+   "def2": "non solus sum",
+   "def1": "я не одинок",
+   "ipa": "aɪ æm nɑt ˈsɪŋɡəl",
+   "spell": "I am not single"
+ },
+ {
+   "cefr": "",
+   "def2": "Germania est?",
+   "def1": "это из Германии?",
+   "ipa": "ɪz ɪt frʌm ˈʤɜrməni?",
+   "spell": "is it from Germany?"
+ },
+ {
+   "cefr": "",
+   "def2": "Germania est",
+   "def1": "это из Германии",
+   "ipa": "ɪt ɪz frʌm ˈʤɜrməni",
+   "spell": "it is from Germany"
+ },
+ {
+   "cefr": "",
+   "def2": "nulla imaginatio",
+   "def1": "нет воображения",
+   "ipa": "noʊ ɪˌmæʤəˈneɪʃən",
+   "spell": "no imagination"
+ },
+ {
+   "cefr": "",
+   "def2": "Polonicus",
+   "def1": "польский",
+   "ipa": "ˈpɑlɪʃ",
+   "spell": "Polish"
+ },
+ {
+   "cefr": "",
+   "def2": "Poloni contos non poliunt",
+   "def1": "поляки не полируют шесты",
+   "ipa": "ˈpɑlɪʃ ˈpipəl doʊnt ˈpɑlɪʃ poʊlz",
+   "spell": "Polish people don't polish poles"
+ },
+ {
+   "cefr": "",
+   "def2": "Iaponensis est",
+   "def1": "она из Японии",
+   "ipa": "ʃi ɪz frʌm ʤəˈpæn",
+   "spell": "she is from Japan"
+ },
+ {
+   "cefr": "",
+   "def2": "sinae sunt",
+   "def1": "они из Китая",
+   "ipa": "ðeɪ ɑr frʌm ˈʧaɪnə",
+   "spell": "they are from China"
+ },
+ {
+   "cefr": "",
+   "def2": "sinae sunt",
+   "def1": "они из Китая",
+   "ipa": "ðeɪ ɑr frʌm ˈʧaɪnə",
+   "spell": "they are from China"
+ },
+ {
+   "cefr": "",
+   "def2": "colloqui",
+   "def1": "разговаривать",
+   "ipa": "tu kənˈvɜrs",
+   "spell": "to converse"
+ },
+ {
+   "cefr": "",
+   "def2": "amittere",
+   "def1": "класть не туда",
+   "ipa": "tu mɪsˈpleɪs",
+   "spell": "to misplace"
+ },
+ {
+   "cefr": "",
+   "def2": "male intellegere",
+   "def1": "неправильно понимать",
+   "ipa": "tu ˌmɪsəndərˈstænd",
+   "spell": "to misunderstand"
+ },
+ {
+   "cefr": "",
+   "def2": "ponere",
+   "def1": "размещать",
+   "ipa": "tu pleɪs",
+   "spell": "to place"
+ },
+ {
+   "cefr": "",
+   "def2": "polire",
+   "def1": "полировать",
+   "ipa": "tu ˈpɑlɪʃ",
+   "spell": "to polish"
+ },
+ {
+   "cefr": "",
+   "def2": "intellegere",
+   "def1": "понимать",
+   "ipa": "tu ˌʌndərˈstænd",
+   "spell": "to understand"
+ },
+ {
+   "cefr": "",
+   "def2": "Europae sumus",
+   "def1": "мы из Европы",
+   "ipa": "wi ɑr frʌm ˈjʊrəp",
+   "spell": "we are from Europe"
+ },
+ {
+   "cefr": "",
+   "def2": "septem dies requievimus",
+   "def1": "мы отдыхали 7 дней",
+   "ipa": "wi ˈrɛstɪd fɔr ˈsɛvən deɪz",
+   "spell": "we rested for seven days"
+ },
+ {
+   "cefr": "",
+   "def2": "nos, vos, illi",
+   "def1": "мы, вы, они",
+   "ipa": "wi, ju, ðeɪ",
+   "spell": "we, you, they"
+ },
+ {
+   "cefr": "",
+   "def2": "tu et ego",
+   "def1": "ты и я",
+   "ipa": "ju ænd aɪ",
+   "spell": "you and I"
+ },
+ {
+   "cefr": "",
+   "def2": "Sinae es",
+   "def1": "ты из Китая",
+   "ipa": "ju ɑr frʌm ˈʧaɪnə",
+   "spell": "you are from China"
+ }
+]
