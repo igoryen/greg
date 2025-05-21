@@ -34,6 +34,7 @@ import AG10 from "./pages/ag/AG10";
 
 import AS from "./pages/as/AS";
 import AS01 from "./pages/as/AS01";
+import AS02 from "./pages/as/AS02";
 
 import OS from "./pages/os/OS";
 import OS01 from "./pages/os/OS01";
@@ -213,6 +214,7 @@ export default function App() {
 
           <Route path="as" element={<AS />} />
           <Route path="as01" element={<AS01 />} />
+          <Route path="as02" element={<AS02 />} />
 
           <Route path="os" element={<OS />} />
           <Route path="os01" element={<OS01 />} />

@@ -1,0 +1,289 @@
+[
+ {
+   "cefr": "",
+   "def2": "urbs",
+   "def1": "город",
+   "ipa": "ə ˈsɪti",
+   "spell": "a city"
+ },
+ {
+   "cefr": "",
+   "def2": "terra",
+   "def1": "страна",
+   "ipa": "ə ˈkʌntri",
+   "spell": "a country"
+ },
+ {
+   "cefr": "",
+   "def2": "vexillum",
+   "def1": "флаг",
+   "ipa": "ə flæɡ",
+   "spell": "a flag"
+ },
+ {
+   "cefr": "",
+   "def2": "lex",
+   "def1": "закон",
+   "ipa": "ə lɔ",
+   "spell": "a law"
+ },
+ {
+   "cefr": "",
+   "def2": "index terrarum",
+   "def1": "список стран",
+   "ipa": "ə lɪst ʌv ˈkʌntriz",
+   "spell": "a list of countries"
+ },
+ {
+   "cefr": "",
+   "def2": "index nominum",
+   "def1": "список имён",
+   "ipa": "ə lɪst ʌv neɪmz",
+   "spell": "a list of names"
+ },
+ {
+   "cefr": "",
+   "def2": "natio",
+   "def1": "национальность",
+   "ipa": "ə ˌnæʃəˈnæləti",
+   "spell": "a nationality"
+ },
+ {
+   "cefr": "",
+   "def2": "oppidum",
+   "def1": "городок",
+   "ipa": "ə taʊn",
+   "spell": "a town"
+ },
+ {
+   "cefr": "",
+   "def2": "ebrius es?",
+   "def1": "ты пьян?",
+   "ipa": "ɑr ju drʌŋk?",
+   "spell": "are you drunk?"
+ },
+ {
+   "cefr": "",
+   "def2": "Australia",
+   "def1": "Австралия",
+   "ipa": "ɔˈstreɪljə",
+   "spell": "Australia"
+ },
+ {
+   "cefr": "",
+   "def2": "Cautē age!",
+   "def1": "Осторожно за рулём!",
+   "ipa": "draɪv seɪf!",
+   "spell": "Drive safe!"
+ },
+ {
+   "cefr": "",
+   "def2": "Felix iter!",
+   "def1": "Счастливого пути!",
+   "ipa": "hæv ə seɪf trɪp!",
+   "spell": "Have a safe trip!"
+ },
+ {
+   "cefr": "",
+   "def2": "Optime mihi est",
+   "def1": "у меня всё отлично",
+   "ipa": "aɪ æm ˈduɪŋ ɡreɪt",
+   "spell": "I am doing great"
+ },
+ {
+   "cefr": "",
+   "def2": "Mexicum oriundus sum",
+   "def1": "я из Мексики",
+   "ipa": "aɪ æm frʌm ˈmɛksəˌkoʊ",
+   "spell": "I am from Mexico"
+ },
+ {
+   "cefr": "",
+   "def2": "Gallus non sum",
+   "def1": "я не француз",
+   "ipa": "aɪ æm nɑt frɛnʧ",
+   "spell": "I am not French"
+ },
+ {
+   "cefr": "",
+   "def2": "Mexicum orior",
+   "def1": "я родом из Мексики",
+   "ipa": "aɪ kʌm frʌm ˈmɛksəˌkoʊ",
+   "spell": "I come from Mexico"
+ },
+ {
+   "cefr": "",
+   "def2": "non est parvum oppidum",
+   "def1": "это не маленький городок",
+   "ipa": "ɪt ɪz nɑt ə smɔl taʊn",
+   "spell": "it is not a small town"
+ },
+ {
+   "cefr": "",
+   "def2": "idem est",
+   "def1": "это то же самое",
+   "ipa": "ɪts ðə seɪm",
+   "spell": "it's the same"
+ },
+ {
+   "cefr": "",
+   "def2": "esurio",
+   "def1": "я голоден",
+   "ipa": "aɪm ˈhʌŋɡri",
+   "spell": "I'm hungry"
+ },
+ {
+   "cefr": "",
+   "def2": "memoratus",
+   "def1": "упомянутый",
+   "ipa": "ˈmɛnʃənd",
+   "spell": "mentioned"
+ },
+ {
+   "cefr": "",
+   "def2": "Non, vigil, non ebrius sum",
+   "def1": "нет, офицер, я не пьян",
+   "ipa": "noʊ, ˈɔfəsər, aɪ æm nɑt drʌŋk",
+   "spell": "No, officer, I am not drunk"
+ },
+ {
+   "cefr": "",
+   "def2": "non memoratus",
+   "def1": "не упомянутый",
+   "ipa": "nɑt ˈmɛnʃənd",
+   "spell": "not mentioned"
+ },
+ {
+   "cefr": "",
+   "def2": "Polonia",
+   "def1": "Польша",
+   "ipa": "ˈpoʊlənd",
+   "spell": "Poland"
+ },
+ {
+   "cefr": "",
+   "def2": "dic mihi!",
+   "def1": "скажи мне!",
+   "ipa": "tɛl mi!",
+   "spell": "tell me!"
+ },
+ {
+   "cefr": "",
+   "def2": "haec verba extra sunt",
+   "def1": "это дополнительные слова",
+   "ipa": "ðiz ɑr ði ˈɛkstrə wɜrdz",
+   "spell": "these are the extra words"
+ },
+ {
+   "cefr": "",
+   "def2": "complere textum",
+   "def1": "завершить текст",
+   "ipa": "tu kəmˈplit ə tɛkst",
+   "spell": "to complete a text"
+ },
+ {
+   "cefr": "",
+   "def2": "audire aliquem",
+   "def1": "слушать кого-то",
+   "ipa": "tu ˈlɪsən tu ˈsʌmˌbɑdi",
+   "spell": "to listen to somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "memorare",
+   "def1": "упоминать",
+   "ipa": "tu ˈmɛnʃən",
+   "spell": "to mention"
+ },
+ {
+   "cefr": "",
+   "def2": "exercere aliquid",
+   "def1": "практиковать что-то",
+   "ipa": "tu ˈpræktəs ˈsʌmθɪŋ",
+   "spell": "to practice something"
+ },
+ {
+   "cefr": "",
+   "def2": "legere aliquid",
+   "def1": "читать что-то",
+   "ipa": "tu rid ˈsʌmθɪŋ",
+   "spell": "to read something"
+ },
+ {
+   "cefr": "",
+   "def2": "loqui",
+   "def1": "говорить",
+   "ipa": "tu spik",
+   "spell": "to speak"
+ },
+ {
+   "cefr": "",
+   "def2": "Turcia",
+   "def1": "Турция",
+   "ipa": "ˈtɜrki",
+   "spell": "Turkey"
+ },
+ {
+   "cefr": "",
+   "def2": "Hispani non sumus",
+   "def1": "мы не испанцы",
+   "ipa": "wi ɑr nɑt ˈspænɪʃ",
+   "spell": "we are not Spanish"
+ },
+ {
+   "cefr": "",
+   "def2": "esurimus",
+   "def1": "мы голодны",
+   "ipa": "wir ˈhʌŋɡri",
+   "spell": "we're hungry"
+ },
+ {
+   "cefr": "",
+   "def2": "quae pictura?",
+   "def1": "какая картинка?",
+   "ipa": "wɪʧ ˈpɪkʧər?",
+   "spell": "which picture?"
+ },
+ {
+   "cefr": "",
+   "def2": "qui sunt illi?",
+   "def1": "кто они?",
+   "ipa": "hu ɑr ðeɪ?",
+   "spell": "who are they?"
+ },
+ {
+   "cefr": "",
+   "def2": "quis est hic?",
+   "def1": "кто это?",
+   "ipa": "hu ɪz ðɪs?",
+   "spell": "who is this?"
+ },
+ {
+   "cefr": "",
+   "def2": "ebrius es",
+   "def1": "ты пьян",
+   "ipa": "ju ɑr drʌŋk",
+   "spell": "you are drunk"
+ },
+ {
+   "cefr": "",
+   "def2": "Sinensis non es",
+   "def1": "ты не китаец",
+   "ipa": "ju ɑr nɑt ʧaɪˈniz",
+   "spell": "you are not Chinese"
+ },
+ {
+   "cefr": "",
+   "def2": "esuris",
+   "def1": "ты голоден",
+   "ipa": "jʊr ˈhʌŋɡri",
+   "spell": "you're hungry"
+ },
+ {
+   "cefr": "",
+   "def2": "sunt, est",
+   "def1": "есть, имеется",
+   "ipa": "ðɛr ɑr, ðɛr ɪz",
+   "spell": "there are, there is"
+ }
+]
