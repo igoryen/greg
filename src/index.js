@@ -37,10 +37,7 @@ import AS from "./pages/as/AS";
 import AS01 from "./pages/as/AS01";
 import AS02 from "./pages/as/AS02";
 
-import OS from "./pages/os/OS";
-import OS01 from "./pages/os/OS01";
-import OS02 from "./pages/os/OS02";
-import OS06 from "./pages/os/OS06";
+
 
 import Bob from "./pages/Bob";
 import Dan from "./pages/Dan";
@@ -58,6 +55,9 @@ import GP03 from "./pages/gp/GP03";
 
 import Grm01 from "./pages/grm/Grm01";
 import Grm02 from "./pages/grm/Grm02";
+
+import IK from "./pages/ik/IK";
+import IK01 from "./pages/ik/IK01";
 
 import IM from "./pages/im/IM";
 import IM01 from "./pages/im/IM01";
@@ -123,6 +123,11 @@ import MS12 from "./pages/ms/MS12";
 import MS13 from "./pages/ms/MS13";
 import MS17 from "./pages/ms/MS17";
 import MS18 from "./pages/ms/MS18";
+
+import OS from "./pages/os/OS";
+import OS01 from "./pages/os/OS01";
+import OS02 from "./pages/os/OS02";
+import OS06 from "./pages/os/OS06";
 
 import OT from "./pages/ot/OT";
 import OT01 from "./pages/ot/OT01";
@@ -236,9 +241,8 @@ export default function App() {
           <Route path="grm01" element={<Grm01 />} />
           <Route path="grm02" element={<Grm02 />} />
 
-
-          <Route path="os02" element={<OS02 />} />
-          <Route path="os06" element={<OS06 />} />
+          <Route path="ik" element={<IK />} />
+          <Route path="ik01" element={<IK01 />} />
 
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
@@ -301,6 +305,9 @@ export default function App() {
           <Route path="ms13" element={<MS13 />} />
           <Route path="ms17" element={<MS17 />} />
           <Route path="ms18" element={<MS18 />} />
+
+          <Route path="os02" element={<OS02 />} />
+          <Route path="os06" element={<OS06 />} />
 
           <Route path="ot" element={<OT />} />
           <Route path="ot01" element={<OT01 />} />
