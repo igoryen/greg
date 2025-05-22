@@ -79,7 +79,7 @@
   {
     "cefr": "",
     "def2": "",
-    "def1": "мелкий",
+    "def1": "мелкий, неглубокий",
     "ipa": "ˈʃæloʊ",
     "spell": "shallow"
   },
@@ -136,8 +136,8 @@
     "cefr": "",
     "def2": "",
     "def1": "он повесил её (убил)",
-    "ipa": "hi hæŋd hɜr ʌp",
-    "spell": "he hanged her up"
+    "ipa": "hi hæŋd hɜr",
+    "spell": "he hanged her"
   },
   {
     "cefr": "",
@@ -178,8 +178,8 @@
     "cefr": "",
     "def2": "",
     "def1": "узнать, что можно и чего нельзя на этой работе",
-    "ipa": "tu lɜrn ðə dɔs ænd doʊnts ʌv ðɪs ʤɑb",
-    "spell": "to learn the dos and don'ts of this job"
+    "ipa": "tu lɜrn ðə duz ænd doʊnts ʌv ðɪs ʤɑb",
+    "spell": "to learn the does and don'ts of this job"
   },
   {
     "cefr": "",
