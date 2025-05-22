@@ -1,0 +1,541 @@
+[
+  {
+    "cefr": "",
+    "def2": "acus crinalis",
+    "def1": "шпилька (ð)",
+    "ipa": "ə ˈhɛrpɪn",
+    "spell": "a hairpin"
+  },
+  {
+    "cefr": "",
+    "def2": "adjectivum possessivum",
+    "def1": "притяжательное прилагательное",
+    "ipa": "ə pəˈzɛsɪv ˈæʤɪktɪv",
+    "spell": "a possessive adjective"
+  },
+  {
+    "cefr": "",
+    "def2": "alphabetum phoneticum internationale (API)",
+    "def1": "международный фонетический алфавит (МФА)",
+    "ipa": "ði ˌɪntərˈnæʃənəl fəˈnɛtɪk ˈælfəˌbɛt (aɪ-pi-eɪ)",
+    "spell": "the international phonetic alphabet (IPA)"
+  },
+  {
+    "cefr": "",
+    "def2": "ante aliquot annos",
+    "def1": "несколько лет назад",
+    "ipa": "ˈsɛvrəl jɪrz əˈɡoʊ",
+    "spell": "several years ago"
+  },
+  {
+    "cefr": "",
+    "def2": "app dictaphonii",
+    "def1": "диктофон (приложение)",
+    "ipa": "ə ˈdɪktəˌfoʊn æp",
+    "spell": "a dictaphone app"
+  },
+  {
+    "cefr": "",
+    "def2": "app in telephono tuo installare potes",
+    "def1": "ты можешь установить приложение на телефон",
+    "ipa": "ju kæn ɪnˈstɔl ən æp ɑn jʊər foʊn",
+    "spell": "you can install an app on your phone"
+  },
+  {
+    "cefr": "",
+    "def2": "capsula",
+    "def1": "багажник",
+    "ipa": "ə trʌŋk",
+    "spell": "a trunk"
+  },
+  {
+    "cefr": "",
+    "def2": "caterva",
+    "def1": "группа",
+    "ipa": "ə ɡrup",
+    "spell": "a group"
+  },
+  {
+    "cefr": "",
+    "def2": "cisterna",
+    "def1": "бак",
+    "ipa": "ə tæŋk",
+    "spell": "a tank"
+  },
+  {
+    "cefr": "",
+    "def2": "cogitationes et ideae",
+    "def1": "мысли и идеи",
+    "ipa": "θɔts ænd aɪˈdiəz",
+    "spell": "thoughts and ideas"
+  },
+  {
+    "cefr": "",
+    "def2": "cogitationes tuas recorderis",
+    "def1": "записывать свои мысли",
+    "ipa": "tu rəˈkɔrd jʊər θɔts",
+    "spell": "to record your thoughts"
+  },
+  {
+    "cefr": "",
+    "def2": "colloqui",
+    "def1": "беседовать, общаться",
+    "ipa": "tu kənˈvɜrs",
+    "spell": "to converse"
+  },
+  {
+    "cefr": "",
+    "def2": "cubiculum",
+    "def1": "комната",
+    "ipa": "ə rum",
+    "spell": "a room"
+  },
+  {
+    "cefr": "",
+    "def2": "cum magistratibus loqui",
+    "def1": "говорить с чиновниками",
+    "ipa": "tu spik tu əˈfɪʃəlz",
+    "spell": "to speak to officials"
+  },
+  {
+    "cefr": "",
+    "def2": "domum reveni ut linguam Anglicam discam",
+    "def1": "я вернулась домой на урок английского",
+    "ipa": "aɪ hæv kʌm bæk hoʊm tu hæv ən ˈɪŋɡlɪʃ klæs",
+    "spell": "I have come back home to have an English class"
+  },
+  {
+    "cefr": "",
+    "def2": "ea primum legere",
+    "def1": "прочитать их сначала",
+    "ipa": "tu rid ðɛm fɜrst",
+    "spell": "to read them first"
+  },
+  {
+    "cefr": "",
+    "def2": "ejus (fem.)",
+    "def1": "её",
+    "ipa": "hɜr",
+    "spell": "her"
+  },
+  {
+    "cefr": "",
+    "def2": "ejus (masc.)",
+    "def1": "его",
+    "ipa": "hɪz",
+    "spell": "his"
+  },
+  {
+    "cefr": "",
+    "def2": "eorum",
+    "def1": "их",
+    "ipa": "ðɛr",
+    "spell": "their"
+  },
+  {
+    "cefr": "",
+    "def2": "etiam",
+    "def1": "также",
+    "ipa": "ˈɔlsoʊ",
+    "spell": "also"
+  },
+  {
+    "cefr": "",
+    "def2": "exercitatio",
+    "def1": "упражнение",
+    "ipa": "ən ˈɛksərˌsaɪz",
+    "spell": "an exercise"
+  },
+  {
+    "cefr": "",
+    "def2": "fender",
+    "def1": "бампер",
+    "ipa": "ə ˈfɛndər",
+    "spell": "a fender"
+  },
+  {
+    "cefr": "",
+    "def2": "hunc errorem semper faciunt",
+    "def1": "они всегда делают эту ошибку",
+    "ipa": "ðeɪ ˈɔlˌweɪz meɪk ðɪs mɪsˈteɪk",
+    "spell": "they always make this mistake"
+  },
+  {
+    "cefr": "",
+    "def2": "id est omne",
+    "def1": "это всё",
+    "ipa": "ðæt ɪz ɔl",
+    "spell": "that is all"
+  },
+  {
+    "cefr": "",
+    "def2": "illa res",
+    "def1": "та вещь",
+    "ipa": "ðæt θɪŋ",
+    "spell": "that thing"
+  },
+  {
+    "cefr": "",
+    "def2": "illic est",
+    "def1": "это там",
+    "ipa": "ɪt ɪz ðɛr",
+    "spell": "it is there"
+  },
+  {
+    "cefr": "",
+    "def2": "in catervis",
+    "def1": "в группах",
+    "ipa": "ɪn ɡrups",
+    "spell": "in groups"
+  },
+  {
+    "cefr": "",
+    "def2": "in lateribus sunt",
+    "def1": "они находятся по бокам",
+    "ipa": "ðeɪ ɑr ɑn ðə saɪdz",
+    "spell": "they are on the sides"
+  },
+  {
+    "cefr": "",
+    "def2": "in paribus",
+    "def1": "парами",
+    "ipa": "ɪn pɛrz",
+    "spell": "in pairs"
+  },
+  {
+    "cefr": "",
+    "def2": "juxta me",
+    "def1": "рядом со мной",
+    "ipa": "nɛkst tu mi",
+    "spell": "next to me"
+  },
+  {
+    "cefr": "",
+    "def2": "legalizare",
+    "def1": "легализовать",
+    "ipa": "tu ˈliɡəˌlaɪz",
+    "spell": "to legalize"
+  },
+  {
+    "cefr": "",
+    "def2": "licentia armorum tenendorum",
+    "def1": "лицензия на владение оружием",
+    "ipa": "ə ˈlaɪsəns tu pəˈzɛs ˈwɛpənz",
+    "spell": "a license to possess weapons"
+  },
+  {
+    "cefr": "",
+    "def2": "limitatus est",
+    "def1": "он ограничен",
+    "ipa": "ɪt ɪz ˈlɪmɪtɪd",
+    "spell": "it is limited"
+  },
+  {
+    "cefr": "",
+    "def2": "litterae Latinae",
+    "def1": "латинские буквы",
+    "ipa": "ˈlætən ˈlɛtərz",
+    "spell": "latin letters"
+  },
+  {
+    "cefr": "",
+    "def2": "locutio",
+    "def1": "фраза",
+    "ipa": "ə freɪz",
+    "spell": "a phrase"
+  },
+  {
+    "cefr": "",
+    "def2": "lumina proxima",
+    "def1": "ближний свет",
+    "ipa": "loʊ bimz",
+    "spell": "low beams"
+  },
+  {
+    "cefr": "",
+    "def2": "marihuanam legalizaverunt",
+    "def1": "они легализовали марихуану",
+    "ipa": "ðeɪ ˈliɡəˌlaɪzd ˌmɛrəˈwɑnə",
+    "spell": "they legalized marijuana"
+  },
+  {
+    "cefr": "",
+    "def2": "medicamenta / stupefactiva",
+    "def1": "наркотики",
+    "ipa": "drʌɡz",
+    "spell": "drugs"
+  },
+  {
+    "cefr": "",
+    "def2": "meus",
+    "def1": "мой",
+    "ipa": "maɪ",
+    "spell": "my"
+  },
+  {
+    "cefr": "",
+    "def2": "non fugiet",
+    "def1": "оно не убежит",
+    "ipa": "ɪt wɪl nɑt rʌn əˈweɪ",
+    "spell": "it will not run away"
+  },
+  {
+    "cefr": "",
+    "def2": "non necesse est saepius \"quaeso\" dicere",
+    "def1": "нам не нужно так часто говорить \"пожалуйста\"",
+    "ipa": "wi doʊnt nid tu seɪ pliz soʊ ˈɔfən",
+    "spell": "we don't need to say please so often"
+  },
+  {
+    "cefr": "",
+    "def2": "non urbanus",
+    "def1": "невежливый",
+    "ipa": "nɑt pəˈlaɪt",
+    "spell": "not polite"
+  },
+  {
+    "cefr": "",
+    "def2": "noster",
+    "def1": "наш",
+    "ipa": "ˈaʊər",
+    "spell": "our"
+  },
+  {
+    "cefr": "",
+    "def2": "novi operarii",
+    "def1": "новые работники",
+    "ipa": "nu ˈwɜrkərz",
+    "spell": "new workers"
+  },
+  {
+    "cefr": "",
+    "def2": "paene",
+    "def1": "почти",
+    "ipa": "ˈɔlˌmoʊst",
+    "spell": "almost"
+  },
+  {
+    "cefr": "",
+    "def2": "paene idem",
+    "def1": "почти то же самое",
+    "ipa": "ˈɔlˌmoʊst ðə seɪm",
+    "spell": "almost the same"
+  },
+  {
+    "cefr": "",
+    "def2": "par",
+    "def1": "пара",
+    "ipa": "ə pɛr",
+    "spell": "a pair"
+  },
+  {
+    "cefr": "",
+    "def2": "par avium",
+    "def1": "пара птиц",
+    "ipa": "ə pɛr ʌv bɜrdz",
+    "spell": "a pair of birds"
+  },
+  {
+    "cefr": "",
+    "def2": "par cygnorum",
+    "def1": "пара лебедей",
+    "ipa": "ə pɛr ʌv swɑnz",
+    "spell": "a pair of swans"
+  },
+  {
+    "cefr": "",
+    "def2": "par discipulorum",
+    "def1": "пара студентов",
+    "ipa": "ə pɛr ʌv ˈstudənts",
+    "spell": "a pair of students"
+  },
+  {
+    "cefr": "",
+    "def2": "par hominum",
+    "def1": "пара людей",
+    "ipa": "ə pɛr ʌv ˈpipəl",
+    "spell": "a pair of people"
+  },
+  {
+    "cefr": "",
+    "def2": "phoneticus",
+    "def1": "фонетический",
+    "ipa": "fəˈnɛtɪk",
+    "spell": "phonetic"
+  },
+  {
+    "cefr": "",
+    "def2": "possessivus",
+    "def1": "притяжательный",
+    "ipa": "pəˈzɛsɪv",
+    "spell": "possessive"
+  },
+  {
+    "cefr": "",
+    "def2": "possidere",
+    "def1": "владеть",
+    "ipa": "tu pəˈzɛs",
+    "spell": "to possess"
+  },
+  {
+    "cefr": "",
+    "def2": "primum",
+    "def1": "сначала",
+    "ipa": "fɜrst",
+    "spell": "first"
+  },
+  {
+    "cefr": "",
+    "def2": "procul a me",
+    "def1": "далеко от меня",
+    "ipa": "fɑr frʌm mi",
+    "spell": "far from me"
+  },
+  {
+    "cefr": "",
+    "def2": "recenseamus",
+    "def1": "давайте повторим",
+    "ipa": "lɛt ʌs ˌriˈvju",
+    "spell": "let us review"
+  },
+  {
+    "cefr": "",
+    "def2": "recensio",
+    "def1": "обзор, повторение",
+    "ipa": "ə ˌriˈvju",
+    "spell": "a review"
+  },
+  {
+    "cefr": "",
+    "def2": "repetere",
+    "def1": "повторять",
+    "ipa": "tu rɪˈpit",
+    "spell": "to repeat"
+  },
+  {
+    "cefr": "",
+    "def2": "schola",
+    "def1": "классная комната",
+    "ipa": "ə ˈklæsˌrum",
+    "spell": "a classroom"
+  },
+  {
+    "cefr": "",
+    "def2": "scholam habere",
+    "def1": "проводить урок",
+    "ipa": "tu hæv ə klæs",
+    "spell": "to have a class"
+  },
+  {
+    "cefr": "",
+    "def2": "sed non idem",
+    "def1": "но не то же самое",
+    "ipa": "bʌt nɑt ðə seɪm",
+    "spell": "but not the same"
+  },
+  {
+    "cefr": "",
+    "def2": "sella",
+    "def1": "стул",
+    "ipa": "ə ʧɛr",
+    "spell": "a chair"
+  },
+  {
+    "cefr": "",
+    "def2": "si medicamenta habes",
+    "def1": "если у тебя есть наркотики",
+    "ipa": "ɪf ju pəˈzɛs drʌɡz",
+    "spell": "if you possess drugs"
+  },
+  {
+    "cefr": "",
+    "def2": "sicut cantus",
+    "def1": "как песня",
+    "ipa": "laɪk ə sɔŋ",
+    "spell": "like a song"
+  },
+  {
+    "cefr": "",
+    "def2": "sonus",
+    "def1": "звук",
+    "ipa": "ə saʊnd",
+    "spell": "a sound"
+  },
+  {
+    "cefr": "",
+    "def2": "specula lateralia",
+    "def1": "боковые зеркала",
+    "ipa": "saɪd ˈmɪrərz",
+    "spell": "side mirrors"
+  },
+  {
+    "cefr": "",
+    "def2": "stupefactiva possidere",
+    "def1": "иметь наркотики",
+    "ipa": "tu pəˈzɛs drʌɡz",
+    "spell": "to possess drugs"
+  },
+  {
+    "cefr": "",
+    "def2": "te comprehendent",
+    "def1": "тебя арестуют",
+    "ipa": "ðeɪ wɪl əˈrɛst ju",
+    "spell": "they will arrest you"
+  },
+  {
+    "cefr": "",
+    "def2": "telum",
+    "def1": "оружие",
+    "ipa": "ə ˈwɛpən",
+    "spell": "a weapon"
+  },
+  {
+    "cefr": "",
+    "def2": "tuus",
+    "def1": "твой",
+    "ipa": "jʊər",
+    "spell": "your"
+  },
+  {
+    "cefr": "",
+    "def2": "urbanus esse",
+    "def1": "быть вежливым",
+    "ipa": "tu bi pəˈlaɪt",
+    "spell": "to be polite"
+  },
+  {
+    "cefr": "",
+    "def2": "valde rudis",
+    "def1": "очень грубо",
+    "ipa": "ˈvɛri rud",
+    "spell": "very rude"
+  },
+  {
+    "cefr": "",
+    "def2": "valde utilis",
+    "def1": "очень полезно",
+    "ipa": "ˈvɛri ˈjusfəl",
+    "spell": "very useful"
+  },
+  {
+    "cefr": "",
+    "def2": "verbum",
+    "def1": "слово",
+    "ipa": "ə wɜrd",
+    "spell": "a word"
+  },
+  {
+    "cefr": "",
+    "def2": "verbum formale",
+    "def1": "формальное слово",
+    "ipa": "ə ˈfɔrməl wɜrd",
+    "spell": "a formal word"
+  },
+  {
+    "cefr": "",
+    "def2": "vocabularium",
+    "def1": "словарный запас",
+    "ipa": "ə voʊˈkæbjəˌlɛri",
+    "spell": "a vocabulary"
+  }
+]
