@@ -151,6 +151,7 @@ import SB02 from "./pages/sb/SB02";
 import SB03 from "./pages/sb/SB03";
 import SB05 from "./pages/sb/SB05";
 import SB11 from "./pages/sb/SB11";
+import SB12 from "./pages/sb/SB12";
 
 import SS from "./pages/ss/SS";
 import SS00 from "./pages/ss/SS00";
@@ -330,6 +331,7 @@ export default function App() {
           <Route path="sb03" element={<SB03 />} />
           <Route path="sb05" element={<SB05 />} />
           <Route path="sb11" element={<SB11 />} />
+          <Route path="sb12" element={<SB12 />} />
 
           <Route path="ss" element={<SS />} />
           <Route path="ss00" element={<SS00 />} />
