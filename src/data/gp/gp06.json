@@ -1,0 +1,541 @@
+[
+ {
+   "cefr": "",
+   "def2": "abicere",
+   "def1": "викинути",
+   "ipa": "tu θroʊ ɪt əˈweɪ",
+   "spell": "to throw it away"
+ },
+ {
+   "cefr": "",
+   "def2": "ad proximum",
+   "def1": "до наступного разу",
+   "ipa": "si ju nɛkst taɪm",
+   "spell": "see you next time"
+ },
+ {
+   "cefr": "",
+   "def2": "aegrotasne?",
+   "def1": "ти хворий?",
+   "ipa": "ɑr ju sɪk?",
+   "spell": "are you sick?"
+ },
+ {
+   "cefr": "",
+   "def2": "alicui audire",
+   "def1": "слухати когось",
+   "ipa": "tu ˈlɪsən tu ˈsʌmˌbɑdi",
+   "spell": "to listen to somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "aliter",
+   "def1": "інакше",
+   "ipa": "ˈʌðərˌwaɪz",
+   "spell": "otherwise"
+ },
+ {
+   "cefr": "",
+   "def2": "anus",
+   "def1": "стара жінка",
+   "ipa": "ən oʊld ˈwʊmən",
+   "spell": "an old woman"
+ },
+ {
+   "cefr": "",
+   "def2": "birotarius",
+   "def1": "велосипедист",
+   "ipa": "ə ˈsaɪkəlɪst",
+   "spell": "a cyclist"
+ },
+ {
+   "cefr": "",
+   "def2": "Canadensisne est? Ita est.",
+   "def1": "Він канадець? Так, він є.",
+   "ipa": "ɪz hi kəˈneɪdiən? jɛs, hi ɪz.",
+   "spell": "Is he Canadian? Yes, he is."
+ },
+ {
+   "cefr": "",
+   "def2": "collega",
+   "def1": "колега",
+   "ipa": "ə ˈkɑliɡ",
+   "spell": "a colleague"
+ },
+ {
+   "cefr": "",
+   "def2": "contractio",
+   "def1": "скорочення",
+   "ipa": "ə kənˈtrækʃən",
+   "spell": "a contraction"
+ },
+ {
+   "cefr": "",
+   "def2": "contus",
+   "def1": "жердина",
+   "ipa": "ə poʊl",
+   "spell": "a pole"
+ },
+ {
+   "cefr": "",
+   "def2": "da mihi responsum longum",
+   "def1": "дай мені довгу відповідь",
+   "ipa": "ɡɪv mi ðə lɔŋ ˈænsər",
+   "spell": "give me the long answer"
+ },
+ {
+   "cefr": "",
+   "def2": "dare",
+   "def1": "дати",
+   "ipa": "tu ɡɪv",
+   "spell": "to give"
+ },
+ {
+   "cefr": "",
+   "def2": "difficultates habebis",
+   "def1": "у тебе будуть проблеми",
+   "ipa": "ju wɪl hæv ˈprɑbləmz",
+   "spell": "you will have problems"
+ },
+ {
+   "cefr": "",
+   "def2": "Ebriine estis? Non sumus.",
+   "def1": "Ви, хлопці, п'яні? Ні, ми не п'яні.",
+   "ipa": "ɑr ju ɡaɪz drʌŋk? noʊ, wi ɑr nɑt.",
+   "spell": "Are you guys drunk? No, we are not."
+ },
+ {
+   "cefr": "",
+   "def2": "ebrius",
+   "def1": "п'яний",
+   "ipa": "drʌŋk",
+   "spell": "drunk"
+ },
+ {
+   "cefr": "",
+   "def2": "Ebriusne es? Non sum.",
+   "def1": "Ти п'яний? Ні, я не п'яний.",
+   "ipa": "ɑr ju drʌŋk? noʊ, aɪ æm nɑt",
+   "spell": "are you drunk? No, I am not"
+ },
+ {
+   "cefr": "",
+   "def2": "error",
+   "def1": "помилка",
+   "ipa": "ə mɪsˈteɪk",
+   "spell": "a mistake"
+ },
+ {
+   "cefr": "",
+   "def2": "esto humanus!",
+   "def1": "будь ввічливим!",
+   "ipa": "bi pəˈlaɪt!",
+   "spell": "be polite!"
+ },
+ {
+   "cefr": "",
+   "def2": "exercitatione veniet",
+   "def1": "це прийде з практикою",
+   "ipa": "ɪt wɪl kʌm wɪð ˈpræktəs",
+   "spell": "it will come with practice"
+ },
+ {
+   "cefr": "",
+   "def2": "fessus",
+   "def1": "втомлений",
+   "ipa": "ˈtaɪərd",
+   "spell": "tired"
+ },
+ {
+   "cefr": "",
+   "def2": "Fessusne es?",
+   "def1": "Ти втомлений?",
+   "ipa": "ɑr ju ˈtaɪərd?",
+   "spell": "are you tired?"
+ },
+ {
+   "cefr": "",
+   "def2": "flava",
+   "def1": "блондинка",
+   "ipa": "ə blɑnd",
+   "spell": "a blonde"
+ },
+ {
+   "cefr": "",
+   "def2": "Fumesne?",
+   "def1": "Ти під кайфом?",
+   "ipa": "ɑr ju haɪ?",
+   "spell": "Are you high?"
+ },
+ {
+   "cefr": "",
+   "def2": "Fumesne? Non sumus.",
+   "def1": "Ви під кайфом? Ні, ми не під кайфом.",
+   "ipa": "ɑr ju ɡaɪz haɪ? noʊ, wi ɑr nɑt.",
+   "spell": "Are you guys high? No, we are not."
+ },
+ {
+   "cefr": "",
+   "def2": "gratus",
+   "def1": "приємно",
+   "ipa": "naɪs",
+   "spell": "nice"
+ },
+ {
+   "cefr": "",
+   "def2": "hi sunt Iacobus et Iulia",
+   "def1": "це Джек і Джилл",
+   "ipa": "ðeɪ ɑr ʤæk ænd ʤɪl",
+   "spell": "they are Jack and Jill"
+ },
+ {
+   "cefr": "",
+   "def2": "hic est error",
+   "def1": "це помилка",
+   "ipa": "ðɪs ɪz ə mɪsˈteɪk",
+   "spell": "this is a mistake"
+ },
+ {
+   "cefr": "",
+   "def2": "hoc falsum est",
+   "def1": "це неправильно",
+   "ipa": "ðɪs ɪz rɔŋ",
+   "spell": "this is wrong"
+ },
+ {
+   "cefr": "",
+   "def2": "iam habes",
+   "def1": "у тебе вже є",
+   "ipa": "ju ɔlˈrɛdi hæv ɪt",
+   "spell": "you already have it"
+ },
+ {
+   "cefr": "",
+   "def2": "id aspicere",
+   "def1": "дивитися на це",
+   "ipa": "tu lʊk æt ɪt",
+   "spell": "to look at it"
+ },
+ {
+   "cefr": "",
+   "def2": "id iterum ludere",
+   "def1": "зіграти це знову",
+   "ipa": "tu pleɪ ɪt əˈɡɛn",
+   "spell": "to play it again"
+ },
+ {
+   "cefr": "",
+   "def2": "in aedificio",
+   "def1": "у будівлі",
+   "ipa": "ɪn ə ˈbɪldɪŋ",
+   "spell": "in a building"
+ },
+ {
+   "cefr": "",
+   "def2": "in horto",
+   "def1": "у парку",
+   "ipa": "ɪn ə pɑrk",
+   "spell": "in a park"
+ },
+ {
+   "cefr": "",
+   "def2": "index verborum",
+   "def1": "список слів",
+   "ipa": "ə lɪst ʌv wɜrdz",
+   "spell": "a list of words"
+ },
+ {
+   "cefr": "",
+   "def2": "interdum",
+   "def1": "іноді",
+   "ipa": "səmˈtaɪmz",
+   "spell": "sometimes"
+ },
+ {
+   "cefr": "",
+   "def2": "Ita, Americanus sum.",
+   "def1": "Так, я американець.",
+   "ipa": "jɛs, aɪ æm. aɪ æm əˈmɛrəkən.",
+   "spell": "Yes, I am. I am American."
+ },
+ {
+   "cefr": "",
+   "def2": "Ita, Hispanus sum.",
+   "def1": "Так, я іспанець.",
+   "ipa": "jɛs, aɪ æm. aɪ æm ˈspænɪʃ.",
+   "spell": "Yes, I am. I am Spanish."
+ },
+ {
+   "cefr": "",
+   "def2": "iuvenis femina",
+   "def1": "молода жінка",
+   "ipa": "ə jʌŋ ˈwʊmən",
+   "spell": "a young woman"
+ },
+ {
+   "cefr": "",
+   "def2": "magni momenti est",
+   "def1": "це дуже важливо",
+   "ipa": "ɪt ɪz ˈvɛri ɪmˈpɔrtənt",
+   "spell": "it is very important"
+ },
+ {
+   "cefr": "",
+   "def2": "musicae audire",
+   "def1": "слухати музику",
+   "ipa": "tu ˈlɪsən tu ˈmjuzɪk",
+   "spell": "to listen to music"
+ },
+ {
+   "cefr": "",
+   "def2": "nimis breve",
+   "def1": "занадто коротко",
+   "ipa": "tu ʃɔrt",
+   "spell": "too short"
+ },
+ {
+   "cefr": "",
+   "def2": "Non, domine. Non fumes.",
+   "def1": "Ні, пане. Я не під кайфом.",
+   "ipa": "noʊ, ˈɔfəsər, aɪ æm nɑt. aɪ æm nɑt haɪ.",
+   "spell": "No, officer, I am not. I am not high."
+ },
+ {
+   "cefr": "",
+   "def2": "Non, domine. Non sum ebrius.",
+   "def1": "Ні, пане. Я не п'яний.",
+   "ipa": "noʊ, ˈɔfəsər, aɪ æm nɑt. aɪ æm nɑt drʌŋk.",
+   "spell": "No, officer, I am not. I am not drunk."
+ },
+ {
+   "cefr": "",
+   "def2": "Non, Russus non est.",
+   "def1": "Ні, він не росіянин.",
+   "ipa": "noʊ, hi ɪz nɑt ˈrʌʃən. noʊ, hi ɪz nɑt.",
+   "spell": "No, he is not Russian. No, he is not."
+ },
+ {
+   "cefr": "",
+   "def2": "polire",
+   "def1": "полірувати",
+   "ipa": "tu ˈpɑlɪʃ",
+   "spell": "to polish"
+ },
+ {
+   "cefr": "",
+   "def2": "Poloni contos non poliunt.",
+   "def1": "Поляки не полірують жердини.",
+   "ipa": "ˈpɑlɪʃ ˈpipəl doʊnt ˈpɑlɪʃ poʊlz.",
+   "spell": "Polish people don't polish poles."
+ },
+ {
+   "cefr": "",
+   "def2": "Polonus",
+   "def1": "поляк",
+   "ipa": "ə poʊl",
+   "spell": "a Pole"
+ },
+ {
+   "cefr": "",
+   "def2": "quaestionem aspice",
+   "def1": "подивись на запитання",
+   "ipa": "lʊk æt ðə ˈkwɛsʧən",
+   "spell": "look at the question"
+ },
+ {
+   "cefr": "",
+   "def2": "quaestioni respondere",
+   "def1": "відповісти на запитання",
+   "ipa": "tu ˈænsər ə ˈkwɛsʧən",
+   "spell": "to answer a question"
+ },
+ {
+   "cefr": "",
+   "def2": "qui sunt illi?",
+   "def1": "хто вони?",
+   "ipa": "hu ɑr ðeɪ?",
+   "spell": "who are they?"
+ },
+ {
+   "cefr": "",
+   "def2": "quis est hic?",
+   "def1": "хто це?",
+   "ipa": "hu ɪz ðɪs?",
+   "spell": "who is this?"
+ },
+ {
+   "cefr": "",
+   "def2": "repetere",
+   "def1": "повторювати",
+   "ipa": "tu rɪˈpit",
+   "spell": "to repeat"
+ },
+ {
+   "cefr": "",
+   "def2": "repetis",
+   "def1": "ти повторюєш",
+   "ipa": "ju rɪˈpit",
+   "spell": "you repeat"
+ },
+ {
+   "cefr": "",
+   "def2": "respondere",
+   "def1": "відповідати",
+   "ipa": "tu ˈænsər",
+   "spell": "to answer"
+ },
+ {
+   "cefr": "",
+   "def2": "responsa ad quaestiones vigilum",
+   "def1": "відповіді для поліції",
+   "ipa": "ˈænsərz fɔr ðə pəˈlis",
+   "spell": "answers for the police"
+ },
+ {
+   "cefr": "",
+   "def2": "responsum breve",
+   "def1": "коротка відповідь",
+   "ipa": "ə ʃɔrt ˈænsər",
+   "spell": "a short answer"
+ },
+ {
+   "cefr": "",
+   "def2": "responsum breve dare",
+   "def1": "дати коротку відповідь",
+   "ipa": "tu ɡɪv ə ʃɔrt ˈænsər",
+   "spell": "to give a short answer"
+ },
+ {
+   "cefr": "",
+   "def2": "responsum dare",
+   "def1": "дати відповідь",
+   "ipa": "tu ɡɪv ən ˈænsər",
+   "spell": "to give an answer"
+ },
+ {
+   "cefr": "",
+   "def2": "responsum longum",
+   "def1": "довга відповідь",
+   "ipa": "ə lɔŋ ˈænsər",
+   "spell": "a long answer"
+ },
+ {
+   "cefr": "",
+   "def2": "responsum perbreve",
+   "def1": "дуже коротка відповідь",
+   "ipa": "ə ˈsupər ʃɔrt ˈænsər",
+   "spell": "a super short answer"
+ },
+ {
+   "cefr": "",
+   "def2": "responsum rectum vigilibus dare",
+   "def1": "дати правильну відповідь поліції",
+   "ipa": "tu ɡɪv ðə raɪt ˈænsər tu ðə pəˈlis",
+   "spell": "to give the right answer to the police"
+ },
+ {
+   "cefr": "",
+   "def2": "ridiculum est",
+   "def1": "це смішно",
+   "ipa": "ɪt ɪz ˈfʌni",
+   "spell": "it is funny"
+ },
+ {
+   "cefr": "",
+   "def2": "semper",
+   "def1": "завжди",
+   "ipa": "ˈɔlˌweɪz",
+   "spell": "always"
+ },
+ {
+   "cefr": "",
+   "def2": "senex",
+   "def1": "старий чоловік",
+   "ipa": "ən oʊld mæn",
+   "spell": "an old man"
+ },
+ {
+   "cefr": "",
+   "def2": "Sinensisne est? Non est.",
+   "def1": "Він китаєць? Ні, він не є.",
+   "ipa": "ɪz hi ʧaɪˈniz? noʊ, hi ɪz nɑt.",
+   "spell": "Is he Chinese? No, he is not."
+ },
+ {
+   "cefr": "",
+   "def2": "Suntne magistri? Minime, non sunt.",
+   "def1": "Вони вчителі? Ні, вони не є.",
+   "ipa": "ɑr ðeɪ ˈtiʧərz? noʊ, ðeɪ ɑr nɑt.",
+   "spell": "Are they teachers? No, they are not."
+ },
+ {
+   "cefr": "",
+   "def2": "Suntne tui liberi? Ita, sunt.",
+   "def1": "Вони ваші діти? Так, вони є.",
+   "ipa": "ɑr ðeɪ jʊər ˈʧɪldrən? jɛs, ðeɪ ɑr.",
+   "spell": "Are they your children? Yes, they are."
+ },
+ {
+   "cefr": "",
+   "def2": "Suntne vigiles? Ita, sunt.",
+   "def1": "Вони поліцейські? Так, вони є.",
+   "ipa": "ɑr ðeɪ pəˈlis ˈɔfəsərz? jɛs, ðeɪ ɑr.",
+   "spell": "Are they police officers? Yes, they are."
+ },
+ {
+   "cefr": "",
+   "def2": "te interrogat",
+   "def1": "він питає вас",
+   "ipa": "hi æsks ju",
+   "spell": "he asks you"
+ },
+ {
+   "cefr": "",
+   "def2": "Uterne tuus ebrius est? Non est.",
+   "def1": "Ваш чоловік п'яний? Ні, він не п'яний.",
+   "ipa": "ɪz jʊər ˈhʌzbənd drʌŋk? noʊ, hi ɪz nɑt.",
+   "spell": "Is your husband drunk? No, he is not."
+ },
+ {
+   "cefr": "",
+   "def2": "Uterne tuus fumes est? Non est, domine.",
+   "def1": "Ваш чоловік під кайфом? Ні, пане, він не під кайфом.",
+   "ipa": "ɪz jʊər ˈhʌzbənd haɪ? noʊ, ˈɔfəsər, hi ɪz nɑt.",
+   "spell": "Is your husband high? No, officer, he is not."
+ },
+ {
+   "cefr": "",
+   "def2": "verba quibus in opere uteris",
+   "def1": "слова, які ви використовуєте на роботі",
+   "ipa": "wɜrdz ðæt ju juz æt wɜrk",
+   "spell": "words that you use at work"
+ },
+ {
+   "cefr": "",
+   "def2": "vexillum Turciae",
+   "def1": "прапор Туреччини",
+   "ipa": "ðə flæɡ ʌv ˈtɜrki",
+   "spell": "the flag of Turkey"
+ },
+ {
+   "cefr": "",
+   "def2": "vigil te retinet",
+   "def1": "поліцейський зупиняє вас",
+   "ipa": "ə pəˈlis ˈɔfəsər stɑps ju",
+   "spell": "a police officer stops you"
+ },
+ {
+   "cefr": "",
+   "def2": "vigiles te retinere et interrogare possunt",
+   "def1": "поліція може зупинити вас і запитати",
+   "ipa": "ðə pəˈlis kæn stɑp ju ænd æsk ju",
+   "spell": "the police can stop you and ask you"
+ },
+ {
+   "cefr": "",
+   "def2": "volo ut memineris hoc",
+   "def1": "я хочу, щоб ти запам'ятав це",
+   "ipa": "aɪ wɑnt ju tu rɪˈmɛmbər ðɪs",
+   "spell": "I want you to remember this"
+ }
+]
