@@ -1,0 +1,401 @@
+[
+  {
+    "cefr": "",
+    "def2": "actum est",
+    "def1": "всё кончено",
+    "ipa": "ɪts ˈoʊvər",
+    "spell": "it's over"
+  },
+  {
+    "cefr": "",
+    "def2": "aliquid stabile volo",
+    "def1": "я хочу что-то постоянное",
+    "ipa": "aɪ wɑnt ˈsʌmθɪŋ ˈpɜrmənənt",
+    "spell": "I want something permanent"
+  },
+  {
+    "cefr": "",
+    "def2": "continua quaerere",
+    "def1": "продолжай искать",
+    "ipa": "kip ˈlʊkɪŋ",
+    "spell": "keep looking"
+  },
+  {
+    "cefr": "",
+    "def2": "contractus usque ad tunc durat",
+    "def1": "контракт действует до этого времени",
+    "ipa": "ðə ˈkɑnˌtrækt læsts ənˈtɪl ðɛn",
+    "spell": "the contract lasts until then"
+  },
+  {
+    "cefr": "",
+    "def2": "cum tempore itineris",
+    "def1": "с учётом времени на дорогу",
+    "ipa": "wɪð ˈtrævəl taɪm",
+    "spell": "with travel time"
+  },
+  {
+    "cefr": "",
+    "def2": "dies qua operam perdidisti",
+    "def1": "дата, когда ты потеряла работу",
+    "ipa": "ðə deɪt ju lɔst jʊər ʤɑb",
+    "spell": "the date you lost your job"
+  },
+  {
+    "cefr": "",
+    "def2": "ea dixit mihi",
+    "def1": "она сказала мне",
+    "ipa": "ʃi sɛd tu mi",
+    "spell": "she said to me"
+  },
+  {
+    "cefr": "",
+    "def2": "eligibilitatem ad beneficium recipiendum amittes",
+    "def1": "ты потеряешь право на получение пособия",
+    "ipa": "ju wɪl luz jʊər ˌɛlɪʤəˈbɪlɪti tu rəˈsiv ðə ˈbɛnəfɪt",
+    "spell": "you will lose your eligibility to receive the benefit"
+  },
+  {
+    "cefr": "",
+    "def2": "ex anno praeterito",
+    "def1": "с прошлого года",
+    "ipa": "sɪns læst jɪr",
+    "spell": "since last year"
+  },
+  {
+    "cefr": "",
+    "def2": "ex eo tempore",
+    "def1": "с тех пор",
+    "ipa": "sɪns ðɛn",
+    "spell": "since then"
+  },
+  {
+    "cefr": "",
+    "def2": "exspecta et vide",
+    "def1": "поживём — увидим",
+    "ipa": "weɪt ænd si",
+    "spell": "wait and see"
+  },
+  {
+    "cefr": "",
+    "def2": "hic est periculum",
+    "def1": "в этом опасность",
+    "ipa": "ðæt ɪz ðə ˈdeɪnʤər",
+    "spell": "that is the danger"
+  },
+  {
+    "cefr": "",
+    "def2": "hic non est opus quod quaero",
+    "def1": "это не та работа, которую я ищу",
+    "ipa": "ðɪs ɪz nɑt ðə ʤɑb aɪ æm ˈlʊkɪŋ fɔr",
+    "spell": "this is not the job I am looking for"
+  },
+  {
+    "cefr": "",
+    "def2": "hora et dimidia",
+    "def1": "полтора часа",
+    "ipa": "ən ˈaʊər ænd ə hæf",
+    "spell": "an hour and a half"
+  },
+  {
+    "cefr": "",
+    "def2": "id iacere",
+    "def1": "бросить это, кинуть, ",
+    "ipa": "tu θroʊ ɪt",
+    "spell": "to throw it"
+  },
+  {
+    "cefr": "",
+    "def2": "id supposui",
+    "def1": "я предположила это",
+    "ipa": "aɪ əˈsumd ɪt",
+    "spell": "I assumed it"
+  },
+  {
+    "cefr": "",
+    "def2": "in omni casu",
+    "def1": "в любом случае",
+    "ipa": "ɪn ˈɛni keɪs",
+    "spell": "in any case"
+  },
+  {
+    "cefr": "",
+    "def2": "interrogant me",
+    "def1": "они задают мне вопросы",
+    "ipa": "ðeɪ æsk mi ˈkwɛsʧənz",
+    "spell": "they ask me questions"
+  },
+  {
+    "cefr": "",
+    "def2": "ius ad id obtinendum amittes",
+    "def1": "ты потеряешь право на получение этого",
+    "ipa": "ju wɪl luz jʊər raɪt tu ɡɛt ɪt",
+    "spell": "you will lose your right to get it"
+  },
+  {
+    "cefr": "",
+    "def2": "melius quam nihil",
+    "def1": "лучше, чем ничего",
+    "ipa": "ˈbɛtər ðæn ˈnʌθɪŋ",
+    "spell": "better than nothing"
+  },
+  {
+    "cefr": "",
+    "def2": "mihi dixerunt",
+    "def1": "они мне сказали",
+    "ipa": "ðeɪ toʊld mi",
+    "spell": "they told me"
+  },
+  {
+    "cefr": "",
+    "def2": "mihi erit eundum ad opus ante octavam matutinam",
+    "def1": "мне придётся быть на работе к восьми утра",
+    "ipa": "aɪ wɪl hæv tu ɡoʊ tu wɜrk baɪ eɪt eɪ.ɛm.",
+    "spell": "I will have to go to work by eight a.m."
+  },
+  {
+    "cefr": "",
+    "def2": "mihi salarium offerre",
+    "def1": "предложить мне зарплату",
+    "ipa": "tu ˈɔfər ə ˈsæləri tu mi",
+    "spell": "to offer a salary to me"
+  },
+  {
+    "cefr": "",
+    "def2": "minimum merces",
+    "def1": "минимальная зарплата",
+    "ipa": "ðə ˈmɪnəməm weɪʤ",
+    "spell": "the minimum wage"
+  },
+  {
+    "cefr": "",
+    "def2": "minus quam hebdomade ante",
+    "def1": "менее недели назад",
+    "ipa": "lɛs ðæn ə wik əˈɡoʊ",
+    "spell": "less than a week ago"
+  },
+  {
+    "cefr": "",
+    "def2": "multis horis opus est ut beneficio dignus sis",
+    "def1": "тебе нужно много часов, чтобы получить право на пособие",
+    "ipa": "ju nid ˈmɛni ˈaʊərz tu ˈkwɑləˌfaɪ fɔr ðə ˈbɛnəfɪt",
+    "spell": "you need many hours to qualify for the benefit"
+  },
+  {
+    "cefr": "",
+    "def2": "nescio quomodo hoc officium administrem",
+    "def1": "я не знаю, как справлюсь с этой работой",
+    "ipa": "aɪ doʊnt noʊ haʊ aɪ wɪl ˈmænəʤ ðɪs ʤɑb",
+    "spell": "I don't know how I will manage this job"
+  },
+  {
+    "cefr": "",
+    "def2": "non afficiar",
+    "def1": "я не расстроюсь",
+    "ipa": "aɪ wɪl nɑt bi əpˈsɛt",
+    "spell": "I will not be upset"
+  },
+  {
+    "cefr": "",
+    "def2": "non discessisti",
+    "def1": "ты не ушла",
+    "ipa": "ju ˈdɪdənt liv",
+    "spell": "you didn't leave"
+  },
+  {
+    "cefr": "",
+    "def2": "non est in nostra potestate",
+    "def1": "это не от нас зависит",
+    "ipa": "ɪts nɑt ʌp tu ʌs",
+    "spell": "it's not up to us"
+  },
+  {
+    "cefr": "",
+    "def2": "non exspectavi",
+    "def1": "я не ожидала",
+    "ipa": "aɪ dɪd nɑt ɪkˈspɛkt",
+    "spell": "I did not expect"
+  },
+  {
+    "cefr": "",
+    "def2": "non nuntium valde bonum",
+    "def1": "не очень хорошие новости",
+    "ipa": "nɑt ˈrɪli ɡʊd nuz",
+    "spell": "not really good news"
+  },
+  {
+    "cefr": "",
+    "def2": "nondum accepi",
+    "def1": "я еще не получила это",
+    "ipa": "aɪ hæv nɑt rəˈsivd ɪt jɛt",
+    "spell": "I have not received it yet"
+  },
+  {
+    "cefr": "",
+    "def2": "omnia in praeterito",
+    "def1": "всё в прошлом",
+    "ipa": "ɔl ɪn ðə pæst",
+    "spell": "all in the past"
+  },
+  {
+    "cefr": "",
+    "def2": "oportet me discedere ad sex et dimidium ut ad laborem eam",
+    "def1": "мне нужно выйти в шесть тридцать, чтобы попасть на работу",
+    "ipa": "aɪ nid tu liv æt sɪks-ˈθɜrdi tu ɡɛt tu wɜrk",
+    "spell": "I need to leave at six-thirty to get to work"
+  },
+  {
+    "cefr": "",
+    "def2": "pecuniam miserunt",
+    "def1": "они отправили деньги",
+    "ipa": "ðeɪ sɛnt ˈmʌni",
+    "spell": "they sent money"
+  },
+  {
+    "cefr": "",
+    "def2": "post meridiem dormivi",
+    "def1": "я спала днём",
+    "ipa": "aɪ slɛpt ɪn ði ˌæftərˈnun",
+    "spell": "I slept in the afternoon"
+  },
+  {
+    "cefr": "",
+    "def2": "praesumere",
+    "def1": "предполагать",
+    "ipa": "tu prɪˈzum",
+    "spell": "to presume"
+  },
+  {
+    "cefr": "",
+    "def2": "precatio",
+    "def1": "просьба",
+    "ipa": "ə rɪˈkwɛst",
+    "spell": "a request"
+  },
+  {
+    "cefr": "",
+    "def2": "prorogare",
+    "def1": "продлить, удлинить",
+    "ipa": "tu ɪkˈstɛnd ɪt",
+    "spell": "to extend it"
+  },
+  {
+    "cefr": "",
+    "def2": "quando coepit?",
+    "def1": "когда это началось?",
+    "ipa": "wɛn dɪd ɪt stɑrt?",
+    "spell": "when did it start?"
+  },
+  {
+    "cefr": "",
+    "def2": "rationem habere",
+    "def1": "следить за этим",
+    "ipa": "tu kip træk ʌv ɪt",
+    "spell": "to keep track of it"
+  },
+  {
+    "cefr": "",
+    "def2": "rationem liberare",
+    "def1": "разблокировать аккаунт",
+    "ipa": "tu ʌnˈblɑk ən əˈkaʊnt",
+    "spell": "to unblock an account"
+  },
+  {
+    "cefr": "",
+    "def2": "res graves tollere",
+    "def1": "поднимать тяжести",
+    "ipa": "tu lɪft ˈhɛvi θɪŋz",
+    "spell": "to lift heavy things"
+  },
+  {
+    "cefr": "",
+    "def2": "semen serere",
+    "def1": "посеять семя",
+    "ipa": "tu soʊ ə sid",
+    "spell": "to sow a seed"
+  },
+  {
+    "cefr": "",
+    "def2": "semina serere",
+    "def1": "сеять семена",
+    "ipa": "tu soʊ ðə sidz",
+    "spell": "to sow the seeds"
+  },
+  {
+    "cefr": "",
+    "def2": "si discesseris",
+    "def1": "если ты уволишься",
+    "ipa": "ɪf ju kwɪt",
+    "spell": "if you quit"
+  },
+  {
+    "cefr": "",
+    "def2": "si ego essem",
+    "def1": "если бы это был я",
+    "ipa": "ɪf ɪt wʌz mi",
+    "spell": "if it was me"
+  },
+  {
+    "cefr": "",
+    "def2": "si me non conducent",
+    "def1": "если они меня не наймут",
+    "ipa": "ɪf ðeɪ doʊnt ˈhaɪər mi",
+    "spell": "if they don't hire me"
+  },
+  {
+    "cefr": "",
+    "def2": "te amant",
+    "def1": "ты им нравишься",
+    "ipa": "ðeɪ laɪk ju",
+    "spell": "they like you"
+  },
+  {
+    "cefr": "",
+    "def2": "te dimiserunt",
+    "def1": "тебя уволили",
+    "ipa": "ðeɪ ˈfaɪərd ju",
+    "spell": "they fired you"
+  },
+  {
+    "cefr": "",
+    "def2": "te viderunt",
+    "def1": "они тебя видели",
+    "ipa": "ðeɪ hæv sin ju",
+    "spell": "they have seen you"
+  },
+  {
+    "cefr": "",
+    "def2": "tempus observare",
+    "def1": "следить за временем",
+    "ipa": "tu kip træk ʌv taɪm",
+    "spell": "to keep track of time"
+  },
+  {
+    "cefr": "",
+    "def2": "tu esto te ipsum",
+    "def1": "будь собой",
+    "ipa": "ju bi ju",
+    "spell": "you be you"
+  },
+  {
+    "cefr": "",
+    "def2": "ultra potestatem nostram",
+    "def1": "вне нашего контроля",
+    "ipa": "bɪˈɑnd ˈaʊər kənˈtroʊl",
+    "spell": "beyond our control"
+  },
+  {
+    "cefr": "",
+    "def2": "usque ad annum proximum",
+    "def1": "до следующего года",
+    "ipa": "ənˈtɪl nɛkst jɪr",
+    "spell": "until next year"
+  },
+  {
+    "cefr": "",
+    "def2": "utcumque",
+    "def1": "в любом случае",
+    "ipa": "ˈɛniˌweɪ",
+    "spell": "anyway"
+  }
+]
