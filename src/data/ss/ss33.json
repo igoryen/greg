@@ -1,0 +1,583 @@
+[
+ {
+   "cefr": "",
+   "def2": "pagina Facebook",
+   "def1": "фейсбук-страница",
+   "ipa": "ə ˈfeɪsbʊk peɪʤ",
+   "spell": "a facebook page"
+ },
+ {
+   "cefr": "",
+   "def2": "pellicula clāra",
+   "def1": "известный фильм",
+   "ipa": "ə ˈfeɪməs ˈmuvi",
+   "spell": "a famous movie"
+ },
+ {
+   "cefr": "",
+   "def2": "mōns altus",
+   "def1": "высокая гора",
+   "ipa": "ə haɪ ˈmaʊntən",
+   "spell": "a high mountain"
+ },
+ {
+   "cefr": "",
+   "def2": "pellicula horribilis",
+   "def1": "фильм ужасов",
+   "ipa": "ə ˈhɔrər ˈmuvi",
+   "spell": "a horror movie"
+ },
+ {
+   "cefr": "",
+   "def2": "locus operis",
+   "def1": "место производства работ",
+   "ipa": "ə ʤɑb saɪt",
+   "spell": "a job site"
+ },
+ {
+   "cefr": "",
+   "def2": "neptis",
+   "def1": "племянница",
+   "ipa": "ə nis",
+   "spell": "a niece"
+ },
+ {
+   "cefr": "",
+   "def2": "nōmen",
+   "def1": "существительное",
+   "ipa": "ə naʊn",
+   "spell": "a noun"
+ },
+ {
+   "cefr": "",
+   "def2": "palātium",
+   "def1": "дворец",
+   "ipa": "ə ˈpæləs",
+   "spell": "a palace"
+ },
+ {
+   "cefr": "",
+   "def2": "praepositiō",
+   "def1": "предлог",
+   "ipa": "ə ˌpɹɛpəˈzɪʃən",
+   "spell": "a preposition"
+ },
+ {
+   "cefr": "",
+   "def2": "sonus mīrus",
+   "def1": "странный шум",
+   "ipa": "ə streɪnʤ nɔɪz",
+   "spell": "a strange noise"
+ },
+ {
+   "cefr": "",
+   "def2": "homo mīrus",
+   "def1": "странный человек",
+   "ipa": "ə streɪnʤ ˈpɜrsən",
+   "spell": "a strange person"
+ },
+ {
+   "cefr": "",
+   "def2": "rēs pretiōsa",
+   "def1": "ценная вещь",
+   "ipa": "ə ˈvæljəbəl θɪŋ",
+   "spell": "a valuable thing"
+ },
+ {
+   "cefr": "",
+   "def2": "raeda",
+   "def1": "фургон",
+   "ipa": "ə væn",
+   "spell": "a van"
+ },
+ {
+   "cefr": "",
+   "def2": "annuntium",
+   "def1": "объявление",
+   "ipa": "ən æd",
+   "spell": "an ad"
+ },
+ {
+   "cefr": "",
+   "def2": "adiectīvum",
+   "def1": "прилагательное",
+   "ipa": "ən ˈæʤɪktɪv",
+   "spell": "an adjective"
+ },
+ {
+   "cefr": "",
+   "def2": "estō beātus quod habēs",
+   "def1": "будь доволен тем, что у тебя есть",
+   "ipa": "bi ˈhæpi wɪð wɑt ju hæv",
+   "spell": "be happy with what you have"
+ },
+ {
+   "cefr": "",
+   "def2": "inānis manibus",
+   "def1": "с пустыми руками",
+   "ipa": "ˈɛmpti-ˈhændɪd",
+   "spell": "empty-handed"
+ },
+ {
+   "cefr": "",
+   "def2": "per plūrēs hōrās",
+   "def1": "несколько часов",
+   "ipa": "fɔr ˈsɛvrəl ˈaʊərz",
+   "spell": "for several hours"
+ },
+ {
+   "cefr": "",
+   "def2": "pecūnia lībera",
+   "def1": "бесплатные деньги",
+   "ipa": "fri ˈmʌni",
+   "spell": "free money"
+ },
+ {
+   "cefr": "",
+   "def2": "ī in officīnam meam",
+   "def1": "иди в мой офис",
+   "ipa": "ɡoʊ ˈɪntu maɪ ˈɔfəs",
+   "spell": "go into my office"
+ },
+ {
+   "cefr": "",
+   "def2": "bona ambitiō",
+   "def1": "хорошая среда",
+   "ipa": "ɡʊd ɪnˈvaɪrənmənt",
+   "spell": "good environment"
+ },
+ {
+   "cefr": "",
+   "def2": "it spērāns labōrem invenīre",
+   "def1": "он идёт, надеясь найти работу",
+   "ipa": "hi ɡoʊz ˈhoʊpɪŋ tu faɪnd wɜrk",
+   "spell": "he goes hoping to find work"
+ },
+ {
+   "cefr": "",
+   "def2": "societātem regit",
+   "def1": "он управляет компанией",
+   "ipa": "hi rʌnz ðə ˈkʌmpəni",
+   "spell": "he runs the company"
+ },
+ {
+   "cefr": "",
+   "def2": "id vēndidit",
+   "def1": "он продал это",
+   "ipa": "hi soʊld ɪt",
+   "spell": "he sold it"
+ },
+ {
+   "cefr": "",
+   "def2": "is ejus amīcus est",
+   "def1": "он его друг",
+   "ipa": "hiz hɪz frɛnd",
+   "spell": "he's his friend"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo dives sum?",
+   "def1": "как я богат?",
+   "ipa": "haʊ æm aɪ rɪʧ?",
+   "spell": "how am I rich?"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo scīs?",
+   "def1": "откуда ты знаешь?",
+   "ipa": "haʊ du ju noʊ?",
+   "spell": "how do you know?"
+ },
+ {
+   "cefr": "",
+   "def2": "dives sum",
+   "def1": "я богат",
+   "ipa": "aɪ æm rɪʧ",
+   "spell": "I am rich"
+ },
+ {
+   "cefr": "",
+   "def2": "eam nōn jam habeō",
+   "def1": "у меня её больше нет",
+   "ipa": "aɪ doʊnt hæv hɜr ˈɛni mɔr",
+   "spell": "I don't have her any more"
+ },
+ {
+   "cefr": "",
+   "def2": "ibi fuī",
+   "def1": "я был там",
+   "ipa": "aɪ hæv bɪn ðɛr",
+   "spell": "I have been there"
+ },
+ {
+   "cefr": "",
+   "def2": "superfūī",
+   "def1": "я выжил",
+   "ipa": "aɪ hæv sərˈvaɪvd",
+   "spell": "I have survived"
+ },
+ {
+   "cefr": "",
+   "def2": "in officīnā labōrāvī",
+   "def1": "я работал в офисе",
+   "ipa": "aɪ hæv wɜrkt ɪn ən ˈɔfəs",
+   "spell": "I have worked in an office"
+ },
+ {
+   "cefr": "",
+   "def2": "discēdō ut sōlus vivam",
+   "def1": "я ухожу, чтобы жить один",
+   "ipa": "aɪ liv tu lɪv əˈloʊn",
+   "spell": "I leave to live alone"
+ },
+ {
+   "cefr": "",
+   "def2": "eī dīcō",
+   "def1": "я говорю ей",
+   "ipa": "aɪ seɪ tu hɜr",
+   "spell": "I say to her"
+ },
+ {
+   "cefr": "",
+   "def2": "eī narrō",
+   "def1": "я рассказываю ей",
+   "ipa": "aɪ tɛl hɜr",
+   "spell": "I tell her"
+ },
+ {
+   "cefr": "",
+   "def2": "ānulum surripiam",
+   "def1": "я украду кольцо",
+   "ipa": "aɪ wɪl stil ðə rɪŋ",
+   "spell": "I will steal the ring"
+ },
+ {
+   "cefr": "",
+   "def2": "mīror",
+   "def1": "я удивлён",
+   "ipa": "aɪm sərˈpraɪzd",
+   "spell": "I'm surprised"
+ },
+ {
+   "cefr": "",
+   "def2": "intrā arcam",
+   "def1": "внутри коробки",
+   "ipa": "ɪnˈsaɪd ðə bɑks",
+   "spell": "inside the box"
+ },
+ {
+   "cefr": "",
+   "def2": "in dēsertum",
+   "def1": "в пустыню",
+   "ipa": "ˈɪntu ðə ˈdɛzɜrt",
+   "spell": "into the desert"
+ },
+ {
+   "cefr": "",
+   "def2": "sic esse dēbet",
+   "def1": "это должно быть так",
+   "ipa": "ɪt ʃʊd bi laɪk ðɪs",
+   "spell": "it should be like this"
+ },
+ {
+   "cefr": "",
+   "def2": "commodum est id facere",
+   "def1": "это удобно сделать",
+   "ipa": "ɪts kənˈvinjənt tu du ɪt",
+   "spell": "it's convenient to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "multō plūs pecūniae",
+   "def1": "намного больше денег",
+   "ipa": "mʌʧ mɔr ˈmʌni",
+   "spell": "much more money"
+ },
+ {
+   "cefr": "",
+   "def2": "antīquus et clārus",
+   "def1": "старый и знаменитый",
+   "ipa": "oʊld ænd ˈfeɪməs",
+   "spell": "old and famous"
+ },
+ {
+   "cefr": "",
+   "def2": "annuntium in cistā epistulārum pōnere",
+   "def1": "повесить объявление на почтовый ящик",
+   "ipa": "poʊst ən æd ɑn ə meɪl bɑks",
+   "spell": "post an ad on a mail box"
+ },
+ {
+   "cefr": "",
+   "def2": "fortasse",
+   "def1": "вероятно",
+   "ipa": "ˈprɑbəbli",
+   "spell": "probably"
+ },
+ {
+   "cefr": "",
+   "def2": "psychologicus",
+   "def1": "психологический",
+   "ipa": "ˌsaɪkəˈlɑʤɪkəl",
+   "spell": "psychological"
+ },
+ {
+   "cefr": "",
+   "def2": "eā mē rogat",
+   "def1": "она спрашивает меня",
+   "ipa": "ʃi æsks mi",
+   "spell": "she asks me"
+ },
+ {
+   "cefr": "",
+   "def2": "eā mihi dīcit",
+   "def1": "она говорит мне",
+   "ipa": "ʃi sɛz tu mi",
+   "spell": "she says to me"
+ },
+ {
+   "cefr": "",
+   "def2": "eum ēmittit",
+   "def1": "она высылает его",
+   "ipa": "ʃi sɛndz hɪm aʊt",
+   "spell": "she sends him out"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquantum pulveris",
+   "def1": "немного пыли",
+   "ipa": "sʌm dʌst",
+   "spell": "some dust"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquid inveniētur",
+   "def1": "что-нибудь найдётся",
+   "ipa": "ˈsʌmθɪŋ wɪl tɜrn ʌp",
+   "spell": "something will turn up"
+ },
+ {
+   "cefr": "",
+   "def2": "ad tempus",
+   "def1": "временно",
+   "ipa": "ˌtɛmpəˈrɛrəli",
+   "spell": "temporarily"
+ },
+ {
+   "cefr": "",
+   "def2": "mōrālia fābulae",
+   "def1": "мораль истории",
+   "ipa": "ðə ˈmɔrəl ʌv ðə ˈstɔri",
+   "spell": "the moral of the story"
+ },
+ {
+   "cefr": "",
+   "def2": "per fenestram",
+   "def1": "через окно",
+   "ipa": "θru ðə ˈwɪndoʊ",
+   "spell": "through the window"
+ },
+ {
+   "cefr": "",
+   "def2": "officīnās verrere",
+   "def1": "убирать офисы",
+   "ipa": "tu klin ˈɔfəsəz",
+   "spell": "to clean offices"
+ },
+ {
+   "cefr": "",
+   "def2": "tōtam contignātiōnem pūrgāre",
+   "def1": "убирать весь этаж",
+   "ipa": "tu klin ðə hoʊl flɔr",
+   "spell": "to clean the whole floor"
+ },
+ {
+   "cefr": "",
+   "def2": "dēcernere",
+   "def1": "решать",
+   "ipa": "tu ˌdɪˈsaɪd",
+   "spell": "to decide"
+ },
+ {
+   "cefr": "",
+   "def2": "id edere",
+   "def1": "съесть это",
+   "ipa": "tu it ɪt",
+   "spell": "to eat it"
+ },
+ {
+   "cefr": "",
+   "def2": "labōrem invenīre",
+   "def1": "найти работу",
+   "ipa": "tu faɪnd wɜrk",
+   "spell": "to find work"
+ },
+ {
+   "cefr": "",
+   "def2": "summam capere",
+   "def1": "уловить суть",
+   "ipa": "tu ɡɛt ðə ʤɪst ʌv ɪt",
+   "spell": "to get the gist of it"
+ },
+ {
+   "cefr": "",
+   "def2": "mēnsās collocāre",
+   "def1": "устанавливать мебель",
+   "ipa": "tu ɪnˈstɔl ˈfɜrnɪʧər",
+   "spell": "to install furniture"
+ },
+ {
+   "cefr": "",
+   "def2": "clāvēs ōsculārī",
+   "def1": "целовать ключи",
+   "ipa": "tu kɪs ðə kiz",
+   "spell": "to kiss the keys"
+ },
+ {
+   "cefr": "",
+   "def2": "discēdere",
+   "def1": "уходить, покидать",
+   "ipa": "tu liv",
+   "spell": "to leave"
+ },
+ {
+   "cefr": "",
+   "def2": "discēdere ut vivat",
+   "def1": "уйти, чтобы жить",
+   "ipa": "tu liv tu lɪv",
+   "spell": "to leave to live"
+ },
+ {
+   "cefr": "",
+   "def2": "tē tollere",
+   "def1": "забрать тебя",
+   "ipa": "tu pɪk ju ʌp",
+   "spell": "to pick you up"
+ },
+ {
+   "cefr": "",
+   "def2": "annuntium pōnere",
+   "def1": "разместить объявление",
+   "ipa": "tu poʊst ən æd",
+   "spell": "to post an ad"
+ },
+ {
+   "cefr": "",
+   "def2": "jacere",
+   "def1": "бросать, кидать",
+   "ipa": "tu θroʊ",
+   "spell": "to throw"
+ },
+ {
+   "cefr": "",
+   "def2": "ad mē",
+   "def1": "по направлению ко мне",
+   "ipa": "təˈwɔrdz mi",
+   "spell": "towards me"
+ },
+ {
+   "cefr": "",
+   "def2": "tramīnes discēdunt",
+   "def1": "поезда уходят",
+   "ipa": "treɪnz liv",
+   "spell": "trains leave"
+ },
+ {
+   "cefr": "",
+   "def2": "nōs invicem habēmus",
+   "def1": "мы имеем друг друга",
+   "ipa": "wi hæv iʧ ˈʌðər",
+   "spell": "we have each other"
+ },
+ {
+   "cefr": "",
+   "def2": "superābimus",
+   "def1": "мы справимся",
+   "ipa": "wil pʊl θru",
+   "spell": "we'll pull through"
+ },
+ {
+   "cefr": "",
+   "def2": "vidēbimus",
+   "def1": "посмотрим",
+   "ipa": "wil si",
+   "spell": "we'll see"
+ },
+ {
+   "cefr": "",
+   "def2": "quae mea dīvitiae sunt?",
+   "def1": "в чём моё богатство?",
+   "ipa": "wɑt ɑr maɪ ˈrɪʧəz?",
+   "spell": "what are my riches?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid hodiē faciēs?",
+   "def1": "что ты будешь делать сегодня?",
+   "ipa": "wɑt ɑr ju ˈɡɑnə du təˈdeɪ?",
+   "spell": "what are you gonna do today?"
+ },
+ {
+   "cefr": "",
+   "def2": "quod nōs nōn occidit, fortius nōs facit",
+   "def1": "что нас не убивает, делает нас сильнее",
+   "ipa": "wɑt ˈdʌzənt kɪl ʌs meɪks ʌs ˈstrɔŋər",
+   "spell": "what doesn't kill us makes us stronger"
+ },
+ {
+   "cefr": "",
+   "def2": "quid aliud nōbīs opus est?",
+   "def1": "что ещё нам нужно?",
+   "ipa": "wɑt ɛls du wi nid?",
+   "spell": "what else do we need?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid ad cēnam edere",
+   "def1": "что поесть на ужин",
+   "ipa": "wɑt tu hæv fɔr ˈdɪnər",
+   "spell": "what to have for dinner"
+ },
+ {
+   "cefr": "",
+   "def2": "dum tū in stipendiō dēsidiāe es",
+   "def1": "пока ты на пособии по безработице",
+   "ipa": "waɪl ju ɑr ɑn ˌʌnɪmˈplɔɪmənt ˈbɛnəfɪt",
+   "spell": "while you are on unemployment benefit"
+ },
+ {
+   "cefr": "",
+   "def2": "dītior me es",
+   "def1": "ты богаче меня",
+   "ipa": "ju ɑr ˈrɪʧər ðæn mi",
+   "spell": "you are richer than me"
+ },
+ {
+   "cefr": "",
+   "def2": "tibi carrus necesse est",
+   "def1": "тебе нужна машина",
+   "ipa": "ju nid tu hæv ə kɑr",
+   "spell": "you need to have a car"
+ },
+ {
+   "cefr": "",
+   "def2": "adhūc quattuor mēnsēs habēs",
+   "def1": "у тебя ещё есть четыре месяца",
+   "ipa": "ju stɪl hæv fɔr mʌnθs",
+   "spell": "you still have four months"
+ },
+ {
+   "cefr": "",
+   "def2": "litterae mentiuntur",
+   "def1": "буквы лгут",
+   "ipa": "ˈlɛtərz laɪ",
+   "spell": "letters lie"
+ },
+ {
+   "cefr": "",
+   "def2": "dēsertum",
+   "def1": "пустыня",
+   "ipa": "ə ˈdɛzɜrt",
+   "spell": "a desert"
+ }
+]
