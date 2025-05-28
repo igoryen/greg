@@ -178,6 +178,7 @@ import SS31 from "./pages/ss/SS31";
 import SS32 from "./pages/ss/SS32";
 import SS33 from "./pages/ss/SS33";
 import SS34 from "./pages/ss/SS34";
+import SS35 from "./pages/ss/SS35";
 
 import VK from "./pages/vk/VK";
 import VK05 from "./pages/vk/VK05";
@@ -365,6 +366,7 @@ export default function App() {
           <Route path="ss32" element={<SS32 />} />
           <Route path="ss33" element={<SS33 />} />
           <Route path="ss34" element={<SS34 />} />
+          <Route path="ss35" element={<SS35 />} />
 
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
