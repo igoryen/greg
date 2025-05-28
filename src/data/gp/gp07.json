@@ -1,0 +1,856 @@
+[
+ {
+   "cefr": "",
+   "def2": "māgna differentia",
+   "def1": "велика різниця",
+   "ipa": "ə bɪɡ ˈdɪfərəns",
+   "spell": "a big difference"
+ },
+ {
+   "cefr": "",
+   "def2": "cūra",
+   "def1": "турбота",
+   "ipa": "ə kɛr",
+   "spell": "a care"
+ },
+ {
+   "cefr": "",
+   "def2": "diēs",
+   "def1": "день",
+   "ipa": "ə deɪ",
+   "spell": "a day"
+ },
+ {
+   "cefr": "",
+   "def2": "salūtātiō",
+   "def1": "привітання",
+   "ipa": "ə ˈɡritɪŋ",
+   "spell": "a greeting"
+ },
+ {
+   "cefr": "",
+   "def2": "index verbōrum",
+   "def1": "список слів",
+   "ipa": "ə lɪst ʌv wɜrdz",
+   "spell": "a list of words"
+ },
+ {
+   "cefr": "",
+   "def2": "trānslātiō litterālis",
+   "def1": "дослівний переклад",
+   "ipa": "ə ˈlɪtərəl trænˈzleɪʃən",
+   "spell": "a literal translation"
+ },
+ {
+   "cefr": "",
+   "def2": "urbs jūcunda",
+   "def1": "гарне місто",
+   "ipa": "ə naɪs ˈsɪti",
+   "spell": "a nice city"
+ },
+ {
+   "cefr": "",
+   "def2": "ratiō",
+   "def1": "причина",
+   "ipa": "ə ˈrizən",
+   "spell": "a reason"
+ },
+ {
+   "cefr": "",
+   "def2": "et tum",
+   "def1": "а потім",
+   "ipa": "ænd ðɛn",
+   "spell": "and then"
+ },
+ {
+   "cefr": "",
+   "def2": "respondē quaestiōnī",
+   "def1": "відповідь на запитання",
+   "ipa": "ˈænsər ðə ˈkwɛsʧən",
+   "spell": "answer the question"
+ },
+ {
+   "cefr": "",
+   "def2": "adestisne?",
+   "def1": "ти тут?",
+   "ipa": "ɑr ju ðɛr?",
+   "spell": "are you there?"
+ },
+ {
+   "cefr": "",
+   "def2": "sed mihi nōn placet",
+   "def1": "але мені це не подобається",
+   "ipa": "bʌt aɪ doʊnt laɪk ɪt",
+   "spell": "but I don't like it"
+ },
+ {
+   "cefr": "",
+   "def2": "complē textum",
+   "def1": "заверши текст",
+   "ipa": "kəmˈplit ðə tɛkst",
+   "spell": "complete the text"
+ },
+ {
+   "cefr": "",
+   "def2": "placetne tibi?",
+   "def1": "тобі це подобається?",
+   "ipa": "du ju laɪk ɪt?",
+   "spell": "Do you like it?"
+ },
+ {
+   "cefr": "",
+   "def2": "meninistine?",
+   "def1": "ти пам'ятаєш?",
+   "ipa": "du ju rɪˈmɛmbər?",
+   "spell": "do you remember?"
+ },
+ {
+   "cefr": "",
+   "def2": "fruere pelliculā!",
+   "def1": "насолоджуйся фільмом!",
+   "ipa": "ɛnˈʤɔɪ ðə ˈmuvi!",
+   "spell": "Enjoy the movie!"
+ },
+ {
+   "cefr": "",
+   "def2": "fruere prandiō tuō!",
+   "def1": "смачного обіду!",
+   "ipa": "ɛnˈʤɔɪ jʊər lʌnʧ!",
+   "spell": "Enjoy your lunch!"
+ },
+ {
+   "cefr": "",
+   "def2": "fruere feriīs tuīs!",
+   "def1": "гарного відпочинку!",
+   "ipa": "ɛnˈʤɔɪ jʊər veɪˈkeɪʃən!",
+   "spell": "Enjoy your vacation!"
+ },
+ {
+   "cefr": "",
+   "def2": "fruere visitātiōne tuā!",
+   "def1": "гарного візиту!",
+   "ipa": "ɛnˈʤɔɪ jʊər ˈvɪzət",
+   "spell": "enjoy your visit"
+ },
+ {
+   "cefr": "",
+   "def2": "operis causā",
+   "def1": "для роботи",
+   "ipa": "fɔr wɜrk",
+   "spell": "for work"
+ },
+ {
+   "cefr": "",
+   "def2": "quattuor optiōnēs",
+   "def1": "чотири варіанти",
+   "ipa": "fɔr ˈɑpʃənz",
+   "spell": "four options"
+ },
+ {
+   "cefr": "",
+   "def2": "habē bonum fīnem septimānae!",
+   "def1": "гарних вихідних!",
+   "ipa": "hæv ə ɡreɪt ˈwiˌkɛnd!",
+   "spell": "have a great weekend!"
+ },
+ {
+   "cefr": "",
+   "def2": "aeger est",
+   "def1": "він хворий",
+   "ipa": "hi ɪz sɪk",
+   "spell": "he is sick"
+ },
+ {
+   "cefr": "",
+   "def2": "scīre vult ejus ratiōnem",
+   "def1": "він хоче знати її причину",
+   "ipa": "hi wɑnts tu noʊ hɜr ˈrizən",
+   "spell": "he wants to know her reason"
+ },
+ {
+   "cefr": "",
+   "def2": "Salvē!",
+   "def1": "Привіт!",
+   "ipa": "haɪ!",
+   "spell": "Hi!"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo",
+   "def1": "як",
+   "ipa": "haʊ",
+   "spell": "how"
+ },
+ {
+   "cefr": "",
+   "def2": "quā ratiōne",
+   "def1": "яким чином",
+   "ipa": "haʊ",
+   "spell": "how"
+ },
+ {
+   "cefr": "",
+   "def2": "quid agis?",
+   "def1": "як справи?",
+   "ipa": "haʊ ɑr ju?",
+   "spell": "how are you?"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo valent līberī tuī?",
+   "def1": "як ваші діти?",
+   "ipa": "haʊ ɑr jʊər ˈʧɪldrən?",
+   "spell": "How are your children?"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo valent amīcī tuī?",
+   "def1": "як ваші друзі?",
+   "ipa": "haʊ ɑr jʊər frɛndz?",
+   "spell": "How are your friends?"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo dē hōc rogāmus?",
+   "def1": "як ми про це запитуємо?",
+   "ipa": "haʊ du wi æsk əˈbaʊt ɪt",
+   "spell": "how do we ask about it"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo valet fēlēs tua?",
+   "def1": "як ваш кіт?",
+   "ipa": "haʊ ɪz jʊər kæt?",
+   "spell": "How is your cat?"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo valet marītus tuus?",
+   "def1": "як ваш чоловік?",
+   "ipa": "haʊ ɪz jʊər ˈhʌzbənd?",
+   "spell": "How is your husband?"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo valet māter tua?",
+   "def1": "як ваша мама?",
+   "ipa": "haʊ ɪz jʊər mɑm?",
+   "spell": "How is your mom?"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo valet soror tua?",
+   "def1": "як ваша сестра?",
+   "ipa": "haʊ ɪz jʊər ˈsɪstər?",
+   "spell": "How is your sister?"
+ },
+ {
+   "cefr": "",
+   "def2": "valeō bene",
+   "def1": "у мене все чудово",
+   "ipa": "aɪ æm ˈduɪŋ ɡreɪt",
+   "spell": "I am doing great"
+ },
+ {
+   "cefr": "",
+   "def2": "ego quoque valeō bene",
+   "def1": "у мене теж все чудово",
+   "ipa": "aɪ æm ˈduɪŋ ɡreɪt, tu",
+   "spell": "I am doing great, too"
+ },
+ {
+   "cefr": "",
+   "def2": "valeō",
+   "def1": "у мене все добре",
+   "ipa": "aɪ æm ˈduɪŋ wɛl",
+   "spell": "I am doing well"
+ },
+ {
+   "cefr": "",
+   "def2": "Chicāgō sum",
+   "def1": "я в Чикаго",
+   "ipa": "aɪ æm ɪn ʃəˈkɑˌɡoʊ",
+   "spell": "I am in Chicago"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre possum meam raedam",
+   "def1": "я можу доглядати свою машину",
+   "ipa": "aɪ kæn teɪk kɛr ʌv maɪ kɑr",
+   "spell": "I can take care of my car"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre possum meam fēlem",
+   "def1": "я можу доглядати свого кота",
+   "ipa": "aɪ kæn teɪk kɛr ʌv maɪ kæt",
+   "spell": "I can take care of my cat"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre possum meōs līberōs",
+   "def1": "я можу доглядати своїх дітей",
+   "ipa": "aɪ kæn teɪk kɛr ʌv maɪ ˈʧɪldrən",
+   "spell": "I can take care of my children"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre possum...",
+   "def1": "я можу доглядати...",
+   "ipa": "aɪ kæn teɪk kɛr ʌv...",
+   "spell": "I can take care of..."
+ },
+ {
+   "cefr": "",
+   "def2": "nōn meminī",
+   "def1": "я не пам'ятаю",
+   "ipa": "aɪ du nɑt rɪˈmɛmbər",
+   "spell": "I do not remember"
+ },
+ {
+   "cefr": "",
+   "def2": "mittam tibi pensum",
+   "def1": "я надішлю вам домашнє завдання",
+   "ipa": "aɪ wɪl sɛnd ˈhoʊmˌwɜrk tu ju",
+   "spell": "I will send homework to you"
+ },
+ {
+   "cefr": "",
+   "def2": "in hāc lēctiōne",
+   "def1": "на цьому уроці",
+   "ipa": "ɪn ðɪs ˈlɛsən",
+   "spell": "in this lesson"
+ },
+ {
+   "cefr": "",
+   "def2": "in linguā tuā",
+   "def1": "вашою мовою",
+   "ipa": "ɪn jʊər ˈlæŋɡwəʤ",
+   "spell": "in your language"
+ },
+ {
+   "cefr": "",
+   "def2": "estne Chicāgō urbs jūcunda?",
+   "def1": "Чикаго - гарне місто?",
+   "ipa": "ɪz ʃəˈkɑˌɡoʊ ə naɪs ˈsɪti?",
+   "spell": "is Chicago a nice city?"
+ },
+ {
+   "cefr": "",
+   "def2": "vesper est?",
+   "def1": "зараз вечір?",
+   "ipa": "ɪz ɪt ˈivnɪŋ?",
+   "spell": "is it evening?"
+ },
+ {
+   "cefr": "",
+   "def2": "merīdiēs est",
+   "def1": "зараз день",
+   "ipa": "ɪt ɪz ˌæftərˈnun",
+   "spell": "it is afternoon"
+ },
+ {
+   "cefr": "",
+   "def2": "vesper est Chicāgīne",
+   "def1": "у Чикаго вечір",
+   "ipa": "ɪt ɪz ˈivnɪŋ ɪn ʃəˈkɑˌɡoʊ",
+   "spell": "it is evening in Chicago"
+ },
+ {
+   "cefr": "",
+   "def2": "magnī momentī est",
+   "def1": "це важливо",
+   "ipa": "ɪt ɪz ɪmˈpɔrtənt",
+   "spell": "it is important"
+ },
+ {
+   "cefr": "",
+   "def2": "valdē jūcundum est",
+   "def1": "це дуже приємно",
+   "ipa": "ɪt ɪz ˈvɛri naɪs",
+   "spell": "it is very nice"
+ },
+ {
+   "cefr": "",
+   "def2": "contrōlēmus",
+   "def1": "давайте перевіримо",
+   "ipa": "lɛt ʌs ʧɛk",
+   "spell": "let us check"
+ },
+ {
+   "cefr": "",
+   "def2": "exercēāmus",
+   "def1": "давайте попрактикуємося",
+   "ipa": "lɛts ˈpræktəs",
+   "spell": "let's practice"
+ },
+ {
+   "cefr": "",
+   "def2": "audī eōs",
+   "def1": "слухайте їх",
+   "ipa": "ˈlɪsən tu ðɛm",
+   "spell": "listen to them"
+ },
+ {
+   "cefr": "",
+   "def2": "diū tē nōn vīdī!",
+   "def1": "давно не бачилися!",
+   "ipa": "lɔŋ taɪm noʊ si!",
+   "spell": "long time no see!"
+ },
+ {
+   "cefr": "",
+   "def2": "multī hominēs",
+   "def1": "багато людей",
+   "ipa": "ˈmɛni ˈpipəl",
+   "spell": "many people"
+ },
+ {
+   "cefr": "",
+   "def2": "nihil aliud",
+   "def1": "більше нічого",
+   "ipa": "ˈnʌθɪŋ ɛls",
+   "spell": "nothing else"
+ },
+ {
+   "cefr": "",
+   "def2": "līberōrum meōrum",
+   "def1": "моїх дітей",
+   "ipa": "ʌv maɪ ˈʧɪldrən",
+   "spell": "of my children"
+ },
+ {
+   "cefr": "",
+   "def2": "sorōris meae",
+   "def1": "моєї сестри",
+   "ipa": "ʌv maɪ ˈsɪstər",
+   "spell": "of my sister"
+ },
+ {
+   "cefr": "",
+   "def2": "tempus nostrum abiit!",
+   "def1": "наш час вийшов!",
+   "ipa": "ˈaʊər taɪm ɪz ʌp!",
+   "spell": "our time is up!"
+ },
+ {
+   "cefr": "",
+   "def2": "attende",
+   "def1": "зверніть увагу",
+   "ipa": "peɪ əˈtɛnʃən",
+   "spell": "pay attention"
+ },
+ {
+   "cefr": "",
+   "def2": "Petrus problēma habet",
+   "def1": "у Петра проблема",
+   "ipa": "ˈpitər hæz ə ˈprɑbləm",
+   "spell": "Peter has a problem"
+ },
+ {
+   "cefr": "",
+   "def2": "problēma Petri",
+   "def1": "проблема Петра",
+   "ipa": "ˈpitərz ˈprɑbləm",
+   "spell": "Peter's problem"
+ },
+ {
+   "cefr": "",
+   "def2": "prōnūntiātiō",
+   "def1": "вимова",
+   "ipa": "prəˌnʌnsiˈeɪʃən",
+   "spell": "pronunciation"
+ },
+ {
+   "cefr": "",
+   "def2": "lege, quaesō",
+   "def1": "читайте, будь ласка",
+   "ipa": "rid, pliz",
+   "spell": "read, please"
+ },
+ {
+   "cefr": "",
+   "def2": "iterā post mē",
+   "def1": "повторюйте за мною",
+   "ipa": "rɪˈpit ˈæftər mi",
+   "spell": "repeat after me"
+ },
+ {
+   "cefr": "",
+   "def2": "dīc illud Anglicē",
+   "def1": "скажіть це англійською",
+   "ipa": "seɪ ðæt ɪn ˈɪŋɡlɪʃ",
+   "spell": "say that in English"
+ },
+ {
+   "cefr": "",
+   "def2": "mitte ea mihi",
+   "def1": "надішліть їх мені",
+   "ipa": "sɛnd ðɛm tu mi",
+   "spell": "send them to me"
+ },
+ {
+   "cefr": "",
+   "def2": "ea ratiōnem suam dat",
+   "def1": "вона називає свою причину",
+   "ipa": "ʃi ɡɪvz hɜr ˈrizən",
+   "spell": "she gives her reason"
+ },
+ {
+   "cefr": "",
+   "def2": "tot",
+   "def1": "так багато",
+   "ipa": "soʊ ˈmɛni",
+   "spell": "so many"
+ },
+ {
+   "cefr": "",
+   "def2": "tot raedae!",
+   "def1": "стільки машин!",
+   "ipa": "soʊ ˈmɛni kɑrz!",
+   "spell": "so many cars!"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquis",
+   "def1": "хтось",
+   "ipa": "ˈsʌmˌbɑdi",
+   "spell": "somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquis aeger est",
+   "def1": "хтось хворий",
+   "ipa": "ˈsʌmˌbɑdi ɪz sɪk",
+   "spell": "somebody is sick"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquid simile",
+   "def1": "щось подібне",
+   "ipa": "ˈsʌmθɪŋ laɪk",
+   "spell": "something like"
+ },
+ {
+   "cefr": "",
+   "def2": "orthographia",
+   "def1": "орфографія",
+   "ipa": "ˈspɛlɪŋ",
+   "spell": "spelling"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrā raedam meam!",
+   "def1": "доглядайте мою машину!",
+   "ipa": "teɪk kɛr ʌv maɪ kɑr!",
+   "spell": "take care of my car!"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrā līberōs meōs!",
+   "def1": "доглядайте моїх дітей!",
+   "ipa": "teɪk kɛr ʌv maɪ ˈʧɪldrən!",
+   "spell": "take care of my children!"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrā tē!",
+   "def1": "дбайте про себе!",
+   "ipa": "teɪk kɛr!",
+   "spell": "Take care!"
+ },
+ {
+   "cefr": "",
+   "def2": "dīc mihi, quaesō",
+   "def1": "скажіть мені, будь ласка",
+   "ipa": "tɛl mi, pliz",
+   "spell": "tell me, please"
+ },
+ {
+   "cefr": "",
+   "def2": "idem est",
+   "def1": "це те саме",
+   "ipa": "ðæt ɪz ðə seɪm θɪŋ",
+   "spell": "that is the same thing"
+ },
+ {
+   "cefr": "",
+   "def2": "fōrma longa",
+   "def1": "довга форма",
+   "ipa": "ðə lɔŋ fɔrm",
+   "spell": "the long form"
+ },
+ {
+   "cefr": "",
+   "def2": "plūrāle mulieris",
+   "def1": "множина від \"жінка\"",
+   "ipa": "ðə ˈplʊrəl ʌv ˈwʊmən",
+   "spell": "the plural of woman"
+ },
+ {
+   "cefr": "",
+   "def2": "Chicāgōne sunt",
+   "def1": "вони в Чикаго",
+   "ipa": "ðeɪ ɑr ɪn ʃəˈkɑˌɡoʊ",
+   "spell": "they are in Chicago"
+ },
+ {
+   "cefr": "",
+   "def2": "hōc modō",
+   "def1": "ось як",
+   "ipa": "ðɪs ɪz haʊ",
+   "spell": "this is how"
+ },
+ {
+   "cefr": "",
+   "def2": "hōc modō salūtāmus",
+   "def1": "ось як ми вітаємо людей",
+   "ipa": "ðɪs ɪz haʊ wi ɡrit ˈpipəl",
+   "spell": "this is how we greet people"
+ },
+ {
+   "cefr": "",
+   "def2": "tempus",
+   "def1": "час",
+   "ipa": "taɪm",
+   "spell": "time"
+ },
+ {
+   "cefr": "",
+   "def2": "tempus diēī",
+   "def1": "час доби",
+   "ipa": "taɪm ʌv deɪ",
+   "spell": "time of day"
+ },
+ {
+   "cefr": "",
+   "def2": "contrōlāre",
+   "def1": "перевіряти",
+   "ipa": "tu ʧɛk",
+   "spell": "to check"
+ },
+ {
+   "cefr": "",
+   "def2": "fruī",
+   "def1": "насолоджуватися",
+   "ipa": "tu ɛnˈʤɔɪ",
+   "spell": "to enjoy"
+ },
+ {
+   "cefr": "",
+   "def2": "salūtāre",
+   "def1": "вітати",
+   "ipa": "tu ɡrit",
+   "spell": "to greet"
+ },
+ {
+   "cefr": "",
+   "def2": "aliquem convenīre",
+   "def1": "зустрічати когось",
+   "ipa": "tu mit ˈsʌmˌbɑdi",
+   "spell": "to meet somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "meminisse",
+   "def1": "пам'ятати",
+   "ipa": "tu rɪˈmɛmbər",
+   "spell": "to remember"
+ },
+ {
+   "cefr": "",
+   "def2": "capere",
+   "def1": "брати",
+   "ipa": "tu teɪk",
+   "spell": "to take"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre",
+   "def1": "доглядати",
+   "ipa": "tu teɪk kɛr",
+   "spell": "to take care"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre ejus",
+   "def1": "доглядати за нею",
+   "ipa": "tu teɪk kɛr ʌv hɜr",
+   "spell": "to take care of her"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre amīcum meum",
+   "def1": "доглядати за моїм другом",
+   "ipa": "tu teɪk kɛr ʌv maɪ frɛnd",
+   "spell": "to take care of my friend"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre mātrem meam",
+   "def1": "доглядати за моєю мамою",
+   "ipa": "tu teɪk kɛr ʌv maɪ mɑm",
+   "spell": "to take care of my mom"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre aliquem",
+   "def1": "доглядати за кимось",
+   "ipa": "tu teɪk kɛr ʌv ˈsʌmˌbɑdi",
+   "spell": "to take care of somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "cūrāre aliquid",
+   "def1": "доглядати за чимось",
+   "ipa": "tu teɪk kɛr ʌv ˈsʌmθɪŋ",
+   "spell": "to take care of something"
+ },
+ {
+   "cefr": "",
+   "def2": "salūtāre omnēs",
+   "def1": "вітати всіх",
+   "ipa": "tu juz ˈɡritɪŋz wɪð ˈɛvriˌwʌn",
+   "spell": "to use greetings with everyone"
+ },
+ {
+   "cefr": "",
+   "def2": "hodiē",
+   "def1": "сьогодні",
+   "ipa": "təˈdeɪ",
+   "spell": "today"
+ },
+ {
+   "cefr": "",
+   "def2": "quoque",
+   "def1": "також",
+   "ipa": "tu",
+   "spell": "too"
+ },
+ {
+   "cefr": "",
+   "def2": "salūtāmus",
+   "def1": "ми вітаємо людей",
+   "ipa": "wi ɡrit ˈpipəl",
+   "spell": "we greet people"
+ },
+ {
+   "cefr": "",
+   "def2": "habēmus aliquās optiōnēs",
+   "def1": "у нас є варіанти",
+   "ipa": "wi hæv sʌm ˈɑpʃənz",
+   "spell": "we have some options"
+ },
+ {
+   "cefr": "",
+   "def2": "discimus dē salūtātiōnibus",
+   "def1": "ми вивчаємо привітання",
+   "ipa": "wi lɜrn əˈbaʊt ˈɡritɪŋz",
+   "spell": "we learn about greetings"
+ },
+ {
+   "cefr": "",
+   "def2": "quid potes cūrāre?",
+   "def1": "за ким/чим ти можеш доглядати?",
+   "ipa": "wɑt kæn ju teɪk kɛr ʌv?",
+   "spell": "what can you take care of?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid dīcimus?",
+   "def1": "що ми говоримо?",
+   "ipa": "wɑt du wi seɪ?",
+   "spell": "what do we say?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid dīcis?",
+   "def1": "що ви говорите?",
+   "ipa": "wɑt du ju seɪ?",
+   "spell": "what do you say?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid cōgitās?",
+   "def1": "що ви думаєте?",
+   "ipa": "wɑt du ju θɪŋk?",
+   "spell": "what do you think?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid aliud?",
+   "def1": "що ще?",
+   "ipa": "wɑt ɛls?",
+   "spell": "what else?"
+ },
+ {
+   "cefr": "",
+   "def2": "cum eōs convenīs",
+   "def1": "коли ви їх зустрічаєте",
+   "ipa": "wɛn ju mit ðɛm",
+   "spell": "when you meet them"
+ },
+ {
+   "cefr": "",
+   "def2": "cum valēdīcis",
+   "def1": "коли ви прощаєтеся",
+   "ipa": "wɛn ju seɪ ɡʊd baɪ",
+   "spell": "when you say good bye"
+ },
+ {
+   "cefr": "",
+   "def2": "ubi nunc sunt?",
+   "def1": "де вони зараз?",
+   "ipa": "wɛr ɑr ðeɪ naʊ?",
+   "spell": "where are they now?"
+ },
+ {
+   "cefr": "",
+   "def2": "quis alius?",
+   "def1": "хто ще?",
+   "ipa": "hu ɛls?",
+   "spell": "who else?"
+ },
+ {
+   "cefr": "",
+   "def2": "cūr Chicāgōne es?",
+   "def1": "чому ви в Чикаго?",
+   "ipa": "waɪ ɑr ju ɪn ʃəˈkɑˌɡoʊ?",
+   "spell": "why are you in Chicago?"
+ },
+ {
+   "cefr": "",
+   "def2": "cūr?",
+   "def1": "чому?",
+   "ipa": "waɪ?",
+   "spell": "why?"
+ },
+ {
+   "cefr": "",
+   "def2": "dīcere potes",
+   "def1": "ви можете сказати",
+   "ipa": "ju kæn seɪ",
+   "spell": "you can say"
+ },
+ {
+   "cefr": "",
+   "def2": "īs ad Costcō",
+   "def1": "ви їдете до Costco",
+   "ipa": "ju ɡoʊ tu ˈkɔstkoʊ",
+   "spell": "you go to Costco"
+ },
+ {
+   "cefr": "",
+   "def2": "raedam tuam pōnīs",
+   "def1": "ви паркуєте свою машину",
+   "ipa": "ju pɑrk jʊər kɑr",
+   "spell": "you park your car"
+ },
+ {
+   "cefr": "",
+   "def2": "prīma linguā tua",
+   "def1": "ваша рідна мова",
+   "ipa": "jʊər fɜrst ˈlæŋɡwəʤ",
+   "spell": "your first language"
+ }
+]
