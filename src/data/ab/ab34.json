@@ -1,0 +1,653 @@
+[
+ {
+   "cefr": "",
+   "def2": "situla",
+   "def1": "ведро",
+   "ipa": "ə ˈbʌkət",
+   "spell": "a bucket"
+ },
+ {
+   "cefr": "",
+   "def2": "dummy \"facere\"",
+   "def1": "фиктивный \"do\"",
+   "ipa": "ə ˈdʌmi \"du\"",
+   "spell": "a dummy \"do\""
+ },
+ {
+   "cefr": "",
+   "def2": "fōrmālitās",
+   "def1": "формальность",
+   "ipa": "ə fɔrˈmæləti",
+   "spell": "a formality"
+ },
+ {
+   "cefr": "",
+   "def2": "verbum prīncipāle",
+   "def1": "главный глагол",
+   "ipa": "ə meɪn vɜrb",
+   "spell": "a main verb"
+ },
+ {
+   "cefr": "",
+   "def2": "quaestiō",
+   "def1": "вопрос",
+   "ipa": "ə ˈkwɛsʧən",
+   "spell": "a question"
+ },
+ {
+   "cefr": "",
+   "def2": "littera vōcālis",
+   "def1": "гласная буква",
+   "ipa": "ə ˈvaʊəl ˈlɛtər",
+   "spell": "a vowel letter"
+ },
+ {
+   "cefr": "",
+   "def2": "sōnus vōcālis",
+   "def1": "гласный звук",
+   "ipa": "ə ˈvaʊəl saʊnd",
+   "spell": "a vowel sound"
+ },
+ {
+   "cefr": "",
+   "def2": "verbum irrēgulāre",
+   "def1": "неправильный глагол",
+   "ipa": "ən ɪˈrɛɡjələr vɜrb",
+   "spell": "an irregular verb"
+ },
+ {
+   "cefr": "",
+   "def2": "amāsne mē?",
+   "def1": "ты меня любишь?",
+   "ipa": "du ju lʌv mi?",
+   "spell": "do you love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "nōnne mē amās?",
+   "def1": "разве ты меня не любишь?",
+   "ipa": "du ju nɑt lʌv mi?",
+   "spell": "do you not love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "num mē amās?",
+   "def1": "неужели ты меня не любишь?",
+   "ipa": "du ju nɑt lʌv mi? doʊnt ju lʌv mi?",
+   "spell": "do you not love me? don't you love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "ecquid mē amat?",
+   "def1": "он меня любит?",
+   "ipa": "dʌz hi lʌv mi?",
+   "spell": "does he love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "nōnne mē amat?",
+   "def1": "разве он меня не любит?",
+   "ipa": "dʌz hi nɑt lʌv mi?",
+   "spell": "does he not love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "ecquid labōrat?",
+   "def1": "работает?",
+   "ipa": "dʌz hi/ɪt wɜrk?",
+   "spell": "does he/it work?"
+ },
+ {
+   "cefr": "",
+   "def2": "num mē amat?",
+   "def1": "неужели он меня не любит?",
+   "ipa": "ˈdʌzənt hi lʌv mi?",
+   "spell": "doesn't he love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "nōnne mē amās?",
+   "def1": "разве ты меня не любишь?",
+   "ipa": "doʊnt ju lʌv mi?",
+   "spell": "don't you love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "cētera omnia",
+   "def1": "всё остальное",
+   "ipa": "ˈɛvriˌθɪŋ ɛls",
+   "spell": "everything else"
+ },
+ {
+   "cefr": "",
+   "def2": "complē lacūnās",
+   "def1": "заполни пропуски",
+   "ipa": "fɪl ɪn ðə blæŋks",
+   "spell": "fill in the blanks"
+ },
+ {
+   "cefr": "",
+   "def2": "scrībe nōmen tuum",
+   "def1": "впиши своё имя",
+   "ipa": "fɪl ɪn jʊər neɪm",
+   "spell": "fill in your name"
+ },
+ {
+   "cefr": "",
+   "def2": "complē quaestiōnārium",
+   "def1": "заполни анкету",
+   "ipa": "fɪl aʊt ðə ˌkwɛsʧəˈnɛr",
+   "spell": "fill out the questionnaire"
+ },
+ {
+   "cefr": "",
+   "def2": "complē hanc applicātiōnem",
+   "def1": "заполни это заявление",
+   "ipa": "fɪl aʊt ðɪs ˌæpləˈkeɪʃən",
+   "spell": "fill out this application"
+ },
+ {
+   "cefr": "",
+   "def2": "complē hoc",
+   "def1": "заполни это",
+   "ipa": "fɪl ðɪs aʊt",
+   "spell": "fill this out"
+ },
+ {
+   "cefr": "",
+   "def2": "inventōrēs servant",
+   "def1": "кто нашёл, тот себе и оставил",
+   "ipa": "ˈfaɪndərz ˈkipərz",
+   "spell": "finders keepers"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn rīdet",
+   "def1": "он не смеётся",
+   "ipa": "hi dʌz nɑt læf",
+   "spell": "he does not laugh"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn mē amat",
+   "def1": "он меня не любит",
+   "ipa": "hi dʌz nɑt lʌv mi",
+   "spell": "he does not love me"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn labōrat",
+   "def1": "он не работает",
+   "ipa": "hi dʌz nɑt wɜrk",
+   "spell": "he does not work"
+ },
+ {
+   "cefr": "",
+   "def2": "amōrem habet",
+   "def1": "у него есть любовь",
+   "ipa": "hi hæz lʌv",
+   "spell": "he has love"
+ },
+ {
+   "cefr": "",
+   "def2": "rīdet",
+   "def1": "смеётся",
+   "ipa": "hi læfs",
+   "spell": "he laughs"
+ },
+ {
+   "cefr": "",
+   "def2": "mē amat",
+   "def1": "он меня любит",
+   "ipa": "hi lʌvz mi",
+   "spell": "he loves me"
+ },
+ {
+   "cefr": "",
+   "def2": "labōrat",
+   "def1": "он работает",
+   "ipa": "hi wɜrks",
+   "spell": "he works"
+ },
+ {
+   "cefr": "",
+   "def2": "quōmodo litterās dīcis?",
+   "def1": "как ты пишешь по буквам?",
+   "ipa": "haʊ du ju spɛl?",
+   "spell": "how do you spell?"
+ },
+ {
+   "cefr": "",
+   "def2": "amōrem habeō",
+   "def1": "имею любовь",
+   "ipa": "aɪ hæv lʌv",
+   "spell": "I have love"
+ },
+ {
+   "cefr": "",
+   "def2": "in parenthesī",
+   "def1": "в скобках",
+   "ipa": "ɪn pəˈrɛnθəˌsiz",
+   "spell": "in parentheses"
+ },
+ {
+   "cefr": "",
+   "def2": "tuum jam est!",
+   "def1": "оно принадлежит тебе теперь!",
+   "ipa": "ɪt bɪˈlɔŋz tu ju naʊ!",
+   "spell": "it belongs to you now!"
+ },
+ {
+   "cefr": "",
+   "def2": "perge facere",
+   "def1": "продолжай делать",
+   "ipa": "kip ˈduɪŋ",
+   "spell": "keep doing"
+ },
+ {
+   "cefr": "",
+   "def2": "servā mundum",
+   "def1": "держи это в чистоте",
+   "ipa": "kip ɪt klin",
+   "spell": "keep it clean"
+ },
+ {
+   "cefr": "",
+   "def2": "servā tūtum!",
+   "def1": "храни это в безопасности!",
+   "ipa": "kip ɪt seɪf!",
+   "spell": "keep it safe!"
+ },
+ {
+   "cefr": "",
+   "def2": "servā sēcrētum!",
+   "def1": "храни это в тайне!",
+   "ipa": "kip ɪt ˈsikrət!",
+   "spell": "keep it secret!"
+ },
+ {
+   "cefr": "",
+   "def2": "servā id!",
+   "def1": "держи это!",
+   "ipa": "kip ɪt!",
+   "spell": "keep it!"
+ },
+ {
+   "cefr": "",
+   "def2": "perge loquī",
+   "def1": "продолжай говорить",
+   "ipa": "kip ˈspikɪŋ",
+   "spell": "keep speaking"
+ },
+ {
+   "cefr": "",
+   "def2": "servā mūtātiōnem!",
+   "def1": "оставьте сдачу себе! сдачи не надо.",
+   "ipa": "kip ðə ʧeɪnʤ!",
+   "spell": "keep the change!"
+ },
+ {
+   "cefr": "",
+   "def2": "perge putāre",
+   "def1": "продолжай думать",
+   "ipa": "kip ˈθɪŋkɪŋ",
+   "spell": "keep thinking"
+ },
+ {
+   "cefr": "",
+   "def2": "perge cōnārī",
+   "def1": "продолжай пытаться",
+   "ipa": "kip ˈtraɪɪŋ",
+   "spell": "keep trying"
+ },
+ {
+   "cefr": "",
+   "def2": "fortasse fōrmālitās erat?",
+   "def1": "может, это была формальность?",
+   "ipa": "ˈmeɪbi ɪt wʌz ə fɔrˈmæləti?",
+   "spell": "maybe it was a formality?"
+ },
+ {
+   "cefr": "",
+   "def2": "fōrmālior",
+   "def1": "более формальный",
+   "ipa": "mɔr ˈfɔrməl",
+   "spell": "more formal"
+ },
+ {
+   "cefr": "",
+   "def2": "negātīvus",
+   "def1": "отрицательный",
+   "ipa": "ˈnɛɡətɪv",
+   "spell": "negative"
+ },
+ {
+   "cefr": "",
+   "def2": "nūgae",
+   "def1": "чепуха",
+   "ipa": "ˈnɑnsɛns",
+   "spell": "nonsense"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn satis",
+   "def1": "недостаточно",
+   "ipa": "nɑt ɪˈnʌf",
+   "spell": "not enough"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn multae mūtātiōnēs",
+   "def1": "немного изменений",
+   "ipa": "nɑt ˈmɛni ˈʧeɪnʤəz",
+   "spell": "not many changes"
+ },
+ {
+   "cefr": "",
+   "def2": "ūna rēgula",
+   "def1": "одно правило",
+   "ipa": "wʌn rul",
+   "spell": "one rule"
+ },
+ {
+   "cefr": "",
+   "def2": "ūnus tantum",
+   "def1": "только один",
+   "ipa": "ˈoʊnli wʌn",
+   "spell": "only one"
+ },
+ {
+   "cefr": "",
+   "def2": "positīvus",
+   "def1": "положительный",
+   "ipa": "ˈpɑzətɪv",
+   "spell": "positive"
+ },
+ {
+   "cefr": "",
+   "def2": "quī in exercitū mīlitāvit, is in circō nōn rīdet",
+   "def1": "кто в армии служил, тот в цирке не смеётся",
+   "ipa": "hi hu hæz sɜrvd ɪn ði ˈɑrmi ˈdʌzənt læf æt ðə ˈsɜrkəs",
+   "spell": "he who has served in the army doesn't laugh at the circus"
+ },
+ {
+   "cefr": "",
+   "def2": "lātē",
+   "def1": "вширь",
+   "ipa": "ˈsaɪˌdweɪz",
+   "spell": "sideways"
+ },
+ {
+   "cefr": "",
+   "def2": "orthographia",
+   "def1": "правописание",
+   "ipa": "ˈspɛlɪŋ",
+   "spell": "spelling"
+ },
+ {
+   "cefr": "",
+   "def2": "modus conjunctīvus",
+   "def1": "сослагательное наклонение",
+   "ipa": "ðə kənˈdʒʌŋktɪv mud",
+   "spell": "the conjunctive mood"
+ },
+ {
+   "cefr": "",
+   "def2": "subiectum",
+   "def1": "подлежащее",
+   "ipa": "ðə ˈsʌbʤɪkt",
+   "spell": "the subject"
+ },
+ {
+   "cefr": "",
+   "def2": "tertia persōna singulāris",
+   "def1": "третье лицо единственного числа",
+   "ipa": "θɜrd ˈpɜrsən ˈsɪŋɡjələr",
+   "spell": "third person singular"
+ },
+ {
+   "cefr": "",
+   "def2": "tria genera sententiae",
+   "def1": "три типа предложения",
+   "ipa": "θri taɪps ʌv ˈsɛntəns",
+   "spell": "three types of sentence"
+ },
+ {
+   "cefr": "",
+   "def2": "esse",
+   "def1": "быть",
+   "ipa": "tu bi",
+   "spell": "to be"
+ },
+ {
+   "cefr": "",
+   "def2": "servāre aliquid mundum",
+   "def1": "содержать что-то в чистоте",
+   "ipa": "tu kip ˈsʌmθɪŋ klin",
+   "spell": "to keep something clean"
+ },
+ {
+   "cefr": "",
+   "def2": "rīdēre",
+   "def1": "смеяться",
+   "ipa": "tu læf",
+   "spell": "to laugh"
+ },
+ {
+   "cefr": "",
+   "def2": "rescribere",
+   "def1": "переписывать",
+   "ipa": "tu riˈraɪt",
+   "spell": "to rewrite"
+ },
+ {
+   "cefr": "",
+   "def2": "litterāre",
+   "def1": "произносить по буквам",
+   "ipa": "tu spɛl",
+   "spell": "to spell"
+ },
+ {
+   "cefr": "",
+   "def2": "sine \"facere\" negātīva nōn possumus",
+   "def1": "мы не можем делать отрицания без \"do\"",
+   "ipa": "wi ˈkænɑt meɪk ˈnɛɡətɪvz wɪˈθaʊt \"du\"",
+   "spell": "we cannot make negatives without \"do\""
+ },
+ {
+   "cefr": "",
+   "def2": "sine \"facere\" quaestiōnēs nōn possumus",
+   "def1": "мы не можем задавать вопросы без \"do\"",
+   "ipa": "wi ˈkænɑt meɪk ˈkwɛsʧənz wɪˈθaʊt \"du\"",
+   "spell": "we cannot make questions without \"do\""
+ },
+ {
+   "cefr": "",
+   "def2": "quid facis?",
+   "def1": "что ты делаешь?",
+   "ipa": "wɑt du ju du?",
+   "spell": "what do you do?"
+ },
+ {
+   "cefr": "",
+   "def2": "quod nōn occidit, fortius facit",
+   "def1": "что нас не убивает, делает нас сильнее",
+   "ipa": "wɑt dʌz nɑt kɪl ʌs meɪks ʌs ˈstrɔŋər",
+   "spell": "what does not kill us makes us stronger"
+ },
+ {
+   "cefr": "",
+   "def2": "quid facit?",
+   "def1": "что она делает?",
+   "ipa": "wɑt dʌz ʃi du?",
+   "spell": "what does she do?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid aliud?",
+   "def1": "что ещё?",
+   "ipa": "wɑt ɛls",
+   "spell": "what else"
+ },
+ {
+   "cefr": "",
+   "def2": "quid aliud mūtāmus?",
+   "def1": "что ещё мы меняем?",
+   "ipa": "wɑt ɛls du wi ʧeɪnʤ?",
+   "spell": "what else do we change?"
+ },
+ {
+   "cefr": "",
+   "def2": "quid aliud vīs?",
+   "def1": "что ещё ты хочешь?",
+   "ipa": "wɑt ɛls du ju wɑnt?",
+   "spell": "what else do you want?"
+ },
+ {
+   "cefr": "",
+   "def2": "ubi labōrat?",
+   "def1": "где он работает?",
+   "ipa": "wɛr dʌz hi wɜrk?",
+   "spell": "where does he work?"
+ },
+ {
+   "cefr": "",
+   "def2": "quae sunt",
+   "def1": "которые суть...",
+   "ipa": "wɪʧ ɑr...",
+   "spell": "which are..."
+ },
+ {
+   "cefr": "",
+   "def2": "cūr?",
+   "def1": "почему?",
+   "ipa": "waɪ?",
+   "spell": "why?"
+ },
+ {
+   "cefr": "",
+   "def2": "lātitūdināliter",
+   "def1": "вширь",
+   "ipa": "ˈwɪdθwaɪz",
+   "spell": "widthwise"
+ },
+ {
+   "cefr": "",
+   "def2": "placetne tibi hunc labōrem dēmittere?",
+   "def1": "ты хочешь уволиться с этой работы?",
+   "ipa": "wʊd ju laɪk tu kwɪt ðɪs ʤɑb?",
+   "spell": "would you like to quit this job?"
+ },
+ {
+   "cefr": "",
+   "def2": "habēre potes",
+   "def1": "ты можешь иметь",
+   "ipa": "ju kæn hæv",
+   "spell": "you can have"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn mē amās",
+   "def1": "ты меня не любишь",
+   "ipa": "ju du nɑt lʌv mi",
+   "spell": "you do not love me"
+ },
+ {
+   "cefr": "",
+   "def2": "amōrem habēs",
+   "def1": "у тебя есть любовь",
+   "ipa": "ju hæv lʌv",
+   "spell": "you have love"
+ },
+ {
+   "cefr": "",
+   "def2": "mē amās",
+   "def1": "ты меня любишь",
+   "ipa": "ju lʌv mi",
+   "spell": "you love me"
+ },
+ {
+   "cefr": "",
+   "def2": "lātē",
+   "def1": "вширь",
+   "ipa": "ˈbrɔdwaɪz",
+   "spell": "broadwise"
+ },
+ {
+   "cefr": "",
+   "def2": "facit",
+   "def1": "делает",
+   "ipa": "dʌz",
+   "spell": "does"
+ },
+ {
+   "cefr": "",
+   "def2": "faciō",
+   "def1": "делаю",
+   "ipa": "aɪ du",
+   "spell": "I do"
+ },
+ {
+   "cefr": "",
+   "def2": "eō",
+   "def1": "иду",
+   "ipa": "aɪ ɡoʊ",
+   "spell": "I go"
+ },
+ {
+   "cefr": "",
+   "def2": "it",
+   "def1": "идёт",
+   "ipa": "ɪt ɡoʊz",
+   "spell": "it goes"
+ },
+ {
+   "cefr": "",
+   "def2": "spectat",
+   "def1": "наблюдает",
+   "ipa": "hi ˈwɑʧəz",
+   "spell": "he watches"
+ },
+ {
+   "cefr": "",
+   "def2": "esse",
+   "def1": "находиться",
+   "ipa": "tu bi",
+   "spell": "to be"
+ },
+ {
+   "cefr": "",
+   "def2": "habet",
+   "def1": "имеет",
+   "ipa": "hi hæz",
+   "spell": "he has"
+ },
+ {
+   "cefr": "",
+   "def2": "interstrātum",
+   "def1": "прокладка",
+   "ipa": "ə ˈlaɪnər",
+   "spell": "a liner"
+ },
+ {
+   "cefr": "",
+   "def2": "mē perturbāvit",
+   "def1": "это сбило меня с панталыку",
+   "ipa": "ɪt θru mi ɔf træk",
+   "spell": "it threw me off track"
+ },
+ {
+   "cefr": "",
+   "def2": "habeō",
+   "def1": "имею",
+   "ipa": "aɪ hæv",
+   "spell": "I have"
+ },
+ {
+   "cefr": "",
+   "def2": "esse",
+   "def1": "являться",
+   "ipa": "tu bi",
+   "spell": "to be"
+ }
+]
