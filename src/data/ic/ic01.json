@@ -1,506 +1,506 @@
 [
- {
-   "cefr": "",
-   "def2": "A cum B congruit",
-   "def1": "A соответствует B",
-   "ipa": "ə ˈmæʧəz bi",
-   "spell": "A matches B"
- },
- {
-   "cefr": "",
-   "def2": "A cum B convenit",
-   "def1": "A подходит к/под B",
-   "ipa": "ə ɡoʊz wɪð bi",
-   "spell": "A goes with B"
- },
- {
-   "cefr": "",
-   "def2": "amplā māgnitūdinis est",
-   "def1": "он плюс сайз",
-   "ipa": "hi ɪz plʌs saɪz",
-   "spell": "he is plus size"
- },
- {
-   "cefr": "",
-   "def2": "arbor",
-   "def1": "дерево",
-   "ipa": "ə tri",
-   "spell": "a tree"
- },
- {
-   "cefr": "",
-   "def2": "attentē spectāre",
-   "def1": "смотреть внимательно",
-   "ipa": "tu lʊk ˈkɛrfəli",
-   "spell": "to look carefully"
- },
- {
-   "cefr": "",
-   "def2": "audī et dēcernere",
-   "def1": "послушай и реши",
-   "ipa": "ˈlɪsən ænd ˌdɪˈsaɪd",
-   "spell": "listen and decide"
- },
- {
-   "cefr": "",
-   "def2": "audīāmus iterum",
-   "def1": "давайте послушаем снова",
-   "ipa": "lɛts ˈlɪsən əˈɡɛn",
-   "spell": "let's listen again"
- },
- {
-   "cefr": "",
-   "def2": "Austrālia",
-   "def1": "Австралия",
-   "ipa": "ɔˈstreɪljə",
-   "spell": "Australia"
- },
- {
-   "cefr": "",
-   "def2": "Austrālia Merīdiāna",
-   "def1": "Южная Австралия",
-   "ipa": "saʊθ ɔˈstreɪljə",
-   "spell": "South Australia"
- },
- {
-   "cefr": "",
-   "def2": "bibliothēca",
-   "def1": "библиотека",
-   "ipa": "ə ˈlaɪˌbrɛri",
-   "spell": "a library"
- },
- {
-   "cefr": "",
-   "def2": "bibliothēcārius",
-   "def1": "библиотекарь",
-   "ipa": "ə laɪˈbrɛriən",
-   "spell": "a librarian"
- },
- {
-   "cefr": "",
-   "def2": "cathedrālis",
-   "def1": "собор",
-   "ipa": "ə kəˈθidrəl",
-   "spell": "a cathedral"
- },
- {
-   "cefr": "",
-   "def2": "circā urbem",
-   "def1": "вокруг города",
-   "ipa": "əˈraʊnd ðə ˈsɪti",
-   "spell": "around the city"
- },
- {
-   "cefr": "",
-   "def2": "commodus",
-   "def1": "удобный",
-   "ipa": "ˈkʌmfərtəbəl",
-   "spell": "comfortable"
- },
- {
-   "cefr": "",
-   "def2": "complēre lacūnās",
-   "def1": "заполнять пропуски",
-   "ipa": "tu fɪl ɪn ðə blæŋks",
-   "spell": "to fill in the blanks"
- },
- {
-   "cefr": "",
-   "def2": "complūrēs arbōrēs",
-   "def1": "множество деревьев",
-   "ipa": "lɑts ʌv triz",
-   "spell": "lots of trees"
- },
- {
-   "cefr": "",
-   "def2": "concertum vīvum",
-   "def1": "живой концерт",
-   "ipa": "ə laɪv ˈkɑnsɜrt",
-   "spell": "a live concert"
- },
- {
-   "cefr": "",
-   "def2": "contumēliōsum est",
-   "def1": "это оскорбительно",
-   "ipa": "ɪt ɪz əˈfɛnsɪv",
-   "spell": "it is offensive"
- },
- {
-   "cefr": "",
-   "def2": "crassus es",
-   "def1": "ты толстый",
-   "ipa": "ju ɑr fæt",
-   "spell": "you are fat"
- },
- {
-   "cefr": "",
-   "def2": "crassus mūrus",
-   "def1": "толстая стена",
-   "ipa": "ə θɪk wɔl",
-   "spell": "a thick wall"
- },
- {
-   "cefr": "",
-   "def2": "domus nostra",
-   "def1": "наш дом",
-   "ipa": "ˈaʊər haʊs",
-   "spell": "our house"
- },
- {
-   "cefr": "",
-   "def2": "dē quō loquitur?",
-   "def1": "о чём он говорит?",
-   "ipa": "wɑt dʌz hi tɔk əˈbaʊt?",
-   "spell": "what does he talk about?"
- },
- {
-   "cefr": "",
-   "def2": "dīc tōtam sententiam",
-   "def1": "скажи всё предложение",
-   "ipa": "seɪ ðə hoʊl ˈsɛntəns",
-   "spell": "say the whole sentence"
- },
- {
-   "cefr": "",
-   "def2": "ea est rēgula!",
-   "def1": "это правило!",
-   "ipa": "ðæts ðə rul!",
-   "spell": "that's the rule!"
- },
- {
-   "cefr": "",
-   "def2": "esse",
-   "def1": "быть",
-   "ipa": "tu bi",
-   "spell": "to be"
- },
- {
-   "cefr": "",
-   "def2": "exsistere",
-   "def1": "существовать",
-   "ipa": "tu ɪɡˈzɪst",
-   "spell": "to exist"
- },
- {
-   "cefr": "",
-   "def2": "exsistit",
-   "def1": "это существует",
-   "ipa": "ɪt ɪɡˈzɪsts",
-   "spell": "it exists"
- },
- {
-   "cefr": "",
-   "def2": "ferrum equī",
-   "def1": "подкова (ʊ)",
-   "ipa": "ə hɔrs ʃu",
-   "spell": "a horse shoe"
- },
- {
-   "cefr": "",
-   "def2": "fābula amātōria",
-   "def1": "любовная история",
-   "ipa": "ə roʊˈmæns",
-   "spell": "a romance"
- },
- {
-   "cefr": "",
-   "def2": "fēlēs vīva",
-   "def1": "живая кошка",
-   "ipa": "ə laɪv kæt",
-   "spell": "a live cat"
- },
- {
-   "cefr": "",
-   "def2": "genus librī",
-   "def1": "жанр книги",
-   "ipa": "ə bʊk ˈʒɑnrə",
-   "spell": "a book genre"
- },
- {
-   "cefr": "",
-   "def2": "homīnēs sunt",
-   "def1": "есть люди",
-   "ipa": "ðɛr ɑr ˈpipəl",
-   "spell": "there are people"
- },
- {
-   "cefr": "",
-   "def2": "homō est",
-   "def1": "есть человек",
-   "ipa": "ðɛr ɪz ə ˈpɜrsən",
-   "spell": "there is a person"
- },
- {
-   "cefr": "",
-   "def2": "idem est",
-   "def1": "это то же самое",
-   "ipa": "ɪts ðə seɪm θɪŋ",
-   "spell": "it's the same thing"
- },
- {
-   "cefr": "",
-   "def2": "in bibliothēcā est",
-   "def1": "он находится в библиотеке",
-   "ipa": "hi ɪz ɪn ðə ˈlaɪˌbrɛri",
-   "spell": "he is in the library"
- },
- {
-   "cefr": "",
-   "def2": "in urbe",
-   "def1": "в городе",
-   "ipa": "ɪn ðə ˈsɪti",
-   "spell": "in the city"
- },
- {
-   "cefr": "",
-   "def2": "lege illud",
-   "def1": "прочитай это",
-   "ipa": "rid ɪt",
-   "spell": "read it"
- },
- {
-   "cefr": "",
-   "def2": "liber",
-   "def1": "книга",
-   "ipa": "ə bʊk",
-   "spell": "a book"
- },
- {
-   "cefr": "",
-   "def2": "litterāre",
-   "def1": "произносить по буквам",
-   "ipa": "tu spɛl",
-   "spell": "to spell"
- },
- {
-   "cefr": "",
-   "def2": "lēx",
-   "def1": "закон",
-   "ipa": "ə lɔ",
-   "spell": "a law"
- },
- {
-   "cefr": "",
-   "def2": "magnus est",
-   "def1": "он большой",
-   "ipa": "hi ɪz lɑrʤ",
-   "spell": "he is large"
- },
- {
-   "cefr": "",
-   "def2": "magnus hortus",
-   "def1": "большой парк",
-   "ipa": "ə lɑrʤ pɑrk",
-   "spell": "a large park"
- },
- {
-   "cefr": "",
-   "def2": "meministīne?",
-   "def1": "ты помнишь?",
-   "ipa": "du ju rɪˈmɛmbər?",
-   "spell": "do you remember?"
- },
- {
-   "cefr": "",
-   "def2": "merīdiēs",
-   "def1": "юг",
-   "ipa": "saʊθ",
-   "spell": "south"
- },
- {
-   "cefr": "",
-   "def2": "movēmur",
-   "def1": "мы переезжаем",
-   "ipa": "wi ɑr ˈmuvɪŋ",
-   "spell": "we are moving"
- },
- {
-   "cefr": "",
-   "def2": "multae arbōrēs",
-   "def1": "много деревьев",
-   "ipa": "ə lɑt ʌv triz",
-   "spell": "a lot of trees"
- },
- {
-   "cefr": "",
-   "def2": "multae arbōrēs sunt",
-   "def1": "имеется много деревьев",
-   "ipa": "ðɛr ɑr ə lɑt ʌv triz",
-   "spell": "there are a lot of trees"
- },
- {
-   "cefr": "",
-   "def2": "neque vērum neque falsum",
-   "def1": "ни правда, ни ложь",
-   "ipa": "ˈniðər tru nɔr fɔls",
-   "spell": "neither true nor false"
- },
- {
-   "cefr": "",
-   "def2": "nihil",
-   "def1": "ничего",
-   "ipa": "ˈnʌθɪŋ",
-   "spell": "nothing"
- },
- {
-   "cefr": "",
-   "def2": "nūlla significātiō est",
-   "def1": "нет смысла",
-   "ipa": "ðɛr ɪz noʊ ˈminɪŋ",
-   "spell": "there is no meaning"
- },
- {
-   "cefr": "",
-   "def2": "paucae arbōrēs",
-   "def1": "несколько деревьев",
-   "ipa": "ə fju triz",
-   "spell": "a few trees"
- },
- {
-   "cefr": "",
-   "def2": "paucī hominēs",
-   "def1": "несколько человек",
-   "ipa": "ə fju ˈpipəl",
-   "spell": "a few people"
- },
- {
-   "cefr": "",
-   "def2": "pergere",
-   "def1": "продолжать",
-   "ipa": "tu kənˈtɪnju",
-   "spell": "to continue"
- },
- {
-   "cefr": "",
-   "def2": "plūs quam ūnum",
-   "def1": "больше одного",
-   "ipa": "mɔr ðæn wʌn",
-   "spell": "more than one"
- },
- {
-   "cefr": "",
-   "def2": "praeclārissimus",
-   "def1": "очень яркий",
-   "ipa": "ˈvɛri braɪt",
-   "spell": "very bright"
- },
- {
-   "cefr": "",
-   "def2": "prope mē",
-   "def1": "рядом со мной",
-   "ipa": "nɪr mi",
-   "spell": "near me"
- },
- {
-   "cefr": "",
-   "def2": "pāgina",
-   "def1": "страница",
-   "ipa": "ə peɪʤ",
-   "spell": "a page"
- },
- {
-   "cefr": "",
-   "def2": "pēs",
-   "def1": "ступня",
-   "ipa": "ə fʊt",
-   "spell": "a foot"
- },
- {
-   "cefr": "",
-   "def2": "quō modō ūtimur",
-   "def1": "как мы используем",
-   "ipa": "haʊ wi juz",
-   "spell": "how we use"
- },
- {
-   "cefr": "",
-   "def2": "rāna vīva",
-   "def1": "живая лягушка",
-   "ipa": "ə laɪv frɑɡ",
-   "spell": "a live frog"
- },
- {
-   "cefr": "",
-   "def2": "Rōbīnus Hood",
-   "def1": "Робин Гуд",
-   "ipa": "ˈrɑbən hʊd",
-   "spell": "Robin Hood"
- },
- {
-   "cefr": "",
-   "def2": "scientia fictiōnis",
-   "def1": "научная фантастика",
-   "ipa": "ˈsaɪəns ˈfɪkʃən",
-   "spell": "science fiction"
- },
- {
-   "cefr": "",
-   "def2": "sectiō",
-   "def1": "раздел; секция",
-   "ipa": "ə ˈsɛkʃən",
-   "spell": "a section"
- },
- {
-   "cefr": "",
-   "def2": "sī modo ūnum est",
-   "def1": "только если это один",
-   "ipa": "ˈoʊnli ɪf ɪt ɪz wʌn",
-   "spell": "only if it is one"
- },
- {
-   "cefr": "",
-   "def2": "textus est",
-   "def1": "есть текст",
-   "ipa": "ðɛr ɪz ə tɛkst",
-   "spell": "there is a text"
- },
- {
-   "cefr": "",
-   "def2": "utraque parte",
-   "def1": "обе стороны",
-   "ipa": "boʊθ saɪdz",
-   "spell": "both sides"
- },
- {
-   "cefr": "",
-   "def2": "vērum an falsum",
-   "def1": "правда или ложь",
-   "ipa": "tru ɔr fɔls",
-   "spell": "true or false"
- },
- {
-   "cefr": "",
-   "def2": "vērum est?",
-   "def1": "это правда?",
-   "ipa": "ɪz ɪt tru?",
-   "spell": "is it true?"
- },
- {
-   "cefr": "",
-   "def2": "vīlla cottae",
-   "def1": "коттедж",
-   "ipa": "ə ˈkɑtəʤ",
-   "spell": "a cottage"
- },
- {
-   "cefr": "",
-   "def2": "vīneā",
-   "def1": "виноградник",
-   "ipa": "ə ˈvɪnjərd",
-   "spell": "a vinyard"
- },
- {
-   "cefr": "",
-   "def2": "vīvere",
-   "def1": "жить",
-   "ipa": "tu lɪv",
-   "spell": "to live"
- },
- {
-   "cefr": "",
-   "def2": "Y cum Z comparāre",
-   "def1": "сопоставить Y с Z",
-   "ipa": "tu mæʧ waɪ wɪð zi",
-   "spell": "to match Y with Z"
- }
+  {
+    "cefr": "",
+    "def2": "A cum B congruit",
+    "def1": "A соответствует B",
+    "ipa": "ə ˈmæʧəz bi",
+    "spell": "A matches B"
+  },
+  {
+    "cefr": "",
+    "def2": "A cum B convenit",
+    "def1": "A подходит к/под B",
+    "ipa": "ə ɡoʊz wɪð bi",
+    "spell": "A goes with B"
+  },
+  {
+    "cefr": "",
+    "def2": "amplā māgnitūdinis est",
+    "def1": "он плюс сайз",
+    "ipa": "hi ɪz plʌs saɪz",
+    "spell": "he is plus size"
+  },
+  {
+    "cefr": "",
+    "def2": "arbor",
+    "def1": "дерево",
+    "ipa": "ə tri",
+    "spell": "a tree"
+  },
+  {
+    "cefr": "",
+    "def2": "attentē spectāre",
+    "def1": "смотреть внимательно",
+    "ipa": "tu lʊk ˈkɛrfəli",
+    "spell": "to look carefully"
+  },
+  {
+    "cefr": "",
+    "def2": "audī et dēcernere",
+    "def1": "послушай и реши",
+    "ipa": "ˈlɪsən ænd ˌdɪˈsaɪd",
+    "spell": "listen and decide"
+  },
+  {
+    "cefr": "",
+    "def2": "audīāmus iterum",
+    "def1": "давайте послушаем снова",
+    "ipa": "lɛts ˈlɪsən əˈɡɛn",
+    "spell": "let's listen again"
+  },
+  {
+    "cefr": "",
+    "def2": "Austrālia",
+    "def1": "Австралия",
+    "ipa": "ɔˈstreɪljə",
+    "spell": "Australia"
+  },
+  {
+    "cefr": "",
+    "def2": "Austrālia Merīdiāna",
+    "def1": "Южная Австралия",
+    "ipa": "saʊθ ɔˈstreɪljə",
+    "spell": "South Australia"
+  },
+  {
+    "cefr": "",
+    "def2": "bibliothēca",
+    "def1": "библиотека",
+    "ipa": "ə ˈlaɪˌbrɛri",
+    "spell": "a library"
+  },
+  {
+    "cefr": "",
+    "def2": "bibliothēcārius",
+    "def1": "библиотекарь",
+    "ipa": "ə laɪˈbrɛriən",
+    "spell": "a librarian"
+  },
+  {
+    "cefr": "",
+    "def2": "cathedrālis",
+    "def1": "собор",
+    "ipa": "ə kəˈθidrəl",
+    "spell": "a cathedral"
+  },
+  {
+    "cefr": "",
+    "def2": "circā urbem",
+    "def1": "вокруг города",
+    "ipa": "əˈraʊnd ðə ˈsɪti",
+    "spell": "around the city"
+  },
+  {
+    "cefr": "",
+    "def2": "commodus",
+    "def1": "удобный",
+    "ipa": "ˈkʌmfərtəbəl",
+    "spell": "comfortable"
+  },
+  {
+    "cefr": "",
+    "def2": "complēre lacūnās",
+    "def1": "заполнять пропуски",
+    "ipa": "tu fɪl ɪn ðə blæŋks",
+    "spell": "to fill in the blanks"
+  },
+  {
+    "cefr": "",
+    "def2": "complūrēs arbōrēs",
+    "def1": "множество деревьев",
+    "ipa": "lɑts ʌv triz",
+    "spell": "lots of trees"
+  },
+  {
+    "cefr": "",
+    "def2": "concertum vīvum",
+    "def1": "живой концерт",
+    "ipa": "ə laɪv ˈkɑnsɜrt",
+    "spell": "a live concert"
+  },
+  {
+    "cefr": "",
+    "def2": "contumēliōsum est",
+    "def1": "это оскорбительно",
+    "ipa": "ɪt ɪz əˈfɛnsɪv",
+    "spell": "it is offensive"
+  },
+  {
+    "cefr": "",
+    "def2": "crassus es",
+    "def1": "ты толстый",
+    "ipa": "ju ɑr fæt",
+    "spell": "you are fat"
+  },
+  {
+    "cefr": "",
+    "def2": "crassus mūrus",
+    "def1": "толстая стена",
+    "ipa": "ə θɪk wɔl",
+    "spell": "a thick wall"
+  },
+  {
+    "cefr": "",
+    "def2": "domus nostra",
+    "def1": "наш дом",
+    "ipa": "ˈaʊər haʊs",
+    "spell": "our house"
+  },
+  {
+    "cefr": "",
+    "def2": "dē quō loquitur?",
+    "def1": "о чём он говорит?",
+    "ipa": "wɑt dʌz hi tɔk əˈbaʊt?",
+    "spell": "what does he talk about?"
+  },
+  {
+    "cefr": "",
+    "def2": "dīc tōtam sententiam",
+    "def1": "скажи всё предложение",
+    "ipa": "seɪ ðə hoʊl ˈsɛntəns",
+    "spell": "say the whole sentence"
+  },
+  {
+    "cefr": "",
+    "def2": "ea est rēgula!",
+    "def1": "это правило!",
+    "ipa": "ðæts ðə rul!",
+    "spell": "that's the rule!"
+  },
+  {
+    "cefr": "",
+    "def2": "esse",
+    "def1": "быть",
+    "ipa": "tu bi",
+    "spell": "to be"
+  },
+  {
+    "cefr": "",
+    "def2": "exsistere",
+    "def1": "существовать",
+    "ipa": "tu ɪɡˈzɪst",
+    "spell": "to exist"
+  },
+  {
+    "cefr": "",
+    "def2": "exsistit",
+    "def1": "это существует",
+    "ipa": "ɪt ɪɡˈzɪsts",
+    "spell": "it exists"
+  },
+  {
+    "cefr": "",
+    "def2": "ferrum equī",
+    "def1": "подкова (ʊ)",
+    "ipa": "ə hɔrs ʃu",
+    "spell": "a horse shoe"
+  },
+  {
+    "cefr": "",
+    "def2": "fābula amātōria",
+    "def1": "любовная история",
+    "ipa": "ə roʊˈmæns",
+    "spell": "a romance"
+  },
+  {
+    "cefr": "",
+    "def2": "fēlēs vīva",
+    "def1": "живая кошка",
+    "ipa": "ə laɪv kæt",
+    "spell": "a live cat"
+  },
+  {
+    "cefr": "",
+    "def2": "genus librī",
+    "def1": "жанр книги",
+    "ipa": "ə bʊk ˈʒɑnrə",
+    "spell": "a book genre"
+  },
+  {
+    "cefr": "",
+    "def2": "hominēs sunt",
+    "def1": "есть люди",
+    "ipa": "ðɛr ɑr ˈpipəl",
+    "spell": "there are people"
+  },
+  {
+    "cefr": "",
+    "def2": "homō est",
+    "def1": "есть человек",
+    "ipa": "ðɛr ɪz ə ˈpɜrsən",
+    "spell": "there is a person"
+  },
+  {
+    "cefr": "",
+    "def2": "idem est",
+    "def1": "это то же самое",
+    "ipa": "ɪts ðə seɪm θɪŋ",
+    "spell": "it's the same thing"
+  },
+  {
+    "cefr": "",
+    "def2": "in bibliothēcā est",
+    "def1": "он находится в библиотеке",
+    "ipa": "hi ɪz ɪn ðə ˈlaɪˌbrɛri",
+    "spell": "he is in the library"
+  },
+  {
+    "cefr": "",
+    "def2": "in urbe",
+    "def1": "в городе",
+    "ipa": "ɪn ðə ˈsɪti",
+    "spell": "in the city"
+  },
+  {
+    "cefr": "",
+    "def2": "lege illud",
+    "def1": "прочитай это",
+    "ipa": "rid ɪt",
+    "spell": "read it"
+  },
+  {
+    "cefr": "",
+    "def2": "liber",
+    "def1": "книга",
+    "ipa": "ə bʊk",
+    "spell": "a book"
+  },
+  {
+    "cefr": "",
+    "def2": "litterāre",
+    "def1": "произносить по буквам",
+    "ipa": "tu spɛl",
+    "spell": "to spell"
+  },
+  {
+    "cefr": "",
+    "def2": "lēx",
+    "def1": "закон",
+    "ipa": "ə lɔ",
+    "spell": "a law"
+  },
+  {
+    "cefr": "",
+    "def2": "magnus est",
+    "def1": "он большой",
+    "ipa": "hi ɪz lɑrʤ",
+    "spell": "he is large"
+  },
+  {
+    "cefr": "",
+    "def2": "magnus hortus",
+    "def1": "большой парк",
+    "ipa": "ə lɑrʤ pɑrk",
+    "spell": "a large park"
+  },
+  {
+    "cefr": "",
+    "def2": "meministīne?",
+    "def1": "ты помнишь?",
+    "ipa": "du ju rɪˈmɛmbər?",
+    "spell": "do you remember?"
+  },
+  {
+    "cefr": "",
+    "def2": "merīdiēs",
+    "def1": "юг",
+    "ipa": "saʊθ",
+    "spell": "south"
+  },
+  {
+    "cefr": "",
+    "def2": "movēmur",
+    "def1": "мы переезжаем",
+    "ipa": "wi ɑr ˈmuvɪŋ",
+    "spell": "we are moving"
+  },
+  {
+    "cefr": "",
+    "def2": "multae arbōrēs",
+    "def1": "много деревьев",
+    "ipa": "ə lɑt ʌv triz",
+    "spell": "a lot of trees"
+  },
+  {
+    "cefr": "",
+    "def2": "multae arbōrēs sunt",
+    "def1": "имеется много деревьев",
+    "ipa": "ðɛr ɑr ə lɑt ʌv triz",
+    "spell": "there are a lot of trees"
+  },
+  {
+    "cefr": "",
+    "def2": "neque vērum neque falsum",
+    "def1": "ни правда, ни ложь",
+    "ipa": "ˈniðər tru nɔr fɔls",
+    "spell": "neither true nor false"
+  },
+  {
+    "cefr": "",
+    "def2": "nihil",
+    "def1": "ничего",
+    "ipa": "ˈnʌθɪŋ",
+    "spell": "nothing"
+  },
+  {
+    "cefr": "",
+    "def2": "nūlla significātiō est",
+    "def1": "нет смысла",
+    "ipa": "ðɛr ɪz noʊ ˈminɪŋ",
+    "spell": "there is no meaning"
+  },
+  {
+    "cefr": "",
+    "def2": "paucae arbōrēs",
+    "def1": "несколько деревьев",
+    "ipa": "ə fju triz",
+    "spell": "a few trees"
+  },
+  {
+    "cefr": "",
+    "def2": "paucī hominēs",
+    "def1": "несколько человек",
+    "ipa": "ə fju ˈpipəl",
+    "spell": "a few people"
+  },
+  {
+    "cefr": "",
+    "def2": "pergere",
+    "def1": "продолжать",
+    "ipa": "tu kənˈtɪnju",
+    "spell": "to continue"
+  },
+  {
+    "cefr": "",
+    "def2": "plūs quam ūnum",
+    "def1": "больше одного",
+    "ipa": "mɔr ðæn wʌn",
+    "spell": "more than one"
+  },
+  {
+    "cefr": "",
+    "def2": "praeclārissimus",
+    "def1": "очень яркий",
+    "ipa": "ˈvɛri braɪt",
+    "spell": "very bright"
+  },
+  {
+    "cefr": "",
+    "def2": "prope mē",
+    "def1": "рядом со мной",
+    "ipa": "nɪr mi",
+    "spell": "near me"
+  },
+  {
+    "cefr": "",
+    "def2": "pāgina",
+    "def1": "страница",
+    "ipa": "ə peɪʤ",
+    "spell": "a page"
+  },
+  {
+    "cefr": "",
+    "def2": "pēs",
+    "def1": "ступня",
+    "ipa": "ə fʊt",
+    "spell": "a foot"
+  },
+  {
+    "cefr": "",
+    "def2": "quō modō ūtimur",
+    "def1": "как мы используем",
+    "ipa": "haʊ wi juz",
+    "spell": "how we use"
+  },
+  {
+    "cefr": "",
+    "def2": "rāna vīva",
+    "def1": "живая лягушка",
+    "ipa": "ə laɪv frɑɡ",
+    "spell": "a live frog"
+  },
+  {
+    "cefr": "",
+    "def2": "Rōbīnus Hood",
+    "def1": "Робин Гуд",
+    "ipa": "ˈrɑbən hʊd",
+    "spell": "Robin Hood"
+  },
+  {
+    "cefr": "",
+    "def2": "scientia fictiōnis",
+    "def1": "научная фантастика",
+    "ipa": "ˈsaɪəns ˈfɪkʃən",
+    "spell": "science fiction"
+  },
+  {
+    "cefr": "",
+    "def2": "sectiō",
+    "def1": "раздел; секция",
+    "ipa": "ə ˈsɛkʃən",
+    "spell": "a section"
+  },
+  {
+    "cefr": "",
+    "def2": "sī modo ūnum est",
+    "def1": "только если это один",
+    "ipa": "ˈoʊnli ɪf ɪt ɪz wʌn",
+    "spell": "only if it is one"
+  },
+  {
+    "cefr": "",
+    "def2": "textus est",
+    "def1": "есть текст",
+    "ipa": "ðɛr ɪz ə tɛkst",
+    "spell": "there is a text"
+  },
+  {
+    "cefr": "",
+    "def2": "utraque parte",
+    "def1": "обе стороны",
+    "ipa": "boʊθ saɪdz",
+    "spell": "both sides"
+  },
+  {
+    "cefr": "",
+    "def2": "vērum an falsum",
+    "def1": "правда или ложь",
+    "ipa": "tru ɔr fɔls",
+    "spell": "true or false"
+  },
+  {
+    "cefr": "",
+    "def2": "vērum est?",
+    "def1": "это правда?",
+    "ipa": "ɪz ɪt tru?",
+    "spell": "is it true?"
+  },
+  {
+    "cefr": "",
+    "def2": "vīlla cottae",
+    "def1": "коттедж",
+    "ipa": "ə ˈkɑtəʤ",
+    "spell": "a cottage"
+  },
+  {
+    "cefr": "",
+    "def2": "vīneā",
+    "def1": "виноградник",
+    "ipa": "ə ˈvɪnjərd",
+    "spell": "a vinyard"
+  },
+  {
+    "cefr": "",
+    "def2": "vīvere",
+    "def1": "жить",
+    "ipa": "tu lɪv",
+    "spell": "to live"
+  },
+  {
+    "cefr": "",
+    "def2": "Y cum Z comparāre",
+    "def1": "сопоставить Y с Z",
+    "ipa": "tu mæʧ waɪ wɪð zi",
+    "spell": "to match Y with Z"
+  }
 ]

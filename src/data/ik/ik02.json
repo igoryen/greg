@@ -16,7 +16,7 @@
   {
     "cefr": "",
     "def2": "audire",
-    "def1": "слушать",
+    "def1": "слушать его",
     "ipa": "tu ˈlɪsən tu ɪt",
     "spell": "to listen to it"
   },
@@ -93,7 +93,7 @@
   {
     "cefr": "",
     "def2": "difficile est",
-    "def1": "это трудно",
+    "def1": "оно (есть) трудно, оно является трудным",
     "ipa": "ɪt ɪz hɑrd",
     "spell": "it is hard"
   },
@@ -121,14 +121,14 @@
   {
     "cefr": "",
     "def2": "edere",
-    "def1": "есть",
+    "def1": "есть, кушать",
     "ipa": "tu it",
     "spell": "to eat"
   },
   {
     "cefr": "",
     "def2": "edite",
-    "def1": "кушайте",
+    "def1": "ешьте, кушайте",
     "ipa": "it, pliz",
     "spell": "eat, please"
   },
@@ -142,7 +142,7 @@
   {
     "cefr": "",
     "def2": "ego sum",
-    "def1": "я есть",
+    "def1": "я являюсь или нахожусь",
     "ipa": "aɪ æm",
     "spell": "I am"
   },
@@ -163,21 +163,21 @@
   {
     "cefr": "",
     "def2": "exempli gratia",
-    "def1": "например",
+    "def1": "для примера, например",
     "ipa": "fɔr ɪɡˈzæmpəl",
     "spell": "for example"
   },
   {
     "cefr": "",
     "def2": "expectare potest",
-    "def1": "это может подождать",
+    "def1": "оно может подождать",
     "ipa": "ɪt kæn weɪt",
     "spell": "it can wait"
   },
   {
     "cefr": "",
     "def2": "femina est",
-    "def1": "это женщина",
+    "def1": "это (есть) женщина, оно является женщиной",
     "ipa": "ɪt ɪz ə ˈwʊmən",
     "spell": "it is a woman"
   },
@@ -212,7 +212,7 @@
   {
     "cefr": "",
     "def2": "grave est",
-    "def1": "это важно",
+    "def1": "это (есть) важно, оно является важным",
     "ipa": "ɪt ɪz ɪmˈpɔrtənt",
     "spell": "it is important"
   },
@@ -226,14 +226,14 @@
   {
     "cefr": "",
     "def2": "hic es",
-    "def1": "ты здесь",
+    "def1": "ты находишься здесь",
     "ipa": "ju ɑr hir",
     "spell": "you are here"
   },
   {
     "cefr": "",
     "def2": "hic sum",
-    "def1": "я здесь",
+    "def1": "я нахожусь здесь",
     "ipa": "aɪ æm hir",
     "spell": "I am here"
   },
@@ -254,7 +254,7 @@
   {
     "cefr": "",
     "def2": "homo",
-    "def1": "парень",
+    "def1": "парень, мужик, чувак",
     "ipa": "ə ɡaɪ",
     "spell": "a guy"
   },
@@ -303,7 +303,7 @@
   {
     "cefr": "",
     "def2": "iterum audi",
-    "def1": "слушай ещё раз",
+    "def1": "слушай опять, слушай ещё раз",
     "ipa": "ˈlɪsən əˈɡɛn",
     "spell": "listen again"
   },
@@ -331,7 +331,7 @@
   {
     "cefr": "",
     "def2": "me paenitet!",
-    "def1": "извините!",
+    "def1": "мне жаль. извиняюсь. извините.",
     "ipa": "ˈsɑri!",
     "spell": "sorry!"
   },
@@ -373,56 +373,56 @@
   {
     "cefr": "",
     "def2": "non es Helena",
-    "def1": "ты не Елена (сокр. 1)",
+    "def1": "ты не Елена, ты не являешься Еленой (сокращение 1)",
     "ipa": "ju ˈɑrənt ˈhɛlən",
     "spell": "you aren't Helen"
   },
   {
     "cefr": "",
     "def2": "non es Helena",
-    "def1": "ты не Елена (сокр. 2)",
+    "def1": "ты не Елена, ты не являешься Еленой (сокращение 2)",
     "ipa": "jʊr nɑt ˈhɛlən",
     "spell": "you're not Helen"
   },
   {
     "cefr": "",
     "def2": "non es hic",
-    "def1": "ты не здесь",
-    "ipa": "ju ɑr nɑt hir",
+    "def1": "ты не находишься здесь",
+    "ipa": "ju ɑr-nɑt hir",
     "spell": "you are not here"
   },
   {
     "cefr": "",
     "def2": "non es Thomas",
-    "def1": "ты не Том",
-    "ipa": "ju ɑr nɑt tɑm",
+    "def1": "ты не Том, ты не являешься Томом",
+    "ipa": "ju ɑr-nɑt tɑm",
     "spell": "you are not Tom"
   },
   {
     "cefr": "",
     "def2": "non facile est",
-    "def1": "это не легко",
-    "ipa": "ɪt ɪz nɑt ˈizi",
+    "def1": "это не (есть) легко",
+    "ipa": "ɪt ɪz-nɑt ˈizi",
     "spell": "it is not easy"
   },
   {
     "cefr": "",
     "def2": "non sum Helena",
-    "def1": "я не Елена",
-    "ipa": "aɪ æm nɑt ˈhɛlən",
+    "def1": "я не Елена, я не являюсь Еленой",
+    "ipa": "aɪ æm-nɑt ˈhɛlən",
     "spell": "I am not Helen"
   },
   {
     "cefr": "",
     "def2": "non sum hic",
-    "def1": "я не здесь",
-    "ipa": "aɪ æm nɑt hir",
+    "def1": "я не нахожусь здесь",
+    "ipa": "aɪ æm-nɑt hir",
     "spell": "I am not here"
   },
   {
     "cefr": "",
     "def2": "non sum Thomas",
-    "def1": "я не Том (сокр.)",
+    "def1": "я не Том, я не являюсь Томом (сокр.)",
     "ipa": "aɪm nɑt tɑm",
     "spell": "I'm not Tom"
   },
@@ -443,21 +443,21 @@
   {
     "cefr": "",
     "def2": "paulisper",
-    "def1": "минутку",
+    "def1": "минутку, только минуту",
     "ipa": "ʤʌst ə ˈmɪnət",
     "spell": "just a minute"
   },
   {
     "cefr": "",
     "def2": "potesne hoc legere?",
-    "def1": "ты можешь это прочитать?",
+    "def1": "можешь ли ты прочитать это?",
     "ipa": "kæn ju rid ðɪs?",
     "spell": "can you read this?"
   },
   {
     "cefr": "",
     "def2": "potesne me videre?",
-    "def1": "ты меня видишь?",
+    "def1": "можешь ли ты видеть меня?",
     "ipa": "kæn ju si mi?",
     "spell": "can you see me?"
   },
@@ -492,14 +492,14 @@
   {
     "cefr": "",
     "def2": "quid videre potes?",
-    "def1": "что ты видишь?",
+    "def1": "что можешь ты видеть?",
     "ipa": "wɑt kæn ju si?",
     "spell": "what can you see?"
   },
   {
     "cefr": "",
     "def2": "quod est tibi nomen?",
-    "def1": "как тебя зовут?",
+    "def1": "как тебя зовут? что есть твоё имя?",
     "ipa": "wɑt ɪz jʊər neɪm?",
     "spell": "what is your name?"
   },
@@ -576,14 +576,14 @@
   {
     "cefr": "",
     "def2": "te videre non possum",
-    "def1": "я не вижу тебя",
+    "def1": "я не могу видеть тебя",
     "ipa": "aɪ ˈkænɑt si ju",
     "spell": "I cannot see you"
   },
   {
     "cefr": "",
     "def2": "tempus nostrum finitum est",
-    "def1": "наше время вышло",
+    "def1": "наше время вышло, (буквально) наше время находится наверху",
     "ipa": "ˈaʊər taɪm ɪz ʌp",
     "spell": "our time is up"
   },
@@ -611,7 +611,7 @@
   {
     "cefr": "",
     "def2": "tu es",
-    "def1": "ты есть",
+    "def1": "ты являешься или находишься",
     "ipa": "ju ɑr",
     "spell": "you are"
   },
@@ -646,7 +646,7 @@
   {
     "cefr": "",
     "def2": "videre possum...",
-    "def1": "я вижу...",
+    "def1": "я могу видеть...",
     "ipa": "aɪ kæn si...",
     "spell": "I can see..."
   }
