@@ -20,6 +20,7 @@ class Ang extends React.Component {
                         <li><p><a href="/ot" rel="noopener noreferrer">ot</a></p></li>
                         <li><p><a href="/sb" rel="noopener noreferrer">sb</a></p></li>
                         <li><p><a href="/ss" rel="noopener noreferrer">ss</a></p></li>
+                        <li><p><a href="/st" rel="noopener noreferrer">st</a></p></li>
                         <li><p><a href="/yk" rel="noopener noreferrer">yk</a></p></li>
                     </ol>
                 </section>

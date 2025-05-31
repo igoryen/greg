@@ -1,0 +1,429 @@
+[
+ {
+   "cefr": "",
+   "def2": "tormentum",
+   "def1": "пушка",
+   "ipa": "ə ˈkænən",
+   "spell": "a cannon"
+ },
+ {
+   "cefr": "",
+   "def2": "dēlinēātiō",
+   "def1": "рисунок",
+   "ipa": "ə ˈdrɔɪŋ",
+   "spell": "a drawing"
+ },
+ {
+   "cefr": "",
+   "def2": "luscinia",
+   "def1": "соловей",
+   "ipa": "ə ˈnaɪtɪŋɡeɪl",
+   "spell": "a nightingale"
+ },
+ {
+   "cefr": "",
+   "def2": "ad aliquid relātum",
+   "def1": "ссылка на что-то",
+   "ipa": "ə ˈrɛfərəns tu ˈsʌmθɪŋ",
+   "spell": "a reference to something"
+ },
+ {
+   "cefr": "",
+   "def2": "verbum rēgulāre",
+   "def1": "правильный глагол",
+   "ipa": "ə ˈrɛɡjələr vɜrb",
+   "spell": "a regular verb"
+ },
+ {
+   "cefr": "",
+   "def2": "post tenebrās",
+   "def1": "после наступления темноты",
+   "ipa": "ˈæftər dɑrk",
+   "spell": "after dark"
+ },
+ {
+   "cefr": "",
+   "def2": "caelātūra",
+   "def1": "гравюра",
+   "ipa": "ən ɪnˈɡreɪvɪŋ",
+   "spell": "an engraving"
+ },
+ {
+   "cefr": "",
+   "def2": "homō saucius",
+   "def1": "раненый человек",
+   "ipa": "ən ˈɪnʤərd ˈpɜrsən",
+   "spell": "an injured person"
+ },
+ {
+   "cefr": "",
+   "def2": "homō īnspīrāns",
+   "def1": "вдохновляющий человек",
+   "ipa": "ən ɪnˈspaɪrɪŋ ˈpɜrsən",
+   "spell": "an inspiring person"
+ },
+ {
+   "cefr": "",
+   "def2": "verbum irrēgulāre",
+   "def1": "неправильный глагол",
+   "ipa": "ən ɪˈrɛɡjələr vɜrb",
+   "spell": "an irregular verb"
+ },
+ {
+   "cefr": "",
+   "def2": "manēs cruentātae",
+   "def1": "окровавленные руки",
+   "ipa": "ˈblʌdid hændz",
+   "spell": "bloodied hands"
+ },
+ {
+   "cefr": "",
+   "def2": "potestne coniectāre?",
+   "def1": "можешь угадать?",
+   "ipa": "kæn ju ɡɛs?",
+   "spell": "can you guess?"
+ },
+ {
+   "cefr": "",
+   "def2": "condiciōnēs",
+   "def1": "условия",
+   "ipa": "kənˈdɪʃənz",
+   "spell": "conditions"
+ },
+ {
+   "cefr": "",
+   "def2": "Taurica",
+   "def1": "Крым",
+   "ipa": "kraɪˈmiə",
+   "spell": "Crimea"
+ },
+ {
+   "cefr": "",
+   "def2": "labōr infinitus",
+   "def1": "бесконечная работа",
+   "ipa": "ˈɛndləs wɜrk",
+   "spell": "endless work"
+ },
+ {
+   "cefr": "",
+   "def2": "māgnificae meliōrātiōnēs",
+   "def1": "огромные улучшения",
+   "ipa": "ɪˈnɔrməs ɪmˈpruvmənts",
+   "spell": "enormous improvements"
+ },
+ {
+   "cefr": "",
+   "def2": "ā tenerīs annīs",
+   "def1": "с раннего возраста",
+   "ipa": "frʌm ən ˈɜrli eɪʤ",
+   "spell": "from an early age"
+ },
+ {
+   "cefr": "",
+   "def2": "sine petasō",
+   "def1": "без шляпы",
+   "ipa": "ˈhætləs",
+   "spell": "hatless"
+ },
+ {
+   "cefr": "",
+   "def2": "capitis ōrnātus ejus",
+   "def1": "её головной убор",
+   "ipa": "hɜr ˈhɛdˌɡɪr",
+   "spell": "her headgear"
+ },
+ {
+   "cefr": "",
+   "def2": "jam tibi ostendī",
+   "def1": "я уже показала Вам это",
+   "ipa": "aɪ hæv ɔlˈrɛdi ʃoʊn ɪt tu ju",
+   "spell": "I have already shown it to you"
+ },
+ {
+   "cefr": "",
+   "def2": "īnspīrātiō",
+   "def1": "вдохновение",
+   "ipa": "ˌɪnspəˈreɪʃən",
+   "spell": "inspiration"
+ },
+ {
+   "cefr": "",
+   "def2": "pluit",
+   "def1": "(по)шёл дождь",
+   "ipa": "ɪt reɪnd",
+   "spell": "it rained"
+ },
+ {
+   "cefr": "",
+   "def2": "cūra medicālis",
+   "def1": "медицинская помощь",
+   "ipa": "ˈmɛdəkəl kɛr",
+   "spell": "medical care"
+ },
+ {
+   "cefr": "",
+   "def2": "antīquus",
+   "def1": "старомодный",
+   "ipa": "ˌoʊldˈfæʃənd",
+   "spell": "old-fashioned"
+ },
+ {
+   "cefr": "",
+   "def2": "in summā",
+   "def1": "в целом",
+   "ipa": "ɑn ðə hoʊl",
+   "spell": "on the whole"
+ },
+ {
+   "cefr": "",
+   "def2": "obsoletus",
+   "def1": "устаревший",
+   "ipa": "ˈaʊtˌdeɪtɪd",
+   "spell": "outdated"
+ },
+ {
+   "cefr": "",
+   "def2": "penicillīnum",
+   "def1": "пенициллин",
+   "ipa": "ˌpɛnəˈsɪlən",
+   "spell": "penicillin"
+ },
+ {
+   "cefr": "",
+   "def2": "perturbātiō post traumaticam (PPT)",
+   "def1": "посттравматическое стрессовое расстройство (ПТСР)",
+   "ipa": "ˌpoʊsttrɔˈmætɪk strɛs dɪˈsɔrdər (pi-ti-ɛs-di)",
+   "spell": "post-traumatic stress disorder (PTSD)"
+ },
+ {
+   "cefr": "",
+   "def2": "homīnēs cūrat",
+   "def1": "она заботится о людях",
+   "ipa": "ʃi ɪz ˈteɪkɪŋ kɛr ʌv ˈpipəl",
+   "spell": "she is taking care of people"
+ },
+ {
+   "cefr": "",
+   "def2": "sine calceīs",
+   "def1": "без обуви",
+   "ipa": "ˈʃuləs",
+   "spell": "shoeless"
+ },
+ {
+   "cefr": "",
+   "def2": "imberbis",
+   "def1": "безбородый",
+   "ipa": "ˈbɪrdləs",
+   "spell": "beardless"
+ },
+ {
+   "cefr": "",
+   "def2": "normae hygienae",
+   "def1": "стандарты гигиены",
+   "ipa": "ˈstændərdz ʌv ˈhaɪˌʤin",
+   "spell": "standards of hygiene"
+ },
+ {
+   "cefr": "",
+   "def2": "fortis voluntātis",
+   "def1": "волевая, упрямая",
+   "ipa": "strɔŋ-wɪld",
+   "spell": "strong-willed"
+ },
+ {
+   "cefr": "",
+   "def2": "bellum Tauricum",
+   "def1": "Крымская война",
+   "ipa": "ðə krɪˈmin wɔr",
+   "spell": "the Crimean war"
+ },
+ {
+   "cefr": "",
+   "def2": "tempus praeteritum simplex",
+   "def1": "прошедшее простое время",
+   "ipa": "ðə pæst ˈsɪmpəl tɛns",
+   "spell": "the past simple tense"
+ },
+ {
+   "cefr": "",
+   "def2": "sors muliebris",
+   "def1": "женская доля",
+   "ipa": "ðə ˈwʊmənz lɑt",
+   "spell": "the woman's lot"
+ },
+ {
+   "cefr": "",
+   "def2": "mīlitēs sunt",
+   "def1": "они солдаты",
+   "ipa": "ðeɪ ɑr ˈsoʊlʤərz",
+   "spell": "they are soldiers"
+ },
+ {
+   "cefr": "",
+   "def2": "tempora illa erant",
+   "def1": "то были времена",
+   "ipa": "ðoʊz wɜr ðə taɪmz",
+   "spell": "those were the times"
+ },
+ {
+   "cefr": "",
+   "def2": "oleum mediā nocte ūrere",
+   "def1": "работать до поздней ночи",
+   "ipa": "tu bɜrn ðə ˈmɪdˌnaɪt ɔɪl",
+   "spell": "to burn the midnight oil"
+ },
+ {
+   "cefr": "",
+   "def2": "contrā alicujus voluntātem īre",
+   "def1": "идти против чьей-то воли",
+   "ipa": "tu ɡoʊ əˈɡɛnst ˈsʌmˌbɑdiz ˈwɪʃɪz",
+   "spell": "to go against somebody's wishes"
+ },
+ {
+   "cefr": "",
+   "def2": "mē īnspīrāre",
+   "def1": "вдохновлять меня",
+   "ipa": "tu ɪnˈspaɪr mi",
+   "spell": "to inspire me"
+ },
+ {
+   "cefr": "",
+   "def2": "pluere",
+   "def1": "идти (о дожде)",
+   "ipa": "tu reɪn",
+   "spell": "to rain"
+ },
+ {
+   "cefr": "",
+   "def2": "ad lītus proficīscī",
+   "def1": "отправиться на пляж",
+   "ipa": "tu sɛt ɔf fɔr ðə biʧ",
+   "spell": "to set off for the beach"
+ },
+ {
+   "cefr": "",
+   "def2": "in Tauricam proficīscī",
+   "def1": "отправиться в Крым",
+   "ipa": "tu sɛt aʊt fɔr kraɪˈmiə",
+   "spell": "to set out for Crimea"
+ },
+ {
+   "cefr": "",
+   "def2": "mēnsam īnstruere",
+   "def1": "накрыть на стол",
+   "ipa": "tu sɛt ðə ˈteɪbəl",
+   "spell": "to set the table"
+ },
+ {
+   "cefr": "",
+   "def2": "ferculum in mēnsā pōnere",
+   "def1": "поставить поднос на стол",
+   "ipa": "tu sɛt ðə treɪ daʊn ɑn ə ˈteɪbəl",
+   "spell": "to set the tray down on a table"
+ },
+ {
+   "cefr": "",
+   "def2": "iter facere",
+   "def1": "идти по пути",
+   "ipa": "tu teɪk ə pæθ",
+   "spell": "to take a path"
+ },
+ {
+   "cefr": "",
+   "def2": "quī sunt illī?",
+   "def1": "кто они?",
+   "ipa": "hu ɑr ðeɪ?",
+   "spell": "who are they?"
+ },
+ {
+   "cefr": "",
+   "def2": "labōr sine fīne",
+   "def1": "работа без конца",
+   "ipa": "wɜrk wɪˈθaʊt ən ɛnd",
+   "spell": "work without an end"
+ },
+ {
+   "cefr": "",
+   "def2": "interstrātum",
+   "def1": "прокладка",
+   "ipa": "ə ˈlaɪnər",
+   "spell": "a liner"
+ },
+ {
+   "cefr": "",
+   "def2": "commotiō ā tēlō",
+   "def1": "снарядный шок",
+   "ipa": "ˈʃɛlˌʃɑk",
+   "spell": "shell-shock"
+ },
+ {
+   "cefr": "",
+   "def2": "Flōrentia Nightingale",
+   "def1": "Флоренс Найтингейл",
+   "ipa": "ˈflɔrəns ˈnaɪtɪŋɡeɪl",
+   "spell": "Florence Nightingale"
+ },
+ {
+   "cefr": "",
+   "def2": "fēlem dēmulsi",
+   "def1": "я гладила кота",
+   "ipa": "aɪ ˈpɛtɪd ə kæt",
+   "spell": "I petted a cat"
+ },
+ {
+   "cefr": "",
+   "def2": "pōnō, posuī, positum est",
+   "def1": "я кладу, я положила, оно положено",
+   "ipa": "aɪ pʊt, aɪ pʊt, ɪt ɪz pʊt",
+   "spell": "I put, I put, it is put"
+ },
+ {
+   "cefr": "",
+   "def2": "ostendī",
+   "def1": "я показала",
+   "ipa": "aɪ ʃoʊd",
+   "spell": "I showed"
+ },
+ {
+   "cefr": "",
+   "def2": "ostendō, ostendī, ostentum est",
+   "def1": "я показываю, я показала, оно показано",
+   "ipa": "aɪ ʃoʊ, aɪ ʃoʊd, ɪt ɪz ʃoʊn",
+   "spell": "I show, I showed, it is shown"
+ },
+ {
+   "cefr": "",
+   "def2": "labōrāvī",
+   "def1": "я работала",
+   "ipa": "aɪ wɜrkt",
+   "spell": "I worked"
+ },
+ {
+   "cefr": "",
+   "def2": "secō, secuī, sectum est",
+   "def1": "я режу, я порезала, оно порезано",
+   "ipa": "aɪ kʌt, aɪ kʌt, ɪt ɪz kʌt",
+   "spell": "I cut, I cut, it is cut"
+ },
+ {
+   "cefr": "",
+   "def2": "statuō, statuī, statūtum est",
+   "def1": "я ставлю, я поставила, оно поставлено",
+   "ipa": "aɪ sɛt, aɪ sɛt, ɪt ɪz sɛt",
+   "spell": "I set, I set, it is set"
+ },
+ {
+   "cefr": "",
+   "def2": "fīō, factus sum",
+   "def1": "я становлюсь, я стала",
+   "ipa": "aɪ bɪˈkʌm, aɪ bɪˈkeɪm",
+   "spell": "I become, I became"
+ },
+ {
+   "cefr": "",
+   "def2": "impendō, impendī, impēnsum est",
+   "def1": "я трачу, я потратила, оно потрачено",
+   "ipa": "aɪ spɛnd, aɪ spɛnt, ɪt ɪz spɛnt",
+   "spell": "I spend, I spent, it is spent"
+ }
+]
