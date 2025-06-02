@@ -1,0 +1,352 @@
+[
+ {
+   "cefr": "",
+   "def2": "ad positam petīvī",
+   "def1": "подал заявку на должность",
+   "ipa": "əˈplaɪd fɔr ə pəˈzɪʃən",
+   "spell": "applied for a position"
+ },
+ {
+   "cefr": "",
+   "def2": "administrātiō ēventuum",
+   "def1": "организация мероприятий",
+   "ipa": "ɪˈvɛnts ˈmænəʤmənt",
+   "spell": "events management"
+ },
+ {
+   "cefr": "",
+   "def2": "artēs et quaificātiōnēs",
+   "def1": "навыки и квалификации",
+   "ipa": "skɪlz ænd ˌkwɑləfəˈkeɪʃənz",
+   "spell": "skills and qualifications"
+ },
+ {
+   "cefr": "",
+   "def2": "augmentum salāriī obtinēre",
+   "def1": "получать повышение зарплаты",
+   "ipa": "tu ɡɛt ə reɪz",
+   "spell": "to get a raise"
+ },
+ {
+   "cefr": "",
+   "def2": "bene esse",
+   "def1": "благосостояние, благополучие",
+   "ipa": "ˌwɛlˈbiɪŋ",
+   "spell": "well-being"
+ },
+ {
+   "cefr": "",
+   "def2": "beneficia dentālia",
+   "def1": "стоматологические льготы",
+   "ipa": "ðə ˈdɛntəl ˈbɛnəfɪts",
+   "spell": "the dental benefits"
+ },
+ {
+   "cefr": "",
+   "def2": "beneficium",
+   "def1": "приплата, надбавка",
+   "ipa": "ə pɜrk",
+   "spell": "a perk"
+ },
+ {
+   "cefr": "",
+   "def2": "cathōlicus",
+   "def1": "католический",
+   "ipa": "ˈkæθlɪk",
+   "spell": "catholic"
+ },
+ {
+   "cefr": "",
+   "def2": "collocāre",
+   "def1": "образовывать словосочетания, сочетаться;",
+   "ipa": "tu ˈkɑləkeɪt",
+   "spell": "to collocate"
+ },
+ {
+   "cefr": "",
+   "def2": "commeātus",
+   "def1": "отпуск",
+   "ipa": "ə liv",
+   "spell": "a leave"
+ },
+ {
+   "cefr": "",
+   "def2": "commeātus aegrōtī",
+   "def1": "больничный отпуск",
+   "ipa": "ə sɪk liv",
+   "spell": "a sick leave"
+ },
+ {
+   "cefr": "",
+   "def2": "commeātus māternus",
+   "def1": "декретный отпуск",
+   "ipa": "ə məˈtɜrnɪti liv",
+   "spell": "a maternity leave"
+ },
+ {
+   "cefr": "",
+   "def2": "commeātus pāternus",
+   "def1": "отпуск по уходу за ребенком (для отца)",
+   "ipa": "ə pəˈtɜrnɪti liv",
+   "spell": "a paternity leave"
+ },
+ {
+   "cefr": "",
+   "def2": "criterion",
+   "def1": "критерий",
+   "ipa": "kraɪˈtɪriən",
+   "spell": "criterion"
+ },
+ {
+   "cefr": "",
+   "def2": "discēdere",
+   "def1": "уходить",
+   "ipa": "tu liv",
+   "spell": "to leave"
+ },
+ {
+   "cefr": "",
+   "def2": "dēmoralizāre",
+   "def1": "деморализовать",
+   "ipa": "tu dɪˈmɔrəˌlaɪz",
+   "spell": "to demoralize"
+ },
+ {
+   "cefr": "",
+   "def2": "dēpartīmentum",
+   "def1": "отдел",
+   "ipa": "ə dɪˈpɑrtmənt",
+   "spell": "a department"
+ },
+ {
+   "cefr": "",
+   "def2": "dēpendet ā dēpartīmentō",
+   "def1": "зависит от отдела",
+   "ipa": "ɪt dɪˈpɛndz ɑn ðə dɪˈpɑrtmənt",
+   "spell": "it depends on the department"
+ },
+ {
+   "cefr": "",
+   "def2": "emere gasium",
+   "def1": "покупать бензин",
+   "ipa": "tu baɪ ɡæs",
+   "spell": "to buy gas"
+ },
+ {
+   "cefr": "",
+   "def2": "exire ā labōre",
+   "def1": "выходить с работы (отмечать уход)",
+   "ipa": "tu klɑk aʊt",
+   "spell": "to clock out"
+ },
+ {
+   "cefr": "",
+   "def2": "experientia labōris",
+   "def1": "опыт работы",
+   "ipa": "wɜrk ɪkˈspɪriəns",
+   "spell": "work experience"
+ },
+ {
+   "cefr": "",
+   "def2": "hōrās meās minuere",
+   "def1": "сокращать мои часы",
+   "ipa": "tu kʌt maɪ ˈaʊərz",
+   "spell": "to cut my hours"
+ },
+ {
+   "cefr": "",
+   "def2": "in commeātū esse",
+   "def1": "быть в отпуске",
+   "ipa": "tu bi ɑn liv",
+   "spell": "to be on leave"
+ },
+ {
+   "cefr": "",
+   "def2": "infantīlis",
+   "def1": "по поводу / в смысле ребёнка, связанное с ребенком",
+   "ipa": "ˈbeɪbi-waɪz",
+   "spell": "baby-wise"
+ },
+ {
+   "cefr": "",
+   "def2": "itineraerium rudē",
+   "def1": "примерный план (маршрута)",
+   "ipa": "ə rʌf aɪˈtɪnəˌrɛri",
+   "spell": "a rough itinerary"
+ },
+ {
+   "cefr": "",
+   "def2": "labōrēnsē",
+   "def1": "в смысле / по поводу / отношении работы",
+   "ipa": "ʤɑb-waɪz",
+   "spell": "job-wise"
+ },
+ {
+   "cefr": "",
+   "def2": "mē plēnō tempōre condūcere",
+   "def1": "нанимать меня на полную ставку",
+   "ipa": "tu ˈhaɪər mi fʊl taɪm",
+   "spell": "to hire me full time"
+ },
+ {
+   "cefr": "",
+   "def2": "pactum aequum",
+   "def1": "честная сделка",
+   "ipa": "ə fɛr dil",
+   "spell": "a fair deal"
+ },
+ {
+   "cefr": "",
+   "def2": "patria orīginis",
+   "def1": "страна происхождения",
+   "ipa": "ðə ˈkʌntri ʌv ˈɔrəʤən",
+   "spell": "the country of origin"
+ },
+ {
+   "cefr": "",
+   "def2": "petere officium",
+   "def1": "подать заявку на работу",
+   "ipa": "tu əˈplaɪ fɔr ə ʤɑb",
+   "spell": "to apply for a job"
+ },
+ {
+   "cefr": "",
+   "def2": "plēnus tempus occupātiō",
+   "def1": "полная занятость",
+   "ipa": "ə ˈfʊlˌtaɪm ˌɑkjəˈpeɪʃən",
+   "spell": "a full-time occupation"
+ },
+ {
+   "cefr": "",
+   "def2": "plūmās dēmittere",
+   "def1": "терять / сбрасывать перья",
+   "ipa": "tu ʃɛd ˈfɛðərz",
+   "spell": "to shed feathers"
+ },
+ {
+   "cefr": "",
+   "def2": "positio (officium)",
+   "def1": "должность",
+   "ipa": "ə pəˈzɪʃən (ʤɑb)",
+   "spell": "a position (job)"
+ },
+ {
+   "cefr": "",
+   "def2": "provocāre eōs",
+   "def1": "бросать им вызов",
+   "ipa": "tu ˈʧælənʤ ðɛm",
+   "spell": "to challenge them"
+ },
+ {
+   "cefr": "",
+   "def2": "prōmovērī",
+   "def1": "получить повышение",
+   "ipa": "tu ɡɛt prəˈmoʊtəd",
+   "spell": "to get promoted"
+ },
+ {
+   "cefr": "",
+   "def2": "quaerere officium",
+   "def1": "поиск работы",
+   "ipa": "ʤɑb ˈhʌntɪŋ",
+   "spell": "job hunting"
+ },
+ {
+   "cefr": "",
+   "def2": "quaificātiōnēs academicae",
+   "def1": "сведения об образовании, академические квалификации",
+   "ipa": "ˌækəˈdɛmɪk ˌkwɑləfəˈkeɪʃənz",
+   "spell": "academic qualifications"
+ },
+ {
+   "cefr": "",
+   "def2": "quī tē condūcit?",
+   "def1": "кто тебя нанимает?",
+   "ipa": "hu ɛmˈplɔɪz ju",
+   "spell": "who employs you"
+ },
+ {
+   "cefr": "",
+   "def2": "recognitiō annua",
+   "def1": "ежегодный обзор",
+   "ipa": "ˈænjuəl ˈsɜrˌveɪ",
+   "spell": "annual survey"
+ },
+ {
+   "cefr": "",
+   "def2": "relātiōnēs publicae (RP)",
+   "def1": "служба по связям с общественностью",
+   "ipa": "ˈpʌblɪk riˈleɪʃənz (pi-ɑr)",
+   "spell": "public relations (PR)"
+ },
+ {
+   "cefr": "",
+   "def2": "scālae",
+   "def1": "лестница",
+   "ipa": "ə ˈlædər",
+   "spell": "a ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "scālae possessiōnis",
+   "def1": "личная покупательная способность на рынке недвижимости",
+   "ipa": "ðə ˈprɑpərti ˈlædər",
+   "spell": "the property ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "scālae profectiōnis",
+   "def1": "служебная / карьерная лестница",
+   "ipa": "ə kəˈrɪr ˈlædər",
+   "spell": "a career ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "scālae sociālēs",
+   "def1": "социальная лестница",
+   "ipa": "ðə ˈsoʊʃəl ˈlædər",
+   "spell": "the social ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "societātī reddere",
+   "def1": "помогать обществу, делиться с нуждающимися",
+   "ipa": "tu ɡɪv ˈsʌmθɪŋ bæk",
+   "spell": "to give something back"
+ },
+ {
+   "cefr": "",
+   "def2": "stabilis officium",
+   "def1": "постоянная работа",
+   "ipa": "ə ˈpɜrmənənt ʤɑb",
+   "spell": "a permanent job"
+ },
+ {
+   "cefr": "",
+   "def2": "tiro",
+   "def1": "стажёр",
+   "ipa": "ən ˈɪntɜrn",
+   "spell": "an intern"
+ },
+ {
+   "cefr": "",
+   "def2": "ut mēnsa",
+   "def1": "в виде таблицы",
+   "ipa": "æz ə ˈteɪbəl",
+   "spell": "as a table"
+ },
+ {
+   "cefr": "",
+   "def2": "voluntāriē operam dare",
+   "def1": "работать волонтером, \"волонтёрить\"",
+   "ipa": "tu ˌvɑlənˈtɪr",
+   "spell": "to volunteer"
+ },
+ {
+   "cefr": "",
+   "def2": "ē labōre esse",
+   "def1": "быть без работы, безработным",
+   "ipa": "tu bi aʊt ʌv wɜrk",
+   "spell": "to be out of work"
+ }
+]
