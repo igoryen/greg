@@ -98,6 +98,7 @@ import IP28 from "./pages/ip/IP28";
 import IP29 from "./pages/ip/IP29";
 import IP30 from "./pages/ip/IP30";
 import IP31 from "./pages/ip/IP31";
+import IP33 from "./pages/ip/IP33";
 import IP34 from "./pages/ip/IP34";
 
 import IS from "./pages/is/IS";
@@ -306,6 +307,7 @@ export default function App() {
           <Route path="ip29" element={<IP29 />} />
           <Route path="ip30" element={<IP30 />} />
           <Route path="ip31" element={<IP31 />} />
+          <Route path="ip33" element={<IP33 />} />
           <Route path="ip34" element={<IP34 />} />
 
           <Route path="is" element={<IS />} />

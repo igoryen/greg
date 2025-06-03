@@ -1,0 +1,842 @@
+[
+ {
+   "cefr": "",
+   "def2": "hōrologium in pariete est",
+   "def1": "годинник на стіні",
+   "ipa": "ə klɑk ɪz ɑn ðə wɔl",
+   "spell": "a clock is on the wall"
+ },
+ {
+   "cefr": "",
+   "def2": "quadrāns",
+   "def1": "чверть",
+   "ipa": "ə ˈkwɔrtər",
+   "spell": "a quarter"
+ },
+ {
+   "cefr": "",
+   "def2": "quadrāns plūs",
+   "def1": "ще чверть",
+   "ipa": "ə ˈkwɔrtər mɔr",
+   "spell": "a quarter more"
+ },
+ {
+   "cefr": "",
+   "def2": "quadrāns hōrae",
+   "def1": "чверть години",
+   "ipa": "ə ˈkwɔrtər ʌv ən ˈaʊər",
+   "spell": "a quarter of an hour"
+ },
+ {
+   "cefr": "",
+   "def2": "quadrāns ad octāvam",
+   "def1": "без чверті восьма",
+   "ipa": "ə ˈkwɔrtər tu eɪt",
+   "spell": "a quarter to eight"
+ },
+ {
+   "cefr": "",
+   "def2": "iter duārum hōrārum",
+   "def1": "двогодинна поїздка",
+   "ipa": "ə tu-ˈaʊər draɪv",
+   "spell": "a two-hour drive"
+ },
+ {
+   "cefr": "",
+   "def2": "ambulātor",
+   "def1": "ходок",
+   "ipa": "ə ˈwɔkər",
+   "spell": "a walker"
+ },
+ {
+   "cefr": "",
+   "def2": "hōrologium",
+   "def1": "годинник",
+   "ipa": "ə wɑʧ",
+   "spell": "a watch"
+ },
+ {
+   "cefr": "",
+   "def2": "hōrologium in tuō carpō est",
+   "def1": "годинник на твоєму зап'ясті",
+   "ipa": "ə wɑʧ ɪz ɑn jʊər rɪst",
+   "spell": "a watch is on your wrist"
+ },
+ {
+   "cefr": "",
+   "def2": "carpus",
+   "def1": "зап'ястя",
+   "ipa": "ə rɪst",
+   "spell": "a wrist"
+ },
+ {
+   "cefr": "",
+   "def2": "post",
+   "def1": "після",
+   "ipa": "ˈæftər",
+   "spell": "after"
+ },
+ {
+   "cefr": "",
+   "def2": "sed tū venīs ad decem et dīmidiam",
+   "def1": "але ти прийдеш о десятій тридцятій",
+   "ipa": "bʌt ju kʌm æt tɛn ˈθɜrdi",
+   "spell": "but you come at ten thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "potesne mē audīre?",
+   "def1": "ти мене чуєш?",
+   "ipa": "kæn ju hir mi?",
+   "spell": "can you hear me?"
+ },
+ {
+   "cefr": "",
+   "def2": "numerā mihi",
+   "def1": "порахуй для мене",
+   "ipa": "kaʊnt fɔr mi",
+   "spell": "count for me"
+ },
+ {
+   "cefr": "",
+   "def2": "fēcistīne statiō?",
+   "def1": "ти робив зупинку?",
+   "ipa": "dɪd ju meɪk ə stɑp?",
+   "spell": "did you make a stop?"
+ },
+ {
+   "cefr": "",
+   "def2": "octāva et dīmidia",
+   "def1": "вісім тридцять",
+   "ipa": "eɪt ˈθɜrdi",
+   "spell": "eight thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "octōgintā",
+   "def1": "вісімдесят",
+   "ipa": "ˈeɪti",
+   "spell": "eighty"
+ },
+ {
+   "cefr": "",
+   "def2": "octōgintā quīnque",
+   "def1": "вісімдесят п'ять",
+   "ipa": "ˈeɪti faɪv",
+   "spell": "eighty five"
+ },
+ {
+   "cefr": "",
+   "def2": "ūndecim quīnquāgintā quīnque",
+   "def1": "одинадцять п'ятдесят п'ять",
+   "ipa": "ɪˈlɛvən ˈfɪfti-faɪv",
+   "spell": "eleven fifty-five"
+ },
+ {
+   "cefr": "",
+   "def2": "ūndecim ante est",
+   "def1": "одинадцять попереду",
+   "ipa": "ɪˈlɛvən ɪz əˈhɛd",
+   "spell": "eleven is ahead"
+ },
+ {
+   "cefr": "",
+   "def2": "satis",
+   "def1": "достатньо",
+   "ipa": "ɪˈnʌf",
+   "spell": "enough"
+ },
+ {
+   "cefr": "",
+   "def2": "singulīs hōrīs",
+   "def1": "кожну годину",
+   "ipa": "ˈɛvəri ˈaʊər",
+   "spell": "every hour"
+ },
+ {
+   "cefr": "",
+   "def2": "quīndecim",
+   "def1": "п'ятнадцять",
+   "ipa": "fɪfˈtin",
+   "spell": "fifteen"
+ },
+ {
+   "cefr": "",
+   "def2": "quīnquāgintā",
+   "def1": "п'ятдесят",
+   "ipa": "ˈfɪfti",
+   "spell": "fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "quīnque ad duodecim",
+   "def1": "п'ять хвилин на дванадцяту",
+   "ipa": "faɪv tu twɛlv",
+   "spell": "five to twelve"
+ },
+ {
+   "cefr": "",
+   "def2": "quattuordecim",
+   "def1": "чотирнадцять",
+   "ipa": "ˈfɔɹ.tin",
+   "spell": "fourteen"
+ },
+ {
+   "cefr": "",
+   "def2": "quadrāgintā",
+   "def1": "сорок",
+   "ipa": "ˈfɔrti",
+   "spell": "forty"
+ },
+ {
+   "cefr": "",
+   "def2": "quadrāgintā quīnque",
+   "def1": "сорок п'ять",
+   "ipa": "ˈfɔrti faɪv",
+   "spell": "forty five"
+ },
+ {
+   "cefr": "",
+   "def2": "convalēscās cito!",
+   "def1": "одужуй швидше!",
+   "ipa": "ɡɛt ˈbɛtər sun!",
+   "spell": "get better soon!"
+ },
+ {
+   "cefr": "",
+   "def2": "dīmidia post octāvam",
+   "def1": "половина дев'ятої",
+   "ipa": "hæf pæst eɪt",
+   "spell": "half past eight"
+ },
+ {
+   "cefr": "",
+   "def2": "dīmidia post prīmam",
+   "def1": "половина другої",
+   "ipa": "hæf pæst wʌn",
+   "spell": "half past one"
+ },
+ {
+   "cefr": "",
+   "def2": "dīmidia post tertiam",
+   "def1": "половина четвертої",
+   "ipa": "hæf pæst θri",
+   "spell": "half past three"
+ },
+ {
+   "cefr": "",
+   "def2": "quot minūta?",
+   "def1": "скільки хвилин?",
+   "ipa": "haʊ ˈmɛni ˈmɪnəts?",
+   "spell": "how many minutes?"
+ },
+ {
+   "cefr": "",
+   "def2": "Timeō nē mea raeda ruat",
+   "def1": "Боюсь, моя машина зламається",
+   "ipa": "aɪ æm əˈfreɪd maɪ kɑr wɪl breɪk daʊn",
+   "spell": "I am afraid my car will break down"
+ },
+ {
+   "cefr": "",
+   "def2": "Ego similis tuī sum",
+   "def1": "Я такий самий, як ти",
+   "ipa": "aɪ æm laɪk ju",
+   "spell": "I am like you"
+ },
+ {
+   "cefr": "",
+   "def2": "Dēfessus sum",
+   "def1": "Я втомився",
+   "ipa": "aɪ æm ˈtaɪərd",
+   "spell": "I am tired"
+ },
+ {
+   "cefr": "",
+   "def2": "Nōn fēcī statiō",
+   "def1": "Я не робив зупинки",
+   "ipa": "aɪ dɪd nɑt meɪk ə stɑp",
+   "spell": "I did not make a stop"
+ },
+ {
+   "cefr": "",
+   "def2": "Nōn habeō hōrologium",
+   "def1": "У мене немає годинника",
+   "ipa": "aɪ doʊnt hæv ə wɑʧ",
+   "spell": "I don't have a watch"
+ },
+ {
+   "cefr": "",
+   "def2": "Fatīgātum mē sentiō",
+   "def1": "Я відчуваю втому",
+   "ipa": "aɪ fil ˈtaɪərd",
+   "spell": "I feel tired"
+ },
+ {
+   "cefr": "",
+   "def2": "Aegrōtus cecidī",
+   "def1": "Я захворів",
+   "ipa": "aɪ fɛl sɪk",
+   "spell": "I fell sick"
+ },
+ {
+   "cefr": "",
+   "def2": "Gravēdinem habeō",
+   "def1": "Я застудився",
+   "ipa": "aɪ hæv ə koʊld",
+   "spell": "I have a cold"
+ },
+ {
+   "cefr": "",
+   "def2": "Telephonum meum habeō",
+   "def1": "У мене є телефон",
+   "ipa": "aɪ hæv maɪ foʊn",
+   "spell": "I have my phone"
+ },
+ {
+   "cefr": "",
+   "def2": "Tē amō",
+   "def1": "Ти мені подобаєшся",
+   "ipa": "aɪ laɪk ju",
+   "spell": "I like you"
+ },
+ {
+   "cefr": "",
+   "def2": "Edēre dēbeō",
+   "def1": "Мені потрібно поїсти",
+   "ipa": "aɪ nid tu it",
+   "spell": "I need to eat"
+ },
+ {
+   "cefr": "",
+   "def2": "Īre dēbeō",
+   "def1": "Мені потрібно йти",
+   "ipa": "aɪ nid tu ɡoʊ",
+   "spell": "I need to go"
+ },
+ {
+   "cefr": "",
+   "def2": "Festīnāre dēbeō",
+   "def1": "Мені потрібно поспішати",
+   "ipa": "aɪ nid tu ˈhɜri",
+   "spell": "I need to hurry"
+ },
+ {
+   "cefr": "",
+   "def2": "Dormīre dēbeō",
+   "def1": "Мені потрібно спати",
+   "ipa": "aɪ nid tu slip",
+   "spell": "I need to sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "Labōrāre dēbeō",
+   "def1": "Мені потрібно працювати",
+   "ipa": "aɪ nid tu wɜrk",
+   "spell": "I need to work"
+ },
+ {
+   "cefr": "",
+   "def2": "Solum centum dollāria habeō",
+   "def1": "У мене всього сто доларів",
+   "ipa": "aɪ ˈoʊnli hæv ə ˈhʌndrɪd ˈdɑlərz",
+   "spell": "I only have a hundred dollars"
+ },
+ {
+   "cefr": "",
+   "def2": "Solum hōram habeō",
+   "def1": "У мене всього година",
+   "ipa": "aɪ ˈoʊnli hæv ən ˈaʊər",
+   "spell": "I only have an hour"
+ },
+ {
+   "cefr": "",
+   "def2": "Solum ūnam raedam habeō",
+   "def1": "У мене всього одна машина",
+   "ipa": "aɪ ˈoʊnli hæv wʌn kɑr",
+   "spell": "I only have one car"
+ },
+ {
+   "cefr": "",
+   "def2": "Solum ūnum līberum habeō",
+   "def1": "У мене всього одна дитина",
+   "ipa": "aɪ ˈoʊnli hæv wʌn ʧaɪld",
+   "spell": "I only have one child"
+ },
+ {
+   "cefr": "",
+   "def2": "Stō",
+   "def1": "Я зупиняюся",
+   "ipa": "aɪ stɑp",
+   "spell": "I stop"
+ },
+ {
+   "cefr": "",
+   "def2": "Pausam facere soleō",
+   "def1": "Я зазвичай роблю перерву",
+   "ipa": "aɪ ˈjuʒəwəli teɪk ə breɪk",
+   "spell": "I usually take a break"
+ },
+ {
+   "cefr": "",
+   "def2": "sī dīmidia hōra est",
+   "def1": "якщо це півгодини",
+   "ipa": "ɪf ɪts hæf ən ˈaʊər",
+   "spell": "if it's half an hour"
+ },
+ {
+   "cefr": "",
+   "def2": "paene duodecima est",
+   "def1": "майже дванадцять",
+   "ipa": "ɪt ɪz ˈɔlˌmoʊst twɛlv",
+   "spell": "it is almost twelve"
+ },
+ {
+   "cefr": "",
+   "def2": "octāva est",
+   "def1": "восьма година",
+   "ipa": "ɪt ɪz eɪt əˈklɑk",
+   "spell": "it is eight o'clock"
+ },
+ {
+   "cefr": "",
+   "def2": "dīmidia post decimam est",
+   "def1": "половина одинадцятої",
+   "ipa": "ɪt ɪz hæf pæst tɛn",
+   "spell": "it is half past ten"
+ },
+ {
+   "cefr": "",
+   "def2": "dua et quīnque est",
+   "def1": "два нуль п'ять",
+   "ipa": "ɪt ɪz tu oʊ faɪv",
+   "spell": "it is two oh five"
+ },
+ {
+   "cefr": "",
+   "def2": "iter jūcundum erat!",
+   "def1": "це була приємна поїздка!",
+   "ipa": "ɪt wʌz ə naɪs trɪp!",
+   "spell": "it was a nice trip!"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn est magnum negōtium",
+   "def1": "це не страшно",
+   "ipa": "ɪts nɑt ə bɪɡ dil",
+   "spell": "it's not a big deal"
+ },
+ {
+   "cefr": "",
+   "def2": "nōn est vērum",
+   "def1": "це неправда",
+   "ipa": "ɪts nɑt tru",
+   "spell": "it's not true"
+ },
+ {
+   "cefr": "",
+   "def2": "sīc",
+   "def1": "ось так",
+   "ipa": "laɪk ðɪs",
+   "spell": "like this"
+ },
+ {
+   "cefr": "",
+   "def2": "fortasse",
+   "def1": "можливо",
+   "ipa": "ˈmeɪbi",
+   "spell": "maybe"
+ },
+ {
+   "cefr": "",
+   "def2": "nōna quadrāgintā",
+   "def1": "дев'ять сорок",
+   "ipa": "naɪn-ˈfɔrti",
+   "spell": "nine-forty"
+ },
+ {
+   "cefr": "",
+   "def2": "Olēna mihi dīxit",
+   "def1": "Олена мені сказала",
+   "ipa": "Olena toʊld mi",
+   "spell": "Olena told me"
+ },
+ {
+   "cefr": "",
+   "def2": "in pariete",
+   "def1": "на стіні",
+   "ipa": "ɑn ðə wɔl",
+   "spell": "on the wall"
+ },
+ {
+   "cefr": "",
+   "def2": "ūnō diē post",
+   "def1": "на день пізніше",
+   "ipa": "wʌn deɪ ˈleɪtər",
+   "spell": "one day later"
+ },
+ {
+   "cefr": "",
+   "def2": "ūnā et dīmidiā",
+   "def1": "один тридцять",
+   "ipa": "wʌn ˈθɜrdi",
+   "spell": "one thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "ūnā trīgintā quīnque",
+   "def1": "один тридцять п'ять",
+   "ipa": "wʌn ˈθɜrdi-faɪv",
+   "spell": "one thirty-five"
+ },
+ {
+   "cefr": "",
+   "def2": "ūnō annō post",
+   "def1": "через рік",
+   "ipa": "wʌn jɪr ˈleɪtər",
+   "spell": "one year later"
+ },
+ {
+   "cefr": "",
+   "def2": "sōlum",
+   "def1": "лише",
+   "ipa": "ˈoʊnli",
+   "spell": "only"
+ },
+ {
+   "cefr": "",
+   "def2": "aliter",
+   "def1": "інакше",
+   "ipa": "ɔr ɛls",
+   "spell": "or else"
+ },
+ {
+   "cefr": "",
+   "def2": "post",
+   "def1": "після",
+   "ipa": "pæst",
+   "spell": "past"
+ },
+ {
+   "cefr": "",
+   "def2": "Anglicum practicum",
+   "def1": "практична англійська",
+   "ipa": "ˈpræktəkəl ˈɪŋɡlɪʃ",
+   "spell": "practical English"
+ },
+ {
+   "cefr": "",
+   "def2": "sex vīgintī",
+   "def1": "шість двадцять",
+   "ipa": "sɪks ˈtwɛnti",
+   "spell": "six twenty"
+ },
+ {
+   "cefr": "",
+   "def2": "facile",
+   "def1": "не поспішай",
+   "ipa": "teɪk ɪt ˈizi",
+   "spell": "take it easy"
+ },
+ {
+   "cefr": "",
+   "def2": "decem",
+   "def1": "десять",
+   "ipa": "tɛn",
+   "spell": "ten"
+ },
+ {
+   "cefr": "",
+   "def2": "decem post est",
+   "def1": "десять позаду",
+   "ipa": "tɛn ɪz bɪˈhaɪnd",
+   "spell": "ten is behind"
+ },
+ {
+   "cefr": "",
+   "def2": "decem decem (10:10)",
+   "def1": "десять десять (10:10)",
+   "ipa": "tɛn tɛn (10:10)",
+   "spell": "ten ten (10:10)"
+ },
+ {
+   "cefr": "",
+   "def2": "decem trīgintā",
+   "def1": "десять тридцять",
+   "ipa": "tɛn-ˈθɜrdi",
+   "spell": "ten-thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "via facilis",
+   "def1": "легкий шлях",
+   "ipa": "ði ˈizi weɪ",
+   "spell": "the easy way"
+ },
+ {
+   "cefr": "",
+   "def2": "tredecim",
+   "def1": "тринадцять",
+   "ipa": "ˈθɜrˈtin",
+   "spell": "thirteen"
+ },
+ {
+   "cefr": "",
+   "def2": "trīgintā minūta post",
+   "def1": "через тридцять хвилин",
+   "ipa": "ˈθɜrdi ˈmɪnəts ˈleɪtər",
+   "spell": "thirty minutes later"
+ },
+ {
+   "cefr": "",
+   "def2": "hōc etiam possibile est",
+   "def1": "це теж можливо",
+   "ipa": "ðɪs ɪz ˈɔlsoʊ ˈpɑsəbəl",
+   "spell": "this is also possible"
+ },
+ {
+   "cefr": "",
+   "def2": "tria quīndecim",
+   "def1": "три п'ятнадцять",
+   "ipa": "θri fɪfˈtin",
+   "spell": "three fifteen"
+ },
+ {
+   "cefr": "",
+   "def2": "rogāre quotā hōrā est",
+   "def1": "запитати, котра година",
+   "ipa": "tu æsk wɑt taɪm ɪt ɪz",
+   "spell": "to ask what time it is"
+ },
+ {
+   "cefr": "",
+   "def2": "sērō esse",
+   "def1": "запізнюватися",
+   "ipa": "tu bi leɪt",
+   "spell": "to be late"
+ },
+ {
+   "cefr": "",
+   "def2": "festīnāre",
+   "def1": "поспішати",
+   "ipa": "tu ˈhɜri",
+   "spell": "to hurry"
+ },
+ {
+   "cefr": "",
+   "def2": "oportēre",
+   "def1": "потребувати",
+   "ipa": "tu nid",
+   "spell": "to need"
+ },
+ {
+   "cefr": "",
+   "def2": "convalēscere",
+   "def1": "одужувати",
+   "ipa": "tu rɪˈkʌvər",
+   "spell": "to recover"
+ },
+ {
+   "cefr": "",
+   "def2": "sīc loquī",
+   "def1": "так говорити",
+   "ipa": "tu tɔk laɪk ðɪs",
+   "spell": "to talk like this"
+ },
+ {
+   "cefr": "",
+   "def2": "ambulāre",
+   "def1": "ходити",
+   "ipa": "tu wɔk",
+   "spell": "to walk"
+ },
+ {
+   "cefr": "",
+   "def2": "vīgintī post sex",
+   "def1": "двадцять хвилин на сьому",
+   "ipa": "ˈtwɛnti ˈæftər sɪks",
+   "spell": "twenty after six"
+ },
+ {
+   "cefr": "",
+   "def2": "vīgintī quīnque ad secundam",
+   "def1": "двадцять п'ять хвилин на другу",
+   "ipa": "ˈtwɛnti faɪv tu tu",
+   "spell": "twenty five to two"
+ },
+ {
+   "cefr": "",
+   "def2": "vīgintī ad decimam",
+   "def1": "без двадцяти десять",
+   "ipa": "ˈtwɛnti tu tɛn",
+   "spell": "twenty to ten"
+ },
+ {
+   "cefr": "",
+   "def2": "duo \"nūlla\" quīnque (2:05)",
+   "def1": "два \"нуль\" п'ять (2:05)",
+   "ipa": "tu \"oʊ\" faɪv ",
+   "spell": "two \"oh\" five (2:05)"
+ },
+ {
+   "cefr": "",
+   "def2": "valdē facile",
+   "def1": "дуже легко",
+   "ipa": "ˈvɛri ˈizi",
+   "spell": "very easy"
+ },
+ {
+   "cefr": "",
+   "def2": "in mediō viae sumus",
+   "def1": "ми на півшляху",
+   "ipa": "wi ɑr ˈhæˈfweɪ",
+   "spell": "we are half-way"
+ },
+ {
+   "cefr": "",
+   "def2": "possumus etiam dīcere",
+   "def1": "ми можемо також сказати",
+   "ipa": "wi kæn ˈɔlsoʊ seɪ",
+   "spell": "we can also say"
+ },
+ {
+   "cefr": "",
+   "def2": "bene revēnistī!",
+   "def1": "ласкаво просимо назад!",
+   "ipa": "ˈwɛlkəm bæk!",
+   "spell": "welcome back!"
+ },
+ {
+   "cefr": "",
+   "def2": "quid accidit?",
+   "def1": "що трапилося?",
+   "ipa": "wɑt ˈhæpənd?",
+   "spell": "what happened?"
+ },
+ {
+   "cefr": "",
+   "def2": "quotā hōrā est?",
+   "def1": "котра година?",
+   "ipa": "wɑt taɪm ɪz ɪt?",
+   "spell": "what time is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "cum longē eō",
+   "def1": "коли я йду далеко",
+   "ipa": "wɛn aɪ ɡoʊ fɑr",
+   "spell": "when I go far"
+ },
+ {
+   "cefr": "",
+   "def2": "diēs sērō es",
+   "def1": "ти запізнився на день",
+   "ipa": "ju ɑr ə deɪ leɪt",
+   "spell": "you are a day late"
+ },
+ {
+   "cefr": "",
+   "def2": "mēnsis sērō es",
+   "def1": "ти запізнився на місяць",
+   "ipa": "ju ɑr ə mʌnθ leɪt",
+   "spell": "you are a month late"
+ },
+ {
+   "cefr": "",
+   "def2": "hebdomas sērō es",
+   "def1": "ти запізнився на тиждень",
+   "ipa": "ju ɑr ə wik leɪt",
+   "spell": "you are a week late"
+ },
+ {
+   "cefr": "",
+   "def2": "annus sērō es",
+   "def1": "ти запізнився на рік",
+   "ipa": "ju ɑr ə jɪr leɪt",
+   "spell": "you are a year late"
+ },
+ {
+   "cefr": "",
+   "def2": "hōrā sērō es",
+   "def1": "ти запізнився на годину",
+   "ipa": "ju ɑr ən ˈaʊər leɪt",
+   "spell": "you are an hour late"
+ },
+ {
+   "cefr": "",
+   "def2": "sērō es",
+   "def1": "ти запізнився",
+   "ipa": "ju ɑr leɪt",
+   "spell": "you are late"
+ },
+ {
+   "cefr": "",
+   "def2": "tū similis meī es",
+   "def1": "ти схожий на мене",
+   "ipa": "ju ɑr laɪk mi",
+   "spell": "you are like me"
+ },
+ {
+   "cefr": "",
+   "def2": "trīgintā minūta sērō es",
+   "def1": "ти запізнився на тридцять хвилин",
+   "ipa": "ju ɑr ˈθɜrdi ˈmɪnəts leɪt",
+   "spell": "you are thirty minutes late"
+ },
+ {
+   "cefr": "",
+   "def2": "duās hōrās sērō es",
+   "def1": "ти запізнився на дві години",
+   "ipa": "ju ɑr tu ˈaʊərz leɪt",
+   "spell": "you are two hours late"
+ },
+ {
+   "cefr": "",
+   "def2": "tū trīgintā minūta post vēnīs",
+   "def1": "ти прийдеш на тридцять хвилин пізніше",
+   "ipa": "ju kʌm ˈθɜrdi ˈmɪnəts ˈleɪtər",
+   "spell": "you come thirty minutes later"
+ },
+ {
+   "cefr": "",
+   "def2": "cavēre dēbēs",
+   "def1": "тобі потрібно бути обережним",
+   "ipa": "ju hæv tu bi ˈkɛrfəl",
+   "spell": "you have to be careful"
+ },
+ {
+   "cefr": "",
+   "def2": "tū mē amās",
+   "def1": "я тобі подобаюся",
+   "ipa": "ju laɪk mi",
+   "spell": "you like me"
+ },
+ {
+   "cefr": "",
+   "def2": "requiēs tibi necessāria est",
+   "def1": "тобі потрібен відпочинок",
+   "ipa": "ju nid rɛst",
+   "spell": "you need rest"
+ },
+ {
+   "cefr": "",
+   "def2": "ad decimam venīre dēbēs",
+   "def1": "тобі потрібно прийти о десятій",
+   "ipa": "ju nid tu kʌm æt tɛn",
+   "spell": "you need to come at ten"
+ },
+ {
+   "cefr": "",
+   "def2": "sōlum duo minūta habēs",
+   "def1": "у тебе всього дві хвилини",
+   "ipa": "ju ˈoʊnli hæv tu ˈmɪnəts",
+   "spell": "you only have two minutes"
+ },
+ {
+   "cefr": "",
+   "def2": "certior fierī vīs",
+   "def1": "ти хочеш переконатися",
+   "ipa": "ju wɑnt tu meɪk ʃʊr",
+   "spell": "you want to make sure"
+ }
+]
