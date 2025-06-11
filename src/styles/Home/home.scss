@@ -133,6 +133,8 @@
 
 @media only screen and (min-width: 220px) {
     #home2 {
+        font-family: 'Times New Roman', Times, serif;
+
         .hello {
             display: flex;
             justify-content: center;
@@ -152,6 +154,19 @@
 
                 h1 {
                     text-align: center;
+                }
+            }
+
+            .matt {
+                margin-bottom: 1em;
+                font-size: large;
+
+                .line1 {
+                    font-weight: bold;
+                }
+
+                .line2 {
+                    font-style: italic;
                 }
             }
         }
