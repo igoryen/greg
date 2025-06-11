@@ -33,12 +33,12 @@ class Layout extends React.Component {
 
                 <section className="spacesuit">
                     <header className="head">
-                        <div>Nobody's perfect, we're all a work in progress</div>
+                        <div>Anglofor</div>
                     </header>
                     <div className="torso">
                         <Outlet />
                     </div>
-                    <footer className="feet">Thank you for your interest!</footer>
+                    <footer className="feet">Anglofor</footer>
                 </section>
             </div>
         )
