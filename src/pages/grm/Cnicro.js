@@ -104,7 +104,7 @@ const Cnicro = (props) => {
 
                 <div className="sentence positive">
                     <div className="word pron _3ps">
-                        <div>it</div>
+                        <div>he she it</div>
                     </div>
 
                     <div className="word verb _3ps">
@@ -119,7 +119,7 @@ const Cnicro = (props) => {
 
                 <div className="sentence positive">
                     <div className="word pron _3ps">
-                        <div>it</div>
+                        <div>he she it</div>
                     </div>
 
                     <div className="word verb _3ps">
@@ -134,7 +134,7 @@ const Cnicro = (props) => {
 
                 <div className="sentence negative">
                     <div className="word pron _3ps">
-                        <div>it</div>
+                        <div>he she it</div>
                     </div>
 
                     <div className="word verb _3ps">
@@ -153,7 +153,7 @@ const Cnicro = (props) => {
 
                 <div className="sentence negative">
                     <div className="word pron _3ps">
-                        <div>it</div>
+                        <div>he she it</div>
                     </div>
 
                     <div className="word verb _3ps">
@@ -171,7 +171,7 @@ const Cnicro = (props) => {
                 </div>
                 <div className="sentence negative">
                     <div className="word pron _3ps">
-                        <div>it</div>
+                        <div>he she it</div>
                     </div>
 
                     <div className="word verb _3ps">
@@ -195,7 +195,7 @@ const Cnicro = (props) => {
                         <div className="avatar">is</div>
                     </div>
                     <div className="word pron _3ps">
-                        <div>it</div>
+                        <div>he she it</div>
                     </div>
 
 
