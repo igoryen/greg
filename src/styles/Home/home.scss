@@ -173,12 +173,18 @@
         }
 
         .pages {
-            margin-top: 3em;
+            margin: 3em;
+            text-align: center;
 
             a {
                 border: 1px dashed lightblue;
-                font-size: large;
-                padding: 1em;
+                font-size: 2em;
+                padding: 0.5em;
+                margin: 0.3em;
+
+                &:hover {
+                    background-color: rgba($color: #000000, $alpha: 0.1);
+                }
 
             }
         }
