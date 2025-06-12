@@ -171,6 +171,17 @@
                 }
             }
         }
+
+        .pages {
+            margin-top: 3em;
+
+            a {
+                border: 1px dashed lightblue;
+                font-size: large;
+                padding: 1em;
+
+            }
+        }
     }
 
     #home {

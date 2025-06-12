@@ -49,6 +49,11 @@ const HomePage = () => {
 
                 </div>
             </div>
+
+
+            <div className="pages">
+                <a className="" href="/cnicro" >🌹</a>
+            </div>
         </section>
     );
 }

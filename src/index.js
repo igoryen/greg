@@ -41,6 +41,10 @@ import AS03 from "./pages/as/AS03";
 
 
 import Bob from "./pages/Bob";
+
+import Cnicro from "./pages/grm/Cnicro";
+
+
 import Dan from "./pages/Dan";
 
 import GK from "./pages/gk/GK";
@@ -248,6 +252,8 @@ export default function App() {
           <Route path="as01" element={<AS01 />} />
           <Route path="as02" element={<AS02 />} />
           <Route path="as03" element={<AS03 />} />
+
+          <Route path="cnicro" element={<Cnicro />} />
 
           <Route path="os" element={<OS />} />
           <Route path="os01" element={<OS01 />} />

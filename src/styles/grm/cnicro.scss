@@ -1,0 +1,92 @@
+.cnicro {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: "Noto Sans", sans-serif;
+    width: 100%;
+
+
+    .sentenceBlock {
+        border: 3px solid brown;
+        border-radius: 10px;
+        padding: 1em;
+        margin: 0.5em 3px;
+    }
+
+    .sentence {
+        border-radius: 10px;
+        display: flex;
+        font-size: 25px;
+        margin: 0.5em 0;
+        max-width: fit-content;
+        padding-bottom: 0.5em;
+
+        &.negative {
+            border: 3px solid coral;
+
+        }
+
+        &.positive {
+            border: 3px solid greenyellow;
+        }
+
+        &.question {
+            border: 3px solid lightskyblue;
+        }
+
+        .word {
+            border: 1px dashed lightblue;
+            display: flex;
+            // font-size: large;
+            // font-weight: 900;
+            margin: 0 3px;
+            max-width: min-content;
+            padding: 3px;
+            position: relative;
+
+            &.pron,
+            &.verb {
+                &._1ps {
+                    color: green;
+                }
+
+                &._3ps {
+                    color: red;
+                    border-radius: 10px;
+                }
+
+                &._pl {
+                    color: #3173c5;
+                    line-height: 1;
+                }
+            }
+
+            &.pron {
+                &._pl {}
+            }
+
+            &.adv {
+                &.not {
+                    background-color: crimson;
+                    border-radius: 10px;
+                    color: white;
+                }
+            }
+
+        }
+
+        .basicForm {
+            color: lightgray;
+            font-size: xx-large;
+            font-weight: 900;
+            padding-top: 8px;
+        }
+
+
+        .avatar {
+
+            left: 0;
+            position: absolute;
+            top: 0;
+        }
+    }
+}

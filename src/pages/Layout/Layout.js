@@ -32,6 +32,7 @@ class Layout extends React.Component {
 
 
                 <section className="spacesuit">
+                    <a className="" href="/" >🏠</a>
                     <header className="head">
                         <div>ˈæŋgloʊˌfor</div>
                     </header>
