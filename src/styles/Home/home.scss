@@ -158,18 +158,65 @@
                 }
             }
 
-            .matt {
-                margin-bottom: 1em;
-                font-size: large;
 
-                .line1 {
-                    font-weight: bold;
+        }
+
+        .kim {
+            &>h1 {
+                i {
+                    font-style: normal;
                 }
 
-                .line2 {
-                    font-style: italic;
+                &>i:nth-of-type(1) {
+                    // background-color: #cbe6ef;
+                    // color: #4989a7;
+                }
+
+                &>i:nth-of-type(2) {
+                    // background-color: #aeebae;
+                    // color: #3ad53a;
+                }
+
+                &>i:nth-of-type(3) {
+                    // background-color: #f5cad1;
+                    // color: #e34040;
                 }
             }
+        }
+
+        .jimmy {
+            &>div:nth-of-type(1) {
+                background-color: #cbe6ef;
+            }
+
+            &>div:nth-of-type(2) {
+                background-color: #aeebae;
+            }
+
+            &>div:nth-of-type(3) {
+                background-color: #f5cad1;
+            }
+        }
+
+        .matt {
+            padding: 0.5em;
+
+            margin-bottom: 0.3em;
+            font-size: large;
+
+            .line1 {
+                font-weight: bold;
+            }
+
+            .line2 {
+                font-style: italic;
+            }
+        }
+
+        .mike {
+            font-size: medium;
+            border: 1px dashed lightblue;
+            padding: 0.5em;
         }
 
         .pages {
