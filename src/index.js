@@ -157,6 +157,9 @@ import OT10 from "./pages/ot/OT10";
 import Prenu from "./pages/grm/Prenu";
 import Prisma from "./pages/Prisma";
 
+
+import Rimni from "./pages/son/Rimni";
+
 import Sam from "./pages/Sam";
 
 import SB from "./pages/sb/SB";
@@ -362,6 +365,8 @@ export default function App() {
           <Route path="ot10" element={<OT10 />} />
 
           <Route path="prenu" element={<Prenu />} />
+
+          <Route path="rimni" element={<Rimni />} />
 
           <Route path="sb" element={<SB />} />
           <Route path="sb01" element={<SB01 />} />

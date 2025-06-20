@@ -51,6 +51,8 @@ const HomePage = () => {
             <div className="pages">
                 <a className="" href="/cnicro" >🌹</a>
                 <a className="" href="/prenu" >🌲</a>
+                <a className="" href="/rimni" >🌸</a>
+
 
             </div>
         </section >
