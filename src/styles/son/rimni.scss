@@ -1,9 +1,30 @@
 .rimni {
     font-family: "Noto Sans", serif;
 
+    h1 {
+        font-size: x-large;
+        color: #1a81ef;
+        margin: 2em 0;
+    }
+
+    h2 {
+        font-size: large;
+        margin: 1em 0;
+        color: gray;
+    }
+
     .randy {
         line-height: 1.2;
-        margin: 1em;
+        margin: 1em 1em 3em;
+
+
+        &>div:nth-child(odd) {
+
+            .ernie {
+                margin-left: 1em;
+                // background-color: #1a81ef;
+            }
+        }
 
         &>div:nth-child(even) {
             // background-color: rgb(234, 213, 217);
@@ -42,6 +63,7 @@
         .charlie {
             font-size: 17em;
             font-weight: 600;
+            letter-spacing: -20px;
             text-shadow: 20px 12px 7px rgb(0 0 0 / 10%);
         }
 
@@ -58,7 +80,7 @@
             &>div:first-child {
                 color: #1a81ef;
                 font-size: large;
-                white-space: nowrap;
+                // white-space: nowrap;
             }
         }
     }
