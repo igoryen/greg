@@ -1,0 +1,394 @@
+[
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "галочка",
+    "ipa": "ə tʃɛk mɑrk",
+    "spell": "a checkmark"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "хрестик",
+    "ipa": "ə krɔs",
+    "spell": "a cross"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "усі дні",
+    "ipa": "ɔl deɪz",
+    "spell": "all days"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "завжди",
+    "ipa": "ˈɔlˌweɪz",
+    "spell": "always"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "прислівник частоти",
+    "ipa": "ən ˈædvərb ʌv ˈfrikwənsi",
+    "spell": "an adverb of frequency"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "бо її колега попросив",
+    "ipa": "bɪˈkɔz hɜr ˈkoʊˈwɜrkər æskt hɜr",
+    "spell": "because her co-worker asked her"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти маєш хоч якесь уявлення?",
+    "ipa": "du ju hæv ˈɛni aɪˈdiə?",
+    "spell": "do you have any idea?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це тобі щось нагадує?",
+    "ipa": "dʌz ɪt rɪŋ ˈɛni bɛlz?",
+    "spell": "does it ring any bells?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона зазвичай ходить по магазинам?",
+    "ipa": "dʌz ʃi ˈjuʒəwəli ɡoʊ ˈʃɑpɪŋ?",
+    "spell": "does she usually go shopping?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "частота",
+    "ipa": "ˈfrikwənsi",
+    "spell": "frequency"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "частий",
+    "ipa": "ˈfrikwənt",
+    "spell": "frequent"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "він ніколи не їсть м'ясо",
+    "ipa": "hi ˈnɛvər its mit",
+    "spell": "he never eats meat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "як часто",
+    "ipa": "haʊ ˈfrikwənt",
+    "spell": "how frequent"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "як проходить твій день?",
+    "ipa": "haʊ ɪz jʊər deɪ ˈɡoʊɪŋ?",
+    "spell": "how is your day going?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "скільки годин на день",
+    "ipa": "haʊ ˈmɛni ˈaʊərz ə deɪ",
+    "spell": "how many hours a day"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "скільки годин на день вона працює?",
+    "ipa": "haʊ ˈmɛni ˈaʊərz ə deɪ dʌz ʃi wɜrk?",
+    "spell": "how many hours a day does she work?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "як часто",
+    "ipa": "haʊ ˈɔfən",
+    "spell": "how often"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я завжди снідаю",
+    "ipa": "aɪ ˈɔlˌweɪz hæv ˈbrɛkfəst",
+    "spell": "I always have breakfast"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не знаю чому",
+    "ipa": "aɪ doʊnt noʊ waɪ",
+    "spell": "I don't know why"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мені так її шкода",
+    "ipa": "aɪ fil soʊ ˈsɑri fɔr hɜr",
+    "spell": "I feel so sorry for her"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я це ненавиджу",
+    "ipa": "aɪ heɪt ɪt",
+    "spell": "I hate it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у мене немає нічого",
+    "ipa": "aɪ hæv ˈnʌθɪŋ",
+    "spell": "I have nothing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я нічого не чую",
+    "ipa": "aɪ hir ˈnʌθɪŋ",
+    "spell": "I hear nothing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я нікого не знаю",
+    "ipa": "aɪ noʊ ˈnoʊˌbɑˌdi",
+    "spell": "I know nobody"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я нічого не знаю",
+    "ipa": "aɪ noʊ ˈnʌθɪŋ",
+    "spell": "I know nothing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я ніколи не п'ю кави",
+    "ipa": "aɪ ˈnɛvər hæv ˈkɑfi",
+    "spell": "I never have coffee"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я ніколи не працюю по неділях",
+    "ipa": "aɪ ˈnɛvər wɜrk ɑn ˈsʌnˌdeɪz",
+    "spell": "I never work on Sundays"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я нічого не бачу",
+    "ipa": "aɪ si ˈnʌθɪŋ",
+    "spell": "I see nothing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я хочу цю роботу",
+    "ipa": "aɪ wɑnt ðɪs ʤɑb",
+    "spell": "I want this job"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я хочу вийти на вулицю",
+    "ipa": "aɪ wɑnt tu ɡoʊ ˈaʊtˈsaɪd",
+    "spell": "I want to go outside"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це залежить",
+    "ipa": "ɪt dɪˈpɛndz",
+    "spell": "it depends"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "зв'яжіть їх",
+    "ipa": "mæʧ ðɛm",
+    "spell": "match them"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "моя дружина сьогодні працює",
+    "ipa": "maɪ waɪf wɜrks təˈdeɪ",
+    "spell": "my wife works today"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ніколи",
+    "ipa": "ˈnɛvər",
+    "spell": "never"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона не працює",
+    "ipa": "ʃi ˈdʌzənt wɜrk",
+    "spell": "she doesn’t work"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона сьогодні працює",
+    "ipa": "ʃi ɪz ˈwɜrkɪŋ təˈdeɪ",
+    "spell": "she is working today"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона нікого не знає",
+    "ipa": "ʃi noʊz ˈnoʊˌbɑˌdi",
+    "spell": "she knows nobody"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона ніколи не п'є кави",
+    "ipa": "ʃi ˈnɛvər hæz ˈkɑfi",
+    "spell": "she never has coffee"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона ніколи не працює вночі",
+    "ipa": "ʃi ˈnɛvər wɜrks æt naɪt",
+    "spell": "she never works at night"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона іноді це дивиться",
+    "ipa": "ʃi ˈsʌmtaɪmz ˈwɑʧəz ɪt",
+    "spell": "she sometimes watches it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона зазвичай не працює по п'ятницях",
+    "ipa": "ʃi ˈjuʒəwəli ˈdʌzənt wɜrk ɑn ˈfraɪdiz",
+    "spell": "she usually doesn't work on Fridays"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона зазвичай ходить по магазинах",
+    "ipa": "ʃi ˈjuʒəwəli ɡoʊz ˈʃɑpɪŋ",
+    "spell": "she usually goes shopping"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона зазвичай працює по неділях",
+    "ipa": "ʃi ˈjuʒəwəli wɜrks ɑn ˈsʌnˌdeɪz",
+    "spell": "she usually works on Sundays"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона не працюватиме цієї неділі",
+    "ipa": "ʃi wɪl nɑt wɜrk ðɪs ˈsʌnˌdeɪ",
+    "spell": "she will not work this Sunday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона працює в супермаркеті",
+    "ipa": "ʃi wɜrks æt ə ˈsupərˌmɑrkɪt",
+    "spell": "she works at a supermarket"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона працює довгі зміни",
+    "ipa": "ʃi wɜrks lɔŋ ʃɪfts",
+    "spell": "she works long shifts"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "іноді",
+    "ipa": "ˈsʌmtaɪmz",
+    "spell": "sometimes"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "іноді десять годин, іноді п'ять годин",
+    "ipa": "ˈsʌmtaɪmz tɛn ˈaʊərz, ˈsʌmtaɪmz faɪv ˈaʊərz",
+    "spell": "sometimes ten hours, sometimes five hours"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це гарна робота",
+    "ipa": "ðæts ə naɪs ʤɑb",
+    "spell": "that's a nice job"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дні тижня",
+    "ipa": "ðə deɪz ʌv ðə wik",
+    "spell": "the days of the week"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "головне дієслово",
+    "ipa": "ðə meɪn vɜrb",
+    "spell": "the main verb"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вони зазвичай закінчують о п'ятій",
+    "ipa": "ðeɪ ˈjuʒəwəli ˈfɪnɪʃ æt faɪv",
+    "spell": "they usually finish at five"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "два дні на тиждень",
+    "ipa": "tu deɪz ɪn ə wik",
+    "spell": "two days in a week"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "два рази на тиждень",
+    "ipa": "tu taɪmz ə wik",
+    "spell": "two times a week"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "коли ти зазвичай встаєш?",
+    "ipa": "wɛn du ju ˈjuʒəwəli ɡɛt ʌp?",
+    "spell": "when do you usually get up?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "де вона працює?",
+    "ipa": "wɛr dʌz ʃi wɜrk?",
+    "spell": "where does she work?"
+  }
+]
