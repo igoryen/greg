@@ -159,6 +159,7 @@ import OT06 from "./pages/ot/OT06";
 import OT07 from "./pages/ot/OT07";
 import OT09 from "./pages/ot/OT09";
 import OT10 from "./pages/ot/OT10";
+import OT18 from "./pages/ot/OT18";
 
 import Prenu from "./pages/grm/Prenu";
 import Prisma from "./pages/Prisma";
@@ -377,6 +378,7 @@ export default function App() {
           <Route path="ot07" element={<OT07 />} />
           <Route path="ot09" element={<OT09 />} />
           <Route path="ot10" element={<OT10 />} />
+          <Route path="ot18" element={<OT18 />} />
 
           <Route path="prenu" element={<Prenu />} />
 
