@@ -8,9 +8,9 @@ class IP13 extends React.Component {
 
     render() {
         const lesson = {
-            "student": "Ihor",
+            "student": "Ivan",
             "number": 13,
-            "slug": "ip"
+            "slug": "ik"
         };
 
         return (
