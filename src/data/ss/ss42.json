@@ -1,0 +1,856 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пластырь",
+   "ipa": "ə ˈbændeɪd",
+   "spell": "a bandaid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "картонная коробка",
+   "ipa": "ə ˈkɑrdˌbɔrd bɑks",
+   "spell": "a cardboard box"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ящик",
+   "ipa": "ə drɔr",
+   "spell": "a drawer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "филиппинец",
+   "ipa": "ə ˌfɪləˈpinoʊ",
+   "spell": "a Filipino"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "еврейский врач",
+   "ipa": "ə ˈʤuɪʃ ˈdɑktər",
+   "spell": "a Jewish doctor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гипс",
+   "ipa": "ə ˈplæstər",
+   "spell": "a plaster"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пластиковая коробка",
+   "ipa": "ə ˈplæstɪk bɑks",
+   "spell": "a plastic box"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "русскоговорящий врач",
+   "ipa": "ə ˈrʌʃən-ˈspikɪŋ ˈdɑktər",
+   "spell": "a Russian-speaking doctor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тележка",
+   "ipa": "ə ˈʃɑpɪŋ kɑrt",
+   "spell": "a shopping cart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "невысокий человек",
+   "ipa": "ə ʃɔrt ˈpɜrsən",
+   "spell": "a short person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "источник дохода",
+   "ipa": "ə sɔrs ʌv ˈɪnˌkʌm",
+   "spell": "a source of income"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "губка",
+   "ipa": "ə spʌnʤ",
+   "spell": "a sponge"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стопка",
+   "ipa": "ə stæk",
+   "spell": "a stack"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "испытание",
+   "ipa": "ə ˈtraɪəl",
+   "spell": "a trial"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "испытательный срок",
+   "ipa": "ə ˈtraɪəl ˈpɪriəd",
+   "spell": "a trial period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рабочая неделя",
+   "ipa": "ə wɜrk wik",
+   "spell": "a work week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "после испытательного срока",
+   "ipa": "ˈæftər ðə ˈtraɪəl ˈpɪriəd",
+   "spell": "after the trial period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все приплаты, надбавки ",
+   "ipa": "ɔl ðə pɜrks",
+   "spell": "all the perks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один мой знакомый",
+   "ipa": "ən əˈkweɪntəns ʌv maɪn",
+   "spell": "an acquaintance of mine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полтора часа",
+   "ipa": "ən ˈaʊər ænd ə hæf",
+   "spell": "an hour and a half"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "доход",
+   "ipa": "ən ˈɪnˌkʌm",
+   "spell": "an income"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "антиквариат",
+   "ipa": "ænˈtiks",
+   "spell": "antiques"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "льготы",
+   "ipa": "ˈbɛnəfɪts",
+   "spell": "benefits"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "понемногу",
+   "ipa": "bɪt baɪ bɪt",
+   "spell": "bit by bit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по категориям",
+   "ipa": "baɪ ˈkætəˌɡɔri",
+   "spell": "by category"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты можешь использовать тележку?",
+   "ipa": "kæn ju juz ə kɑrt?",
+   "spell": "can you use a cart?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они торопят тебя?",
+   "ipa": "du ðeɪ rʌʃ ju?",
+   "spell": "do they rush you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя получается сесть в поезде или автобусе?",
+   "ipa": "du ju ɡɛt tu sɪt daʊn ɑn ə treɪn ɔr ə bʌs?",
+   "spell": "do you get to sit down on a train or a bus?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя получается разговаривать с людьми?",
+   "ipa": "du ju ɡɛt tu tɔk wɪð ˈpipəl?",
+   "spell": "do you get to talk with people?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во время испытательного срока",
+   "ipa": "ˈdʊrɪŋ ðə ˈtraɪəl ˈpɪriəd",
+   "spell": "during the trial period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пока что",
+   "ipa": "fɔr naʊ",
+   "spell": "for now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с автобуса на автобус",
+   "ipa": "frʌm bʌs tu bʌs",
+   "spell": "from bus to bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жадный",
+   "ipa": "ˈɡridi",
+   "spell": "greedy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ему нравится там работать",
+   "ipa": "hi laɪks ˈwɜrkɪŋ ðɛr",
+   "spell": "he likes working there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сказал мне",
+   "ipa": "hi toʊld mi",
+   "spell": "he told me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он закончит работу на том складе",
+   "ipa": "hi wɪl ˈfɪnɪʃ wɜrk æt ðæt ˈwɛrˌhaʊs",
+   "spell": "he will finish work at that warehouse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я рад за тебя",
+   "ipa": "aɪ æm ˈhæpi fɔr ju",
+   "spell": "I am happy for you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне больно, у меня боль",
+   "ipa": "aɪ æm ɪn peɪn",
+   "spell": "I am in pain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу дотянуться до верхней полки",
+   "ipa": "aɪ kæn riʧ ðə tɑp ʃɛlf",
+   "spell": "I can reach the top shelf"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу найти выход",
+   "ipa": "aɪ kænt faɪnd ə weɪ aʊt",
+   "spell": "I can't find a way out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу держать голову прямо",
+   "ipa": "aɪ kænt kip maɪ hɛd streɪt",
+   "spell": "I can't keep my head straight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу терпеть боль",
+   "ipa": "aɪ kænt stænd ðə peɪn",
+   "spell": "I can't stand the pain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу идти прямо",
+   "ipa": "aɪ kænt wɔk streɪt",
+   "spell": "I can't walk straight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никогда там не была",
+   "ipa": "aɪ hæv ˈnɛvər bɪn ðɛr",
+   "spell": "I have never been there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никогда об этом не думала",
+   "ipa": "aɪ hæv ˈnɛvər θɔt əˈbaʊt ɪt",
+   "spell": "I have never thought about it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я должна ехать автобусом",
+   "ipa": "aɪ hæv tu teɪk ə bʌs",
+   "spell": "I have to take a bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я должна ждать автобус двадцать минут",
+   "ipa": "aɪ hæv tu weɪt ˈtwɛnti ˈmɪnəts ˈmɪnəts fɔr ðə bʌs",
+   "spell": "I have to wait twenty minutes minutes for the bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не была там",
+   "ipa": "aɪ ˈhævənt bɪn ðɛr",
+   "spell": "I haven't been there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я еще не видела всего",
+   "ipa": "aɪ ˈhævənt sin ɔl ʌv ɪt jɛt",
+   "spell": "I haven't seen all of it yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я еще не видела всего места",
+   "ipa": "aɪ ˈhævənt sin ðə hoʊl pleɪs jɛt",
+   "spell": "I haven't seen the whole place yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я держу это в секрете",
+   "ipa": "aɪ kip ɪt ə ˈsikrət",
+   "spell": "I keep it a secret"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я раскладываю их",
+   "ipa": "aɪ leɪ ðɛm aʊt",
+   "spell": "I lay them out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я лежу полчаса",
+   "ipa": "aɪ laɪ daʊn fɔr hæf ən ˈaʊər",
+   "spell": "I lie down for half an hour"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не должна пропускать ни дня",
+   "ipa": "aɪ mʌst nɑt skɪp ə ˈsɪŋɡəl deɪ",
+   "spell": "I must not skip a single day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужно время, чтобы добраться домой",
+   "ipa": "aɪ nid taɪm tu ɡɛt hoʊm",
+   "spell": "I need time to get home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я складываю книги стопкой",
+   "ipa": "aɪ stæk bʊks",
+   "spell": "I stack books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никому не говорю",
+   "ipa": "aɪ tɛl ˈnoʊˌbɑˌdi",
+   "spell": "I tell nobody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хожу согнувшись",
+   "ipa": "aɪ wɔk bɛnt ˈoʊvər",
+   "spell": "I walk bent over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хожу сгорбившись",
+   "ipa": "aɪ wɔk hʌnʧt ˈoʊvər",
+   "spell": "I walk hunched over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я работаю в отделе книг",
+   "ipa": "aɪ wɜrk ɪn ðə bʊks ˈsɛkʃən",
+   "spell": "I work in the books section"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я работаю с книгами",
+   "ipa": "aɪ wɜrk wɪð bʊks",
+   "spell": "I work with books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я всего в двух минутах от дома",
+   "ipa": "aɪm ˈoʊnli tu ˈmɪnəts frʌm hoʊm",
+   "spell": "I'm only two minutes from home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если я не успеваю на поезд",
+   "ipa": "ɪf doʊnt meɪk ɪt ɪn taɪm fɔr tu ðə treɪn",
+   "spell": "if don't make it in time for to the train"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если я успеваю на CTrain",
+   "ipa": "ɪf aɪ meɪk ɪt tu ðə si-treɪn",
+   "spell": "if I make it to the CTrain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если вы пропустишь C-train",
+   "ipa": "ɪf ju mɪs ðə si-treɪn",
+   "spell": "if you miss the C-train"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё близко?",
+   "ipa": "ɪz ˈɛvriˌθɪŋ kloʊs?",
+   "spell": "is everything close?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это почти ничего не покрывает ",
+   "ipa": "ɪt ˈkʌvərz ˈɔlˌmoʊst ˈnʌθɪŋz",
+   "spell": "it covers almost nothings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это тяжело для моей спины",
+   "ipa": "ɪt ɪz hɑrd ɑn maɪ bæk",
+   "spell": "it is hard on my back"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это официально закончено",
+   "ipa": "ɪt ɪz əˈfɪʃəli ˈoʊvər",
+   "spell": "it is officially over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это усугубляет",
+   "ipa": "ɪt meɪks ɪt wɜrs",
+   "spell": "it makes it worse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это мне подходит",
+   "ipa": "ɪt suts mi",
+   "spell": "it suits me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужно полтора часа",
+   "ipa": "ɪt teɪks mi ən ˈaʊər ænd ə hæf",
+   "spell": "it takes me an hour and a half"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужно час, чтобы добраться домой",
+   "ipa": "ɪt teɪks mi wʌn ˈaʊər tu ɡɛt hoʊm",
+   "spell": "it takes me one hour to get home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это лучше, чем ничего",
+   "ipa": "ɪts ˈbɛtər ðæn ˈnʌθɪŋ",
+   "spell": "it's better than nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "взаимный",
+   "ipa": "ˈmjuʧuəl",
+   "spell": "mutual"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя спина никогда не отдыхает",
+   "ipa": "maɪ bæk ˈnɛvər ɡɛts ˈɛni rɛst",
+   "spell": "my back never gets any rest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя спина никогда не отдыхает",
+   "ipa": "maɪ bæk ˈnɛvər rɛsts",
+   "spell": "my back never rests"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой друг сказал мне",
+   "ipa": "maɪ frɛnd toʊld mi",
+   "spell": "my friend told me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя работа включает перемещение тяжелых предметов",
+   "ipa": "maɪ wɜrk ɪnˈkludz ˈmuvɪŋ ˈhɛvi ˈɑbʤɛkts",
+   "spell": "my work includes moving heavy objects"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет оплачиваемых отпусков",
+   "ipa": "noʊ peɪd livz",
+   "spell": "no paid leaves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет оплачиваемых больничных",
+   "ipa": "noʊ peɪd sɪk deɪz",
+   "spell": "no paid sick days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ни у кого из нас этого нет",
+   "ipa": "nʌn ʌv ʌs hæz ɪt",
+   "spell": "none of us has it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неплохо",
+   "ipa": "nɑt bæd",
+   "spell": "not bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не совсем",
+   "ipa": "nɑt kwaɪt",
+   "spell": "not quite"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старая технология",
+   "ipa": "oʊld tɛkˈnɑləʤi",
+   "spell": "old technology"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один маршрут",
+   "ipa": "wʌn rut",
+   "spell": "one route"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "к черту их!",
+   "ipa": "skru ðɛm!",
+   "spell": "screw them!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "к черту тебя!",
+   "ipa": "skru ju!",
+   "spell": "screw you!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она получает двадцать восемь долларов в час",
+   "ipa": "ʃi meɪks ˈtwɛnti eɪt ˈdɑlərz pɜr ˈaʊər",
+   "spell": "she makes twenty eight dollars per hour"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она становится на что-нибудь маленькое",
+   "ipa": "ʃi stændz ɑn ˈsʌmθɪŋ smɔl",
+   "spell": "she stands on something small"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шестьдесят в час",
+   "ipa": "ˈsɪksti pɜr ˈaʊər",
+   "spell": "sixty per hour"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "минимальная зарплата",
+   "ipa": "ðə ˈmɪnəməm weɪʤ",
+   "spell": "the minimum wage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зарплата на 4 доллара больше",
+   "ipa": "ðə ˈsæləri ɪz 4 ˈdɑlərz mɔr",
+   "spell": "the salary is 4 dollars more"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть очень тяжелые книги",
+   "ipa": "ðɛr ɑr ˈvɛri ˈhɛvi bʊks",
+   "spell": "there are very heavy books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вас сразу взяли на работу",
+   "ipa": "ðeɪ ˈhaɪərd ju raɪt əˈweɪ",
+   "spell": "they hired you right away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "меня уволят",
+   "ipa": "ðeɪ wɪl ˈfaɪər mi",
+   "spell": "they will fire me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "меня отпустят",
+   "ipa": "ðeɪ wɪl lɛt mi ɡoʊ",
+   "spell": "they will let me go"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "толстые книги",
+   "ipa": "θɪk bʊks",
+   "spell": "thick books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "забираться высоко, чтобы собирать заказы",
+   "ipa": "tu klaɪm haɪ tu pɪk ˈɔrdərz",
+   "spell": "to climb high to pick orders"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "узнать меня",
+   "ipa": "tu kʌm tu noʊ mi",
+   "spell": "to come to know me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добраться домой",
+   "ipa": "tu ɡɛt hoʊm",
+   "spell": "to get home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "встретить меня",
+   "ipa": "tu mit mi",
+   "spell": "to meet me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перемещать тяжелые предметы",
+   "ipa": "tu muv ˈhɛvi θɪŋz əˈraʊnd",
+   "spell": "to move heavy things around"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раскладывать книги и аудио по разным полкам",
+   "ipa": "tu pʊt bʊks ænd ˈɑdiˌoʊ ɑn ˈdɪfərənt ʃɛlvz",
+   "spell": "to put books and audio on different shelves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "использовать лестницу",
+   "ipa": "tu juz ə ˈlædər",
+   "spell": "to use a ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работать на высоте",
+   "ipa": "tu wɜrk æt haɪts",
+   "spell": "to work at heights"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работать на государственной службе",
+   "ipa": "tu wɜrk ɪn ˈɡʌvərmənt ˈsɜrvəs",
+   "spell": "to work in government service"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работать без приплат мне подходит",
+   "ipa": "tu wɜrk wɪˈθaʊt ˈbɛnəfɪt suts mi",
+   "spell": "to work without benefit suits me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "украинцы",
+   "ipa": "juˈkreɪniən ˈpipəl",
+   "spell": "Ukrainian people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неоплачиваемые больничные",
+   "ipa": "ənˈpeɪd sɪk deɪz",
+   "spell": "unpaid sick days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какие возраста?",
+   "ipa": "wɑt ˈeɪʤəz?",
+   "spell": "what ages?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я закончу",
+   "ipa": "wɛn aɪ ˈfɪnɪʃ",
+   "spell": "when I finish"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я выхожу из автобуса",
+   "ipa": "wɛn aɪ ɡɛt ɔf ðə bʌs",
+   "spell": "when I get off the bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я закончу это",
+   "ipa": "wɛn aɪ hæv ˈfɪnɪʃt ɪt",
+   "spell": "when I have finished it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я проработаю год, у меня будет 5 или 6 оплачиваемых больничных дней",
+   "ipa": "wɛn aɪ hæv wɜrkt fɔr ə jɪr, aɪ wɪl hæv 5 ɔr 6 peɪd sɪk deɪz",
+   "spell": "when I have worked for a year, I will have 5 or 6 paid sick days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я начала",
+   "ipa": "wɛn aɪ ˈstɑrtɪd",
+   "spell": "when I started"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда они спрашивают меня",
+   "ipa": "wɛn ðeɪ æsk mi",
+   "spell": "when they ask me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "там, где я могу ходить, а не стоять на месте",
+   "ipa": "wɛr aɪ kæn wɔk ænd nɑt stænd stɪl",
+   "spell": "where I can walk and not stand still"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у всех вас есть источники дохода",
+   "ipa": "ju ɔl hæv ˈsɔrsəz ʌv ˈɪnˌkʌm",
+   "spell": "you all have sources of income"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты можешь ехать на работу на C-train",
+   "ipa": "ju ɡɛt tu ɡoʊ tu wɜrk baɪ si-treɪn",
+   "spell": "you get to go to work by C-train"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твой муж получил повышение з.п.",
+   "ipa": "jʊər ˈhʌzbənd hæz ˈɡɑtən ə reɪz",
+   "spell": "your husband has gotten a raise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твоя безработица",
+   "ipa": "jʊər ˌʌnɪmˈplɔɪmənt",
+   "spell": "your unemployment"
+ }
+]
