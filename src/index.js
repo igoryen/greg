@@ -167,6 +167,8 @@ import Prisma from "./pages/Prisma";
 
 import Rimni from "./pages/son/Rimni";
 
+import Ruo from "./pages/son/Ruo";
+
 import Sam from "./pages/Sam";
 
 import SB from "./pages/sb/SB";
@@ -383,6 +385,7 @@ export default function App() {
           <Route path="prenu" element={<Prenu />} />
 
           <Route path="rimni" element={<Rimni />} />
+          <Route path="ruo" element={<Ruo />} />
 
           <Route path="sb" element={<SB />} />
           <Route path="sb01" element={<SB01 />} />
