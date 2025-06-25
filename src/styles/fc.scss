@@ -227,7 +227,7 @@ span.sgn i {
 }
 
 .tom {
-    p {
+    &>div {
         font-size: 2em;
     }
 
@@ -497,14 +497,15 @@ span.sgn i {
     flex-wrap: wrap;
     gap: 1em;
 
-    p {
+    &>div {
         background-color: #fff;
-        box-shadow: 1px 1px 1px #bbb;
+        font-size: 2em;
         display: flex;
         flex-direction: column;
         text-align: center;
 
         a {
+            box-shadow: 1px 1px 1px #bbb;
             color: #555;
             line-height: normal;
             padding: 0.5em;
