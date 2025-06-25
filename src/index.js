@@ -72,6 +72,7 @@ import IC01 from "./pages/ic/IC01";
 import IK from "./pages/ik/IK";
 import IK01 from "./pages/ik/IK01";
 import IK02 from "./pages/ik/IK02";
+import IK13 from "./pages/ik/IK13";
 
 import IM from "./pages/im/IM";
 import IM01 from "./pages/im/IM01";
@@ -110,8 +111,8 @@ import IP34 from "./pages/ip/IP34";
 import IP42 from "./pages/ip/IP42";
 import IP43 from "./pages/ip/IP43";
 
-import IS from "./pages/is/IS";
-import IS01 from "./pages/is/IS01";
+import IS from "./pages/s/is/IS";
+import IS01 from "./pages/s/is/IS01";
 
 import Jaw from "./pages/Jaw";
 import Leo from "./pages/Leo";
@@ -298,6 +299,7 @@ export default function App() {
           <Route path="ik" element={<IK />} />
           <Route path="ik01" element={<IK01 />} />
           <Route path="ik02" element={<IK02 />} />
+          <Route path="ik13" element={<IK13 />} />
 
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
