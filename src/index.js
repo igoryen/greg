@@ -119,6 +119,9 @@ import IS from "./pages/s/is/IS";
 import IS01 from "./pages/s/is/IS01";
 
 import Jaw from "./pages/Jaw";
+
+import Kooi from "./pages/grm/Kooi";
+
 import Leo from "./pages/Leo";
 
 import MG from "./pages/s/mg/MG";
@@ -350,6 +353,8 @@ export default function App() {
 
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />
+
+          <Route path="kooi" element={<Kooi />} />
 
           <Route path="mg" element={<MG />} />
           <Route path="mg02" element={<MG02 />} />
