@@ -1,0 +1,730 @@
+[
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ягода",
+    "ipa": "ə ˈbɛri",
+    "spell": "a berry"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "миша",
+    "ipa": "ə maʊs",
+    "spell": "a mouse"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "рот",
+    "ipa": "ə maʊθ",
+    "spell": "a mouth"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "охоронець",
+    "ipa": "ə sɪˈkjʊrəti ɡɑrd",
+    "spell": "a security guard"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "охоронець - це не поліцейський",
+    "ipa": "ə sɪˈkjʊrəti ɡɑrd ɪz nɑt ə kɑp",
+    "spell": "a security guard is not a cop"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "охоронець магазину",
+    "ipa": "ə stɔr sɪˈkjʊrəti ɡɑrd",
+    "spell": "a store security guard"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дивна людина",
+    "ipa": "ə streɪnʤ ˈpɜrsən",
+    "spell": "a strange person"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "незнайомець",
+    "ipa": "ə ˈstreɪnʤər",
+    "spell": "a stranger"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "овоч",
+    "ipa": "ə ˈvɛʤtəbəl",
+    "spell": "a vegetable"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дуже дивний звук",
+    "ipa": "ə ˈvɛri streɪnʤ saʊnd",
+    "spell": "a very strange sound"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "щодо мене",
+    "ipa": "æz fɔr mi",
+    "spell": "as for me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "близько одинадцятої",
+    "ipa": "æt əˈbaʊt ɪˈlɛvən əˈklɑk",
+    "spell": "at about eleven o'clock"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "перед північчю",
+    "ipa": "bɪˈfɔr ˈmɪdˌnaɪt",
+    "spell": "before midnight"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "жирний шрифт",
+    "ipa": "boʊld ˈlɛtərz",
+    "spell": "bold letters"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "безтурботний",
+    "ipa": "ˈkɛrˌfri",
+    "spell": "carefree"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "скопіюй це!",
+    "ipa": "ˈkɑpi ɪt!",
+    "spell": "copy it!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "зрозумів!",
+    "ipa": "ˈkɑpi ðæt!",
+    "spell": "copy that!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "небезпечні часи",
+    "ipa": "ˈdeɪnʤərəs taɪmz",
+    "spell": "dangerous times"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти коли-небудь зустрічаєш інших водіїв Uber?",
+    "ipa": "du ju ˈɛvər mit ˈʌðər ˈjubər ˈdraɪvərz?",
+    "spell": "do you ever meet other Uber drivers?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти маєш можливість говорити англійською з кимось?",
+    "ipa": "du ju ɡɛt tu spik ˈɪŋɡlɪʃ wɪð ˈɛnibədi?",
+    "spell": "do you get to speak English with anybody?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у тебе в машині є їжа?",
+    "ipa": "du ju hæv fud ɪn jʊr kɑr?",
+    "spell": "do you have food in your car?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти уникаєш неприємностей?",
+    "ipa": "du ju steɪ aʊt ʌv ˈtrʌbəl?",
+    "spell": "do you stay out of trouble?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти зазвичай з ними розмовляєш?",
+    "ipa": "du ju ˈjuʒəwəli tɔk tu ðɛm?",
+    "spell": "do you usually talk to them?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "твоя машина видає якісь дивні звуки?",
+    "ipa": "dʌz jʊər kɑr meɪk ˈɛni streɪnʤ saʊndz?",
+    "spell": "does your car make any strange sounds?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "фрукт",
+    "ipa": "frut",
+    "spell": "fruit"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у неї довгі зміни",
+    "ipa": "hɜr ʃɪfts ɑr lɔŋ",
+    "spell": "her shifts are long"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не повинен цього робити",
+    "ipa": "aɪ doʊnt hæv tu du ɪt",
+    "spell": "I don't have to do it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я можу спілкуватися з клієнтами",
+    "ipa": "aɪ ɡɛt tu tɔk tu ˈkʌstəmərz",
+    "spell": "I get to talk to customers"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я їду сьогодні",
+    "ipa": "aɪ ɡoʊ təˈdeɪ",
+    "spell": "I go today"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я повинен це зробити",
+    "ipa": "aɪ hæv tu du ɪt",
+    "spell": "I have to do it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я маю це зробити",
+    "ipa": "aɪ mʌst du ɪt",
+    "spell": "I must do it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я ніколи не маю можливості спілкуватися з людьми",
+    "ipa": "aɪ ˈnɛvər ɡɛt tu tɔk tu ˈpipəl",
+    "spell": "I never get to talk to people"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я їхав вчора",
+    "ipa": "aɪ wɛnt ˈjɛstərˌdeɪ",
+    "spell": "I went yesterday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "там поліцейський?",
+    "ipa": "ɪz ə kɑp ðɛr?",
+    "spell": "is a cop there?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у моїй машині є їжа?",
+    "ipa": "ɪz ðɛr fud ɪn maɪ kɑr?",
+    "spell": "is there food in my car?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у твоїй машині є їжа?",
+    "ipa": "ɪz ðɛr fud ɪn jʊər kɑr?",
+    "spell": "is there food in your car?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "також пізно",
+    "ipa": "ɪt ɪz leɪt, tu",
+    "spell": "it is late, too"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це дуже дивно для них",
+    "ipa": "ɪt ɪz ˈvɛri streɪnʤ tu ðɛm",
+    "spell": "it is very strange to them"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "нам потрібно півгодини, щоб дістатися додому",
+    "ipa": "ɪt teɪks ʌs hæf ən ˈaʊər tu ɡɛt hoʊm",
+    "spell": "it takes us half an hour to get home"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "давай поговоримо",
+    "ipa": "lɛts tɔk",
+    "spell": "let's talk"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "північ",
+    "ipa": "ˈmɪdˌnaɪt",
+    "spell": "midnight"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "моя машина не видає дивних звуків",
+    "ipa": "maɪ kɑr dʌz nɑt meɪk ˈɛni streɪnʤ saʊndz",
+    "spell": "my car does not make any strange sounds"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мій рот видає дивні звуки",
+    "ipa": "maɪ maʊθ meɪks streɪnʤ saʊndz",
+    "spell": "my mouth makes strange sounds"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "моя дружина йде збирати ягоди",
+    "ipa": "maɪ waɪf ɡoʊz tu pɪk ˈbɛriz",
+    "spell": "my wife goes to pick berries"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "моя дружина пішла збирати ягоди",
+    "ipa": "maɪ waɪf wɛnt tu pɪk ˈbɛriz",
+    "spell": "my wife went to pick berries"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "підніміть руки вгору",
+    "ipa": "pʊt jʊər hændz ʌp",
+    "spell": "put your hands up"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона приймає душ",
+    "ipa": "ʃi teɪks ə ˈʃaʊər",
+    "spell": "she takes a shower"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вона зазвичай закінчує роботу о 9:30",
+    "ipa": "ʃi ˈjuʒəwəli ˈfɪnɪʃɪz wɜrk æt 9:30",
+    "spell": "she usually finishes work at 9:30"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "покажіть мені ваші документи",
+    "ipa": "ʃoʊ mi jʊər ɪd",
+    "spell": "show me your ID"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вибачте, я не повинен цього робити",
+    "ipa": "ˈsɑri aɪ doʊnt hæv tu du ɪt",
+    "spell": "sorry I don't have to do it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дивний",
+    "ipa": "streɪnʤ",
+    "spell": "strange"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дивні люди",
+    "ipa": "streɪnʤ ˈpipəl",
+    "spell": "strange people"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це поліцейський",
+    "ipa": "ðæt ɪz ə kɑp",
+    "spell": "that is a cop"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це проти закону",
+    "ipa": "ðæt ɪz əˈɡɛnst ðə lɔ",
+    "spell": "that is against the law"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це незаконно",
+    "ipa": "ðæt ɪz ɪˈliɡəl",
+    "spell": "that is illegal"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це пізно",
+    "ipa": "ðæt ɪz leɪt",
+    "spell": "that is late"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це дуже пізно",
+    "ipa": "ðæt ɪz ˈvɛri leɪt",
+    "spell": "that is very late"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "це чудово",
+    "ipa": "ðæts ˈwʌndərfəl",
+    "spell": "that's wonderful"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "рот миші",
+    "ipa": "ðə maʊθ ʌv ðə maʊs",
+    "spell": "the mouth of the mouse"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Сполучені Штати",
+    "ipa": "ðə juˈnaɪtɪd steɪts",
+    "spell": "the United States"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "маються",
+    "ipa": "ðɛr ɑr = маються",
+    "spell": "there are = маються"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "тут багато дивних людей",
+    "ipa": "ðɛr ɑr ˈmɛni streɪnʤ ˈpipəl hir",
+    "spell": "there are many strange people here"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "матися",
+    "ipa": "ðɛr bi = матися",
+    "spell": "there be = матися"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мається",
+    "ipa": "ðɛr ɪz = мається",
+    "spell": "there is = мається"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "там поліцейський",
+    "ipa": "ðɛr ɪz ə kɑp",
+    "spell": "there is a cop"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "на дорозі поліцейський",
+    "ipa": "ðɛr ɪz ə kɑp ɑn ðə roʊd",
+    "spell": "there is a cop on the road"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "там є поліцейський",
+    "ipa": "ðɛr ɪz ə kɑp ðɛr",
+    "spell": "there is a cop there"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "над дорогою є світлофор",
+    "ipa": "ðɛr ɪz ə ˈtræfɪk laɪt əˈbʌv ðə roʊd",
+    "spell": "there is a traffic light above the road"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "на шосе є предмет",
+    "ipa": "ðɛr ɪz ən ˈɑbʤɛkt ɑn ðə ˈhaɪˌweɪ",
+    "spell": "there is an object on the highway"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у моїй машині є їжа",
+    "ipa": "ðɛr ɪz fud ɪn maɪ kɑr",
+    "spell": "there is food in my car"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вони майже ніколи не розмовляють",
+    "ipa": "ðeɪ ˈɔlˌmoʊst ˈnɛvər tɔk",
+    "spell": "they almost never talk"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вони зазвичай дуже тихі",
+    "ipa": "ðeɪ ɑr ˈjuʒəwəli ˈvɛri ˈkwaɪət",
+    "spell": "they are usually very quiet"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вони несуть навантаження",
+    "ipa": "ðeɪ ˈkæri ðə strɛs",
+    "spell": "they carry the stress"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вони не несуть навантаження",
+    "ipa": "ðeɪ doʊnt ˈkæri ðə strɛs",
+    "spell": "they don't carry the stress"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вони зазвичай мало розмовляють",
+    "ipa": "ðeɪ ˈjuʒəwəli doʊnt tɔk mʌʧ",
+    "spell": "they usually don't talk much"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ця літера позначає звук \"й\"",
+    "ipa": "ðɪs ˈlɛtər stændz fɔr ðə saʊnd \"waɪ\"",
+    "spell": "this letter stands for the sound \"y\""
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "часи важкі",
+    "ipa": "taɪmz ɑr hɑrd",
+    "spell": "times are hard"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "знаходитися",
+    "ipa": "tu bi = знаходитися",
+    "spell": "to be = знаходитися"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "бути",
+    "ipa": "tu bi = являтися",
+    "spell": "to be = являтися"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "бути безтурботним",
+    "ipa": "tu bi ˈkɛrˌfri",
+    "spell": "to be carefree"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "копіювати це",
+    "ipa": "tu ˈkɑpi ɪt",
+    "spell": "to copy it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мати",
+    "ipa": "tu hæv = мати",
+    "spell": "to have = мати"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "об'єднувати",
+    "ipa": "tu juˈnaɪt",
+    "spell": "to unite"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дуже приємно",
+    "ipa": "ˈvɛri naɪs",
+    "spell": "very nice"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дуже слабкий",
+    "ipa": "ˈvɛri wik",
+    "spell": "very weak"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми не можемо бути безтурботними",
+    "ipa": "wi ˈkænɑt bi ˈkɛrˌfri",
+    "spell": "we cannot be carefree"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми робимо те ж саме",
+    "ipa": "wi du ðə seɪm",
+    "spell": "we do the same"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми не завжди маємо можливість це зробити",
+    "ipa": "wi doʊnt ˈɔlˌweɪz ɡɛt tu du ɪt",
+    "spell": "we don't always get to do it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми не завжди лягаємо спати до 11",
+    "ipa": "wi doʊnt ˈɔlˌweɪz ɡɛt tu ɡoʊ tu bɛd bɪˈfɔr 11",
+    "spell": "we don't always get to go to bed before 11"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми не завжди встигаємо лягти спати до 11",
+    "ipa": "wi doʊnt ˈɔlˌweɪz ˈmænəʤ tu ɡoʊ tu bɛd bɪˈfɔr 11",
+    "spell": "we don't always manage to go to bed before 11"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми зазвичай не встигаємо це зробити",
+    "ipa": "wi doʊnt ˈjuʒəwəli ˈmænəʤ tu du ɪt",
+    "spell": "we don't usually manage to do it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми лягаємо спати близько півночі",
+    "ipa": "wi ɡoʊ tu bɛd æt əˈbaʊt ˈmɪdˌnaɪt",
+    "spell": "we go to bed at about midnight"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми засинаємо близько першої",
+    "ipa": "wi ɡoʊ tu slip æt əˈbaʊt 1",
+    "spell": "we go to sleep at about 1"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми вечеряємо",
+    "ipa": "wi hæv ˈdɪnər",
+    "spell": "we have dinner"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми повинні бути обережними",
+    "ipa": "wi hæv tu bi ˈkɛrfəl",
+    "spell": "we have to be careful"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми повинні їздити обережно",
+    "ipa": "wi hæv tu draɪv seɪf",
+    "spell": "we have to drive safe"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми повинні дбати про себе",
+    "ipa": "wi hæv tu teɪk kɛr ʌv aʊərˈsɛlvz",
+    "spell": "we have to take care of ourselves"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ми повинні двічі подумати перед тим, як щось зробити",
+    "ipa": "wi hæv tu θɪŋk twaɪs bɪˈfɔr wi du ˈsʌmθɪŋ",
+    "spell": "we have to think twice before we do something"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "чудово",
+    "ipa": "ˈwʌndərfəl",
+    "spell": "wonderful"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти не поліція",
+    "ipa": "ju ɑr nɑt ðə pəˈlis",
+    "spell": "you are not the police"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти маєш можливість спілкуватися з клієнтами",
+    "ipa": "ju ɡɛt tu tɔk tu ˈkʌstəmərz",
+    "spell": "you get to talk to customers"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти не маєш права",
+    "ipa": "ju hæv noʊ raɪt",
+    "spell": "you have no right"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти не маєш права мене про це питати",
+    "ipa": "ju hæv noʊ raɪt tu æsk mi ðæt",
+    "spell": "you have no right to ask me that"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ти старанно вчишся",
+    "ipa": "ju ˈstʌdi hɑrd",
+    "spell": "you study hard"
+  }
+]
