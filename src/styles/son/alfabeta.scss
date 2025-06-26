@@ -1,0 +1,30 @@
+.alfabeta {
+    display: flex;
+    flex-direction: column;
+    font-family: "Noto Sans", serif;
+
+    .gutierrez {
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+        .polly {
+            margin: 1em;
+            font-size: x-large;
+            font-weight: 600;
+        }
+
+        .toby {
+            color: blue;
+        }
+
+        .hood {
+            color: maroon;
+        }
+
+        .lidia {
+            font-size: 5em;
+        }
+    }
+}

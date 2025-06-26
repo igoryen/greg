@@ -36,6 +36,9 @@ import AG from "./pages/ag/AG";
 import AG08 from "./pages/ag/AG08";
 import AG10 from "./pages/ag/AG10";
 
+import Alfabeta from "./pages/son/Alfabeta";
+
+
 import AS from "./pages/as/AS";
 import AS01 from "./pages/as/AS01";
 import AS02 from "./pages/as/AS02";
@@ -269,6 +272,8 @@ export default function App() {
           <Route path="ag" element={<AG />} />
           <Route path="ag08" element={<AG08 />} />
           <Route path="ag10" element={<AG10 />} />
+
+          <Route path="alfabeta" element={<Alfabeta />} />
 
           <Route path="as" element={<AS />} />
           <Route path="as01" element={<AS01 />} />
