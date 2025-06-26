@@ -423,8 +423,8 @@
     "cefr": "",
     "def2": "",
     "def1": "маються",
-    "ipa": "ðɛr ɑr = маються",
-    "spell": "there are = маються"
+    "ipa": "ðɛr ɑr",
+    "spell": "there are"
   },
   {
     "cefr": "",
@@ -437,15 +437,15 @@
     "cefr": "",
     "def2": "",
     "def1": "матися",
-    "ipa": "ðɛr bi = матися",
-    "spell": "there be = матися"
+    "ipa": "ðɛr bi",
+    "spell": "there be"
   },
   {
     "cefr": "",
     "def2": "",
     "def1": "мається",
-    "ipa": "ðɛr ɪz = мається",
-    "spell": "there is = мається"
+    "ipa": "ðɛr ɪz",
+    "spell": "there is"
   },
   {
     "cefr": "",
@@ -542,15 +542,15 @@
     "cefr": "",
     "def2": "",
     "def1": "знаходитися",
-    "ipa": "tu bi = знаходитися",
-    "spell": "to be = знаходитися"
+    "ipa": "tu bi",
+    "spell": "to be"
   },
   {
     "cefr": "",
     "def2": "",
-    "def1": "бути",
-    "ipa": "tu bi = являтися",
-    "spell": "to be = являтися"
+    "def1": "являтися",
+    "ipa": "tu bi",
+    "spell": "to be"
   },
   {
     "cefr": "",
@@ -570,8 +570,8 @@
     "cefr": "",
     "def2": "",
     "def1": "мати",
-    "ipa": "tu hæv = мати",
-    "spell": "to have = мати"
+    "ipa": "tu hæv",
+    "spell": "to have"
   },
   {
     "cefr": "",
