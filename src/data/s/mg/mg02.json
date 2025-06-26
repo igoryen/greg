@@ -1,0 +1,933 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лестница",
+   "ipa": "ə ˈлæдəр",
+   "spell": "a ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крыша",
+   "ipa": "ə руф",
+   "spell": "a roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раковина",
+   "ipa": "ə сɪŋк",
+   "spell": "a sink"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "верх",
+   "ipa": "ə тɑп",
+   "spell": "a top"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грузовик",
+   "ipa": "ə трʌк",
+   "spell": "a truck"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Энди стоит наверху",
+   "ipa": "ˈæнди ɪз ˈстæндɪŋ əпˈстэрз",
+   "spell": "Andy is standing upstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Энди наверху",
+   "ipa": "ˈæнди ɪз əпˈстэрз",
+   "spell": "Andy is upstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Бен спускается вниз",
+   "ipa": "бэн ɪз ˈгoʊɪŋ ˈдaʊнˈстэрз",
+   "spell": "Ben is going downstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Бен идет вниз по лестнице",
+   "ipa": "бэн ɪз ˈwɔкɪŋ ˈдaʊнˈстэрз",
+   "spell": "Ben is walking downstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "но",
+   "ipa": "бʌт",
+   "spell": "but"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Чак поднимается наверх",
+   "ipa": "чʌк ɪз ˈгoʊɪŋ əпˈстэрз",
+   "spell": "Chuck is going upstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Чак идет вверх по лестнице",
+   "ipa": "чʌк ɪз ˈwɔкɪŋ əпˈстэрз",
+   "spell": "Chuck is walking upstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спускайся (сюда)!",
+   "ipa": "кʌм дaʊн!",
+   "spell": "come down!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди сюда!",
+   "ipa": "кʌм hир!",
+   "spell": "come here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимись сюда",
+   "ipa": "кʌм ʌп hир",
+   "spell": "come up here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимайся (сюда)!",
+   "ipa": "кʌм ʌп!",
+   "spell": "come up!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди (сюда)!",
+   "ipa": "кʌм!",
+   "spell": "come!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Дэн внутри дома",
+   "ipa": "дæн ɪз ɪнˈсaɪд ðə haʊс",
+   "spell": "Dan is inside the house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Дэн на первом этаже!",
+   "ipa": "дæн ɪз ɑн ðə фɜрст флɔр!",
+   "spell": "Dan is on the first floor!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не делай этого",
+   "ipa": "ду нɑт ду ɪт, дoʊнт ду ɪт",
+   "spell": "do not do it, don't do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делай работу!",
+   "ipa": "ду ðə wɜрк!",
+   "spell": "do the work!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не приходи (сюда)!",
+   "ipa": "дoʊнт кʌм!",
+   "spell": "don't come!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не ешь!",
+   "ipa": "дoʊнт ит!",
+   "spell": "don't eat!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не деритесь!",
+   "ipa": "дoʊнт фaɪт!",
+   "spell": "don't fight!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не слезай!",
+   "ipa": "дoʊнт гэт дaʊн!",
+   "spell": "don't get down!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не вставай!",
+   "ipa": "дoʊнт гэт ʌп!",
+   "spell": "don't get up!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не ходи (туда)!",
+   "ipa": "дoʊнт гoʊ!",
+   "spell": "don't go!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не бей!",
+   "ipa": "дoʊнт hɪт!",
+   "spell": "don't hit!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не садись!",
+   "ipa": "дoʊнт сɪт дaʊн!",
+   "spell": "don't sit down!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не говори!",
+   "ipa": "дoʊнт спик!",
+   "spell": "don't speak!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не стой!",
+   "ipa": "дoʊнт стæнд!",
+   "spell": "don't stand!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не останавливайся!",
+   "ipa": "дoʊнт стɑп!",
+   "spell": "don't stop!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не разговаривай!",
+   "ipa": "дoʊнт тɔк!",
+   "spell": "don't talk!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не думай!",
+   "ipa": "дoʊнт θɪŋк!",
+   "spell": "don't think!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не бросай это!",
+   "ipa": "дoʊнт θрoʊ ɪт!",
+   "spell": "don't throw it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не сбрасывай(те) материалы с крыши!",
+   "ipa": "дoʊнт θрoʊ мəˈтɪриəл ɔф ðə руф!",
+   "spell": "don't throw material off the roof!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не бросай!",
+   "ipa": "дoʊнт θрoʊ!",
+   "spell": "don't throw!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не трогай!",
+   "ipa": "дoʊнт тʌч!",
+   "spell": "don't touch!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не ходи!",
+   "ipa": "дoʊнт wɔк!",
+   "spell": "don't walk!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не работай!",
+   "ipa": "дoʊнт wɜрк!",
+   "spell": "don't work!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не начинай работать, пока погода не улучшится",
+   "ipa": "дoʊнт стɑрт ˈwɜркɪŋ əнˈлэс ðə ˈwэðəр ɪз гʊд",
+   "spell": "don't start working unless the weather is good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вниз по лестнице",
+   "ipa": "дaʊн ðə стэрз",
+   "spell": "down the stairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "внизу, на первом этаже",
+   "ipa": "ˈдaʊнˈстэрз",
+   "spell": "downstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ешь!",
+   "ipa": "ит!",
+   "spell": "eat!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хватит",
+   "ipa": "ɪˈнʌф",
+   "spell": "enough"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Эрни на земле",
+   "ipa": "ˈɜрни ɪз ɑн ðə грaʊнд",
+   "spell": "Ernie is on the ground"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Эрни вне дома",
+   "ipa": "ˈɜрни ɪз ˈaʊтˈсaɪд ðə haʊс",
+   "spell": "Ernie is outside the house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все, делайте это!",
+   "ipa": "ˈэвриˌwʌн, ду ɪт!",
+   "spell": "everyone, do it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Феликс поднимается по лестнице",
+   "ipa": "ˈфилɪкс ɪз ˈклaɪмɪŋ ʌп ðə ˈлæдəр",
+   "spell": "Felix is climbing up the ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Гейл спускается по лестнице",
+   "ipa": "гeɪл ɪз ˈклaɪмɪŋ дaʊн ðə ˈлæдəр",
+   "spell": "Gale is climbing down the ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спускайся сюда!",
+   "ipa": "гэт дaʊн hир!",
+   "spell": "get down here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спускайся!",
+   "ipa": "гэт дaʊн!",
+   "spell": "get down!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди сюда!",
+   "ipa": "гэт hир!",
+   "spell": "get here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди туда!",
+   "ipa": "гэт ðэр!",
+   "spell": "get there!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимайся туда!",
+   "ipa": "гэт ʌп ðэр!",
+   "spell": "get up there!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимайся!",
+   "ipa": "гэт ʌп!",
+   "spell": "get up!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спускайся сюда!",
+   "ipa": "гэт йəрˈсэлф дaʊн hир!",
+   "spell": "get yourself down here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спускайся туда!",
+   "ipa": "гэт йəрˈсэлф дaʊн ðэр!",
+   "spell": "get yourself down there!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди сюда!",
+   "ipa": "гэт йəрˈсэлф hир!",
+   "spell": "get yourself here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди туда!",
+   "ipa": "гэт йəрˈсэлф ðэр!",
+   "spell": "get yourself there!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимайся сюда!",
+   "ipa": "гэт йəрˈсэлф ʌп hир!",
+   "spell": "get yourself up here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимайся туда!",
+   "ipa": "гэт йəрˈсэлф ʌп ðэр!",
+   "spell": "get yourself up there!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди вниз (туда)!",
+   "ipa": "гoʊ дaʊн!",
+   "spell": "go down!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди к грузовику (туда)",
+   "ipa": "гoʊ ту ðə трʌк",
+   "spell": "go to the truck"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимайся (туда)!",
+   "ipa": "гoʊ ʌп!",
+   "spell": "go up!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди (туда)!",
+   "ipa": "гoʊ!",
+   "spell": "go!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он на первом этаже",
+   "ipa": "hи ɪз ɑн ðə фɜрст флɔр",
+   "spell": "he is on the first floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он на крыше",
+   "ipa": "hи ɪз ɑн ðə руф",
+   "spell": "he is on the roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он на втором этаже",
+   "ipa": "hи ɪз ɑн ðə ˈсэкəнд флɔр",
+   "spell": "he is on the second floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он стоит внизу",
+   "ipa": "hи ɪз ˈстæндɪŋ ˈдaʊнˈстэрз",
+   "spell": "he is standing downstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бей!",
+   "ipa": "hɪт!",
+   "spell": "hit!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как погода?",
+   "ipa": "haʊ ɪз ðə ˈwэðəр?",
+   "spell": "how is the weather?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я наверху!",
+   "ipa": "aɪ æм əпˈстэрз!",
+   "spell": "I am upstairs!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тебя слышу",
+   "ipa": "aɪ кæн hир йу",
+   "spell": "I can hear you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тебя хорошо слышу",
+   "ipa": "aɪ кæн hир йу фaɪн",
+   "spell": "I can hear you fine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет денег, если я не работаю",
+   "ipa": "aɪ hæв нoʊ ˈмʌни əнˈлэс aɪ wɜрк",
+   "spell": "I have no money unless I work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Жарко?",
+   "ipa": "ɪз ɪт hɑт?",
+   "spell": "Is it hot?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай сделаем это!",
+   "ipa": "лэтс ду ɪт!",
+   "spell": "let's do it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай есть!",
+   "ipa": "лэтс ит!",
+   "spell": "let's eat!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай спускаться",
+   "ipa": "лэтс гэт дaʊн",
+   "spell": "let's get down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай поднимемся",
+   "ipa": "лэтс гэт ʌп",
+   "spell": "let's get up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай поднимемся на крышу",
+   "ipa": "лэтс гэт ʌп ɑн ðə руф",
+   "spell": "let's get up on the roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идём, пойдём, пошли",
+   "ipa": "лэтс гoʊ",
+   "spell": "let's go"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай ударим!",
+   "ipa": "лэтс hɪт!",
+   "spell": "let's hit!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай утонем!",
+   "ipa": "лэтс сɪŋк!",
+   "spell": "let's sink!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай остановимся!",
+   "ipa": "лэтс стɑп!",
+   "spell": "let's stop!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай подумаем!",
+   "ipa": "лэтс θɪŋк!",
+   "spell": "let's think!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай потрогаем!",
+   "ipa": "лэтс тʌч!",
+   "spell": "let's touch!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай подождём!",
+   "ipa": "лэтс weɪт!",
+   "spell": "let's wait!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай поработаем!",
+   "ipa": "лэтс wɜрк!",
+   "spell": "let's work!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "материал",
+   "ipa": "мəˈтɪриəл",
+   "spell": "material"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на верхнем этаже",
+   "ipa": "ɑн ðə тɑп флɔр",
+   "spell": "on the top floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "повтори, пожалуйста!",
+   "ipa": "рɪˈпит, плиз!",
+   "spell": "repeat, please!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "садись!",
+   "ipa": "сɪт дaʊн!",
+   "spell": "sit down!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "говори!",
+   "ipa": "спик!",
+   "spell": "speak!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стой!",
+   "ipa": "стæнд!",
+   "spell": "stand!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оставайся!",
+   "ipa": "стeɪ!",
+   "spell": "stay!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "остановись!",
+   "ipa": "стɑп!",
+   "spell": "stop!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "воспользуйся лестницей!",
+   "ipa": "тeɪк ðə стэрз!",
+   "spell": "take the stairs!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разговаривай!",
+   "ipa": "тɔк!",
+   "spell": "talk!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хватит",
+   "ipa": "ðæт ɪз ɪˈнʌф",
+   "spell": "that is enough"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крыша будет протекать, если не починить черепицу",
+   "ipa": "ðə руф wɪл лик əнˈлэс йу фɪкс ðə ˈщɪŋгəлз",
+   "spell": "the roof will leak unless you fix the shingles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "думай!",
+   "ipa": "θɪŋк!",
+   "spell": "think!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брось мне молоток",
+   "ipa": "θрoʊ ми ðə ˈhæмəр",
+   "spell": "throw me the hammer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брось мне веревку",
+   "ipa": "θрoʊ ми ðə рoʊп",
+   "spell": "throw me the rope"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бросай!",
+   "ipa": "θрoʊ!",
+   "spell": "throw!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лазить, лезть",
+   "ipa": "ту клaɪм",
+   "spell": "to climb"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лазить по лестнице",
+   "ipa": "ту клaɪм ə ˈлæдəр",
+   "spell": "to climb a ladder"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приходить",
+   "ipa": "ту кʌм",
+   "spell": "to come"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идти, уходить",
+   "ipa": "ту гoʊ",
+   "spell": "to go"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заниматься скалолазанием",
+   "ipa": "ту гoʊ ˈклaɪмɪŋ",
+   "spell": "to go climbing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тонуть",
+   "ipa": "ту сɪŋк",
+   "spell": "to sink"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "к грузовику",
+   "ipa": "ту ðə трʌк",
+   "spell": "to the truck"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бросать",
+   "ipa": "ту θрoʊ",
+   "spell": "to throw"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ходить",
+   "ipa": "ту wɔк",
+   "spell": "to walk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трогай!",
+   "ipa": "тʌч!",
+   "spell": "touch!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "под крышей",
+   "ipa": "ˈʌндəр ðə руф",
+   "spell": "under the roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если не",
+   "ipa": "əнˈлэс",
+   "spell": "unless"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вверх по лестнице",
+   "ipa": "ʌп ðə стэрз",
+   "spell": "up the stairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наверху",
+   "ipa": "əпˈстэрз",
+   "spell": "upstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди!",
+   "ipa": "wɔк!",
+   "spell": "walk!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы говорим",
+   "ipa": "wи сeɪ",
+   "spell": "we say"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы работаем, если не идет дождь",
+   "ipa": "wи wɜрк əнˈлэс ɪт рeɪнз",
+   "spell": "we work unless it rains"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы пишем",
+   "ipa": "wи рaɪт",
+   "spell": "we write"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что он делает?",
+   "ipa": "wɑт ɪз hи ˈдуɪŋ?",
+   "spell": "what is he doing?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Где Эндрю?",
+   "ipa": "wэр ɪз ˈæндру?",
+   "spell": "Where is Andrew?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Где Дэн?",
+   "ipa": "wэр ɪз дæн?",
+   "spell": "Where is Dan?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Где он?",
+   "ipa": "wэр ɪз hи?",
+   "spell": "Where is he?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работай!",
+   "ipa": "wɜрк!",
+   "spell": "work!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты прав",
+   "ipa": "йу ɑр рaɪт",
+   "spell": "you are right"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты упадешь, если не наденешь страховочный пояс",
+   "ipa": "йу wɪл фɔл əнˈлэс йу wэр ə ˈсeɪфти ˈhɑрнəс",
+   "spell": "you will fall unless you wear a safety harness"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе не заплатят, если не закончишь работу",
+   "ipa": "йу woʊнт гэт пeɪд əнˈлэс йу ˈфɪнɪщ ðə джɑб",
+   "spell": "you won't get paid unless you finish the job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя будут болеть колени, если не использовать наколенники",
+   "ipa": "йʊəр низ wɪл hɜрт əнˈлэс йу йуз ни пæдз",
+   "spell": "your knees will hurt unless you use knee pads"
+ }
+]

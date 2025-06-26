@@ -117,6 +117,9 @@ import IS01 from "./pages/s/is/IS01";
 import Jaw from "./pages/Jaw";
 import Leo from "./pages/Leo";
 
+import MG from "./pages/s/mg/MG";
+import MG02 from "./pages/s/mg/MG02";
+
 import ML from "./pages/ml/ML";
 import ML25 from "./pages/ml/ML25";
 import ML26 from "./pages/ml/ML26";
@@ -340,6 +343,9 @@ export default function App() {
 
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />
+
+          <Route path="mg" element={<MG />} />
+          <Route path="mg02" element={<MG02 />} />
 
           <Route path="ml" element={<ML />} />
           <Route path="ml25" element={<ML25 />} />
