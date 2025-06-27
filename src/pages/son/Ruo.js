@@ -22,6 +22,7 @@ const ipaToCyrillicMap = {
     "r": "р",
     "ʧ": "ч",
     "ʤ": "дж",
+    "ɛ": "э"
 };
 
 export default function IpaToCyrillicForm() {
