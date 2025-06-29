@@ -1,0 +1,807 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тележка складная",
+   "ipa": "ə ˈbʌɡi kɑrt",
+   "spell": "a buggy cart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вешалка для одежды",
+   "ipa": "ə kloʊðz ræk",
+   "spell": "a clothes rack"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "знакомая пара",
+   "ipa": "ə ˈkʌpəl aɪ noʊ",
+   "spell": "a couple I know"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "аптечка первой помощи",
+   "ipa": "ə fɜrst eɪd kɪt",
+   "spell": "a first aid kit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сильное давление",
+   "ipa": "ə lɑt ʌv ˈprɛʃər",
+   "spell": "a lot of pressure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пластиковая корзина",
+   "ipa": "ə ˈplæstɪk ˈbæskət",
+   "spell": "a plastic basket"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ценник",
+   "ipa": "ə praɪs tæɡ",
+   "spell": "a price tag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вешалка, стойка, стеллаж",
+   "ipa": "ə ræk",
+   "spell": "a rack"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нецензурное, табуированное слово",
+   "ipa": "ə tæˈbu wɜrd",
+   "spell": "a taboo word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "испытание",
+   "ipa": "ə ˈtraɪəl",
+   "spell": "a trial"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "свадьба",
+   "ipa": "ə ˈwɛdɪŋ",
+   "spell": "a wedding"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "год после того, как они познакомились",
+   "ipa": "ə jɪr ˈæftər ðeɪ mɛt",
+   "spell": "a year after they met"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один мой знакомый",
+   "ipa": "ən əˈkweɪntəns ʌv maɪn",
+   "spell": "an acquaintance of mine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "доход",
+   "ipa": "ən ˈɪnˌkʌm",
+   "spell": "an income"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "до того, как пожениться",
+   "ipa": "bɪˈfɔr ˈɡɛtɪŋ ˈmɛrid",
+   "spell": "before getting married"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "до брака",
+   "ipa": "bɪˈfɔr ˈmɛrɪʤ",
+   "spell": "before marriage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сам по себе",
+   "ipa": "baɪ hɪmˈsɛlf",
+   "spell": "by himself"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разные обстоятельства",
+   "ipa": "ˈdɪfərənt ˈsɜrkəmˌstænsəz",
+   "spell": "different circumstances"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по-другому, иначе",
+   "ipa": "ˈdɪfrəntli",
+   "spell": "differently"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя получается разговаривать с людьми?",
+   "ipa": "du ju ɡɛt tu tɔk tu ˈpipəl?",
+   "spell": "do you get to talk to people?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гель",
+   "ipa": "ʤɛl",
+   "spell": "gel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он живёт далеко от меня",
+   "ipa": "hi lɪvz fɑr frʌm mi",
+   "spell": "he lives far from me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ему нужно понять, какая она",
+   "ipa": "hi nidz tu si wɑt ʃi ɪz laɪk",
+   "spell": "he needs to see what she is like"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сказал ей",
+   "ipa": "hi sɛd tu hɜr",
+   "spell": "he said to her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сказал ей",
+   "ipa": "hi toʊld hɜr",
+   "spell": "he told her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он раскрыл ребёнка",
+   "ipa": "hi ənˈkʌvərd ðə ˈbeɪbi",
+   "spell": "he uncovered the baby"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он хочет, чтобы она готовила дома",
+   "ipa": "hi wɑnts hɜr tu kʊk æt hoʊm",
+   "spell": "he wants her to cook at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он хочет сделать ей предложение",
+   "ipa": "hi wɑnts tu prəˈpoʊz tu hɜr",
+   "spell": "he wants to propose to her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как часто",
+   "ipa": "haʊ ˈɔfən",
+   "spell": "how often"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне не нужно наклоняться",
+   "ipa": "aɪ doʊnt nid tu bɛnd ˈoʊvər",
+   "spell": "I don't need to bend over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет перерывов",
+   "ipa": "aɪ doʊnt ɡɛt ˈɛni ˈdaʊnˌtaɪm",
+   "spell": "I don’t get any downtime"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне приходится подниматься по лестнице",
+   "ipa": "aɪ hæv tu teɪk ðə stɛrz",
+   "spell": "I have to take the stairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится работать с одеждой",
+   "ipa": "aɪ laɪk ˈwɜrkɪŋ wɪð kloʊðz",
+   "spell": "I like working with clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не получается расслабиться",
+   "ipa": "aɪ ˈnɛvər ɡɛt tu rɪˈlæks",
+   "spell": "I never get to relax"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я жду, когда ты это сделаешь",
+   "ipa": "aɪ weɪt fɔr ju tu du ðæt",
+   "spell": "I wait for you to do that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ждала, когда они доставят мои книги",
+   "ipa": "aɪ wʌz ˈweɪtɪŋ fɔr ðɛm tu dɪˈlɪvər maɪ bʊks",
+   "spell": "I was waiting for them to deliver my books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я работала на одежде",
+   "ipa": "aɪ wɜrkt wɪð kloʊðz",
+   "spell": "I worked with clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если им всё нравится",
+   "ipa": "ɪf ðeɪ laɪk ˈɛvriˌθɪŋ",
+   "spell": "if they like everything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "немедленно",
+   "ipa": "ɪˈmidiətli",
+   "spell": "immediately"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в глазах закона",
+   "ipa": "ɪn ði aɪz ʌv ðə lɔ",
+   "spell": "in the eyes of the law"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сейчас лучше, чем раньше",
+   "ipa": "ɪt ɪz ˈbɛtər naʊ ðæn bɪˈfɔr",
+   "spell": "it is better now than before"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это безопаснее всего",
+   "ipa": "ɪt ɪz ˈseɪfəst",
+   "spell": "it is safest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это очень важно для девушек",
+   "ipa": "ɪt ɪz ˈvɛri ɪmˈpɔrtənt fɔr ɡɜrlz",
+   "spell": "it is very important for girls"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "то было другое время",
+   "ipa": "ɪt wʌz ə ˈdɪfərənt taɪm",
+   "spell": "it was a different time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это считалось неправильным",
+   "ipa": "ɪt wʌz kənˈsɪdərd rɔŋ",
+   "spell": "it was considered wrong"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это общая кухня",
+   "ipa": "ɪts ə ʃɛrd ˈkɪʧən",
+   "spell": "it's a shared kitchen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это легко для спины",
+   "ipa": "ɪts ˈizi ɑn maɪ bæk",
+   "spell": "it's easy on my back"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старые видеоигры",
+   "ipa": "oʊld ˈvɪdioʊ ɡeɪmz",
+   "spell": "old video games"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожилые люди",
+   "ipa": "ˈoʊldər ˈpipəl",
+   "spell": "older people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на первом этаже",
+   "ipa": "ɑn ðə ɡraʊnd flɔr",
+   "spell": "on the ground floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "месячный",
+   "ipa": "wʌn mʌnθ oʊld",
+   "spell": "one month old"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "снова и снова",
+   "ipa": "ˈoʊvər ænd ˈoʊvər",
+   "spell": "over and over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бедняжка!",
+   "ipa": "pʊr ju!",
+   "spell": "poor you!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отдых и расслабление",
+   "ipa": "rɛst ænd ˌrilækˈseɪʃən (ɑr&ɑr)",
+   "spell": "rest and relaxation (R&R)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она подходит ко мне",
+   "ipa": "ʃi kʌmz ʌp tu mi",
+   "spell": "she comes up to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она готовит",
+   "ipa": "ʃi dʌz ðə ˈkʊkɪŋ",
+   "spell": "she does the cooking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она собирается в гости",
+   "ipa": "ʃi ɪz ˈɡoʊɪŋ tu ˈvɪzət",
+   "spell": "she is going to visit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она постоянно просыпается",
+   "ipa": "ʃi kips ˈweɪkɪŋ ʌp",
+   "spell": "she keeps waking up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она часто приезжает (в гости)",
+   "ipa": "ʃi ˈɔfən kʌmz ˈoʊvər",
+   "spell": "she often comes over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она часто проводит ночи у него дома",
+   "ipa": "ʃi ˈɔfən spɛndz naɪts æt hɪz pleɪs",
+   "spell": "she often spends nights at his place"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она берёт вещи с моей полки",
+   "ipa": "ʃi teɪks θɪŋz frʌm maɪ ræk",
+   "spell": "she takes things from my rack"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ждёт, когда я развешу одежду",
+   "ipa": "ʃi weɪts fɔr mi tu hæŋ ðə kloʊðz",
+   "spell": "she waits for me to hang the clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она была покрыта",
+   "ipa": "ʃi wʌz ˈkʌvərd",
+   "spell": "she was covered"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она собиралась в гости",
+   "ipa": "ʃi wʌz ˈɡoʊɪŋ tu ˈvɪzət",
+   "spell": "she was going to visit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она собиралась в гости к моему сыну",
+   "ipa": "ʃi wʌz ˈɡoʊɪŋ tu ˈvɪzət wɪð maɪ sʌn",
+   "spell": "she was going to visit with my son"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полки",
+   "ipa": "ʃɛlvz",
+   "spell": "shelves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "судебная система",
+   "ipa": "ðə kɔrt ˈsɪstəm",
+   "spell": "the court system"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "девушка всегда ждёт, когда парень сделает предложение",
+   "ipa": "ðə ɡɜrl ˈɔlˌweɪz weɪts fɔr ðə bɔɪ tu prəˈpoʊz tu hɜr",
+   "spell": "the girl always waits for the boy to propose to her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "главное событие дня",
+   "ipa": "ðə ˈhaɪˌlaɪt ʌv ðə deɪ",
+   "spell": "the highlight of the day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мужчина должен платить алименты",
+   "ipa": "ðə mæn hæz tu peɪ ˈæləˌmoʊni",
+   "spell": "the man has to pay alimony"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тема",
+   "ipa": "ðə ˈtɑpɪk",
+   "spell": "the topic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мир изменился",
+   "ipa": "ðə wɜrld hæz ʧeɪnʤd",
+   "spell": "the world has changed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потом мы стали жить вместе",
+   "ipa": "ðɛn wi bɪˈɡæn tu lɪv təˈɡɛðər",
+   "spell": "then we began to live together"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в нашем доме нет лифта",
+   "ipa": "ðɛr ɪz noʊ ˈɛləˌveɪtər ɪn ˈaʊər ˈbɪldɪŋ",
+   "spell": "there is no elevator in our building"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сегодня не будет видеоигр",
+   "ipa": "ðɛr wɪl nɑt bi ˈɛni ˈvɪdioʊ ɡeɪmz təˈdeɪ",
+   "spell": "there will not be any video games today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они разводятся",
+   "ipa": "ðeɪ dɪˈvɔrs",
+   "spell": "they divorce"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они разделили домашние обязанности",
+   "ipa": "ðeɪ hæv dɪˈvaɪdəd ðə ˈhaʊˌswɜrk",
+   "spell": "they have divided the housework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они разделили обязанности",
+   "ipa": "ðeɪ hæv splɪt ðɛr riˌspɑnsəˈbɪlətiz",
+   "spell": "they have split their responsibilities"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они гладят одежду",
+   "ipa": "ðeɪ ˈaɪərn kloʊðz",
+   "spell": "they iron clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они живут с родителями",
+   "ipa": "ðeɪ lɪv wɪð ðɛr ˈpɛrənts",
+   "spell": "they live with their parents"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они съезжаются",
+   "ipa": "ðeɪ muv ɪn təˈɡɛðər",
+   "spell": "they move in together"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они съезжают",
+   "ipa": "ðeɪ muv aʊt",
+   "spell": "they move out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они видят",
+   "ipa": "ðeɪ si",
+   "spell": "they see"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они расстаются",
+   "ipa": "ðeɪ ˈsɛprət",
+   "spell": "they separate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они навещают друг друга",
+   "ipa": "ðeɪ ˈvɪzət iʧ ˈʌðər",
+   "spell": "they visit each other"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они хотят съехаться",
+   "ipa": "ðeɪ wɑnt tu muv ɪn",
+   "spell": "they want to move in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они не заплатят мне",
+   "ipa": "ðeɪ wɪl nɑt peɪ mi",
+   "spell": "they will not pay me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вещи, которые люди не покупают",
+   "ipa": "θɪŋz ˈpipəl doʊnt baɪ",
+   "spell": "things people don't buy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это другое общество",
+   "ipa": "ðɪs ɪz ə ˈdɪfərənt səˈsaɪəti",
+   "spell": "this is a different society"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наклоняться",
+   "ipa": "tu bɛnd ˈoʊvər",
+   "spell": "to bend over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отнести бельё вниз",
+   "ipa": "tu brɪŋ ðə ˈlɔndri tu ðə ɡraʊnd flɔr",
+   "spell": "to bring the laundry to the ground floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "готовить чаще",
+   "ipa": "tu kʊk mɔr ˈɔfən",
+   "spell": "to cook more often"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разделить домашние обязанности",
+   "ipa": "tu dɪˈvaɪd ðə ˈhaʊˌswɜrk",
+   "spell": "to divide the housework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делать работу по дому",
+   "ipa": "tu du ˈhaʊˌswɜrk",
+   "spell": "to do housework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "угадать размер кольца",
+   "ipa": "tu ɡɛs ðə rɪŋ saɪz",
+   "spell": "to guess the ring size"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "развешивать одежду",
+   "ipa": "tu hæŋ kloʊðz",
+   "spell": "to hang clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "помочь мне с бельём",
+   "ipa": "tu hɛlp mi wɪð ðə ˈlɔndri",
+   "spell": "to help me with the laundry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимать тяжести",
+   "ipa": "tu lɪft ˈhɛvi θɪŋz",
+   "spell": "to lift heavy things"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жить самостоятельно",
+   "ipa": "tu lɪv baɪ ðɛmˈsɛlvz",
+   "spell": "to live by themselves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жить вместе без брака",
+   "ipa": "tu lɪv təˈɡɛðər wɪˈθaʊt ˈmɛrɪʤ",
+   "spell": "to live together without marriage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "произвести хорошее впечатление",
+   "ipa": "tu meɪk ə ɡʊd ɪmˈprɛʃən",
+   "spell": "to make a good impression"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "измерить кольцо",
+   "ipa": "tu ˈmɛʒər ðə rɪŋ",
+   "spell": "to measure the ring"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "платить алименты",
+   "ipa": "tu peɪ ˈæləˌmoʊni",
+   "spell": "to pay alimony"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "платить содержание супругу",
+   "ipa": "tu peɪ ˈspaʊzəl səˈpɔrt",
+   "spell": "to pay spousal support"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наклеивать ценники",
+   "ipa": "tu pʊt praɪs tæɡz ɑn θɪŋz",
+   "spell": "to put price tags on things"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "снимать жильё",
+   "ipa": "tu rɛnt ə pleɪs tu lɪv",
+   "spell": "to rent a place to live"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сидеть на скамейке",
+   "ipa": "tu sɪt ɑn ðə bɛnʧ",
+   "spell": "to sit on the bench"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поддерживать кого-то финансово",
+   "ipa": "tu səˈpɔrt ˈsʌmˌbɑdi fəˈnænʃəli",
+   "spell": "to support somebody financially"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два вида таблеток",
+   "ipa": "tu kaɪndz ʌv pɪlz",
+   "spell": "two kinds of pills"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы выросли в другое время",
+   "ipa": "wi ɡru ʌp ɪn ə ˈdɪfərənt taɪm",
+   "spell": "we grew up in a different time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каково это",
+   "ipa": "wɑt ɪts laɪk",
+   "spell": "what it's like"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каково это делать это",
+   "ipa": "wɑt ɪts laɪk tu du ðæt",
+   "spell": "what it's like to do that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каково жить с ней",
+   "ipa": "wɑt ɪts laɪk tu lɪv wɪð hɜr",
+   "spell": "what it's like to live with her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зачем тратить время?",
+   "ipa": "waɪ weɪst taɪm?",
+   "spell": "why waste time?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты хочешь внуков",
+   "ipa": "ju wɑnt ˈɡrænˌʧɪldrən",
+   "spell": "you want grandchildren"
+ }
+]
