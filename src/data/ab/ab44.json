@@ -1,0 +1,646 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "клетка",
+   "ipa": "ə keɪʤ",
+   "spell": "a cage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ложное предложение",
+   "ipa": "ə fɔls ˈsɛntəns",
+   "spell": "a false sentence"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гид",
+   "ipa": "ə ɡaɪd",
+   "spell": "a guide"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тур",
+   "ipa": "ə tʊr",
+   "spell": "a tour"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "экскурсовод",
+   "ipa": "ə tʊr ɡaɪd",
+   "spell": "a tour guide"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "истинное предложение",
+   "ipa": "ə tru ˈsɛntəns",
+   "spell": "a true sentence"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стена",
+   "ipa": "ə wɔl",
+   "spell": "a wall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обо мне",
+   "ipa": "əˈbaʊt mi",
+   "spell": "about me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "весь день",
+   "ipa": "ɔl deɪ",
+   "spell": "all day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я прав?",
+   "ipa": "æm aɪ raɪt?",
+   "spell": "Am I right?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отличный экскурсовод",
+   "ipa": "ən ˈɛksələnt tʊr ɡaɪd",
+   "spell": "an excellent tour guide"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в этот момент",
+   "ipa": "æt ðɪs ˈmoʊmənt",
+   "spell": "at this moment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "до, раньше",
+   "ipa": "bɪˈfɔr",
+   "spell": "before"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ты высыпаешься?",
+   "ipa": "du ju ɡɛt ɪˈnʌf slip?",
+   "spell": "do you get enough sleep?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не заводи себе кота",
+   "ipa": "doʊnt ɡɛt jərˈsɛlf ə kæt",
+   "spell": "don't get yourself a cat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хорошего дня!",
+   "ipa": "hæv ə ɡʊd deɪ!",
+   "spell": "have a good day!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отличного дня!",
+   "ipa": "hæv ə ɡreɪt deɪ!",
+   "spell": "have a great day!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты помогаешь жене?",
+   "ipa": "haʊ du ju hɛlp jʊər waɪf?",
+   "spell": "how do you help your wife?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я прав!",
+   "ipa": "aɪ æm raɪt!",
+   "spell": "I am right!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я начинаю привыкать",
+   "ipa": "aɪ bɪˈɡɪn tu ɡɛt juzd tu ɪt",
+   "spell": "I begin to get used to it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Не жалуюсь",
+   "ipa": "aɪ kænt kəmˈpleɪn",
+   "spell": "I can't complain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я не разрешаю собаке подниматься на второй этаж",
+   "ipa": "aɪ doʊnt əˈlaʊ maɪ dɔɡ tu ɡoʊ tu ðə ˈsɛkənd flɔr",
+   "spell": "I don't allow my dog to go to the second floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "У меня тоже нет кота",
+   "ipa": "aɪ doʊnt hæv ə kæt ˈiðər",
+   "spell": "I don't have a cat either"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мне это тоже не нравится",
+   "ipa": "aɪ doʊnt laɪk ðæt ˈiðər",
+   "spell": "I don't like that either"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "У меня тоже есть собака",
+   "ipa": "aɪ hæv ə dɔɡ, tu",
+   "spell": "I have a dog, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "У меня много работы по дому",
+   "ipa": "aɪ hæv ə lɑt ʌv ˈhaʊˌswɜrk",
+   "spell": "I have a lot of housework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я справляюсь",
+   "ipa": "aɪ ˈmænəʤ",
+   "spell": "I manage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я осталась одна в офисе",
+   "ipa": "aɪ steɪd əˈloʊn ɪn maɪ ˈɔfəs",
+   "spell": "I stayed alone in my office"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я обычно смотрю этот турецкий сериал",
+   "ipa": "aɪ ˈjuʒəwəli wɑʧ ðɪs ˈtɜrkɪʃ ˈtiˈvi ʃoʊ",
+   "spell": "I usually watch this Turkish TV show"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я обычно смотрю телевизор перед сном",
+   "ipa": "aɪ ˈjuʒəwəli wɑʧ ˈtiˈvi bɪˈfɔr aɪ ɡoʊ tu bɛd",
+   "spell": "I usually watch TV before I go to bed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я посмотрела сериал",
+   "ipa": "aɪ wɑʧt ə ˈtiˈvi ʃoʊ",
+   "spell": "I watched a TV show"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я пойду на работу",
+   "ipa": "aɪ wɪl ɡoʊ tu wɜrk",
+   "spell": "I will go to work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "У меня будет напряжённый день",
+   "ipa": "aɪ wɪl hæv ə ˈbɪzi deɪ təˈdeɪ",
+   "spell": "I will have a busy day today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Со мной тоже иногда такое бывает",
+   "ipa": "ɪt ˈhæpənz tu mi səmˈtaɪmz, tu",
+   "spell": "it happens to me sometimes, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "С кошками легко справиться",
+   "ipa": "ɪt ɪz ˈizi tu dil wɪð kæts",
+   "spell": "it is easy to deal with cats"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Поздно",
+   "ipa": "ɪt ɪz leɪt",
+   "spell": "it is late"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Это уже не двадцатый век",
+   "ipa": "ɪt ɪz nɑt ðə ˈtwɛntiəθ ˈsɛnʧəri ˈɛni mɔr",
+   "spell": "it is not the twentieth century any more"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Это никогда не кончается",
+   "ipa": "ɪt ˈnɛvər ɛndz",
+   "spell": "it never ends"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "был дождь",
+   "ipa": "ɪt reɪnd",
+   "spell": "it rained"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мне кажется",
+   "ipa": "ɪt simz tu mi",
+   "spell": "it seems to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Она начинает лаять",
+   "ipa": "ʃi stɑrts ˈbɑrkɪŋ",
+   "spell": "she starts barking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Она беспокоилась о чём-то",
+   "ipa": "ʃi ˈwɜrid əˈbaʊt ˈsʌmθɪŋ",
+   "spell": "she worried about something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "минимализм",
+   "ipa": "ˈmɪnəməˌlɪzəm",
+   "spell": "minimalism"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Моя собака зовёт меня",
+   "ipa": "maɪ dɔɡ kɔlz mi",
+   "spell": "my dog calls me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Моей собаке нельзя наверх",
+   "ipa": "maɪ dɔɡ ˈɪzənt əˈlaʊd əpˈstɛrz",
+   "spell": "my dog isn’t allowed upstairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Моя собака боялась",
+   "ipa": "maɪ dɔɡ wʌz əˈfreɪd",
+   "spell": "my dog was afraid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тоже нет",
+   "ipa": "ˈniðər",
+   "spell": "neither"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не сегодня",
+   "ipa": "nɑt təˈdeɪ",
+   "spell": "not today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не вчера тоже",
+   "ipa": "nɑt ˈjɛstərˌdeɪ, ˈiðər",
+   "spell": "not yesterday, either"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ещё нет",
+   "ipa": "nɑt jɛt",
+   "spell": "not yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на повторе",
+   "ipa": "ɑn ə lup",
+   "spell": "on a loop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на Уолл-стрит",
+   "ipa": "ɑn wɔl strit",
+   "spell": "on Wall Street"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди пили кофе",
+   "ipa": "ˈpipəl wʊd drɪŋk ˈkɑfi",
+   "spell": "people would drink coffee"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди сидели в кафе",
+   "ipa": "ˈpipəl wʊd sɪt ɪn ˌkæˈfeɪz",
+   "spell": "people would sit in cafes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неуверенность в себе",
+   "ipa": "sɛlf-daʊt",
+   "spell": "self-doubt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Она спит в клетке ночью",
+   "ipa": "ʃi slips ɪn ðə keɪʤ æt naɪt",
+   "spell": "she sleeps in the cage at night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Это замечательно",
+   "ipa": "ðæt ɪz ɡreɪt",
+   "spell": "that is great"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "С кошками легко",
+   "ipa": "ðə kæts ɑr ˈizi",
+   "spell": "the cats are easy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "главное",
+   "ipa": "ðə meɪn θɪŋ",
+   "spell": "the main thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "картинки не в порядке",
+   "ipa": "ðə ˈpɪkʧərz ɑr nɑt ɪn ˈɔrdər",
+   "spell": "the pictures are not in order"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "То же было вчера",
+   "ipa": "ðə seɪm wʌz ˈjɛstərˌdeɪ",
+   "spell": "the same was yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женская доля",
+   "ipa": "ðə ˈwʊmənz lɑt",
+   "spell": "the woman's lot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мир изменился",
+   "ipa": "ðə wɜrld hæz ʧeɪnʤd",
+   "spell": "the world has changed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Была буря",
+   "ipa": "ðɛr wʌz ə stɔrm",
+   "spell": "there was a storm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Был дождь",
+   "ipa": "ðɛr wʌz reɪn",
+   "spell": "there was rain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Это ложь",
+   "ipa": "ðɪs ɪz fɔls",
+   "spell": "this is false"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Это правда",
+   "ipa": "ðɪs ɪz tru",
+   "spell": "this is true"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лаять",
+   "ipa": "tu bɑrk",
+   "spell": "to bark"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "решить",
+   "ipa": "tu ˌdɪˈsaɪd",
+   "spell": "to decide"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обсуждать",
+   "ipa": "tu dɪˈskʌs",
+   "spell": "to discuss"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "завести себе кота",
+   "ipa": "tu ɡɛt ˌmaɪˈsɛlf ə kæt",
+   "spell": "to get myself a cat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ходить в спортзал",
+   "ipa": "tu ɡoʊ tu ðə ʤɪm",
+   "spell": "to go to the gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "случаться",
+   "ipa": "tu ˈhæpən",
+   "spell": "to happen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "помогать кому-то",
+   "ipa": "tu hɛlp ˈsʌmˌbɑdi",
+   "spell": "to help somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "загружать их",
+   "ipa": "tu loʊd ðɛm",
+   "spell": "to load them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "составить предложение",
+   "ipa": "tu meɪk ə ˈsɛntəns",
+   "spell": "to make a sentence"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "составить правдивые предложения о себе",
+   "ipa": "tu meɪk tru ˈsɛntənsəz əˈbaʊt ju",
+   "spell": "to make true sentences about you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "беспокоиться",
+   "ipa": "tu ˈwɜri",
+   "spell": "to worry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "используй или потеряешь",
+   "ipa": "juz ðɛm ɔr luz ðɛm",
+   "spell": "use them or lose them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы даже растение не заводим",
+   "ipa": "wi doʊnt ˈivɪn ɡɛt aʊərˈsɛlvz ə plænt",
+   "spell": "we don't even get ourselves a plant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы решили",
+   "ipa": "wi hæv ˌdɪˈsaɪdɪd",
+   "spell": "we have decided"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раньше у нас была корзина с чтивом",
+   "ipa": "wi juzd tu hæv ə ˈbæskət wɪð ˈrɛdɪŋ ˈmætər",
+   "spell": "we used to have a basket with reading matter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что ты слушаешь?",
+   "ipa": "wɑt du ju ˈlɪsən tu?",
+   "spell": "what do you listen to?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что случилось?",
+   "ipa": "wɑt ˈhæpənd?",
+   "spell": "what happened?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что происходит?",
+   "ipa": "wɑt ɪz ˈhæpənɪŋ?",
+   "spell": "what is happening?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда она уезжает",
+   "ipa": "wɛn ʃi livz",
+   "spell": "when she leaves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда она уезжает в Россию",
+   "ipa": "wɛn ʃi livz fɔr ˈrʌʃə",
+   "spell": "when she leaves for Russia"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вчера тоже",
+   "ipa": "ˈjɛstərˌdeɪ, tu",
+   "spell": "yesterday, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты учишься",
+   "ipa": "ju ɑr ˈlɜrnɪŋ",
+   "spell": "you are learning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты очень общительная",
+   "ipa": "ju ɑr ˈvɛri ˈaʊtˌɡoʊɪŋ",
+   "spell": "you are very outgoing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно завести кота, но не собаку",
+   "ipa": "ju kæn ɡɛt jərˈsɛlf ə kæt, bʌt nɑt ə dɔɡ",
+   "spell": "you can get yourself a cat, but not a dog"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе повезло",
+   "ipa": "jʊr ˈlʌki",
+   "spell": "you're lucky"
+ }
+]
