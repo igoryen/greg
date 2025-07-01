@@ -231,6 +231,7 @@ import SS34 from "./pages/ss/SS34";
 import SS35 from "./pages/ss/SS35";
 import SS42 from "./pages/ss/SS42";
 import SS43 from "./pages/ss/SS43";
+import SS44 from "./pages/ss/SS44";
 
 
 import ST from "./pages/st/ST";
@@ -472,6 +473,7 @@ export default function App() {
           <Route path="ss35" element={<SS35 />} />
           <Route path="ss42" element={<SS42 />} />
           <Route path="ss43" element={<SS43 />} />
+          <Route path="ss44" element={<SS44 />} />
 
           <Route path="st" element={<ST />} />
           <Route path="st01" element={<ST01 />} />

@@ -1,0 +1,835 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "консультант",
+   "ipa": "ə kənˈsʌltənt",
+   "spell": "a consultant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "диета",
+   "ipa": "ə ˈdaɪət",
+   "spell": "a diet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приличное количество веса",
+   "ipa": "ə ɡʊd əˈmaʊnt ʌv weɪt",
+   "spell": "a good amount of weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хорошая сделка",
+   "ipa": "ə ɡʊd dil",
+   "spell": "a good deal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "аренда",
+   "ipa": "ə lis",
+   "spell": "a lease"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "машина",
+   "ipa": "ə məˈʃin",
+   "spell": "a machine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "испытательный срок",
+   "ipa": "ə proʊˈbeɪʃən ˈpɪriəd",
+   "spell": "a probation period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "консультант по продажам",
+   "ipa": "ə seɪlz kənˈsʌltənt",
+   "spell": "a sales consultant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "социальная сеть",
+   "ipa": "ə ˈsoʊʃəl ˈnɛˌtwɜrk",
+   "spell": "a social network"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "система",
+   "ipa": "ə ˈsɪstəm",
+   "spell": "a system"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "испытательный срок",
+   "ipa": "ə ˈtraɪəl ˈpɪriəd",
+   "spell": "a trial period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подержанный автомобиль",
+   "ipa": "ə juzd kɑr",
+   "spell": "a used car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "искусство",
+   "ipa": "ɑrt",
+   "spell": "art"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "искусственный",
+   "ipa": "ˌɑrtəˈfɪʃəl",
+   "spell": "artificial"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "искусственный интеллект (ИИ)",
+   "ipa": "ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns (aɪ)",
+   "spell": "artificial intelligence (AI)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по крайней мере",
+   "ipa": "æt list",
+   "spell": "at least"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по крайней мере два дня в неделю",
+   "ipa": "æt list tu deɪz ə wik",
+   "spell": "at least two days a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в конце",
+   "ipa": "æt ði ɛnd",
+   "spell": "at the end"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ужасный",
+   "ipa": "ˈɑfəl",
+   "spell": "awful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "из-за того, как ты питаешься",
+   "ipa": "bɪˈkɔz ʌv haʊ ju it",
+   "spell": "because of how you eat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "к восьми часам",
+   "ipa": "baɪ eɪt əˈklɑk",
+   "spell": "by eight o'clock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "безумно быстро",
+   "ipa": "ˈkreɪzi fæst",
+   "spell": "crazy fast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты это делаешь?",
+   "ipa": "du ju du ɪt?",
+   "spell": "do you do it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты носишь кольца?",
+   "ipa": "du ju wɛr rɪŋz?",
+   "spell": "do you wear rings?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твоя машина часто ломается?",
+   "ipa": "dʌz jʊər kɑr breɪk ˈɔfən?",
+   "spell": "does your car break often?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твоя машина работает (бегает)?",
+   "ipa": "dʌz jʊər kɑr rʌn?",
+   "spell": "does your car run?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полные люди",
+   "ipa": "fæt ˈpipəl",
+   "spell": "fat people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "образно говоря",
+   "ipa": "fɪˈɡjʊrətɪvli ˈspikɪŋ",
+   "spell": "figuratively speaking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дальше",
+   "ipa": "ˈfɜrðər",
+   "spell": "further"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твой сын уже узнал её размер кольца?",
+   "ipa": "hæz jʊər sʌn ˈɡɑtən hɜr rɪŋ saɪz jɛt?",
+   "spell": "has your son gotten her ring size yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он подвозит меня на работу",
+   "ipa": "hi draɪvz mi tu wɜrk",
+   "spell": "he drives me to work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он работает завтра",
+   "ipa": "hi ɪz ˈwɜrkɪŋ təˈmɑˌroʊ",
+   "spell": "he is working tomorrow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он похвалил меня",
+   "ipa": "hi preɪzd mi",
+   "spell": "he praised me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сказал мне",
+   "ipa": "hi toʊld mi",
+   "spell": "he told me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как твои колени?",
+   "ipa": "haʊ ɑr jʊər niz?",
+   "spell": "how are your knees?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как давно оно у тебя?",
+   "ipa": "haʊ lɔŋ hæv ju hæd ɪt?",
+   "spell": "how long have you had it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне повезло",
+   "ipa": "aɪ æm ˈlʌki",
+   "spell": "I am lucky"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не работаю на этой неделе",
+   "ipa": "aɪ æm nɑt ˈwɜrkɪŋ ðɪs wik",
+   "spell": "I am not working this week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не работаю завтра",
+   "ipa": "aɪ æm nɑt ˈwɜrkɪŋ təˈmɑˌroʊ",
+   "spell": "I am not working tomorrow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я на диете",
+   "ipa": "aɪ æm ɑn ə ˈdaɪət",
+   "spell": "I am on a diet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу сбросить ни килограмма",
+   "ipa": "aɪ kænt luz ə ˈsɪŋɡəl ˈkɪˌloʊ",
+   "spell": "I can't lose a single kilo"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу сбросить вес",
+   "ipa": "aɪ kænt luz ˈɛni ˈkiˌloʊz",
+   "spell": "I can't lose any kilos"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу сбросить даже один килограмм",
+   "ipa": "aɪ kænt luz ˈivɪn wʌn ˈkɪˌloʊ",
+   "spell": "I can't lose even one kilo"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня тоже этого нет",
+   "ipa": "aɪ doʊnt hæv ɪt ˈiðər",
+   "spell": "I don't have it either"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тоже не люблю кофе",
+   "ipa": "aɪ doʊnt laɪk ˈkɑfi ˈiðər",
+   "spell": "I don't like coffee either"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня лишний вес",
+   "ipa": "aɪ hæv ˈɛkstrə weɪt",
+   "spell": "I have extra weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я поправился",
+   "ipa": "aɪ hæv ɡeɪnd (sʌm) weɪt",
+   "spell": "I have gained (some) weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня тоже есть",
+   "ipa": "aɪ hæv ɪt, tu",
+   "spell": "I have it, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никогда не видел свой пресс",
+   "ipa": "aɪ hæv ˈnɛvər sin maɪ ˈeɪˈbiˈɛs",
+   "spell": "I have never seen my abs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никогда их не видел",
+   "ipa": "aɪ hæv ˈnɛvər sin ðɛm",
+   "spell": "I have never seen them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тоже их никогда не видел",
+   "ipa": "aɪ hæv ˈnɛvər sin ðɛm ˈiðər",
+   "spell": "I have never seen them either"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я установил это на телефон",
+   "ipa": "aɪ ɪnˈstɔld ɪt ɑn maɪ foʊn",
+   "spell": "I installed it on my phone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я взял машину в аренду",
+   "ipa": "aɪ list ə kɑr",
+   "spell": "I leased a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я люблю кататься",
+   "ipa": "aɪ laɪk tu teɪk raɪdz",
+   "spell": "I like to take rides"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я скучал по всем",
+   "ipa": "aɪ mɪst ˈɛvriˌbɑdi",
+   "spell": "I missed everybody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужно полтора часа, чтобы добраться до спортзала",
+   "ipa": "aɪ nid ən ˈaʊər ænd ə hæf tu ɡɛt tu ðə ʤɪm",
+   "spell": "I need an hour and a half to get to the gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужно продолжать пытаться",
+   "ipa": "aɪ nid tu kip ˈtraɪɪŋ",
+   "spell": "I need to keep trying"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я удалил это",
+   "ipa": "aɪ riˈmuvd ɪt",
+   "spell": "I removed it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я беру это с собой на работу",
+   "ipa": "aɪ teɪk ɪt wɪð mi tu wɜrk",
+   "spell": "I take it with me to work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в ужасном состоянии",
+   "ipa": "ɪn ə ˈtɛrəbəl kənˈdɪʃən",
+   "spell": "in a terrible condition"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "В поисках капитана Гранта",
+   "ipa": "ɪn sɜrʧ ʌv ˈkæptən ɡrænt",
+   "spell": "In search of Captain Grant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно становится твоим",
+   "ipa": "ɪt bɪˈkʌmz jʊrz",
+   "spell": "it becomes yours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не сработало",
+   "ipa": "ɪt ˈdɪdənt wɜrk fɔr mi",
+   "spell": "it didn't work for me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прошло всего две недели",
+   "ipa": "ɪt hæz ˈoʊnli bɪn tu wiks",
+   "spell": "it has only been two weeks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это означает",
+   "ipa": "ɪt minz",
+   "spell": "it means"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно никогда не ломается",
+   "ipa": "ɪt ˈnɛvər breɪks",
+   "spell": "it never breaks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно стоит на месте",
+   "ipa": "ɪt stændz stɪl",
+   "spell": "it stands still"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно потратило все мои данные за неделю",
+   "ipa": "ɪt juzd ʌp ɔl maɪ ˈdeɪtə ɪn ə wik",
+   "spell": "it used up all my data in a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это вредно для коленей",
+   "ipa": "ɪts hɑrd ɑn jʊər niz",
+   "spell": "it's hard on your knees"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень трудно похудеть",
+   "ipa": "ɪts ˈvɛri hɑrd tu luz weɪt",
+   "spell": "it's very hard to lose weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня лишний вес",
+   "ipa": "aɪm ˈoʊvərˌweɪt",
+   "spell": "I’m overweight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я слышал, как люди говорят",
+   "ipa": "aɪv hɜrd ˈpipəl seɪ",
+   "spell": "I’ve heard people say"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в прошлом апреле",
+   "ipa": "læst ˈeɪprəl",
+   "spell": "last April"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мобильные данные",
+   "ipa": "ˈmoʊbəl ˈdeɪtə",
+   "spell": "mobile data"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "понедельники часто выходные",
+   "ipa": "ˈmʌndiz ɑr ˈɔfən ɔf-daɪz",
+   "spell": "Mondays are often off-dies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мышцы сжигают жир",
+   "ipa": "ˈmʌsəl bɜrnz fæt",
+   "spell": "muscle burns fat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не очень тяжёлый",
+   "ipa": "nɑt ˈvɛri ˈhɛvi",
+   "spell": "not very heavy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в полгода",
+   "ipa": "wʌns ˈɛvəri sɪks mʌnθs",
+   "spell": "once every six months"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди, которые легко набирают вес",
+   "ipa": "ˈpipəl hu ɡeɪn weɪt ˈizəli",
+   "spell": "people who gain weight easily"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди, которые легко худеют",
+   "ipa": "ˈpipəl hu luz weɪt ˈizəli\"",
+   "spell": "People who lose weight easily\""
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди спортивного телосложения",
+   "ipa": "ˈpipəl wɪð ən æˈθlɛtɪk bɪld",
+   "spell": "people with an athletic build"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она имеет большой вес, пользуется влиянием",
+   "ipa": "ʃi ˈkæriz ə lɑt ʌv weɪt",
+   "spell": "she carries a lot of weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не носит кольца",
+   "ipa": "ʃi ˈdʌzənt wɛr ə rɪŋ, rɪŋz",
+   "spell": "she doesn't wear a ring, rings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она потеряла это",
+   "ipa": "ʃi lɔst ɪt",
+   "spell": "she lost it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она подписалась на это",
+   "ipa": "ʃi səbˈskraɪbd tu ɪt",
+   "spell": "she subscribed to it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раньше у неё был выходной в понедельник",
+   "ipa": "ʃi juzd tu bi ɔf ɑn ˈmʌndiz",
+   "spell": "she used to be off on Mondays"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она хочет оставить это себе",
+   "ipa": "ʃi wɑnts tu kip ɪt",
+   "spell": "she wants to keep it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кубики пресса",
+   "ipa": "sɪks-pæk ˈeɪˈbiˈɛs",
+   "spell": "six-pack abs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто-то, кто будет следить за тобой",
+   "ipa": "ˈsʌmˌwʌn tu stænd ˈoʊvər ju",
+   "spell": "someone to stand over you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "надзор",
+   "ipa": "ˌsupərˈvɪʒən",
+   "spell": "supervision"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "машина не ломалась 5 лет",
+   "ipa": "ðə kɑr hæz ˈnɛvər ˈbroʊkən daʊn ɪn 5 jɪrz",
+   "spell": "the car has never broken down in 5 years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "им всё равно",
+   "ipa": "ðeɪ doʊnt kɛr",
+   "spell": "they don't care"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они не набирают вес",
+   "ipa": "ðeɪ doʊnt ɡeɪn weɪt",
+   "spell": "they don't gain weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "им нужно много места",
+   "ipa": "ðeɪ nid ə lɑt ʌv rum",
+   "spell": "they need a lot of room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они прислали мне",
+   "ipa": "ðeɪ sɛnt mi",
+   "spell": "they sent me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они занимают слишком много места",
+   "ipa": "ðeɪ teɪk tu mʌʧ rum",
+   "spell": "they take too much room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тринадцать",
+   "ipa": "ˈθɜrˈtin",
+   "spell": "thirteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три типа телосложения",
+   "ipa": "θri ˈbɑdi taɪps",
+   "spell": "three body types"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наклоняться",
+   "ipa": "tu bɛnd ˈoʊvər",
+   "spell": "to bend over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "купить машину или взять в кредит",
+   "ipa": "tu baɪ ə kɑr ɔr fəˈnæns ɪt",
+   "spell": "to buy a car or finance it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "создавать проблемы",
+   "ipa": "tu kɑz ˈprɑbləmz",
+   "spell": "to cause problems"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "набирать",
+   "ipa": "tu ɡeɪn",
+   "spell": "to gain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "набирать вес",
+   "ipa": "tu ɡeɪn weɪt",
+   "spell": "to gain weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оставить машину себе",
+   "ipa": "tu kip ðə kɑr",
+   "spell": "to keep the car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тянуться вверх",
+   "ipa": "tu riʧ ʌp",
+   "spell": "to reach up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подписать договор аренды машины",
+   "ipa": "tu saɪn ə lis fɔr ə kɑr",
+   "spell": "to sign a lease for a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тренироваться на тренажёрах",
+   "ipa": "tu wɜrk aʊt ɑn ðə məˈʃinz",
+   "spell": "to work out on the machines"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тоже",
+   "ipa": "tu",
+   "spell": "too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы, вероятно, не привыкли к этой еде",
+   "ipa": "wi ɑr ˈprɑbəbli nɑt juzd tu ðɪs fud",
+   "spell": "we are probably not used to this food"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы раздали их",
+   "ipa": "wi ɡeɪv ðɛm əˈweɪ",
+   "spell": "we gave them away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас абонемент в спортзал YMCA",
+   "ipa": "wi hæv ə ʤɪm ˈmɛmbərˌʃɪp æt waɪ-ɛm-si-eɪ",
+   "spell": "we have a gym membership at YMCA"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вес",
+   "ipa": "weɪt",
+   "spell": "weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "силовая тренировка",
+   "ipa": "weɪt ˈtreɪnɪŋ",
+   "spell": "weight training"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "записывай всё",
+   "ipa": "raɪt ˈɛvriˌθɪŋ daʊn",
+   "spell": "write everything down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запиcывай их",
+   "ipa": "raɪt ðɛm daʊn",
+   "spell": "write them down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты можешь использовать их взаимозаменяемо",
+   "ipa": "ju kæn juz ðɛm ˌɪntərˈʧeɪnʤəbli",
+   "spell": "you can use them interchangeably"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя хорошая сделка",
+   "ipa": "ju hæv ə ɡʊd dil ðɛr",
+   "spell": "you have a good deal there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "худеют на кухне",
+   "ipa": "ju luz weɪt ɪn ðə ˈkɪʧən",
+   "spell": "you lose weight in the kitchen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты не создаёшь проблем",
+   "ipa": "jʊr nɑt ˈkɑzɪŋ ˈɛni ˈprɑbləmz",
+   "spell": "you're not causing any problems"
+ }
+]
