@@ -2,14 +2,14 @@ import "../../styles/fc.scss";
 import React from "react";
 import Leon from "../../components/Leon";
 import Mathilda from "../../components/Mathilda";
-import words from "../../data/ab/ab42.json";
+import words from "../../data/ab/ab43.json";
 
-class AB42 extends React.Component {
+class AB43 extends React.Component {
 
     render() {
         const lesson = {
             "student": "Alyona",
-            "number": 42,
+            "number": 43,
             "slug": "ab"
         };
 
@@ -22,4 +22,4 @@ class AB42 extends React.Component {
     }
 }
 
-export default AB42;
+export default AB43;
