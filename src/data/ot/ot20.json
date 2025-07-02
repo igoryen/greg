@@ -1,0 +1,485 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "a / an = один",
+   "ipa": "eɪ / æn = wʌn",
+   "spell": "a / an = one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "диаграмма",
+   "ipa": "ə ʧɑrt",
+   "spell": "a chart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кредитная карта - кредитные карты",
+   "ipa": "ə ˈkrɛdət kɑrd - ˈkrɛdət kɑrdz",
+   "spell": "a credit card - credit cards"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "словарь - словари",
+   "ipa": "ə ˈdɪkʃəˌnɛri - ˈdɪkʃəˌnɛriz",
+   "spell": "a dictionary = dictionari  + e + s = dictionaries"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пельмень",
+   "ipa": "ə ˈdʌmplɪŋ",
+   "spell": "a dumpling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "огромное вишнёвое дерево",
+   "ipa": "ə hjuʤ ˈʧɛri tri",
+   "spell": "a huge cherry tree"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разновидность вишни",
+   "ipa": "ə kaɪnd ʌv ˈʧɛri",
+   "spell": "a kind of cherry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "родственник",
+   "ipa": "ə ˈrɛlətɪv",
+   "spell": "a relative"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "существительное в единственном числе",
+   "ipa": "ə ˈsɪŋɡjələr naʊn",
+   "spell": "a singular noun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кузнец",
+   "ipa": "ə smɪθ",
+   "spell": "a smith"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "звук",
+   "ipa": "ə saʊnd",
+   "spell": "a sound"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "университет",
+   "ipa": "ə ˌjunəˈvɜrsəti",
+   "spell": "a university"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гласная",
+   "ipa": "ə ˈvaʊəl",
+   "spell": "a vowel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гласная - это звук",
+   "ipa": "ə ˈvaʊəl ɪz ə saʊnd",
+   "spell": "a vowel is a sound"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гласный звук",
+   "ipa": "ə ˈvaʊəl saʊnd",
+   "spell": "a vowel sound"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слово начинается с гласной",
+   "ipa": "ə wɜrd bɪˈɡɪnz wɪð ə ˈvaʊəl",
+   "spell": "a word begins with a vowel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тётя",
+   "ipa": "ən ænt",
+   "spell": "an aunt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "офис",
+   "ipa": "ən ˈɔfəs",
+   "spell": "an office"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зонт",
+   "ipa": "ən əmˈbrɛlə",
+   "spell": "an umbrella"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты умеешь петь?",
+   "ipa": "kæn ju sɪŋ?",
+   "spell": "can you sing?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страна - страны",
+   "ipa": "ˈkʌntri - ˈkʌntriz",
+   "spell": "country = countri + e + s = countries"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наслаждайся летом",
+   "ipa": "ɛnˈʤɔɪ ðə ˈsʌmər",
+   "spell": "enjoy the summer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "свежая лаванда",
+   "ipa": "frɛʃ ˈlævəndər",
+   "spell": "fresh lavender"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тоже умею петь",
+   "ipa": "aɪ kæn sɪŋ, tu",
+   "spell": "I can sing, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я приготовила вишнёвые вареники",
+   "ipa": "aɪ kʊkt ˈʧɛri ˈdʌmplɪŋz",
+   "spell": "I cooked cherry dumplings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я навещала родственников в Ванкувере",
+   "ipa": "aɪ hæv bɪn ˈvɪzətɪŋ maɪ ˈrɛlətɪvz ɪn vænˈkuvər",
+   "spell": "I have been visiting my relatives in Vancouver"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неправильный",
+   "ipa": "ɪˈrɛɡjələr",
+   "spell": "irregular"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ощущается как лето",
+   "ipa": "ɪt filz laɪk ˈsʌmər",
+   "spell": "it feels like summer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ощущается как...",
+   "ipa": "ɪt filz laɪk...",
+   "spell": "it feels like..."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сейчас сезон вишни",
+   "ipa": "ɪt ɪz ðə ˈʧɛri ˈsizən",
+   "spell": "it is the cherry season"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сегодня тоже будет жарко",
+   "ipa": "ɪt wɪl bi hɑt təˈdeɪ, tu",
+   "spell": "it will be hot today, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это вещь",
+   "ipa": "ɪts ə θɪŋ",
+   "spell": "it's a thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сочный",
+   "ipa": "ˈʤusi",
+   "spell": "juicy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "июнь - сезон вишни",
+   "ipa": "ʤun ɪz ˈʧɛri ˈsizən",
+   "spell": "June is cherry season"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "короче говоря...",
+   "ipa": "lɔŋ ˈstɔri ʃɔrt, ...",
+   "spell": "long story short, ..."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смотри, птица!",
+   "ipa": "lʊk, ə bɜrd!",
+   "spell": "look, a bird!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смотри, машина едет",
+   "ipa": "lʊk, ə kɑr ɪz ˈkʌmɪŋ",
+   "spell": "look, a car is coming"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Смотри, яблоко!",
+   "ipa": "lʊk, ən ˈæpəl!",
+   "spell": "Look, an apple!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смотри, птичка здесь",
+   "ipa": "lʊk, ðə bɜrd ɪz hir",
+   "spell": "look, the bird is here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смотри, автобус едет",
+   "ipa": "lʊk, ðə bʌs ɪz ˈkʌmɪŋ",
+   "spell": "look, the bus is coming"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "больше одного (множественное число)",
+   "ipa": "mɔr ðæn wʌn (ˈplʊrəl)",
+   "spell": "more than one (plural)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тётя угостила меня свежим майским мёдом",
+   "ipa": "maɪ ænt ˈtritɪd mi tu frɛʃ meɪ ˈhʌni",
+   "spell": "my aunt treated me to fresh May honey"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мама моего папы",
+   "ipa": "maɪ dædz mɑm",
+   "spell": "my dad's mom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя бабушка",
+   "ipa": "maɪ ˈɡræmɑ",
+   "spell": "my grandma"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои мама и папа",
+   "ipa": "maɪ mɑm ænd dæd",
+   "spell": "my mom and dad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои родственники (официально)",
+   "ipa": "maɪ riˈleɪʃənz",
+   "spell": "my relations"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои родственники",
+   "ipa": "maɪ ˈrɛlətɪvz",
+   "spell": "my relatives"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "существительное во множественном числе",
+   "ipa": "ə ˈplʊrəl naʊn",
+   "spell": "a plural noun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правильный",
+   "ipa": "ˈrɛɡjələr",
+   "spell": "regular"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она дала мне и мёда",
+   "ipa": "ʃi ɡeɪv mi sʌm ˈhʌni, tu",
+   "spell": "she gave me some honey, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это долгий путь",
+   "ipa": "ðæts ə lɔŋ weɪ",
+   "spell": "that's a long way"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яблоко красное",
+   "ipa": "ði ˈæpəl ɪz rɛd",
+   "spell": "the apple is red"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "первый звук - гласный",
+   "ipa": "ðə fɜrst saʊnd ɪz ə ˈvaʊəl",
+   "spell": "the first sound is a vowel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "размером с пирожок",
+   "ipa": "ðə saɪz ʌv ə paɪ",
+   "spell": "the size of a pie"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они отправляли меня к бабушке",
+   "ipa": "ðeɪ wʊd sɛnd mi tu maɪ ˈɡrændˌmɑz",
+   "spell": "they would send me to my grandma's"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они есть",
+   "ipa": "ðɛr = ðeɪ ɑr",
+   "spell": "they're = they are"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это жук",
+   "ipa": "ðɪs ɪz ə bʌɡ",
+   "spell": "this is a bug"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это черешенка",
+   "ipa": "ðɪs ɪz ə ˈʧɛri",
+   "spell": "this is a cherry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дом",
+   "ipa": "ðɪs ɪz ə haʊs",
+   "spell": "this is a house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это кузнец",
+   "ipa": "ðɪs ɪz ə smɪθ",
+   "spell": "this is a smith"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это Жук",
+   "ipa": "ðɪs ɪz bʌɡ",
+   "spell": "this is Bug"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это Хаус",
+   "ipa": "ðɪs ɪz haʊs",
+   "spell": "this is House"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это Смит",
+   "ipa": "ðɪs ɪz smɪθ",
+   "spell": "this is Smith"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это Черри",
+   "ipa": "ðɪs ɪz ˈʧɛri",
+   "spell": "this is Сherry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три часа в одну сторону",
+   "ipa": "θri ˈaʊərz wʌn weɪ",
+   "spell": "three hours one way"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чувствовать себя как",
+   "ipa": "tu fil laɪk",
+   "spell": "to feel like"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "освежить тебе память",
+   "ipa": "tu ʤɑɡ jʊər ˈmɛməri",
+   "spell": "to jog your memory"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два зонта",
+   "ipa": "tu əmˈbrɛləz",
+   "spell": "two umbrellas"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы можем петь гласные",
+   "ipa": "wi kæn sɪŋ ˈvaʊəlz",
+   "spell": "we can sing vowels"
+ }
+]
