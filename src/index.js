@@ -83,6 +83,7 @@ import IK02 from "./pages/ik/IK02";
 import IK13 from "./pages/ik/IK13";
 import IK14 from "./pages/ik/IK14";
 import IK15 from "./pages/ik/IK15";
+import IK16 from "./pages/ik/IK16";
 
 import IM from "./pages/im/IM";
 import IM01 from "./pages/im/IM01";
@@ -338,6 +339,7 @@ export default function App() {
           <Route path="ik13" element={<IK13 />} />
           <Route path="ik14" element={<IK14 />} />
           <Route path="ik15" element={<IK15 />} />
+          <Route path="ik16" element={<IK16 />} />
 
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
