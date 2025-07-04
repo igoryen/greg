@@ -73,6 +73,7 @@ import GP03 from "./pages/gp/GP03";
 import GP06 from "./pages/gp/GP06";
 import GP07 from "./pages/gp/GP07";
 import GP11 from "./pages/gp/GP11";
+import GP12 from "./pages/gp/GP12";
 
 import Grm01 from "./pages/grm/Grm01";
 import Grm02 from "./pages/grm/Grm02";
@@ -333,6 +334,7 @@ export default function App() {
           <Route path="gp06" element={<GP06 />} />
           <Route path="gp07" element={<GP07 />} />
           <Route path="gp11" element={<GP11 />} />
+          <Route path="gp12" element={<GP12 />} />
 
           <Route path="grm01" element={<Grm01 />} />
           <Route path="grm02" element={<Grm02 />} />

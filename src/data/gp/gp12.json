@@ -1,0 +1,793 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ванна кімната",
+   "ipa": "ə ˈbæˌθrum",
+   "spell": "a bathroom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спальня",
+   "ipa": "ə ˈbɛˌdrum",
+   "spell": "a bedroom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пляшка - пляшки",
+   "ipa": "ə ˈbɑtəl - ˈbɑtəlz",
+   "spell": "a bottle - bottles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пляшка ліків",
+   "ipa": "ə ˈbɑtəl ʌv ˈmɛdəsən",
+   "spell": "a bottle of medicine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будівельник",
+   "ipa": "ə ˈbɪldər",
+   "spell": "a builder"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шеф-кухар",
+   "ipa": "ə ʃɛf",
+   "spell": "a chef"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "церква",
+   "ipa": "ə ʧɜrʧ",
+   "spell": "a church"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кларнет",
+   "ipa": "ə ˌklɛrəˈnɛt",
+   "spell": "a clarinet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кухонний прилад",
+   "ipa": "ə ˈkʊkɪŋ juˈtɛnsəl",
+   "spell": "a cooking utensil"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "письмовий стіл",
+   "ipa": "ə dɛsk",
+   "spell": "a desk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розробник ПЗ",
+   "ipa": "ə dɪˈvɛləpər",
+   "spell": "a developer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страва - страви",
+   "ipa": "ə dɪʃ - ˈdɪʃəz",
+   "spell": "a dish - dishes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сукня - сукні",
+   "ipa": "ə drɛs - ˈdrɛsəz",
+   "spell": "a dress - dresses"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грецьке слово",
+   "ipa": "ə ɡrik wɜrd",
+   "spell": "a Greek word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молоток",
+   "ipa": "ə ˈhæmər",
+   "spell": "a hammer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ручка",
+   "ipa": "ə ˈhændəl",
+   "spell": "a handle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кінь",
+   "ipa": "ə hɔrs",
+   "spell": "a horse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будинок",
+   "ipa": "ə haʊs",
+   "spell": "a house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кенгуру",
+   "ipa": "ə ˌkæŋɡəˈru",
+   "spell": "a kangaroo"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кенгуру - це ссавець",
+   "ipa": "ə ˌkæŋɡəˈru ɪz ə ˈmæməl",
+   "spell": "a kangaroo is a mammal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трохи хмарно",
+   "ipa": "ə ˈlɪtəl ˈklaʊdi",
+   "spell": "a little cloudy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ссавець",
+   "ipa": "ə ˈmæməl",
+   "spell": "a mammal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "музичний інструмент",
+   "ipa": "ə ˈmjuzɪkəl ˈɪnstrəmənt",
+   "spell": "a musical instrument"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "картина",
+   "ipa": "ə ˈpeɪntɪŋ",
+   "spell": "a painting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "круглий стіл",
+   "ipa": "ə raʊnd ˈteɪbəl",
+   "spell": "a round table"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бутерброд",
+   "ipa": "ə ˈsændwɪʧ",
+   "spell": "a sandwich"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "саксофон",
+   "ipa": "ə ˈsæksəˌfoʊn",
+   "spell": "a saxophone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "саксофон - музичний інструмент",
+   "ipa": "ə ˈsæksəˌfoʊn ɪz ə ˈmjuzɪkəl ˈɪnstrəmənt",
+   "spell": "a saxophone is a musical instrument"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розробник програмного забезпечення",
+   "ipa": "ə ˈsɔfˌtwɛr dɪˈvɛləpər",
+   "spell": "a software developer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "звук",
+   "ipa": "ə saʊnd",
+   "spell": "a sound"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "інструмент",
+   "ipa": "ə tul",
+   "spell": "a tool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дзвінка приголосна",
+   "ipa": "ə vɔɪst ˈkɑnsənənt",
+   "spell": "a voiced consonant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "глуха приголосна",
+   "ipa": "ə ˈvɔɪsləs ˈkɑnsənənt",
+   "spell": "a voiceless consonant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "годинник - годинники",
+   "ipa": "ə wɑʧ - ˈwɑʧəz",
+   "spell": "a watch - watches"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "віночок",
+   "ipa": "ə wɪsk",
+   "spell": "a whisk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дерев'яна ложка",
+   "ipa": "ə ˈwʊdən spun",
+   "spell": "a wooden spoon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дерев'яний стіл",
+   "ipa": "ə ˈwʊdən ˈteɪbəl",
+   "spell": "a wooden table"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гвинт - гвинти",
+   "ipa": "ə rɛnʧ - ˈrɛnʧɪz",
+   "spell": "a wrench - wrenches"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ключ - ключі",
+   "ipa": "ə rɛnʧ - ˈrɛnʧɪz",
+   "spell": "a wrench - wrenches"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "близько тридцяти",
+   "ipa": "əˈbaʊt ˈθɜrdi",
+   "spell": "about thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яблуко - яблука",
+   "ipa": "ən ˈæpəl - ˈæpəlz",
+   "spell": "an apple - apples"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "єхидна",
+   "ipa": "ən ɪˈkɪdnə",
+   "spell": "an echidna"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яйце",
+   "ipa": "ən ɛɡ",
+   "spell": "an egg"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як правило",
+   "ipa": "æz ə rul",
+   "spell": "as a rule"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зовсім",
+   "ipa": "æt ɔl",
+   "spell": "at all"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в кінці роботи",
+   "ipa": "æt ði ɛnd ʌv jʊər wɜrk",
+   "spell": "at the end of your work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "краще",
+   "ipa": "ˈbɛtər",
+   "spell": "better"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "масло",
+   "ipa": "ˈbʌtər",
+   "spell": "butter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правильно",
+   "ipa": "kəˈrɛkt",
+   "spell": "correct"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "він працює за комп'ютером",
+   "ipa": "hi wɜrks ɑn ə kəmˈpjutər",
+   "spell": "he works on a computer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "щільний рух",
+   "ipa": "ˈhɛvi ˈtræfɪk",
+   "spell": "heavy traffic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скільки годин на машині?",
+   "ipa": "haʊ ˈmɛni ˈaʊərz baɪ kɑr",
+   "spell": "how many hours by car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я закінчив (роботу)",
+   "ipa": "aɪ æm ˈfɪnɪʃt (wɪð maɪ wɜrk)",
+   "spell": "I am finished (with my work)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене три стільці",
+   "ipa": "aɪ hæv θri ʧɛrz",
+   "spell": "I have three chairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене дві сорочки",
+   "ipa": "aɪ hæv tu ʃɜrts",
+   "spell": "I have two shirts"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я закінчив!",
+   "ipa": "aɪm dʌn!",
+   "spell": "I'm done!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "якщо",
+   "ipa": "ɪf",
+   "spell": "if"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "письмово",
+   "ipa": "ɪn ˈraɪtɪŋ",
+   "spell": "in writing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у твоїй сумці",
+   "ipa": "ɪn jʊər bæɡ",
+   "spell": "in your bag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нього немає ручки",
+   "ipa": "ɪt hæz noʊ ˈhændəl",
+   "spell": "it has no handle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це музичний інструмент",
+   "ipa": "ɪt ɪz ə ˈmjuzɪkəl ˈɪnstrəmənt",
+   "spell": "it is a musical instrument"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "було дуже спекотно",
+   "ipa": "ɪt wʌz ˈvɛri hɑt",
+   "spell": "it was very hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це не критично",
+   "ipa": "ɪts nɑt ˈkrɪtɪkəl",
+   "spell": "it's not critical"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Італія",
+   "ipa": "ˈɪtəli",
+   "spell": "Italy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лише один",
+   "ipa": "ʤʌst wʌn",
+   "spell": "just one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давайте закінчимо це сьогодні",
+   "ipa": "lɛt ʌs ˈfɪnɪʃ ɪt təˈdeɪ",
+   "spell": "let us finish it today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "літера S",
+   "ipa": "ˈlɛtər ɛs",
+   "spell": "letter S"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мало",
+   "ipa": "ˈlɪtəl",
+   "spell": "little"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мала Італія",
+   "ipa": "ˈlɪtəl ˈɪtəli",
+   "spell": "Little Italy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "більше одного",
+   "ipa": "mɔr ðæn wʌn",
+   "spell": "more than one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя робота",
+   "ipa": "maɪ ʤɑb",
+   "spell": "my job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наступний",
+   "ipa": "nɛkst",
+   "spell": "next"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ні, почекай",
+   "ipa": "noʊ, weɪt",
+   "spell": "no, wait"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "одне яблуко",
+   "ipa": "wʌn ˈæpəl",
+   "spell": "one apple"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "або",
+   "ipa": "ɔr",
+   "spell": "or"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "множина",
+   "ipa": "ˈplʊrəl",
+   "spell": "plural"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скажи це ще раз",
+   "ipa": "seɪ ɪt əˈɡɛn",
+   "spell": "say it again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "однина",
+   "ipa": "ˈsɪŋɡjələr",
+   "spell": "singular"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шість зображень",
+   "ipa": "sɪks ˈɪməʤəz",
+   "spell": "six images"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це все",
+   "ipa": "ðæts ɔl",
+   "spell": "that's all"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони закінчуються на дзвінкі приголосні",
+   "ipa": "ðeɪ ɛnd ɪn vɔɪst ˈkɑnsənənts",
+   "spell": "they end in voiced consonants"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони згадують речі",
+   "ipa": "ðeɪ ˈmɛnʃən θɪŋz",
+   "spell": "they mention things"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це звучить погано",
+   "ipa": "ðɪs saʊndz bæd",
+   "spell": "this sounds bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це звучить добре",
+   "ipa": "ðɪs saʊndz ɡʊd",
+   "spell": "this sounds good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три години тому",
+   "ipa": "θri ˈaʊərz əˈɡoʊ",
+   "spell": "three hours ago"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перевірити знову",
+   "ipa": "tu ʧɛk əˈɡɛn",
+   "spell": "to check again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зробити це знову",
+   "ipa": "tu du ɪt əˈɡɛn",
+   "spell": "to do it again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "робити те саме",
+   "ipa": "tu du ðə seɪm",
+   "spell": "to do the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мати",
+   "ipa": "tu hæv",
+   "spell": "to have"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стріляти в них із пістолета",
+   "ipa": "tu hɪt ðɛm frʌm ə ɡʌn",
+   "spell": "to hit them from a gun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скласти речення",
+   "ipa": "tu meɪk ə ˈsɛntəns",
+   "spell": "to make a sentence"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зробити множину",
+   "ipa": "tu meɪk ɪt ˈplʊrəl",
+   "spell": "to make it plural"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "згадувати",
+   "ipa": "tu ˈmɛnʃən",
+   "spell": "to mention"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "малювати",
+   "ipa": "tu peɪnt",
+   "spell": "to paint"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утворити множину слова",
+   "ipa": "tu ˈplʊrəlaɪz ðə wɜrd",
+   "spell": "to pluralize the word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утворити однину слова",
+   "ipa": "tu ˈsɪŋɡjələraɪz ðə wɜrd",
+   "spell": "to singularize the word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дуже важкий",
+   "ipa": "ˈvɛri ˈhɛvi",
+   "spell": "very heavy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дуже легкий",
+   "ipa": "ˈvɛri laɪt",
+   "spell": "very light"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дуже часто",
+   "ipa": "ˈvɛri ˈɔfən",
+   "spell": "very often"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "цей будинок був далеко?",
+   "ipa": "wʌz ðɪs haʊs fɑr?",
+   "spell": "was this house far?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас шість машин",
+   "ipa": "wi hæv sɪks kɑrz",
+   "spell": "we have six cars"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас шість яєць",
+   "ipa": "wi hæv sɪks ɛɡz",
+   "spell": "we have six eggs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас десять пляшок",
+   "ipa": "wi hæv tɛn ˈbɑtəlz",
+   "spell": "we have ten bottles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас три коні",
+   "ipa": "wi hæv θri ˈhɔrsəz",
+   "spell": "we have three horses"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми говоримо",
+   "ipa": "wi seɪ",
+   "spell": "we say"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми використовуємо літеру S",
+   "ipa": "wi juz ðə ˈlɛtər ɛs",
+   "spell": "we use the letter S"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми пишемо",
+   "ipa": "wi raɪt",
+   "spell": "we write"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що це за речі?",
+   "ipa": "wɑt ɑr ðiz θɪŋz?",
+   "spell": "what are these things?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що вони?",
+   "ipa": "wɑt ɑr ðeɪ?",
+   "spell": "what are they?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що вони згадують",
+   "ipa": "wɑt du ðeɪ ˈmɛnʃən",
+   "spell": "what do they mention"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що вони згадують першим?",
+   "ipa": "wɑt du ðeɪ ˈmɛnʃən fɜrst?",
+   "spell": "what do they mention first?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "які речі?",
+   "ipa": "wɑt θɪŋz?",
+   "spell": "what things?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що це було?",
+   "ipa": "wɑt wʌz ðæt?",
+   "spell": "what was that?"
+ }
+]
