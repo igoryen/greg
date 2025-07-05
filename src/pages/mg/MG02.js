@@ -1,8 +1,8 @@
-import "../../../styles/fc.scss";
+import "../../styles/fc.scss";
 import React from "react";
-import Leon from "../../../components/Leon";
-import Mathilda from "../../../components/Mathilda";
-import words from "../../../data/s/mg/mg02.json";
+import Leon from "../../components/Leon";
+import Mathilda from "../../components/Mathilda";
+import words from "../../data/mg/mg02.json";
 
 class MG02 extends React.Component {
 

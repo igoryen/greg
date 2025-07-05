@@ -131,8 +131,8 @@ import IP46 from "./pages/ip/IP46";
 import IP47 from "./pages/ip/IP47";
 import IP48 from "./pages/ip/IP48";
 
-import IS from "./pages/s/is/IS";
-import IS01 from "./pages/s/is/IS01";
+import IS from "./pages/is/IS";
+import IS01 from "./pages/is/IS01";
 
 import Jaw from "./pages/Jaw";
 
@@ -140,8 +140,8 @@ import Kooi from "./pages/grm/Kooi";
 
 import Leo from "./pages/Leo";
 
-import MG from "./pages/s/mg/MG";
-import MG02 from "./pages/s/mg/MG02";
+import MG from "./pages/mg/MG";
+import MG02 from "./pages/mg/MG02";
 
 import ML from "./pages/ml/ML";
 import ML25 from "./pages/ml/ML25";
