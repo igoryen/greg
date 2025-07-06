@@ -60,6 +60,8 @@ import Dan from "./pages/Dan";
 import DK from "./pages/dk/DK";
 import DK01 from "./pages/dk/DK01";
 
+import FlipCardPage from "./components/FlipCardPage";
+
 import GK from "./pages/gk/GK";
 import GK01 from "./pages/gk/GK01";
 import GK02 from "./pages/gk/GK02";
@@ -325,6 +327,7 @@ export default function App() {
 
           <Route path="dk" element={<DK />} />
           <Route path="dk01" element={<DK01 />} />
+          <Route path="fcp" element={<FlipCardPage />} />
 
           <Route path="gk" element={<GK />} />
           <Route path="gk01" element={<GK01 />} />
