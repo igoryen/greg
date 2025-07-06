@@ -1,4 +1,4 @@
-import "../../styles/fc.scss";
+import "../../../src/styles/pelli.scss";
 import React from "react";
 import Leon from "../../components/Leon";
 import words from "../../data/ip/ip34.json";
@@ -22,7 +22,7 @@ class IP34 extends React.Component {
         };
 
         return (
-            <div>
+            <div className="pelli">
                 <Leon lesson={lesson} />
                 <div className="pijne hidden">
                     <button onClick={() => { this.setLang('def1') }} >`</button>

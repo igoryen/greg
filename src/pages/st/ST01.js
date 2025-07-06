@@ -1,4 +1,4 @@
-import "../../styles/fc.scss";
+import "../../../src/styles/pelli.scss";
 import React from "react";
 import Leon from "../../components/Leon";
 import Mathilda from "../../components/Mathilda";
@@ -23,7 +23,7 @@ class ST01 extends React.Component {
         };
 
         return (
-            <div>
+            <div className="pelli">
                 <div>
                     <Leon lesson={lesson} />
 

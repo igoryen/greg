@@ -2,9 +2,9 @@
 
 import React from "react";
 import Leon from "../components/Leon";
-import "../../src/styles/FlipCardPage.scss";
+import "../../src/styles/pelli.scss";
 import words from "../data/ml/ml50.json";
-import FlipCardComponent from "./FlipCardComponent";
+import Mathilda from "./Mathilda";
 
 class FlipCardPage extends React.Component {
 
@@ -17,11 +17,11 @@ class FlipCardPage extends React.Component {
         };
 
         return (
-            <div className="flip-card-page">
+            <div className="pelli">
                 <Leon lesson={lesson} />
 
 
-                <FlipCardComponent words={words} lesnum={lesson.number} />
+                <Mathilda words={words} lesnum={lesson.number} />
             </div>
         );
     }

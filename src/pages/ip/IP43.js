@@ -1,4 +1,4 @@
-import "../../styles/fc.scss";
+import "../../../src/styles/pelli.scss";
 import React from "react";
 import Leon from "../../components/Leon";
 import words from "../../data/ip/ip43.json";
@@ -14,7 +14,7 @@ class IP43 extends React.Component {
         };
 
         return (
-            <div>
+            <div className="pelli">
                 <Leon lesson={lesson} />
                 <Mathilda words={words} lesnum={lesson.number} />
             </div>

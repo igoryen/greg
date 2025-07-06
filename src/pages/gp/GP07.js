@@ -1,4 +1,4 @@
-import "../../styles/fc.scss";
+import "../../../src/styles/pelli.scss";
 import React from "react";
 import Leon from "../../components/Leon";
 import Mathilda from "../../components/Mathilda";
@@ -25,7 +25,7 @@ class GP07 extends React.Component {
         };
 
         return (
-            <div>
+            <div className="pelli">
                 <Leon lesson={lesson} />
                 <div className="pijne hidden">
                     <button onClick={() => { this.setLang('def1') }} >`</button>
