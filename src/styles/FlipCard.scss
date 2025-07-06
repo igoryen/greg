@@ -48,6 +48,12 @@ $transition: 0.07s;
 
         .propA {
             font-size: large;
+            text-align: center;
+        }
+
+        .ipa,
+        .spell {
+            text-align: center;
         }
 
         &.back {
