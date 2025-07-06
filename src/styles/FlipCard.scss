@@ -1,4 +1,5 @@
 $cardno: #efc4d6;
+$ipatext: #333;
 
 $card-bg: white;
 $card-border: #ccc;
@@ -53,7 +54,16 @@ $transition: 0.07s;
 
         .ipa,
         .spell {
+            font-size: 1.5em;
+            line-height: normal;
             text-align: center;
+        }
+
+        .spell_off {
+            font-size: 1.8em;
+            font-weight: 600;
+            // color: #333;
+            color: $ipatext;
         }
 
         &.back {
