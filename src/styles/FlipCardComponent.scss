@@ -1,0 +1,163 @@
+$side: #ffddd6;
+$cardno: #efc4d6;
+
+
+
+.mathilda {
+    font-family: "Noto Sans", sans-serif;
+}
+
+.patty {
+    display: grid;
+    gap: 3rem;
+    // grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(30rem, 100%), 1fr));
+
+}
+
+
+
+///////
+/// .mathilda
+/// flash cards palettes
+///
+/// 
+
+.palette1 {
+
+    .card_ {
+        .face.front {
+            background-color: $side;
+
+            p {
+                color: $cardno;
+            }
+        }
+    }
+}
+
+.palette2 {
+
+    // distinct color: #00ffff // aqua
+    .card_ {
+        .face.front {
+            background-color: #00ffff26;
+
+            p {
+                color: #00ffff3d;
+            }
+        }
+    }
+}
+
+.palette3 {
+
+    // distinct color: #ffff00 // yellow
+    .card_ {
+        .face.front {
+            background-color: rgb(255 174 0 / 24%);
+
+            p {
+                color: #d3a00661;
+            }
+        }
+    }
+}
+
+.palette4 {
+
+    // distinct color: brown
+    .card_ {
+        .face.front {
+            background-color: #a52a2a2b;
+
+            p {
+                color: #a52a2a36;
+            }
+        }
+    }
+}
+
+.palette5 {
+
+    // distinct color: #ff8c00 // darkorange
+    .card_ {
+        .face.front {
+            background-color: #ff8c0042;
+
+            p {
+                color: #ff8c0080;
+            }
+        }
+    }
+}
+
+.palette6 {
+
+    // distinct color: #b03060 // maroon3
+    .card_ {
+        .face.front {
+            background-color: #b030602e;
+
+            p {
+                color: #b030603b;
+            }
+        }
+    }
+}
+
+.palette7 {
+
+    // distinct color: #00008b // darkblue
+    .card_ {
+        .face.front {
+            background-color: #00008b26;
+
+            p {
+                color: #00008b30;
+            }
+        }
+    }
+}
+
+.palette8 {
+
+    // distinct color: #6495ed  // cornflower
+    .card_ {
+        .face.front {
+            background-color: #6495ed33;
+
+            p {
+                color: #6495ed4d;
+            }
+        }
+    }
+}
+
+.palette9 {
+
+    // distinct color: #00ff7f //springgreen
+    .card_ {
+        .face.front {
+            background-color: rgb(90 226 17 / 29%);
+
+            p {
+                color: #00ff7f45;
+            }
+        }
+    }
+}
+
+.palette0 {
+
+    // distinct color: #ff00ff // fuchsia
+    .card_ {
+        .face.front {
+            background-color: #ff00ff24;
+
+            p {
+                color: #ff00ff3d;
+            }
+        }
+    }
+}

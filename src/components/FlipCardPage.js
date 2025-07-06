@@ -1,18 +1,30 @@
 // pages/FlipCardPage.jsx
 
 import React from "react";
-import FlipCardComponent from "./FlipCardComponent";
-import data from "../data/ik/ik16.json";
+import Leon from "../components/Leon";
 import "../../src/styles/FlipCardPage.scss";
+import words from "../data/ml/ml50.json";
+import FlipCardComponent from "./FlipCardComponent";
 
-const FlipCardPage = () => {
+class FlipCardPage extends React.Component {
 
-    return (
-        <div className="flip-card-page">
-            <h1 className="title">Flip Card Demo</h1>
-            <FlipCardComponent data={data} />
-        </div>
-    );
-};
+    render() {
+
+        const lesson = {
+            "student": "Ivan",
+            "number": 16,
+            "slug": "ik"
+        };
+
+        return (
+            <div className="flip-card-page">
+                <Leon lesson={lesson} />
+
+
+                <FlipCardComponent words={words} lesnum={lesson.number} />
+            </div>
+        );
+    }
+}
 
 export default FlipCardPage;
