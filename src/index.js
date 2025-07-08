@@ -255,6 +255,7 @@ import SS45 from "./pages/ss/SS45";
 import ST from "./pages/st/ST";
 import ST01 from "./pages/st/ST01";
 import ST05 from "./pages/st/ST05";
+import ST06 from "./pages/st/ST06";
 
 import VK from "./pages/vk/VK";
 import VK05 from "./pages/vk/VK05";
@@ -513,6 +514,7 @@ export default function App() {
           <Route path="st" element={<ST />} />
           <Route path="st01" element={<ST01 />} />
           <Route path="st05" element={<ST05 />} />
+          <Route path="st06" element={<ST06 />} />
 
           <Route path="vk" element={<VK />} />
           <Route path="vk05" element={<VK05 />} />
