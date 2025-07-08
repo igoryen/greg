@@ -10,7 +10,7 @@ class ST06 extends React.Component {
         const lesson = {
             "student": "Sana",
             "number": 6,
-            "slug": "ts"
+            "slug": "st"
         };
 
         return (

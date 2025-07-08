@@ -19,7 +19,7 @@ class ST01 extends React.Component {
         const lesson = {
             "student": "Sana",
             "number": 1,
-            "slug": "ts"
+            "slug": "st"
         };
 
         return (
