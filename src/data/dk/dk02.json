@@ -1,0 +1,618 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "весёлый, жизнерадостный, задорный человек",
+   "ipa": "ə ˈbʌbli ˈpɜrsən",
+   "spell": "a bubbly person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запятая",
+   "ipa": "ə ˈkɑmə",
+   "spell": "a comma"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "матерное слово",
+   "ipa": "ə kɜrs wɜrd",
+   "spell": "a curse word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "постыдное удовольствие",
+   "ipa": "ə ˈɡɪlti ˈplɛʒər",
+   "spell": "a guilty pleasure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "частица",
+   "ipa": "ə ˈpɑrtəkəl",
+   "spell": "a particle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фраза",
+   "ipa": "ə freɪz",
+   "spell": "a phrase"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какашка",
+   "ipa": "ə tɜrd",
+   "spell": "a turd"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "веган",
+   "ipa": "ə ˈviɡən",
+   "spell": "a vegan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день свадьбы",
+   "ipa": "ə ˈwɛdɪŋ deɪ",
+   "spell": "a wedding day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "внешность",
+   "ipa": "əˈpɪrəns",
+   "spell": "appearance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты умираешь?",
+   "ipa": "ɑr ju ˈdaɪɪŋ?",
+   "spell": "are you dying?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как будто",
+   "ipa": "æz ɪf",
+   "spell": "as if"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на другом объекте",
+   "ipa": "æt əˈnʌðər saɪt",
+   "spell": "at another site"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на одном объекте",
+   "ipa": "æt wʌn saɪt",
+   "spell": "at one site"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сложный, непростой, многогранный",
+   "ipa": "ˈkɑmpləˌkeɪtəd",
+   "spell": "complicated"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уверенный",
+   "ipa": "ˈkɑnfədənt",
+   "spell": "confident"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разочарованный",
+   "ipa": "ˌdɪsɪˈluʒənd",
+   "spell": "disillusioned"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он курит?",
+   "ipa": "dʌz hi smoʊk?",
+   "spell": "does he smoke?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сначала вкрути эту деталь",
+   "ipa": "fɜrst, skru ðɪs pɑrt ɪn",
+   "spell": "first, screw this part in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нецензурная лексика, матерщина",
+   "ipa": "faʊl ˈlæŋɡwəʤ",
+   "spell": "foul language"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он курит",
+   "ipa": "hi smoʊks (dʌz + smoʊk)",
+   "spell": "he smokes (does + smoke)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ну вот опять, опять 25",
+   "ipa": "hir wi ɡoʊ əˈɡɛn",
+   "spell": "here we go again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты расслабляешься?",
+   "ipa": "haʊ du ju rɪˈlæks?",
+   "spell": "how do you relax?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как бы ты хотел, чтобы тебя запомнили?",
+   "ipa": "haʊ wʊd ju laɪk tu bi rɪˈmɛmbərd?",
+   "spell": "how would you like to be remembered?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я переутомился",
+   "ipa": "aɪ æm ˌoʊvərˈtaɪərd",
+   "spell": "I am overtired"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я даже не могу это повторить",
+   "ipa": "aɪ kænt ˈivɪn rɪˈpit ðæt",
+   "spell": "I can't even repeat that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я дал ей это",
+   "ipa": "aɪ ɡeɪv ɪt tu hɜr",
+   "spell": "I gave it to her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я подарил ей это",
+   "ipa": "aɪ ˈɡɪftɪd ɪt tu hɜr",
+   "spell": "I gifted it to her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я гуляю в парке",
+   "ipa": "aɪ ɡoʊ fɔr wɔks ɪn ðə pɑrk",
+   "spell": "I go for walks in the park"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ненавижу это",
+   "ipa": "aɪ heɪt ðɪs (du + heɪt)",
+   "spell": "I hate this (do + hate)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не видел первый фильм",
+   "ipa": "aɪ ˈhævənt sin ðə fɜrst ˈmuvi",
+   "spell": "I haven't seen the first movie"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я должен тебе денег",
+   "ipa": "aɪ oʊ ju ˈmʌni",
+   "spell": "I owe you money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я говорю им",
+   "ipa": "aɪ seɪ tu ðɛm",
+   "spell": "I say to them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я бы больше всего хотел извиниться перед тобой",
+   "ipa": "aɪ wʊd moʊst laɪk tu seɪ ˈsɑri tu ju",
+   "spell": "I would most like to say sorry to you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "любознательный",
+   "ipa": "ɪnˈkwɪzɪtɪv",
+   "spell": "inquisitive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вдохновляющий",
+   "ipa": "ˌɪnspəˈreɪʃənəl",
+   "spell": "inspirational"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это случилось со мной",
+   "ipa": "ɪt ˈhæpənd tu mi",
+   "spell": "it happened to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это произошло со мной",
+   "ipa": "ɪt hæz ˈhæpənd tu mi",
+   "spell": "it has happened to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не даёт мне спать по ночам",
+   "ipa": "ɪt kips mi əˈweɪk æt naɪt",
+   "spell": "it keeps me awake at night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это выглядит грустно",
+   "ipa": "ɪt lʊks sæd",
+   "spell": "it looks sad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это звучит грустно",
+   "ipa": "ɪt saʊndz sæd",
+   "spell": "it sounds sad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно больше не с нами",
+   "ipa": "ɪts nɑt wɪð ʌs ˌɛniˈmɔr",
+   "spell": "it's not with us anymore"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Иуда",
+   "ipa": "ˈʤudəs",
+   "spell": "Judas"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не так много, как хотелось бы",
+   "ipa": "nɑt æz mʌʧ æz aɪd laɪk",
+   "spell": "not as much as I'd like"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожалуйста, поправь меня",
+   "ipa": "pliz kəˈrɛkt mi",
+   "spell": "please correct me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "довольно много",
+   "ipa": "kwaɪt ə lɑt",
+   "spell": "quite a lot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она готовит",
+   "ipa": "ʃi kʊks (dʌz + kʊk)",
+   "spell": "she cooks (does + cook)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у неё ещё есть её айфон",
+   "ipa": "ʃi stɪl hæz hɜr ˈaɪˌfoʊn",
+   "spell": "she still has her iPhone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто-то украл это",
+   "ipa": "ˈsʌmˌbɑdi stoʊl ɪt",
+   "spell": "somebody stole it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красть - украл - украденный",
+   "ipa": "stil - stoʊl - ˈstoʊlən",
+   "spell": "steal - stole - stolen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ребята, с которыми я общаюсь",
+   "ipa": "ðə ɡaɪz aɪ tɔk tu",
+   "spell": "the guys I talk to"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "телефон пропал",
+   "ipa": "ðə foʊn ɪz ɡɔn",
+   "spell": "the phone is gone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сослагательное наклонение",
+   "ipa": "ðə səb’dʒʌŋktɪv mud",
+   "spell": "the subjunctive mood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "третье дерьмо",
+   "ipa": "ðə θɜrd tɜrd",
+   "spell": "the third turd"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самое странное слово",
+   "ipa": "ðə ˈwɪrdəst wɜrd",
+   "spell": "the weirdest word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слова, которых я не знаю",
+   "ipa": "ðə wɜrdz aɪ doʊnt noʊ",
+   "spell": "the words I don't know"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их словарный запас большой",
+   "ipa": "ðɛr voʊˈkæbjəˌlɛri ɪz lɑrʤ",
+   "spell": "their vocabulary is large"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они упрощают",
+   "ipa": "ðeɪ ˈsɪmpləˌfaɪ",
+   "spell": "they simplify"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "третий",
+   "ipa": "θɜrd",
+   "spell": "third"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "быть запомненным",
+   "ipa": "tu bi rɪˈmɛmbərd",
+   "spell": "to be remembered"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пузыриться",
+   "ipa": "tu ˈbʌbəl",
+   "spell": "to bubble"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кашлять",
+   "ipa": "tu kɑf",
+   "spell": "to cough"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дешифровать, расшифровать",
+   "ipa": "tu dɪˈsaɪfər",
+   "spell": "to decipher "
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "декриптовать, декодировать",
+   "ipa": "tu dɪˈkrɪpt",
+   "spell": "to decrypt "
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кормить",
+   "ipa": "tu fid",
+   "spell": "to feed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "увлажнять",
+   "ipa": "tu hjuˈmɪdɪfaɪ",
+   "spell": "to humidify"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "злоупотреблять словом",
+   "ipa": "tu ˌoʊvərˈjuz ə wɜrd",
+   "spell": "to overuse a word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "быть должным кому-то что-то",
+   "ipa": "tu oʊ ˈsʌmθɪŋ ˈsʌmˌbɑdi",
+   "spell": "to owe something somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "реализовать идею",
+   "ipa": "tu ˈriəˌlaɪz ən aɪˈdiə",
+   "spell": "to realize an idea"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выпускать",
+   "ipa": "tu riˈlis",
+   "spell": "to release"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "портить, губить",
+   "ipa": "tu ˈruən",
+   "spell": "to ruin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "упрощать",
+   "ipa": "tu ˈsɪmpləˌfaɪ",
+   "spell": "to simplify"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чихать",
+   "ipa": "tu sniz",
+   "spell": "to sneeze"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "парить, лететь",
+   "ipa": "tu sɔr",
+   "spell": "to soar"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "теоретизировать",
+   "ipa": "tu ˈθiəˌraɪz",
+   "spell": "to theorize"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько я тебе должен?",
+   "ipa": "wɑt du aɪ oʊ ju?",
+   "spell": "what do I owe you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что ты мне должен?",
+   "ipa": "wɑt du ju oʊ mi?",
+   "spell": "what do you owe me?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты думаешь, что это?",
+   "ipa": "wɑt du ju θɪŋk ɪt ɪz?",
+   "spell": "what do you think it is?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какое это ощущение?",
+   "ipa": "wɑt dʌz ɪt fil laɪk?",
+   "spell": "what does it feel like?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что бы это было?",
+   "ipa": "wɑt wʊd ɪt bi?",
+   "spell": "what would it be?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что не кормишь, то умрёт",
+   "ipa": "wɑt ju doʊnt fid (ˈnɜrɪʃ) wɪl daɪ",
+   "spell": "what you don't feed (nourish) will die"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда ты делал это в последний раз?",
+   "ipa": "wɛn dɪd ju læst du ɪt?",
+   "spell": "when did you last do it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда ты был счастливее всего?",
+   "ipa": "wɛn wɜr ju ˈhæpiəst?",
+   "spell": "when were you happiest?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты думаешь, кто это?",
+   "ipa": "hu du ju θɪŋk ðɪs ɪz?",
+   "spell": "who do you think this is?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "за кого ты себя принимаешь?",
+   "ipa": "hu du ju θɪŋk ju ɑr?",
+   "spell": "who do you think you are?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дословно, слово в слово",
+   "ipa": "wɜrd fɔr wɜrd",
+   "spell": "word for word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты мне должен",
+   "ipa": "ju oʊ mi",
+   "spell": "you owe me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты становишься лучше по мере практики",
+   "ipa": "jʊr ˈɡɛtɪŋ ˈbɛtər æz ju ɡoʊ",
+   "spell": "you're getting better as you go"
+ }
+]

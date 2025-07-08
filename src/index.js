@@ -59,6 +59,7 @@ import Dan from "./pages/Dan";
 
 import DK from "./pages/dk/DK";
 import DK01 from "./pages/dk/DK01";
+import DK02 from "./pages/dk/DK02";
 
 import FlipCardPage from "./components/FlipCardPage";
 
@@ -332,6 +333,9 @@ export default function App() {
 
           <Route path="dk" element={<DK />} />
           <Route path="dk01" element={<DK01 />} />
+          <Route path="dk02" element={<DK02 />} />
+
+          {/* trial for non-jQuery card flipping functionality 250708 */}
           <Route path="fcp" element={<FlipCardPage />} />
 
           <Route path="gk" element={<GK />} />
