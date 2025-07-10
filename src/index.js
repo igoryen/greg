@@ -178,6 +178,7 @@ import ML66 from "./pages/ml/ML66";
 import ML67 from "./pages/ml/ML67";
 import ML68 from "./pages/ml/ML68";
 import ML69 from "./pages/ml/ML69";
+import ML70 from "./pages/ml/ML70";
 
 import MS from "./pages/ms/MS";
 import MS06 from "./pages/ms/MS06";
@@ -458,6 +459,7 @@ export default function App() {
           <Route path="ml67" element={<ML67 />} />
           <Route path="ml68" element={<ML68 />} />
           <Route path="ml69" element={<ML69 />} />
+          <Route path="ml70" element={<ML70 />} />
 
           <Route path="ms" element={<MS />} />
           <Route path="ms06" element={<MS06 />} />
