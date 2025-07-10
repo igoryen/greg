@@ -230,6 +230,7 @@ import SB20 from "./pages/sb/SB20";
 import SB21 from "./pages/sb/SB21";
 import SB22 from "./pages/sb/SB22";
 import SB23 from "./pages/sb/SB23";
+import SB24 from "./pages/sb/SB24";
 
 import SS from "./pages/ss/SS";
 import SS00 from "./pages/ss/SS00";
@@ -501,6 +502,7 @@ export default function App() {
           <Route path="sb21" element={<SB21 />} />
           <Route path="sb22" element={<SB22 />} />
           <Route path="sb23" element={<SB23 />} />
+          <Route path="sb24" element={<SB24 />} />
 
           <Route path="ss" element={<SS />} />
           <Route path="ss00" element={<SS00 />} />
