@@ -139,6 +139,7 @@ import IP46 from "./pages/ip/IP46";
 import IP47 from "./pages/ip/IP47";
 import IP48 from "./pages/ip/IP48";
 import IP49 from "./pages/ip/IP49";
+import IP50 from "./pages/ip/IP50";
 
 import IS from "./pages/is/IS";
 import IS01 from "./pages/is/IS01";
@@ -422,6 +423,7 @@ export default function App() {
           <Route path="ip47" element={<IP47 />} />
           <Route path="ip48" element={<IP48 />} />
           <Route path="ip49" element={<IP49 />} />
+          <Route path="ip50" element={<IP50 />} />
 
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />
