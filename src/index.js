@@ -253,6 +253,7 @@ import SS42 from "./pages/ss/SS42";
 import SS43 from "./pages/ss/SS43";
 import SS44 from "./pages/ss/SS44";
 import SS45 from "./pages/ss/SS45";
+import SS46 from "./pages/ss/SS46";
 
 
 import ST from "./pages/st/ST";
@@ -518,6 +519,7 @@ export default function App() {
           <Route path="ss43" element={<SS43 />} />
           <Route path="ss44" element={<SS44 />} />
           <Route path="ss45" element={<SS45 />} />
+          <Route path="ss46" element={<SS46 />} />
 
           <Route path="st" element={<ST />} />
           <Route path="st01" element={<ST01 />} />
@@ -542,7 +544,10 @@ export default function App() {
           <Route path="leo" element={<Leo />} />
 
           <Route path="prisma" element={<Prisma />} />
+
+          {/* page to drill pronunciation of sounds */}
           <Route path="uenba" element={<Uenba />} />
+
           <Route path="tim" element={<Tim />} />
           <Route path="dan" element={<Dan />} />
           <Route path="sam" element={<Sam />} />
