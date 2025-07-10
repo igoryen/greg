@@ -1,0 +1,702 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кіт",
+   "ipa": "ə kæt",
+   "spell": "a cat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комедійне шоу",
+   "ipa": "ə ˈkɑmədi ʃoʊ",
+   "spell": "a comedy show"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скорочення",
+   "ipa": "ə kənˈtrækʃən",
+   "spell": "a contraction"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смішний клоун",
+   "ipa": "ə ˈfʌni klaʊn",
+   "spell": "a funny clown"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "багато веселощів",
+   "ipa": "ə lɑt ʌv fʌn",
+   "spell": "a lot of fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ресторан поруч",
+   "ipa": "ə ˈnɪrˈbaɪ ˈrɛstəˌrɑnt",
+   "spell": "a nearby restaurant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нове дослідження каже",
+   "ipa": "ə nu ˈstʌdi sɛz",
+   "spell": "a new study says"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "частина",
+   "ipa": "ə pɑrt",
+   "spell": "a part"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "відсоток",
+   "ipa": "ə pərˈsɛntəʤ",
+   "spell": "a percentage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вихідні",
+   "ipa": "ə ˈwiˌkɛnd",
+   "spell": "a weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "питання з wh-",
+   "ipa": "ə ˈdʌbəlju eɪtʃ  ˈkwɛsʧən",
+   "spell": "a wh- question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кіт",
+   "ipa": "ə weɪl",
+   "spell": "a whale"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "питання так-ні",
+   "ipa": "ə jɛs-ɔr-noʊ ˈkwɛsʧən",
+   "spell": "a yes-or-no question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "після важкого тижня на роботі",
+   "ipa": "ˈæftər ə hɑrd wik æt wɜrk",
+   "spell": "after a hard week at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "після роботи",
+   "ipa": "ˈæftər wɜrk",
+   "spell": "after work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти тут?",
+   "ipa": "ɑr ju hir?",
+   "spell": "are you here?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти Ігор?",
+   "ipa": "ɑr ju ɪˈɡɔr?",
+   "spell": "are you Igor?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "близько дев'ятої ранку",
+   "ipa": "æt əˈbaʊt naɪn eɪ.ɛm.",
+   "spell": "at about nine a.m."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "о першій ночі",
+   "ipa": "æt wʌn eɪ.ɛm.",
+   "spell": "at one a.m."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прибирання",
+   "ipa": "ˈklinɪŋ",
+   "spell": "cleaning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правильно!",
+   "ipa": "kəˈrɛkt!",
+   "spell": "correct!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "безумовно",
+   "ipa": "ˈdɛfənətli",
+   "spell": "definitely"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти приїхав з іншого міста?",
+   "ipa": "dɪd ju kʌm frʌm əˈnʌðər ˈsɪti?",
+   "spell": "did you come from another city?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти прийшов?",
+   "ipa": "dɪd ju kʌm?",
+   "spell": "did you come?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти їхав туди на машині?",
+   "ipa": "dɪd ju ɡoʊ ðɛr baɪ kɑr",
+   "spell": "did you go there by car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти виїжджаєш звідси?",
+   "ipa": "du ju liv hir?",
+   "spell": "do you leave here?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти живеш тут?",
+   "ipa": "du ju lɪv hir?",
+   "spell": "do you live here?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти любиш мене?",
+   "ipa": "du ju lʌv mi?",
+   "spell": "do you love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тобі потрібно працювати в суботу чи неділю?",
+   "ipa": "du ju nid tu wɜrk ɑn ˈsætərˌdeɪ ɔr ˈsʌnˌdeɪ?",
+   "spell": "do you need to work on Saturday or Sunday?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тобі потрібно працювати?",
+   "ipa": "du ju nid tu wɜrk?",
+   "spell": "do you need to work?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кожні вихідні",
+   "ipa": "ˈɛvəri ˈwiˌkɛnd",
+   "spell": "every weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крім",
+   "ipa": "ɪkˈsɛpt",
+   "spell": "except"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "з якого міста ти приїхав?",
+   "ipa": "frʌm wɑt ˈsɪti dɪd ju kʌm?",
+   "spell": "from what city did you come?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смішний",
+   "ipa": "ˈfʌni",
+   "spell": "funny"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вгадування",
+   "ipa": "ˈɡɛsɪŋ",
+   "spell": "guessing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "він миє посуд",
+   "ipa": "hi ˈwɑʃɪz ðə ˈdɪʃəz",
+   "spell": "he washes the dishes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лікарні відкриті",
+   "ipa": "ˈhɑˌspɪtəlz ɑr ˈoʊpən",
+   "spell": "hospitals are open"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тут",
+   "ipa": "aɪ æm hir",
+   "spell": "I am here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я купую їжу",
+   "ipa": "aɪ baɪ fud",
+   "spell": "I buy food"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені не потрібно працювати в неділю",
+   "ipa": "aɪ doʊnt nid tu wɜrk ɑn ˈsʌnˌdeɪ",
+   "spell": "I don't need to work on Sunday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я виїжджаю звідси",
+   "ipa": "aɪ liv hir",
+   "spell": "I leave here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я живу тут",
+   "ipa": "aɪ lɪv hir",
+   "spell": "I live here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я люблю тебе",
+   "ipa": "aɪ lʌv ju",
+   "spell": "I love you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я люблю тебе ",
+   "ipa": "aɪ lʌv ju (du + lʌv)",
+   "spell": "I love you (do + love)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені потрібно ",
+   "ipa": "aɪ nid (du + nid)",
+   "spell": "I need (do + need)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені потрібно працювати",
+   "ipa": "aɪ nid tu wɜrk",
+   "spell": "I need to work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "батьки Ігора",
+   "ipa": "ɪˈɡɔrz ˈpɛrənts",
+   "spell": "Igor's parents"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вдень",
+   "ipa": "ɪn ði ˌæftərˈnun",
+   "spell": "in the afternoon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "залежить",
+   "ipa": "ɪt dɪˈpɛndz",
+   "spell": "it depends"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це час робити щось веселе та захоплююче",
+   "ipa": "ɪt ɪz ə taɪm tu du ˈsʌmθɪŋ fʌn ænd ɪkˈsaɪtɪŋ",
+   "spell": "it is a time to do something fun and exciting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це весело",
+   "ipa": "ɪt ɪz fʌn",
+   "spell": "it is fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "було весело",
+   "ipa": "ɪt wʌz fʌn",
+   "spell": "it was fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це дуже добре!",
+   "ipa": "ɪts ˈrɪli ɡʊd!",
+   "spell": "it's really good!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "залишити ключі в машині",
+   "ipa": "liv ðə kiz ɪn ðə kɑr",
+   "spell": "leave the keys in the car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поїхати жити!",
+   "ipa": "liv tu lɪv!",
+   "spell": "leave to live!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "менше",
+   "ipa": "lɛs",
+   "spell": "less"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "більше",
+   "ipa": "mɔr",
+   "spell": "more"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "більш-менш",
+   "ipa": "mɔr ɔr lɛs",
+   "spell": "more or less"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "більшість людей",
+   "ipa": "moʊst ˈpipəl",
+   "spell": "most people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у п'ятницю ввечері",
+   "ipa": "ɑn ˈfraɪˌdeɪ naɪt",
+   "spell": "on Friday night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "субота",
+   "ipa": "ˈsætərˌdeɪ",
+   "spell": "Saturday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "щось захоплююче",
+   "ipa": "ˈsʌmθɪŋ ɪkˈsaɪtɪŋ",
+   "spell": "something exciting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "щось веселе",
+   "ipa": "ˈsʌmθɪŋ fʌn",
+   "spell": "something fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неділя",
+   "ipa": "ˈsʌnˌdeɪ",
+   "spell": "Sunday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "та частина",
+   "ipa": "ðæt pɑrt",
+   "spell": "that part"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кухар у сім'ї",
+   "ipa": "ðə kʊk ɪn ðə ˈfæməli",
+   "spell": "the cook in the family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "те саме",
+   "ipa": "ðə seɪm θɪŋ",
+   "spell": "the same thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони роблять те саме",
+   "ipa": "ðeɪ du ðə seɪm θɪŋ",
+   "spell": "they do the same thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони нікуди не їдуть",
+   "ipa": "ðeɪ doʊnt ɡoʊ ˈɛniˌwɛr",
+   "spell": "they don't go anywhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подібні речі",
+   "ipa": "θɪŋz laɪk ðæt",
+   "spell": "things like that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ця частина",
+   "ipa": "ðɪs pɑrt",
+   "spell": "this part"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "купувати їжу на тиждень",
+   "ipa": "tu baɪ fud fɔr ðə wik",
+   "spell": "to buy food for the week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "готувати м'ясо на грилі",
+   "ipa": "tu kʊk mit ɑn ə ɡrɪl",
+   "spell": "to cook meat on a grill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "робити ті ж самі дії",
+   "ipa": "tu du ðə seɪm ækˈtɪvətiz",
+   "spell": "to do the same activities"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поїхати",
+   "ipa": "tu liv",
+   "spell": "to leave"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поїхати з міста",
+   "ipa": "tu liv ðə ˈsɪti",
+   "spell": "to leave the city"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поїхати з країни",
+   "ipa": "tu liv ðə ˈkʌntri",
+   "spell": "to leave the country"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "піти з дому",
+   "ipa": "tu liv ðə haʊs",
+   "spell": "to leave the house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "витрачати гроші",
+   "ipa": "tu spɛnd ˈmʌni",
+   "spell": "to spend money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "провести вихідні вдома",
+   "ipa": "tu spɛnd ðə ˈwiˌkɛnd æt hoʊm",
+   "spell": "to spend the weekend at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "проводити час",
+   "ipa": "tu spɛnd taɪm",
+   "spell": "to spend time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "залишитися",
+   "ipa": "tu steɪ",
+   "spell": "to stay"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "миття",
+   "ipa": "ˈwɑʃɪŋ",
+   "spell": "washing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми у відпустці",
+   "ipa": "wi ɑr ɑn veɪˈkeɪʃən",
+   "spell": "we are on vacation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми приїхали о першій ночі",
+   "ipa": "wi keɪm æt wʌn eɪ.ɛm.",
+   "spell": "we came at one a.m."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми теж це робимо",
+   "ipa": "wi du ɪt, tu",
+   "spell": "we do it, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми їдемо туди разом",
+   "ipa": "wi ɡoʊ ðɛr təˈɡɛðər",
+   "spell": "we go there together"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми зустрічаємо друзів",
+   "ipa": "wi mit frɛndz",
+   "spell": "we meet friends"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що",
+   "ipa": "wɑt",
+   "spell": "what"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "з якого міста ти приїхав?",
+   "ipa": "wɑt ˈsɪti dɪd ju kʌm frʌm ?",
+   "spell": "what city did you come from ?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли",
+   "ipa": "wɛn",
+   "spell": "when"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "де",
+   "ipa": "wɛr",
+   "spell": "where"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хто",
+   "ipa": "hu",
+   "spell": "who"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому",
+   "ipa": "waɪ",
+   "spell": "why"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому ти мене любиш?",
+   "ipa": "waɪ du ju lʌv mi?",
+   "spell": "why do you love me?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти тут",
+   "ipa": "ju ɑr hir",
+   "spell": "you are here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти прийшов ",
+   "ipa": "ju keɪm (dɪd + kʌm)",
+   "spell": "you came (did + come)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти прийшов ",
+   "ipa": "ju keɪm (dɪd + kʌm)",
+   "spell": "you came (did + come)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти приїхав з іншого штату",
+   "ipa": "ju keɪm frʌm əˈnʌðər steɪt",
+   "spell": "you came from another State"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти приходиш",
+   "ipa": "ju kʌm (du + kʌm)",
+   "spell": "you come (do + come)"
+ }
+]
