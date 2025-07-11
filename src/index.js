@@ -154,6 +154,7 @@ import Leo from "./pages/Leo";
 import MG from "./pages/mg/MG";
 import MG02 from "./pages/mg/MG02";
 import MG03 from "./pages/mg/MG03";
+import MG04 from "./pages/mg/MG04";
 
 import ML from "./pages/ml/ML";
 import ML25 from "./pages/ml/ML25";
@@ -437,6 +438,7 @@ export default function App() {
           <Route path="mg" element={<MG />} />
           <Route path="mg02" element={<MG02 />} />
           <Route path="mg03" element={<MG03 />} />
+          <Route path="mg04" element={<MG04 />} />
 
           <Route path="ml" element={<ML />} />
           <Route path="ml25" element={<ML25 />} />

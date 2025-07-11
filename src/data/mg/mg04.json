@@ -1,0 +1,324 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делать домашнюю работу",
+   "ipa": "tu du ˈhoʊmˌwɜrk",
+   "spell": "to do homework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делать работу по дому",
+   "ipa": "tu du ˈhaʊˌswɜrk",
+   "spell": "to do housework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не начинает установку",
+   "ipa": "hi (dʌz nɑt bɪˈɡɪn) ˌɪnstəˈleɪʃən",
+   "spell": "he (does not begin) installation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не проверяет лестницы",
+   "ipa": "hi (dʌz nɑt ʧɛk) ˈlædərz",
+   "spell": "he (does not check) ladders"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не чистит крышу",
+   "ipa": "hi (dʌz nɑt klin) ðə ruf",
+   "spell": "he (does not clean) the roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не пьёт воду",
+   "ipa": "hi (dʌz nɑt drɪŋk) ˈwɔtər",
+   "spell": "he (does not drink) water"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не осматривает крышу",
+   "ipa": "hi (dʌz nɑt ɪnˈspɛkt) ðə ruf",
+   "spell": "he (does not inspect) the roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не устанавливает вентиляцию",
+   "ipa": "hi (dʌz nɑt ɪnˈstɔl) ˌvɛntəˈleɪʃən",
+   "spell": "he (does not install) ventilation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не укладывает черепицу",
+   "ipa": "hi (dʌz nɑt leɪ) ˈʃɪŋɡəlz",
+   "spell": "he (does not lay) shingles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не перекрывает слои",
+   "ipa": "hi (dʌz nɑt ˌoʊvərˈlæp) ˈleɪərz",
+   "spell": "he (does not overlap) layers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не использует рабочие перчатки",
+   "ipa": "hi (dʌz nɑt juz) wɜrk ɡlʌvz",
+   "spell": "he (does not use) work gloves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он начинает установку",
+   "ipa": "hi bɪˈɡɪnz ˌɪnstəˈleɪʃən (dʌz bɪˈɡɪn)",
+   "spell": "he begins installation (does begin)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он проверяет лестницы",
+   "ipa": "hi ʧɛks ˈlædərz (dʌz ʧɛk)",
+   "spell": "he checks ladders (does check)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он чистит крышу",
+   "ipa": "hi klinz ðə ruf (dʌz klin)",
+   "spell": "he cleans the roof (does clean)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не заделывает дыры",
+   "ipa": "hi dʌz nɑt pæʧ hoʊlz",
+   "spell": "he does not patch holes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не подготавливает поверхность",
+   "ipa": "hi dʌz nɑt priˈpɛr ðə ˈsɜrfəs",
+   "spell": "he does not prepare the surface"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не транспортирует материалы",
+   "ipa": "hi dʌz nɑt trænˈspɔrt məˈtɪriəlz",
+   "spell": "he does not transport materials"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он пьёт воду",
+   "ipa": "hi drɪŋks ˈwɔtər",
+   "spell": "he drinks water"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он осматривает крышу",
+   "ipa": "hi ɪnˈspɛkts ðə ruf",
+   "spell": "he inspects the roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он устанавливает вентиляцию",
+   "ipa": "hi ɪnˈstɔlz ˌvɛntəˈleɪʃən",
+   "spell": "he installs ventilation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он укладывает черепицу",
+   "ipa": "hi leɪz ˈʃɪŋɡəlz",
+   "spell": "he lays shingles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он заделывает дыры",
+   "ipa": "hi ˈpæʧəz hoʊlz",
+   "spell": "he patches holes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он подготавливает поверхность",
+   "ipa": "hi priˈpɛrz ðə ˈsɜrfəs",
+   "spell": "he prepares the surface"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он использует рабочие перчатки",
+   "ipa": "hi ˈjusəz wɜrk ɡlʌvz",
+   "spell": "he uses work gloves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не пью воду",
+   "ipa": "aɪ (du nɑt drɪŋk) ˈwɔtər",
+   "spell": "I (do not drink) water"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не перекрываю слои",
+   "ipa": "aɪ (du nɑt ˌoʊvərˈlæp) ˈleɪərz",
+   "spell": "I (do not overlap) layers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не заделываю дыры",
+   "ipa": "aɪ du nɑt pæʧ hoʊlz",
+   "spell": "I do not patch holes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она чистит инструменты",
+   "ipa": "ʃi klinz ðə tulz",
+   "spell": "she cleans the tools"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не чистит инструменты",
+   "ipa": "ʃi dʌz nɑt klin ðə tulz",
+   "spell": "she does not clean the tools"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не получает оплату",
+   "ipa": "ʃi dʌz nɑt rəˈsiv ˈpeɪmənt",
+   "spell": "she does not receive payment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не сортирует отходы",
+   "ipa": "ʃi dʌz nɑt sɔrt weɪst",
+   "spell": "she does not sort waste"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не проверяет качество",
+   "ipa": "ʃi dʌz nɑt ˈvɛrəˌfaɪ ˈkwɑləti",
+   "spell": "she does not verify quality"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не носит защитные очки",
+   "ipa": "ʃi dʌz nɑt wɛr ˈseɪfti ˈɡɑɡəlz",
+   "spell": "she does not wear safety goggles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она получает оплату",
+   "ipa": "ʃi rəˈsivz ˈpeɪmənt",
+   "spell": "she receives payment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она сортирует отходы",
+   "ipa": "ʃi sɔrts weɪst",
+   "spell": "she sorts waste"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она проверяет качество",
+   "ipa": "ʃi ˈvɛrəˌfaɪz ˈkwɑləti",
+   "spell": "she verifies quality"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она носит защитные очки",
+   "ipa": "ʃi wɛrz ˈseɪfti ˈɡɑɡəlz",
+   "spell": "she wears safety goggles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они не начинают установку",
+   "ipa": "ðeɪ (du nɑt bɪˈɡɪn) ˌɪnstəˈleɪʃən",
+   "spell": "they (do not begin) installation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "укладывать",
+   "ipa": "tu leɪ",
+   "spell": "to lay"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перекрывать слои",
+   "ipa": "tu ˌoʊvərˈlæp ˈleɪərz",
+   "spell": "to overlap layers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "транспортировать материалы",
+   "ipa": "tu trænˈspɔrt məˈtɪriəlz",
+   "spell": "to transport materials"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы не устанавливаем вентиляцию",
+   "ipa": "wi (du nɑt ɪnˈstɔl) ˌvɛntəˈleɪʃən",
+   "spell": "we (do not install) ventilation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы не укладываем черепицу",
+   "ipa": "wi (du nɑt leɪ) ˈʃɪŋɡəlz",
+   "spell": "we (do not lay) shingles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы не чистим крышу",
+   "ipa": "wi (du nɑt klin) ðə ruf",
+   "spell": "we (do not clean) the roof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что ты слышишь?",
+   "ipa": "wɑt du ju hir?",
+   "spell": "what do you hear?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это?",
+   "ipa": "wɪʧ ɪz ɪt?",
+   "spell": "which is it?"
+ }
+]
