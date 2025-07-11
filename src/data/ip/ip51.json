@@ -1,0 +1,569 @@
+[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дім",
+   "ipa": "ə hoʊm",
+   "spell": "a home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "людина",
+   "ipa": "ə ˈpɜrsən",
+   "spell": "a person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запитання",
+   "ipa": "ə ˈkwɛsʧən wɜrd",
+   "spell": "a question word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що це?",
+   "ipa": "wɑt ɪz ɪt?",
+   "spell": "what is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "де це?",
+   "ipa": "wɛr ɪz ɪt?",
+   "spell": "where is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли це?",
+   "ipa": "wɛn ɪz ɪt?",
+   "spell": "when is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як це?",
+   "ipa": "haʊ ɪz ɪt?",
+   "spell": "how is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яке це?",
+   "ipa": "wɪʧ ɪz ɪt?",
+   "spell": "which is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хто це?",
+   "ipa": "hu ɪz ɪt?",
+   "spell": "who is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому це?",
+   "ipa": "waɪ ɪz ɪt?",
+   "spell": "why is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чиє це?",
+   "ipa": "huz ɪz ɪt?",
+   "spell": "whose is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "після роботи",
+   "ipa": "ˈæftər wɜrk",
+   "spell": "after work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти тут?",
+   "ipa": "ɑr ju hir?",
+   "spell": "are you here?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти запізнюєшся?",
+   "ipa": "ɑr ju leɪt?",
+   "spell": "are you late?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти втомлений у неділю ввечері?",
+   "ipa": "ɑr ju ˈtaɪərd ɑn ˈsʌnˌdeɪ ˈivnɪŋ?",
+   "spell": "are you tired on Sunday evening?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вдома",
+   "ipa": "æt hoʊm",
+   "spell": "at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гальмо автомобіля",
+   "ipa": "ə kɑr breɪk",
+   "spell": "a car brake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожежа в автомобілі",
+   "ipa": "ə kɑr ˈfaɪər",
+   "spell": "a car fire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "куряча ніжка",
+   "ipa": "ə ˈʧɪkən lɛɡ",
+   "spell": "a chicken leg"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не спав сьогодні?",
+   "ipa": "dɪd ju nɑt slip təˈdeɪ?",
+   "spell": "did you not sleep today?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти спав сьогодні?",
+   "ipa": "dɪd ju slip təˈdeɪ?",
+   "spell": "did you sleep today?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти робиш те саме що й у вихідні?",
+   "ipa": "du ju du ðə seɪm θɪŋ ˈɛvəri ˈwiˌkɛnd?",
+   "spell": "do you do the same thing every weekend?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти спиш сьогодні?",
+   "ipa": "du ju slip təˈdeɪ?",
+   "spell": "do you sleep today?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "швидко і правильно",
+   "ipa": "fæst ænd kəˈrɛkt",
+   "spell": "fast and correct"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вогонь",
+   "ipa": "ə ˈfaɪər",
+   "spell": "a fire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожежна машина",
+   "ipa": "ə ˈfaɪər kɑr",
+   "spell": "a fire car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожежна машина",
+   "ipa": "ə ˈfaɪər trʌk",
+   "spell": "a fire truck"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перший",
+   "ipa": "fɜrst",
+   "spell": "first"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вперше",
+   "ipa": "fɔr ðə fɜrst taɪm",
+   "spell": "for the first time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "додому",
+   "ipa": "hoʊm",
+   "spell": "home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я зустрів цю людину",
+   "ipa": "aɪ dɪd mit ðɪs ˈpɜrsən => aɪ mɛt ðɪs ˈpɜrsən",
+   "spell": "I did meet this person => I met this person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я зустрічаю цю людину",
+   "ipa": "aɪ du mit ðɪs ˈpɜrsən => aɪ mit ðɪs ˈpɜrsən",
+   "spell": "I do meet this person => I meet this person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я сплю",
+   "ipa": "aɪ du slip => aɪ slip",
+   "spell": "I do sleep => I sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вдома",
+   "ipa": "aɪ æm hoʊm",
+   "spell": "I am home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не зустрів цю людину",
+   "ipa": "aɪ dɪd nɑt mit ðɪs ˈpɜrsən",
+   "spell": "I did not meet this person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не спав",
+   "ipa": "aɪ dɪd nɑt slip",
+   "spell": "I did not sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не працював",
+   "ipa": "aɪ dɪd nɑt wɜrk",
+   "spell": "I did not work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я спав",
+   "ipa": "aɪ dɪd slip",
+   "spell": "I did sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я працював",
+   "ipa": "aɪ dɪd wɜrk => aɪ wɜrkt",
+   "spell": "I did work => I worked"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаю цю людину",
+   "ipa": "aɪ du nɑt mit ðɪs ˈpɜrsən",
+   "spell": "I do not meet this person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не сплю",
+   "ipa": "aɪ du nɑt slip",
+   "spell": "I do not sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не працюю",
+   "ipa": "aɪ du nɑt wɜrk",
+   "spell": "I do not work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я працюю",
+   "ipa": "aɪ du wɜrk => aɪ wɜrk",
+   "spell": "I do work => I work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ніколи не граю в комп'ютерні ігри",
+   "ipa": "aɪ ˈnɛvər pleɪ kəmˈpjutər ɡeɪmz",
+   "spell": "I never play computer games"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ніколи не граю на піаніно",
+   "ipa": "aɪ ˈnɛvər pleɪ ðə piˈænoʊ",
+   "spell": "I never play the piano"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я спав",
+   "ipa": "aɪ dɪd slip => aɪ slɛpt",
+   "spell": "I did sleep => I slept"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я спав до десяти годин",
+   "ipa": "aɪ slɛpt ənˈtɪl tɛn əˈklɑk",
+   "spell": "I slept until ten o'clock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я іноді тренуюся",
+   "ipa": "aɪ səmˈtaɪmz ˈɛksərˌsaɪz",
+   "spell": "I sometimes exercise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я іноді виходжу з дружиною",
+   "ipa": "aɪ səmˈtaɪmz ɡoʊ aʊt wɪð maɪ waɪf",
+   "spell": "I sometimes go out with my wife"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я іноді ходжу в спортзал",
+   "ipa": "aɪ səmˈtaɪmz ɡoʊ tu ðə ʤɪm",
+   "spell": "I sometimes go to the gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я іноді граю в теніс",
+   "ipa": "aɪ səmˈtaɪmz pleɪ ˈtɛnəs",
+   "spell": "I sometimes play tennis"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я зазвичай плаваю в басейні",
+   "ipa": "aɪ ˈjuʒəwəli swɪm ɪn ðə pul",
+   "spell": "I usually swim in the pool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я буду вдома",
+   "ipa": "aɪ wɪl bi hoʊm",
+   "spell": "I will be home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я піду додому після роботи",
+   "ipa": "aɪ wɪl ɡoʊ hoʊm ˈæftər wɜrk",
+   "spell": "I will go home after work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я зустріну цю людину",
+   "ipa": "aɪ wɪl mit ðɪs ˈpɜrsən",
+   "spell": "I will meet this person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не зустріну цю людину",
+   "ipa": "aɪ wɪl nɑt mit ðɪs ˈpɜrsən",
+   "spell": "I will not meet this person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не буду працювати",
+   "ipa": "aɪ wɪl nɑt wɜrk",
+   "spell": "I will not work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я буду працювати",
+   "ipa": "aɪ wɪl wɜrk",
+   "spell": "I will work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це правда про тебе?",
+   "ipa": "ɪz ðæt tru əˈbaʊt ju?",
+   "spell": "is that true about you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це правда?",
+   "ipa": "ɪz ðæt tru?",
+   "spell": "is that true?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зустрітися на вокзалі",
+   "ipa": "mit æt ðə treɪn ˈsteɪʃən",
+   "spell": "meet at the train station"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зустріти друзів після роботи",
+   "ipa": "mit frɛndz ˈæftər wɜrk",
+   "spell": "meet friends after work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "іменник",
+   "ipa": "ə naʊn",
+   "spell": "a noun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "привітайся з Оленою!",
+   "ipa": "seɪ haɪ tu Olena!",
+   "spell": "say hi to Olena!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спати, спав",
+   "ipa": "slip, slɛpt",
+   "spell": "sleep, slept"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неділя ввечері",
+   "ipa": "ˈsʌnˌdeɪ ˈivnɪŋ",
+   "spell": "Sunday evening"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "допоміжне дієслово \"do/does\"",
+   "ipa": "ði ɑɡˈzɪljəri “du/dʌz”",
+   "spell": "the auxiliary “do/does”"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "базова форма дієслова",
+   "ipa": "ðə beɪs fɔrm ʌv ðə vɜrb",
+   "spell": "the base form of the verb"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перший раз",
+   "ipa": "ðə fɜrst taɪm",
+   "spell": "the first time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запитання стоїть першим",
+   "ipa": "ðə ˈkwɛsʧən wɜrd kʌmz fɜrst",
+   "spell": "the question word comes first"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поміняти місцями підмет і дієслово",
+   "ipa": "tu ɪnˈvɜrt ðə ˈsʌbʤɪkt ænd ðə vɜrb",
+   "spell": "to invert the subject and the verb"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зустріти людину вперше",
+   "ipa": "tu mit ə ˈpɜrsən fɔr ðə fɜrst taɪm",
+   "spell": "to meet a person for the first time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вантажівка",
+   "ipa": "ə trʌk",
+   "spell": "a truck"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожежа вантажівки",
+   "ipa": "ə trʌk ˈfaɪər",
+   "spell": "a truck fire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що ти зазвичай робиш у суботу?",
+   "ipa": "wɑt du ju ˈjuʒəwəli du ɑn ˈsætərˌdeɪ!",
+   "spell": "what do you usually do on Saturday!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що ти робитимеш після роботи?",
+   "ipa": "wɑt wɪl ju du ˈæftər wɜrk?",
+   "spell": "what will you do after work?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому ти тут?",
+   "ipa": "waɪ ɑr ju hir?",
+   "spell": "why are you here?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому ти запізнюєшся?",
+   "ipa": "waɪ ɑr ju leɪt?",
+   "spell": "Why are you late?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "порядок слів",
+   "ipa": "ə wɜrd ˈɔrdər",
+   "spell": "a word order"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти тут",
+   "ipa": "ju ɑr hir",
+   "spell": "you are here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти спиш",
+   "ipa": "ju du slip => ju slip",
+   "spell": "you do sleep => you sleep"
+ }
+]
