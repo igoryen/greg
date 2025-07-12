@@ -1,479 +1,485 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "клерк, конторский служащий ",
-   "ipa": "ə klɜrk",
-   "spell": "a clerk",
-   "FIELD6": "scriba",
-   "number": "un empleado"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "круиз",
-   "ipa": "ə kruz",
-   "spell": "a cruise",
-   "FIELD6": "cursoria navigatio",
-   "number": "un crucero"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нимб",
-   "ipa": "ə ˈheɪloʊ",
-   "spell": "a halo",
-   "FIELD6": "halo",
-   "number": "un halo"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дымка",
-   "ipa": "ə heɪz",
-   "spell": "a haze",
-   "FIELD6": "caligo",
-   "number": "una neblina"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шланг",
-   "ipa": "ə hoʊz",
-   "spell": "a hose",
-   "FIELD6": "fistula",
-   "number": "una manguera"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мушкетёр",
-   "ipa": "ə ˌmʌskəˈtir",
-   "spell": "a musketeer",
-   "FIELD6": "musketarius",
-   "number": "un mosquetero"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фразеологизм",
-   "ipa": "ə ˌfreɪzɪˈɑlədʒɪzm, ən ˈɪdiəm",
-   "spell": "a phraseologism, an idiom",
-   "FIELD6": "phrasema",
-   "number": "una frase hecha"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бедняжка",
-   "ipa": "ə pʊr θɪŋ",
-   "spell": "a poor thing",
-   "FIELD6": "miser",
-   "number": "pobrecito/a"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "подобающее платье",
-   "ipa": "ə ˈprɑpər drɛs",
-   "spell": "a proper dress",
-   "FIELD6": "vestis decora",
-   "number": "un vestido apropiado"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рецепт",
-   "ipa": "ə ˈrɛsəpi",
-   "spell": "a recipe",
-   "FIELD6": "receptum",
-   "number": "una receta"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "восковая фигура кинозвезды",
-   "ipa": "ə wæks ˈfɪɡjər ʌv ə ˈmuvi stɑr",
-   "spell": "a wax figure of a movie star",
-   "FIELD6": "imago cerea stellae cinematographicae",
-   "number": "una figura de cera de una estrella de cine"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "над водопадом",
-   "ipa": "əˈbʌv ðə fɔlz",
-   "spell": "above the falls",
-   "FIELD6": "super cataractas",
-   "number": "encima de las cataratas"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обычная женщина 19 века",
-   "ipa": "ən ˈɔrdəˌnɛri ˈnaɪnˈtinθ ˈsɛnʧəri ˈwʊmən",
-   "spell": "an ordinary nineteenth century woman",
-   "FIELD6": "mulier ordinaria saeculi XIX",
-   "number": "una mujer común del siglo XIX"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ночёвка",
-   "ipa": "ən ˈoʊvərˈnaɪt steɪ",
-   "spell": "an overnight stay",
-   "FIELD6": "pernoctatio",
-   "number": "una pernoctación"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на закате",
-   "ipa": "æt ˈsʌnˌsɛt",
-   "spell": "at sunset",
-   "FIELD6": "ad solis occasum",
-   "number": "al atardecer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тётя Маша",
-   "ipa": "ænt ˈmɑʃə",
-   "spell": "aunt Masha",
-   "FIELD6": "amita Masha",
-   "number": "tía Masha"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "капризный",
-   "ipa": "kəˈprɪʃəs",
-   "spell": "capricious",
-   "FIELD6": "levis",
-   "number": "caprichoso/a"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "восхищённый, довольный",
-   "ipa": "dɪˈlaɪtɪd",
-   "spell": "delighted",
-   "FIELD6": "delectatus",
-   "number": "encantado/a"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бедствие",
-   "ipa": "dɪˈstrɛs",
-   "spell": "distress",
-   "FIELD6": "aerumna",
-   "number": "angustia"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "картинг",
-   "ipa": "ˈɡoʊˌkɑrt̬ɪŋ",
-   "spell": "go-karting",
-   "FIELD6": "cursus curriculorum",
-   "number": "careras de karts"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не близок с ними",
-   "ipa": "aɪ æm nɑt kloʊs tu ðɛm",
-   "spell": "I am not close to them",
-   "FIELD6": "non sum familiaris cum illis",
-   "number": "no soy cercano a ellos"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не могу это видеть",
-   "ipa": "aɪ kænt bɛr tu si ɪt",
-   "spell": "I can't bear to see it",
-   "FIELD6": "non possum id videre",
-   "number": "no puedo soportar verlo"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу одолжить это у тебя",
-   "ipa": "aɪ ˈwɑnə ˈbɑˌroʊ ɪt frʌm ju",
-   "spell": "I wanna borrow it from you",
-   "FIELD6": "a te mutuari volo",
-   "number": "quiero pedírtelo prestado"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "если ты заметил",
-   "ipa": "ɪf ju hæv ˈnoʊtəst",
-   "spell": "if you have noticed",
-   "FIELD6": "si animadvertisti",
-   "number": "si te has dado cuenta"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на этой главной улице",
-   "ipa": "ɪn ðɪs meɪn strit",
-   "spell": "in this main street",
-   "FIELD6": "in hac via principali",
-   "number": "en esta calle principal"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зимой",
-   "ipa": "ɪn ˈwɪntər taɪm",
-   "spell": "in winter time",
-   "FIELD6": "hieme",
-   "number": "en invierno"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "своими словами",
-   "ipa": "ɪn jʊər oʊn wɜrdz",
-   "spell": "in your own words",
-   "FIELD6": "tuis verbis",
-   "number": "en tus propias palabras"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это происходит",
-   "ipa": "ɪt teɪks pleɪs",
-   "spell": "it takes place",
-   "FIELD6": "fit",
-   "number": "sucede/tiene lugar"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "драгоценности, ювелирные изделия",
-   "ipa": "ˈʤuəlri",
-   "spell": "jewelry",
-   "FIELD6": "ornamenta",
-   "number": "joyas"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "одолжи мне это",
-   "ipa": "lɛnd ɪt tu mi",
-   "spell": "lend it to me",
-   "FIELD6": "mihi mutua",
-   "number": "préstamelo"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "грамотность",
-   "ipa": "ˈlɪtərəsi",
-   "spell": "literacy",
-   "FIELD6": "litterae",
-   "number": "alfabetización"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "литература",
-   "ipa": "ˈlɪtərəʧər",
-   "spell": "literature",
-   "FIELD6": "litterae",
-   "number": "literatura"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "роскошь",
-   "ipa": "ˈlʌɡʒəri",
-   "spell": "luxury",
-   "FIELD6": "luxus",
-   "number": "lujo"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жалкий",
-   "ipa": "ˈmɪzərəbəl",
-   "spell": "miserable",
-   "FIELD6": "miserable",
-   "number": "miserable"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "люди скромного достатка",
-   "ipa": "ˈpipəl ʌv ˈmɑdəst minz",
-   "spell": "people of modest means",
-   "FIELD6": "homines mediocris fortunae",
-   "number": "personas de medios modestos"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "социально амбициозный",
-   "ipa": "ˈsoʊʃəli æmˈbɪʃəs",
-   "spell": "socially ambitious",
-   "FIELD6": "socialiter ambitiosus",
-   "number": "ambicioso socialmente"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "19 век",
-   "ipa": "ðə ˈnaɪnˈtinθ ˈsɛnʧəri",
-   "spell": "the nineteenth century",
-   "FIELD6": "saeculum XIX",
-   "number": "el siglo XIX"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "опрятный",
-   "ipa": "ˈtaɪdi",
-   "spell": "tidy",
-   "FIELD6": "nitidus",
-   "number": "ordenado"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "занимать",
-   "ipa": "tu ˈbɑˌroʊ",
-   "spell": "to borrow",
-   "FIELD6": "mutuari",
-   "number": "pedir prestado"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пойти на многое, чтобы сделать это",
-   "ipa": "tu ɡoʊ tu ə lɑt ʌv ˈtrʌbəl tu du ɪt",
-   "spell": "to go to a lot of trouble to do it",
-   "FIELD6": "magno labore id facere",
-   "number": "esforzarse mucho para hacerlo"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бледнеть",
-   "ipa": "tu ɡroʊ peɪl",
-   "spell": "to grow pale",
-   "FIELD6": "pallescere",
-   "number": "palidecer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давать в долг, ссужать",
-   "ipa": "tu lɛnd",
-   "spell": "to lend",
-   "FIELD6": "mutuare",
-   "number": "prestar"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "читать печатные издания",
-   "ipa": "tu rid θɪŋz ɪn prɪnt",
-   "spell": "to read things in print",
-   "FIELD6": "typis lectitare",
-   "number": "leer en impreso"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "читать с экрана",
-   "ipa": "tu rid θɪŋz ˌɑnˈskrin",
-   "spell": "to read things on-screen",
-   "FIELD6": "in monitor legere",
-   "number": "leer en pantalla"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кататься на колесе обозрения",
-   "ipa": "tu raɪd ðə ˈfɛrɪs wil",
-   "spell": "to ride the Ferris wheel",
-   "FIELD6": "rotae panoramicae vehi",
-   "number": "subir a la noria"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "увидеть Ниагару ночью",
-   "ipa": "tu si naɪˈæɡrə æt naɪt",
-   "spell": "to see Niagara at night",
-   "FIELD6": "Nocte Niagara videre",
-   "number": "ver las cataratas del Niágara de noche"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "страдать",
-   "ipa": "tu ˈsʌfər",
-   "spell": "to suffer",
-   "FIELD6": "pati",
-   "number": "sufrir"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сочувствовать",
-   "ipa": "tu ˈsɪmpəˌθaɪz wɪð",
-   "spell": "to sympathize with",
-   "FIELD6": "misereri",
-   "number": "compadecerse de"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы поехали туда с ночёвкой",
-   "ipa": "wi wɛnt ðɛr fɔr ən ˈoʊvərˈnaɪt steɪ",
-   "spell": "we went there for an overnight stay",
-   "FIELD6": "illuc pernoctatum ivimus",
-   "number": "fuimos a pasar la noche"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ухоженный",
-   "ipa": "wɛl-ɡrumd / wɛl-kɛpt",
-   "spell": "well-groomed / well-kept",
-   "FIELD6": "curatus",
-   "number": "bien cuidado/a"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "с ночёвкой",
-   "ipa": "wɪð ən ˈoʊvərˈnaɪt steɪ",
-   "spell": "with an overnight stay",
-   "FIELD6": "cum pernoctatione",
-   "number": "con pernoctación"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "связанный с работой",
-   "ipa": "wɜrk-rɪˈleɪtɪd",
-   "spell": "work-related",
-   "FIELD6": "ad opus pertinens",
-   "number": "relacionado con el trabajo"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты никогда не проводишь время вне дома",
-   "ipa": "ju ˈnɛvər ɡoʊ aʊt",
-   "spell": "you never go out",
-   "FIELD6": "numquam exis",
-   "number": "nunca sales"
- }
-]
+{
+  "number": 66,
+  "date": "2025-06-30",
+  "student": "Maria L.",
+  "slug": "ml",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "клерк, конторский служащий ",
+      "ipa": "ə klɜrk",
+      "spell": "a clerk",
+      "FIELD6": "scriba",
+      "number": "un empleado"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "круиз",
+      "ipa": "ə kruz",
+      "spell": "a cruise",
+      "FIELD6": "cursoria navigatio",
+      "number": "un crucero"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нимб",
+      "ipa": "ə ˈheɪloʊ",
+      "spell": "a halo",
+      "FIELD6": "halo",
+      "number": "un halo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дымка",
+      "ipa": "ə heɪz",
+      "spell": "a haze",
+      "FIELD6": "caligo",
+      "number": "una neblina"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шланг",
+      "ipa": "ə hoʊz",
+      "spell": "a hose",
+      "FIELD6": "fistula",
+      "number": "una manguera"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мушкетёр",
+      "ipa": "ə ˌmʌskəˈtir",
+      "spell": "a musketeer",
+      "FIELD6": "musketarius",
+      "number": "un mosquetero"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фразеологизм",
+      "ipa": "ə ˌfreɪzɪˈɑlədʒɪzm, ən ˈɪdiəm",
+      "spell": "a phraseologism, an idiom",
+      "FIELD6": "phrasema",
+      "number": "una frase hecha"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бедняжка",
+      "ipa": "ə pʊr θɪŋ",
+      "spell": "a poor thing",
+      "FIELD6": "miser",
+      "number": "pobrecito/a"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подобающее платье",
+      "ipa": "ə ˈprɑpər drɛs",
+      "spell": "a proper dress",
+      "FIELD6": "vestis decora",
+      "number": "un vestido apropiado"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рецепт",
+      "ipa": "ə ˈrɛsəpi",
+      "spell": "a recipe",
+      "FIELD6": "receptum",
+      "number": "una receta"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "восковая фигура кинозвезды",
+      "ipa": "ə wæks ˈfɪɡjər ʌv ə ˈmuvi stɑr",
+      "spell": "a wax figure of a movie star",
+      "FIELD6": "imago cerea stellae cinematographicae",
+      "number": "una figura de cera de una estrella de cine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "над водопадом",
+      "ipa": "əˈbʌv ðə fɔlz",
+      "spell": "above the falls",
+      "FIELD6": "super cataractas",
+      "number": "encima de las cataratas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обычная женщина 19 века",
+      "ipa": "ən ˈɔrdəˌnɛri ˈnaɪnˈtinθ ˈsɛnʧəri ˈwʊmən",
+      "spell": "an ordinary nineteenth century woman",
+      "FIELD6": "mulier ordinaria saeculi XIX",
+      "number": "una mujer común del siglo XIX"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ночёвка",
+      "ipa": "ən ˈoʊvərˈnaɪt steɪ",
+      "spell": "an overnight stay",
+      "FIELD6": "pernoctatio",
+      "number": "una pernoctación"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на закате",
+      "ipa": "æt ˈsʌnˌsɛt",
+      "spell": "at sunset",
+      "FIELD6": "ad solis occasum",
+      "number": "al atardecer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тётя Маша",
+      "ipa": "ænt ˈmɑʃə",
+      "spell": "aunt Masha",
+      "FIELD6": "amita Masha",
+      "number": "tía Masha"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "капризный",
+      "ipa": "kəˈprɪʃəs",
+      "spell": "capricious",
+      "FIELD6": "levis",
+      "number": "caprichoso/a"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "восхищённый, довольный",
+      "ipa": "dɪˈlaɪtɪd",
+      "spell": "delighted",
+      "FIELD6": "delectatus",
+      "number": "encantado/a"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бедствие",
+      "ipa": "dɪˈstrɛs",
+      "spell": "distress",
+      "FIELD6": "aerumna",
+      "number": "angustia"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "картинг",
+      "ipa": "ˈɡoʊˌkɑrt̬ɪŋ",
+      "spell": "go-karting",
+      "FIELD6": "cursus curriculorum",
+      "number": "careras de karts"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не близок с ними",
+      "ipa": "aɪ æm nɑt kloʊs tu ðɛm",
+      "spell": "I am not close to them",
+      "FIELD6": "non sum familiaris cum illis",
+      "number": "no soy cercano a ellos"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не могу это видеть",
+      "ipa": "aɪ kænt bɛr tu si ɪt",
+      "spell": "I can't bear to see it",
+      "FIELD6": "non possum id videre",
+      "number": "no puedo soportar verlo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу одолжить это у тебя",
+      "ipa": "aɪ ˈwɑnə ˈbɑˌroʊ ɪt frʌm ju",
+      "spell": "I wanna borrow it from you",
+      "FIELD6": "a te mutuari volo",
+      "number": "quiero pedírtelo prestado"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если ты заметил",
+      "ipa": "ɪf ju hæv ˈnoʊtəst",
+      "spell": "if you have noticed",
+      "FIELD6": "si animadvertisti",
+      "number": "si te has dado cuenta"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на этой главной улице",
+      "ipa": "ɪn ðɪs meɪn strit",
+      "spell": "in this main street",
+      "FIELD6": "in hac via principali",
+      "number": "en esta calle principal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зимой",
+      "ipa": "ɪn ˈwɪntər taɪm",
+      "spell": "in winter time",
+      "FIELD6": "hieme",
+      "number": "en invierno"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "своими словами",
+      "ipa": "ɪn jʊər oʊn wɜrdz",
+      "spell": "in your own words",
+      "FIELD6": "tuis verbis",
+      "number": "en tus propias palabras"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это происходит",
+      "ipa": "ɪt teɪks pleɪs",
+      "spell": "it takes place",
+      "FIELD6": "fit",
+      "number": "sucede/tiene lugar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "драгоценности, ювелирные изделия",
+      "ipa": "ˈʤuəlri",
+      "spell": "jewelry",
+      "FIELD6": "ornamenta",
+      "number": "joyas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одолжи мне это",
+      "ipa": "lɛnd ɪt tu mi",
+      "spell": "lend it to me",
+      "FIELD6": "mihi mutua",
+      "number": "préstamelo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грамотность",
+      "ipa": "ˈlɪtərəsi",
+      "spell": "literacy",
+      "FIELD6": "litterae",
+      "number": "alfabetización"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "литература",
+      "ipa": "ˈlɪtərəʧər",
+      "spell": "literature",
+      "FIELD6": "litterae",
+      "number": "literatura"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "роскошь",
+      "ipa": "ˈlʌɡʒəri",
+      "spell": "luxury",
+      "FIELD6": "luxus",
+      "number": "lujo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жалкий",
+      "ipa": "ˈmɪzərəbəl",
+      "spell": "miserable",
+      "FIELD6": "miserable",
+      "number": "miserable"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "люди скромного достатка",
+      "ipa": "ˈpipəl ʌv ˈmɑdəst minz",
+      "spell": "people of modest means",
+      "FIELD6": "homines mediocris fortunae",
+      "number": "personas de medios modestos"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "социально амбициозный",
+      "ipa": "ˈsoʊʃəli æmˈbɪʃəs",
+      "spell": "socially ambitious",
+      "FIELD6": "socialiter ambitiosus",
+      "number": "ambicioso socialmente"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "19 век",
+      "ipa": "ðə ˈnaɪnˈtinθ ˈsɛnʧəri",
+      "spell": "the nineteenth century",
+      "FIELD6": "saeculum XIX",
+      "number": "el siglo XIX"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "опрятный",
+      "ipa": "ˈtaɪdi",
+      "spell": "tidy",
+      "FIELD6": "nitidus",
+      "number": "ordenado"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "занимать",
+      "ipa": "tu ˈbɑˌroʊ",
+      "spell": "to borrow",
+      "FIELD6": "mutuari",
+      "number": "pedir prestado"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пойти на многое, чтобы сделать это",
+      "ipa": "tu ɡoʊ tu ə lɑt ʌv ˈtrʌbəl tu du ɪt",
+      "spell": "to go to a lot of trouble to do it",
+      "FIELD6": "magno labore id facere",
+      "number": "esforzarse mucho para hacerlo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бледнеть",
+      "ipa": "tu ɡroʊ peɪl",
+      "spell": "to grow pale",
+      "FIELD6": "pallescere",
+      "number": "palidecer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давать в долг, ссужать",
+      "ipa": "tu lɛnd",
+      "spell": "to lend",
+      "FIELD6": "mutuare",
+      "number": "prestar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "читать печатные издания",
+      "ipa": "tu rid θɪŋz ɪn prɪnt",
+      "spell": "to read things in print",
+      "FIELD6": "typis lectitare",
+      "number": "leer en impreso"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "читать с экрана",
+      "ipa": "tu rid θɪŋz ˌɑnˈskrin",
+      "spell": "to read things on-screen",
+      "FIELD6": "in monitor legere",
+      "number": "leer en pantalla"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кататься на колесе обозрения",
+      "ipa": "tu raɪd ðə ˈfɛrɪs wil",
+      "spell": "to ride the Ferris wheel",
+      "FIELD6": "rotae panoramicae vehi",
+      "number": "subir a la noria"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увидеть Ниагару ночью",
+      "ipa": "tu si naɪˈæɡrə æt naɪt",
+      "spell": "to see Niagara at night",
+      "FIELD6": "Nocte Niagara videre",
+      "number": "ver las cataratas del Niágara de noche"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "страдать",
+      "ipa": "tu ˈsʌfər",
+      "spell": "to suffer",
+      "FIELD6": "pati",
+      "number": "sufrir"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сочувствовать",
+      "ipa": "tu ˈsɪmpəˌθaɪz wɪð",
+      "spell": "to sympathize with",
+      "FIELD6": "misereri",
+      "number": "compadecerse de"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы поехали туда с ночёвкой",
+      "ipa": "wi wɛnt ðɛr fɔr ən ˈoʊvərˈnaɪt steɪ",
+      "spell": "we went there for an overnight stay",
+      "FIELD6": "illuc pernoctatum ivimus",
+      "number": "fuimos a pasar la noche"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ухоженный",
+      "ipa": "wɛl-ɡrumd / wɛl-kɛpt",
+      "spell": "well-groomed / well-kept",
+      "FIELD6": "curatus",
+      "number": "bien cuidado/a"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с ночёвкой",
+      "ipa": "wɪð ən ˈoʊvərˈnaɪt steɪ",
+      "spell": "with an overnight stay",
+      "FIELD6": "cum pernoctatione",
+      "number": "con pernoctación"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "связанный с работой",
+      "ipa": "wɜrk-rɪˈleɪtɪd",
+      "spell": "work-related",
+      "FIELD6": "ad opus pertinens",
+      "number": "relacionado con el trabajo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты никогда не проводишь время вне дома",
+      "ipa": "ju ˈnɛvər ɡoʊ aʊt",
+      "spell": "you never go out",
+      "FIELD6": "numquam exis",
+      "number": "nunca sales"
+    }
+  ]
+}
