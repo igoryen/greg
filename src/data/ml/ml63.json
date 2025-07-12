@@ -1,268 +1,274 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "туман",
-   "ipa": "ə fɑɡ",
-   "spell": "a fog"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "туманный туман",
-   "ipa": "ə ˈfɑɡi fɑɡ",
-   "spell": "a foggy fog"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "куцый язык",
-   "ipa": "ə ʃɔrt-teɪld ˈlæŋɡwəʤ",
-   "spell": "a short-tailed language"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жёсткий, негибкий язык",
-   "ipa": "ə stɪf ˈlæŋɡwəʤ",
-   "spell": "a stiff language"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "междометие",
-   "ipa": "ən ˌɪntərˈʤɛkʃən",
-   "spell": "an interjection"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в конце, на конце",
-   "ipa": "æt ði ɛnd",
-   "spell": "at the end"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не шевелись!",
-   "ipa": "bi stɪl!",
-   "spell": "be still!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "туманный",
-   "ipa": "ˈfɑɡi",
-   "spell": "foggy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "К счастью, его травмы оказались несерьёзными.",
-   "ipa": "ˈhæpəli, hɪz ˈɪnʤəriz wɜr nɑt ˈsɪriəs.",
-   "spell": "Happily, his injuries were not serious."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как оно? (Австралия, Океания)",
-   "ipa": "haʊˈzɪt",
-   "spell": "howzit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я тебя почти не знаю",
-   "ipa": "aɪ ˈhɑrdli noʊ ju",
-   "spell": "I hardly know you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я всегда была верна",
-   "ipa": "aɪ hæv ˈɔlˌweɪz bɪn ˈfeɪθfəl",
-   "spell": "I have always been faithful"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ещё не нашёл работу",
-   "ipa": "aɪ ˈhævənt faʊnd ə ʤɑb jɛt",
-   "spell": "I haven't found a job yet"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я почти забыл",
-   "ipa": "aɪ ˈnɪrli fərˈɡɑt",
-   "spell": "I nearly forgot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я до сих пор не нашёл работу",
-   "ipa": "aɪ stɪl ˈhævənt faʊnd ə ʤɑb",
-   "spell": "I still haven't found a job"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я плавала в реке через день",
-   "ipa": "aɪ wʊd swɪm ɪn ðə ˈrɪvər ˈɛvəri ˈʌðər deɪ",
-   "spell": "I would swim in the river every other day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в высотке",
-   "ipa": "ɪn ə ˈhaɪˌraɪz",
-   "spell": "in a high-rise"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в высоком здании",
-   "ipa": "ɪn ə tɔl ˈbɪldɪŋ",
-   "spell": "in a tall building"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у нас во дворе",
-   "ipa": "ɪn ˈaʊər jɑrd",
-   "spell": "in our yard"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в конце",
-   "ipa": "ɪn ði ɛnd",
-   "spell": "in the end"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в конце концов все мы смертны",
-   "ipa": "ɪn ði ɛnd wi ɑr ɔl ˈmɔrtəl",
-   "spell": "in the end we are all mortal"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "оно работает уже два дня",
-   "ipa": "ɪt hæz bɪn ˈwɜrkɪŋ fɔr tu deɪz naʊ",
-   "spell": "it has been working for two days now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уже поздно!",
-   "ipa": "ɪt ɪz leɪt!",
-   "spell": "it is late!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в последнее время мне нравится слушать музыку",
-   "ipa": "ˈleɪtli, aɪ ɛnˈʤɔɪ ˈlɪsənɪŋ tu ˈmjuzɪk",
-   "spell": "lately, I enjoy listening to music"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "К счастью, в аварии никто не пострадал.",
-   "ipa": "ˈlʌkəli, noʊ wʌn wʌz ˈɪnʤərd ɪn ði ˈæksədənt.",
-   "spell": "Luckily, no one was injured in the accident."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в конце концов ничто из этого не имеет значения",
-   "ipa": "nʌn ʌv ðɪs ˈmætərz ɪn ði ɛnd",
-   "spell": "none of this matters in the end"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "намедни",
-   "ipa": "ʌv leɪt",
-   "spell": "of late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сиди спокойно",
-   "ipa": "sɪt stɪl",
-   "spell": "sit still"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стой спокойно",
-   "ipa": "stænd stɪl",
-   "spell": "stand still"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "К счастью, мне удалось выплатить все долги до свадьбы.",
-   "ipa": "ˈθæŋkfəli, aɪ ˈmænəʤd tu peɪ ɔf ɔl maɪ dɛts bɪˈfɔr wi ɡɑt ˈmɛrid.",
-   "spell": "Thankfully, I managed to pay off all my debts before we got married."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "электричество отключилось",
-   "ipa": "ði ɪˌlɛkˈtrɪsəti wɛnt ɔf",
-   "spell": "the electricity went off"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они не отправили детей на улицу",
-   "ipa": "ðeɪ ˈdɪdənt sɛnd ðə kɪdz ˈaʊtˈdɔrz",
-   "spell": "they didn't send the kids outdoors"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они почти не знали друг друга",
-   "ipa": "ðeɪ ˈhɑrdli nu iʧ ˈʌðər",
-   "spell": "they hardly knew each other"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они не разрешали нам ходить к реке",
-   "ipa": "ðeɪ wʊd nɑt əˈlaʊ ʌs tu ɡoʊ tu ðə ˈrɪvər",
-   "spell": "they would not allow us to go to the river"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знать друг друга",
-   "ipa": "tu noʊ iʧ ˈʌðər",
-   "spell": "to know each other"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда я пришёл, автобус только что уехал",
-   "ipa": "wɛn aɪ ɡɑt ðɛr, ðə bʌs hæd ʤʌst lɛft",
-   "spell": "when I got there, the bus had just left"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда мы приходили, мы убеждались, что никто не смотрит",
-   "ipa": "wɛn wi wʊd kʌm wi wʊd meɪk ʃʊr ˈnoʊˌbɑˌdi wʌz ˈwɑʧɪŋ",
-   "spell": "when we would come we would make sure nobody was watching"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты меня убедил",
-   "ipa": "ju pərˈsweɪdɪd mi",
-   "spell": "you persuaded me"
- }
-]
+{
+  "number": 63,
+  "date": "2025-05-23",
+  "student": "Maria L.",
+  "slug": "ml",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "туман",
+      "ipa": "ə fɑɡ",
+      "spell": "a fog"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "туманный туман",
+      "ipa": "ə ˈfɑɡi fɑɡ",
+      "spell": "a foggy fog"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "куцый язык",
+      "ipa": "ə ʃɔrt-teɪld ˈlæŋɡwəʤ",
+      "spell": "a short-tailed language"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жёсткий, негибкий язык",
+      "ipa": "ə stɪf ˈlæŋɡwəʤ",
+      "spell": "a stiff language"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "междометие",
+      "ipa": "ən ˌɪntərˈʤɛkʃən",
+      "spell": "an interjection"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в конце, на конце",
+      "ipa": "æt ði ɛnd",
+      "spell": "at the end"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не шевелись!",
+      "ipa": "bi stɪl!",
+      "spell": "be still!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "туманный",
+      "ipa": "ˈfɑɡi",
+      "spell": "foggy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "К счастью, его травмы оказались несерьёзными.",
+      "ipa": "ˈhæpəli, hɪz ˈɪnʤəriz wɜr nɑt ˈsɪriəs.",
+      "spell": "Happily, his injuries were not serious."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как оно? (Австралия, Океания)",
+      "ipa": "haʊˈzɪt",
+      "spell": "howzit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тебя почти не знаю",
+      "ipa": "aɪ ˈhɑrdli noʊ ju",
+      "spell": "I hardly know you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я всегда была верна",
+      "ipa": "aɪ hæv ˈɔlˌweɪz bɪn ˈfeɪθfəl",
+      "spell": "I have always been faithful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ещё не нашёл работу",
+      "ipa": "aɪ ˈhævənt faʊnd ə ʤɑb jɛt",
+      "spell": "I haven't found a job yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я почти забыл",
+      "ipa": "aɪ ˈnɪrli fərˈɡɑt",
+      "spell": "I nearly forgot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я до сих пор не нашёл работу",
+      "ipa": "aɪ stɪl ˈhævənt faʊnd ə ʤɑb",
+      "spell": "I still haven't found a job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я плавала в реке через день",
+      "ipa": "aɪ wʊd swɪm ɪn ðə ˈrɪvər ˈɛvəri ˈʌðər deɪ",
+      "spell": "I would swim in the river every other day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в высотке",
+      "ipa": "ɪn ə ˈhaɪˌraɪz",
+      "spell": "in a high-rise"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в высоком здании",
+      "ipa": "ɪn ə tɔl ˈbɪldɪŋ",
+      "spell": "in a tall building"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у нас во дворе",
+      "ipa": "ɪn ˈaʊər jɑrd",
+      "spell": "in our yard"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в конце",
+      "ipa": "ɪn ði ɛnd",
+      "spell": "in the end"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в конце концов все мы смертны",
+      "ipa": "ɪn ði ɛnd wi ɑr ɔl ˈmɔrtəl",
+      "spell": "in the end we are all mortal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно работает уже два дня",
+      "ipa": "ɪt hæz bɪn ˈwɜrkɪŋ fɔr tu deɪz naʊ",
+      "spell": "it has been working for two days now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уже поздно!",
+      "ipa": "ɪt ɪz leɪt!",
+      "spell": "it is late!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в последнее время мне нравится слушать музыку",
+      "ipa": "ˈleɪtli, aɪ ɛnˈʤɔɪ ˈlɪsənɪŋ tu ˈmjuzɪk",
+      "spell": "lately, I enjoy listening to music"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "К счастью, в аварии никто не пострадал.",
+      "ipa": "ˈlʌkəli, noʊ wʌn wʌz ˈɪnʤərd ɪn ði ˈæksədənt.",
+      "spell": "Luckily, no one was injured in the accident."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в конце концов ничто из этого не имеет значения",
+      "ipa": "nʌn ʌv ðɪs ˈmætərz ɪn ði ɛnd",
+      "spell": "none of this matters in the end"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "намедни",
+      "ipa": "ʌv leɪt",
+      "spell": "of late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сиди спокойно",
+      "ipa": "sɪt stɪl",
+      "spell": "sit still"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стой спокойно",
+      "ipa": "stænd stɪl",
+      "spell": "stand still"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "К счастью, мне удалось выплатить все долги до свадьбы.",
+      "ipa": "ˈθæŋkfəli, aɪ ˈmænəʤd tu peɪ ɔf ɔl maɪ dɛts bɪˈfɔr wi ɡɑt ˈmɛrid.",
+      "spell": "Thankfully, I managed to pay off all my debts before we got married."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "электричество отключилось",
+      "ipa": "ði ɪˌlɛkˈtrɪsəti wɛnt ɔf",
+      "spell": "the electricity went off"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они не отправили детей на улицу",
+      "ipa": "ðeɪ ˈdɪdənt sɛnd ðə kɪdz ˈaʊtˈdɔrz",
+      "spell": "they didn't send the kids outdoors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они почти не знали друг друга",
+      "ipa": "ðeɪ ˈhɑrdli nu iʧ ˈʌðər",
+      "spell": "they hardly knew each other"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они не разрешали нам ходить к реке",
+      "ipa": "ðeɪ wʊd nɑt əˈlaʊ ʌs tu ɡoʊ tu ðə ˈrɪvər",
+      "spell": "they would not allow us to go to the river"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знать друг друга",
+      "ipa": "tu noʊ iʧ ˈʌðər",
+      "spell": "to know each other"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я пришёл, автобус только что уехал",
+      "ipa": "wɛn aɪ ɡɑt ðɛr, ðə bʌs hæd ʤʌst lɛft",
+      "spell": "when I got there, the bus had just left"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда мы приходили, мы убеждались, что никто не смотрит",
+      "ipa": "wɛn wi wʊd kʌm wi wʊd meɪk ʃʊr ˈnoʊˌbɑˌdi wʌz ˈwɑʧɪŋ",
+      "spell": "when we would come we would make sure nobody was watching"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты меня убедил",
+      "ipa": "ju pərˈsweɪdɪd mi",
+      "spell": "you persuaded me"
+    }
+  ]
+}
