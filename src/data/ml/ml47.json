@@ -1,163 +1,169 @@
-[
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "документальный фильм",
-		"ipa": "ə ˌdɑkjəˈmɛntəri",
-		"spell": "a documentary"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "кулак",
-		"ipa": "ə fɪst",
-		"spell": "a fist"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "жидкость",
-		"ipa": "ə ˈlɪkwɪd",
-		"spell": "a liquid"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "прыщ",
-		"ipa": "ə ˈpɪmpəl",
-		"spell": "a pimple"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "результат",
-		"ipa": "ə rɪˈzʌlt",
-		"spell": "a result"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "рассеянный",
-		"ipa": "ˈæbsənt-ˈmaɪndɪd",
-		"spell": "absent-minded"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "аукцион",
-		"ipa": "ən ˈɑkʃən",
-		"spell": "an auction"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "вспыльчивый",
-		"ipa": "bæd-ˈtɛmpərd",
-		"spell": "bad-tempered"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "контролируй свой гнев",
-		"ipa": "kənˈtroʊl jʊər ˈtɛmpər",
-		"spell": "control your temper"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "я передала это своему сыну",
-		"ipa": "aɪ pæst ɪt tu maɪ sʌn",
-		"spell": "I passed it to my son"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "уверенный в себе",
-		"ipa": "ˈsɛlfˈkɑnfədənt",
-		"spell": "self-confident"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "безрукавный",
-		"ipa": "ˈslivlɪs",
-		"spell": "sleeveless"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "кровоточить",
-		"ipa": "tu blid",
-		"spell": "to bleed"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "пережить это, поправиться",
-		"ipa": "tu ɡɛt ˈoʊvər ɪt",
-		"spell": "to get over it"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "осмотреть дом",
-		"ipa": "tu vju ə haʊs",
-		"spell": "to view a house"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "какого цвета твой воротник?",
-		"ipa": "wɑt ˈkʌlər ɪz jʊər ˈkɑlər?",
-		"spell": "what color is your collar?"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "внутривенный",
-		"ipa": "ˌɪntrəˈvinəs",
-		"spell": "intravenous"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "гнойная ангина",
-		"ipa": "ˈpʌstʃələr tɑnsəˈlaɪtɪs",
-		"spell": "pustular tonsillitis"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "замша",
-		"ipa": "sweɪd",
-		"spell": "suede"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "концертина (шестигранная гармоника)",
-		"ipa": "ə kɑnsərˈtinə",
-		"spell": "a concertina"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "психологическое истощение",
-		"ipa": "ˌsaɪkəˈlɑʤɪkəl dɪˌtɪriəˈreɪʃən",
-		"spell": "psychological deterioration"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "справка от врача",
-		"ipa": "ə ˈdɑktərz noʊt",
-		"spell": "a doctor's note"
-	},
-	{
-		"cefr": "",
-		"def2": "",
-		"def1": "фетровый",
-		"ipa": "fɛlt",
-		"spell": "felt"
-	}
-]
+{
+	"number": 47,
+	"date": "2025-05-05",
+	"student": "Maria L.",
+	"slug": "ml",
+	"words": [
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "документальный фильм",
+			"ipa": "ə ˌdɑkjəˈmɛntəri",
+			"spell": "a documentary"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "кулак",
+			"ipa": "ə fɪst",
+			"spell": "a fist"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "жидкость",
+			"ipa": "ə ˈlɪkwɪd",
+			"spell": "a liquid"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "прыщ",
+			"ipa": "ə ˈpɪmpəl",
+			"spell": "a pimple"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "результат",
+			"ipa": "ə rɪˈzʌlt",
+			"spell": "a result"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "рассеянный",
+			"ipa": "ˈæbsənt-ˈmaɪndɪd",
+			"spell": "absent-minded"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "аукцион",
+			"ipa": "ən ˈɑkʃən",
+			"spell": "an auction"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "вспыльчивый",
+			"ipa": "bæd-ˈtɛmpərd",
+			"spell": "bad-tempered"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "контролируй свой гнев",
+			"ipa": "kənˈtroʊl jʊər ˈtɛmpər",
+			"spell": "control your temper"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "я передала это своему сыну",
+			"ipa": "aɪ pæst ɪt tu maɪ sʌn",
+			"spell": "I passed it to my son"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "уверенный в себе",
+			"ipa": "ˈsɛlfˈkɑnfədənt",
+			"spell": "self-confident"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "безрукавный",
+			"ipa": "ˈslivlɪs",
+			"spell": "sleeveless"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "кровоточить",
+			"ipa": "tu blid",
+			"spell": "to bleed"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "пережить это, поправиться",
+			"ipa": "tu ɡɛt ˈoʊvər ɪt",
+			"spell": "to get over it"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "осмотреть дом",
+			"ipa": "tu vju ə haʊs",
+			"spell": "to view a house"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "какого цвета твой воротник?",
+			"ipa": "wɑt ˈkʌlər ɪz jʊər ˈkɑlər?",
+			"spell": "what color is your collar?"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "внутривенный",
+			"ipa": "ˌɪntrəˈvinəs",
+			"spell": "intravenous"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "гнойная ангина",
+			"ipa": "ˈpʌstʃələr tɑnsəˈlaɪtɪs",
+			"spell": "pustular tonsillitis"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "замша",
+			"ipa": "sweɪd",
+			"spell": "suede"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "концертина (шестигранная гармоника)",
+			"ipa": "ə kɑnsərˈtinə",
+			"spell": "a concertina"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "психологическое истощение",
+			"ipa": "ˌsaɪkəˈlɑʤɪkəl dɪˌtɪriəˈreɪʃən",
+			"spell": "psychological deterioration"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "справка от врача",
+			"ipa": "ə ˈdɑktərz noʊt",
+			"spell": "a doctor's note"
+		},
+		{
+			"cefr": "",
+			"def2": "",
+			"def1": "фетровый",
+			"ipa": "fɛlt",
+			"spell": "felt"
+		}
+	]
+}
