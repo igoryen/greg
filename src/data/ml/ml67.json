@@ -1,457 +1,463 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "застёжка",
-   "ipa": "ə klæsp",
-   "spell": "a clasp"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "плащ, накидка",
-   "ipa": "ə kloʊk",
-   "spell": "a cloak"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ростовщик, ссудодатель",
-   "ipa": "ə ˈmʌni ˈlɛndər",
-   "spell": "a money lender"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рубль",
-   "ipa": "ə ˈrubəl",
-   "spell": "a ruble"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чердак",
-   "ipa": "ən ˈætɪk",
-   "spell": "an attic"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наследник",
-   "ipa": "ən ɛr",
-   "spell": "an heir"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "слышимость",
-   "ipa": "ˌɑdəˈbɪləti",
-   "spell": "audibility"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "будь благодарен за то, что имеешь",
-   "ipa": "bi ˈθæŋkfəl fɔr wɑt ju hæv",
-   "spell": "be thankful for what you have"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "довольство, удовлетворённость",
-   "ipa": "kənˈtɛntmənt",
-   "spell": "contentment"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "могла ли она вернуть ей деньги?",
-   "ipa": "kʊd ʃi hæv ˈɡɪvən ðə ˈmʌni bæk tu hɜr",
-   "spell": "could she have given the money back to her"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не бери на себя слишком много; не откусывай больше, чем сможешь прожевать",
-   "ipa": "doʊnt baɪt ɔf mɔr ðæn ju kæn ʧu",
-   "spell": "don't bite off more than you can chew"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не гони лошадей, не делай поспешных выводов",
-   "ipa": "doʊnt ʤʌmp tu kənˈkluʒənz",
-   "spell": "don't jump to conclusions"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не храни секретов",
-   "ipa": "doʊnt kip ˈsikrəts",
-   "spell": "don't keep secrets"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не переоценивай свои силы",
-   "ipa": "doʊnt ˌoʊvərˈriʧ jərˈsɛlf",
-   "spell": "don't overreach yourself"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не пытайся бежать, пока не научился ходить",
-   "ipa": "doʊnt traɪ tu rʌn bɪˈfɔr ju kæn wɔk",
-   "spell": "don't try to run before you can walk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "частота",
-   "ipa": "ˈfrikwənsi",
-   "spell": "frequency"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "часто",
-   "ipa": "ˈfrikwəntli",
-   "spell": "frequently"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отныне",
-   "ipa": "frʌm naʊ ɑn",
-   "spell": "from now on"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он мастер красиво выражаться, строить фразы",
-   "ipa": "hi kæn tɜrn ə freɪz",
-   "spell": "he can turn a phrase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в нём нет человеческих качеств",
-   "ipa": "hi ˈdʌzənt hæv ˈhjumən ˈkwɑlətiz",
-   "spell": "he doesn't have human qualities"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на твоём месте я бы этого не делал",
-   "ipa": "ɪf aɪ wɜr ju, aɪ wʊd nɑt du ɪt",
-   "spell": "if i were you, I would not do it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на твоём месте, (я бы) ...",
-   "ipa": "ɪf ju wɜr ju...",
-   "spell": "if you were you..."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неприятным образом",
-   "ipa": "ɪn ən ənˈplɛzənt weɪ",
-   "spell": "in an unpleasant way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вместо меня",
-   "ipa": "ɪnˈstɛd ʌv mi",
-   "spell": "instead of me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уму непостижимо",
-   "ipa": "ɪt ɪz ˈmaɪndˌbɔɡlɪŋ",
-   "spell": "it is mind-boggling"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он звуконепроницаемый",
-   "ipa": "ɪt ɪz ˈsaʊndpruf",
-   "spell": "it is soundproof"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знай свои пределы",
-   "ipa": "noʊ jʊər ˈlɪməts",
-   "spell": "know your limits"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жизнь и так тяжела",
-   "ipa": "laɪf ɪz hɑrd æz ɪt ɪz",
-   "spell": "life is hard as it is"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "г-жа",
-   "ipa": "ˈmɪsɪz",
-   "spell": "Mrs"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она могла это сделать",
-   "ipa": "ʃi kʊd du ɪt",
-   "spell": "she could do it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она могла бы найти это (но не сделала)",
-   "ipa": "ʃi kʊd hæv faʊnd ɪt",
-   "spell": "she could have found it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она не смогла найти это",
-   "ipa": "ʃi ˈkʊdənt faɪnd ɪt",
-   "spell": "she couldn't find it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она не осознавала",
-   "ipa": "ʃi ˈdɪdənt ˈriəˌlaɪz",
-   "spell": "she didn't realize"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она обижается",
-   "ipa": "ʃi ɡɛts əˈfɛndɪd",
-   "spell": "she gets offended"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она вне себя от радости",
-   "ipa": "ʃi ɪz mæd wɪð ʤɔɪ",
-   "spell": "she is mad with joy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она соблазнительна",
-   "ipa": "ʃi ɪz sɪˈdʌktɪv",
-   "spell": "she is seductive"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ей бы не пришлось так долго работать",
-   "ipa": "ʃi ˈwʊdənt hæv hæd tu wɜrk soʊ lɔŋ",
-   "spell": "she wouldn't have had to work so long"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она дерзкая, бойкая на язык",
-   "ipa": "ʃiz ˈsæsi",
-   "spell": "she's sassy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мораль истории",
-   "ipa": "ðə ˈmɔrəl ʌv ðə ˈstɔri",
-   "spell": "the moral of the story"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отдел продаж",
-   "ipa": "ðə seɪlz dɪˈpɑrtmənt",
-   "spell": "the sales department"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они пялятся",
-   "ipa": "ðeɪ stɛr",
-   "spell": "they stare"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они приложили много усилий для восстановления",
-   "ipa": "ðeɪ wɛnt tu ə lɑt ʌv ˈtrʌbəl tu rɪˈstɔr ɪt",
-   "spell": "they went to a lot of trouble to restore it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "быть довольным",
-   "ipa": "tu bi ˈkɑntɛnt",
-   "spell": "to be content"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "любить это, увлекаться",
-   "ipa": "tu bi fɑnd ʌv ɪt",
-   "spell": "to be fond of it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "критиковать",
-   "ipa": "tu ˈkrɪtɪˌsaɪz",
-   "spell": "to criticize"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не любить, чувствовать неприязнь",
-   "ipa": "tu dɪˈslaɪk",
-   "spell": "to dislike"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вести для него бухгалтерию",
-   "ipa": "tu du əˈkaʊnts fɔr hɪm",
-   "spell": "to do accounts for him"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уставиться в экран",
-   "ipa": "tu ɡlɛr æt ðə skrin",
-   "spell": "to glare at the screen"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "колебаться",
-   "ipa": "tu ˈhɛzəˌteɪt",
-   "spell": "to hesitate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "надеяться против надежды",
-   "ipa": "tu hoʊp əˈɡɛnst hoʊp",
-   "spell": "to hope against hope"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наследовать",
-   "ipa": "tu ɪnˈhɛrət",
-   "spell": "to inherit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вести дневник",
-   "ipa": "tu kip ə ˈdaɪəri",
-   "spell": "to keep a diary"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давать деньги в долг",
-   "ipa": "tu lɛnd ˈmʌni",
-   "spell": "to lend money"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "перевести дух",
-   "ipa": "tu pɔz fɔr brɛθ",
-   "spell": "to pause for breath"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вернуться назад, вернуться обратно тем же путём",
-   "ipa": "tu riˈtreɪs wʌnz stɛps",
-   "spell": "to retrace one's steps"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сказать ей",
-   "ipa": "tu tɛl hɜr",
-   "spell": "to tell her"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "появиться в офисе",
-   "ipa": "tu tɜrn ʌp æt ði ˈɔfəs",
-   "spell": "to turn up at the office"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "изнашивать их",
-   "ipa": "tu wɛr ðɛm aʊt",
-   "spell": "to wear them out"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "осторожно! смотри в оба!",
-   "ipa": "wɑʧ aʊt!",
-   "spell": "watch out!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что тебя задержало?",
-   "ipa": "wɑt kɛpt ju?",
-   "spell": "what kept you?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "почему это заняло у тебя так много времени?",
-   "ipa": "waɪ dɪd ɪt teɪk ju soʊ lɔŋ?",
-   "spell": "why did it take you so long?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "почему она так долго возвращала это",
-   "ipa": "waɪ ɪt tʊk hɜr soʊ lɔŋ tu rɪˈtɜrn ɪt",
-   "spell": "why it took her so long to return it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты под кайфом",
-   "ipa": "ju ɑr haɪ",
-   "spell": "you are high"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты всегда должен говорить правду",
-   "ipa": "ju ʃʊd ˈɔlˌweɪz tɛl ðə truθ",
-   "spell": "you should always tell the truth"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты должен быть счастлив тем, что имеешь",
-   "ipa": "ju ʃʊd bi ˈhæpi wɑt ju hæv",
-   "spell": "you should be happy what you have"
- }
-]
+{
+  "number": 67,
+  "date": "2025-07-02",
+  "student": "Maria L.",
+  "slug": "ml",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "застёжка",
+      "ipa": "ə klæsp",
+      "spell": "a clasp"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плащ, накидка",
+      "ipa": "ə kloʊk",
+      "spell": "a cloak"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ростовщик, ссудодатель",
+      "ipa": "ə ˈmʌni ˈlɛndər",
+      "spell": "a money lender"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рубль",
+      "ipa": "ə ˈrubəl",
+      "spell": "a ruble"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чердак",
+      "ipa": "ən ˈætɪk",
+      "spell": "an attic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наследник",
+      "ipa": "ən ɛr",
+      "spell": "an heir"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слышимость",
+      "ipa": "ˌɑdəˈbɪləti",
+      "spell": "audibility"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь благодарен за то, что имеешь",
+      "ipa": "bi ˈθæŋkfəl fɔr wɑt ju hæv",
+      "spell": "be thankful for what you have"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "довольство, удовлетворённость",
+      "ipa": "kənˈtɛntmənt",
+      "spell": "contentment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "могла ли она вернуть ей деньги?",
+      "ipa": "kʊd ʃi hæv ˈɡɪvən ðə ˈmʌni bæk tu hɜr",
+      "spell": "could she have given the money back to her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не бери на себя слишком много; не откусывай больше, чем сможешь прожевать",
+      "ipa": "doʊnt baɪt ɔf mɔr ðæn ju kæn ʧu",
+      "spell": "don't bite off more than you can chew"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не гони лошадей, не делай поспешных выводов",
+      "ipa": "doʊnt ʤʌmp tu kənˈkluʒənz",
+      "spell": "don't jump to conclusions"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не храни секретов",
+      "ipa": "doʊnt kip ˈsikrəts",
+      "spell": "don't keep secrets"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не переоценивай свои силы",
+      "ipa": "doʊnt ˌoʊvərˈriʧ jərˈsɛlf",
+      "spell": "don't overreach yourself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не пытайся бежать, пока не научился ходить",
+      "ipa": "doʊnt traɪ tu rʌn bɪˈfɔr ju kæn wɔk",
+      "spell": "don't try to run before you can walk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "частота",
+      "ipa": "ˈfrikwənsi",
+      "spell": "frequency"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "часто",
+      "ipa": "ˈfrikwəntli",
+      "spell": "frequently"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отныне",
+      "ipa": "frʌm naʊ ɑn",
+      "spell": "from now on"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он мастер красиво выражаться, строить фразы",
+      "ipa": "hi kæn tɜrn ə freɪz",
+      "spell": "he can turn a phrase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в нём нет человеческих качеств",
+      "ipa": "hi ˈdʌzənt hæv ˈhjumən ˈkwɑlətiz",
+      "spell": "he doesn't have human qualities"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на твоём месте я бы этого не делал",
+      "ipa": "ɪf aɪ wɜr ju, aɪ wʊd nɑt du ɪt",
+      "spell": "if i were you, I would not do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на твоём месте, (я бы) ...",
+      "ipa": "ɪf ju wɜr ju...",
+      "spell": "if you were you..."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неприятным образом",
+      "ipa": "ɪn ən ənˈplɛzənt weɪ",
+      "spell": "in an unpleasant way"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вместо меня",
+      "ipa": "ɪnˈstɛd ʌv mi",
+      "spell": "instead of me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уму непостижимо",
+      "ipa": "ɪt ɪz ˈmaɪndˌbɔɡlɪŋ",
+      "spell": "it is mind-boggling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он звуконепроницаемый",
+      "ipa": "ɪt ɪz ˈsaʊndpruf",
+      "spell": "it is soundproof"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знай свои пределы",
+      "ipa": "noʊ jʊər ˈlɪməts",
+      "spell": "know your limits"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жизнь и так тяжела",
+      "ipa": "laɪf ɪz hɑrd æz ɪt ɪz",
+      "spell": "life is hard as it is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "г-жа",
+      "ipa": "ˈmɪsɪz",
+      "spell": "Mrs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она могла это сделать",
+      "ipa": "ʃi kʊd du ɪt",
+      "spell": "she could do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она могла бы найти это (но не сделала)",
+      "ipa": "ʃi kʊd hæv faʊnd ɪt",
+      "spell": "she could have found it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она не смогла найти это",
+      "ipa": "ʃi ˈkʊdənt faɪnd ɪt",
+      "spell": "she couldn't find it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она не осознавала",
+      "ipa": "ʃi ˈdɪdənt ˈriəˌlaɪz",
+      "spell": "she didn't realize"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она обижается",
+      "ipa": "ʃi ɡɛts əˈfɛndɪd",
+      "spell": "she gets offended"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она вне себя от радости",
+      "ipa": "ʃi ɪz mæd wɪð ʤɔɪ",
+      "spell": "she is mad with joy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она соблазнительна",
+      "ipa": "ʃi ɪz sɪˈdʌktɪv",
+      "spell": "she is seductive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ей бы не пришлось так долго работать",
+      "ipa": "ʃi ˈwʊdənt hæv hæd tu wɜrk soʊ lɔŋ",
+      "spell": "she wouldn't have had to work so long"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она дерзкая, бойкая на язык",
+      "ipa": "ʃiz ˈsæsi",
+      "spell": "she's sassy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мораль истории",
+      "ipa": "ðə ˈmɔrəl ʌv ðə ˈstɔri",
+      "spell": "the moral of the story"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отдел продаж",
+      "ipa": "ðə seɪlz dɪˈpɑrtmənt",
+      "spell": "the sales department"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они пялятся",
+      "ipa": "ðeɪ stɛr",
+      "spell": "they stare"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они приложили много усилий для восстановления",
+      "ipa": "ðeɪ wɛnt tu ə lɑt ʌv ˈtrʌbəl tu rɪˈstɔr ɪt",
+      "spell": "they went to a lot of trouble to restore it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быть довольным",
+      "ipa": "tu bi ˈkɑntɛnt",
+      "spell": "to be content"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любить это, увлекаться",
+      "ipa": "tu bi fɑnd ʌv ɪt",
+      "spell": "to be fond of it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "критиковать",
+      "ipa": "tu ˈkrɪtɪˌsaɪz",
+      "spell": "to criticize"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не любить, чувствовать неприязнь",
+      "ipa": "tu dɪˈslaɪk",
+      "spell": "to dislike"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вести для него бухгалтерию",
+      "ipa": "tu du əˈkaʊnts fɔr hɪm",
+      "spell": "to do accounts for him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уставиться в экран",
+      "ipa": "tu ɡlɛr æt ðə skrin",
+      "spell": "to glare at the screen"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колебаться",
+      "ipa": "tu ˈhɛzəˌteɪt",
+      "spell": "to hesitate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надеяться против надежды",
+      "ipa": "tu hoʊp əˈɡɛnst hoʊp",
+      "spell": "to hope against hope"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наследовать",
+      "ipa": "tu ɪnˈhɛrət",
+      "spell": "to inherit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вести дневник",
+      "ipa": "tu kip ə ˈdaɪəri",
+      "spell": "to keep a diary"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давать деньги в долг",
+      "ipa": "tu lɛnd ˈmʌni",
+      "spell": "to lend money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перевести дух",
+      "ipa": "tu pɔz fɔr brɛθ",
+      "spell": "to pause for breath"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вернуться назад, вернуться обратно тем же путём",
+      "ipa": "tu riˈtreɪs wʌnz stɛps",
+      "spell": "to retrace one's steps"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сказать ей",
+      "ipa": "tu tɛl hɜr",
+      "spell": "to tell her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "появиться в офисе",
+      "ipa": "tu tɜrn ʌp æt ði ˈɔfəs",
+      "spell": "to turn up at the office"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "изнашивать их",
+      "ipa": "tu wɛr ðɛm aʊt",
+      "spell": "to wear them out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осторожно! смотри в оба!",
+      "ipa": "wɑʧ aʊt!",
+      "spell": "watch out!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что тебя задержало?",
+      "ipa": "wɑt kɛpt ju?",
+      "spell": "what kept you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почему это заняло у тебя так много времени?",
+      "ipa": "waɪ dɪd ɪt teɪk ju soʊ lɔŋ?",
+      "spell": "why did it take you so long?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почему она так долго возвращала это",
+      "ipa": "waɪ ɪt tʊk hɜr soʊ lɔŋ tu rɪˈtɜrn ɪt",
+      "spell": "why it took her so long to return it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты под кайфом",
+      "ipa": "ju ɑr haɪ",
+      "spell": "you are high"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты всегда должен говорить правду",
+      "ipa": "ju ʃʊd ˈɔlˌweɪz tɛl ðə truθ",
+      "spell": "you should always tell the truth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты должен быть счастлив тем, что имеешь",
+      "ipa": "ju ʃʊd bi ˈhæpi wɑt ju hæv",
+      "spell": "you should be happy what you have"
+    }
+  ]
+}
