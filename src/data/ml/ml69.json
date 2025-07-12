@@ -1,247 +1,253 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "книга, действие которой происходит в настоящем времени",
-   "ipa": "ə bʊk sɛt ɪn ˈprɛzənt taɪm",
-   "spell": "a book set in present time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "водолазный колокол",
-   "ipa": "ə ˈdaɪvɪŋ bɛl",
-   "spell": "a diving bell"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "салфетка на телевизоре",
-   "ipa": "ə ˈdɔɪli ɑn tɑp ʌv ðə ˈtiˈvi",
-   "spell": "a doily on top of the TV"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "камин",
-   "ipa": "ə ˈfaɪərˌpleɪs",
-   "spell": "a fireplace"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обогреватель",
-   "ipa": "ə ˈhitər",
-   "spell": "a heater"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "малоизвестный автор",
-   "ipa": "ə ˈlɪtəl-noʊn ˈɔθər",
-   "spell": "a little-known author"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "выдуманное слово",
-   "ipa": "ə meɪd-ʌp wɜrd",
-   "spell": "a made-up word"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "путешественник",
-   "ipa": "ə ˈtrævələr",
-   "spell": "a traveler"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пустая трата времени",
-   "ipa": "ə weɪst ʌv taɪm",
-   "spell": "a waste of time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "алхимик",
-   "ipa": "ən ˈælʧəmɪst",
-   "spell": "an alchemist"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ещё один маленький обогреватель",
-   "ipa": "əˈnʌðər smɔl ˈhitər",
-   "spell": "another small heater"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в сознательном возрасте",
-   "ipa": "æt ə ˈkɑnʃəs eɪʤ",
-   "spell": "at a conscious age"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "влажность",
-   "ipa": "hjuˈmɪdəti",
-   "spell": "humidity"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "смирение",
-   "ipa": "hjuˈmɪlɪti",
-   "spell": "humility"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне это даже нравится!",
-   "ipa": "aɪ ˈkɪndə laɪk ɪt!",
-   "spell": "I kinda like it!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в смысле / как-никак, это же всё чтение",
-   "ipa": "aɪ min, ðæts ɔl ˈrɛdɪŋ",
-   "spell": "I mean, that's all reading"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я плавала в озере",
-   "ipa": "aɪ swæm ɪn ðə leɪk",
-   "spell": "I swam in the lake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "снега выпадает немного",
-   "ipa": "ɪt ˈdʌzənt snoʊ ə lɑt",
-   "spell": "it doesn't snow a lot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "начался снег",
-   "ipa": "ɪt ˈstɑrtɪd tu snoʊ",
-   "spell": "it started to snow"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "потребовалось много времени, чтобы прочитать это",
-   "ipa": "ɪt tʊk ə lɔŋ taɪm tu rid ɪt",
-   "spell": "it took a long time to read it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я сделаю это",
-   "ipa": "aɪm ɑn du ɪt",
-   "spell": "I’m on do it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я сделаю это",
-   "ipa": "aɪmə du ɪt / aɪm ˈɡɑnə du ɪt",
-   "spell": "I’mma do it / I’m gonna do it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вроде, типа",
-   "ipa": "kaɪnd ʌv, ˈkɪndə",
-   "spell": "kind of, kinda"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она подарила им это",
-   "ipa": "ʃi ɡeɪv ɪt tu ðɛm æz ə ˈprɛzənt",
-   "spell": "she gave it to them as a present"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она сказала нам",
-   "ipa": "ʃi toʊld ʌs",
-   "spell": "she told us"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "книга, которую я вспомнил",
-   "ipa": "ðə bʊk aɪ rɪˈmɛmbərd",
-   "spell": "the book I remembered"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дети подвергаются многим вещам",
-   "ipa": "ðə ˈʧɪldrən ɑr ɪkˈspoʊzd tu ˈmɛni θɪŋz",
-   "spell": "the children are exposed to many things"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "суть, главный вопрос",
-   "ipa": "ðə ʤɪst",
-   "spell": "the gist"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сюжет",
-   "ipa": "ðə plɑt",
-   "spell": "the plot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вещи, которые нам не нужны",
-   "ipa": "θɪŋz wi doʊnt nid",
-   "spell": "things we don't need"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "читать три книги одновременно",
-   "ipa": "tu rid θri bʊks æt ə taɪm",
-   "spell": "to read three books at a time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заикаться",
-   "ipa": "tu ˈstʌtər",
-   "spell": "to stutter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "воспитание",
-   "ipa": "ˈʌpˌbrɪŋɪŋ",
-   "spell": "upbringing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "воодушевляющий",
-   "ipa": "ˈʌˌplɪftɪŋ",
-   "spell": "uplifting"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы купили это",
-   "ipa": "wi bɑt ɪt",
-   "spell": "we bought it"
- }
-]
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 69,
+  "date": "2025-07-07",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "книга, действие которой происходит в настоящем времени",
+      "ipa": "ə bʊk sɛt ɪn ˈprɛzənt taɪm",
+      "spell": "a book set in present time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "водолазный колокол",
+      "ipa": "ə ˈdaɪvɪŋ bɛl",
+      "spell": "a diving bell"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "салфетка на телевизоре",
+      "ipa": "ə ˈdɔɪli ɑn tɑp ʌv ðə ˈtiˈvi",
+      "spell": "a doily on top of the TV"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "камин",
+      "ipa": "ə ˈfaɪərˌpleɪs",
+      "spell": "a fireplace"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обогреватель",
+      "ipa": "ə ˈhitər",
+      "spell": "a heater"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "малоизвестный автор",
+      "ipa": "ə ˈlɪtəl-noʊn ˈɔθər",
+      "spell": "a little-known author"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выдуманное слово",
+      "ipa": "ə meɪd-ʌp wɜrd",
+      "spell": "a made-up word"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "путешественник",
+      "ipa": "ə ˈtrævələr",
+      "spell": "a traveler"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пустая трата времени",
+      "ipa": "ə weɪst ʌv taɪm",
+      "spell": "a waste of time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "алхимик",
+      "ipa": "ən ˈælʧəmɪst",
+      "spell": "an alchemist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ещё один маленький обогреватель",
+      "ipa": "əˈnʌðər smɔl ˈhitər",
+      "spell": "another small heater"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в сознательном возрасте",
+      "ipa": "æt ə ˈkɑnʃəs eɪʤ",
+      "spell": "at a conscious age"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "влажность",
+      "ipa": "hjuˈmɪdəti",
+      "spell": "humidity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смирение",
+      "ipa": "hjuˈmɪlɪti",
+      "spell": "humility"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне это даже нравится!",
+      "ipa": "aɪ ˈkɪndə laɪk ɪt!",
+      "spell": "I kinda like it!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в смысле / как-никак, это же всё чтение",
+      "ipa": "aɪ min, ðæts ɔl ˈrɛdɪŋ",
+      "spell": "I mean, that's all reading"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я плавала в озере",
+      "ipa": "aɪ swæm ɪn ðə leɪk",
+      "spell": "I swam in the lake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "снега выпадает немного",
+      "ipa": "ɪt ˈdʌzənt snoʊ ə lɑt",
+      "spell": "it doesn't snow a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "начался снег",
+      "ipa": "ɪt ˈstɑrtɪd tu snoʊ",
+      "spell": "it started to snow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потребовалось много времени, чтобы прочитать это",
+      "ipa": "ɪt tʊk ə lɔŋ taɪm tu rid ɪt",
+      "spell": "it took a long time to read it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделаю это",
+      "ipa": "aɪm ɑn du ɪt",
+      "spell": "I’m on do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделаю это",
+      "ipa": "aɪmə du ɪt / aɪm ˈɡɑnə du ɪt",
+      "spell": "I’mma do it / I’m gonna do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вроде, типа",
+      "ipa": "kaɪnd ʌv, ˈkɪndə",
+      "spell": "kind of, kinda"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она подарила им это",
+      "ipa": "ʃi ɡeɪv ɪt tu ðɛm æz ə ˈprɛzənt",
+      "spell": "she gave it to them as a present"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она сказала нам",
+      "ipa": "ʃi toʊld ʌs",
+      "spell": "she told us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "книга, которую я вспомнил",
+      "ipa": "ðə bʊk aɪ rɪˈmɛmbərd",
+      "spell": "the book I remembered"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дети подвергаются многим вещам",
+      "ipa": "ðə ˈʧɪldrən ɑr ɪkˈspoʊzd tu ˈmɛni θɪŋz",
+      "spell": "the children are exposed to many things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "суть, главный вопрос",
+      "ipa": "ðə ʤɪst",
+      "spell": "the gist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сюжет",
+      "ipa": "ðə plɑt",
+      "spell": "the plot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вещи, которые нам не нужны",
+      "ipa": "θɪŋz wi doʊnt nid",
+      "spell": "things we don't need"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "читать три книги одновременно",
+      "ipa": "tu rid θri bʊks æt ə taɪm",
+      "spell": "to read three books at a time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заикаться",
+      "ipa": "tu ˈstʌtər",
+      "spell": "to stutter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "воспитание",
+      "ipa": "ˈʌpˌbrɪŋɪŋ",
+      "spell": "upbringing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "воодушевляющий",
+      "ipa": "ˈʌˌplɪftɪŋ",
+      "spell": "uplifting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы купили это",
+      "ipa": "wi bɑt ɪt",
+      "spell": "we bought it"
+    }
+  ]
+}
