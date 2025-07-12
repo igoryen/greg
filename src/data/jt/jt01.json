@@ -1,0 +1,50 @@
+{
+    "student": "Jim T.",
+    "slug": "jt",
+    "number": 1,
+    "date": "2025-07-11",
+    "words": [
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "дім",
+            "ipa": "ə hoʊm",
+            "spell": "a home"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "людина",
+            "ipa": "ə ˈpɜrsən",
+            "spell": "a person"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "запитання",
+            "ipa": "ə ˈkwɛsʧən wɜrd",
+            "spell": "a question word"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "що це?",
+            "ipa": "wɑt ɪz ɪt?",
+            "spell": "what is it?"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "де це?",
+            "ipa": "wɛr ɪz ɪt?",
+            "spell": "where is it?"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "коли це?",
+            "ipa": "wɛn ɪz ɪt?",
+            "spell": "when is it?"
+        }
+    ]
+}

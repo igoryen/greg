@@ -1,0 +1,43 @@
+{
+    "student": "John S.",
+    "slug": "js",
+    "number": 2,
+    "date": "2025-07-12",
+    "words": [
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "строитель",
+            "ipa": "ə kənˈstrʌkʃən ˈwɜrkər",
+            "spell": "a construction worker"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "слово-паразит, слово-наполнитель",
+            "ipa": "ə ˈfɪlər",
+            "spell": "a filler"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "графический роман",
+            "ipa": "ə ˈɡræfɪk ˈnɑvəl",
+            "spell": "a graphic novel"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "горный хребет",
+            "ipa": "ə ˈmaʊntən rɪʤ",
+            "spell": "a mountain ridge"
+        },
+        {
+            "cefr": "",
+            "def2": "",
+            "def1": "отчёт, который вам следует написать",
+            "ipa": "ə rɪˈpɔrt ju ʃʊd raɪt",
+            "spell": "a report you should write"
+        }
+    ]
+}

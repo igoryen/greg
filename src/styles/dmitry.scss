@@ -1,0 +1,33 @@
+.dmitry {
+    width: 100%;
+
+    .howard {
+        display: grid;
+        gap: 1rem;
+        // grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(min(10rem, 100%), 1fr));
+
+
+        button {
+            box-shadow: 1px 1px 1px #bbb;
+            color: #555;
+            line-height: normal;
+            padding: 0.5em;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+
+            .session {
+                font-size: 1.5em;
+            }
+
+            .number {
+                font-size: 3em;
+            }
+
+            .date {
+                font-size: 1em;
+            }
+        }
+    }
+}

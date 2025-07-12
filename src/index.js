@@ -3,6 +3,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout/Layout";
 import Home from "./pages/Home";
 
+import StudentPage from "./pages/StudentPage";
+import LessonPage from "./pages/LessonPage";
+
 import Ang from "./pages/Ang";
 
 import AA from "./pages/aa/AA";
@@ -293,8 +296,12 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
+
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+
+          <Route path="/student/:slug" element={<StudentPage />} />
+          <Route path="/student/:slug/lesson/:number" element={<LessonPage />} />
 
           <Route path="ang" element={<Ang />} />
 
