@@ -18,10 +18,10 @@ function StudentPage() {
 
             <div className="howard">
                 {studentLessons.map((lesson) => {
-                    const weekday = new Date(lesson.date).toLocaleDateString("en-US", {
-                        weekday: "short",
-                        timeZone: "America/Toronto" // Use "America/Toronto" for Eastern Time
-                    });
+                    // const weekday = new Date(lesson.date).toLocaleDateString("en-US", {
+                    //     weekday: "short",
+                    //     timeZone: "America/Toronto" // Use "America/Toronto" for Eastern Time
+                    // });
 
                     return (
                         <button
@@ -30,7 +30,9 @@ function StudentPage() {
                         >
                             <div className="session">Lesson</div>
                             <div className="number">{lesson.number}</div>
-                            <div className="date">{lesson.date} ({weekday})</div>
+                            <div className="date">{lesson.date}
+                                {/* ({weekday}) */}
+                            </div>
                         </button>
                     );
                 })}
