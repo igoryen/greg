@@ -14,7 +14,7 @@ function StudentPage() {
 
     return (
         <div className="dmitry">
-            <h1>{slug.toUpperCase()}'s Lessons</h1>
+            <h1>{slug.toUpperCase()}'s vocabulary</h1>
 
             <div className="howard">
                 {studentLessons.map((lesson) => {
