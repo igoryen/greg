@@ -28,7 +28,8 @@
         font-size: 25px;
         margin: 0.5em 0;
         max-width: fit-content;
-        padding-bottom: 0.5em;
+        // padding-bottom: 0.5em;
+        padding: 3px;
 
         &.negative {
             border: 3px solid coral;
@@ -82,12 +83,13 @@
             &.verb {
                 &.be {
                     align-items: center;
-                    border-color: crimson;
+                    background-color: purple;
+                    // border-color: crimson;
+                    color: white;
                     flex-direction: column;
+                    min-width: 2em;
+                    font-weight: 600;
 
-                    b {
-                        font-weight: 900;
-                    }
                 }
             }
 
@@ -116,10 +118,14 @@
         }
 
         .baseForm {
-            border-top: 1px dashed white;
-            color: rgba($color: #fbf7f7, $alpha: 0.7);
-            font-size: xx-large;
-            font-weight: 900;
+            // border-top: 1px dashed white;
+            color: rgba($color: white, $alpha: 0.7);
+            // color: white;
+            font-size: medium;
+            // font-weight: 900;
+            position: absolute;
+            top: 2px;
+            right: 2px;
         }
 
 
