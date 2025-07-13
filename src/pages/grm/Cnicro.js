@@ -1,323 +1,201 @@
-import React from "react";
+import { React, useState } from "react";
 import "../../styles/grm/cnicro.scss";
 
 const Cnicro = (props) => {
+    const [showIPA, setShowIPA] = useState(true);
+
     return (
         <section className="cnicro">
+            <div className="kimbo">
+                <button onClick={() => setShowIPA(!showIPA)}>
+                    {showIPA ? "ABC" : "IPA"}
+                </button>
+            </div>
 
+            <div className="jimbo">
+                <div className="sncBlock">
 
-
-            <div className="sentenceBlock">
-
-                <h1>#1</h1>
-                <div className="sentence positive">
-                    <div className="word pron _1ps">
-                        <div>I</div>
+                    <h1>#1</h1>
+                    <div className="snc positive">
+                        <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
+                        <div className="word verb _1ps be">
+                            <div className="avatar">{showIPA ? `æm` : `am`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
                     </div>
 
-                    <div className="word verb _1ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">am</div>
+                    <div className="snc positive">
+                        <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
+                        <div className="word verb _1ps be">
+                            <div className="avatar">{showIPA ? `m` : `'m`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+
                     </div>
 
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence positive">
-                    <div className="word pron _1ps">
-                        <div>I</div>
-                    </div>
-
-                    <div className="word verb _1ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">'m</div>
+                    <div className="snc negative">
+                        <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
+                        <div className="word verb _1ps be">
+                            <div className="avatar">{showIPA ? `æm` : `am`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nɑt` : `not`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
                     </div>
 
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence negative">
-                    <div className="word pron _1ps">
-                        <div>I</div>
-                    </div>
-
-                    <div className="word verb _1ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">am</div>
+                    <div className="snc negative">
+                        <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
+                        <div className="word verb _1ps be">
+                            <div className="avatar">{showIPA ? `m` : `m`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nɑt` : `not`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
                     </div>
 
-                    <div className="word adv not">
-                        not
-                    </div>
 
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
+                    <div className="snc question">
+                        <div className="word verb _1ps be">
+                            <div className="avatar">{showIPA ? `æm` : `am`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                        <div className="punctuation">?</div>
 
-                <div className="sentence negative">
-                    <div className="word pron _1ps">
-                        <div>I</div>
-                    </div>
-
-                    <div className="word verb _1ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">'m</div>
-                    </div>
-
-                    <div className="word adv not">
-                        not
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
                     </div>
                 </div>
 
+                <div className="sncBlock">
+                    <h1>#2</h1>
 
-                <div className="sentence question">
-
-                    <div className="word verb _1ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">am</div>
+                    <div className="snc positive">
+                        <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
+                        <div className="word verb _3ps be">
+                            <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word"><div className="word">{showIPA ? `hɪr` : `here`}</div></div>
                     </div>
-                    <div className="word pron _1ps">
-                        <div>I</div>
+
+                    <div className="snc positive">
+                        <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
+                        <div className="word verb _3ps be">
+                            <div className="avatar">{showIPA ? `z` : ``}</div>
+                            <div className="avatar">{showIPA ? `s` : `'s`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
                     </div>
 
-
-
-                    <div className="word">
-                        <div>here</div>
+                    <div className="snc negative">
+                        <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
+                        <div className="word verb _3ps be">
+                            <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nɑt` : `not`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
                     </div>
-                    <div className="punctuation">?</div>
 
+                    <div className="snc negative">
+                        <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
+                        <div className="word verb _3ps be">
+                            <div className="avatar">{showIPA ? `z` : ``}</div>
+                            <div className="avatar">{showIPA ? `s` : `'s`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nɑt` : `not`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                    </div>
+
+                    <div className="snc negative">
+                        <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
+                        <div className="word verb _3ps be">
+                            <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nt` : `n't`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                    </div>
+
+                    <div className="snc question">
+                        <div className="word verb _3ps be">
+                            <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                        <div className="punctuation">?</div>
+                    </div>
+                </div>
+
+                <div className="sncBlock">
+
+                    <h1>#3</h1>
+                    <div className="snc positive">
+                        <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
+                        <div className="word verb _pl be">
+                            <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                    </div>
+
+                    <div className="snc positive">
+                        <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
+                        <div className="word verb _pl be">
+                            <div className="avatar">{showIPA ? `r` : `'re`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                    </div>
+
+                    <div className="snc negative">
+                        <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
+                        <div className="word verb _pl be">
+                            <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nɑt` : `not`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                    </div>
+
+                    <div className="snc negative">
+                        <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
+                        <div className="word verb _pl be">
+                            <div className="avatar">{showIPA ? `r` : `'re`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nɑt` : `not`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                    </div>
+
+                    <div className="snc negative">
+                        <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
+                        <div className="word verb _pl be">
+                            <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word adv not">{showIPA ? `nt` : `n't`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                    </div>
+
+                    <div className="snc question">
+                        <div className="word verb _pl be">
+                            <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
+                            <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
+                        </div>
+                        <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
+                        <div className="word">{showIPA ? `hɪr` : `here`}</div>
+                        <div className="punctuation">?</div>
+                    </div>
                 </div>
             </div>
 
-            <div className="sentenceBlock">
-                <h1>#2</h1>
-
-                <div className="sentence positive">
-                    <div className="word pron _3ps">
-                        <div>he she it</div>
-                    </div>
-
-                    <div className="word verb _3ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">is</div>
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence positive">
-                    <div className="word pron _3ps">
-                        <div>he she it</div>
-                    </div>
-
-                    <div className="word verb _3ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">'s</div>
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence negative">
-                    <div className="word pron _3ps">
-                        <div>he she it</div>
-                    </div>
-
-                    <div className="word verb _3ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">is</div>
-                    </div>
-
-                    <div className="word adv not">
-                        not
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence negative">
-                    <div className="word pron _3ps">
-                        <div>he she it</div>
-                    </div>
-
-                    <div className="word verb _3ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">'s</div>
-                    </div>
-
-                    <div className="word adv not">
-                        not
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-                <div className="sentence negative">
-                    <div className="word pron _3ps">
-                        <div>he she it</div>
-                    </div>
-
-                    <div className="word verb _3ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">is</div>
-                    </div>
-
-                    <div className="word adv not">
-                        n't
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence question">
-
-                    <div className="word verb _3ps">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">is</div>
-                    </div>
-                    <div className="word pron _3ps">
-                        <div>he she it</div>
-                    </div>
-
-
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                    <div className="punctuation">?</div>
-
-                </div>
-            </div>
-
-            <div className="sentenceBlock">
-
-                <h1>#3</h1>
-                <div className="sentence positive">
-                    <div className="word pron _pl">
-                        <div>you we they</div>
-                    </div>
-
-                    <div className="word verb _pl">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">are</div>
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence positive">
-                    <div className="word pron _pl">
-                        <div>you we they</div>
-                    </div>
-
-                    <div className="word verb _pl">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">'re</div>
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence negative">
-                    <div className="word pron _pl">
-                        <div>you we they</div>
-                    </div>
-
-                    <div className="word verb _pl">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">are</div>
-                    </div>
-
-                    <div className="word adv not">
-                        not
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence negative">
-                    <div className="word pron _pl">
-                        <div>you we they</div>
-                    </div>
-
-                    <div className="word verb _pl">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">'re</div>
-                    </div>
-
-                    <div className="word adv not">
-                        not
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-                <div className="sentence negative">
-                    <div className="word pron _pl">
-                        <div>you we they</div>
-                    </div>
-
-                    <div className="word verb _pl">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">are</div>
-                    </div>
-
-                    <div className="word adv not">
-                        n't
-                    </div>
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                </div>
-
-                <div className="sentence question">
-
-                    <div className="word verb _pl">
-                        <div className="basicForm">BE</div>
-                        <div className="avatar">are</div>
-                    </div>
-                    <div className="word pron _pl">
-                        <div>you we they</div>
-                    </div>
-
-
-
-                    <div className="word">
-                        <div>here</div>
-                    </div>
-                    <div className="punctuation">?</div>
-
-                </div>
-            </div>
-
-        </section>
+        </section >
 
 
     )
