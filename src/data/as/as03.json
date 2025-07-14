@@ -1,338 +1,338 @@
 [
- {
-   "cefr": "",
-   "def2": "aeger",
-   "def1": "больной",
-   "ipa": "sɪk",
-   "spell": "sick"
- },
- {
-   "cefr": "",
-   "def2": "aut",
-   "def1": "или",
-   "ipa": "ɔr",
-   "spell": "or"
- },
- {
-   "cefr": "",
-   "def2": "bonum est",
-   "def1": "это хорошо",
-   "ipa": "ɪt ɪz ɡʊd",
-   "spell": "it is good"
- },
- {
-   "cefr": "",
-   "def2": "bonī sunt",
-   "def1": "они хорошие",
-   "ipa": "ðeɪ ɑr ɡʊd",
-   "spell": "they are good"
- },
- {
-   "cefr": "",
-   "def2": "brūnus et albus",
-   "def1": "коричневый и белый",
-   "ipa": "braʊn ænd waɪt",
-   "spell": "brown and white"
- },
- {
-   "cefr": "",
-   "def2": "calceus",
-   "def1": "обувь",
-   "ipa": "ə ʃu",
-   "spell": "a shoe"
- },
- {
-   "cefr": "",
-   "def2": "cavē",
-   "def1": "будь осторожен",
-   "ipa": "bi ˈkɛrfəl",
-   "spell": "be careful"
- },
- {
-   "cefr": "",
-   "def2": "coniectāre",
-   "def1": "угадывать",
-   "ipa": "tu ɡɛs",
-   "spell": "to guess"
- },
- {
-   "cefr": "",
-   "def2": "cūr?",
-   "def1": "почему?",
-   "ipa": "waɪ?",
-   "spell": "why?"
- },
- {
-   "cefr": "",
-   "def2": "dīcimus",
-   "def1": "мы говорим",
-   "ipa": "wi seɪ",
-   "spell": "we say"
- },
- {
-   "cefr": "",
-   "def2": "dīversōrium",
-   "def1": "квартира",
-   "ipa": "ən əˈpɑrtmənt",
-   "spell": "an apartment"
- },
- {
-   "cefr": "",
-   "def2": "ea est differentia",
-   "def1": "вот в чём разница",
-   "ipa": "ðæt ɪz ðə ˈdɪfərəns",
-   "spell": "that is the difference"
- },
- {
-   "cefr": "",
-   "def2": "electiō",
-   "def1": "выбор",
-   "ipa": "ə ʧɔɪs",
-   "spell": "a choice"
- },
- {
-   "cefr": "",
-   "def2": "esse",
-   "def1": "быть",
-   "ipa": "tu bi",
-   "spell": "to be"
- },
- {
-   "cefr": "",
-   "def2": "eī",
-   "def1": "они",
-   "ipa": "ðeɪ",
-   "spell": "they"
- },
- {
-   "cefr": "",
-   "def2": "gallopāvō",
-   "def1": "индейка",
-   "ipa": "ə ˈtɜrki",
-   "spell": "a turkey"
- },
- {
-   "cefr": "",
-   "def2": "hae sunt nātiōnālitātēs",
-   "def1": "это национальности",
-   "ipa": "ðiz ɑr ˌnæʃəˈnælɪtiz",
-   "spell": "these are nationalities"
- },
- {
-   "cefr": "",
-   "def2": "haec est nātiōnālitās",
-   "def1": "это национальность",
-   "ipa": "ðɪs ɪz ə ˌnæʃəˈnæləti",
-   "spell": "this is a nationality"
- },
- {
-   "cefr": "",
-   "def2": "hic est",
-   "def1": "он здесь",
-   "ipa": "hi ɪz hir",
-   "spell": "he is here"
- },
- {
-   "cefr": "",
-   "def2": "hic sum",
-   "def1": "я здесь",
-   "ipa": "aɪ æm hir",
-   "spell": "I am here"
- },
- {
-   "cefr": "",
-   "def2": "illic sunt",
-   "def1": "они там",
-   "ipa": "ðeɪ ɑr ðɛr",
-   "spell": "they are there"
- },
- {
-   "cefr": "",
-   "def2": "imāginem cum vultū comparāre",
-   "def1": "сопоставлять фото с лицом",
-   "ipa": "tu mæʧ ðə ˈfoʊˌtoʊ wɪð ðə feɪs",
-   "spell": "to match the photo with the face"
- },
- {
-   "cefr": "",
-   "def2": "in officīnā ejus",
-   "def1": "в его офисе",
-   "ipa": "ɪn hɪz ˈɔfəs",
-   "spell": "in his office"
- },
- {
-   "cefr": "",
-   "def2": "locus",
-   "def1": "место",
-   "ipa": "ə pleɪs",
-   "spell": "a place"
- },
- {
-   "cefr": "",
-   "def2": "locus aut rēs",
-   "def1": "место или вещь",
-   "ipa": "ə pleɪs ɔr ə θɪŋ",
-   "spell": "a place or a thing"
- },
- {
-   "cefr": "",
-   "def2": "merīdiēs",
-   "def1": "полдень",
-   "ipa": "nun",
-   "spell": "noon"
- },
- {
-   "cefr": "",
-   "def2": "multae cīvitātēs",
-   "def1": "много стран",
-   "ipa": "ˈmɛni ˈkʌntriz",
-   "spell": "many countries"
- },
- {
-   "cefr": "",
-   "def2": "mātūrē",
-   "def1": "рано",
-   "ipa": "ˈɜrli",
-   "spell": "early"
- },
- {
-   "cefr": "",
-   "def2": "mēnsa",
-   "def1": "стол",
-   "ipa": "ə ˈteɪbəl",
-   "spell": "a table"
- },
- {
-   "cefr": "",
-   "def2": "nātiōnālitās",
-   "def1": "национальность, гражданство",
-   "ipa": "ə ˌnæʃəˈnæləti",
-   "spell": "a nationality"
- },
- {
-   "cefr": "",
-   "def2": "nātiōnālitās mea Canadiēnsis est",
-   "def1": "моё гражданство - канадское",
-   "ipa": "maɪ ˌnæʃəˈnæləti ɪz kəˈneɪdiən",
-   "spell": "my nationality is Canadian"
- },
- {
-   "cefr": "",
-   "def2": "nōn in Canadā nātus sum",
-   "def1": "я не родился в Канаде",
-   "ipa": "aɪ wʌz nɑt bɔrn ɪn ˈkænədə",
-   "spell": "I was not born in Canada"
- },
- {
-   "cefr": "",
-   "def2": "nōs",
-   "def1": "мы",
-   "ipa": "wi",
-   "spell": "we"
- },
- {
-   "cefr": "",
-   "def2": "paene",
-   "def1": "почти",
-   "ipa": "ˈɔlˌmoʊst",
-   "spell": "almost"
- },
- {
-   "cefr": "",
-   "def2": "petasus in capite tuō est",
-   "def1": "на твоей голове шапка",
-   "ipa": "ðɛr ɪz ə hæt ɑn jʊər hɛd",
-   "spell": "there is a hat on your head"
- },
- {
-   "cefr": "",
-   "def2": "plūrālis",
-   "def1": "множественное число",
-   "ipa": "ðə ˈplʊrəl",
-   "spell": "the plural"
- },
- {
-   "cefr": "",
-   "def2": "plūs quam ūnum",
-   "def1": "больше одного",
-   "ipa": "mɔr ðæn wʌn",
-   "spell": "more than one"
- },
- {
-   "cefr": "",
-   "def2": "polīre",
-   "def1": "полировать",
-   "ipa": "aɪ ˈpɑlɪʃ",
-   "spell": "I polish"
- },
- {
-   "cefr": "",
-   "def2": "Polōnus sum",
-   "def1": "я поляк",
-   "ipa": "aɪ æm ˈpɑlɪʃ",
-   "spell": "I am Polish"
- },
- {
-   "cefr": "",
-   "def2": "Polōnī pālōs poliunt",
-   "def1": "поляки полируют шесты",
-   "ipa": "ˈpɑlɪʃ ˈpipəl ˈpɑlɪʃ poʊlz",
-   "spell": "Polish people polish poles"
- },
- {
-   "cefr": "",
-   "def2": "pālus",
-   "def1": "шест",
-   "ipa": "ə poʊl",
-   "spell": "a pole"
- },
- {
-   "cefr": "",
-   "def2": "quid sunt haec?",
-   "def1": "что это?",
-   "ipa": "wɑt ɑr ðiz?",
-   "spell": "what are these?"
- },
- {
-   "cefr": "",
-   "def2": "quod passum Canadiēnsem habeō",
-   "def1": "потому что я имею канадский паспорт",
-   "ipa": "bɪˈkɔz aɪ hæv ə kəˈneɪdiən ˈpæˌspɔrt",
-   "spell": "because I have a Canadian passport"
- },
- {
-   "cefr": "",
-   "def2": "rēs",
-   "def1": "вещь",
-   "ipa": "ə θɪŋ",
-   "spell": "a thing"
- },
- {
-   "cefr": "",
-   "def2": "scrībimus",
-   "def1": "мы пишем",
-   "ipa": "wi raɪt",
-   "spell": "we write"
- },
- {
-   "cefr": "",
-   "def2": "singulāris",
-   "def1": "единственное число",
-   "ipa": "ðə ˈsɪŋɡjələr",
-   "spell": "the singular"
- },
- {
-   "cefr": "",
-   "def2": "Turcia",
-   "def1": "Турция",
-   "ipa": "ˈtɜrki",
-   "spell": "Turkey"
- },
- {
-   "cefr": "",
-   "def2": "vīvere",
-   "def1": "жить",
-   "ipa": "tu lɪv",
-   "spell": "to live"
- }
+  {
+    "cefr": "",
+    "def2": "aeger",
+    "def1": "больной",
+    "ipa": "sɪk",
+    "spell": "sick"
+  },
+  {
+    "cefr": "",
+    "def2": "aut",
+    "def1": "или",
+    "ipa": "ɔr",
+    "spell": "or"
+  },
+  {
+    "cefr": "",
+    "def2": "bonum est",
+    "def1": "это хорошо",
+    "ipa": "ɪt ɪz ɡʊd",
+    "spell": "it is good"
+  },
+  {
+    "cefr": "",
+    "def2": "bonī sunt",
+    "def1": "они хорошие",
+    "ipa": "ðeɪ ɑr ɡʊd",
+    "spell": "they are good"
+  },
+  {
+    "cefr": "",
+    "def2": "brūnus et albus",
+    "def1": "коричневый и белый",
+    "ipa": "braʊn ænd waɪt",
+    "spell": "brown and white"
+  },
+  {
+    "cefr": "",
+    "def2": "calceus",
+    "def1": "обувь",
+    "ipa": "ə ʃu",
+    "spell": "a shoe"
+  },
+  {
+    "cefr": "",
+    "def2": "cavē",
+    "def1": "будь осторожен",
+    "ipa": "bi ˈkɛrfəl",
+    "spell": "be careful"
+  },
+  {
+    "cefr": "",
+    "def2": "coniectāre",
+    "def1": "угадывать",
+    "ipa": "tu ɡɛs",
+    "spell": "to guess"
+  },
+  {
+    "cefr": "",
+    "def2": "cūr?",
+    "def1": "почему?",
+    "ipa": "waɪ?",
+    "spell": "why?"
+  },
+  {
+    "cefr": "",
+    "def2": "dīcimus",
+    "def1": "мы говорим",
+    "ipa": "wi seɪ",
+    "spell": "we say"
+  },
+  {
+    "cefr": "",
+    "def2": "dīversōrium",
+    "def1": "квартира",
+    "ipa": "ən əˈpɑrtmənt",
+    "spell": "an apartment"
+  },
+  {
+    "cefr": "",
+    "def2": "ea est differentia",
+    "def1": "вот в чём разница",
+    "ipa": "ðæt ɪz ðə ˈdɪfərəns",
+    "spell": "that is the difference"
+  },
+  {
+    "cefr": "",
+    "def2": "electiō",
+    "def1": "выбор",
+    "ipa": "ə ʧɔɪs",
+    "spell": "a choice"
+  },
+  {
+    "cefr": "",
+    "def2": "esse",
+    "def1": "быть",
+    "ipa": "tu bi",
+    "spell": "to be"
+  },
+  {
+    "cefr": "",
+    "def2": "eī",
+    "def1": "они",
+    "ipa": "ðeɪ",
+    "spell": "they"
+  },
+  {
+    "cefr": "",
+    "def2": "gallopāvō",
+    "def1": "индейка",
+    "ipa": "ə ˈtɜrki",
+    "spell": "a turkey"
+  },
+  {
+    "cefr": "",
+    "def2": "hae sunt nātiōnālitātēs",
+    "def1": "это национальности",
+    "ipa": "ðiz ɑr ˌnæʃəˈnælɪtiz",
+    "spell": "these are nationalities"
+  },
+  {
+    "cefr": "",
+    "def2": "haec est nātiōnālitās",
+    "def1": "это национальность",
+    "ipa": "ðɪs ɪz ə ˌnæʃəˈnæləti",
+    "spell": "this is a nationality"
+  },
+  {
+    "cefr": "",
+    "def2": "hic est",
+    "def1": "он здесь",
+    "ipa": "hi ɪz hir",
+    "spell": "he is here"
+  },
+  {
+    "cefr": "",
+    "def2": "hic sum",
+    "def1": "я здесь",
+    "ipa": "aɪ æm hir",
+    "spell": "I am here"
+  },
+  {
+    "cefr": "",
+    "def2": "illic sunt",
+    "def1": "они там",
+    "ipa": "ðeɪ ɑr ðɛr",
+    "spell": "they are there"
+  },
+  {
+    "cefr": "",
+    "def2": "imāginem cum vultū comparāre",
+    "def1": "сопоставлять фото с лицом",
+    "ipa": "tu mæʧ ðə ˈfoʊˌtoʊ wɪð ðə feɪs",
+    "spell": "to match the photo with the face"
+  },
+  {
+    "cefr": "",
+    "def2": "in officīnā ejus",
+    "def1": "в его офисе",
+    "ipa": "ɪn hɪz ˈɔfəs",
+    "spell": "in his office"
+  },
+  {
+    "cefr": "",
+    "def2": "locus",
+    "def1": "место",
+    "ipa": "ə pleɪs",
+    "spell": "a place"
+  },
+  {
+    "cefr": "",
+    "def2": "locus aut rēs",
+    "def1": "место или вещь",
+    "ipa": "ə pleɪs ɔr ə θɪŋ",
+    "spell": "a place or a thing"
+  },
+  {
+    "cefr": "",
+    "def2": "merīdiēs",
+    "def1": "полдень",
+    "ipa": "nun",
+    "spell": "noon"
+  },
+  {
+    "cefr": "",
+    "def2": "multae cīvitātēs",
+    "def1": "много стран",
+    "ipa": "ˈmɛni ˈkʌntriz",
+    "spell": "many countries"
+  },
+  {
+    "cefr": "",
+    "def2": "mātūrē",
+    "def1": "рано",
+    "ipa": "ˈɜrli",
+    "spell": "early"
+  },
+  {
+    "cefr": "",
+    "def2": "mēnsa",
+    "def1": "стол",
+    "ipa": "ə ˈteɪbəl",
+    "spell": "a table"
+  },
+  {
+    "cefr": "",
+    "def2": "nātiōnālitās",
+    "def1": "национальность, гражданство",
+    "ipa": "ə ˌnæʃəˈnæləti",
+    "spell": "a nationality"
+  },
+  {
+    "cefr": "",
+    "def2": "nātiōnālitās mea Canadiēnsis est",
+    "def1": "моё гражданство - канадское",
+    "ipa": "maɪ ˌnæʃəˈnæləti ɪz kəˈneɪdiən",
+    "spell": "my nationality is Canadian"
+  },
+  {
+    "cefr": "",
+    "def2": "nōn in Canadā nātus sum",
+    "def1": "я не родился в Канаде",
+    "ipa": "aɪ wʌz nɑt bɔrn ɪn ˈkænədə",
+    "spell": "I was not born in Canada"
+  },
+  {
+    "cefr": "",
+    "def2": "nōs",
+    "def1": "мы",
+    "ipa": "wi",
+    "spell": "we"
+  },
+  {
+    "cefr": "",
+    "def2": "paene",
+    "def1": "почти",
+    "ipa": "ˈɔlˌmoʊst",
+    "spell": "almost"
+  },
+  {
+    "cefr": "",
+    "def2": "petasus in capite tuō est",
+    "def1": "на твоей голове шапка",
+    "ipa": "ðɛr ɪz ə hæt ɑn jʊər hɛd",
+    "spell": "there is a hat on your head"
+  },
+  {
+    "cefr": "",
+    "def2": "plūrālis",
+    "def1": "множественное число",
+    "ipa": "ðə ˈplʊrəl",
+    "spell": "the plural"
+  },
+  {
+    "cefr": "",
+    "def2": "plūs quam ūnum",
+    "def1": "больше одного",
+    "ipa": "mɔr ðæn wʌn",
+    "spell": "more than one"
+  },
+  {
+    "cefr": "",
+    "def2": "polīre",
+    "def1": "полировать",
+    "ipa": "aɪ ˈpɑlɪʃ",
+    "spell": "I polish"
+  },
+  {
+    "cefr": "",
+    "def2": "Polōnus sum",
+    "def1": "я поляк",
+    "ipa": "aɪ æm ˈpoʊlɪʃ",
+    "spell": "I am Polish"
+  },
+  {
+    "cefr": "",
+    "def2": "Polōnī pālōs poliunt",
+    "def1": "поляки полируют шесты",
+    "ipa": "ˈpoʊlɪʃ ˈpipəl ˈpɑlɪʃ poʊlz",
+    "spell": "Polish people polish poles"
+  },
+  {
+    "cefr": "",
+    "def2": "pālus",
+    "def1": "шест",
+    "ipa": "ə poʊl",
+    "spell": "a pole"
+  },
+  {
+    "cefr": "",
+    "def2": "quid sunt haec?",
+    "def1": "что это?",
+    "ipa": "wɑt ɑr ðiz?",
+    "spell": "what are these?"
+  },
+  {
+    "cefr": "",
+    "def2": "quod passum Canadiēnsem habeō",
+    "def1": "потому что я имею канадский паспорт",
+    "ipa": "bɪˈkɔz aɪ hæv ə kəˈneɪdiən ˈpæˌspɔrt",
+    "spell": "because I have a Canadian passport"
+  },
+  {
+    "cefr": "",
+    "def2": "rēs",
+    "def1": "вещь",
+    "ipa": "ə θɪŋ",
+    "spell": "a thing"
+  },
+  {
+    "cefr": "",
+    "def2": "scrībimus",
+    "def1": "мы пишем",
+    "ipa": "wi raɪt",
+    "spell": "we write"
+  },
+  {
+    "cefr": "",
+    "def2": "singulāris",
+    "def1": "единственное число",
+    "ipa": "ðə ˈsɪŋɡjələr",
+    "spell": "the singular"
+  },
+  {
+    "cefr": "",
+    "def2": "Turcia",
+    "def1": "Турция",
+    "ipa": "ˈtɜrki",
+    "spell": "Turkey"
+  },
+  {
+    "cefr": "",
+    "def2": "vīvere",
+    "def1": "жить",
+    "ipa": "tu lɪv",
+    "spell": "to live"
+  }
 ]

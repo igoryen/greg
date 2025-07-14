@@ -1,625 +1,625 @@
 [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "-ание, -ение",
-   "ipa": "-ɪŋ",
-   "spell": "-ing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "-ащ, -ящ, -ущ, -ющ",
-   "ipa": "-ɪŋ",
-   "spell": "-ing "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "штык-нож",
-   "ipa": "ə ˈbeɪəˌnɛt naɪf",
-   "spell": "a bayonet knife"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рождение",
-   "ipa": "ə bɜrθ",
-   "spell": "a birth"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "книга",
-   "ipa": "ə bʊk",
-   "spell": "a book"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кресло-кровать",
-   "ipa": "ə ʧɛr bɛd",
-   "spell": "a chair bed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "круг",
-   "ipa": "ə ˈsɜrkəl",
-   "spell": "a circle"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "огонь",
-   "ipa": "ə ˈfaɪər",
-   "spell": "a fire"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пожарный",
-   "ipa": "ə ˈfaɪrmən",
-   "spell": "a fireman"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пожарная машина",
-   "ipa": "ə ˈfaɪər.trʌk",
-   "spell": "a firetruck"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "колени",
-   "ipa": "ə læp",
-   "spell": "a lap"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ноутбук",
-   "ipa": "ə ˈlæpˌtɑp",
-   "spell": "a laptop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мужчина",
-   "ipa": "ə mæn",
-   "spell": "a man"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заметка",
-   "ipa": "ə noʊt",
-   "spell": "a note"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "блокнот",
-   "ipa": "ə ˈnoʊtˌbʊk",
-   "spell": "a notebook"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "телефон-автомат, таксофон",
-   "ipa": "ə ˈpeɪˌfoʊn",
-   "spell": "a payphone "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "польское имя",
-   "ipa": "ə ˈpɑlɪʃ neɪm",
-   "spell": "a Polish name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "телефон-автомат, таксофон",
-   "ipa": "ə ˈpʌblɪk ˈtɛləˌfoʊn",
-   "spell": "a public telephone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "море-океан",
-   "ipa": "ə si-ˈoʊʃən",
-   "spell": "a sea-ocean "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "диван-кровать",
-   "ipa": "ə ˈsoʊfə bɛd",
-   "spell": "a sofa bed "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "строгий начальник",
-   "ipa": "ə strɪkt bɑs",
-   "spell": "a strict boss"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пистолет-пулемёт",
-   "ipa": "ə ˌsʌbməˈʃin ɡʌn",
-   "spell": "a submachine gun "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стол на n человек",
-   "ipa": "ə ˈteɪbəl fɔr ɛn ˈpipəl",
-   "spell": "a table for n people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "верх",
-   "ipa": "ə tɑp",
-   "spell": "a top"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "грузовик",
-   "ipa": "ə trʌk",
-   "spell": "a truck"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неделя",
-   "ipa": "ə wik",
-   "spell": "a week"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кресло-кровать",
-   "ipa": "ən ˈɑrmˌʧɛr bɛd",
-   "spell": "an armchair bed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кафе-мороженое",
-   "ipa": "ən aɪs krim kəˈfeɪ",
-   "spell": "an ice cream café "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кафе-мороженое",
-   "ipa": "ən aɪs krim ˈpɑrlər",
-   "spell": "an ice cream parlor "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты наслаждаешься воскресеньем?",
-   "ipa": "ɑr ju ɛnˈʤɔɪɪŋ jʊər ˈsʌnˌdeɪ?",
-   "spell": "are you enjoying your Sunday?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "потому что он уходит в отпуск",
-   "ipa": "bɪˈkɔz hi ɪz ˈɡoʊɪŋ ɑn veɪˈkeɪʃən",
-   "spell": "because he is going on vacation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бронирование",
-   "ipa": "ˈbʊkɪŋ",
-   "spell": "booking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бронирование столика",
-   "ipa": "ˈbʊkɪŋ ə ˈteɪbəl",
-   "spell": "booking a table"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "можешь прочитать ещё раз?",
-   "ipa": "kæn ju rid ɪt əˈɡɛn?",
-   "spell": "can you read it again?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай!",
-   "ipa": "kʌm ɑn!",
-   "spell": "come on!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заполните информацию!",
-   "ipa": "kəmˈplit ði ˌɪnfərˈmeɪʃən!",
-   "spell": "complete the information!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "совесть",
-   "ipa": "ˈkɑnʃəns",
-   "spell": "conscience"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты знаешь дни недели?",
-   "ipa": "du ju noʊ ðə deɪz ʌv ðə wik?",
-   "spell": "do you know the days of the week?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты помнишь?",
-   "ipa": "du ju rɪˈmɛmbər?",
-   "spell": "do you remember?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "делание, делающий",
-   "ipa": "ˈduɪŋ",
-   "spell": "doing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пятница (день 5, Фригг)",
-   "ipa": "ˈfraɪˌdeɪ (deɪ faɪv)",
-   "spell": "Friday (day 5, Frigg)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "её",
-   "ipa": "hɜr",
-   "spell": "her "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "её зовут Дженни",
-   "ipa": "hɜr neɪm ɪz ˈʤɛni",
-   "spell": "her name is Jenny"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как дела?",
-   "ipa": "haʊ ɑr ju ˈduɪŋ?",
-   "spell": "how are you doing?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сколько человек?",
-   "ipa": "haʊ ˈmɛni ˈpipəl?",
-   "spell": "how many people?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сколько?",
-   "ipa": "haʊ ˈmɛni?",
-   "spell": "how many?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я должен отдать документы начальнику в понедельник",
-   "ipa": "aɪ mʌst ɡɪv ðə ˈdɑkjəmənts tu maɪ bɑs ɑn ˈmʌnˌdeɪ",
-   "spell": "I must give the documents to my boss on Monday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я сделал перерыв в пятницу",
-   "ipa": "aɪ tʊk ə breɪk ɑn ˈfraɪˌdeɪ",
-   "spell": "I took a break on Friday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давайте есть",
-   "ipa": "lɛts it",
-   "spell": "let's eat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пойдём",
-   "ipa": "lɛts ɡoʊ",
-   "spell": "let's go"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давайте послушаем",
-   "ipa": "lɛts ˈlɪsən",
-   "spell": "let's listen"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давайте почитаем",
-   "ipa": "lɛts rid",
-   "spell": "let's read"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давайте работать",
-   "ipa": "lɛts wɜrk",
-   "spell": "let's work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "посмотри на это",
-   "ipa": "lʊk æt ðɪs",
-   "spell": "look at this"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "понедельник (день 1, Луна)",
-   "ipa": "ˈmʌnˌdeɪ (deɪ wʌn, mun)",
-   "spell": "Monday (day 1, Moon)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "люди",
-   "ipa": "ˈpipəl",
-   "spell": "people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "прочитай это",
-   "ipa": "rid ɪt",
-   "spell": "read it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "прочитай, пожалуйста",
-   "ipa": "rid ɪt, pliz",
-   "spell": "read it, please"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "суббота (день 6, Сатурн)",
-   "ipa": "ˈsætərˌdeɪ (deɪ sɪks, ˈsætərn)",
-   "spell": "Saturday (day 6, Saturn)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "увидимся",
-   "ipa": "si ju",
-   "spell": "see you (CU)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "до завтра!",
-   "ipa": "si ju təˈmɑˌroʊ!",
-   "spell": "see you tomorrow!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "увидимся во вторник!",
-   "ipa": "si ju ˈtuzˌdeɪ!",
-   "spell": "see you Tuesday!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она полька",
-   "ipa": "ʃi ɪz ˈpɑlɪʃ",
-   "spell": "she is Polish"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "покажи мне",
-   "ipa": "ʃoʊ mi",
-   "spell": "show me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "произнеси по буквам!",
-   "ipa": "spɛl ɪt!",
-   "spell": "spell it!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "произнеси то по буквам!",
-   "ipa": "spɛl ðæt!",
-   "spell": "spell that!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "воскресенье (день 7, Солнце)",
-   "ipa": "ˈsʌnˌdeɪ (deɪ ˈsɛvən, sʌn)",
-   "spell": "Sunday (day 7, Sun)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "возьми ручку",
-   "ipa": "teɪk ə pɛn",
-   "spell": "take a pen"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "возьми карандаш",
-   "ipa": "teɪk ə ˈpɛnsəl",
-   "spell": "take a pencil"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "возьми листок бумаги",
-   "ipa": "teɪk ə pis ʌv ˈpeɪpər",
-   "spell": "take a piece of paper"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "круто!",
-   "ipa": "ðæts kul!",
-   "spell": "that's cool!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "город, страна",
-   "ipa": "ðə ˈsɪti, ðə ˈkʌntri",
-   "spell": "the city, the country"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дни недели",
-   "ipa": "ðə deɪz ʌv ðə wik",
-   "spell": "the days of the week"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "три",
-   "ipa": "θri",
-   "spell": "three"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "четверг",
-   "ipa": "ˈθɜrzˌdeɪ",
-   "spell": "Thursday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "четверг (день 4, Тор)",
-   "ipa": "ˈθɜrzˌdeɪ (deɪ for)",
-   "spell": "Thursday (day 4, Thor's)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бронировать",
-   "ipa": "tu bʊk",
-   "spell": "to book"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обводить",
-   "ipa": "tu ˈsɜrkəl",
-   "spell": "to circle"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "помочь тебе запомнить",
-   "ipa": "tu hɛlp ju rɪˈmɛmbər",
-   "spell": "to help you remember"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе ",
-   "ipa": "tu ju ",
-   "spell": "to you (2U)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе тоже",
-   "ipa": "tu ju, tu ",
-   "spell": "to you, too (2U2)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вторник (день 2, Тиу)",
-   "ipa": "ˈtuzˌdeɪ (deɪ tu)",
-   "spell": "Tuesday (day 2, Tiw's)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "смотри и слушай",
-   "ipa": "wɑʧ ænd ˈlɪsən",
-   "spell": "watch and listen"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "среда (день 3, Один)",
-   "ipa": "ˈwɛnzˌdeɪ (deɪ three)",
-   "spell": "Wednesday (day 3, Woden's)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как её зовут?",
-   "ipa": "wɑt ɪz hɜr neɪm?",
-   "spell": "what is her name?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что?",
-   "ipa": "wɑt?",
-   "spell": "what?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "почему?",
-   "ipa": "waɪ?",
-   "spell": "why?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "напиши её имя",
-   "ipa": "raɪt hɜr neɪm",
-   "spell": "write her name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стол на троих",
-   "ipa": "ə ˈteɪbəl fɔr θri ˈpipəl",
-   "spell": "a table for three people"
- }
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "-ание, -ение",
+    "ipa": "-ɪŋ",
+    "spell": "-ing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "-ащ, -ящ, -ущ, -ющ",
+    "ipa": "-ɪŋ",
+    "spell": "-ing "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "штык-нож",
+    "ipa": "ə ˈbeɪəˌnɛt naɪf",
+    "spell": "a bayonet knife"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "рождение",
+    "ipa": "ə bɜrθ",
+    "spell": "a birth"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "книга",
+    "ipa": "ə bʊk",
+    "spell": "a book"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кресло-кровать",
+    "ipa": "ə ʧɛr bɛd",
+    "spell": "a chair bed"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "круг",
+    "ipa": "ə ˈsɜrkəl",
+    "spell": "a circle"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "огонь",
+    "ipa": "ə ˈfaɪər",
+    "spell": "a fire"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "пожарный",
+    "ipa": "ə ˈfaɪrmən",
+    "spell": "a fireman"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "пожарная машина",
+    "ipa": "ə ˈfaɪər.trʌk",
+    "spell": "a firetruck"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "колени",
+    "ipa": "ə læp",
+    "spell": "a lap"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ноутбук",
+    "ipa": "ə ˈlæpˌtɑp",
+    "spell": "a laptop"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мужчина",
+    "ipa": "ə mæn",
+    "spell": "a man"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "заметка",
+    "ipa": "ə noʊt",
+    "spell": "a note"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "блокнот",
+    "ipa": "ə ˈnoʊtˌbʊk",
+    "spell": "a notebook"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "телефон-автомат, таксофон",
+    "ipa": "ə ˈpeɪˌfoʊn",
+    "spell": "a payphone "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "польское имя",
+    "ipa": "ə ˈpoʊlɪʃ neɪm",
+    "spell": "a Polish name"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "телефон-автомат, таксофон",
+    "ipa": "ə ˈpʌblɪk ˈtɛləˌfoʊn",
+    "spell": "a public telephone"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "море-океан",
+    "ipa": "ə si-ˈoʊʃən",
+    "spell": "a sea-ocean "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "диван-кровать",
+    "ipa": "ə ˈsoʊfə bɛd",
+    "spell": "a sofa bed "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "строгий начальник",
+    "ipa": "ə strɪkt bɑs",
+    "spell": "a strict boss"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "пистолет-пулемёт",
+    "ipa": "ə ˌsʌbməˈʃin ɡʌn",
+    "spell": "a submachine gun "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "стол на n человек",
+    "ipa": "ə ˈteɪbəl fɔr ɛn ˈpipəl",
+    "spell": "a table for n people"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "верх",
+    "ipa": "ə tɑp",
+    "spell": "a top"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "грузовик",
+    "ipa": "ə trʌk",
+    "spell": "a truck"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "неделя",
+    "ipa": "ə wik",
+    "spell": "a week"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кресло-кровать",
+    "ipa": "ən ˈɑrmˌʧɛr bɛd",
+    "spell": "an armchair bed"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кафе-мороженое",
+    "ipa": "ən aɪs krim kəˈfeɪ",
+    "spell": "an ice cream café "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кафе-мороженое",
+    "ipa": "ən aɪs krim ˈpɑrlər",
+    "spell": "an ice cream parlor "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты наслаждаешься воскресеньем?",
+    "ipa": "ɑr ju ɛnˈʤɔɪɪŋ jʊər ˈsʌnˌdeɪ?",
+    "spell": "are you enjoying your Sunday?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "потому что он уходит в отпуск",
+    "ipa": "bɪˈkɔz hi ɪz ˈɡoʊɪŋ ɑn veɪˈkeɪʃən",
+    "spell": "because he is going on vacation"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "бронирование",
+    "ipa": "ˈbʊkɪŋ",
+    "spell": "booking"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "бронирование столика",
+    "ipa": "ˈbʊkɪŋ ə ˈteɪbəl",
+    "spell": "booking a table"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "можешь прочитать ещё раз?",
+    "ipa": "kæn ju rid ɪt əˈɡɛn?",
+    "spell": "can you read it again?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "давай!",
+    "ipa": "kʌm ɑn!",
+    "spell": "come on!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "заполните информацию!",
+    "ipa": "kəmˈplit ði ˌɪnfərˈmeɪʃən!",
+    "spell": "complete the information!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "совесть",
+    "ipa": "ˈkɑnʃəns",
+    "spell": "conscience"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты знаешь дни недели?",
+    "ipa": "du ju noʊ ðə deɪz ʌv ðə wik?",
+    "spell": "do you know the days of the week?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты помнишь?",
+    "ipa": "du ju rɪˈmɛmbər?",
+    "spell": "do you remember?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "делание, делающий",
+    "ipa": "ˈduɪŋ",
+    "spell": "doing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "пятница (день 5, Фригг)",
+    "ipa": "ˈfraɪˌdeɪ (deɪ faɪv)",
+    "spell": "Friday (day 5, Frigg)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "её",
+    "ipa": "hɜr",
+    "spell": "her "
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "её зовут Дженни",
+    "ipa": "hɜr neɪm ɪz ˈʤɛni",
+    "spell": "her name is Jenny"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "как дела?",
+    "ipa": "haʊ ɑr ju ˈduɪŋ?",
+    "spell": "how are you doing?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сколько человек?",
+    "ipa": "haʊ ˈmɛni ˈpipəl?",
+    "spell": "how many people?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сколько?",
+    "ipa": "haʊ ˈmɛni?",
+    "spell": "how many?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я должен отдать документы начальнику в понедельник",
+    "ipa": "aɪ mʌst ɡɪv ðə ˈdɑkjəmənts tu maɪ bɑs ɑn ˈmʌnˌdeɪ",
+    "spell": "I must give the documents to my boss on Monday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я сделал перерыв в пятницу",
+    "ipa": "aɪ tʊk ə breɪk ɑn ˈfraɪˌdeɪ",
+    "spell": "I took a break on Friday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "давайте есть",
+    "ipa": "lɛts it",
+    "spell": "let's eat"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "пойдём",
+    "ipa": "lɛts ɡoʊ",
+    "spell": "let's go"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "давайте послушаем",
+    "ipa": "lɛts ˈlɪsən",
+    "spell": "let's listen"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "давайте почитаем",
+    "ipa": "lɛts rid",
+    "spell": "let's read"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "давайте работать",
+    "ipa": "lɛts wɜrk",
+    "spell": "let's work"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "посмотри на это",
+    "ipa": "lʊk æt ðɪs",
+    "spell": "look at this"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "понедельник (день 1, Луна)",
+    "ipa": "ˈmʌnˌdeɪ (deɪ wʌn, mun)",
+    "spell": "Monday (day 1, Moon)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "люди",
+    "ipa": "ˈpipəl",
+    "spell": "people"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "прочитай это",
+    "ipa": "rid ɪt",
+    "spell": "read it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "прочитай, пожалуйста",
+    "ipa": "rid ɪt, pliz",
+    "spell": "read it, please"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "суббота (день 6, Сатурн)",
+    "ipa": "ˈsætərˌdeɪ (deɪ sɪks, ˈsætərn)",
+    "spell": "Saturday (day 6, Saturn)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "увидимся",
+    "ipa": "si ju",
+    "spell": "see you (CU)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "до завтра!",
+    "ipa": "si ju təˈmɑˌroʊ!",
+    "spell": "see you tomorrow!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "увидимся во вторник!",
+    "ipa": "si ju ˈtuzˌdeɪ!",
+    "spell": "see you Tuesday!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "она полька",
+    "ipa": "ʃi ɪz ˈpoʊlɪʃ",
+    "spell": "she is Polish"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "покажи мне",
+    "ipa": "ʃoʊ mi",
+    "spell": "show me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "произнеси по буквам!",
+    "ipa": "spɛl ɪt!",
+    "spell": "spell it!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "произнеси то по буквам!",
+    "ipa": "spɛl ðæt!",
+    "spell": "spell that!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "воскресенье (день 7, Солнце)",
+    "ipa": "ˈsʌnˌdeɪ (deɪ ˈsɛvən, sʌn)",
+    "spell": "Sunday (day 7, Sun)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "возьми ручку",
+    "ipa": "teɪk ə pɛn",
+    "spell": "take a pen"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "возьми карандаш",
+    "ipa": "teɪk ə ˈpɛnsəl",
+    "spell": "take a pencil"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "возьми листок бумаги",
+    "ipa": "teɪk ə pis ʌv ˈpeɪpər",
+    "spell": "take a piece of paper"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "круто!",
+    "ipa": "ðæts kul!",
+    "spell": "that's cool!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "город, страна",
+    "ipa": "ðə ˈsɪti, ðə ˈkʌntri",
+    "spell": "the city, the country"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дни недели",
+    "ipa": "ðə deɪz ʌv ðə wik",
+    "spell": "the days of the week"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "три",
+    "ipa": "θri",
+    "spell": "three"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "четверг",
+    "ipa": "ˈθɜrzˌdeɪ",
+    "spell": "Thursday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "четверг (день 4, Тор)",
+    "ipa": "ˈθɜrzˌdeɪ (deɪ for)",
+    "spell": "Thursday (day 4, Thor's)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "бронировать",
+    "ipa": "tu bʊk",
+    "spell": "to book"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "обводить",
+    "ipa": "tu ˈsɜrkəl",
+    "spell": "to circle"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "помочь тебе запомнить",
+    "ipa": "tu hɛlp ju rɪˈmɛmbər",
+    "spell": "to help you remember"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "тебе ",
+    "ipa": "tu ju ",
+    "spell": "to you (2U)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "тебе тоже",
+    "ipa": "tu ju, tu ",
+    "spell": "to you, too (2U2)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вторник (день 2, Тиу)",
+    "ipa": "ˈtuzˌdeɪ (deɪ tu)",
+    "spell": "Tuesday (day 2, Tiw's)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "смотри и слушай",
+    "ipa": "wɑʧ ænd ˈlɪsən",
+    "spell": "watch and listen"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "среда (день 3, Один)",
+    "ipa": "ˈwɛnzˌdeɪ (deɪ three)",
+    "spell": "Wednesday (day 3, Woden's)"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "как её зовут?",
+    "ipa": "wɑt ɪz hɜr neɪm?",
+    "spell": "what is her name?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "что?",
+    "ipa": "wɑt?",
+    "spell": "what?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "почему?",
+    "ipa": "waɪ?",
+    "spell": "why?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "напиши её имя",
+    "ipa": "raɪt hɜr neɪm",
+    "spell": "write her name"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "стол на троих",
+    "ipa": "ə ˈteɪbəl fɔr θri ˈpipəl",
+    "spell": "a table for three people"
+  }
 ]

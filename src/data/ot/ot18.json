@@ -1,793 +1,793 @@
 [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "коробка",
-   "ipa": "ə bɑks",
-   "spell": "a box"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "столовая",
-   "ipa": "ə ˈdaɪnɪŋ rum",
-   "spell": "a dining room"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хорошее предложение",
-   "ipa": "ə ɡʊd ˈɔfər",
-   "spell": "a good offer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "более высокий уровень",
-   "ipa": "ə ˈhaɪər ˈlɛvəl",
-   "spell": "a higher level"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "гостиная",
-   "ipa": "ə ˈlɪvɪŋ rum",
-   "spell": "a living room"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много дождя",
-   "ipa": "ə lɑt ʌv reɪn",
-   "spell": "a lot of rain"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много снега",
-   "ipa": "ə lɑt ʌv snoʊ",
-   "spell": "a lot of snow"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фраза",
-   "ipa": "ə freɪz",
-   "spell": "a phrase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "официант",
-   "ipa": "ə ˈweɪtər",
-   "spell": "a waiter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "официантка",
-   "ipa": "ə ˈweɪtrəs",
-   "spell": "a waitress"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "по всей Америке",
-   "ipa": "ɔl ˈoʊvər ði ʌs",
-   "spell": "all over the US"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "все время",
-   "ipa": "ɔl ðə taɪm",
-   "spell": "all the time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уже",
-   "ipa": "ɔlˈrɛdi",
-   "spell": "already"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "предложение",
-   "ipa": "ən ˈɔfər",
-   "spell": "an offer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "попросить кого-то сделать что-то",
-   "ipa": "æsk ˈsʌmˌbɑdi tu du ˈsʌmθɪŋ",
-   "spell": "ask somebody to do something"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "попросить кого-то дать вам что-то",
-   "ipa": "æsk ˈsʌmˌbɑdi tu ɡɪv ju ˈsʌmθɪŋ",
-   "spell": "ask somebody to give you something"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поставьте галочку, пожалуйста",
-   "ipa": "ʧɛk ðə bɑks, pliz",
-   "spell": "check the box, please"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уверенный",
-   "ipa": "ˈkɑnfədənt",
-   "spell": "confident"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сидение за обедом",
-   "ipa": "ˈdaɪnɪŋ",
-   "spell": "dining"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты уверен, что сможешь это сделать?",
-   "ipa": "du ju fil ˈkɑnfədənt ju kæn du ɪt?",
-   "spell": "do you feel confident you can do it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты уверен?",
-   "ipa": "du ju fil ˈkɑnfədənt?",
-   "spell": "do you feel confident?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе нравится кофе?",
-   "ipa": "du ju laɪk ˈkɑfi?",
-   "spell": "do you like coffee?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "осторожней за рулем!",
-   "ipa": "draɪv seɪf!",
-   "spell": "drive safe!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "английский очень жёсткий",
-   "ipa": "ˈɪŋɡlɪʃ ɪz ˈvɛri stɪf",
-   "spell": "English is very stiff"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "все так говорят",
-   "ipa": "ˈɛvriˌbɑdi sɛz ðæt",
-   "spell": "everybody says that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "все хотят спать",
-   "ipa": "ˈɛvriˌbɑdi wɑnts tu slip",
-   "spell": "everybody wants to sleep"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "четыре угла",
-   "ipa": "fɔr ˈkɔrnərz",
-   "spell": "four corners"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он сказал мне",
-   "ipa": "hi sɛd tu mi",
-   "spell": "he said to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он говорит, что",
-   "ipa": "hi sɛz ðæt",
-   "spell": "he says that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он рассказывает мне об этом",
-   "ipa": "hi tɛlz mi əˈbaʊt ɪt",
-   "spell": "he tells me about it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он хорошо работает!",
-   "ipa": "hiz ˈduɪŋ ə ɡʊd ʤɑb!",
-   "spell": "he's doing a good job!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как ты предлагаешь вещи?",
-   "ipa": "haʊ du ju ˈɔfər θɪŋz?",
-   "spell": "how do you offer things?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как долго ты там живешь?",
-   "ipa": "haʊ lɔŋ hæv ju lɪvd ðɛr?",
-   "spell": "how long have you lived there?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сколько стоит аренда?",
-   "ipa": "haʊ mʌʧ ɪz ðə rɛnt?",
-   "spell": "how much is the rent?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я принимаю!",
-   "ipa": "aɪ ækˈsɛpt!",
-   "spell": "I accept!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я тоже в гостиной",
-   "ipa": "aɪ æm ɪn ə ˈlɪvɪŋ rum, tu",
-   "spell": "I am in a living room, too"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не помню",
-   "ipa": "aɪ doʊnt rɪˈmɛmbər",
-   "spell": "I don't remember"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я иду на кухню",
-   "ipa": "aɪ ɡoʊ tu ðə ˈkɪʧən",
-   "spell": "I go to the kitchen"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я уже это ел, пил",
-   "ipa": "aɪ hæv ɔlˈrɛdi hæd ɪt",
-   "spell": "I have already had it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я должен подумать",
-   "ipa": "aɪ hæv tu θɪŋk",
-   "spell": "I have to think"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "надеюсь, ты в безопасности",
-   "ipa": "aɪ hoʊp jʊr seɪf",
-   "spell": "I hope you're safe"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне это нравится",
-   "ipa": "aɪ laɪk ðæt",
-   "spell": "I like that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я предлагаю тебе чай",
-   "ipa": "aɪ ˈɔfər ju ti",
-   "spell": "I offer you tea"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я открыл дверь",
-   "ipa": "aɪ ˈoʊpənd ðə dɔr",
-   "spell": "I opened the door"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я отказываюсь!",
-   "ipa": "aɪ rɪˈfjuz!",
-   "spell": "I refuse!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я отвечаю",
-   "ipa": "aɪ rɪˈspɑnd",
-   "spell": "I respond"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не откажусь от этого предложения",
-   "ipa": "aɪ wɪl nɑt rɪˈfjuz ðɪs ˈɔfər",
-   "spell": "I will not refuse this offer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "если мы съедем",
-   "ipa": "ɪf wi muv aʊt",
-   "spell": "if we move out"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Игорь делает успехи",
-   "ipa": "ɪˈɡɔr ɪz ˈmeɪkɪŋ ˈprɑˌɡrɛs",
-   "spell": "Igor is making progress"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "информация",
-   "ipa": "ˌɪnfərˈmeɪʃən",
-   "spell": "information"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это не важно",
-   "ipa": "ɪt ˈdʌzənt ˈmætər",
-   "spell": "it doesn't matter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сейчас прохладно",
-   "ipa": "ɪt ɪz kul naʊ",
-   "spell": "it is cool now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сейчас одиннадцать часов",
-   "ipa": "ɪt ɪz ɪˈlɛvən əˈklɑk naʊ",
-   "spell": "it is eleven o’clock now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это невежливо",
-   "ipa": "ɪt ɪz nɑt pəˈlaɪt",
-   "spell": "it is not polite"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не очень жарко и не очень холодно",
-   "ipa": "ɪt ɪz nɑt ˈvɛri hɑt, ænd nɑt ˈvɛri koʊld",
-   "spell": "it is not very hot, and not very cold"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дождливо",
-   "ipa": "ɪt ɪz ˈreɪni",
-   "spell": "it is rainy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "грустно",
-   "ipa": "ɪt ɪz sæd",
-   "spell": "it is sad"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это очень коротко",
-   "ipa": "ɪt ɪz ˌsupərˈʃɔrt",
-   "spell": "it is supershort"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это название страны",
-   "ipa": "ɪt ɪz ðə neɪm ʌv ðə ˈkʌntri",
-   "spell": "it is the name of the country"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "очень дождливо",
-   "ipa": "ɪt ɪz ˈvɛri ˈreɪni",
-   "spell": "it is very rainy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сегодня будет двадцать четыре градуса",
-   "ipa": "ɪt wɪl bi ˈtwɛnti fɔr dɪˈɡriz təˈdeɪ",
-   "spell": "it will be twenty four degrees today"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "лучше проверить",
-   "ipa": "ɪts bɛst tu ʧɛk",
-   "spell": "it's best to check"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "этого хватит на двоих",
-   "ipa": "ɪts ɪˈnʌf fɔr tu ˈpipəl",
-   "spell": "it's enough for two people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это мало",
-   "ipa": "ɪts ˈlɪtəl",
-   "spell": "it's little"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жизнь",
-   "ipa": "ˈlɪvɪŋ",
-   "spell": "living"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "никто не знает",
-   "ipa": "ˈnoʊˌbɑˌdi noʊz",
-   "spell": "nobody knows"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не совсем",
-   "ipa": "nɑt ˈrɪli",
-   "spell": "not really"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "предложи мне это",
-   "ipa": "ˈɔfər mi ðɪs",
-   "spell": "offer me this"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наш контракт очень старый",
-   "ipa": "ˈaʊər ˈkɑnˌtrækt ɪz ˈvɛri oʊld",
-   "spell": "our contract is very old"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто говорит?",
-   "ipa": "sɛz hu?",
-   "spell": "says who?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она говорит это",
-   "ipa": "ʃi sɛz ɪt",
-   "spell": "she says it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она меня обслуживает",
-   "ipa": "ʃi weɪts ɑn mi",
-   "spell": "she waits on me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "социальный английский",
-   "ipa": "ˈsoʊʃəl ˈɪŋɡlɪʃ",
-   "spell": "social English"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что-то",
-   "ipa": "ˈsʌmθɪŋ",
-   "spell": "something"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "извините, я отказываюсь",
-   "ipa": "ˈsɑri, aɪ rɪˈfjuz",
-   "spell": "sorry, I refuse"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вроде",
-   "ipa": "sɔrt ʌv",
-   "spell": "sort of"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "площадь небольшая",
-   "ipa": "ði ˈɛriə ɪz smɔl",
-   "spell": "the area is small"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Северная Америка",
-   "ipa": "ðə nɔrθ əˈmɛrəkə",
-   "spell": "the North America"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "выбрось много вещей!",
-   "ipa": "θroʊ aʊt ˈmɛni θɪŋz!",
-   "spell": "throw out many things!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "выбросить что-то",
-   "ipa": "θroʊ ˈsʌmθɪŋ aʊt",
-   "spell": "throw something out"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "принять это",
-   "ipa": "tu ækˈsɛpt ɪt",
-   "spell": "to accept it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ужинать",
-   "ipa": "tu daɪn",
-   "spell": "to dine"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чувствовать уверенность",
-   "ipa": "tu fil ˈkɑnfədənt",
-   "spell": "to feel confident"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ужинать",
-   "ipa": "tu hæv ˈdɪnər",
-   "spell": "to have dinner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жить",
-   "ipa": "tu lɪv",
-   "spell": "to live"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поддерживать беседу",
-   "ipa": "tu meɪk ə ˌkɑnvərˈseɪʃən",
-   "spell": "to make a conversation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "предлагать",
-   "ipa": "tu ˈɔfər",
-   "spell": "to offer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "предложить кому-то напиток",
-   "ipa": "tu ˈɔfər ˈsʌmˌbɑdi ə drɪŋk",
-   "spell": "to offer somebody a drink"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отказываться",
-   "ipa": "tu rɪˈfjuz",
-   "spell": "to refuse"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отвечать",
-   "ipa": "tu rɪˈspɑnd",
-   "spell": "to respond"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ждать",
-   "ipa": "tu weɪt",
-   "spell": "to wait"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "слишком мало шкафов",
-   "ipa": "tu fju ˈkʌbərdz",
-   "spell": "too few cupboards"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вдвое меньше",
-   "ipa": "twaɪs æz ˈlɪtəl",
-   "spell": "twice as little"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "очень мало места",
-   "ipa": "ˈvɛri ˈlɪtəl speɪs",
-   "spell": "very little space"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы делаем успехи",
-   "ipa": "wi ɑr ˈmeɪkɪŋ ˈprɑˌɡrɛs",
-   "spell": "we are making progress"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у нас много дождя",
-   "ipa": "wi ɡɛt ə lɑt ʌv reɪn",
-   "spell": "we get a lot of rain"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы закончили целый файл",
-   "ipa": "wi hæv ˈfɪnɪʃt ə hoʊl faɪl",
-   "spell": "we have finished a whole file"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы живём здесь с две тысячи одиннадцатого",
-   "ipa": "wi hæv lɪvd hir sɪns ˈtwɛnti ɪˈlɛvən",
-   "spell": "we have lived here since twenty eleven"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы должны подумать",
-   "ipa": "wi hæv tu θɪŋk",
-   "spell": "we have to think"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы говорим",
-   "ipa": "wi seɪ",
-   "spell": "we say"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы пишем",
-   "ipa": "wi raɪt",
-   "spell": "we write"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как называется этот континент?",
-   "ipa": "wɑt ɪz ðə neɪm ʌv ðɪs ˈkɑntənənt?",
-   "spell": "what is the name of this continent?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "где мы?",
-   "ipa": "wɛr ɑr wi?",
-   "spell": "where are we?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "где поставить галочку?",
-   "ipa": "wɛr du wi pʊt ə tʃɛkmɑrk?",
-   "spell": "where do we put a checkmark?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто из Нью-Йорка?",
-   "ipa": "hu ɪz frʌm nu jɔrk?",
-   "spell": "who is from New York?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто это говорит?",
-   "ipa": "hu sɛz ɪt?",
-   "spell": "who says it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто что говорит?",
-   "ipa": "hu sɛz wɑt?",
-   "spell": "who says what?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто хочет кофе?",
-   "ipa": "hu wɑnts ˈkɑfi?",
-   "spell": "who wants coffee?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто хочет печенье?",
-   "ipa": "hu wɑnts ˈkʊkiz?",
-   "spell": "who wants cookies?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто хочет спать?",
-   "ipa": "hu wɑnts tu slip?",
-   "spell": "who wants to sleep?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты живёшь между горами",
-   "ipa": "ju lɪv bɪˈtwin ðə ˈmaʊntənz",
-   "spell": "you live between the mountains"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе нужен английский",
-   "ipa": "ju nid ˈɪŋɡlɪʃ",
-   "spell": "you need English"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты отвечаешь",
-   "ipa": "ju rɪˈspɑnd",
-   "spell": "you respond"
- }
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "коробка",
+    "ipa": "ə bɑks",
+    "spell": "a box"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "столовая",
+    "ipa": "ə ˈdaɪnɪŋ rum",
+    "spell": "a dining room"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "хорошее предложение",
+    "ipa": "ə ɡʊd ˈɔfər",
+    "spell": "a good offer"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "более высокий уровень",
+    "ipa": "ə ˈhaɪər ˈlɛvəl",
+    "spell": "a higher level"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "гостиная",
+    "ipa": "ə ˈlɪvɪŋ rum",
+    "spell": "a living room"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "много дождя",
+    "ipa": "ə lɑt ʌv reɪn",
+    "spell": "a lot of rain"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "много снега",
+    "ipa": "ə lɑt ʌv snoʊ",
+    "spell": "a lot of snow"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "фраза",
+    "ipa": "ə freɪz",
+    "spell": "a phrase"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "официант",
+    "ipa": "ə ˈweɪtər",
+    "spell": "a waiter"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "официантка",
+    "ipa": "ə ˈweɪtrəs",
+    "spell": "a waitress"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "по всей Америке",
+    "ipa": "ɔl ˈoʊvər ði ʌs",
+    "spell": "all over the US"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "все время",
+    "ipa": "ɔl ðə taɪm",
+    "spell": "all the time"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "уже",
+    "ipa": "ɔlˈrɛdi",
+    "spell": "already"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "предложение",
+    "ipa": "ən ˈɔfər",
+    "spell": "an offer"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "попросить кого-то сделать что-то",
+    "ipa": "æsk ˈsʌmˌbɑdi tu du ˈsʌmθɪŋ",
+    "spell": "ask somebody to do something"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "попросить кого-то дать вам что-то",
+    "ipa": "æsk ˈsʌmˌbɑdi tu ɡɪv ju ˈsʌmθɪŋ",
+    "spell": "ask somebody to give you something"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "поставьте галочку, пожалуйста",
+    "ipa": "ʧɛk ðə bɑks, pliz",
+    "spell": "check the box, please"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "уверенный",
+    "ipa": "ˈkɑnfədənt",
+    "spell": "confident"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сидение за обедом",
+    "ipa": "ˈdaɪnɪŋ",
+    "spell": "dining"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты уверен, что сможешь это сделать?",
+    "ipa": "du ju fil ˈkɑnfədənt ju kæn du ɪt?",
+    "spell": "do you feel confident you can do it?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты уверен?",
+    "ipa": "du ju fil ˈkɑnfədənt?",
+    "spell": "do you feel confident?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "тебе нравится кофе?",
+    "ipa": "du ju laɪk ˈkɑfi?",
+    "spell": "do you like coffee?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "осторожней за рулем!",
+    "ipa": "draɪv seɪf!",
+    "spell": "drive safe!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "английский очень жёсткий, негибкий",
+    "ipa": "ˈɪŋɡlɪʃ ɪz ˈvɛri stɪf",
+    "spell": "English is very stiff"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "все так говорят",
+    "ipa": "ˈɛvriˌbɑdi sɛz ðæt",
+    "spell": "everybody says that"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "все хотят спать",
+    "ipa": "ˈɛvriˌbɑdi wɑnts tu slip",
+    "spell": "everybody wants to sleep"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "четыре угла",
+    "ipa": "fɔr ˈkɔrnərz",
+    "spell": "four corners"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "он сказал мне",
+    "ipa": "hi sɛd tu mi",
+    "spell": "he said to me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "он говорит, что",
+    "ipa": "hi sɛz ðæt",
+    "spell": "he says that"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "он рассказывает мне об этом",
+    "ipa": "hi tɛlz mi əˈbaʊt ɪt",
+    "spell": "he tells me about it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "он хорошо работает!",
+    "ipa": "hiz ˈduɪŋ ə ɡʊd ʤɑb!",
+    "spell": "he's doing a good job!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "как ты предлагаешь вещи?",
+    "ipa": "haʊ du ju ˈɔfər θɪŋz?",
+    "spell": "how do you offer things?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "как долго ты там живешь?",
+    "ipa": "haʊ lɔŋ hæv ju lɪvd ðɛr?",
+    "spell": "how long have you lived there?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сколько стоит аренда?",
+    "ipa": "haʊ mʌʧ ɪz ðə rɛnt?",
+    "spell": "how much is the rent?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я принимаю!",
+    "ipa": "aɪ ækˈsɛpt!",
+    "spell": "I accept!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я тоже в гостиной",
+    "ipa": "aɪ æm ɪn ə ˈlɪvɪŋ rum, tu",
+    "spell": "I am in a living room, too"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не помню",
+    "ipa": "aɪ doʊnt rɪˈmɛmbər",
+    "spell": "I don't remember"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я иду на кухню",
+    "ipa": "aɪ ɡoʊ tu ðə ˈkɪʧən",
+    "spell": "I go to the kitchen"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я уже это ел, пил",
+    "ipa": "aɪ hæv ɔlˈrɛdi hæd ɪt",
+    "spell": "I have already had it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я должен подумать",
+    "ipa": "aɪ hæv tu θɪŋk",
+    "spell": "I have to think"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "надеюсь, ты в безопасности",
+    "ipa": "aɪ hoʊp jʊr seɪf",
+    "spell": "I hope you're safe"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мне это нравится",
+    "ipa": "aɪ laɪk ðæt",
+    "spell": "I like that"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я предлагаю тебе чай",
+    "ipa": "aɪ ˈɔfər ju ti",
+    "spell": "I offer you tea"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я открыл дверь",
+    "ipa": "aɪ ˈoʊpənd ðə dɔr",
+    "spell": "I opened the door"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я отказываюсь!",
+    "ipa": "aɪ rɪˈfjuz!",
+    "spell": "I refuse!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я отвечаю",
+    "ipa": "aɪ rɪˈspɑnd",
+    "spell": "I respond"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не откажусь от этого предложения",
+    "ipa": "aɪ wɪl nɑt rɪˈfjuz ðɪs ˈɔfər",
+    "spell": "I will not refuse this offer"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "если мы съедем",
+    "ipa": "ɪf wi muv aʊt",
+    "spell": "if we move out"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Игорь делает успехи",
+    "ipa": "ɪˈɡɔr ɪz ˈmeɪkɪŋ ˈprɑˌɡrɛs",
+    "spell": "Igor is making progress"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "информация",
+    "ipa": "ˌɪnfərˈmeɪʃən",
+    "spell": "information"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это не важно",
+    "ipa": "ɪt ˈdʌzənt ˈmætər",
+    "spell": "it doesn't matter"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сейчас прохладно",
+    "ipa": "ɪt ɪz kul naʊ",
+    "spell": "it is cool now"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сейчас одиннадцать часов",
+    "ipa": "ɪt ɪz ɪˈlɛvən əˈklɑk naʊ",
+    "spell": "it is eleven o’clock now"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это невежливо",
+    "ipa": "ɪt ɪz nɑt pəˈlaɪt",
+    "spell": "it is not polite"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "не очень жарко и не очень холодно",
+    "ipa": "ɪt ɪz nɑt ˈvɛri hɑt, ænd nɑt ˈvɛri koʊld",
+    "spell": "it is not very hot, and not very cold"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "дождливо",
+    "ipa": "ɪt ɪz ˈreɪni",
+    "spell": "it is rainy"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "грустно",
+    "ipa": "ɪt ɪz sæd",
+    "spell": "it is sad"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это очень коротко",
+    "ipa": "ɪt ɪz ˌsupərˈʃɔrt",
+    "spell": "it is supershort"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это название страны",
+    "ipa": "ɪt ɪz ðə neɪm ʌv ðə ˈkʌntri",
+    "spell": "it is the name of the country"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "очень дождливо",
+    "ipa": "ɪt ɪz ˈvɛri ˈreɪni",
+    "spell": "it is very rainy"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сегодня будет двадцать четыре градуса",
+    "ipa": "ɪt wɪl bi ˈtwɛnti fɔr dɪˈɡriz təˈdeɪ",
+    "spell": "it will be twenty four degrees today"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "лучше проверить",
+    "ipa": "ɪts bɛst tu ʧɛk",
+    "spell": "it's best to check"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "этого хватит на двоих",
+    "ipa": "ɪts ɪˈnʌf fɔr tu ˈpipəl",
+    "spell": "it's enough for two people"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это мало",
+    "ipa": "ɪts ˈlɪtəl",
+    "spell": "it's little"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "жизнь",
+    "ipa": "ˈlɪvɪŋ",
+    "spell": "living"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "никто не знает",
+    "ipa": "ˈnoʊˌbɑˌdi noʊz",
+    "spell": "nobody knows"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "не совсем",
+    "ipa": "nɑt ˈrɪli",
+    "spell": "not really"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "предложи мне это",
+    "ipa": "ˈɔfər mi ðɪs",
+    "spell": "offer me this"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "наш контракт очень старый",
+    "ipa": "ˈaʊər ˈkɑnˌtrækt ɪz ˈvɛri oʊld",
+    "spell": "our contract is very old"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кто говорит?",
+    "ipa": "sɛz hu?",
+    "spell": "says who?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "она говорит это",
+    "ipa": "ʃi sɛz ɪt",
+    "spell": "she says it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "она меня обслуживает",
+    "ipa": "ʃi weɪts ɑn mi",
+    "spell": "she waits on me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "социальный английский",
+    "ipa": "ˈsoʊʃəl ˈɪŋɡlɪʃ",
+    "spell": "social English"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "что-то",
+    "ipa": "ˈsʌmθɪŋ",
+    "spell": "something"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "извините, я отказываюсь",
+    "ipa": "ˈsɑri, aɪ rɪˈfjuz",
+    "spell": "sorry, I refuse"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вроде",
+    "ipa": "sɔrt ʌv",
+    "spell": "sort of"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "площадь небольшая",
+    "ipa": "ði ˈɛriə ɪz smɔl",
+    "spell": "the area is small"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "Северная Америка",
+    "ipa": "ðə nɔrθ əˈmɛrəkə",
+    "spell": "the North America"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "выбрось много вещей!",
+    "ipa": "θroʊ aʊt ˈmɛni θɪŋz!",
+    "spell": "throw out many things!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "выбросить что-то",
+    "ipa": "θroʊ ˈsʌmθɪŋ aʊt",
+    "spell": "throw something out"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "принять это",
+    "ipa": "tu ækˈsɛpt ɪt",
+    "spell": "to accept it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ужинать",
+    "ipa": "tu daɪn",
+    "spell": "to dine"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "чувствовать уверенность",
+    "ipa": "tu fil ˈkɑnfədənt",
+    "spell": "to feel confident"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ужинать",
+    "ipa": "tu hæv ˈdɪnər",
+    "spell": "to have dinner"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "жить",
+    "ipa": "tu lɪv",
+    "spell": "to live"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "поддерживать беседу",
+    "ipa": "tu meɪk ə ˌkɑnvərˈseɪʃən",
+    "spell": "to make a conversation"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "предлагать",
+    "ipa": "tu ˈɔfər",
+    "spell": "to offer"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "предложить кому-то напиток",
+    "ipa": "tu ˈɔfər ˈsʌmˌbɑdi ə drɪŋk",
+    "spell": "to offer somebody a drink"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "отказываться",
+    "ipa": "tu rɪˈfjuz",
+    "spell": "to refuse"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "отвечать",
+    "ipa": "tu rɪˈspɑnd",
+    "spell": "to respond"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ждать",
+    "ipa": "tu weɪt",
+    "spell": "to wait"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "слишком мало шкафов",
+    "ipa": "tu fju ˈkʌbərdz",
+    "spell": "too few cupboards"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вдвое меньше",
+    "ipa": "twaɪs æz ˈlɪtəl",
+    "spell": "twice as little"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "очень мало места",
+    "ipa": "ˈvɛri ˈlɪtəl speɪs",
+    "spell": "very little space"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы делаем успехи",
+    "ipa": "wi ɑr ˈmeɪkɪŋ ˈprɑˌɡrɛs",
+    "spell": "we are making progress"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у нас много дождя",
+    "ipa": "wi ɡɛt ə lɑt ʌv reɪn",
+    "spell": "we get a lot of rain"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы закончили целый файл",
+    "ipa": "wi hæv ˈfɪnɪʃt ə hoʊl faɪl",
+    "spell": "we have finished a whole file"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы живём здесь с две тысячи одиннадцатого",
+    "ipa": "wi hæv lɪvd hir sɪns ˈtwɛnti ɪˈlɛvən",
+    "spell": "we have lived here since twenty eleven"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы должны подумать",
+    "ipa": "wi hæv tu θɪŋk",
+    "spell": "we have to think"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы говорим",
+    "ipa": "wi seɪ",
+    "spell": "we say"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мы пишем",
+    "ipa": "wi raɪt",
+    "spell": "we write"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "как называется этот континент?",
+    "ipa": "wɑt ɪz ðə neɪm ʌv ðɪs ˈkɑntənənt?",
+    "spell": "what is the name of this continent?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "где мы?",
+    "ipa": "wɛr ɑr wi?",
+    "spell": "where are we?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "где поставить галочку?",
+    "ipa": "wɛr du wi pʊt ə tʃɛkmɑrk?",
+    "spell": "where do we put a checkmark?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кто из Нью-Йорка?",
+    "ipa": "hu ɪz frʌm nu jɔrk?",
+    "spell": "who is from New York?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кто это говорит?",
+    "ipa": "hu sɛz ɪt?",
+    "spell": "who says it?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кто что говорит?",
+    "ipa": "hu sɛz wɑt?",
+    "spell": "who says what?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кто хочет кофе?",
+    "ipa": "hu wɑnts ˈkɑfi?",
+    "spell": "who wants coffee?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кто хочет печенье?",
+    "ipa": "hu wɑnts ˈkʊkiz?",
+    "spell": "who wants cookies?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кто хочет спать?",
+    "ipa": "hu wɑnts tu slip?",
+    "spell": "who wants to sleep?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты живёшь между горами",
+    "ipa": "ju lɪv bɪˈtwin ðə ˈmaʊntənz",
+    "spell": "you live between the mountains"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "тебе нужен английский",
+    "ipa": "ju nid ˈɪŋɡlɪʃ",
+    "spell": "you need English"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты отвечаешь",
+    "ipa": "ju rɪˈspɑnd",
+    "spell": "you respond"
+  }
 ]
