@@ -10,7 +10,8 @@ class Ang extends React.Component {
                 <section className="tom">
                     <ol>
                         <li><p><a href="/ab" rel="noopener noreferrer">ab</a></p></li>
-                        <li><p><a href="/dk" rel="noopener noreferrer">dk</a></p></li>
+                        <li><p><a href="/dk" rel="noopener noreferrer">dk (old)</a></p></li>
+                        <li><p><a href="/student/dk" rel="noopener noreferrer">dk (new)</a></p></li>
                         <li><p><a href="/gp" rel="noopener noreferrer">gp</a></p></li>
                         <li><p><a href="/ik" rel="noopener noreferrer">ik</a></p></li>
                         <li><p><a href="/ip" rel="noopener noreferrer">ip</a></p></li>
