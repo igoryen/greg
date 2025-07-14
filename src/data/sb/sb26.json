@@ -1,0 +1,435 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "number": 26,
+  "date": "2025-07-14",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гомосексуальная пара",
+      "ipa": "ə ɡeɪ ˈkʌpəl",
+      "spell": "a gay couple"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "человек, человеческое существо",
+      "ipa": "ə ˈhjumən ˈbiɪŋ",
+      "spell": "a human being"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пропаганда",
+      "ipa": "ə ˌprɑpəˈɡændə",
+      "spell": "a propaganda"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "взаимное действие",
+      "ipa": "ə rɪˈsɪprəkəl ˈækʃən",
+      "spell": "a reciprocal action"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "совсем один",
+      "ipa": "ɔl əˈloʊn",
+      "spell": "all alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повестка дня",
+      "ipa": "ən əˈʤɛndə",
+      "spell": "an agenda"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ночью",
+      "ipa": "æt naɪt",
+      "spell": "at night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты хорошо провёл время?",
+      "ipa": "dɪd ju ɛnˈʤɔɪ jərˈsɛlf?",
+      "spell": "did you enjoy yourself?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сделай сам или попроси кого-то другого",
+      "ipa": "du ɪt jərˈsɛlf ɔr hæv ˈsʌmˌbɑdi ɛls tu du ɪt",
+      "spell": "do it yourself or have somebody else to do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гендерно-нейтральный",
+      "ipa": "ˈʤɛndər-ˈnutrəl",
+      "spell": "gender-neutral"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он принёс заразу (инфекцию) из детского сада",
+      "ipa": "hi brɔt ə bʌɡ frʌm ðə ˈkɪndərˌɡɑrtən",
+      "spell": "he brought a bug from the kindergarten"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него был сильный насморк",
+      "ipa": "hi hæd ə ˈvɛri ˈrʌni noʊz",
+      "spell": "he had a very runny nose"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он сидит там совсем один",
+      "ipa": "hi ɪz ˈsɪtɪŋ ðɛr ɔl baɪ hɪmˈsɛlf",
+      "spell": "he is sitting there all by himself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он побрился",
+      "ipa": "hi ʃeɪvd",
+      "spell": "he shaved"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он беспокойно спал",
+      "ipa": "hi wʌz ˈrɛstləs ɪn hɪz slip",
+      "spell": "he was restless in his sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он ворочался",
+      "ipa": "hi wʌz ˈtɔsɪŋ ænd ˈtɜrnɪŋ",
+      "spell": "he was tossing and turning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он не спал крепко",
+      "ipa": "hi ˈwɑzənt ˈslipɪŋ ˈsaʊndli",
+      "spell": "he wasn’t sleeping soundly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "помоги человеку!",
+      "ipa": "hɛlp ðɛm!",
+      "spell": "help them! "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "угощайтесь печеньем",
+      "ipa": "hɛlp jʊrˈsɛlvz tu ðə ˈkʊkiz",
+      "spell": "help yourselves to the cookies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня была боль в грудной клетке",
+      "ipa": "aɪ hæd ʧɛst peɪn",
+      "spell": "I had chest pain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня никогда не было проблем",
+      "ipa": "aɪ hæv ˈnɛvər hæd ˈɛni ˈprɑbləmz",
+      "spell": "I have never had any problems"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надеюсь, никто меня не слышит",
+      "ipa": "aɪ hoʊp noʊ wʌn hirz mi",
+      "spell": "I hope no one hears me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пошла туда одна",
+      "ipa": "aɪ wɛnt ðɛr baɪ ˌmaɪˈsɛlf",
+      "spell": "I went there by myself "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если ребёнок плачет, утешьте его",
+      "ipa": "ɪf ə ʧaɪld kraɪz, ˈkʌmfərt ðɛm",
+      "spell": "if a child cries, comfort them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "инклюзивность",
+      "ipa": "ˌɪŋkluˈsɪvɪti",
+      "spell": "inclusivity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "правда ли то, что говорят...",
+      "ipa": "ɪz ɪt tru wɑt ðeɪ seɪ …",
+      "spell": "is it true what they say …"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "было приятно получить от тебя весточку",
+      "ipa": "ɪt wʌz ɡreɪt tu hir frʌm ju",
+      "spell": "it was great to hear from you "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дорога дальняя",
+      "ipa": "ɪts fɑr",
+      "spell": "it's far "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "температура высокая",
+      "ipa": "ɪts hɑt",
+      "spell": "it's hot "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "время позднее",
+      "ipa": "ɪts leɪt",
+      "spell": "it's late "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "человечество",
+      "ipa": "ˈmænˈkaɪnd",
+      "spell": "mankind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нельзя быть уверенным",
+      "ipa": "wʌn kænt bi ʃʊr",
+      "spell": "one can’t be sure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так не делают!",
+      "ipa": "wʌn ˈdʌzənt du ðæt!",
+      "spell": "one doesn’t do that!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "человек подумает",
+      "ipa": "wʌn meɪ θɪŋk",
+      "spell": "one may think "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "первая реакция человека - это ...",
+      "ipa": "wʌnz fɜrst riˈækʃən ɪz ...",
+      "spell": "one's first reaction is ... "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заплати за обучение",
+      "ipa": "peɪ jʊər tjuˈɪʃən",
+      "spell": "pay your tuition"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "люди, у которых кашель",
+      "ipa": "ˈpipəl wɪð ə kɑf",
+      "spell": "people with a cough"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оттолкни это от себя",
+      "ipa": "pʊʃ ɪt əˈweɪ frʌm ju",
+      "spell": "push it away from you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "положи это рядом с собой",
+      "ipa": "pʊt ɪt nɛkst tu ju",
+      "spell": "put it next to you "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она помылась",
+      "ipa": "ʃi wɑʃt",
+      "spell": "she washed "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "эмфатическое употребление возвратных местоимений",
+      "ipa": "ði ɛmˈfætɪk juz ʌv rəˈflɛksɪv ˈproʊnaʊnz",
+      "spell": "the emphatic use of reflexive pronouns"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тот, кто оставил свою сумку",
+      "ipa": "ðə ˈpɜrsən hu lɛft ðɛr bæɡ ...",
+      "spell": "the person who left their bag ... "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в последнее время было много штормов",
+      "ipa": "ðɛr hæv bɪn ə lɑt ʌv stɔrmz ˈrisəntli",
+      "spell": "there have been a lot of storms recently"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на той улице раньше был кинотеатр",
+      "ipa": "ðɛr juzd tu bi ə ˈmuvi ˈθiətər ɑn ðæt strit",
+      "spell": "there used to be a movie theater on that street"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всегда говорят, что",
+      "ipa": "ðeɪ ˈɔlˌweɪz seɪ ...",
+      "spell": "they always say ... "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так по-английски не делают ",
+      "ipa": "ðeɪ doʊnt du ɪt ɪn ˈɪŋɡlɪʃ",
+      "spell": "they don’t do it in English"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они похожи друг на друга",
+      "ipa": "ðeɪ lʊk laɪk iʧ ˈʌðər",
+      "spell": "they look like each other"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "говорят, мы негодяи, мошенники",
+      "ipa": "ðeɪ seɪ wi ɑr bæd ɛɡz",
+      "spell": "they say we are bad eggs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "говорят, мы никуда не годимся",
+      "ipa": "ðeɪ seɪ wi ɑr noʊ ɡʊd",
+      "spell": "they say we are no good"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нужно, чтобы это стало принудительным",
+      "ipa": "ðeɪ ʃʊd meɪk ɪt kəmˈpʌlsəri ...",
+      "spell": "they should make it compulsory ... "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обойтись без сахара",
+      "ipa": "tu du wɪˈθaʊt ˈʃʊɡər",
+      "spell": "to do without sugar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "явно сосредоточиться на чём-то",
+      "ipa": "tu ˈfoʊkəs oʊˈvɜrtli ɑn ˈsʌmθɪŋ",
+      "spell": "to focus overtly on something"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "говорить друг с другом",
+      "ipa": "tu tɔk tu iʧ ˈʌðər",
+      "spell": "to talk to each other"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "понять друг друга",
+      "ipa": "tu ˌʌndərˈstænd wʌn əˈnʌðər",
+      "spell": "to understand one another"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неопределённость",
+      "ipa": "ənˈsɜrtənti",
+      "spell": "uncertainty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы сделали это сами",
+      "ipa": "wi dɪd ɪt baɪ aʊərˈsɛlvz",
+      "spell": "we did it by ourselves"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы сделали это сами",
+      "ipa": "wi dɪd ɪt aʊərˈsɛlvz",
+      "spell": "we did it ourselves"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где полиция, когда она нужна?",
+      "ipa": "wɛrz ðə pəˈlis wɛn ju nid ðɛm?",
+      "spell": "where's the police when you need them?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можно сделать так",
+      "ipa": "ju kæn du ɪt ðɪs weɪ",
+      "spell": "you can do it this way"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нельзя быть уверенным",
+      "ipa": "ju kænt bi ʃʊr",
+      "spell": "you can’t be sure "
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так не делают! так нельзя!",
+      "ipa": "ju doʊnt du ðæt!",
+      "spell": "you don’t do that! "
+    }
+  ]
+}
