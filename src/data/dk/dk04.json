@@ -1,0 +1,421 @@
+{
+  "student": "Dima L.",
+  "slug": "dk",
+  "number": 4,
+  "date": "2025-07-13",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "-ание, -ение",
+      "ipa": "-ɪŋ",
+      "spell": "-ing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "-ащ-,-ящ-, -ущ-, -ющ-",
+      "ipa": "-ɪŋ",
+      "spell": "-ing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "столовая",
+      "ipa": "ə ˈdaɪnɪŋ rum",
+      "spell": "a dining room"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отдыхающий мальчик",
+      "ipa": "ə ˈrɛstɪŋ bɔɪ",
+      "spell": "a resting boy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кузнец",
+      "ipa": "ə smɪθ",
+      "spell": "a smith"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "курящий мальчик",
+      "ipa": "ə ˈsmoʊkɪŋ bɔɪ",
+      "spell": "a smoking boy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дымящая машина",
+      "ipa": "ə ˈsmoʊkɪŋ kɑr",
+      "spell": "a smoking car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вагон для курения",
+      "ipa": "ə ˈsmoʊkɪŋ kɑr",
+      "spell": "a smoking car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "говорящая голова",
+      "ipa": "ə ˈtɔkɪŋ hɛd",
+      "spell": "a talking head"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мальчик для битья",
+      "ipa": "ə ˈwɪpɪŋ bɔɪ",
+      "spell": "a whipping boy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "работающий мальчик",
+      "ipa": "ə ˈwɜrkɪŋ bɔɪ",
+      "spell": "a working boy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могли бы вы напомнить мне, что это?",
+      "ipa": "kʊd ju riˈmaɪnd mi wɑt ðæt ɪz?",
+      "spell": "could you remind me what that is?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могли бы вы напомнить мне ваше имя?",
+      "ipa": "kʊd ju riˈmaɪnd mi wɑt jʊər neɪm ɪz?",
+      "spell": "could you remind me what your name is?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могли бы вы сказать, когда отправляется следующий поезд?",
+      "ipa": "kʊd ju tɛl mi wɛn ðə nɛkst treɪn livz?",
+      "spell": "could you tell me when the next train leaves?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Дима работает",
+      "ipa": "ˈdimə wɜrks",
+      "spell": "Dima works"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Димы",
+      "ipa": "ˈdiməz",
+      "spell": "Dimas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "машина Димы",
+      "ipa": "ˈdiməz kɑr",
+      "spell": "Dima’s car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Дима в Канаде",
+      "ipa": "ˈdiməz ɪn ˈkænədə",
+      "spell": "Dima’s in Canada"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты знаешь, во сколько это заканчивается?",
+      "ipa": "du ju noʊ wɑt taɪm ɪt ˈfɪnɪʃɪz?",
+      "spell": "do you know what time it finishes?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты знаешь, во сколько заканчивается фильм?",
+      "ipa": "du ju noʊ wɑt taɪm ðə ˈmuvi ˈfɪnɪʃɪz?",
+      "spell": "do you know what time the movie finishes?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как давно ты знаешь своего лучшего друга?",
+      "ipa": "haʊ lɔŋ hæv ju noʊn jʊər bɛst frɛnd?",
+      "spell": "how long have you known your best friend?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько студентов пришло на вчерашнее занятие?",
+      "ipa": "haʊ ˈmɛni ˈstudənts keɪm tu klæs ˈjɛstərˌdeɪ?",
+      "spell": "how many students came to class yesterday?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не уверен",
+      "ipa": "aɪ æm nɑt ʃʊr",
+      "spell": "I am not sure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не уверен, нравится ли мне это",
+      "ipa": "aɪ æm nɑt ʃʊr ɪf aɪ laɪk ɪt",
+      "spell": "I am not sure if I like it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я борюсь",
+      "ipa": "aɪ æm ˈstrʌɡəlɪŋ",
+      "spell": "I am struggling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не могу вспомнить твоё имя",
+      "ipa": "aɪ kænt rɪˈmɛmbər wɑt jʊər neɪm ɪz",
+      "spell": "I can't remember what your name is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вижу дом",
+      "ipa": "aɪ si ə haʊs",
+      "spell": "I see a house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вижу кузнеца",
+      "ipa": "aɪ si ə smɪθ",
+      "spell": "I see a smith"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вижу дома",
+      "ipa": "aɪ si ˈhaʊzɪz",
+      "spell": "I see houses"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вижу кузнецов",
+      "ipa": "aɪ si smɪθs",
+      "spell": "I see smiths"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был в спортзале",
+      "ipa": "aɪ wʌz æt ðə ʤɪm",
+      "spell": "I was at the gym"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне интересно",
+      "ipa": "aɪ ˈwʌndər",
+      "spell": "I wonder"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне интересно, куда я это положил",
+      "ipa": "aɪ ˈwʌndər wɛr aɪ pʊt ɪt",
+      "spell": "I wonder where I put it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне интересно, где мои деньги",
+      "ipa": "aɪ ˈwʌndər wɛr maɪ ˈmʌni ɪz",
+      "spell": "I wonder where my money is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне интересно, где моё повышение",
+      "ipa": "aɪ ˈwʌndər wɛr maɪ reɪz ɪz",
+      "spell": "I wonder where my raise is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если я не ленюсь",
+      "ipa": "ɪf aɪ æm nɑt ˈleɪzi",
+      "spell": "if I am not lazy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если я приложу усилия",
+      "ipa": "ɪf aɪ əˈplaɪ ˌmaɪˈsɛlf",
+      "spell": "if I apply myself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это сложный язык",
+      "ipa": "ɪts ə stɪf ˈlæŋɡwəʤ",
+      "spell": "it's a stiff language"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стоит ли мне сказать ей о своих чувствах?",
+      "ipa": "ʃʊd aɪ tɛl hɜr haʊ aɪ fil?",
+      "spell": "should I tell her how I feel?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не я",
+      "ipa": "ðæt ɪz nɑt mi",
+      "spell": "that is not me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это значит",
+      "ipa": "ðæt minz",
+      "spell": "that means"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это звучит глупо",
+      "ipa": "ðæt saʊndz ˈsɪli",
+      "spell": "that sounds silly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не главное",
+      "ipa": "ðæts nɑt ðə pɔɪnt",
+      "spell": "that's not the point"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "порядок слов",
+      "ipa": "ðə wɜrd ˈɔrdər",
+      "spell": "the word order"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слушать музыку",
+      "ipa": "tu ˈlɪsən tu ˈmjuzɪk",
+      "spell": "to listen to music"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "упрощать",
+      "ipa": "tu ˈsɪmpləˌfaɪ",
+      "spell": "to simplify"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бороться",
+      "ipa": "tu ˈstrʌɡəl",
+      "spell": "to struggle"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хлестать",
+      "ipa": "tu wɪp",
+      "spell": "to whip"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "интересоваться",
+      "ipa": "tu ˈwʌndər",
+      "spell": "to wonder"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы отвлеклись",
+      "ipa": "wi ɡɑt ˈsaɪdˌtrækt",
+      "spell": "we got sidetracked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы отошли от темы",
+      "ipa": "wi wɛnt ɔf ɑn ə ˈtænʤənt",
+      "spell": "we went off on a tangent"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы отошли от темы",
+      "ipa": "wi wɛnt ɔf-ˈtɑpɪk",
+      "spell": "we went off-topic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "о чём ты думаешь?",
+      "ipa": "wɑt ɑr ju ˈθɪŋkɪŋ əˈbaʊt?",
+      "spell": "what are you thinking about?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "о чём они любят говорить?",
+      "ipa": "wɑt du ðeɪ laɪk ˈtɔkɪŋ əˈbaʊt?",
+      "spell": "what do they like talking about?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что ты любишь делать на выходных?",
+      "ipa": "wɑt du ju laɪk ˈduɪŋ ɑn ðə ˈwiˌkɛnd?",
+      "spell": "what do you like doing on the weekend?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какую музыку он любит слушать?",
+      "ipa": "wɑt kaɪnd ʌv ˈmjuzɪk dʌz hi laɪk ˈlɪsənɪŋ tu ?",
+      "spell": "what kind of music does he like listening to ?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какую музыку она любит слушать?",
+      "ipa": "wɑt kaɪnd ʌv ˈmjuzɪk dʌz ʃi laɪk ˈlɪsənɪŋ tu?",
+      "spell": "what kind of music does she like listening to?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с кем она любит разговаривать?",
+      "ipa": "hu dʌz ʃi laɪk ˈtɔkɪŋ tu?",
+      "spell": "who does she like talking to?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кто в вашей семье делает работу по дому?",
+      "ipa": "hu ɪn jʊər ˈfæməli dʌz ðə ˈhaʊˌswɜrk?",
+      "spell": "who in your family does the housework?"
+    }
+  ]
+}
