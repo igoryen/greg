@@ -1,0 +1,281 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 52,
+  "date": "2025-07-15",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "базова форма",
+      "ipa": "ə beɪs fɔrm",
+      "spell": "a base form"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "краб",
+      "ipa": "ə kræb",
+      "spell": "a crab"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пряме запитання",
+      "ipa": "ə dəˈrɛkt ˈkwɛsʧən",
+      "spell": "a direct question"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дослівний переклад - це не вільний переклад",
+      "ipa": "ə ˈlɪtərəl trænˈzleɪʃən ɪz nɑt ə fri trænˈzleɪʃən",
+      "spell": "a literal translation is not a free translation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "запитання з wh-",
+      "ipa": "ə ˈdʌbəlju eɪtʃ ˈkwɛsʧən",
+      "spell": "a wh- question"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "допоміжна силова установка (APU)",
+      "ipa": "ən ɑɡˈzɪljəri ˈpaʊər ˈjunət (eɪ-pi-ju)",
+      "spell": "an auxiliary power unit (APU)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "допоміжне дієслово",
+      "ipa": "ən ɑɡˈzɪljəri vɜrb",
+      "spell": "an auxiliary verb"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "океанічна затока",
+      "ipa": "ən ˈoʊʃən beɪ",
+      "spell": "an ocean bay"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми запізнюємось на заняття?",
+      "ipa": "ɑr wi leɪt fɔr klæs?",
+      "spell": "are we late for class?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чи подобається {твоїм дітям} суші?",
+      "ipa": "du {jʊər ˈʧɪldrən} laɪk ˈsuʃi ?",
+      "spell": "do {your children} like sushi ?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чи говорить {твій чоловік} іспанською?",
+      "ipa": "dʌz {jʊər ˈhʌzbənd} spik ˈspænɪʃ ?",
+      "spell": "does {your husband} speak Spanish ?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я слухаю тебе",
+      "ipa": "aɪ ˈlɪsən tu ju",
+      "spell": "I listen to you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я розмовляю з тобою",
+      "ipa": "aɪ tɔk wɪð ju",
+      "spell": "I talk with you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я думаю про тебе",
+      "ipa": "aɪ θɪŋk əˈbaʊt ju",
+      "spell": "I think about you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чекаю на тебе",
+      "ipa": "aɪ weɪt fɔr ju",
+      "spell": "I wait for you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це {твій телефон}?",
+      "ipa": "ɪz ðɪs {jʊər foʊn}?",
+      "spell": "is this {your phone}?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "{твій телефон} - це?",
+      "ipa": "ɪz {jʊər foʊn} ðɪs?",
+      "spell": "is {your phone} this?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це затока",
+      "ipa": "ɪt ɪz ə beɪ",
+      "spell": "it is a bay"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "багато водоростей",
+      "ipa": "mʌʧ ˈsiˌwid",
+      "spell": "much seaweed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "підмет і дієслово інвертовані",
+      "ipa": "ðə ˈsʌbʤɪkt ænd ðə vɜrb ɑr ɪnˈvɜrtɪd",
+      "spell": "the subject and the verb are inverted"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "відкрутити гайки коліс",
+      "ipa": "tu ɪnˈvɜrt ðə lʌɡ nʌts",
+      "spell": "to invert the lug nuts"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слухати музику",
+      "ipa": "tu ˈlɪsən tu ˈmjuzɪk",
+      "spell": "to listen to music"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поговорити з менеджером",
+      "ipa": "tu tɔk tu ðə ˈmænəʤər",
+      "spell": "to talk to the manager"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спілкуватися з партнером",
+      "ipa": "tu tɔk wɪð ə ˈpɑrtnər",
+      "spell": "to talk with a partner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми ходили на пляж",
+      "ipa": "wi wɛnt (dɪd ɡoʊ) tu ðə biʧ",
+      "spell": "we went (did go) to the beach"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "о котрій годині починається {фільм}?",
+      "ipa": "wɑt taɪm dʌz {ðə ˈmuvi} stɑrt?",
+      "spell": "what time does {the movie} start?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "о котрій годині {твоя дружина} закінчує роботу?",
+      "ipa": "wɑt taɪm dʌz {jʊər waɪf} ˈfɪnɪʃ wɜrk?",
+      "spell": "what time does {your wife} finish  work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де працюють {вони}?",
+      "ipa": "wɛr du {ðeɪ} wɜrk?",
+      "spell": "where do {they} work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де працюють {хто? що?}?",
+      "ipa": "wɛr du {hu? wɑt?} wɜrk?",
+      "spell": "where do {who? what?} work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де працюють {твої брати}?",
+      "ipa": "wɛr du {jʊər ˈbrʌðərz} wɜrk?",
+      "spell": "where do {your brothers} work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з ким ти?",
+      "ipa": "hu ɑr ju wɪð ?",
+      "spell": "who are you with ?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кого ти слухаєш?",
+      "ipa": "hu du ju ˈlɪsən tu?",
+      "spell": "who do you listen to?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з ким ти живеш?",
+      "ipa": "hu du ju lɪv wɪð?",
+      "spell": "who do you live with?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з ким ти граєш у теніс?",
+      "ipa": "hu du ju pleɪ ˈtɛnəs wɪð?",
+      "spell": "who do you play tennis with?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з ким ти розмовляєш?",
+      "ipa": "hu du ju tɔk tu?",
+      "spell": "who do you talk to?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "про кого ти думаєш?",
+      "ipa": "hu du ju θɪŋk əˈbaʊt?",
+      "spell": "who do you think about?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кого ти чекаєш?",
+      "ipa": "hu du ju weɪt fɔr?",
+      "spell": "who do you wait for?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з ким вона живе?",
+      "ipa": "hu dʌz ʃi lɪv wɪð ?",
+      "spell": "who does she live with ?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чому ти втомлений?",
+      "ipa": "waɪ ɑr ju ˈtaɪərd?",
+      "spell": "why are you tired?"
+    }
+  ]
+}
