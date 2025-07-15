@@ -1,0 +1,386 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 71,
+  "date": "2025-07-15",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шимпанзе",
+      "ipa": "ə ʧɪmp",
+      "spell": "a chimp"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одноклассник",
+      "ipa": "ə ˈklæˌsmeɪt",
+      "spell": "a classmate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "направление",
+      "ipa": "ə dəˈrɛkʃən",
+      "spell": "a direction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кран",
+      "ipa": "ə ˈfɔsət",
+      "spell": "a faucet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цветочный горшок на столбе",
+      "ipa": "ə ˈflaʊər pɑt ɑn ə poʊl",
+      "spell": "a flower pot on a pole"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "газовый обогреватель",
+      "ipa": "ə ɡæs ˈhitər",
+      "spell": "a gas heater"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зелёная машина",
+      "ipa": "ə ɡrin kɑr",
+      "spell": "a green car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "машина",
+      "ipa": "ə məˈʃin",
+      "spell": "a machine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "напарник",
+      "ipa": "ə meɪt",
+      "spell": "a mate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "учёный",
+      "ipa": "ə ˈsaɪəntɪst",
+      "spell": "a scientist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подметально-уборочная машина",
+      "ipa": "ə strit ˈklinər / ˈswipər / ˈwɑʃər",
+      "spell": "a street cleaner / sweeper / washer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "антрополог",
+      "ipa": "ən ˌænθrəˈpɑləʤəst",
+      "spell": "an anthropologist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "автономная система отопления",
+      "ipa": "ən ɔˈtɑnəməs ˈhitɪŋ ˈsɪstəm",
+      "spell": "an autonomous heating system"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "электромобиль",
+      "ipa": "ən ɪˈlɛktrɪk kɑr",
+      "spell": "an electric car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "айсберг",
+      "ipa": "ən ˈaɪsbərɡ",
+      "spell": "an iceberg"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "воздействие",
+      "ipa": "ən ˈɪmpækt",
+      "spell": "an impact"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подходящий для детей",
+      "ipa": "ʧaɪld-ˈfrɛndli",
+      "spell": "child-friendly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "экологичный",
+      "ipa": "ˈikoʊ-ˈfrɛndli",
+      "spell": "eco-friendly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "экологически чистый",
+      "ipa": "ɪnˌvaɪrənˈmɛntəli ˈfrɛndli",
+      "spell": "environmentally friendly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жадный",
+      "ipa": "ˈɡridi",
+      "spell": "greedy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "висячие цветы",
+      "ipa": "ˈhæŋɪŋ ˈflaʊərz",
+      "spell": "hanging flowers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я приняла это близко к сердцу",
+      "ipa": "aɪ tʊk ɪt tu hɑrt",
+      "spell": "I took it to heart"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не сдамся",
+      "ipa": "aɪ wɪl nɑt ɡɪv ʌp",
+      "spell": "I will not give up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него есть встроенный таймер",
+      "ipa": "ɪt hæz ə bɪlt-ɪn ˈtaɪmər",
+      "spell": "it has a built-in timer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "озонобезопасный",
+      "ipa": "ˈoʊˌzoʊn-ˈfrɛndli",
+      "spell": "ozone-friendly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "священный",
+      "ipa": "ˈseɪkrɪd",
+      "spell": "sacred"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "семь отметок на устройстве",
+      "ipa": "ˈsɛvən mɑrks ɑn ðə dɪˈvaɪs",
+      "spell": "seven marks on the device"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "семь зарубок на устройстве",
+      "ipa": "ˈsɛvən ˈnɑʧəz ɑn ðə dɪˈvaɪs",
+      "spell": "seven notches on the device"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "семьдесят два квадратных метра",
+      "ipa": "ˈsɛvənti tu skwɛr ˈmitərz",
+      "spell": "seventy two square meters"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "десять лет спустя",
+      "ipa": "tɛn jɪrz ˈleɪtər",
+      "spell": "ten years later"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цена выросла",
+      "ipa": "ðə praɪs wɛnt ʌp",
+      "spell": "the price went up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "погода изменится",
+      "ipa": "ðə ˈwɛðər wɪl ʧeɪnʤ",
+      "spell": "the weather will change"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они всегда это предоставляют",
+      "ipa": "ðeɪ ˈɔlˌweɪz prəˈvaɪd ɪt",
+      "spell": "they always provide it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они нам объяснили",
+      "ipa": "ðeɪ ɪkˈspleɪnd tu ʌs",
+      "spell": "they explained to us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они висят на столбах",
+      "ipa": "ðeɪ hæŋ ɑn poʊlz",
+      "spell": "they hang on poles"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они ошиблись на десятилетие",
+      "ipa": "ðeɪ wɜr ɔf baɪ ə dɛˈkeɪd",
+      "spell": "they were off by a decade"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в три раза меньше",
+      "ipa": "θri taɪmz lɛs",
+      "spell": "three times less"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поддержать",
+      "ipa": "tu bæk ʌp",
+      "spell": "to back up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ехать задним ходом",
+      "ipa": "tu ɡoʊ ɪn rɪˈvɜrs",
+      "spell": "to go in reverse"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оказывать влияние",
+      "ipa": "tu hæv ən ˈɪmpækt",
+      "spell": "to have an impact"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смотреть в окно",
+      "ipa": "tu lʊk aʊt ðə ˈwɪndoʊ",
+      "spell": "to look out the window"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "убаюкивать",
+      "ipa": "tu lʌl ju tu slip",
+      "spell": "to lull you to sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приносить жертву",
+      "ipa": "tu meɪk ə ˈsækrəˌfaɪs",
+      "spell": "to make a sacrifice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "задать кому-то вопрос",
+      "ipa": "tu pʊt ə ˈkwɛsʧən tu ˈsʌmˌbɑdi",
+      "spell": "to put a question to somebody"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поехать в объезд",
+      "ipa": "tu teɪk ə dɪˈtʊr",
+      "spell": "to take a detour"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "брать среднее",
+      "ipa": "tu teɪk ði ˈævərɪʤ",
+      "spell": "to take the average"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закрыть кран",
+      "ipa": "tu tɜrn ðə ˈfɔsət ɔf",
+      "spell": "to turn the faucet off"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "добавить тепла",
+      "ipa": "tu tɜrn ʌp ðə hit",
+      "spell": "to turn up the heat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поливать дерево",
+      "ipa": "tu ˈwɔtər ə tri",
+      "spell": "to water a tree"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "удобный для пользователя",
+      "ipa": "ˈjuzər-ˈfrɛndli",
+      "spell": "user-friendly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поживём - увидим",
+      "ipa": "weɪt ænd si",
+      "spell": "wait and see"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы устанавливали его на два",
+      "ipa": "wi wʊd sɛt ɪt tu tu",
+      "spell": "we would set it to two"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я была маленькой",
+      "ipa": "wɛn aɪ wʌz ˈlɪtəl",
+      "spell": "when I was little"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда СССР только распался",
+      "ipa": "wɛn ðə ju-ɛs-ɛs-ɑr hæd ʤʌst ˈfɑlən əˈpɑrt",
+      "spell": "when the USSR had just fallen apart"
+    }
+  ]
+}
