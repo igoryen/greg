@@ -1,0 +1,736 @@
+{
+  "student": "Svetlana S.",
+  "slug": "ss",
+  "number": 47,
+  "date": "2025-07-14",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "друг детства",
+      "ipa": "ə ˈʧaɪldˌhʊd frɛnd",
+      "spell": "a childhood friend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "задолженность по кредитной карте",
+      "ipa": "ə ˈkrɛdət kɑrd dɛt",
+      "spell": "a credit card debt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "долг",
+      "ipa": "ə dɛt",
+      "spell": "a debt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вентилятор",
+      "ipa": "ə fæn",
+      "spell": "a fan"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "непоседа",
+      "ipa": "ə ˈfɪʤɪt",
+      "spell": "a fidget"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прадед",
+      "ipa": "ə ɡreɪt-ˈɡrændˌfɑðər",
+      "spell": "a great-grandfather"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "немного понятнее, чем твой",
+      "ipa": "ə ˈlɪtəl ˈklɪrər ðæn jʊrz",
+      "spell": "a little clearer than yours"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стабильная работа",
+      "ipa": "ə ˈsteɪbəl ʤɑb",
+      "spell": "a stable job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "паровой утюг",
+      "ipa": "ə stim ˈaɪərn",
+      "spell": "a steam iron"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё это",
+      "ipa": "ɔl ʌv ɪt",
+      "spell": "all of it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё то",
+      "ipa": "ɔl ʌv ðæt",
+      "spell": "all of that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "все мы",
+      "ipa": "ɔl ʌv ʌs",
+      "spell": "all of us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "все вы",
+      "ipa": "ɔl ʌv ju",
+      "spell": "all of you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё то",
+      "ipa": "ɔl ðæt",
+      "spell": "all that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "примерно, приблизительно",
+      "ipa": "əˈprɑksəmətli",
+      "spell": "approximately"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "но не совсем понятно",
+      "ipa": "bʌt nɑt kwaɪt klɪr",
+      "spell": "but not quite clear"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прохладный воздух",
+      "ipa": "kul ɛr",
+      "spell": "cool air"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя есть долги?",
+      "ipa": "du ju hæv dɛts?",
+      "spell": "do you have debts?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "разве они не хотят жить отдельно?",
+      "ipa": "doʊnt ðeɪ wɑnt tu lɪv ˈsɛpərətli?",
+      "spell": "don't they want to live separately?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "разве они не хотят своего жилья?",
+      "ipa": "doʊnt ðeɪ wɑnt ðɛr oʊn pleɪs?",
+      "spell": "don’t they want their own place?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хоть раз",
+      "ipa": "ˈivɪn wʌns",
+      "spell": "even once"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё возвращается к норме",
+      "ipa": "ˈɛvriˌθɪŋ ɡoʊz bæk tu ˈnɔrməl",
+      "spell": "everything goes back to normal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дорогое жильё",
+      "ipa": "ɪkˈspɛnsɪv ˈhaʊzɪŋ",
+      "spell": "expensive housing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в конце концов они сдались",
+      "ipa": "ˈfaɪnəli, ðeɪ ɡeɪv ʌp",
+      "spell": "finally, they gave up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Греция",
+      "ipa": "ɡris",
+      "spell": "Greece"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они когда-нибудь приезжали к тебе в гости?",
+      "ipa": "hæv ðeɪ ˈɛvər kʌm tu ˈvɪzət ju?",
+      "spell": "have they ever come to visit you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты был в Греции?",
+      "ipa": "hæv ju bɪn tu ɡris?",
+      "spell": "have you been to Greece?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты когда-нибудь каталась на лошади?",
+      "ipa": "hæv ju ˈɛvər ˈrɪdən ə hɔrs?",
+      "spell": "have you ever ridden a horse?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он сказал мне",
+      "ipa": "hi toʊld mi",
+      "spell": "he told me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в скольких странах ты был?",
+      "ipa": "haʊ ˈmɛni ˈkʌntriz hæv ju bɪn tu?",
+      "spell": "how many countries have you been to?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько стран ты посетил?",
+      "ipa": "haʊ ˈmɛni ˈkʌntriz hæv ju ˈvɪzɪtɪd?",
+      "spell": "how many countries have you visited?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я непоседливый",
+      "ipa": "aɪ æm ˈfɪdʒɪti",
+      "spell": "I am fidgety"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я жду свои документы",
+      "ipa": "aɪ æm ˈweɪtɪŋ fɔr maɪ ˈpeɪpərˌwɜrk",
+      "spell": "I am waiting for my paperwork"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не могу уехать из страны",
+      "ipa": "aɪ kænt liv ðə ˈkʌntri",
+      "spell": "I can't leave the country"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не могу усидеть на месте",
+      "ipa": "aɪ kænt sɪt stɪl",
+      "spell": "I can't sit still"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня ещё нет документов",
+      "ipa": "aɪ doʊnt hæv ðə ˈpeɪpərˌwɜrk jɛt",
+      "spell": "I don't have the paperwork yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ожидала чего-то более интересного",
+      "ipa": "aɪ ɪkˈspɛktɪd ˈsʌmθɪŋ mɔr ˈɪntrəstɪŋ",
+      "spell": "I expected something more interesting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я поняла основную идею",
+      "ipa": "aɪ ɡɑt ðə ˈʤɛnərəl aɪˈdiə",
+      "spell": "I got the general idea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я словно скипидаром намазанный ",
+      "ipa": "aɪ hæv ænts ɪn ðə pænts",
+      "spell": "I have ants in the pants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не была там ни разу",
+      "ipa": "aɪ hæv nɑt bɪn ðɛr ˈivɪn wʌns",
+      "spell": "I have not been there even once"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я погасила свои долги",
+      "ipa": "aɪ hæv peɪd (ɔf) maɪ dɛts",
+      "spell": "I have paid (off) my debts"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я многое переосмыслила",
+      "ipa": "aɪ hæv riˈθɔt ə lɑt ʌv θɪŋz",
+      "spell": "I have rethought a lot of things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня страсть к путешествиям, жажда странствий",
+      "ipa": "aɪ hæv ˈwɑndərˌlʌst",
+      "spell": "I have wanderlust"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я надеюсь, война скоро закончится",
+      "ipa": "aɪ hoʊp ðə wɔr ɛndz sun",
+      "spell": "I hope the war ends soon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я очень скучаю по маме",
+      "ipa": "aɪ mɪs maɪ ˈmʌðər ˈvɛri mʌʧ",
+      "spell": "I miss my mother very much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я скучаю по морю",
+      "ipa": "aɪ mɪs ðə si",
+      "spell": "I miss the sea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я каталась на лошади",
+      "ipa": "aɪ roʊd ə hɔrs",
+      "spell": "I rode a horse"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я стараюсь жить без долгов",
+      "ipa": "aɪ traɪ tu lɪv dɛt-fri",
+      "spell": "I try to live debt-free"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу путешествовать",
+      "ipa": "aɪ wɑnt tu ˈtrævəl",
+      "spell": "I want to travel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я удивилась",
+      "ipa": "aɪ wʌz sərˈpraɪzd",
+      "spell": "I was surprised"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделаю это сама",
+      "ipa": "aɪ wɪl du ɪt baɪ ˌmaɪˈsɛlf",
+      "spell": "I will do it by myself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если бы мне не пришлось ждать документы, я бы поехала в родной город",
+      "ipa": "ɪf aɪ ˈdɪdənt hæv tu weɪt fɔr maɪ ˈpeɪpərˌwɜrk aɪ wʊd ɡoʊ ˈvɪzət maɪ hoʊm taʊn",
+      "spell": "if I didn't have to wait for my paperwork I would go visit my home town"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в старости",
+      "ipa": "ɪn oʊld eɪʤ",
+      "spell": "in old age"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в 1980-х",
+      "ipa": "ɪn ðə ˈnaɪnˈtin ˈeɪtiz",
+      "spell": "in the nineteen eighties"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он охлаждает воздух",
+      "ipa": "ɪt kulz ði ɛr",
+      "spell": "it cools the air"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это стоило 140",
+      "ipa": "ɪt kɑst ə ˈhʌndrɪd ænd ˈforti",
+      "spell": "it cost a hundred and forty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он не гладит одежду",
+      "ipa": "ɪt ˈdʌzənt ˈaɪərn ðə kloʊðz",
+      "spell": "it doesn't iron the clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дождь идёт весь день",
+      "ipa": "ɪt hæz bɪn ˈreɪnɪŋ ɔl deɪ",
+      "spell": "it has been raining all day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ему давно пора завести детей",
+      "ipa": "ɪt ɪz haɪ taɪm fɔr hɪm tu hæv ˈʧɪldrən",
+      "spell": "it is high time for him to have children"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он делает воздух прохладным",
+      "ipa": "ɪt meɪks ði ɛr kul",
+      "spell": "it makes the air cool"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "было очень холодно",
+      "ipa": "ɪt wʌz ˈfrizɪŋ",
+      "spell": "it was freezing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это тяжело",
+      "ipa": "ɪts tʌf",
+      "spell": "it's tough"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уже пора ему завести детей",
+      "ipa": "ɪts əˈbaʊt taɪm hi hæd kɪdz",
+      "spell": "it’s about time he had kids"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давайте остановимся",
+      "ipa": "lɛts stɑp",
+      "spell": "let's stop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "похоть",
+      "ipa": "lʌst",
+      "spell": "lust"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "похотливый",
+      "ipa": "ˈlʌstfəl",
+      "spell": "lustful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя мама давно одна",
+      "ipa": "maɪ ˈmʌðər hæz bɪn əˈloʊn fɔr ə lɔŋ taɪm",
+      "spell": "my mother has been alone for a long time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой другой руководитель сказал мне",
+      "ipa": "maɪ ˈʌðər ˈsupərˌvaɪzər toʊld mi",
+      "spell": "my other superviser told me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "девушка моего сына",
+      "ipa": "maɪ sʌnz ˈɡɜrlˌfrɛnd",
+      "spell": "my son's girlfriend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "новые вещи",
+      "ipa": "nu stʌf",
+      "spell": "new stuff"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нет стабильного дохода",
+      "ipa": "noʊ ˈsteɪbəl ˈɪnˌkʌm",
+      "spell": "no stable income"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ни разу",
+      "ipa": "nɑt ˈivɪn wʌns",
+      "spell": "not even once"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не совсем",
+      "ipa": "nɑt kwaɪt",
+      "spell": "not quite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одного раза хватило",
+      "ipa": "wʌn taɪm wʌz ɪˈnʌf",
+      "spell": "one time was enough"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она давно одна",
+      "ipa": "ʃi hæz bɪn əˈloʊn",
+      "spell": "she has been alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она просто стоит и смотрит",
+      "ipa": "ʃi ʤʌst stændz ðɛr ˈlʊkɪŋ",
+      "spell": "she just stands there looking"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она не останавливалась",
+      "ipa": "ʃi kɛpt ˈɡoʊɪŋ",
+      "spell": "she kept going"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ей нравится кататься на лошадях",
+      "ipa": "ʃi laɪks hɔrs ˈraɪdɪŋ",
+      "spell": "she likes horse riding"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она мне не поможет",
+      "ipa": "ʃi woʊnt hɛlp mi",
+      "spell": "she won't help me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это отстой",
+      "ipa": "ðæt sʌks",
+      "spell": "that sucks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вентилятор не крутится",
+      "ipa": "ðə fæn ˈdʌzənt spɪn",
+      "spell": "the fan doesn't spin"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будущее неясно",
+      "ipa": "ðə ˈfjuʧər ɪz ənˈklɪr",
+      "spell": "the future is unclear"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "машина ошиблась",
+      "ipa": "ðə məˈʃin meɪd ə mɪsˈteɪk",
+      "spell": "the machine made a mistake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в Калгари нет моря",
+      "ipa": "ðɛr ɪz noʊ si ɪn ˈkælɡəri",
+      "spell": "there is no sea in Calgary"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подъезжать к городу",
+      "ipa": "tu əˈproʊʧ ðə ˈsɪti",
+      "spell": "to approach the city"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "объехать весь мир",
+      "ipa": "tu ɡoʊ əˈraʊnd ðə wɜrld",
+      "spell": "to go around the world"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жить сегодняшним днём",
+      "ipa": "tu lɪv wʌn deɪ æt ə taɪm",
+      "spell": "to live one day at a time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "погасить долг",
+      "ipa": "tu peɪ ɔf ə dɛt",
+      "spell": "to pay off a debt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "переосмыслить",
+      "ipa": "tu riˈθɪŋk",
+      "spell": "to rethink"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увидеть родео",
+      "ipa": "tu si ðə stæmˈpid",
+      "spell": "to see the Stampede"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бродить, странствовать",
+      "ipa": "tu ˈwɑndər",
+      "spell": "to wander"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы не давим на них, чтобы заводили детей",
+      "ipa": "wi doʊnt ˈprɛʃər ðɛm ˈɪntu ˈhævɪŋ ˈʧɪldrən",
+      "spell": "we don't pressure them into having children"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы начинаем экономить",
+      "ipa": "wi stɑrt tu kʌt bæk",
+      "spell": "we start to cut back"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы начинаем экономить",
+      "ipa": "wi stɑrt tu seɪv ɑn θɪŋz",
+      "spell": "we start to save on things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы пошли в другой магазин",
+      "ipa": "wi wɛnt tu əˈnʌðər stɔr",
+      "spell": "we went to another store"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ночью нам было холодно",
+      "ipa": "wi wɜr koʊld æt naɪt",
+      "spell": "we were cold at night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ночью мы замерзали",
+      "ipa": "wi wɜr ˈfrizɪŋ æt naɪt",
+      "spell": "we were freezing at night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы справимся",
+      "ipa": "wil pʊl θru",
+      "spell": "we'll pull through"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда ты был молодым",
+      "ipa": "wɛn ju wɜr jʌŋ",
+      "spell": "when you were young"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почему ты не хочешь купить квартиру?",
+      "ipa": "waɪ doʊnt ju wɑnt tu baɪ ən əˈpɑrtmənt?",
+      "spell": "why don't you want to buy an apartment?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты не хочешь мне помочь",
+      "ipa": "ju doʊnt wɑnt tu hɛlp mi",
+      "spell": "you don't want to help me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты давно здесь живёшь",
+      "ipa": "ju hæv lɪvd hir lɔŋ",
+      "spell": "you have lived here long"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тебе надо съездить на Кубу",
+      "ipa": "ju hæv tu ɡoʊ tu ˈkjubə",
+      "spell": "you have to go to Cuba"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твоё будущее ясно",
+      "ipa": "jʊər ˈfjuʧər ɪz klɪr",
+      "spell": "your future is clear"
+    }
+  ]
+}
