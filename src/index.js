@@ -233,6 +233,9 @@ import SB23 from "./pages/sb/SB23";
 import SB24 from "./pages/sb/SB24";
 import SB25 from "./pages/sb/SB25";
 
+import Sidju from "./pages/Sidju";
+
+
 import SS from "./pages/ss/SS";
 import SS00 from "./pages/ss/SS00";
 import SS01 from "./pages/ss/SS01";
@@ -508,6 +511,8 @@ export default function App() {
           <Route path="sb23" element={<SB23 />} />
           <Route path="sb24" element={<SB24 />} />
           <Route path="sb25" element={<SB25 />} />
+
+          <Route path="sidju" element={<Sidju />} />
 
           <Route path="ss" element={<SS />} />
           <Route path="ss00" element={<SS00 />} />

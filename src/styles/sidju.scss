@@ -1,0 +1,22 @@
+.sidju {
+    font-family: "Noto Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex-wrap: wrap;
+
+    .pippy {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        button {
+            padding: 5px;
+            min-width: 5em;
+        }
+
+        .ribbet {
+            margin-left: 3px;
+        }
+    }
+}
