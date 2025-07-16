@@ -1,0 +1,88 @@
+.zunsna {
+    border: 1px solid red;
+    font-family: "Noto Sans", sans-serif;
+
+
+    .frisco {
+        border: 1px solid blue;
+        margin: 3px;
+
+    }
+
+    .jorge {
+        border: 1px solid green;
+        margin: 3px;
+    }
+
+    .gonzalo {
+        border: 1px solid red;
+        margin: 3px;
+    }
+
+    .chapelle {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 3px;
+
+        div {
+            // border: 1px solid blue;
+            margin-right: 3px;
+            letter-spacing: 1px;
+        }
+    }
+
+    .voiced {
+        font-style: normal;
+
+        &.non {
+            color: brown;
+            font-weight: 900;
+        }
+
+        &.yes {
+            color: rgb(213, 50, 178);
+            font-weight: 900;
+        }
+
+    }
+
+    .phoneme {
+        color: blue;
+        font-style: normal;
+        font-weight: 900;
+    }
+
+    .asa {
+        background-color: brown;
+        color: white;
+        font-style: normal;
+        font-weight: 900;
+        padding: 0 2px;
+    }
+
+    .aza {
+        background-color: red;
+        color: white;
+        font-style: normal;
+        font-weight: 900;
+        padding: 0 2px;
+    }
+
+
+    .inset {
+        background-color: #6a8df3;
+        color: white;
+        font-style: normal;
+        font-weight: 900;
+        padding: 0 2px;
+
+    }
+
+    .spell_ {
+        color: brown;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: small;
+        letter-spacing: normal !important;
+    }
+
+}

@@ -152,6 +152,8 @@ import IS01 from "./pages/is/IS01";
 
 import Jaw from "./pages/Jaw";
 
+import Jimte from "./pages/Jimte";
+
 import Kooi from "./pages/grm/Kooi";
 
 import Leo from "./pages/Leo";
@@ -275,6 +277,8 @@ import YK01 from "./pages/yk/YK01";
 import YK03 from "./pages/yk/YK03";
 import YK05 from "./pages/yk/YK05";
 import YK06 from "./pages/yk/YK06";
+
+import Zunsna from "./pages/son/Zunsna";
 
 import Voksa from "./pages/Voksa";
 import Uenba from "./pages/Uenba";
@@ -433,6 +437,8 @@ export default function App() {
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />
 
+          <Route path="jimte" element={<Jimte />} />
+
           <Route path="kooi" element={<Kooi />} />
 
           <Route path="mg" element={<MG />} />
@@ -558,6 +564,8 @@ export default function App() {
 
           {/* page to drill pronunciation of sounds */}
           <Route path="uenba" element={<Uenba />} />
+
+          <Route path="zunsna" element={<Zunsna />} />
 
           <Route path="tim" element={<Tim />} />
           <Route path="dan" element={<Dan />} />
