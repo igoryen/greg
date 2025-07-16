@@ -83,13 +83,21 @@
             &.verb {
                 &.be {
                     align-items: center;
-                    background-color: purple;
+                    // background-color: purple;                    
                     // border-color: crimson;
                     color: white;
                     flex-direction: column;
                     min-width: 2em;
                     font-weight: 600;
 
+                    //---------
+                    background-color: rgb(255, 223, 96);
+                    border: 3px solid brown;
+                    color: brown;
+
+                    .emoji {
+                        font-size: 37px;
+                    }
                 }
             }
 
@@ -118,6 +126,7 @@
         }
 
         .baseForm {
+            display: none;
             // border-top: 1px dashed white;
             color: rgba($color: white, $alpha: 0.7);
             // color: white;

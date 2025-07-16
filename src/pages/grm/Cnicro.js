@@ -19,6 +19,7 @@ const Cnicro = (props) => {
                     <div className="snc positive">
                         <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
                         <div className="word verb _1ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `æm` : `am`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -28,6 +29,7 @@ const Cnicro = (props) => {
                     <div className="snc positive">
                         <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
                         <div className="word verb _1ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `m` : `'m`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -38,6 +40,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
                         <div className="word verb _1ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `æm` : `am`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -48,6 +51,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _1ps">{showIPA ? `aɪ` : `I`}</div>
                         <div className="word verb _1ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `m` : `m`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -58,6 +62,7 @@ const Cnicro = (props) => {
 
                     <div className="snc question">
                         <div className="word verb _1ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `æm` : `am`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -74,6 +79,7 @@ const Cnicro = (props) => {
                     <div className="snc positive">
                         <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
                         <div className="word verb _3ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -83,6 +89,7 @@ const Cnicro = (props) => {
                     <div className="snc positive">
                         <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
                         <div className="word verb _3ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `z` : ``}</div>
                             <div className="avatar">{showIPA ? `s` : `'s`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
@@ -93,6 +100,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
                         <div className="word verb _3ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -103,6 +111,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
                         <div className="word verb _3ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `z` : ``}</div>
                             <div className="avatar">{showIPA ? `s` : `'s`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
@@ -114,6 +123,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _3ps">{showIPA ? `hi ʃi ɪt` : `he she it`}</div>
                         <div className="word verb _3ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -123,6 +133,7 @@ const Cnicro = (props) => {
 
                     <div className="snc question">
                         <div className="word verb _3ps be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɪz` : `is`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -138,6 +149,7 @@ const Cnicro = (props) => {
                     <div className="snc positive">
                         <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
                         <div className="word verb _pl be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -147,6 +159,7 @@ const Cnicro = (props) => {
                     <div className="snc positive">
                         <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
                         <div className="word verb _pl be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `r` : `'re`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -156,6 +169,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
                         <div className="word verb _pl be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -166,6 +180,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
                         <div className="word verb _pl be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `r` : `'re`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -176,6 +191,7 @@ const Cnicro = (props) => {
                     <div className="snc negative">
                         <div className="word pron _pl">{showIPA ? `wi ju ðeɪ` : `we you they`}</div>
                         <div className="word verb _pl be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
@@ -185,6 +201,7 @@ const Cnicro = (props) => {
 
                     <div className="snc question">
                         <div className="word verb _pl be">
+                            <div className="emoji">🐝</div>
                             <div className="avatar">{showIPA ? `ɑr` : `are`}</div>
                             <div className="baseForm">{showIPA ? `bi` : `BE`}</div>
                         </div>
