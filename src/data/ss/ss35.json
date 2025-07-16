@@ -1,1164 +1,1164 @@
 [
- {
-   "cefr": "",
-   "def2": "A cum B comparāre",
-   "def1": "сравнивать А с Б",
-   "ipa": "tu kəmˈpɛr ə tu bi",
-   "spell": "to compare A to B"
- },
- {
-   "cefr": "",
-   "def2": "ad novam positōnem petere",
-   "def1": "подать заявку на новую должность",
-   "ipa": "tu əˈplaɪ fɔr ə nu pəˈzɪʃən",
-   "spell": "to apply for a new position"
- },
- {
-   "cefr": "",
-   "def2": "adhūc memorāre nōn possum",
-   "def1": "я всё ещё не могу их запомнить",
-   "ipa": "aɪ stɪl kænt ˈmɛməˌraɪz ðɛm",
-   "spell": "I still can't memorize them"
- },
- {
-   "cefr": "",
-   "def2": "adhūc nūllum responsum est",
-   "def1": "ответа всё ещё нет",
-   "ipa": "ðɛr ɪz stɪl noʊ ˈænsər",
-   "spell": "there is still no answer"
- },
- {
-   "cefr": "",
-   "def2": "adsūēvit exspectāre",
-   "def1": "он привык ждать",
-   "ipa": "hi ɪz juzd tu ˈweɪtɪŋ",
-   "spell": "he is used to waiting"
- },
- {
-   "cefr": "",
-   "def2": "aegrōtāre",
-   "def1": "чувствовать себя нехорошо",
-   "ipa": "tu fil ˈʌndər ðə ˈwɛðər",
-   "spell": "to feel under the weather"
- },
- {
-   "cefr": "",
-   "def2": "aetāte sumus ubi omnia celeriter facere dēbēmus",
-   "def1": "мы в том возрасте, когда нужно всё делать быстро",
-   "ipa": "wi ɑr æt ði eɪʤ wɛn wi hæv tu du ˈɛvriˌθɪŋ ˈkwɪkli",
-   "spell": "we are at the age when we have to do everything quickly"
- },
- {
-   "cefr": "",
-   "def2": "aliquid breve",
-   "def1": "что-то краткосрочное",
-   "ipa": "ˈsʌmθɪŋ ˈʃɔrtˌtɜrm",
-   "spell": "something short-term"
- },
- {
-   "cefr": "",
-   "def2": "aliquid perficī",
-   "def1": "сделать что-то",
-   "ipa": "tu hæv ˈsʌmθɪŋ dʌn",
-   "spell": "to have something done"
- },
- {
-   "cefr": "",
-   "def2": "aliud mūnus mihi offerret",
-   "def1": "она предложила бы мне другую должность",
-   "ipa": "ʃi wʊd ˈɔfər mi ə ˈdɪfərənt pəˈzɪʃən",
-   "spell": "she would offer me a different position"
- },
- {
-   "cefr": "",
-   "def2": "aliud officium mihi dare voluit",
-   "def1": "она хотела, чтобы я делала другую работу",
-   "ipa": "ʃi ˈwɔntɪd mi tu du ə ˈdɪfərənt ʤɑb",
-   "spell": "she wanted me to do a different job"
- },
- {
-   "cefr": "",
-   "def2": "amīcus ejus",
-   "def1": "его друг",
-   "ipa": "hɪz frɛnd",
-   "spell": "his friend"
- },
- {
-   "cefr": "",
-   "def2": "amīcus ejus eī hanc ideam monuit",
-   "def1": "его друг подсказал ему эту идею",
-   "ipa": "hɪz frɛnd ɡeɪv hɪm ðɪs aɪˈdiə",
-   "spell": "his friend gave him this idea"
- },
- {
-   "cefr": "",
-   "def2": "Anglicē loquentēs",
-   "def1": "англоговорящие",
-   "ipa": "ˈɪŋɡlɪʃ ˈspikərz",
-   "spell": "English speakers"
- },
- {
-   "cefr": "",
-   "def2": "augērī salārium petere",
-   "def1": "просить повышения зарплаты",
-   "ipa": "tu æsk fɔr ə reɪz",
-   "spell": "to ask for a raise"
- },
- {
-   "cefr": "",
-   "def2": "bene loquī",
-   "def1": "хорошо говорить",
-   "ipa": "tu spik wɛl",
-   "spell": "to speak well"
- },
- {
-   "cefr": "",
-   "def2": "bene tibi erit",
-   "def1": "тебе будет хорошо",
-   "ipa": "ju wɪl hæv ɪt ɡʊd",
-   "spell": "you will have it good"
- },
- {
-   "cefr": "",
-   "def2": "biennium nōn augētur",
-   "def1": "ему не повышали зарплату два года",
-   "ipa": "hi hæz nɑt hæd ə reɪz ɪn tu jɪrz",
-   "spell": "he has not had a raise in two years"
- },
- {
-   "cefr": "",
-   "def2": "bonum cōnsilium est",
-   "def1": "это хороший совет",
-   "ipa": "ðæts ɡʊd ædˈvaɪs",
-   "spell": "that's good advice"
- },
- {
-   "cefr": "",
-   "def2": "bonus caementārius est",
-   "def1": "он хороший каменщик",
-   "ipa": "hi ɪz ə ɡʊd ˈmeɪsən",
-   "spell": "he is a good mason"
- },
- {
-   "cefr": "",
-   "def2": "caementārius",
-   "def1": "каменщик",
-   "ipa": "ə ˈmeɪsən",
-   "spell": "a mason"
- },
- {
-   "cefr": "",
-   "def2": "cartās vocābulōrum in rēfrīgerātōriō fīxī",
-   "def1": "я приклеила карточки со словами на холодильник",
-   "ipa": "aɪ stʌk wɜrd kɑrdz tu ðə frɪʤ",
-   "spell": "I stuck word cards to the fridge"
- },
- {
-   "cefr": "",
-   "def2": "condominium",
-   "def1": "кондоминиум",
-   "ipa": "ə ˈkɑndoʊ",
-   "spell": "a condo"
- },
- {
-   "cefr": "",
-   "def2": "conflictum vītāre",
-   "def1": "избегать конфликта",
-   "ipa": "tu əˈvɔɪd ə ˈkɑnflɪkt",
-   "spell": "to avoid a conflict"
- },
- {
-   "cefr": "",
-   "def2": "contrāctus brevis",
-   "def1": "краткосрочный контракт",
-   "ipa": "ə ˈʃɔrtˌtɜrm ˈkɑnˌtrækt",
-   "spell": "a short-term contract"
- },
- {
-   "cefr": "",
-   "def2": "cum illīs hominibus",
-   "def1": "с теми людьми",
-   "ipa": "wɪð ðoʊz ˈpipəl",
-   "spell": "with those people"
- },
- {
-   "cefr": "",
-   "def2": "cum in subsidiō erat",
-   "def1": "когда он был на пособии",
-   "ipa": "wɛn hi wʌz ɑn i-aɪ",
-   "spell": "when he was on EI"
- },
- {
-   "cefr": "",
-   "def2": "cum pluit",
-   "def1": "когда идёт дождь",
-   "ipa": "wɛn ɪt ɪz ˈreɪnɪŋ",
-   "spell": "when it is raining"
- },
- {
-   "cefr": "",
-   "def2": "cum prīmum coepī",
-   "def1": "когда я только начала",
-   "ipa": "wɛn aɪ fɜrst ˈstɑrtɪd",
-   "spell": "when I first started"
- },
- {
-   "cefr": "",
-   "def2": "cīvitās",
-   "def1": "гражданство",
-   "ipa": "ˈsɪtɪzənˌʃɪp",
-   "spell": "citizenship"
- },
- {
-   "cefr": "",
-   "def2": "cūr nōn?",
-   "def1": "почему нет?",
-   "ipa": "waɪ nɑt?",
-   "spell": "why not?"
- },
- {
-   "cefr": "",
-   "def2": "Deō grātiās",
-   "def1": "слава богу",
-   "ipa": "θæŋk ɡɑd",
-   "spell": "thank god"
- },
- {
-   "cefr": "",
-   "def2": "dispetcher",
-   "def1": "диспетчер",
-   "ipa": "ə dɪˈspæʧər",
-   "spell": "a dispatcher"
- },
- {
-   "cefr": "",
-   "def2": "diū nōn locūtus sum",
-   "def1": "я давно не говорила",
-   "ipa": "aɪ ˈhævənt ˈspoʊkən ɪn ə lɔŋ taɪm",
-   "spell": "I haven't spoken in a long time"
- },
- {
-   "cefr": "",
-   "def2": "dominus ejus",
-   "def1": "его начальник",
-   "ipa": "hɪz bɑs",
-   "spell": "his boss"
- },
- {
-   "cefr": "",
-   "def2": "domōs suās pūrīgārī necesse est",
-   "def1": "им нужно, чтобы их дома убирали",
-   "ipa": "ðeɪ nid tu hæv ðɛr hoʊmz klind",
-   "spell": "they need to have their homes cleaned"
- },
- {
-   "cefr": "",
-   "def2": "dummodo Anglicē loquī possīs",
-   "def1": "лишь бы ты могла говорить по-английски",
-   "ipa": "æz lɔŋ æz ju kæn spik ˈɪŋɡlɪʃ",
-   "spell": "as long as you can speak English"
- },
- {
-   "cefr": "",
-   "def2": "dummodo cum hominibus loquī possīs",
-   "def1": "лишь бы ты могла разговаривать с людьми",
-   "ipa": "æz lɔŋ æz ju kæn tɔk tu ˈpipəl",
-   "spell": "as long as you can talk to people"
- },
- {
-   "cefr": "",
-   "def2": "dātum fīnis",
-   "def1": "дата окончания",
-   "ipa": "ən ɛnd deɪt",
-   "spell": "an end date"
- },
- {
-   "cefr": "",
-   "def2": "dīcit",
-   "def1": "он говорит",
-   "ipa": "hi sɛz",
-   "spell": "he says"
- },
- {
-   "cefr": "",
-   "def2": "etiam",
-   "def1": "даже",
-   "ipa": "ˈivɪn",
-   "spell": "even"
- },
- {
-   "cefr": "",
-   "def2": "exspectāre nōn possum",
-   "def1": "я не могу ждать",
-   "ipa": "aɪ kænt weɪt",
-   "spell": "I can't wait"
- },
- {
-   "cefr": "",
-   "def2": "exspectāre nōn possumus",
-   "def1": "мы не можем ждать",
-   "ipa": "wi kænt weɪt",
-   "spell": "we can't wait"
- },
- {
-   "cefr": "",
-   "def2": "exspectāre nōn possumus",
-   "def1": "мы не можем позволить себе ждать",
-   "ipa": "wi kænt əˈfɔrd tu weɪt",
-   "spell": "we can't afford to wait"
- },
- {
-   "cefr": "",
-   "def2": "eī monuit",
-   "def1": "он дал ему совет",
-   "ipa": "hi ɡeɪv hɪm ə tɪp",
-   "spell": "he gave him a tip"
- },
- {
-   "cefr": "",
-   "def2": "facere labōrem gravem",
-   "def1": "делать тяжёлую работу",
-   "ipa": "du ˈhɛvi wɜrk / du hɑrd ˈleɪbər",
-   "spell": "do heavy work / do hard labor"
- },
- {
-   "cefr": "",
-   "def2": "figūrātus",
-   "def1": "образный",
-   "ipa": "ˈfɪɡjərətɪv",
-   "spell": "figurative"
- },
- {
-   "cefr": "",
-   "def2": "foedum est",
-   "def1": "это противно",
-   "ipa": "ðæts ˈnæsti",
-   "spell": "that's nasty"
- },
- {
-   "cefr": "",
-   "def2": "fīlmās spectāre dēsiī",
-   "def1": "я перестала смотреть фильмы",
-   "ipa": "aɪ stɑpt ˈwɑʧɪŋ ˈmuviz",
-   "spell": "I stopped watching movies"
- },
- {
-   "cefr": "",
-   "def2": "glaciēs et ignis",
-   "def1": "лёд и пламя",
-   "ipa": "aɪs ænd ˈfaɪər",
-   "spell": "ice and fire"
- },
- {
-   "cefr": "",
-   "def2": "herōs es",
-   "def1": "ты герой",
-   "ipa": "ju ɑr ə ˈhɪroʊ",
-   "spell": "you are a hero"
- },
- {
-   "cefr": "",
-   "def2": "hoc officium dēmittere",
-   "def1": "уволиться с этой работы",
-   "ipa": "tu kwɪt ðɪs ʤɑb",
-   "spell": "to quit this job"
- },
- {
-   "cefr": "",
-   "def2": "homō duplex",
-   "def1": "двуличный человек",
-   "ipa": "ə tu-feɪst ˈpɜrsən",
-   "spell": "a two-faced person"
- },
- {
-   "cefr": "",
-   "def2": "homō loquāx sum",
-   "def1": "я разговорчивый человек",
-   "ipa": "aɪ æm ə ˈtɔkətɪv ˈpɜrsən",
-   "spell": "I am a talkative person"
- },
- {
-   "cefr": "",
-   "def2": "homō sociābilis",
-   "def1": "общительный человек",
-   "ipa": "ə ˈsoʊʃəbəl ˈpɜrsən",
-   "spell": "a sociable person"
- },
- {
-   "cefr": "",
-   "def2": "homō taciturnus est",
-   "def1": "он тихий человек",
-   "ipa": "hiz ə ˈkwaɪət ˈpɜrsən",
-   "spell": "he's a quiet person"
- },
- {
-   "cefr": "",
-   "def2": "homō tranquillissimus",
-   "def1": "очень спокойный человек",
-   "ipa": "ə ˈvɛri kɑm ˈpɜrsən",
-   "spell": "a very calm person"
- },
- {
-   "cefr": "",
-   "def2": "homō turbidus",
-   "def1": "конфликтный человек",
-   "ipa": "ə ˈtrʌbəlˌmeɪkər",
-   "spell": "a trouble-maker"
- },
- {
-   "cefr": "",
-   "def2": "homō ēnergicus",
-   "def1": "энергичный человек",
-   "ipa": "ən ˌɛnərˈʤɛtɪk ˈpɜrsən",
-   "spell": "an energetic person"
- },
- {
-   "cefr": "",
-   "def2": "honēstē",
-   "def1": "честно",
-   "ipa": "ˈɑnəstli",
-   "spell": "honestly"
- },
- {
-   "cefr": "",
-   "def2": "id perficī",
-   "def1": "сделать это",
-   "ipa": "tu hæv ɪt dʌn",
-   "spell": "to have it done"
- },
- {
-   "cefr": "",
-   "def2": "id repetere cōnor",
-   "def1": "я пытаюсь его вернуть",
-   "ipa": "aɪ traɪ tu ɡɛt ɪt bæk",
-   "spell": "I try to get it back"
- },
- {
-   "cefr": "",
-   "def2": "illud augēre",
-   "def1": "поднять это",
-   "ipa": "tu reɪz ɪt",
-   "spell": "to raise it"
- },
- {
-   "cefr": "",
-   "def2": "illī hominēs",
-   "def1": "те люди",
-   "ipa": "ðoʊz ˈpipəl",
-   "spell": "those people"
- },
- {
-   "cefr": "",
-   "def2": "illī mē taedent",
-   "def1": "они задрали",
-   "ipa": "aɪm soʊ sɪk ʌv ðɛm",
-   "spell": "I’m so sick of them"
- },
- {
-   "cefr": "",
-   "def2": "impudentēs factī sunt",
-   "def1": "они обнаглели",
-   "ipa": "ðeɪv bɪˈkʌm ˈʃeɪmləs",
-   "spell": "they’ve become shameless"
- },
- {
-   "cefr": "",
-   "def2": "impātiēns sum",
-   "def1": "я нетерпелива",
-   "ipa": "aɪ æm ɪmˈpeɪʃənt",
-   "spell": "I am impatient"
- },
- {
-   "cefr": "",
-   "def2": "in hāc positōne labōrāre nōn possum",
-   "def1": "я не могу работать на этой должности",
-   "ipa": "aɪ ˈkænɑt wɜrk ɪn ðɪs pəˈzɪʃən",
-   "spell": "I cannot work in this position"
- },
- {
-   "cefr": "",
-   "def2": "in memoriā nōn manet",
-   "def1": "это не остаётся в памяти",
-   "ipa": "ɪt ˈdʌzənt steɪ ɪn maɪ ˈmɛməri",
-   "spell": "it doesn't stay in my memory"
- },
- {
-   "cefr": "",
-   "def2": "in sōle",
-   "def1": "на солнце",
-   "ipa": "ɪn ðə sʌn",
-   "spell": "in the sun"
- },
- {
-   "cefr": "",
-   "def2": "ipse nōn vult",
-   "def1": "он сам этого не хочет",
-   "ipa": "hi ˈdʌzənt wɑnt ɪt hɪmˈsɛlf",
-   "spell": "he doesn't want it himself"
- },
- {
-   "cefr": "",
-   "def2": "is et ego",
-   "def1": "он и я",
-   "ipa": "hi ænd aɪ",
-   "spell": "he and I"
- },
- {
-   "cefr": "",
-   "def2": "jam diū fēcissem",
-   "def1": "я бы давно это сделала",
-   "ipa": "aɪ wʊd hæv dʌn ɪt lɔŋ əˈɡoʊ",
-   "spell": "I would have done it long ago"
- },
- {
-   "cefr": "",
-   "def2": "jam diū loquī coepissem",
-   "def1": "я бы давно заговорила",
-   "ipa": "aɪ wʊd hæv ˈstɑrtɪd ˈspikɪŋ lɔŋ əˈɡoʊ",
-   "spell": "I would have started speaking long ago"
- },
- {
-   "cefr": "",
-   "def2": "jam diū loquī coepissem",
-   "def1": "я бы давно уже заговорила",
-   "ipa": "aɪ ˈwʊdəv bɪn ˈtɔkɪŋ baɪ naʊ",
-   "spell": "I would’ve been talking by now"
- },
- {
-   "cefr": "",
-   "def2": "labōrem gravem facere",
-   "def1": "делать тяжёлую работу",
-   "ipa": "tu du ˈhɛvi ˈlɪftɪŋ",
-   "spell": "to do heavy lifting"
- },
- {
-   "cefr": "",
-   "def2": "labōrem gravem mē facere rogāvērunt",
-   "def1": "они попросили меня делать тяжёлую работу",
-   "ipa": "ðeɪ æskt mi tu du ˈhɛvi wɜrk",
-   "spell": "they asked me to do heavy work"
- },
- {
-   "cefr": "",
-   "def2": "labōrāre dēbuī",
-   "def1": "мне пришлось работать",
-   "ipa": "aɪ hæd tu wɜrk",
-   "spell": "I had to work"
- },
- {
-   "cefr": "",
-   "def2": "labōrāre independenter",
-   "def1": "работать независимо",
-   "ipa": "wɜrk ˌɪndɪˈpɛndəntli",
-   "spell": "work independently"
- },
- {
-   "cefr": "",
-   "def2": "labōrāre pergebant",
-   "def1": "они продолжали работать",
-   "ipa": "ðeɪ kɛpt ˈwɜrkɪŋ",
-   "spell": "they kept working"
- },
- {
-   "cefr": "",
-   "def2": "magnās ordinēs posterō servāvērunt",
-   "def1": "они оставляют большие заказы на конец",
-   "ipa": "ðeɪ seɪv bɪɡ ˈɔrdərz fɔr læst",
-   "spell": "they save big orders for last"
- },
- {
-   "cefr": "",
-   "def2": "male tibi erit",
-   "def1": "тебе будет плохо",
-   "ipa": "ju wɪl hæv ɪt bæd",
-   "spell": "you will have it bad"
- },
- {
-   "cefr": "",
-   "def2": "marītus caput est, sed uxor cervīx",
-   "def1": "муж — голова, но жена — шея",
-   "ipa": "ðə ˈhʌzbənd ɪz ðə hɛd bʌt ðə waɪf ɪz ðə nɛk",
-   "spell": "the husband is the head but the wife is the neck"
- },
- {
-   "cefr": "",
-   "def2": "mihī dīxit",
-   "def1": "он сказал мне",
-   "ipa": "hi toʊld mi",
-   "spell": "he told me"
- },
- {
-   "cefr": "",
-   "def2": "mihī favōrem dedit",
-   "def1": "она сделала мне одолжение",
-   "ipa": "ʃi dɪd mi ə ˈfeɪvər",
-   "spell": "she did me a favor"
- },
- {
-   "cefr": "",
-   "def2": "monētārium",
-   "def1": "чаевые",
-   "ipa": "ə tɪp",
-   "spell": "a tip"
- },
- {
-   "cefr": "",
-   "def2": "multa ēventa",
-   "def1": "много событий",
-   "ipa": "ə lɑt ʌv ɪˈvɛnts",
-   "spell": "a lot of events"
- },
- {
-   "cefr": "",
-   "def2": "multō occupātius est",
-   "def1": "он гораздо оживлённее",
-   "ipa": "ɪt ɪz mʌʧ ˈbɪziər",
-   "spell": "it is much busier"
- },
- {
-   "cefr": "",
-   "def2": "mē ad secundum colloquium invītāvērunt",
-   "def1": "они пригласили меня на второе собеседование",
-   "ipa": "ðeɪ ɪnˈvaɪtɪd mi fɔr ə ˈsɛkənd ˈɪntərˌvju",
-   "spell": "they invited me for a second interview"
- },
- {
-   "cefr": "",
-   "def2": "mē īnspīrās",
-   "def1": "ты вдохновляешь меня",
-   "ipa": "ju ɪnˈspaɪr mi",
-   "spell": "you inspire me"
- },
- {
-   "cefr": "",
-   "def2": "mōrāliter",
-   "def1": "морально",
-   "ipa": "ˈmɔrəli",
-   "spell": "morally"
- },
- {
-   "cefr": "",
-   "def2": "mōrāliter dēfatīgārī",
-   "def1": "уставать морально",
-   "ipa": "tu ɡɛt ˈmɛntəli ɪɡˈzɑstɪd",
-   "spell": "to get mentally exhausted"
- },
- {
-   "cefr": "",
-   "def2": "nē litigem",
-   "def1": "чтобы не ругаться",
-   "ipa": "soʊ aɪ doʊnt ɡɛt ˈɪntu ə faɪt",
-   "spell": "so I don’t get into a fight"
- },
- {
-   "cefr": "",
-   "def2": "nē plūs solvant",
-   "def1": "чтобы им не пришлось платить больше",
-   "ipa": "soʊ ðæt ðeɪ doʊnt hæv tu peɪ mɔr",
-   "spell": "so that they don't have to pay more"
- },
- {
-   "cefr": "",
-   "def2": "nōlī spem āmittere",
-   "def1": "не теряй надежду",
-   "ipa": "doʊnt luz hoʊp",
-   "spell": "don't lose hope"
- },
- {
-   "cefr": "",
-   "def2": "nōn habēmus tempus exspectandī",
-   "def1": "у нас нет времени ждать",
-   "ipa": "wi doʊnt hæv taɪm tu weɪt",
-   "spell": "we don't have time to wait"
- },
- {
-   "cefr": "",
-   "def2": "nōn vult reāliter",
-   "def1": "он не очень этого хочет",
-   "ipa": "hi ˈdʌzənt ˈrɪli wɑnt ɪt",
-   "spell": "he doesn't really want it"
- },
- {
-   "cefr": "",
-   "def2": "nōndum",
-   "def1": "ещё нет",
-   "ipa": "nɑt jɛt",
-   "spell": "not yet"
- },
- {
-   "cefr": "",
-   "def2": "nōndum parātus",
-   "def1": "он ещё не готов",
-   "ipa": "hi ɪz nɑt ˈrɛdi jɛt",
-   "spell": "he is not ready yet"
- },
- {
-   "cefr": "",
-   "def2": "nōndum parātus incipere",
-   "def1": "он не готов начать",
-   "ipa": "hi ɪz nɑt ˈrɛdi tu stɑrt",
-   "spell": "he is not ready to start"
- },
- {
-   "cefr": "",
-   "def2": "nōndum rogāvit",
-   "def1": "он ещё не спросил",
-   "ipa": "hi hæz nɑt æskt jɛt",
-   "spell": "he has not asked yet"
- },
- {
-   "cefr": "",
-   "def2": "nōndum rogāvit dominum",
-   "def1": "он ещё не спросил начальника",
-   "ipa": "hi stɪl hæz nɑt æskt hɪz bɑs",
-   "spell": "he still has not asked his boss"
- },
- {
-   "cefr": "",
-   "def2": "omnia hīc et nunc volō",
-   "def1": "я хочу всё здесь и сейчас",
-   "ipa": "aɪ wɑnt ˈɛvriˌθɪŋ hir ænd naʊ",
-   "spell": "I want everything here and now"
- },
- {
-   "cefr": "",
-   "def2": "omnēs positōnēs complētae sunt",
-   "def1": "все позиции заняты",
-   "ipa": "ɔl ðə pəˈzɪʃənz ɑr fɪld",
-   "spell": "all the positions are filled"
- },
- {
-   "cefr": "",
-   "def2": "patientiam habēre",
-   "def1": "иметь терпение",
-   "ipa": "tu hæv ˈpeɪʃəns",
-   "spell": "to have patience"
- },
- {
-   "cefr": "",
-   "def2": "per urbem ambulāvimus",
-   "def1": "мы гуляли по городу",
-   "ipa": "wi wɔkt əˈraʊnd ðə ˈsɪti",
-   "spell": "we walked around the city"
- },
- {
-   "cefr": "",
-   "def2": "pertināx",
-   "def1": "настойчивый",
-   "ipa": "pərˈsɪstənt",
-   "spell": "persistent"
- },
- {
-   "cefr": "",
-   "def2": "plūs exspectāre",
-   "def1": "ждать дольше",
-   "ipa": "tu weɪt ˈlɔŋɡər",
-   "spell": "to wait longer"
- },
- {
-   "cefr": "",
-   "def2": "plūs nōn solvent",
-   "def1": "они не будут платить больше",
-   "ipa": "ðeɪ wɪl nɑt peɪ mɔr",
-   "spell": "they will not pay more"
- },
- {
-   "cefr": "",
-   "def2": "plūs quam is exspectō",
-   "def1": "я жду больше, чем он",
-   "ipa": "aɪ weɪt ˈlɔŋɡər ðæn hi dʌz",
-   "spell": "I wait longer than he does"
- },
- {
-   "cefr": "",
-   "def2": "plūs quam is exspectō",
-   "def1": "я жду дольше, чем он",
-   "ipa": "aɪ weɪt ˈlɔŋɡər ðæn hɪm",
-   "spell": "I wait longer than him"
- },
- {
-   "cefr": "",
-   "def2": "plūs solvere",
-   "def1": "платить больше",
-   "ipa": "tu peɪ mɔr",
-   "spell": "to pay more"
- },
- {
-   "cefr": "",
-   "def2": "potuit studēre sex mēnsēs",
-   "def1": "он мог учиться шесть месяцев",
-   "ipa": "hi kʊd ˈstʌdi fɔr 6 mʌnθs",
-   "spell": "he could study for 6 months"
- },
- {
-   "cefr": "",
-   "def2": "prō nostrā dēmissiōne",
-   "def1": "для нашей пенсии",
-   "ipa": "fɔr ˈaʊər rɪˈtaɪərmənt",
-   "spell": "for our retirement"
- },
- {
-   "cefr": "",
-   "def2": "prō omnibus positōnibus",
-   "def1": "на все должности",
-   "ipa": "fɔr ɔl ðə pəˈzɪʃənz (ʤɑbz)",
-   "spell": "for all the positions (jobs)"
- },
- {
-   "cefr": "",
-   "def2": "queruntur",
-   "def1": "они жалуются",
-   "ipa": "ðeɪ kəmˈpleɪn",
-   "spell": "they complain"
- },
- {
-   "cefr": "",
-   "def2": "quid diaboli?",
-   "def1": "какого чёрта?",
-   "ipa": "wɑt ðə hɛl?",
-   "spell": "what the hell?"
- },
- {
-   "cefr": "",
-   "def2": "quidquid efficit",
-   "def1": "главное, чтобы сработало",
-   "ipa": "ˌwʌˈtɛvər wɜrks",
-   "spell": "whatever works"
- },
- {
-   "cefr": "",
-   "def2": "rōdēum",
-   "def1": "родео",
-   "ipa": "ə ˈroʊdiˌoʊ",
-   "spell": "a rodeo"
- },
- {
-   "cefr": "",
-   "def2": "saltem ūnus",
-   "def1": "хотя бы один",
-   "ipa": "æt list wʌn",
-   "spell": "at least one"
- },
- {
-   "cefr": "",
-   "def2": "saltem ūnus quī Anglicē loquī potest",
-   "def1": "хотя бы один человек, говорящий по-английски",
-   "ipa": "æt list wʌn ˈpɜrsən hu kæn spik ˈɪŋɡlɪʃ",
-   "spell": "at least one person who can speak English"
- },
- {
-   "cefr": "",
-   "def2": "salārium ejus augēre",
-   "def1": "повысить ему зарплату",
-   "ipa": "tu reɪz hɪz ˈsæləri",
-   "spell": "to raise his salary"
- },
- {
-   "cefr": "",
-   "def2": "satis hominum condūxērunt",
-   "def1": "они наняли достаточно людей",
-   "ipa": "ðeɪ hæv ˈhaɪərd ɪˈnʌf ˈpipəl",
-   "spell": "they have hired enough people"
- },
- {
-   "cefr": "",
-   "def2": "semper nervōsus eram",
-   "def1": "я всегда нервничала",
-   "ipa": "aɪ wʌz ˈɔlˌweɪz ˈnɜrvəs",
-   "spell": "I was always nervous"
- },
- {
-   "cefr": "",
-   "def2": "semper prōgreditur",
-   "def1": "он всегда развивается",
-   "ipa": "ɪt ɪz ˈɔlˌweɪz dɪˈvɛləpɪŋ",
-   "spell": "it is always developing"
- },
- {
-   "cefr": "",
-   "def2": "semper rīdēns",
-   "def1": "всегда улыбающийся",
-   "ipa": "ˈɔlˌweɪz ˈsmaɪlɪŋ",
-   "spell": "always smiling"
- },
- {
-   "cefr": "",
-   "def2": "semper tolerāre necesse est",
-   "def1": "надо вечно терпеть",
-   "ipa": "ju ˈɔlˌweɪz hæv tu pʊt ʌp wɪð ɪt",
-   "spell": "you always have to put up with it"
- },
- {
-   "cefr": "",
-   "def2": "servus laetus",
-   "def1": "счастливый раб",
-   "ipa": "ə ˈhæpi sleɪv",
-   "spell": "a happy slave"
- },
- {
-   "cefr": "",
-   "def2": "simul atque labōrāre coepit, linguam discere dēsiit",
-   "def1": "как только начал работать, он бросил учить язык",
-   "ipa": "ðə ˈmoʊmənt hi bɪˈɡæn ˈwɜrkɪŋ, hi kwɪt ˈstʌdiɪŋ ðə ˈlæŋɡwəʤ",
-   "spell": "the moment he began working, he quit studying the language"
- },
- {
-   "cefr": "",
-   "def2": "sine pecūniā fīnam",
-   "def1": "я останусь без денег",
-   "ipa": "aɪ wɪl ɛnd ʌp wɪˈθaʊt ˈmʌni",
-   "spell": "I will end up without money"
- },
- {
-   "cefr": "",
-   "def2": "sortāre",
-   "def1": "сортировать",
-   "ipa": "tu sɔrt",
-   "spell": "to sort"
- },
- {
-   "cefr": "",
-   "def2": "statim",
-   "def1": "сразу",
-   "ipa": "ɪˈmidiətli",
-   "spell": "immediately"
- },
- {
-   "cefr": "",
-   "def2": "statim",
-   "def1": "сразу",
-   "ipa": "raɪt əˈweɪ",
-   "spell": "right away"
- },
- {
-   "cefr": "",
-   "def2": "studium Anglicī āmīsī",
-   "def1": "я потеряла интерес к английскому",
-   "ipa": "aɪ lɔst maɪ ˈɪntrəst ɪn ˈɪŋɡlɪʃ",
-   "spell": "I lost my interest in English"
- },
- {
-   "cefr": "",
-   "def2": "sub currū",
-   "def1": "под машиной",
-   "ipa": "ˈʌndər ðə kɑr",
-   "spell": "under the car"
- },
- {
-   "cefr": "",
-   "def2": "sub tēctō",
-   "def1": "под крышей",
-   "ipa": "ˈʌndər ðə ruf",
-   "spell": "under the roof"
- },
- {
-   "cefr": "",
-   "def2": "sustinēbam",
-   "def1": "я терпела",
-   "ipa": "aɪ ɛnˈdjʊrd",
-   "spell": "I endured"
- },
- {
-   "cefr": "",
-   "def2": "sustinēre",
-   "def1": "выдерживать",
-   "ipa": "tu ɛnˈdjʊr",
-   "spell": "to endure"
- },
- {
-   "cefr": "",
-   "def2": "sī nōlunt plūs solvere, nōn solvent",
-   "def1": "если не хотят платить больше, то не будут",
-   "ipa": "ɪf ðeɪ doʊnt wɑnt tu peɪ mɔr, ðeɪ wɪl nɑt",
-   "spell": "if they don't want to pay more, they will not"
- },
- {
-   "cefr": "",
-   "def2": "sī permānēret, acciperem",
-   "def1": "если бы это было постоянно, я бы взяла",
-   "ipa": "ɪf ɪt wɜr ˈpɜrmənənt aɪ wʊd teɪk ɪt",
-   "spell": "if it were permanent I would take it"
- },
- {
-   "cefr": "",
-   "def2": "sī salārium nōn augent",
-   "def1": "если ему не повысят зарплату",
-   "ipa": "ɪf ðeɪ doʊnt reɪz hɪz ˈsæləri",
-   "spell": "if they don't raise his salary"
- },
- {
-   "cefr": "",
-   "def2": "taceō nē litigem",
-   "def1": "молчу чтобы не ругаться",
-   "ipa": "aɪ steɪ ˈkwaɪət tu əˈvɔɪd ˈɑrɡjuɪŋ",
-   "spell": "I stay quiet to avoid arguing"
- },
- {
-   "cefr": "",
-   "def2": "tempus fugit",
-   "def1": "время летит",
-   "ipa": "taɪm flaɪz",
-   "spell": "time flies"
- },
- {
-   "cefr": "",
-   "def2": "terra aliēna",
-   "def1": "чужая страна",
-   "ipa": "ə ˈfɔrən ˈkʌntri",
-   "spell": "a foreign country"
- },
- {
-   "cefr": "",
-   "def2": "terra mīra",
-   "def1": "странная страна",
-   "ipa": "ə streɪnʤ ˈkʌntri",
-   "spell": "a strange country"
- },
- {
-   "cefr": "",
-   "def2": "timēbam",
-   "def1": "я боялась",
-   "ipa": "aɪ wʌz əˈfreɪd",
-   "spell": "I was afraid"
- },
- {
-   "cefr": "",
-   "def2": "tolerāre",
-   "def1": "терпеть",
-   "ipa": "tu ɛnˈdjʊr",
-   "spell": "to endure"
- },
- {
-   "cefr": "",
-   "def2": "tolerāre et labōrāre porrō",
-   "def1": "терпеть и работать дальше",
-   "ipa": "ɡrɪn ænd bɛr ɪt",
-   "spell": "grin and bear it"
- },
- {
-   "cefr": "",
-   "def2": "trahunt",
-   "def1": "они затягивают, тянут",
-   "ipa": "ðeɪ ɑr ˈdræɡɪŋ ɪt aʊt / ðeɪ ɑr ˈstɔlɪŋ",
-   "spell": "they are dragging it out / they are stalling"
- },
- {
-   "cefr": "",
-   "def2": "trahunt pedēs",
-   "def1": "они тянут время",
-   "ipa": "ðeɪ dræɡ ðɛr fit",
-   "spell": "they drag their feet"
- },
- {
-   "cefr": "",
-   "def2": "ubi labōrem gravem facere dēbuī",
-   "def1": "где мне пришлось делать тяжёлую работу",
-   "ipa": "wɛr aɪ hæd tu du ˈhɛvi wɜrk",
-   "spell": "where I had to do heavy work"
- },
- {
-   "cefr": "",
-   "def2": "ultimātum",
-   "def1": "ультиматум",
-   "ipa": "ən ˌʌltəˈmeɪtəm",
-   "spell": "an ultimatum"
- },
- {
-   "cefr": "",
-   "def2": "urbs elegantior",
-   "def1": "более модный город",
-   "ipa": "ə mɔr ˈfæʃənəbəl ˈsɪti",
-   "spell": "a more fashionable city"
- },
- {
-   "cefr": "",
-   "def2": "usque ad fīnem Septembris",
-   "def1": "до конца сентября",
-   "ipa": "ənˈtɪl ði ɛnd ʌv sɛpˈtɛmbər",
-   "spell": "until the end of september"
- },
- {
-   "cefr": "",
-   "def2": "usque ad Septembrem ultimum",
-   "def1": "до конца сентября",
-   "ipa": "ənˈtɪl leɪt sɛpˈtɛmbər",
-   "spell": "until late September"
- },
- {
-   "cefr": "",
-   "def2": "ut cum hominibus loquar",
-   "def1": "чтобы я могла разговаривать с людьми",
-   "ipa": "soʊ ðæt aɪ kæn tɔk tu ˈpipəl",
-   "spell": "so that I can talk to people"
- },
- {
-   "cefr": "",
-   "def2": "ut experientiam nancīscar",
-   "def1": "чтобы я могла получить опыт",
-   "ipa": "soʊ ðæt aɪ kæn ɡɛt ɪkˈspɪriəns",
-   "spell": "so that I can get experience"
- },
- {
-   "cefr": "",
-   "def2": "uxōris meae cōnsilium erat",
-   "def1": "это была идея моей жены",
-   "ipa": "ɪt wʌz maɪ waɪfs aɪˈdiə",
-   "spell": "it was my wife's idea"
- },
- {
-   "cefr": "",
-   "def2": "valdē īnspīrās",
-   "def1": "ты очень вдохновляешь",
-   "ipa": "ju ɑr ˈvɛri ɪnˈspaɪrɪŋ",
-   "spell": "you are very inspiring"
- },
- {
-   "cefr": "",
-   "def2": "verba tua",
-   "def1": "твои слова",
-   "ipa": "jʊər wɜrdz",
-   "spell": "your words"
- },
- {
-   "cefr": "",
-   "def2": "verbum phrāsāle",
-   "def1": "фразовый глагол",
-   "ipa": "ə ˈfreɪzəl vɜrb",
-   "spell": "a phrasal verb"
- },
- {
-   "cefr": "",
-   "def2": "vestēs ūsitātae",
-   "def1": "поношенная одежда",
-   "ipa": "juzd kloʊðz",
-   "spell": "used clothes"
- },
- {
-   "cefr": "",
-   "def2": "vix Anglicē loquitur",
-   "def1": "он едва говорит по-английски",
-   "ipa": "hi ˈhɑrdli spiks ˈɛni ˈɪŋɡlɪʃ",
-   "spell": "he hardly speaks any English"
- },
- {
-   "cefr": "",
-   "def2": "vix Anglicē loquitur",
-   "def1": "он почти не говорит по-английски",
-   "ipa": "hi ˈɔlˌmoʊst spiks noʊ ˈɪŋɡlɪʃ",
-   "spell": "he almost speaks no English"
- },
- {
-   "cefr": "",
-   "def2": "vītam tranquillam amant",
-   "def1": "они любят тихую жизнь",
-   "ipa": "ðeɪ lʌv ˈkwaɪət laɪf",
-   "spell": "they love quiet life"
- },
- {
-   "cefr": "",
-   "def2": "ēsuriēs",
-   "def1": "ты голоден",
-   "ipa": "ju ɑr ˈhʌŋɡri",
-   "spell": "you are hungry"
- }
+  {
+    "cefr": "",
+    "def2": "A cum B comparāre",
+    "def1": "сравнивать А с Б",
+    "ipa": "tu kəmˈpɛr ə tu bi",
+    "spell": "to compare A to B"
+  },
+  {
+    "cefr": "",
+    "def2": "ad novam positōnem petere",
+    "def1": "подать заявку на новую должность",
+    "ipa": "tu əˈplaɪ fɔr ə nu pəˈzɪʃən",
+    "spell": "to apply for a new position"
+  },
+  {
+    "cefr": "",
+    "def2": "adhūc memorāre nōn possum",
+    "def1": "я всё ещё не могу их запомнить",
+    "ipa": "aɪ stɪl kænt ˈmɛməˌraɪz ðɛm",
+    "spell": "I still can't memorize them"
+  },
+  {
+    "cefr": "",
+    "def2": "adhūc nūllum responsum est",
+    "def1": "ответа всё ещё нет",
+    "ipa": "ðɛr ɪz stɪl noʊ ˈænsər",
+    "spell": "there is still no answer"
+  },
+  {
+    "cefr": "",
+    "def2": "adsūēvit exspectāre",
+    "def1": "он привык ждать",
+    "ipa": "hi ɪz just tu ˈweɪtɪŋ",
+    "spell": "he is used to waiting"
+  },
+  {
+    "cefr": "",
+    "def2": "aegrōtāre",
+    "def1": "чувствовать себя нехорошо",
+    "ipa": "tu fil ˈʌndər ðə ˈwɛðər",
+    "spell": "to feel under the weather"
+  },
+  {
+    "cefr": "",
+    "def2": "aetāte sumus ubi omnia celeriter facere dēbēmus",
+    "def1": "мы в том возрасте, когда нужно всё делать быстро",
+    "ipa": "wi ɑr æt ði eɪʤ wɛn wi hæv tu du ˈɛvriˌθɪŋ ˈkwɪkli",
+    "spell": "we are at the age when we have to do everything quickly"
+  },
+  {
+    "cefr": "",
+    "def2": "aliquid breve",
+    "def1": "что-то краткосрочное",
+    "ipa": "ˈsʌmθɪŋ ˈʃɔrtˌtɜrm",
+    "spell": "something short-term"
+  },
+  {
+    "cefr": "",
+    "def2": "aliquid perficī",
+    "def1": "сделать что-то",
+    "ipa": "tu hæv ˈsʌmθɪŋ dʌn",
+    "spell": "to have something done"
+  },
+  {
+    "cefr": "",
+    "def2": "aliud mūnus mihi offerret",
+    "def1": "она предложила бы мне другую должность",
+    "ipa": "ʃi wʊd ˈɔfər mi ə ˈdɪfərənt pəˈzɪʃən",
+    "spell": "she would offer me a different position"
+  },
+  {
+    "cefr": "",
+    "def2": "aliud officium mihi dare voluit",
+    "def1": "она хотела, чтобы я делала другую работу",
+    "ipa": "ʃi ˈwɔntɪd mi tu du ə ˈdɪfərənt ʤɑb",
+    "spell": "she wanted me to do a different job"
+  },
+  {
+    "cefr": "",
+    "def2": "amīcus ejus",
+    "def1": "его друг",
+    "ipa": "hɪz frɛnd",
+    "spell": "his friend"
+  },
+  {
+    "cefr": "",
+    "def2": "amīcus ejus eī hanc ideam monuit",
+    "def1": "его друг подсказал ему эту идею",
+    "ipa": "hɪz frɛnd ɡeɪv hɪm ðɪs aɪˈdiə",
+    "spell": "his friend gave him this idea"
+  },
+  {
+    "cefr": "",
+    "def2": "Anglicē loquentēs",
+    "def1": "англоговорящие",
+    "ipa": "ˈɪŋɡlɪʃ ˈspikərz",
+    "spell": "English speakers"
+  },
+  {
+    "cefr": "",
+    "def2": "augērī salārium petere",
+    "def1": "просить повышения зарплаты",
+    "ipa": "tu æsk fɔr ə reɪz",
+    "spell": "to ask for a raise"
+  },
+  {
+    "cefr": "",
+    "def2": "bene loquī",
+    "def1": "хорошо говорить",
+    "ipa": "tu spik wɛl",
+    "spell": "to speak well"
+  },
+  {
+    "cefr": "",
+    "def2": "bene tibi erit",
+    "def1": "тебе будет хорошо",
+    "ipa": "ju wɪl hæv ɪt ɡʊd",
+    "spell": "you will have it good"
+  },
+  {
+    "cefr": "",
+    "def2": "biennium nōn augētur",
+    "def1": "ему не повышали зарплату два года",
+    "ipa": "hi hæz nɑt hæd ə reɪz ɪn tu jɪrz",
+    "spell": "he has not had a raise in two years"
+  },
+  {
+    "cefr": "",
+    "def2": "bonum cōnsilium est",
+    "def1": "это хороший совет",
+    "ipa": "ðæts ɡʊd ædˈvaɪs",
+    "spell": "that's good advice"
+  },
+  {
+    "cefr": "",
+    "def2": "bonus caementārius est",
+    "def1": "он хороший каменщик",
+    "ipa": "hi ɪz ə ɡʊd ˈmeɪsən",
+    "spell": "he is a good mason"
+  },
+  {
+    "cefr": "",
+    "def2": "caementārius",
+    "def1": "каменщик",
+    "ipa": "ə ˈmeɪsən",
+    "spell": "a mason"
+  },
+  {
+    "cefr": "",
+    "def2": "cartās vocābulōrum in rēfrīgerātōriō fīxī",
+    "def1": "я приклеила карточки со словами на холодильник",
+    "ipa": "aɪ stʌk wɜrd kɑrdz tu ðə frɪʤ",
+    "spell": "I stuck word cards to the fridge"
+  },
+  {
+    "cefr": "",
+    "def2": "condominium",
+    "def1": "кондоминиум",
+    "ipa": "ə ˈkɑndoʊ",
+    "spell": "a condo"
+  },
+  {
+    "cefr": "",
+    "def2": "conflictum vītāre",
+    "def1": "избегать конфликта",
+    "ipa": "tu əˈvɔɪd ə ˈkɑnflɪkt",
+    "spell": "to avoid a conflict"
+  },
+  {
+    "cefr": "",
+    "def2": "contrāctus brevis",
+    "def1": "краткосрочный контракт",
+    "ipa": "ə ˈʃɔrtˌtɜrm ˈkɑnˌtrækt",
+    "spell": "a short-term contract"
+  },
+  {
+    "cefr": "",
+    "def2": "cum illīs hominibus",
+    "def1": "с теми людьми",
+    "ipa": "wɪð ðoʊz ˈpipəl",
+    "spell": "with those people"
+  },
+  {
+    "cefr": "",
+    "def2": "cum in subsidiō erat",
+    "def1": "когда он был на пособии",
+    "ipa": "wɛn hi wʌz ɑn i-aɪ",
+    "spell": "when he was on EI"
+  },
+  {
+    "cefr": "",
+    "def2": "cum pluit",
+    "def1": "когда идёт дождь",
+    "ipa": "wɛn ɪt ɪz ˈreɪnɪŋ",
+    "spell": "when it is raining"
+  },
+  {
+    "cefr": "",
+    "def2": "cum prīmum coepī",
+    "def1": "когда я только начала",
+    "ipa": "wɛn aɪ fɜrst ˈstɑrtɪd",
+    "spell": "when I first started"
+  },
+  {
+    "cefr": "",
+    "def2": "cīvitās",
+    "def1": "гражданство",
+    "ipa": "ˈsɪtɪzənˌʃɪp",
+    "spell": "citizenship"
+  },
+  {
+    "cefr": "",
+    "def2": "cūr nōn?",
+    "def1": "почему нет?",
+    "ipa": "waɪ nɑt?",
+    "spell": "why not?"
+  },
+  {
+    "cefr": "",
+    "def2": "Deō grātiās",
+    "def1": "слава богу",
+    "ipa": "θæŋk ɡɑd",
+    "spell": "thank god"
+  },
+  {
+    "cefr": "",
+    "def2": "dispetcher",
+    "def1": "диспетчер",
+    "ipa": "ə dɪˈspæʧər",
+    "spell": "a dispatcher"
+  },
+  {
+    "cefr": "",
+    "def2": "diū nōn locūtus sum",
+    "def1": "я давно не говорила",
+    "ipa": "aɪ ˈhævənt ˈspoʊkən ɪn ə lɔŋ taɪm",
+    "spell": "I haven't spoken in a long time"
+  },
+  {
+    "cefr": "",
+    "def2": "dominus ejus",
+    "def1": "его начальник",
+    "ipa": "hɪz bɑs",
+    "spell": "his boss"
+  },
+  {
+    "cefr": "",
+    "def2": "domōs suās pūrīgārī necesse est",
+    "def1": "им нужно, чтобы их дома убирали",
+    "ipa": "ðeɪ nid tu hæv ðɛr hoʊmz klind",
+    "spell": "they need to have their homes cleaned"
+  },
+  {
+    "cefr": "",
+    "def2": "dummodo Anglicē loquī possīs",
+    "def1": "лишь бы ты могла говорить по-английски",
+    "ipa": "æz lɔŋ æz ju kæn spik ˈɪŋɡlɪʃ",
+    "spell": "as long as you can speak English"
+  },
+  {
+    "cefr": "",
+    "def2": "dummodo cum hominibus loquī possīs",
+    "def1": "лишь бы ты могла разговаривать с людьми",
+    "ipa": "æz lɔŋ æz ju kæn tɔk tu ˈpipəl",
+    "spell": "as long as you can talk to people"
+  },
+  {
+    "cefr": "",
+    "def2": "dātum fīnis",
+    "def1": "дата окончания",
+    "ipa": "ən ɛnd deɪt",
+    "spell": "an end date"
+  },
+  {
+    "cefr": "",
+    "def2": "dīcit",
+    "def1": "он говорит",
+    "ipa": "hi sɛz",
+    "spell": "he says"
+  },
+  {
+    "cefr": "",
+    "def2": "etiam",
+    "def1": "даже",
+    "ipa": "ˈivɪn",
+    "spell": "even"
+  },
+  {
+    "cefr": "",
+    "def2": "exspectāre nōn possum",
+    "def1": "я не могу ждать",
+    "ipa": "aɪ kænt weɪt",
+    "spell": "I can't wait"
+  },
+  {
+    "cefr": "",
+    "def2": "exspectāre nōn possumus",
+    "def1": "мы не можем ждать",
+    "ipa": "wi kænt weɪt",
+    "spell": "we can't wait"
+  },
+  {
+    "cefr": "",
+    "def2": "exspectāre nōn possumus",
+    "def1": "мы не можем позволить себе ждать",
+    "ipa": "wi kænt əˈfɔrd tu weɪt",
+    "spell": "we can't afford to wait"
+  },
+  {
+    "cefr": "",
+    "def2": "eī monuit",
+    "def1": "он дал ему совет",
+    "ipa": "hi ɡeɪv hɪm ə tɪp",
+    "spell": "he gave him a tip"
+  },
+  {
+    "cefr": "",
+    "def2": "facere labōrem gravem",
+    "def1": "делать тяжёлую работу",
+    "ipa": "du ˈhɛvi wɜrk / du hɑrd ˈleɪbər",
+    "spell": "do heavy work / do hard labor"
+  },
+  {
+    "cefr": "",
+    "def2": "figūrātus",
+    "def1": "образный",
+    "ipa": "ˈfɪɡjərətɪv",
+    "spell": "figurative"
+  },
+  {
+    "cefr": "",
+    "def2": "foedum est",
+    "def1": "это противно",
+    "ipa": "ðæts ˈnæsti",
+    "spell": "that's nasty"
+  },
+  {
+    "cefr": "",
+    "def2": "fīlmās spectāre dēsiī",
+    "def1": "я перестала смотреть фильмы",
+    "ipa": "aɪ stɑpt ˈwɑʧɪŋ ˈmuviz",
+    "spell": "I stopped watching movies"
+  },
+  {
+    "cefr": "",
+    "def2": "glaciēs et ignis",
+    "def1": "лёд и пламя",
+    "ipa": "aɪs ænd ˈfaɪər",
+    "spell": "ice and fire"
+  },
+  {
+    "cefr": "",
+    "def2": "herōs es",
+    "def1": "ты герой",
+    "ipa": "ju ɑr ə ˈhɪroʊ",
+    "spell": "you are a hero"
+  },
+  {
+    "cefr": "",
+    "def2": "hoc officium dēmittere",
+    "def1": "уволиться с этой работы",
+    "ipa": "tu kwɪt ðɪs ʤɑb",
+    "spell": "to quit this job"
+  },
+  {
+    "cefr": "",
+    "def2": "homō duplex",
+    "def1": "двуличный человек",
+    "ipa": "ə tu-feɪst ˈpɜrsən",
+    "spell": "a two-faced person"
+  },
+  {
+    "cefr": "",
+    "def2": "homō loquāx sum",
+    "def1": "я разговорчивый человек",
+    "ipa": "aɪ æm ə ˈtɔkətɪv ˈpɜrsən",
+    "spell": "I am a talkative person"
+  },
+  {
+    "cefr": "",
+    "def2": "homō sociābilis",
+    "def1": "общительный человек",
+    "ipa": "ə ˈsoʊʃəbəl ˈpɜrsən",
+    "spell": "a sociable person"
+  },
+  {
+    "cefr": "",
+    "def2": "homō taciturnus est",
+    "def1": "он тихий человек",
+    "ipa": "hiz ə ˈkwaɪət ˈpɜrsən",
+    "spell": "he's a quiet person"
+  },
+  {
+    "cefr": "",
+    "def2": "homō tranquillissimus",
+    "def1": "очень спокойный человек",
+    "ipa": "ə ˈvɛri kɑm ˈpɜrsən",
+    "spell": "a very calm person"
+  },
+  {
+    "cefr": "",
+    "def2": "homō turbidus",
+    "def1": "конфликтный человек",
+    "ipa": "ə ˈtrʌbəlˌmeɪkər",
+    "spell": "a trouble-maker"
+  },
+  {
+    "cefr": "",
+    "def2": "homō ēnergicus",
+    "def1": "энергичный человек",
+    "ipa": "ən ˌɛnərˈʤɛtɪk ˈpɜrsən",
+    "spell": "an energetic person"
+  },
+  {
+    "cefr": "",
+    "def2": "honēstē",
+    "def1": "честно",
+    "ipa": "ˈɑnəstli",
+    "spell": "honestly"
+  },
+  {
+    "cefr": "",
+    "def2": "id perficī",
+    "def1": "сделать это",
+    "ipa": "tu hæv ɪt dʌn",
+    "spell": "to have it done"
+  },
+  {
+    "cefr": "",
+    "def2": "id repetere cōnor",
+    "def1": "я пытаюсь его вернуть",
+    "ipa": "aɪ traɪ tu ɡɛt ɪt bæk",
+    "spell": "I try to get it back"
+  },
+  {
+    "cefr": "",
+    "def2": "illud augēre",
+    "def1": "поднять это",
+    "ipa": "tu reɪz ɪt",
+    "spell": "to raise it"
+  },
+  {
+    "cefr": "",
+    "def2": "illī hominēs",
+    "def1": "те люди",
+    "ipa": "ðoʊz ˈpipəl",
+    "spell": "those people"
+  },
+  {
+    "cefr": "",
+    "def2": "illī mē taedent",
+    "def1": "они задрали",
+    "ipa": "aɪm soʊ sɪk ʌv ðɛm",
+    "spell": "I’m so sick of them"
+  },
+  {
+    "cefr": "",
+    "def2": "impudentēs factī sunt",
+    "def1": "они обнаглели",
+    "ipa": "ðeɪv bɪˈkʌm ˈʃeɪmləs",
+    "spell": "they’ve become shameless"
+  },
+  {
+    "cefr": "",
+    "def2": "impātiēns sum",
+    "def1": "я нетерпелива",
+    "ipa": "aɪ æm ɪmˈpeɪʃənt",
+    "spell": "I am impatient"
+  },
+  {
+    "cefr": "",
+    "def2": "in hāc positōne labōrāre nōn possum",
+    "def1": "я не могу работать на этой должности",
+    "ipa": "aɪ ˈkænɑt wɜrk ɪn ðɪs pəˈzɪʃən",
+    "spell": "I cannot work in this position"
+  },
+  {
+    "cefr": "",
+    "def2": "in memoriā nōn manet",
+    "def1": "это не остаётся в памяти",
+    "ipa": "ɪt ˈdʌzənt steɪ ɪn maɪ ˈmɛməri",
+    "spell": "it doesn't stay in my memory"
+  },
+  {
+    "cefr": "",
+    "def2": "in sōle",
+    "def1": "на солнце",
+    "ipa": "ɪn ðə sʌn",
+    "spell": "in the sun"
+  },
+  {
+    "cefr": "",
+    "def2": "ipse nōn vult",
+    "def1": "он сам этого не хочет",
+    "ipa": "hi ˈdʌzənt wɑnt ɪt hɪmˈsɛlf",
+    "spell": "he doesn't want it himself"
+  },
+  {
+    "cefr": "",
+    "def2": "is et ego",
+    "def1": "он и я",
+    "ipa": "hi ænd aɪ",
+    "spell": "he and I"
+  },
+  {
+    "cefr": "",
+    "def2": "jam diū fēcissem",
+    "def1": "я бы давно это сделала",
+    "ipa": "aɪ wʊd hæv dʌn ɪt lɔŋ əˈɡoʊ",
+    "spell": "I would have done it long ago"
+  },
+  {
+    "cefr": "",
+    "def2": "jam diū loquī coepissem",
+    "def1": "я бы давно заговорила",
+    "ipa": "aɪ wʊd hæv ˈstɑrtɪd ˈspikɪŋ lɔŋ əˈɡoʊ",
+    "spell": "I would have started speaking long ago"
+  },
+  {
+    "cefr": "",
+    "def2": "jam diū loquī coepissem",
+    "def1": "я бы давно уже заговорила",
+    "ipa": "aɪ ˈwʊdəv bɪn ˈtɔkɪŋ baɪ naʊ",
+    "spell": "I would’ve been talking by now"
+  },
+  {
+    "cefr": "",
+    "def2": "labōrem gravem facere",
+    "def1": "делать тяжёлую работу",
+    "ipa": "tu du ˈhɛvi ˈlɪftɪŋ",
+    "spell": "to do heavy lifting"
+  },
+  {
+    "cefr": "",
+    "def2": "labōrem gravem mē facere rogāvērunt",
+    "def1": "они попросили меня делать тяжёлую работу",
+    "ipa": "ðeɪ æskt mi tu du ˈhɛvi wɜrk",
+    "spell": "they asked me to do heavy work"
+  },
+  {
+    "cefr": "",
+    "def2": "labōrāre dēbuī",
+    "def1": "мне пришлось работать",
+    "ipa": "aɪ hæd tu wɜrk",
+    "spell": "I had to work"
+  },
+  {
+    "cefr": "",
+    "def2": "labōrāre independenter",
+    "def1": "работать независимо",
+    "ipa": "wɜrk ˌɪndɪˈpɛndəntli",
+    "spell": "work independently"
+  },
+  {
+    "cefr": "",
+    "def2": "labōrāre pergebant",
+    "def1": "они продолжали работать",
+    "ipa": "ðeɪ kɛpt ˈwɜrkɪŋ",
+    "spell": "they kept working"
+  },
+  {
+    "cefr": "",
+    "def2": "magnās ordinēs posterō servāvērunt",
+    "def1": "они оставляют большие заказы на конец",
+    "ipa": "ðeɪ seɪv bɪɡ ˈɔrdərz fɔr læst",
+    "spell": "they save big orders for last"
+  },
+  {
+    "cefr": "",
+    "def2": "male tibi erit",
+    "def1": "тебе будет плохо",
+    "ipa": "ju wɪl hæv ɪt bæd",
+    "spell": "you will have it bad"
+  },
+  {
+    "cefr": "",
+    "def2": "marītus caput est, sed uxor cervīx",
+    "def1": "муж — голова, но жена — шея",
+    "ipa": "ðə ˈhʌzbənd ɪz ðə hɛd bʌt ðə waɪf ɪz ðə nɛk",
+    "spell": "the husband is the head but the wife is the neck"
+  },
+  {
+    "cefr": "",
+    "def2": "mihī dīxit",
+    "def1": "он сказал мне",
+    "ipa": "hi toʊld mi",
+    "spell": "he told me"
+  },
+  {
+    "cefr": "",
+    "def2": "mihī favōrem dedit",
+    "def1": "она сделала мне одолжение",
+    "ipa": "ʃi dɪd mi ə ˈfeɪvər",
+    "spell": "she did me a favor"
+  },
+  {
+    "cefr": "",
+    "def2": "monētārium",
+    "def1": "чаевые",
+    "ipa": "ə tɪp",
+    "spell": "a tip"
+  },
+  {
+    "cefr": "",
+    "def2": "multa ēventa",
+    "def1": "много событий",
+    "ipa": "ə lɑt ʌv ɪˈvɛnts",
+    "spell": "a lot of events"
+  },
+  {
+    "cefr": "",
+    "def2": "multō occupātius est",
+    "def1": "он гораздо оживлённее",
+    "ipa": "ɪt ɪz mʌʧ ˈbɪziər",
+    "spell": "it is much busier"
+  },
+  {
+    "cefr": "",
+    "def2": "mē ad secundum colloquium invītāvērunt",
+    "def1": "они пригласили меня на второе собеседование",
+    "ipa": "ðeɪ ɪnˈvaɪtɪd mi fɔr ə ˈsɛkənd ˈɪntərˌvju",
+    "spell": "they invited me for a second interview"
+  },
+  {
+    "cefr": "",
+    "def2": "mē īnspīrās",
+    "def1": "ты вдохновляешь меня",
+    "ipa": "ju ɪnˈspaɪr mi",
+    "spell": "you inspire me"
+  },
+  {
+    "cefr": "",
+    "def2": "mōrāliter",
+    "def1": "морально",
+    "ipa": "ˈmɔrəli",
+    "spell": "morally"
+  },
+  {
+    "cefr": "",
+    "def2": "mōrāliter dēfatīgārī",
+    "def1": "уставать морально",
+    "ipa": "tu ɡɛt ˈmɛntəli ɪɡˈzɑstɪd",
+    "spell": "to get mentally exhausted"
+  },
+  {
+    "cefr": "",
+    "def2": "nē litigem",
+    "def1": "чтобы не ругаться",
+    "ipa": "soʊ aɪ doʊnt ɡɛt ˈɪntu ə faɪt",
+    "spell": "so I don’t get into a fight"
+  },
+  {
+    "cefr": "",
+    "def2": "nē plūs solvant",
+    "def1": "чтобы им не пришлось платить больше",
+    "ipa": "soʊ ðæt ðeɪ doʊnt hæv tu peɪ mɔr",
+    "spell": "so that they don't have to pay more"
+  },
+  {
+    "cefr": "",
+    "def2": "nōlī spem āmittere",
+    "def1": "не теряй надежду",
+    "ipa": "doʊnt luz hoʊp",
+    "spell": "don't lose hope"
+  },
+  {
+    "cefr": "",
+    "def2": "nōn habēmus tempus exspectandī",
+    "def1": "у нас нет времени ждать",
+    "ipa": "wi doʊnt hæv taɪm tu weɪt",
+    "spell": "we don't have time to wait"
+  },
+  {
+    "cefr": "",
+    "def2": "nōn vult reāliter",
+    "def1": "он не очень этого хочет",
+    "ipa": "hi ˈdʌzənt ˈrɪli wɑnt ɪt",
+    "spell": "he doesn't really want it"
+  },
+  {
+    "cefr": "",
+    "def2": "nōndum",
+    "def1": "ещё нет",
+    "ipa": "nɑt jɛt",
+    "spell": "not yet"
+  },
+  {
+    "cefr": "",
+    "def2": "nōndum parātus",
+    "def1": "он ещё не готов",
+    "ipa": "hi ɪz nɑt ˈrɛdi jɛt",
+    "spell": "he is not ready yet"
+  },
+  {
+    "cefr": "",
+    "def2": "nōndum parātus incipere",
+    "def1": "он не готов начать",
+    "ipa": "hi ɪz nɑt ˈrɛdi tu stɑrt",
+    "spell": "he is not ready to start"
+  },
+  {
+    "cefr": "",
+    "def2": "nōndum rogāvit",
+    "def1": "он ещё не спросил",
+    "ipa": "hi hæz nɑt æskt jɛt",
+    "spell": "he has not asked yet"
+  },
+  {
+    "cefr": "",
+    "def2": "nōndum rogāvit dominum",
+    "def1": "он ещё не спросил начальника",
+    "ipa": "hi stɪl hæz nɑt æskt hɪz bɑs",
+    "spell": "he still has not asked his boss"
+  },
+  {
+    "cefr": "",
+    "def2": "omnia hīc et nunc volō",
+    "def1": "я хочу всё здесь и сейчас",
+    "ipa": "aɪ wɑnt ˈɛvriˌθɪŋ hir ænd naʊ",
+    "spell": "I want everything here and now"
+  },
+  {
+    "cefr": "",
+    "def2": "omnēs positōnēs complētae sunt",
+    "def1": "все позиции заняты",
+    "ipa": "ɔl ðə pəˈzɪʃənz ɑr fɪld",
+    "spell": "all the positions are filled"
+  },
+  {
+    "cefr": "",
+    "def2": "patientiam habēre",
+    "def1": "иметь терпение",
+    "ipa": "tu hæv ˈpeɪʃəns",
+    "spell": "to have patience"
+  },
+  {
+    "cefr": "",
+    "def2": "per urbem ambulāvimus",
+    "def1": "мы гуляли по городу",
+    "ipa": "wi wɔkt əˈraʊnd ðə ˈsɪti",
+    "spell": "we walked around the city"
+  },
+  {
+    "cefr": "",
+    "def2": "pertināx",
+    "def1": "настойчивый",
+    "ipa": "pərˈsɪstənt",
+    "spell": "persistent"
+  },
+  {
+    "cefr": "",
+    "def2": "plūs exspectāre",
+    "def1": "ждать дольше",
+    "ipa": "tu weɪt ˈlɔŋɡər",
+    "spell": "to wait longer"
+  },
+  {
+    "cefr": "",
+    "def2": "plūs nōn solvent",
+    "def1": "они не будут платить больше",
+    "ipa": "ðeɪ wɪl nɑt peɪ mɔr",
+    "spell": "they will not pay more"
+  },
+  {
+    "cefr": "",
+    "def2": "plūs quam is exspectō",
+    "def1": "я жду больше, чем он",
+    "ipa": "aɪ weɪt ˈlɔŋɡər ðæn hi dʌz",
+    "spell": "I wait longer than he does"
+  },
+  {
+    "cefr": "",
+    "def2": "plūs quam is exspectō",
+    "def1": "я жду дольше, чем он",
+    "ipa": "aɪ weɪt ˈlɔŋɡər ðæn hɪm",
+    "spell": "I wait longer than him"
+  },
+  {
+    "cefr": "",
+    "def2": "plūs solvere",
+    "def1": "платить больше",
+    "ipa": "tu peɪ mɔr",
+    "spell": "to pay more"
+  },
+  {
+    "cefr": "",
+    "def2": "potuit studēre sex mēnsēs",
+    "def1": "он мог учиться шесть месяцев",
+    "ipa": "hi kʊd ˈstʌdi fɔr 6 mʌnθs",
+    "spell": "he could study for 6 months"
+  },
+  {
+    "cefr": "",
+    "def2": "prō nostrā dēmissiōne",
+    "def1": "для нашей пенсии",
+    "ipa": "fɔr ˈaʊər rɪˈtaɪərmənt",
+    "spell": "for our retirement"
+  },
+  {
+    "cefr": "",
+    "def2": "prō omnibus positōnibus",
+    "def1": "на все должности",
+    "ipa": "fɔr ɔl ðə pəˈzɪʃənz (ʤɑbz)",
+    "spell": "for all the positions (jobs)"
+  },
+  {
+    "cefr": "",
+    "def2": "queruntur",
+    "def1": "они жалуются",
+    "ipa": "ðeɪ kəmˈpleɪn",
+    "spell": "they complain"
+  },
+  {
+    "cefr": "",
+    "def2": "quid diaboli?",
+    "def1": "какого чёрта?",
+    "ipa": "wɑt ðə hɛl?",
+    "spell": "what the hell?"
+  },
+  {
+    "cefr": "",
+    "def2": "quidquid efficit",
+    "def1": "главное, чтобы сработало",
+    "ipa": "ˌwʌˈtɛvər wɜrks",
+    "spell": "whatever works"
+  },
+  {
+    "cefr": "",
+    "def2": "rōdēum",
+    "def1": "родео",
+    "ipa": "ə ˈroʊdiˌoʊ",
+    "spell": "a rodeo"
+  },
+  {
+    "cefr": "",
+    "def2": "saltem ūnus",
+    "def1": "хотя бы один",
+    "ipa": "æt list wʌn",
+    "spell": "at least one"
+  },
+  {
+    "cefr": "",
+    "def2": "saltem ūnus quī Anglicē loquī potest",
+    "def1": "хотя бы один человек, говорящий по-английски",
+    "ipa": "æt list wʌn ˈpɜrsən hu kæn spik ˈɪŋɡlɪʃ",
+    "spell": "at least one person who can speak English"
+  },
+  {
+    "cefr": "",
+    "def2": "salārium ejus augēre",
+    "def1": "повысить ему зарплату",
+    "ipa": "tu reɪz hɪz ˈsæləri",
+    "spell": "to raise his salary"
+  },
+  {
+    "cefr": "",
+    "def2": "satis hominum condūxērunt",
+    "def1": "они наняли достаточно людей",
+    "ipa": "ðeɪ hæv ˈhaɪərd ɪˈnʌf ˈpipəl",
+    "spell": "they have hired enough people"
+  },
+  {
+    "cefr": "",
+    "def2": "semper nervōsus eram",
+    "def1": "я всегда нервничала",
+    "ipa": "aɪ wʌz ˈɔlˌweɪz ˈnɜrvəs",
+    "spell": "I was always nervous"
+  },
+  {
+    "cefr": "",
+    "def2": "semper prōgreditur",
+    "def1": "он всегда развивается",
+    "ipa": "ɪt ɪz ˈɔlˌweɪz dɪˈvɛləpɪŋ",
+    "spell": "it is always developing"
+  },
+  {
+    "cefr": "",
+    "def2": "semper rīdēns",
+    "def1": "всегда улыбающийся",
+    "ipa": "ˈɔlˌweɪz ˈsmaɪlɪŋ",
+    "spell": "always smiling"
+  },
+  {
+    "cefr": "",
+    "def2": "semper tolerāre necesse est",
+    "def1": "надо вечно терпеть",
+    "ipa": "ju ˈɔlˌweɪz hæv tu pʊt ʌp wɪð ɪt",
+    "spell": "you always have to put up with it"
+  },
+  {
+    "cefr": "",
+    "def2": "servus laetus",
+    "def1": "счастливый раб",
+    "ipa": "ə ˈhæpi sleɪv",
+    "spell": "a happy slave"
+  },
+  {
+    "cefr": "",
+    "def2": "simul atque labōrāre coepit, linguam discere dēsiit",
+    "def1": "как только начал работать, он бросил учить язык",
+    "ipa": "ðə ˈmoʊmənt hi bɪˈɡæn ˈwɜrkɪŋ, hi kwɪt ˈstʌdiɪŋ ðə ˈlæŋɡwəʤ",
+    "spell": "the moment he began working, he quit studying the language"
+  },
+  {
+    "cefr": "",
+    "def2": "sine pecūniā fīnam",
+    "def1": "я останусь без денег",
+    "ipa": "aɪ wɪl ɛnd ʌp wɪˈθaʊt ˈmʌni",
+    "spell": "I will end up without money"
+  },
+  {
+    "cefr": "",
+    "def2": "sortāre",
+    "def1": "сортировать",
+    "ipa": "tu sɔrt",
+    "spell": "to sort"
+  },
+  {
+    "cefr": "",
+    "def2": "statim",
+    "def1": "сразу",
+    "ipa": "ɪˈmidiətli",
+    "spell": "immediately"
+  },
+  {
+    "cefr": "",
+    "def2": "statim",
+    "def1": "сразу",
+    "ipa": "raɪt əˈweɪ",
+    "spell": "right away"
+  },
+  {
+    "cefr": "",
+    "def2": "studium Anglicī āmīsī",
+    "def1": "я потеряла интерес к английскому",
+    "ipa": "aɪ lɔst maɪ ˈɪntrəst ɪn ˈɪŋɡlɪʃ",
+    "spell": "I lost my interest in English"
+  },
+  {
+    "cefr": "",
+    "def2": "sub currū",
+    "def1": "под машиной",
+    "ipa": "ˈʌndər ðə kɑr",
+    "spell": "under the car"
+  },
+  {
+    "cefr": "",
+    "def2": "sub tēctō",
+    "def1": "под крышей",
+    "ipa": "ˈʌndər ðə ruf",
+    "spell": "under the roof"
+  },
+  {
+    "cefr": "",
+    "def2": "sustinēbam",
+    "def1": "я терпела",
+    "ipa": "aɪ ɛnˈdjʊrd",
+    "spell": "I endured"
+  },
+  {
+    "cefr": "",
+    "def2": "sustinēre",
+    "def1": "выдерживать",
+    "ipa": "tu ɛnˈdjʊr",
+    "spell": "to endure"
+  },
+  {
+    "cefr": "",
+    "def2": "sī nōlunt plūs solvere, nōn solvent",
+    "def1": "если не хотят платить больше, то не будут",
+    "ipa": "ɪf ðeɪ doʊnt wɑnt tu peɪ mɔr, ðeɪ wɪl nɑt",
+    "spell": "if they don't want to pay more, they will not"
+  },
+  {
+    "cefr": "",
+    "def2": "sī permānēret, acciperem",
+    "def1": "если бы это было постоянно, я бы взяла",
+    "ipa": "ɪf ɪt wɜr ˈpɜrmənənt aɪ wʊd teɪk ɪt",
+    "spell": "if it were permanent I would take it"
+  },
+  {
+    "cefr": "",
+    "def2": "sī salārium nōn augent",
+    "def1": "если ему не повысят зарплату",
+    "ipa": "ɪf ðeɪ doʊnt reɪz hɪz ˈsæləri",
+    "spell": "if they don't raise his salary"
+  },
+  {
+    "cefr": "",
+    "def2": "taceō nē litigem",
+    "def1": "молчу чтобы не ругаться",
+    "ipa": "aɪ steɪ ˈkwaɪət tu əˈvɔɪd ˈɑrɡjuɪŋ",
+    "spell": "I stay quiet to avoid arguing"
+  },
+  {
+    "cefr": "",
+    "def2": "tempus fugit",
+    "def1": "время летит",
+    "ipa": "taɪm flaɪz",
+    "spell": "time flies"
+  },
+  {
+    "cefr": "",
+    "def2": "terra aliēna",
+    "def1": "чужая страна",
+    "ipa": "ə ˈfɔrən ˈkʌntri",
+    "spell": "a foreign country"
+  },
+  {
+    "cefr": "",
+    "def2": "terra mīra",
+    "def1": "странная страна",
+    "ipa": "ə streɪnʤ ˈkʌntri",
+    "spell": "a strange country"
+  },
+  {
+    "cefr": "",
+    "def2": "timēbam",
+    "def1": "я боялась",
+    "ipa": "aɪ wʌz əˈfreɪd",
+    "spell": "I was afraid"
+  },
+  {
+    "cefr": "",
+    "def2": "tolerāre",
+    "def1": "терпеть",
+    "ipa": "tu ɛnˈdjʊr",
+    "spell": "to endure"
+  },
+  {
+    "cefr": "",
+    "def2": "tolerāre et labōrāre porrō",
+    "def1": "терпеть и работать дальше",
+    "ipa": "ɡrɪn ænd bɛr ɪt",
+    "spell": "grin and bear it"
+  },
+  {
+    "cefr": "",
+    "def2": "trahunt",
+    "def1": "они затягивают, тянут",
+    "ipa": "ðeɪ ɑr ˈdræɡɪŋ ɪt aʊt / ðeɪ ɑr ˈstɔlɪŋ",
+    "spell": "they are dragging it out / they are stalling"
+  },
+  {
+    "cefr": "",
+    "def2": "trahunt pedēs",
+    "def1": "они тянут время",
+    "ipa": "ðeɪ dræɡ ðɛr fit",
+    "spell": "they drag their feet"
+  },
+  {
+    "cefr": "",
+    "def2": "ubi labōrem gravem facere dēbuī",
+    "def1": "где мне пришлось делать тяжёлую работу",
+    "ipa": "wɛr aɪ hæd tu du ˈhɛvi wɜrk",
+    "spell": "where I had to do heavy work"
+  },
+  {
+    "cefr": "",
+    "def2": "ultimātum",
+    "def1": "ультиматум",
+    "ipa": "ən ˌʌltəˈmeɪtəm",
+    "spell": "an ultimatum"
+  },
+  {
+    "cefr": "",
+    "def2": "urbs elegantior",
+    "def1": "более модный город",
+    "ipa": "ə mɔr ˈfæʃənəbəl ˈsɪti",
+    "spell": "a more fashionable city"
+  },
+  {
+    "cefr": "",
+    "def2": "usque ad fīnem Septembris",
+    "def1": "до конца сентября",
+    "ipa": "ənˈtɪl ði ɛnd ʌv sɛpˈtɛmbər",
+    "spell": "until the end of september"
+  },
+  {
+    "cefr": "",
+    "def2": "usque ad Septembrem ultimum",
+    "def1": "до конца сентября",
+    "ipa": "ənˈtɪl leɪt sɛpˈtɛmbər",
+    "spell": "until late September"
+  },
+  {
+    "cefr": "",
+    "def2": "ut cum hominibus loquar",
+    "def1": "чтобы я могла разговаривать с людьми",
+    "ipa": "soʊ ðæt aɪ kæn tɔk tu ˈpipəl",
+    "spell": "so that I can talk to people"
+  },
+  {
+    "cefr": "",
+    "def2": "ut experientiam nancīscar",
+    "def1": "чтобы я могла получить опыт",
+    "ipa": "soʊ ðæt aɪ kæn ɡɛt ɪkˈspɪriəns",
+    "spell": "so that I can get experience"
+  },
+  {
+    "cefr": "",
+    "def2": "uxōris meae cōnsilium erat",
+    "def1": "это была идея моей жены",
+    "ipa": "ɪt wʌz maɪ waɪfs aɪˈdiə",
+    "spell": "it was my wife's idea"
+  },
+  {
+    "cefr": "",
+    "def2": "valdē īnspīrās",
+    "def1": "ты очень вдохновляешь",
+    "ipa": "ju ɑr ˈvɛri ɪnˈspaɪrɪŋ",
+    "spell": "you are very inspiring"
+  },
+  {
+    "cefr": "",
+    "def2": "verba tua",
+    "def1": "твои слова",
+    "ipa": "jʊər wɜrdz",
+    "spell": "your words"
+  },
+  {
+    "cefr": "",
+    "def2": "verbum phrāsāle",
+    "def1": "фразовый глагол",
+    "ipa": "ə ˈfreɪzəl vɜrb",
+    "spell": "a phrasal verb"
+  },
+  {
+    "cefr": "",
+    "def2": "vestēs ūsitātae",
+    "def1": "поношенная одежда",
+    "ipa": "juzd kloʊðz",
+    "spell": "used clothes"
+  },
+  {
+    "cefr": "",
+    "def2": "vix Anglicē loquitur",
+    "def1": "он едва говорит по-английски",
+    "ipa": "hi ˈhɑrdli spiks ˈɛni ˈɪŋɡlɪʃ",
+    "spell": "he hardly speaks any English"
+  },
+  {
+    "cefr": "",
+    "def2": "vix Anglicē loquitur",
+    "def1": "он почти не говорит по-английски",
+    "ipa": "hi ˈɔlˌmoʊst spiks noʊ ˈɪŋɡlɪʃ",
+    "spell": "he almost speaks no English"
+  },
+  {
+    "cefr": "",
+    "def2": "vītam tranquillam amant",
+    "def1": "они любят тихую жизнь",
+    "ipa": "ðeɪ lʌv ˈkwaɪət laɪf",
+    "spell": "they love quiet life"
+  },
+  {
+    "cefr": "",
+    "def2": "ēsuriēs",
+    "def1": "ты голоден",
+    "ipa": "ju ɑr ˈhʌŋɡri",
+    "spell": "you are hungry"
+  }
 ]
