@@ -1,6 +1,7 @@
 import "../styles/voksa.scss";
 import React from "react";
 import cuxna from "../data/p250322.json";
+// import Word from "../components/Word";
 
 class Voksa extends React.Component {
     componentDidMount() {
@@ -49,6 +50,10 @@ class Voksa extends React.Component {
         }
         return (
             <div className="voksa">
+                <section>
+
+                    {/* <Word word={{ idx: "1", def1: "word.def1", cefr: "word.cefr", ipa: "word.ipa", spell: "word.spell" }} /> */}
+                </section>
                 <section className="cuxna">
                     {cuxnaFinal}
                 </section>
