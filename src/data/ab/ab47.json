@@ -1,0 +1,960 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "number": 47,
+  "date": "2025-07-15",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бухта",
+   "ipa": "ə beɪ",
+   "spell": "a bay"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "блейзер",
+   "ipa": "ə ˈbleɪzər",
+   "spell": "a blazer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "напряжённый график",
+   "ipa": "ə ˈbɪzi ˈskɛʤʊl",
+   "spell": "a busy schedule"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "студент колледжа",
+   "ipa": "ə ˈkɑlɪʤ ˈstudənt",
+   "spell": "a college student"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иностранный студент",
+   "ipa": "ə ˈfɔrən ˈstudənt",
+   "spell": "a foreign student"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много времени",
+   "ipa": "ə lɑt ʌv taɪm",
+   "spell": "a lot of time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дождевик",
+   "ipa": "ə ˈreɪnˌkoʊt",
+   "spell": "a raincoat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "курорт",
+   "ipa": "ə rɪˈzɔrt",
+   "spell": "a resort"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ветровка",
+   "ipa": "ə ˈwɪndbɹeɪkə(ɹ)",
+   "spell": "a windbreaker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "саманный цвет",
+   "ipa": "əˈdoʊbi ˈkʌlər",
+   "spell": "adobe color"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "после этого",
+   "ipa": "ˈæftər ðæt",
+   "spell": "after that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "снова",
+   "ipa": "əˈɡɛn",
+   "spell": "again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всю её жизнь",
+   "ipa": "ɔl hɜr laɪf",
+   "spell": "all her life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сотрудник таможенной полиции",
+   "ipa": "ən aɪs ˈeɪʤənt",
+   "spell": "an ICE agent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нелегальный иммигрант",
+   "ipa": "ən ɪˈliɡəl ˈɪməɡrənt",
+   "spell": "an illegal immigrant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "туалет на улице",
+   "ipa": "ən ˈaʊtˌhaʊs",
+   "spell": "an outhouse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "за раз",
+   "ipa": "æt ə taɪm",
+   "spell": "at a time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красивый",
+   "ipa": "ˈbjutəfəl",
+   "spell": "beautiful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потому что у меня нет времени",
+   "ipa": "bɪˈkɔz aɪ hæv noʊ taɪm",
+   "spell": "because I have no time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "большой - больше - самый большой",
+   "ipa": "bɪɡ - ˈbɪɡər - ðə ˈbɪɡəst",
+   "spell": "big - bigger - the biggest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кирпичный цвет",
+   "ipa": "brɪk ˈkʌlər",
+   "spell": "brick color"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чушь собачья",
+   "ipa": "ˈbʊlˌʃɪt",
+   "spell": "bullshit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты меня слышишь?",
+   "ipa": "kæn ju hir mi?",
+   "spell": "can you hear me?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "удобный",
+   "ipa": "ˈkʌmfərtəbəl",
+   "spell": "comfortable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сложный, запутанный",
+   "ipa": "ˈkɑmplɛks",
+   "spell": "complex"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "глубокий",
+   "ipa": "dip",
+   "spell": "deep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брендовая одежда",
+   "ipa": "dɪˈzaɪnər kloʊðz",
+   "spell": "designer clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты чувствуешь себя в безопасности?",
+   "ipa": "du ju fil seɪf?",
+   "spell": "do you feel safe?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто-нибудь ещё в доме что-то делает?",
+   "ipa": "dʌz ˈɛnibədi ɛls ɪn ðə haʊs du ˈɛniˌθɪŋ?",
+   "spell": "does anybody else in the house do anything?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все остальные в доме",
+   "ipa": "ˈɛvriˌbɑdi ɛls ɪn ðə haʊs",
+   "spell": "everybody else in the house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наконец",
+   "ipa": "ˈfaɪnəli",
+   "spell": "finally"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по крайней мере 10 минут",
+   "ipa": "fɔr æt list tɛn ˈmɪnəts",
+   "spell": "for at least ten minutes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "съездить в короткий отпуск",
+   "ipa": "ɡoʊ ɑn ə ʃɔrt veɪˈkeɪʃən",
+   "spell": "go on a short vacation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хороший - лучше - самый лучший",
+   "ipa": "ɡʊd - ˈbɛtər - ðə bɛst",
+   "spell": "good - better - the best"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ему скучно",
+   "ipa": "hi ɪz bɔrd",
+   "spell": "he is bored"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тяжёлый - тяжелее - самый тяжелый",
+   "ipa": "ˈhɛvi - ˈhɛviər - ðə ˈhɛviəst",
+   "spell": "heavy - heavier - the heaviest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "охереть можно",
+   "ipa": "ˈhoʊli fʌk!",
+   "spell": "holy fuck!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я всегда опаздываю",
+   "ipa": "aɪ æm ˈɔlˌweɪz leɪt",
+   "spell": "I am always late"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаком с этим",
+   "ipa": "aɪ æm nɑt fəˈmɪljər wɪð ðæt",
+   "spell": "I am not familiar with that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тебя слышу",
+   "ipa": "aɪ kæn hir ju",
+   "spell": "I can hear you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я возвращаюсь домой",
+   "ipa": "aɪ kʌm bæk hoʊm",
+   "spell": "I come back home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет времени ни на что",
+   "ipa": "aɪ doʊnt hæv taɪm fɔr ˈɛniˌθɪŋ",
+   "spell": "I don't have time for anything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я получила ноль",
+   "ipa": "aɪ ɡɑt ə ˈzɪroʊ",
+   "spell": "I got a zero"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня есть подруга",
+   "ipa": "aɪ hæv ə ˈɡɜrlˌfrɛnd",
+   "spell": "I have a girlfriend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня есть план",
+   "ipa": "aɪ hæv ə plæn",
+   "spell": "I have a plan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет на это времени",
+   "ipa": "aɪ hæv noʊ taɪm fɔr ðæt",
+   "spell": "I have no time for that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет времени ни на что",
+   "ipa": "aɪ hæv taɪm fɔr ˈnʌθɪŋ",
+   "spell": "I have time for nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я должен сделать домашнюю работу",
+   "ipa": "aɪ hæv tu du maɪ ˈhoʊmˌwɜrk",
+   "spell": "I have to do my homework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится осень",
+   "ipa": "aɪ laɪk fɔl",
+   "spell": "I like fall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится межсезонье",
+   "ipa": "aɪ laɪk ði ɔf-ˈsizən",
+   "spell": "I like the off-season"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится межсезонье",
+   "ipa": "aɪ laɪk ðə ˈʃoʊldər ˈsizən",
+   "spell": "I like the shoulder season"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я должен пообщаться с другом",
+   "ipa": "aɪ mʌst ˈvɪzət wɪð maɪ frɛnd",
+   "spell": "I must visit with my friend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я каждый день обещаю ей, что навещу её",
+   "ipa": "aɪ ˈprɑməs hɜr ˈɛvəri deɪ ðæt aɪ wɪl ˈvɪzət hɜr",
+   "spell": "I promise her every day that I will visit her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я плавала в озере",
+   "ipa": "aɪ swæm ɪn ðə leɪk",
+   "spell": "I swam in the lake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я принимаю душ сначала",
+   "ipa": "aɪ teɪk ə ˈʃaʊər fɜrst",
+   "spell": "I take a shower first"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не буду тренироваться",
+   "ipa": "aɪ wɪl nɑt ˈɛksərˌsaɪz",
+   "spell": "I will not exercise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я поплаваю",
+   "ipa": "aɪ wɪl swɪm",
+   "spell": "I will swim"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я много работаю",
+   "ipa": "aɪ wɜrk ə lɑt",
+   "spell": "I work a lot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я работаю по девять часов за раз",
+   "ipa": "aɪ wɜrk naɪn ˈaʊərz æt ə taɪm",
+   "spell": "I work nine hours at a time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если подаёшься как иммигрант",
+   "ipa": "ɪf ju əˈplaɪ æz ən ˈɪməɡrənt",
+   "spell": "if you apply as an immigrant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в больших городах возможно",
+   "ipa": "ɪn bɪɡ ˈsɪtiz ˈmeɪbi",
+   "spell": "in big cities maybe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это озеро Камберленд ближайшее к тебе?",
+   "ipa": "ɪz leɪk ˈkʌmbərlənd ðə ˈkloʊsəst leɪk tu ju?",
+   "spell": "is Lake Cumberland the closest lake to you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уже две недели так",
+   "ipa": "ɪt hæz bɪn tu wiks laɪk ðæt",
+   "spell": "it has been two weeks like that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это по всем новостям",
+   "ipa": "ɪt ɪz ɔl ˈoʊvər ðə nuz",
+   "spell": "it is all over the news"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не конец",
+   "ipa": "ɪt ɪz nɑt ði ɛnd",
+   "spell": "it is not the end"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это длится годами",
+   "ipa": "ɪt læsts fɔr jɪrz",
+   "spell": "it lasts for years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вчера шёл дождь",
+   "ipa": "ɪt reɪnd ˈjɛstərˌdeɪ",
+   "spell": "it rained yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "озеро Онтарио очень холодное",
+   "ipa": "leɪk ɑnˈtɛrioʊ ɪz ˈvɛri koʊld",
+   "spell": "Lake Ontario is very cold"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "многие боятся путешествовать",
+   "ipa": "ˈmɛni ˈpipəl ɑr əˈfreɪd tu ˈtrævəl",
+   "spell": "many people are afraid to travel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "может быть, это потому что оно глубокое",
+   "ipa": "ˈmeɪbi ɪt ɪz bɪˈkɔz ɪt ɪz dip",
+   "spell": "maybe it is because it is deep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "более сложный",
+   "ipa": "mɔr ˈkɑmplɛks",
+   "spell": "more complex"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "более дорогой",
+   "ipa": "mɔr ɪkˈspɛnsɪv",
+   "spell": "more expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скорее всего",
+   "ipa": "moʊst ˈlaɪkli",
+   "spell": "most likely"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в основном Колумбия",
+   "ipa": "ˈmoʊstli kəˈlʌmbiə",
+   "spell": "mostly Columbia"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "намного дешевле",
+   "ipa": "mʌʧ ˈʧipər",
+   "spell": "much cheaper"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много времени",
+   "ipa": "mʌʧ taɪm",
+   "spell": "much time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хочу сказать",
+   "ipa": "maɪ pɔɪnt ɪz",
+   "spell": "my point is"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фирменная одежда",
+   "ipa": "neɪm-brænd ˈkloʊðɪŋ",
+   "spell": "name-brand clothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рядом с тобой",
+   "ipa": "nɪr ju",
+   "spell": "near you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Найки",
+   "ipa": "ˈnaɪki",
+   "spell": "Nike"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "конечно нет",
+   "ipa": "ʌv kɔrs nɑt",
+   "spell": "of course not"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наши выходные все расписаны",
+   "ipa": "ˈaʊər deɪz ɔf ɑr ɔl ˈskɛʤʊld",
+   "spell": "our days off are all scheduled"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красивый - красивее - самый красивый",
+   "ipa": "ˈprɪti - ˈprɪtiər - ðə ˈprɪtiəst",
+   "spell": "pretty - prettier - the prettiest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тут тоже",
+   "ipa": "seɪm hir",
+   "spell": "same here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она всю жизнь прожила в глуши",
+   "ipa": "ʃi hæz lɪvd ɪn ðə ˈbunˌdɑks ɔl hɜr laɪf",
+   "spell": "she has lived in the boondocks all her life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она напугана",
+   "ipa": "ʃi ɪz skɛrd",
+   "spell": "she is scared"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ей семьдесят два",
+   "ipa": "ʃi ɪz ˈsɛvənti tu",
+   "spell": "she is seventy two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "межсезонье - моё любимое время",
+   "ipa": "ˈʃoʊldər ˈsizən ɪz maɪ ˈfeɪvərɪt taɪm",
+   "spell": "shoulder season is my favorite time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "некоторые живут здесь десятилетиями",
+   "ipa": "sʌm hæv lɪvd hir fɔr dɛˈkeɪdz",
+   "spell": "some have lived here for decades"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где-то рядом",
+   "ipa": "ˈsʌmˌwɛr nɪr",
+   "spell": "somewhere near"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "паутина - как растяжки",
+   "ipa": "ˈspaɪdərwɛbz ɑr laɪk ˈtrɪpwaɪɚz",
+   "spell": "spiderwebs are like tripwires"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "терракотовый цвет",
+   "ipa": "ˌtɛɹəˈkɑtə ˈkʌlər",
+   "spell": "terracotta color"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дороже",
+   "ipa": "ðæt ɪz mɔr ɪkˈspɛnsɪv",
+   "spell": "that is more expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вот почему",
+   "ipa": "ðæt ɪz waɪ",
+   "spell": "that is why"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жопа мира",
+   "ipa": "ði æs ɛnd ʌv ðə wɜrld",
+   "spell": "the ass end of the world"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "CN Tower выше, чем Skydeck",
+   "ipa": "ðə si-ɛn ˈtaʊər ɪz ˈtɔlər ðæn ðə ˈskaɪdɛk",
+   "spell": "the CN Tower is taller than the Skydeck"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сравнительная степень",
+   "ipa": "ðə kəmˈpɛrətɪv dɪˈɡri",
+   "spell": "the comparative degree"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "глушь",
+   "ipa": "ðə ˈmɪdəl ʌv ˈnoʊˌwɛr",
+   "spell": "the middle of nowhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самый красивый",
+   "ipa": "ðə moʊst ˈbjutəfəl",
+   "spell": "the most beautiful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самый дорогой",
+   "ipa": "ðə moʊst ɪkˈspɛnsɪv",
+   "spell": "the most expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "новый",
+   "ipa": "ðə nu wʌn",
+   "spell": "the new one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "суть в том, что",
+   "ipa": "ðə pɔɪnt ɪz",
+   "spell": "the point is"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Skydeck очень высоко",
+   "ipa": "ðə ˈskaɪdɛk ɪz ˈvɛri haɪ ʌp",
+   "spell": "the Skydeck is very high up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дело в том, что",
+   "ipa": "ðə θɪŋ ɪz",
+   "spell": "the thing is"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "затем",
+   "ipa": "ðɛn",
+   "spell": "then"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне дня не хватает",
+   "ipa": "ðɛr ˈɑrənt ɪˈnʌf ˈaʊərz ɪn ðə deɪ",
+   "spell": "there aren’t enough hours in the day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "там нет интернета",
+   "ipa": "ðɛr ɪz noʊ ˈɪntərˌnɛt ðɛr",
+   "spell": "there is no internet there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старое старому рознь",
+   "ipa": "ðɛr ɪz oʊld ænd ðɛr ɪz oʊld",
+   "spell": "there is old and there is old"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оранжевый оранжевому рознь",
+   "ipa": "ðɛr ɪz ˈɔrənʤ, ænd ðɛr ɪz ˈɔrənʤ",
+   "spell": "there is orange, and there is orange"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работа работе рознь",
+   "ipa": "ðɛr ɪz wɜrk, ænd ðɛr ɪz wɜrk",
+   "spell": "there is work, and there is work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в этом здании 103 этажа",
+   "ipa": "ðɪs ˈbɪldɪŋ hæz ə ˈhʌndrɪd ænd θri flɔrz",
+   "spell": "this building has a hundred and three floors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дорого",
+   "ipa": "ðɪs ɪz ɪkˈspɛnsɪv",
+   "spell": "this is expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "охереть можно",
+   "ipa": "ðɪs ɪz ɪnˈseɪn/ənˈril",
+   "spell": "this is insane/unreal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три с половиной часа",
+   "ipa": "θri ænd ə hæf ˈaʊərz",
+   "spell": "three and a half hours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "четверг",
+   "ipa": "ˈθɜrzˌdeɪ",
+   "spell": "Thursday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пройтись по торговому центру",
+   "ipa": "tu ɡoʊ əˈraʊnd ðə mɔl",
+   "spell": "to go around the mall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ходить с ней по магазинам",
+   "ipa": "tu ɡoʊ ˈʃɑpɪŋ wɪð hɜr",
+   "spell": "to go shopping with her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выдвигаться куда-то",
+   "ipa": "tu hɛd aʊt ˈsʌmˌwɛr",
+   "spell": "to head out somewhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "просто прийти домой",
+   "ipa": "tu ʤʌst kʌm hoʊm",
+   "spell": "to just come home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "просто пойти по магазинам",
+   "ipa": "tu ʤʌst ɡoʊ ˈʃɑpɪŋ",
+   "spell": "to just go shopping"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сесть и посмотреть что-то",
+   "ipa": "tu sɪt ænd wɑʧ ˈsʌmθɪŋ",
+   "spell": "to sit and watch something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в два раза дороже",
+   "ipa": "twaɪs æz ɪkˈspɛnsɪv",
+   "spell": "twice as expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в двух часах езды",
+   "ipa": "tu ˈaʊərz əˈweɪ",
+   "spell": "two hours away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы были там",
+   "ipa": "wi hæv bɪn ðɛr",
+   "spell": "we have been there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы видели это",
+   "ipa": "wi hæv sin ɪt",
+   "spell": "we have seen it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "среда",
+   "ipa": "ˈwɛnzˌdeɪ",
+   "spell": "Wednesday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "а что насчёт них?",
+   "ipa": "wɑt əˈbaʊt ðɛm?",
+   "spell": "what about them?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что я могу с этим поделать?",
+   "ipa": "wɑt kæn aɪ du əˈbaʊt ɪt?",
+   "spell": "what can I do about it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почему бы и нет?",
+   "ipa": "waɪ nɑt?",
+   "spell": "why not?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зачем об этом беспокоиться?",
+   "ipa": "waɪ ˈwɜri əˈbaʊt ɪt?",
+   "spell": "why worry about it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почему?",
+   "ipa": "waɪ?",
+   "spell": "why?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты можешь купить это намного дешевле",
+   "ipa": "ju kæn baɪ ɪt mʌʧ ˈʧipər",
+   "spell": "you can buy it much cheaper"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты привыкаешь",
+   "ipa": "ju ɡɛt juzd tu ɪt",
+   "spell": "you get used to it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты сказал мне",
+   "ipa": "ju sɛd tu mi",
+   "spell": "you said to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты сказал мне",
+   "ipa": "ju toʊld mi",
+   "spell": "you told me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты сказал мне что",
+   "ipa": "ju toʊld mi ðæt",
+   "spell": "you told me that"
+ }
+]
+}
