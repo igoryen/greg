@@ -1,0 +1,540 @@
+{
+  "student": "Olena T.",
+  "slug": "ot",
+  "number": 23,
+  "date": "2025-07-16",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колено",
+      "ipa": "ə ni",
+      "spell": "a knee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "карман",
+      "ipa": "ə ˈpɑkət",
+      "spell": "a pocket"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "удар",
+      "ipa": "ə stroʊk",
+      "spell": "a stroke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тонкая книга",
+      "ipa": "ə θɪn bʊk",
+      "spell": "a thin book"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "переводчик",
+      "ipa": "ə trænˈsleɪtər",
+      "spell": "a translator"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "после трёх дня",
+      "ipa": "ˈæftər θri pi.ɛm.",
+      "spell": "after three p.m."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "глазной инсульт",
+      "ipa": "ən aɪ stroʊk",
+      "spell": "an eye stroke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "травма",
+      "ipa": "ən ˈɪnʤəri",
+      "spell": "an injury"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "апрель",
+      "ipa": "ˈeɪprəl",
+      "spell": "April"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты работаешь сегодня?",
+      "ipa": "ɑr ju ˈwɜrkɪŋ təˈdeɪ?",
+      "spell": "are you working today?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "август",
+      "ipa": "ˈɑɡəst",
+      "spell": "August"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "декабрь",
+      "ipa": "dɪˈsɛmbər",
+      "spell": "December"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя была травма?",
+      "ipa": "dɪd ju hæv ən ˈɪnʤəri?",
+      "spell": "did you have an injury?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тебе нужно долго ждать?",
+      "ipa": "du ju hæv tu weɪt lɔŋ?",
+      "spell": "do you have to wait long?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в каждом сезоне есть своя красота",
+      "ipa": "ˈɛvəri ˈsizən hæz ɪts ˈbjuti",
+      "spell": "every season has its beauty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осень",
+      "ipa": "fɔl",
+      "spell": "fall"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "февраль",
+      "ipa": "ˈfɛbjəˌwɛri",
+      "spell": "February"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ее наушники под столом",
+      "ipa": "hɜr ˈhɛdˌfoʊnz ɑr ˈʌndər ðə ˈteɪbəl",
+      "spell": "her headphones are under the table"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько времени займет дорога в Сиэтл?",
+      "ipa": "haʊ lɔŋ ɪz ðə draɪv tu siˈætəl?",
+      "spell": "how long is the drive to Seattle?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я согласен",
+      "ipa": "aɪ əˈɡri",
+      "spell": "I agree"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня кот на коленях",
+      "ipa": "aɪ hæv ə kæt ɑn maɪ læp",
+      "spell": "I have a cat on my lap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня осьминог в чашке",
+      "ipa": "aɪ hæv ən ˈɑktəˌpʊs ɪn maɪ kʌp",
+      "spell": "I have an octopus in my cup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня вода в чашке",
+      "ipa": "aɪ hæv ˈwɔtər ɪn maɪ kʌp",
+      "spell": "I have water in my cup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится каждый сезон",
+      "ipa": "aɪ laɪk ˈɛvəri ˈsizən",
+      "spell": "I like every season"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня был кошелек",
+      "ipa": "aɪ juzd tu hæv ə ˈwɔlət",
+      "spell": "I used to have a wallet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по-своему",
+      "ipa": "ɪn ɪts oʊn weɪ",
+      "spell": "in its own way"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в мае",
+      "ipa": "ɪn meɪ",
+      "spell": "in May"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в ноябре",
+      "ipa": "ɪn noʊˈvɛmbər",
+      "spell": "in November"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осенью",
+      "ipa": "ɪn ðə fɔl",
+      "spell": "in the fall"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это зависит",
+      "ipa": "ɪt dɪˈpɛndz",
+      "spell": "it depends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это общее",
+      "ipa": "ɪt ɪz ˈɛvriˌbɑdiz",
+      "spell": "it is everybody's"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно вернется",
+      "ipa": "ɪt wɪl kʌm bæk",
+      "spell": "it will come back"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это зарядка",
+      "ipa": "ɪts ə ˈʧɑrʤər",
+      "spell": "it's a charger"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это карандаш",
+      "ipa": "ɪts ə ˈpɛnsəl",
+      "spell": "it's a pencil"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "январь",
+      "ipa": "ˈʤænjuˌɛri",
+      "spell": "January"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "июль",
+      "ipa": "ˌʤuˈlaɪ",
+      "spell": "July"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "июнь",
+      "ipa": "ʤun",
+      "spell": "June"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "март",
+      "ipa": "mɑrʧ",
+      "spell": "March"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "май",
+      "ipa": "meɪ",
+      "spell": "May"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой ноутбук в сумке",
+      "ipa": "maɪ ˈlæpˌtɑp ɪz ɪn maɪ bæɡ",
+      "spell": "my laptop is in my bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ноябрь",
+      "ipa": "noʊˈvɛmbər",
+      "spell": "November"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "октябрь",
+      "ipa": "ɑkˈtoʊbər",
+      "spell": "October"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "четвертого июля",
+      "ipa": "ɑn ˌʤuˈlaɪ ðə fɔrθ",
+      "spell": "on July the fourth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в понедельник",
+      "ipa": "ɑn ˈmʌnˌdeɪ",
+      "spell": "on Monday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наверху",
+      "ipa": "ɑn tɑp",
+      "spell": "on top"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "во вторник",
+      "ipa": "ɑn ˈtuzˌdeɪ",
+      "spell": "on Tuesday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в среду",
+      "ipa": "ɑn ˈwɛnzˌdeɪ",
+      "spell": "on Wednesday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наша свадьба",
+      "ipa": "ˈaʊər ˈwɛdɪŋ",
+      "spell": "our wedding"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "недавно",
+      "ipa": "ˈrisəntli",
+      "spell": "recently"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сентябрь",
+      "ipa": "sɛpˈtɛmbər",
+      "spell": "September"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лето",
+      "ipa": "ˈsʌmər",
+      "spell": "summer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зарядка под столом",
+      "ipa": "ðə ˈʧɑrʤər ɪz ˈʌndər ðə ˈteɪbəl",
+      "spell": "the charger is under the table"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "словари на столе",
+      "ipa": "ðə ˈdɪkʃəˌnɛriz ɑr ɑn ðə ˈteɪbəl",
+      "spell": "the dictionaries are on the table"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "конец",
+      "ipa": "ði ɛnd",
+      "spell": "the end"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "очки на ноутбуке",
+      "ipa": "ðə ˈɡlæsəz ɑr ɑn ðə ˈlæpˌtɑp",
+      "spell": "the glasses are on the laptop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "журналы в сумке",
+      "ipa": "ðə ˈmæɡəˌzinz ɑr ɪn ðə bæɡ",
+      "spell": "the magazines are in the bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "названия месяцев",
+      "ipa": "ðə neɪmz ʌv ðə mʌnθs",
+      "spell": "the names of the months"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ручка в тетради",
+      "ipa": "ðə pɛn ɪz ɪn ðə ˈnoʊtˌbʊk",
+      "spell": "the pen is in the notebook"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "телефон на книге",
+      "ipa": "ðə foʊn ɪz ɑn ðə bʊk",
+      "spell": "the phone is on the book"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это очки",
+      "ipa": "ðeɪ ɑr ˈɡlæsəz",
+      "spell": "they are glasses"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это джинсы",
+      "ipa": "ðeɪ ɑr ʤinz",
+      "spell": "they are jeans"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это журналы",
+      "ipa": "ðeɪ ɑr ˈmæɡəˌzinz",
+      "spell": "they are magazines"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это брюки",
+      "ipa": "ðeɪ ɑr pænts",
+      "spell": "they are pants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это ножницы",
+      "ipa": "ðeɪ ɑr ˈsɪzərz",
+      "spell": "they are scissors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это словари",
+      "ipa": "ðɛr ˈdɪkʃəˌnɛriz",
+      "spell": "they're dictionaries"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они тонкие",
+      "ipa": "ðɛr θɪn",
+      "spell": "they're thin"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вставать",
+      "ipa": "tu ɡɛt ʌp",
+      "spell": "to get up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "встать",
+      "ipa": "tu stænd ʌp",
+      "spell": "to stand up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы встали",
+      "ipa": "wi ɡɑt ʌp",
+      "spell": "we got up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы только проснулись",
+      "ipa": "wi ʤʌst woʊk ʌp",
+      "spell": "we just woke up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какие вещи?",
+      "ipa": "wɑt ɑr ðə θɪŋz?",
+      "spell": "what are the things?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какое твое любимое время года?",
+      "ipa": "wɑt ɪz jʊər ˈfeɪvərɪt ˈsizən?",
+      "spell": "what is your favorite season?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зима",
+      "ipa": "ˈwɪntər",
+      "spell": "winter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты прав",
+      "ipa": "ju ɑr raɪt",
+      "spell": "you are right"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты можешь положить это себе на колени",
+      "ipa": "ju kæn pʊt ɪt ɑn jʊər læp",
+      "spell": "you can put it on your lap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твои очки на газете",
+      "ipa": "jʊər ˈɡlæsəz ɑr ɑn ðə ˈnuzˌpeɪpər",
+      "spell": "your glasses are on the newspaper"
+    }
+  ]
+}
