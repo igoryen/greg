@@ -1,0 +1,407 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 53,
+  "date": "2025-07-16",
+  "words":[
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "питальне речення з дієсловом \"be\"",
+   "ipa": "ə bi ˈkwɛsʧən",
+   "spell": "a \"be\" question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "питальне речення без дієслова \"be\"",
+   "ipa": "ə nɑn-bi ˈkwɛsʧən",
+   "spell": "a \"non-be\" question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стілець",
+   "ipa": "ə ʧɛr",
+   "spell": "a chair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сидіння в автомобілі",
+   "ipa": "ə ʧɛr ɪn ðə kɑr",
+   "spell": "a chair in the car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "відстань",
+   "ipa": "ə ˈdɪstəns",
+   "spell": "a distance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подвійне заперечення",
+   "ipa": "ə ˈdʌbəl ˈnɛɡətɪv",
+   "spell": "a double negative"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спортзал",
+   "ipa": "ə ʤɪm",
+   "spell": "a gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "багато",
+   "ipa": "ə lɑt ʌv",
+   "spell": "a lot of"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зникла людина",
+   "ipa": "ə ˈmɪsɪŋ ˈpɜrsən",
+   "spell": "a missing person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мавпа",
+   "ipa": "ə ˈmʌŋki",
+   "spell": "a monkey"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "візерунок",
+   "ipa": "ə ˈpætərn",
+   "spell": "a pattern"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "табурет",
+   "ipa": "ə stul",
+   "spell": "a stool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "табурет на кухні",
+   "ipa": "ə stul ɪn ðə ˈkɪʧən",
+   "spell": "a stool in the kitchen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "людиноподібна мавпа",
+   "ipa": "ən eɪp",
+   "spell": "an ape"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "виняток",
+   "ipa": "ən ɪkˈsɛpʃən",
+   "spell": "an exception"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сова",
+   "ipa": "ən aʊl",
+   "spell": "an owl"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти голодний?",
+   "ipa": "ɑr ju ˈhʌŋɡri?",
+   "spell": "are you hungry?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти займаєшся спортом чи тренуєшся протягом тижня?",
+   "ipa": "du ju pleɪ spɔrts ɔr ˈɛksərˌsaɪz ˈdʊrɪŋ ðə wik?",
+   "spell": "do you play sports or exercise during the week?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "{твій син} грає в {багато комп'ютерних ігор}?",
+   "ipa": "dʌz {jʊər sʌn} pleɪ {ə lɑt ʌv kəmˈpjutər ɡeɪmz}?",
+   "spell": "does {your son} play {a lot of computer games}?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наразі",
+   "ipa": "fɔr naʊ",
+   "spell": "for now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "волосся",
+   "ipa": "hɛr",
+   "spell": "hair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як ти відпочиваєш у вихідні?",
+   "ipa": "haʊ du ju rɪˈlæks ɑn ˈwiˌkɛndz?",
+   "spell": "how do you relax on weekends?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скільки років {твоєму вчителю}?",
+   "ipa": "haʊ oʊld ɪz {jʊər ˈtiʧər}?",
+   "spell": "how old is {your teacher}?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я в Америці",
+   "ipa": "aɪ æm ɪn əˈmɛrəkə",
+   "spell": "I am in America"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я повертаюся додому пізно",
+   "ipa": "aɪ kʌm bæk hoʊm leɪt",
+   "spell": "I come back home late"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає часу",
+   "ipa": "aɪ hæv noʊ taɪm",
+   "spell": "I have no time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає на це часу",
+   "ipa": "aɪ hæv noʊ taɪm fɔr ðæt",
+   "spell": "I have no time for that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає часу на спортзал",
+   "ipa": "aɪ hæv noʊ taɪm fɔr ðə ʤɪm",
+   "spell": "I have no time for the gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає часу це робити",
+   "ipa": "aɪ hæv noʊ taɪm tu du ðæt",
+   "spell": "I have no time to do that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає часу їсти",
+   "ipa": "aɪ hæv noʊ taɪm tu it",
+   "spell": "I have no time to eat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає часу жити",
+   "ipa": "aɪ hæv noʊ taɪm tu lɪv",
+   "spell": "I have no time to live"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає часу спати",
+   "ipa": "aɪ hæv noʊ taɪm tu slip",
+   "spell": "I have no time to sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене немає часу дивитися фільми",
+   "ipa": "aɪ hæv noʊ taɪm tu wɑʧ ˈmuviz",
+   "spell": "I have no time to watch movies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ніколи не ходжу",
+   "ipa": "aɪ ˈnɛvər ɡoʊ",
+   "spell": "I never go"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене ніколи немає часу",
+   "ipa": "aɪ ˈnɛvər hæv taɪm",
+   "spell": "I never have time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "футбол - {твій улюблений вид спорту}?",
+   "ipa": "ɪz ˈsɑkər {jʊər ˈfeɪvərɪt spɔrt}?",
+   "spell": "is soccer {your favorite sport}?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спекотно",
+   "ipa": "ɪt ɪz hɑt",
+   "spell": "it is hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це незаконно",
+   "ipa": "ɪt ɪz ɪˈliɡəl",
+   "spell": "it is illegal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "час обіду",
+   "ipa": "ɪt ɪz taɪm fɔr lʌnʧ",
+   "spell": "it is time for lunch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "багато",
+   "ipa": "lɑts ʌv",
+   "spell": "lots of"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "відсутній",
+   "ipa": "ˈmɪsɪŋ",
+   "spell": "missing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "непогано",
+   "ipa": "nɑt bæd",
+   "spell": "not bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по телевізору",
+   "ipa": "ɑn ˈtiˈvi",
+   "spell": "on TV"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "підмет, присудок, додаток (SVO)",
+   "ipa": "ˈsʌbʤɪkt, vɜrb, ˈɑbʤɛkt (ɛs-vi-oʊ)",
+   "spell": "subject, verb, object (SVO)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "температура",
+   "ipa": "ˈtɛmprəʧər",
+   "spell": "temperature"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхня машина там",
+   "ipa": "ðɛr kɑr ɪz ðɛr",
+   "spell": "their car is there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати до центру міста",
+   "ipa": "tu ɡoʊ ˈdaʊnˈtaʊn",
+   "spell": "to go downtown"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати в верхню частину міста",
+   "ipa": "tu ɡoʊ ˈʌpˈtaʊn",
+   "spell": "to go uptown"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "які фільми будуть по телевізору ці вихідні?",
+   "ipa": "wɑt ˈmuviz ɑr ɑn ˈtiˈvi ðɪs ˈwiˌkɛnd?",
+   "spell": "what movies are on TV this weekend?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "які телепередачі подобаються {твоєму чоловікові}?",
+   "ipa": "wɑt ˈtiˈvi ʃoʊz dʌz {jʊər ˈhʌzbənd} laɪk?",
+   "spell": "what TV shows does {your husband} like?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ми вимовляємо /aʊ/, ми іноді пишемо \"ou\" (house), іноді \"ow\" (brown)",
+   "ipa": "wɛn wi seɪ /aʊ/ wi raɪt səmˈtaɪmz \"ou\", səmˈtaɪmz \"ow\" ",
+   "spell": "when we say /aʊ/ we write sometimes \"ou\" (house), sometimes \"ow\" (brown)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ми вимовляємо /h/, ми іноді пишемо \"wh\" (who)",
+   "ipa": "wɛn wi seɪ /h/ wi səmˈtaɪmz raɪt \"wh\"",
+   "spell": "when we say /h/ we sometimes write \"wh\" (who)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ми вимовляємо /oʊ/, ми іноді пишемо \"ow\" (window)",
+   "ipa": "wɛn wi seɪ /oʊ/ wi səmˈtaɪmz raɪt \"ow\" ",
+   "spell": "when we say /oʊ/ we sometimes write \"ow\" (window)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ми вимовляємо /w/, ми зазвичай пишемо \"wh\"",
+   "ipa": "wɛn wi seɪ /w/ wi ˈjuʒəwəli raɪt \"wh\"",
+   "spell": "when we say /w/ we usually write \"wh\""
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ми вимовляємо /ɛr/, ми іноді пишемо \"ere\" (where)",
+   "ipa": "wɛn wi seɪ /ɛr/ wi səmˈtaɪmz raɪt \"ere\"",
+   "spell": "when we say /ɛr/ we sometimes write \"ere\" (where)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ми вимовляємо /ɪr/, ми іноді пишемо \"ere\" (here)",
+   "ipa": "wɛn wi seɪ /ɪr/ wi səmˈtaɪmz raɪt \"ere\"",
+   "spell": "when we say /ɪr/ we sometimes write \"ere\" (here)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "де ти зазвичай обідаєш у неділю?",
+   "ipa": "wɛr du ju ˈjuʒəwəli hæv lʌnʧ ɑn ˈsʌnˌdeɪz?",
+   "spell": "where do you usually have lunch on Sundays?"
+ }
+]
+}
