@@ -22,7 +22,7 @@ const RandomWordWrapper = () => {
 
     return (
         <div className="jimte">
-            <h1>Random Word Wrapper</h1>
+            <h1>Shredder</h1>
             <textarea
                 placeholder="Paste your text here..."
                 value={inputText}
