@@ -1,0 +1,477 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "number": 48,
+  "date": "2025-07-17",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крупная покупка",
+   "ipa": "ə bɪɡ ˈpɜrʧəs",
+   "spell": "a big purchase"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "цвет",
+   "ipa": "ə ˈkʌlər",
+   "spell": "a color"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "диван",
+   "ipa": "ə kaʊʧ",
+   "spell": "a couch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подушечка",
+   "ipa": "ə ˈkʊʃən",
+   "spell": "a cushion"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кран водопроводный",
+   "ipa": "ə ˈfɔsət",
+   "spell": "a faucet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уха",
+   "ipa": "ə fɪʃ sup",
+   "spell": "a fish soup"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тяжёлая рабочая неделя",
+   "ipa": "ə hɑrd wik æt wɜrk",
+   "spell": "a hard week at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хорошая горячая ванна",
+   "ipa": "ə naɪs hɑt bæθ",
+   "spell": "a nice hot bath"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подушка",
+   "ipa": "ə ˈpɪloʊ",
+   "spell": "a pillow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "форма",
+   "ipa": "ə ʃeɪp",
+   "spell": "a shape"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "размер",
+   "ipa": "ə saɪz",
+   "spell": "a size"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "исследование говорит",
+   "ipa": "ə ˈstʌdi sɛz",
+   "spell": "a study says"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "время что-то сделать",
+   "ipa": "ə taɪm tu du ˈsʌmθɪŋ",
+   "spell": "a time to do something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пачка налички",
+   "ipa": "ə wɑd ʌv kæʃ",
+   "spell": "a wad of cash"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дерзай! давай!",
+   "ipa": "ɔl ˈpaʊər tu ju!",
+   "spell": "all power to you!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всегда маневрируй!",
+   "ipa": "ˈɔlˌweɪz məˈnuvər!",
+   "spell": "always maneuver!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "постоянно",
+   "ipa": "ˈkɑnstəntli",
+   "spell": "constantly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "непрерывный",
+   "ipa": "kənˈtɪnjuəs",
+   "spell": "continuous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "определённо",
+   "ipa": "ˈdɛfənətli",
+   "spell": "definitely"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в рабочее время",
+   "ipa": "ˈdʊrɪŋ wɜrk taɪm",
+   "spell": "during work time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в рабочие часы",
+   "ipa": "ˈdʊrɪŋ ˈwɜrkɪŋ ˈaʊərz",
+   "spell": "during working hours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждую ночь",
+   "ipa": "ˈɛvəri naɪt",
+   "spell": "every night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "впервые в жизни",
+   "ipa": "fɔr ðə fɜrst taɪm ɪn maɪ laɪf",
+   "spell": "for the first time in my life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молодец!",
+   "ipa": "ɡʊd fɔr ju!",
+   "spell": "good for you!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он, наверное, много ездит по работе",
+   "ipa": "hi mʌst ˈtrævəl ə lɑt fɔr wɜrk",
+   "spell": "he must travel a lot for work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не жалуюсь",
+   "ipa": "aɪ kænt kəmˈpleɪn",
+   "spell": "I can't complain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я видела этих людей",
+   "ipa": "aɪ hæv sin ðiz ˈpipəl",
+   "spell": "I have seen these people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне есть что вспомнить",
+   "ipa": "aɪ hæv ˈsʌmθɪŋ tu rɪˈmɛmbər",
+   "spell": "I have something to remember"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет времени ни на что",
+   "ipa": "aɪ hæv taɪm fɔr ˈnʌθɪŋ",
+   "spell": "I have time for nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня кончились мысли",
+   "ipa": "aɪ ræn aʊt ʌv θɔts",
+   "spell": "I ran out of thoughts"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я обычно не ем после шести",
+   "ipa": "aɪ ˈjuʒəwəli doʊnt it ˈæftər sɪks",
+   "spell": "I usually don't eat after six"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в режиме аудита",
+   "ipa": "ɪn ˈɔdɪt moʊd",
+   "spell": "in audit mode"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "должен быть только я",
+   "ipa": "ɪt hæz tu bi ʤʌst mi",
+   "spell": "it has to be just me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сделай это!",
+   "ipa": "meɪk ɪt!",
+   "spell": "make it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "большинство людей",
+   "ipa": "moʊst ˈpipəl",
+   "spell": "most people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приятный",
+   "ipa": "naɪs",
+   "spell": "nice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на костре",
+   "ipa": "ɑn ə ˈbɑnˌfaɪər",
+   "spell": "on a bonfire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прошу прощения?",
+   "ipa": "ˈpɑrdən?",
+   "spell": "pardon?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тот же",
+   "ipa": "seɪm",
+   "spell": "same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лови момент!",
+   "ipa": "siz ðə deɪ!",
+   "spell": "seize the day!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-то другое",
+   "ipa": "ˈsʌmθɪŋ ˈdɪfərənt",
+   "spell": "something different"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-то захватывающее",
+   "ipa": "ˈsʌmθɪŋ ɪkˈsaɪtɪŋ",
+   "spell": "something exciting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-то весёлое",
+   "ipa": "ˈsʌmθɪŋ fʌn",
+   "spell": "something fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "начни с лёгкого!",
+   "ipa": "stɑrt ˈizi!",
+   "spell": "start easy!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подлежащее, сказуемое, дополнение (SVO)",
+   "ipa": "ˈsʌbʤɪkt, vɜrb, ˈɑbʤɛkt (ɛs-vi-oʊ)",
+   "spell": "subject, verb, object (SVO)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "город Ницца",
+   "ipa": "ðə ˈsɪti ʌv naɪs",
+   "spell": "the city of Nice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "веселье закончилось",
+   "ipa": "ðə fʌn ɪz ɡɔn",
+   "spell": "the fun is gone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "главное",
+   "ipa": "ðə meɪn θɪŋ",
+   "spell": "the main thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запах",
+   "ipa": "ðə smɛl",
+   "spell": "the smell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три из четырёх",
+   "ipa": "θri aʊt ʌv fɔr",
+   "spell": "three out of four"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выбрать машину",
+   "ipa": "tu ʧuz ə kɑr",
+   "spell": "to choose a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выбирать глазами",
+   "ipa": "tu ʧuz wɪð maɪ aɪz",
+   "spell": "to choose with my eyes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "создавать",
+   "ipa": "tu kriˈeɪt",
+   "spell": "to create"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "решить что-то сделать",
+   "ipa": "tu ˌdɪˈsaɪdɪd tu du ˈsʌmθɪŋ",
+   "spell": "to decided to do something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заниматься деятельностью",
+   "ipa": "tu du ən ækˈtɪvəti",
+   "spell": "to do an activity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "окочуриться",
+   "ipa": "tu kɪk ðə ˈbʌkət = окочуриться",
+   "spell": "to kick the bucket = окочуриться"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уходить в пять вечера",
+   "ipa": "tu liv æt faɪv pi.ɛm.",
+   "spell": "to leave at five p.m."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выходить из дома",
+   "ipa": "tu liv ðə haʊs",
+   "spell": "to leave the house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делать",
+   "ipa": "tu meɪk",
+   "spell": "to make"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спать в палатке",
+   "ipa": "tu slip ɪn ə tɛnt",
+   "spell": "to sleep in a tent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "провести выходные",
+   "ipa": "tu spɛnd ðə ˈwiˌkɛnd",
+   "spell": "to spend the weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "проводить время",
+   "ipa": "tu spɛnd taɪm",
+   "spell": "to spend time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сегодня вечером",
+   "ipa": "təˈnaɪt",
+   "spell": "tonight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда кто-то просыпается",
+   "ipa": "wɛn ˈsʌmˌbɑdi weɪks ʌp",
+   "spell": "when somebody wakes up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты вечно ешь",
+   "ipa": "ju ɑr ˈɔlˌweɪz ˈitɪŋ",
+   "spell": "you are always eating"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты принял решение",
+   "ipa": "ju meɪd ə dɪˈsɪʒən",
+   "spell": "you made a decision"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пачка денег",
+   "ipa": "ə stæk ʌv bɪlz",
+   "spell": "a stack of bills"
+ }
+]
+}

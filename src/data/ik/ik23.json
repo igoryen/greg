@@ -1,0 +1,365 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 23,
+  "date": "2025-07-17",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "-ание, -ение",
+   "ipa": "-ɪŋ",
+   "spell": "-ing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "-ущ, -ющ, -ащ, -ящ",
+   "ipa": "-ɪŋ",
+   "spell": "-ing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лучший друг",
+   "ipa": "ə bɛst frɛnd",
+   "spell": "a best friend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автобусная остановка",
+   "ipa": "ə bʌs stɑp",
+   "spell": "a bus stop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "клетка (biol.); сота",
+   "ipa": "ə sɛl",
+   "spell": "a cell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мобильный телефон",
+   "ipa": "ə sɛl foʊn",
+   "spell": "a cell phone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хороший человек",
+   "ipa": "ə faɪn mæn",
+   "spell": "a fine man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хорошая погода",
+   "ipa": "ə faɪn ˈwɛðər",
+   "spell": "a fine weather"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "друг",
+   "ipa": "ə frɛnd",
+   "spell": "a friend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красивая, привлекательная девушка",
+   "ipa": "ə ɡʊd-ˈlʊkɪŋ ɡɜrl",
+   "spell": "a good-looking girl"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красивый, симпатичный парень",
+   "ipa": "ə ɡʊd-ˈlʊkɪŋ ɡaɪ",
+   "spell": "a good-looking guy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "остановка",
+   "ipa": "ə stɑp",
+   "spell": "a stop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кабина лифта",
+   "ipa": "ən ˈɛləˌveɪtər kɑr",
+   "spell": "an elevator car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "а",
+   "ipa": "ænd",
+   "spell": "and"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "и",
+   "ipa": "ænd",
+   "spell": "and"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делание",
+   "ipa": "ˈduɪŋ",
+   "spell": "doing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кушание, поедание",
+   "ipa": "ˈitɪŋ",
+   "spell": "eating"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "следуй за мной!",
+   "ipa": "ˈfɑloʊ mi!",
+   "spell": "follow me!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он друг",
+   "ipa": "hi ɪz ə frɛnd",
+   "spell": "he is a friend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тяжёлый",
+   "ipa": "ˈhɛvi",
+   "spell": "heavy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднятие тяжестей",
+   "ipa": "ˈhɛvi ˈlɪftɪŋ",
+   "spell": "heavy lifting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как, насколько",
+   "ipa": "haʊ",
+   "spell": "how"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как холодно",
+   "ipa": "haʊ koʊld",
+   "spell": "how cold"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как жарко",
+   "ipa": "haʊ hɑt",
+   "spell": "how hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько, как много",
+   "ipa": "haʊ mʌʧ",
+   "spell": "how much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как стар",
+   "ipa": "haʊ oʊld",
+   "spell": "how old"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как солнечно",
+   "ipa": "haʊ ˈsʌni",
+   "spell": "how sunny"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я здесь, а ты там",
+   "ipa": "aɪ æm hir, ænd ju ɑr ðɛr",
+   "spell": "I am here, and you are there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я старый, а ты молодой",
+   "ipa": "aɪ æm oʊld, ænd ju ɑr jʌŋ",
+   "spell": "I am old, and you are young"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимание",
+   "ipa": "ˈlɪftɪŋ",
+   "spell": "lifting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смотри на меня",
+   "ipa": "lʊk æt mi",
+   "spell": "look at me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старый",
+   "ipa": "oʊld",
+   "spell": "old"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "курение",
+   "ipa": "ˈsmoʊkɪŋ",
+   "spell": "smoking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вот и всё",
+   "ipa": "ðɪs ɪz ɪt",
+   "spell": "this is it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "следовать",
+   "ipa": "tu ˈfɑloʊ",
+   "spell": "to follow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поднимать",
+   "ipa": "tu lɪft",
+   "spell": "to lift"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хорошо выглядеть",
+   "ipa": "tu lʊk ɡʊd",
+   "spell": "to look good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "курить",
+   "ipa": "tu smoʊk",
+   "spell": "to smoke"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень старый",
+   "ipa": "ˈvɛri oʊld",
+   "spell": "very old"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой, что за",
+   "ipa": "wɑt",
+   "spell": "what"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что",
+   "ipa": "wɑt",
+   "spell": "what"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в каком ты классе?",
+   "ipa": "wɑt klæs ɑr ju ɪn?",
+   "spell": "what class are you in?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где",
+   "ipa": "wɛr",
+   "spell": "where"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто ты?",
+   "ipa": "hu ɑr ju?",
+   "spell": "who are you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работа",
+   "ipa": "wɜrk",
+   "spell": "work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работание",
+   "ipa": "ˈwɜrkɪŋ",
+   "spell": "working"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты накачанный",
+   "ipa": "ju ɑr bʌf",
+   "spell": "you are buff"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты симпатичная",
+   "ipa": "ju ɑr ɡʊd-ˈlʊkɪŋ",
+   "spell": "you are good-looking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты во Флориде, а я в Торонто",
+   "ipa": "ju ɑr ɪn ˈflɔrədə, ænd aɪ æm ɪn təˈrɑntoʊ",
+   "spell": "you are in Florida, and I am in Toronto"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты хорошо выглядишь",
+   "ipa": "ju lʊk ɡʊd",
+   "spell": "you look good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твоё имя",
+   "ipa": "jʊər neɪm",
+   "spell": "your name"
+ }
+]
+}
