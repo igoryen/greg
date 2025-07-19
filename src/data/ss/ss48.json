@@ -1,0 +1,624 @@
+{
+  "student": "Svetlana S.",
+  "slug": "ss",
+  "number": 48,
+  "date": "2025-07-18",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коробка с крышкой",
+   "ipa": "ə bɑks wɪð ə lɪd",
+   "spell": "a box with a lid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грамота за хорошую работу",
+   "ipa": "ə sərˈtɪfɪkət fɔr ɡʊd wɜrk",
+   "spell": "a certificate for good work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кофейня",
+   "ipa": "ə ˈkɑfi ʃɑp",
+   "spell": "a coffee shop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чашка",
+   "ipa": "ə kʌp",
+   "spell": "a cup"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "друг по работе",
+   "ipa": "ə frɛnd æt wɜrk",
+   "spell": "a friend at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "увлажнитель воздуха",
+   "ipa": "ə hjuˈmɪdəˌfaɪər",
+   "spell": "a humidifier"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "еврейский врач",
+   "ipa": "ə ˈʤuɪʃ ˈdɑktər",
+   "spell": "a Jewish doctor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грамота за хорошую работу",
+   "ipa": "ə ˈlɛtər ʌv ˌkɑmənˈdeɪʃən",
+   "spell": "a letter of commendation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ланчбокс",
+   "ipa": "ə ˈlʌntʃˌbɑks",
+   "spell": "a lunchbox"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "горшок",
+   "ipa": "ə pɑt",
+   "spell": "a pot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слабый мужчина",
+   "ipa": "ə wik mæn",
+   "spell": "a weak man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мокрый угол",
+   "ipa": "ə wɛt ˈkɔrnər",
+   "spell": "a wet corner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мокрая стена",
+   "ipa": "ə wɛt wɔl",
+   "spell": "a wet wall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все время",
+   "ipa": "ɔl ðə taɪm",
+   "spell": "all the time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вставка",
+   "ipa": "ən ˈɪnˌsɜrt",
+   "spell": "an insert"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "омлет",
+   "ipa": "ən ˈɑmlət",
+   "spell": "an omelet "
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обычный врач",
+   "ipa": "ən ˈɔrdəˌnɛri ˈdɑktər",
+   "spell": "an ordinary doctor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розетка",
+   "ipa": "ən ˈaʊtˌlɛt",
+   "spell": "an outlet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть протечки?",
+   "ipa": "ˈɛni liks?",
+   "spell": "any leaks?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на машине, машиной",
+   "ipa": "baɪ kɑr",
+   "spell": "by car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крыша протекает?",
+   "ipa": "dʌz ðə ruf lik?",
+   "spell": "does the roof leak?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сухой климат",
+   "ipa": "draɪ ˈklaɪmət",
+   "spell": "dry climate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый раз",
+   "ipa": "ˈɛvəri taɪm",
+   "spell": "every time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "за хорошую работу",
+   "ipa": "fɔr ɡʊd wɜrk",
+   "spell": "for good work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дал направление на рентген",
+   "ipa": "ɡeɪv ə rɪˈfɜrəl fɔr ən ˈɛksˌreɪ",
+   "spell": "gave a referral for an X-ray"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сделать МРТ",
+   "ipa": "ɡɛt ən ɛm-ɑr-aɪ skæn",
+   "spell": "get an MRI scan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он работает на одной работе два с половиной года",
+   "ipa": "hi hæz wɜrkt æt ðə seɪm ʤɑb fɔr tu ænd ə hæf jɪrz",
+   "spell": "he has worked at the same job for two and a half years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он худой",
+   "ipa": "hi ɪz θɪn",
+   "spell": "he is thin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он делает кофе",
+   "ipa": "hi meɪks ˈkɑfi",
+   "spell": "he makes coffee"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "насколько ты надёжна",
+   "ipa": "haʊ rɪˈlaɪəbəl ju ɑr",
+   "spell": "how reliable you are"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "влажный",
+   "ipa": "ˈhjumɪd",
+   "spell": "humid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я так не думаю",
+   "ipa": "aɪ doʊnt θɪŋk soʊ",
+   "spell": "I don't think so"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я засыпаю",
+   "ipa": "aɪ fɔl əˈslip",
+   "spell": "I fall asleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не было времени отдохнуть",
+   "ipa": "aɪ hæd noʊ taɪm tu rɛst",
+   "spell": "I had no time to rest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня есть место",
+   "ipa": "aɪ hæv rum",
+   "spell": "I have room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я получила",
+   "ipa": "aɪ rəˈsivd",
+   "spell": "I received"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ждала приёма у врача",
+   "ipa": "aɪ ˈweɪtɪd fɔr ðə ˈdɑktər tu si mi",
+   "spell": "I waited for the doctor to see me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если бы я увидела, как кто-то ворует",
+   "ipa": "ɪf aɪ sɔ ˈsʌmˌbɑdi stil",
+   "spell": "if I saw somebody steal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это метод",
+   "ipa": "ɪt ɪz ə ˈmɛθəd",
+   "spell": "it is a method"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это неизбежно",
+   "ipa": "ɪt ɪz ɪˈnɛvətəbəl",
+   "spell": "it is inevitable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно того не стоит",
+   "ipa": "ɪt ɪz nɑt wɜrθ ɪt",
+   "spell": "it is not worth it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в субботу шёл дождь",
+   "ipa": "ɪt reɪnd ɑn ˈsætərˌdeɪ",
+   "spell": "it rained on Saturday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дождь идёт несколько дней",
+   "ipa": "ɪt reɪnz fɔr ˈsɛvrəl deɪz",
+   "spell": "it rains for several days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в воскресенье вечером начинается дождь",
+   "ipa": "ɪt stɑrts tu reɪn ɑn ˈsʌnˌdeɪ ˈivnɪŋ",
+   "spell": "it starts to rain on Sunday evening"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "внутри было пусто",
+   "ipa": "ɪt wʌz ˈɛmpti ɪnˈsaɪd",
+   "spell": "it was empty inside"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "низкая влажность",
+   "ipa": "loʊ hjuˈmɪdəti",
+   "spell": "low humidity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плесень везде",
+   "ipa": "moʊld ˈɛvriˌwɛr",
+   "spell": "mold everywhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плесень на стенах",
+   "ipa": "moʊld ɑn ðə wɔlz",
+   "spell": "mold on the walls"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "больше нет места",
+   "ipa": "noʊ mɔr rum",
+   "spell": "no more room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не о чем говорить",
+   "ipa": "ˈnʌθɪŋ tu tɔk əˈbaʊt",
+   "spell": "nothing to talk about"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на камерах",
+   "ipa": "ɑn ˈkæmərəz",
+   "spell": "on cameras"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в месяц",
+   "ipa": "wʌns ə mʌnθ",
+   "spell": "once a month"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в нашем холодильнике нет места",
+   "ipa": "ˈaʊər frɪʤ hæz noʊ rum",
+   "spell": "our fridge has no room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "периферическое зрение",
+   "ipa": "pəˈrɪfərəl ˈvɪʒən",
+   "spell": "peripheral vision"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "малина",
+   "ipa": "ˈræzˌbɛri",
+   "spell": "raspberry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ей шестьдесят",
+   "ipa": "ʃi ɪz ˈsɪksti",
+   "spell": "she is sixty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она продолжала воровать",
+   "ipa": "ʃi kɛpt ˈstilɪŋ",
+   "spell": "she kept stealing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она сказала мне",
+   "ipa": "ʃi sɛd tu mi",
+   "spell": "she said to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она работает долгие часы",
+   "ipa": "ʃi wɜrks lɔŋ ˈaʊərz",
+   "spell": "she works long hours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "статическое электричество",
+   "ipa": "ˈstætɪk ɪˌlɛkˈtrɪsəti",
+   "spell": "static electricity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "воздух очень сухой",
+   "ipa": "ði ɛr ɪz ˈvɛri draɪ",
+   "spell": "the air is very dry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "врач дал направление на обследование",
+   "ipa": "ðə ˈdɑktər ɡeɪv ə rɪˈfɜrəl fɔr ˈtɛstɪŋ",
+   "spell": "the doctor gave a referral for testing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "программа \"работник месяца\"",
+   "ipa": "ðə ˈwɜrkər ʌv ðə mʌnθ ˈproʊˌɡræm",
+   "spell": "the worker of the month program"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её поймали",
+   "ipa": "ðeɪ kɑt hɜr",
+   "spell": "they caught her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "меня не приняли у врача",
+   "ipa": "ðeɪ dɪd nɑt rəˈsiv mi æt ðə ˈdɑktərz",
+   "spell": "they did not receive me at the doctor's"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это никому не дают",
+   "ipa": "ðeɪ doʊnt ɡɪv ɪt tu ˈɛnibədi",
+   "spell": "they don't give it to anybody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они нашли это",
+   "ipa": "ðeɪ faʊnd ɪt",
+   "spell": "they found it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они дали мне",
+   "ipa": "ðeɪ ɡeɪv mi",
+   "spell": "they gave me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они заплесневели, \"зацвели\"",
+   "ipa": "ðeɪ ɡɑt ˈmoʊldi",
+   "spell": "they got moldy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они следят за нами",
+   "ipa": "ðeɪ wɑʧ ʌs",
+   "spell": "they watch us"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они следят за нами по камерам",
+   "ipa": "ðeɪ wɑʧ ʌs ɑn ˈkæmərəz",
+   "spell": "they watch us on cameras"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отпроситься на работе",
+   "ipa": "tu æsk fɔr taɪm ɔf wɜrk",
+   "spell": "to ask for time off work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заглянуть внутрь",
+   "ipa": "tu lʊk ɪnˈsaɪd",
+   "spell": "to look inside"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "следить за нами по камерам",
+   "ipa": "tu ˈmɑnətər ʌs ˈvaɪə ˈkæmərəz",
+   "spell": "to monitor us via cameras"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никому",
+   "ipa": "tu ˈnoʊˌbɑˌdi",
+   "spell": "to nobody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расслабляться",
+   "ipa": "tu rɪˈlæks",
+   "spell": "to relax"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заменять её",
+   "ipa": "tu ˈsʌbstəˌtut fɔr hɜr",
+   "spell": "to substitute for her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трогать розетки",
+   "ipa": "tu tʌʧ ˈaʊtˌlɛts",
+   "spell": "to touch outlets"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "менять здоровье на деньги",
+   "ipa": "tu treɪd jʊər hɛlθ fɔr ˈmʌni",
+   "spell": "to trade your health for money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два раза в месяц",
+   "ipa": "twaɪs ə mʌnθ",
+   "spell": "twice a month"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы заменили и поставили обратно",
+   "ipa": "wi ˌriˈpleɪst ɪt ænd pʊt ɪt bæk",
+   "spell": "we replaced it and put it back"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы заезжаем в магазин",
+   "ipa": "wi stɑp æt ə ʃɑp",
+   "spell": "we stop at a shop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы поменяли коробку",
+   "ipa": "wi swɑpt aʊt ðə bɑks",
+   "spell": "we swapped out the box"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы ходили по магазинам весь день",
+   "ipa": "wi wɜr ˈʃɑpɪŋ ɔl deɪ",
+   "spell": "we were shopping all day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нас било током",
+   "ipa": "wi wʊd ɡɛt ə ˈstætɪk ʃɑk",
+   "spell": "we would get a static shock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты спал?",
+   "ipa": "wɜr ju ˈslipɪŋ?",
+   "spell": "were you sleeping?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты ничего не украла",
+   "ipa": "ju dɪd nɑt stil ˈɛniˌθɪŋ",
+   "spell": "you did not steal anything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нужно маневрировать",
+   "ipa": "ju hæv tu məˈnuvɚ",
+   "spell": "you have to maneuver"
+ }
+]
+}

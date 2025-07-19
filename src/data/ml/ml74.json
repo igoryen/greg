@@ -1,0 +1,400 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 74,
+  "date": "2025-07-18",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кость",
+   "ipa": "ə boʊn",
+   "spell": "a bone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мышца",
+   "ipa": "ə ˈmʌsəl",
+   "spell": "a muscle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "медсестра с расширенными полномочиями",
+   "ipa": "ə nɜrs prækˈtɪʃənər",
+   "spell": "a nurse practitioner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пластиковая труба",
+   "ipa": "ə ˈplæstɪk paɪp",
+   "spell": "a plastic pipe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "политик",
+   "ipa": "ə ˌpɑləˈtɪʃən",
+   "spell": "a politician"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сидячая работа",
+   "ipa": "ə ˈsɛdənˌtɛri ʤɑb",
+   "spell": "a sedentary job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "интернет-магазин",
+   "ipa": "ən ˈɔnˌlaɪn stɔr",
+   "spell": "an online store"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зонт",
+   "ipa": "ən əmˈbrɛlə",
+   "spell": "an umbrella"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "одежда",
+   "ipa": "kloʊðz",
+   "spell": "clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обслуживание клиентов",
+   "ipa": "ˈkʌstəmər ˈsɜrvəs",
+   "spell": "customer service"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "диарея",
+   "ipa": "ˌdaɪəˈriə",
+   "spell": "diarrhea"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все купили это",
+   "ipa": "ˈɛvriˌbɑdi bɑt ɪt",
+   "spell": "everybody bought it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё, что связано с медициной",
+   "ipa": "ˈɛvriˌθɪŋ ðæt hæz tu du wɪð ˈmɛdəsən",
+   "spell": "everything that has to do with medicine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "для военных нужд",
+   "ipa": "fɔr ˈmɪləˌtɛri nidz",
+   "spell": "for military needs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "для военного использования",
+   "ipa": "fɔr ˈmɪləˌtɛri juz",
+   "spell": "for military use"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он в отличной форме",
+   "ipa": "hi ɪz ˈvɛri fɪt",
+   "spell": "he is very fit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он рассказывает нам",
+   "ipa": "hi tɛlz ʌs",
+   "spell": "he tells us"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жильё",
+   "ipa": "ˈhaʊzɪŋ",
+   "spell": "housing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как этих денег могло хватить на всю семью?",
+   "ipa": "haʊ kʊd ðɪs ˈmʌni bi ɪˈnʌf fɔr ðə hoʊl ˈfæməli?",
+   "spell": "how could this money be enough for the whole family?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гиподинамия",
+   "ipa": "haɪpoʊdaɪˈneɪmiə",
+   "spell": "hypodynamia"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если у тебя есть возможность двигаться",
+   "ipa": "ɪf ju hæv ðə ʧæns tu muv",
+   "spell": "if you have the chance to move"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в будущем",
+   "ipa": "ɪn ðə ˈfjuʧər",
+   "spell": "in the future"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня на это ушло два года",
+   "ipa": "ɪt tʊk mi tu jɪrz tu du ðɪs",
+   "spell": "it took me two years to do this"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты долго собирался",
+   "ipa": "ɪt tʊk ju ə waɪl",
+   "spell": "it took you a while"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе этого недостаточно",
+   "ipa": "ɪts nɑt ɪˈnʌf fɔr ju",
+   "spell": "it's not enough for you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "род",
+   "ipa": "kɪn",
+   "spell": "kin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "родня",
+   "ipa": "ˈkɪnfoʊk",
+   "spell": "kinfolk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рабочая сила",
+   "ipa": "ˈleɪbər fɔrs",
+   "spell": "labor force"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потерял возможность учиться",
+   "ipa": "lɔst ði ˌɑpərˈtunəti tu ˈstʌdi",
+   "spell": "lost the opportunity to study"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "физический труд",
+   "ipa": "ˈmænjuəl ˈleɪbər",
+   "spell": "manual labor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ожирение",
+   "ipa": "oʊˈbisəti",
+   "spell": "obesity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обычные люди",
+   "ipa": "ˈɔrdəˌnɛri ˈpipəl",
+   "spell": "ordinary people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди так напуганы",
+   "ipa": "ˈpipəl ɑr soʊ skɛrd",
+   "spell": "people are so scared"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "физически тяжёлый",
+   "ipa": "ˈfɪzɪkəli hɑrd",
+   "spell": "physically hard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "физически сильный",
+   "ipa": "ˈfɪzɪkəli strɔŋ",
+   "spell": "physically strong"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "власть",
+   "ipa": "ˈpaʊər",
+   "spell": "power"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "богатый",
+   "ipa": "rɪʧ",
+   "spell": "rich"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сидячий образ жизни",
+   "ipa": "ˈsɛdənˌtɛri ˈlaɪfˌstaɪl",
+   "spell": "sedentary lifestyle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она работала в Apple",
+   "ipa": "ʃi wɜrkt æt ˈæpəl",
+   "spell": "she worked at Apple"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "клубника стоит столько же",
+   "ipa": "ˈstrɔˌbɛriz kɑst ðə seɪm",
+   "spell": "strawberries cost the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бактерии, которые у него есть",
+   "ipa": "ðə bækˈtɪriə hi hæz",
+   "spell": "the bacteria he has"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "машина будет собирать образцы у людей",
+   "ipa": "ðə məˈʃin wɪl kəˈlɛkt ˈsæmpəlz frʌm ˈpipəl",
+   "spell": "the machine will collect samples from people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "та же цена",
+   "ipa": "ðə seɪm praɪs",
+   "spell": "the same price"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их обычаи",
+   "ipa": "ðɛr ˈkʌstəmz",
+   "spell": "their customs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они напуганы",
+   "ipa": "ðeɪ ɑr skɛrd",
+   "spell": "they are scared"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они учатся до тошноты",
+   "ipa": "ðeɪ lɜrn ənˈtɪl ðeɪ fil sɪk",
+   "spell": "they learn until they feel sick"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "соответствовать стандартам",
+   "ipa": "tu kənˈfɔrm tu ˈstændərdz",
+   "spell": "to conform to standards"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "диагностировать заболевания",
+   "ipa": "tu ˌdaɪəɡˈnoʊs dɪˈzizəz",
+   "spell": "to diagnose diseases"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "влиять на нас",
+   "ipa": "tu ˈɪnfluəns ʌs",
+   "spell": "to influence us"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выписывать рецепты",
+   "ipa": "tu prəˈskraɪb ˌmɛdəˈkeɪʃən",
+   "spell": "to prescribe medication"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обеспечивать людей рецептами",
+   "ipa": "tu prəˈvaɪd ˈpipəl wɪð prəˈskrɪpʃənz",
+   "spell": "to provide people with prescriptions"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "переучиваться",
+   "ipa": "tu riˈlɛrn",
+   "spell": "to relearn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тратить время на заработок",
+   "ipa": "tu spɛnd taɪm ˈɜrnɪŋ ˈmʌni",
+   "spell": "to spend time earning money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прозрачный",
+   "ipa": "trænˈspɛrənt",
+   "spell": "transparent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "беспилотный",
+   "ipa": "ənˈmænd",
+   "spell": "unmanned"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "важно то",
+   "ipa": "wɑt ˈmætərz ɪz",
+   "spell": "what matters is"
+ }
+]
+}

@@ -1,0 +1,477 @@
+{
+  "student": "Dmitry",
+  "slug": "dk",
+  "number": 6,
+  "date": "2025-07-18",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плохой день на работе",
+   "ipa": "ə bæd deɪ æt wɜrk",
+   "spell": "a bad day at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добродушное подшучивание",
+   "ipa": "ə ˈbæntər",
+   "spell": "a banter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уклонист",
+   "ipa": "ə dræft ˈdɑʤər",
+   "spell": "a draft dodger"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "соискатель работы",
+   "ipa": "ə ʤɑb-ˈsikər",
+   "spell": "a job-seeker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "короткий сон днём",
+   "ipa": "ə næp",
+   "spell": "a nap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бледное лицо",
+   "ipa": "ə peɪl feɪs",
+   "spell": "a pale face"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восстановительный послеобеденный сон",
+   "ipa": "ə ˈpaʊər næp",
+   "spell": "a power nap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "процесс",
+   "ipa": "ə ˈprɑˌsɛs",
+   "spell": "a process"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "солидный опыт",
+   "ipa": "ə ˈsɑləd ɪkˈspɪriəns",
+   "spell": "a solid experience"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "метод снятия стресса",
+   "ipa": "ə strɛs-rɪˈlif ˈmɛθəd",
+   "spell": "a stress-relief method"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сложный вопрос",
+   "ipa": "ə tʌf ˈkwɛsʧən",
+   "spell": "a tough question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "антистрессовый метод",
+   "ipa": "ən ˈænti-strɛs ˈmɛθəd",
+   "spell": "an anti-stress method"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "элитная компания",
+   "ipa": "ən ɪˈlit ˈkʌmpəni",
+   "spell": "an elite company"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "препятствие",
+   "ipa": "ən ˈɑbstəkəl",
+   "spell": "an obstacle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "устный экзамен",
+   "ipa": "ən ˈɔrəl ɪɡˈzæm",
+   "spell": "an oral exam"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "невообразимая боль",
+   "ipa": "ən ˌʌnɪˈmæʤɪnəbəl peɪn",
+   "spell": "an unimaginable pain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тревога",
+   "ipa": "æŋˈzaɪəti",
+   "spell": "anxiety"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты прикалываешься?",
+   "ipa": "ɑr ju ˈfʌkɪŋ wɪð mi?",
+   "spell": "are you fucking with me?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты шутишь?",
+   "ipa": "ɑr ju ˈkɪdɪŋ mi?",
+   "spell": "are you kidding me?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "за его услуги",
+   "ipa": "fɔr hɪz ˈsɜrvəsəz",
+   "spell": "for his services"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ради единства",
+   "ipa": "fɔr ðə seɪk ʌv ˈjunəti",
+   "spell": "for the sake of unity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "за ваши хлопоты",
+   "ipa": "fɔr jʊər ˈtrʌbəl",
+   "spell": "for your trouble"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "свободолюбивый",
+   "ipa": "ˈfridəm-ˈlʌvɪŋ",
+   "spell": "freedom-loving"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он устроился на работу в компанию",
+   "ipa": "hi ˈlændɪd ə ʤɑb æt ə ˈkʌmpəni",
+   "spell": "he landed a job at a company"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он отказался от возможности из-за языка",
+   "ipa": "hi tɜrnd daʊn ði ˌɑpərˈtunəti bɪˈkɔz ʌv ðə ˈlæŋɡwəʤ",
+   "spell": "he turned down the opportunity because of the language"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он надёжный",
+   "ipa": "hiz ˈsɑləd",
+   "spell": "he's solid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "надеюсь",
+   "ipa": "ˈhoʊpfəli",
+   "spell": "hopefully"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как интересно!",
+   "ipa": "haʊ ˈɪntrəstɪŋ!",
+   "spell": "how interesting!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу это подтвердить",
+   "ipa": "aɪ kæn əˈtɛst tu ðæt",
+   "spell": "I can attest to that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "за последние десять лет",
+   "ipa": "ɪn ðə læst tɛn jɪrz",
+   "spell": "in the last ten years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это бесит меня",
+   "ipa": "ɪt ˈpɪsɪz mi ɔf",
+   "spell": "it pisses me off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это на другом уровне",
+   "ipa": "ɪts ɑn ə ˈdɪfərənt ˈlɛvəl",
+   "spell": "it's on a different level"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "к счастью",
+   "ipa": "ˈlʌkəli",
+   "spell": "luckily"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тоже!",
+   "ipa": "mi tu!",
+   "spell": "me too!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моё лицо побледнело",
+   "ipa": "maɪ feɪs tɜrnd peɪl",
+   "spell": "my face turned pale"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не может быть!",
+   "ipa": "noʊ weɪ!",
+   "spell": "no way!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не так просто, как они думают",
+   "ipa": "nɑt æz ˈizi æz ðeɪ θɪŋk",
+   "spell": "not as easy as they think"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очевидный",
+   "ipa": "ˈɑbviəs",
+   "spell": "obvious"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правда?",
+   "ipa": "oʊ ˈrɪli? (ˈɔrli)",
+   "spell": "oh really? (orly)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "устно",
+   "ipa": "ˈɔrəli",
+   "spell": "orally"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твёрдый",
+   "ipa": "ˈsɑləd",
+   "spell": "solid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это мягко сказано",
+   "ipa": "ðæts ˈpʌtɪŋ ɪt ˈmaɪldli",
+   "spell": "that's putting it mildly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самая большая слабость",
+   "ipa": "ðə ˈbɪɡəst ˈwiknəs",
+   "spell": "the biggest weakness"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дно выгребной ямы",
+   "ipa": "ðə ˈbɑtəm ʌv ðə ˈsɛspɪt",
+   "spell": "the bottom of the cesspit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "процесс найма",
+   "ipa": "ðə ˈhaɪrɪŋ ˈprɑˌsɛs",
+   "spell": "the hiring process"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "западная жизнь",
+   "ipa": "ðə ˈwɛstərn laɪf",
+   "spell": "the western life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "худший",
+   "ipa": "ðə wɜrst",
+   "spell": "the worst"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мир не без добрых людей",
+   "ipa": "ðɛr ɑr stɪl ɡʊd ˈpipəl ɪn ðɪs wɜrld",
+   "spell": "there are still good people in this world"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подбодрить меня",
+   "ipa": "tu ʧɪr mi ʌp",
+   "spell": "to cheer me up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "финансировать войну",
+   "ipa": "tu fəˈnæns ðə wɔr",
+   "spell": "to finance the war"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "соответствовать описанию",
+   "ipa": "tu fɪt ðə dɪˈskrɪpʃən",
+   "spell": "to fit the description"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заставлять людей говорить на языке",
+   "ipa": "tu fɔrs ˈpipəl tu spik ðə ˈlæŋɡwəʤ",
+   "spell": "to force people to speak the language"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "финансировать войну",
+   "ipa": "tu fʌnd ðə wɔr",
+   "spell": "to fund the war"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идти тем же путём",
+   "ipa": "tu ɡoʊ daʊn ðə seɪm roʊd",
+   "spell": "to go down the same road"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пригласить на собеседование",
+   "ipa": "tu ɪnˈvaɪt fɔr ən ˈɪntərˌvju",
+   "spell": "to invite for an interview"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вызвать у меня рвоту",
+   "ipa": "tu meɪk mi ˈvɑmət",
+   "spell": "to make me vomit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бесить меня",
+   "ipa": "tu pɪs mi ɔf",
+   "spell": "to piss me off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "захватить власть",
+   "ipa": "tu siz ˈpaʊər",
+   "spell": "to seize power"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "говорить без акцента",
+   "ipa": "tu spik wɪˈθaʊt ən ˈæksɛnt",
+   "spell": "to speak without an accent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разобрать это",
+   "ipa": "tu teɪk ɪt əˈpɑrt",
+   "spell": "to take it apart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "надёжный",
+   "ipa": "ˈtrʌˌstwɜrði",
+   "spell": "trustworthy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "невыносимая боль",
+   "ipa": "ənˈbɛrəbəl peɪn",
+   "spell": "unbearable pain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "единство",
+   "ipa": "ˈjunəti",
+   "spell": "unity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам было всё равно",
+   "ipa": "wi ˈdɪdənt kɛr əˈbaʊt ˈɛniˌθɪŋ",
+   "spell": "we didn't care about anything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой вопрос вы бы меньше всего хотели услышать?",
+   "ipa": "wɪʧ ˈkwɛsʧən wʊd ju list laɪk tu bi æskt?",
+   "spell": "which question would you least like to be asked?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почему бы и нет?",
+   "ipa": "waɪ nɑt?",
+   "spell": "why not?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хуже",
+   "ipa": "wɜrs",
+   "spell": "worse"
+ }
+]
+}

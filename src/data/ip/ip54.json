@@ -1,0 +1,337 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 54,
+  "date": "2025-07-18",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "режисер",
+   "ipa": "ə ˈmuvi dəˈrɛktər",
+   "spell": "a movie director"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заборона",
+   "ipa": "ə ˌproʊəˈbɪʃən",
+   "spell": "a prohibition"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тема",
+   "ipa": "ə ˈsʌbʤɪkt",
+   "spell": "a subject"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "займенник-підмет",
+   "ipa": "ə ˈsʌbʤɪkt ˈproʊnaʊn",
+   "spell": "a subject pronoun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "керівник",
+   "ipa": "ə ˈsupərˌvaɪzər",
+   "spell": "a supervisor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Мотор!",
+   "ipa": "ˈækʃən!",
+   "spell": "action!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "займенник-додаток",
+   "ipa": "ən ˈɑbʤɛkt ˈproʊnaʊn",
+   "spell": "an object pronoun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наказ",
+   "ipa": "ən ˈɔrdər",
+   "spell": "an order"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хтось ще?",
+   "ipa": "ˈɛnibədi ɛls?",
+   "spell": "anybody else?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ходи!",
+   "ipa": "kʌm!",
+   "spell": "come!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Знято!",
+   "ipa": "kʌt!",
+   "spell": "cut!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ви знаєте інших акторів?",
+   "ipa": "du ju noʊ ˈʌðər ˈæktərz?",
+   "spell": "do you know other actors?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ви знаєте інших режисерів?",
+   "ipa": "du ju noʊ ˈʌðər dəˈrɛktərz?",
+   "spell": "do you know other directors?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Не рухайся!",
+   "ipa": "doʊnt muv!",
+   "spell": "don't move!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Нічого не кажи!",
+   "ipa": "doʊnt seɪ ˈɛniˌθɪŋ!",
+   "spell": "don't say anything!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Не говоріть про Раяна!",
+   "ipa": "doʊnt tɔk əˈbaʊt ˈraɪən!",
+   "spell": "don't talk about Ryan!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Їдь!",
+   "ipa": "draɪv!",
+   "spell": "drive!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Висадьте мене біля автобусної зупинки",
+   "ipa": "drɑp mi ɔf nɛkst tu ðə bʌs stɑp",
+   "spell": "drop me off next to the bus stop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Їж!",
+   "ipa": "it!",
+   "spell": "eat!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Насолоджуйся цим!",
+   "ipa": "ɛnˈʤɔɪ ɪt!",
+   "spell": "Enjoy it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Вставай!",
+   "ipa": "ɡɛt ʌp!",
+   "spell": "get up!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Іди!",
+   "ipa": "ɡoʊ!",
+   "spell": "go!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Гарних вихідних!",
+   "ipa": "hæv ə ɡreɪt ˈwiˌkɛnd!",
+   "spell": "Have a great weekend!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Він режисер цих фільмів",
+   "ipa": "hi ɪz ðə dəˈrɛktər ʌv ðiz ˈmuviz",
+   "spell": "he is the director of these movies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Як справи?",
+   "ipa": "haʊ ɪz ɪt ˈɡoʊɪŋ?",
+   "spell": "how is it going?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я прийшов",
+   "ipa": "aɪ dɪd kʌm = aɪ keɪm",
+   "spell": "I did come = I came"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я пішов",
+   "ipa": "aɪ dɪd ɡoʊ = aɪ wɛnt",
+   "spell": "I did go = I went"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я взяв",
+   "ipa": "aɪ dɪd teɪk = aɪ tʊk",
+   "spell": "I did take = I took"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Я працював",
+   "ipa": "aɪ dɪd wɜrk = aɪ wɜrkt",
+   "spell": "I did work = I worked"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Все добре",
+   "ipa": "ɪts ˈɡoʊɪŋ ɡʊd",
+   "spell": "it's going good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Рухайся!",
+   "ipa": "muv!",
+   "spell": "move!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Біля неї",
+   "ipa": "nɛkst tu hɜr",
+   "spell": "next to her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Біля цього",
+   "ipa": "nɛkst tu ɪt",
+   "spell": "next to it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Біля мене",
+   "ipa": "nɛkst tu mi",
+   "spell": "next to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Біля машини",
+   "ipa": "nɛkst tu ðə kɑr",
+   "spell": "next to the car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Нічого не кажіть!",
+   "ipa": "seɪ ˈnʌθɪŋ!",
+   "spell": "say nothing!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Вона не знає",
+   "ipa": "ʃi ˈdʌzənt noʊ",
+   "spell": "she doesn’t know"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Сідай!",
+   "ipa": "sɪt!",
+   "spell": "sit!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Деякі актори",
+   "ipa": "sʌm ˈæktərz",
+   "spell": "some actors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Зупиніться біля автобусної зупинки!",
+   "ipa": "stɑp nɛkst tu ðə bʌs stɑp!",
+   "spell": "stop next to the bus stop!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Дубль 1",
+   "ipa": "teɪk 1",
+   "spell": "take 1"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Чудово!",
+   "ipa": "ðæts ɡreɪt!",
+   "spell": "that's great!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Наказовий спосіб",
+   "ipa": "ði ɪmˈpɛrətɪv",
+   "spell": "the imperative"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Нам потрібно поговорити",
+   "ipa": "wi nid tu tɔk",
+   "spell": "we need to talk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Про що?",
+   "ipa": "wɑt əˈbaʊt?",
+   "spell": "what about?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Про що ти хочеш поговорити?",
+   "ipa": "wɑt du ju wɑnt tu tɔk əˈbaʊt?",
+   "spell": "what do you want to talk about?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Можете висадити мене біля автобусної зупинки",
+   "ipa": "ju kæn drɑp mi baɪ ðə bʌs stɑp",
+   "spell": "you can drop me by the bus stop"
+ }
+]
+}
