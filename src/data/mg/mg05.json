@@ -1,0 +1,344 @@
+{
+  "student": "Mike G.",
+  "slug": "mg",
+  "number": 5,
+  "date": "2025-07-20",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пять человек, включая меня",
+   "ipa": "faɪv ˈpipəl ɪnˈkludɪŋ mi",
+   "spell": "five people including me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стул",
+   "ipa": "ə ʧɛr",
+   "spell": "a chair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страна - страны",
+   "ipa": "ə ˈkʌntri - ˈkʌntriz",
+   "spell": "a country - countries"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "письменный стол",
+   "ipa": "ə dɛsk",
+   "spell": "a desk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "словарь",
+   "ipa": "ə ˈdɪkʃəˌnɛri",
+   "spell": "a dictionary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ключ - ключи",
+   "ipa": "ə ki - kiz",
+   "spell": "a key - keys"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лампа",
+   "ipa": "ə læmp",
+   "spell": "a lamp"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ноутбук",
+   "ipa": "ə ˈlæpˌtɑp",
+   "spell": "a laptop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "захламлённая комната",
+   "ipa": "ə ˈmɛsi rum",
+   "spell": "a messy room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "аккуратная комната",
+   "ipa": "ə nit rum",
+   "spell": "a neat room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "газета",
+   "ipa": "ə ˈnuzˌpeɪpər",
+   "spell": "a newspaper"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тетрадь",
+   "ipa": "ə ˈnoʊtˌbʊk",
+   "spell": "a notebook"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фотография",
+   "ipa": "ə ˈfoʊˌtoʊ",
+   "spell": "a photo"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кошелёк",
+   "ipa": "ə pɜrs",
+   "spell": "a purse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стол",
+   "ipa": "ə ˈteɪbəl",
+   "spell": "a table"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "часы - часы",
+   "ipa": "ə wɑʧ - ˈwɑʧəz",
+   "spell": "a watch - watches"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "окно - окна",
+   "ipa": "ə ˈwɪndoʊ - ˈwɪndoʊz",
+   "spell": "a window - windows"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женщина - женщины",
+   "ipa": "ə ˈwʊmən - ˈwɪmən",
+   "spell": "a woman - women"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "электронное письмо",
+   "ipa": "ən iˈmeɪl",
+   "spell": "an email"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "удостоверение личности - удостоверения личности",
+   "ipa": "ən ɪd kɑrd - ɪd kɑrdz",
+   "spell": "an ID card - ID cards"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "менять",
+   "ipa": "tu ʧeɪnʤ",
+   "spell": "to change"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разрешаете наушники на работе?",
+   "ipa": "du ju əˈlaʊ ˈhɛdˌfoʊnz æt wɜrk?",
+   "spell": "do you allow headphones at work?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты обычно работаешь по воскресеньям?",
+   "ipa": "du ju ˈjuʒəwəli wɜrk ɑn ˈsʌnˌdeɪz?",
+   "spell": "do you usually work on Sundays?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наушники",
+   "ipa": "ˈhɛdˌfoʊnz",
+   "spell": "headphones"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько им лет?",
+   "ipa": "haʊ oʊld ɑr ðeɪ?",
+   "spell": "how old are they?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько лет самому старшему?",
+   "ipa": "haʊ oʊld ɪz ði ˈoʊldəst wʌn?",
+   "spell": "how old is the oldest one?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько лет самому младшему?",
+   "ipa": "haʊ oʊld ɪz ðə ˈjʌŋɡəst wʌn?",
+   "spell": "how old is the youngest one?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я самый старший",
+   "ipa": "aɪ æm ði ˈoʊldəst",
+   "spell": "I am the oldest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "включая меня",
+   "ipa": "ɪnˈkludɪŋ mi",
+   "spell": "including me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это кошелёк для мелочи",
+   "ipa": "ɪt ɪz ə ʧeɪnʤ pɜrs",
+   "spell": "it is a change purse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это зарядка",
+   "ipa": "ɪt ɪz ə ˈʧɑrʤər",
+   "spell": "it is a charger"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это монета",
+   "ipa": "ɪt ɪz ə kɔɪn",
+   "spell": "it is a coin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это мужчина",
+   "ipa": "ɪt ɪz ə mæn",
+   "spell": "it is a man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это яйцо",
+   "ipa": "ɪt ɪz ən ɛɡ",
+   "spell": "it is an egg"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это зонт",
+   "ipa": "ɪt ɪz ən əmˈbrɛlə",
+   "spell": "it is an umbrella"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мужчина - мужчины",
+   "ipa": "ə mæn - mɛn",
+   "spell": "a man - men"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пропавший",
+   "ipa": "ˈmɪsɪŋ",
+   "spell": "missing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ножницы",
+   "ipa": "ˈsɪzərz",
+   "spell": "scissors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "погода пасмурная",
+   "ipa": "ðə ˈwɛðər ɪz ˈklaʊdi",
+   "spell": "the weather is cloudy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это словари",
+   "ipa": "ðeɪ ɑr ˈdɪkʃəˌnɛriz",
+   "spell": "they are dictionaries"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это ножницы",
+   "ipa": "ðeɪ ɑr ˈsɪzərz",
+   "spell": "they are scissors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это солнцезащитные очки",
+   "ipa": "ðeɪ ɑr ˈsʌnˌɡlæsɪz",
+   "spell": "they are sunglasses"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дети",
+   "ipa": "ðɛr ˈʧɪldrən",
+   "spell": "they're children"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это мужчины",
+   "ipa": "ðɛr mɛn",
+   "spell": "they're men"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дом",
+   "ipa": "ðɪs ɪz ə haʊs",
+   "spell": "this is a house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это кузнец",
+   "ipa": "ðɪs ɪz ə smɪθ",
+   "spell": "this is a smith"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это Хаус",
+   "ipa": "ðɪs ɪz haʊs",
+   "spell": "this is House"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это Смит",
+   "ipa": "ðɪs ɪz smɪθ",
+   "spell": "this is Smith"
+ }
+]
+}

@@ -1,0 +1,582 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "number": 49,
+  "date": "2025-07-20",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скучное лицо",
+   "ipa": "ə bɔrd feɪs",
+   "spell": "a bored face"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скучная жизнь",
+   "ipa": "ə ˈbɔrɪŋ laɪf",
+   "spell": "a boring life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "городская девушка",
+   "ipa": "ə ˈsɪti ɡɜrl",
+   "spell": "a city girl"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автосалон",
+   "ipa": "ə ˈdilərˌʃɪp",
+   "spell": "a dealership"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гибрид",
+   "ipa": "ə ˈhaɪbrɪd",
+   "spell": "a hybrid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "путешествие",
+   "ipa": "ə ˈʤɜrni",
+   "spell": "a journey"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ограниченная серия",
+   "ipa": "ə ˈlɪmɪtɪd əˈdɪʃən",
+   "spell": "a limited edition"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бассейн",
+   "ipa": "ə pul",
+   "spell": "a pool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вид спорта",
+   "ipa": "ə spɔrt",
+   "spell": "a sport"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "путешествие",
+   "ipa": "ə ˈtrævəl",
+   "spell": "a travel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "глагол",
+   "ipa": "ə vɜrb",
+   "spell": "a verb"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слово",
+   "ipa": "ə wɜrd",
+   "spell": "a word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "после работы",
+   "ipa": "ˈæftər wɜrk",
+   "spell": "after work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё время",
+   "ipa": "ɔl ðə taɪm",
+   "spell": "all the time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "аллергии",
+   "ipa": "ˈælərʤiz",
+   "spell": "allergies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всегда",
+   "ipa": "ˈɔlˌweɪz",
+   "spell": "always"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двигатель",
+   "ipa": "ən ˈɛnʤən",
+   "spell": "an engine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эпизод",
+   "ipa": "ən ˈɛpəˌsoʊd",
+   "spell": "an episode"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ресница",
+   "ipa": "ən ˈaɪˌlæʃ",
+   "spell": "an eyelash"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лишь бы тебе нравилось",
+   "ipa": "æz lɔŋ æz ju laɪk ɪt",
+   "spell": "as long as you like it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "особенно когда он трезвый",
+   "ipa": "əˈspɛʃli wɛn hi ɪz ˈsoʊbər",
+   "spell": "especially when he is sober"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый раз",
+   "ipa": "ˈɛvəri taɪm",
+   "spell": "every time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "борись с этим!",
+   "ipa": "faɪt ɪt!",
+   "spell": "fight it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "например",
+   "ipa": "fɔr ɪɡˈzæmpəl",
+   "spell": "for example"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по бензину",
+   "ipa": "ɡæs-waɪz",
+   "spell": "gas-wise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не умеет веселиться",
+   "ipa": "hi ˈdʌzənt noʊ haʊ tu hæv fʌn",
+   "spell": "he doesn't know how to have fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ему скучно",
+   "ipa": "hi ɪz bɔrd",
+   "spell": "he is bored"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как хорошо, когда есть кто-то",
+   "ipa": "haʊ ɡʊd ɪt ɪz wɛn ju hæv ˈsʌmˌbɑdi",
+   "spell": "how good it is when you have somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я нашла это",
+   "ipa": "aɪ dɪd faɪnd ɪt = aɪ faʊnd ɪt",
+   "spell": "I did find it = I found it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я встретила их",
+   "ipa": "aɪ dɪd mit ðɛm = aɪ mɛt ðɛm",
+   "spell": "I did meet them = I met them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня есть чем заняться",
+   "ipa": "aɪ hæv ˈsʌmθɪŋ tu du",
+   "spell": "I have something to do"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится сидеть на природе",
+   "ipa": "aɪ laɪk tu sɪt ɪn ˈneɪʧər",
+   "spell": "I like to sit in nature"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится путешествовать",
+   "ipa": "aɪ laɪk tu ˈtrævəl",
+   "spell": "I like to travel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я люблю играть на аккордеоне",
+   "ipa": "aɪ lʌv ˈpleɪɪŋ ði əˈkɔrdiən",
+   "spell": "I love playing the accordion"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я заметила",
+   "ipa": "aɪ ˈnoʊtəst",
+   "spell": "I noticed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я играю в бадминтон",
+   "ipa": "aɪ pleɪ ˈbædˌmɪntən",
+   "spell": "I play badminton"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я помню",
+   "ipa": "aɪ rɪˈmɛmbər",
+   "spell": "I remember"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я стараюсь заниматься спортом каждый день",
+   "ipa": "aɪ traɪ tu ˈɛksərˌsaɪz ˈɛvəri deɪ",
+   "spell": "I try to exercise every day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хочу повеселиться",
+   "ipa": "aɪ wɑnt tu hæv fʌn",
+   "spell": "I want to have fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в бассейне",
+   "ipa": "ɪn ə pul",
+   "spell": "in a pool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он совершенно новый?",
+   "ipa": "ɪz ɪt brænd nu?",
+   "spell": "is it brand new?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это уже закончилось?",
+   "ipa": "ɪz ɪt ˈoʊvər jɛt?",
+   "spell": "is it over yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это тоже пройдёт",
+   "ipa": "ɪt wɪl pæs, tu",
+   "spell": "it will pass, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это понятно",
+   "ipa": "ɪts klɪr",
+   "spell": "it's clear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "меч короля Артура",
+   "ipa": "kɪŋ ˈɑrθərz sɔrd",
+   "spell": "king Arthur's sword"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай сегодня куда-нибудь сходим",
+   "ipa": "lɛts ɡoʊ aʊt təˈnaɪt",
+   "spell": "let's go out tonight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы с пацанами",
+   "ipa": "mi ænd ðə bɔɪz",
+   "spell": "me and the boys"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы с девчонками",
+   "ipa": "mi ænd ðə ɡɜrlz",
+   "spell": "me and the girls"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по деньгам",
+   "ipa": "ˈmʌni-waɪz",
+   "spell": "money-wise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня чешется лицо",
+   "ipa": "maɪ feɪs ɪz ˈɪʧi",
+   "spell": "my face is itchy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои путешествия",
+   "ipa": "maɪ ˈtrævəlz",
+   "spell": "my travels"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "близорукость",
+   "ipa": "ˈnirˌsaɪtɪdnəs",
+   "spell": "nearsightedness"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не часто",
+   "ipa": "nɑt ˈɔfən",
+   "spell": "not often"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не только",
+   "ipa": "nɑt ˈoʊnli",
+   "spell": "not only"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один раз",
+   "ipa": "wʌns",
+   "spell": "once"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один раз",
+   "ipa": "wʌns = wʌn taɪm",
+   "spell": "once = one time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в год",
+   "ipa": "wʌns ə jɪr",
+   "spell": "once a year"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наше тело",
+   "ipa": "ˈaʊər ˈbɑdi",
+   "spell": "our body"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "повторение - мать учения",
+   "ipa": "ˈpræktəs meɪks ˈpɜrˌfɪkt",
+   "spell": "practice makes perfect"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предсказуемый",
+   "ipa": "prɪˈdɪktəbəl",
+   "spell": "predictable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "семь лет в музыкальной школе",
+   "ipa": "ˈsɛvən jɪrz ɪn ˈmjuzɪk skul",
+   "spell": "seven years in music school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она чувствует это",
+   "ipa": "ʃi filz ɪt",
+   "spell": "she feels it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-то правдивое",
+   "ipa": "ˈsʌmθɪŋ tru",
+   "spell": "something true"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делать ресницы",
+   "ipa": "tu du ˈaɪˌlæʃɪz",
+   "spell": "to do eyelashes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заниматься физкультурой",
+   "ipa": "tu ˈɛksərˌsaɪz",
+   "spell": "to exercise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выйти прогуляться",
+   "ipa": "tu ɡoʊ aʊt",
+   "spell": "to go out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "встречаться с друзьями",
+   "ipa": "tu mit frɛndz",
+   "spell": "to meet friends"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заниматься спортом",
+   "ipa": "tu pleɪ spɔrts",
+   "spell": "to play sports"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "играть на аккордеоне",
+   "ipa": "tu pleɪ ði əˈkɔrdiən",
+   "spell": "to play the accordion"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "курить травку",
+   "ipa": "tu smoʊk wid",
+   "spell": "to smoke weed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оставаться дома",
+   "ipa": "tu steɪ hoʊm",
+   "spell": "to stay home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два раза",
+   "ipa": "twaɪs",
+   "spell": "twice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два раза",
+   "ipa": "twaɪs = tu taɪmz",
+   "spell": "twice = two times"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два раза в неделю",
+   "ipa": "twaɪs ə wik",
+   "spell": "twice a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "необычный",
+   "ipa": "ənˈjuʒˌuəl",
+   "spell": "unusual"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы профукали уикенд",
+   "ipa": "wi blu ɔf ðə ˈwiˌkɛnd",
+   "spell": "we blew off the weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каким спортом ты занимаешься?",
+   "ipa": "wɑt kaɪnd ʌv spɔrt du ju pleɪ?",
+   "spell": "what kind of sport do you play?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что в них ужасного?",
+   "ipa": "wʌts ˈtɛrəbəl əˈbaʊt ðɛm?",
+   "spell": "what's terrible about them?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты не обязан это доедать",
+   "ipa": "ju doʊnt hæv tu ˈfɪnɪʃ ɪt",
+   "spell": "you don't have to finish it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты отлично выглядишь",
+   "ipa": "ju lʊk ɡreɪt",
+   "spell": "you look great"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты доплачиваешь за это",
+   "ipa": "ju peɪ ˈɛkstrə fɔr ðæt",
+   "spell": "you pay extra for that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты хочешь всего этого",
+   "ipa": "ju wɑnt ɔl ʌv ðæt",
+   "spell": "you want all of that"
+ }
+]
+}
