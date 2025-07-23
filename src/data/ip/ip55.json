@@ -1,0 +1,295 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 55,
+  "date": "2025-07-21",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "погане ліжко",
+      "ipa": "ə bæd bɛd",
+      "spell": "a bad bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "негативний наказ",
+      "ipa": "ə ˈnɛɡətɪv ɪmˈpɛrətɪv",
+      "spell": "a negative imperative"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вила",
+      "ipa": "ə ˈpɪʧˌfɔrk",
+      "spell": "a pitchfork"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "позитивний наказ",
+      "ipa": "ə ˈpɑzətɪv ɪmˈpɛrətɪv",
+      "spell": "a positive imperative"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дурниця",
+      "ipa": "ə ˈsɪli θɪŋ",
+      "spell": "a silly thing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наказовий спосіб",
+      "ipa": "ən ɪmˈpɛrətɪv mud",
+      "spell": "an imperative mood"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "займенник-об'єкт",
+      "ipa": "ən ˈɑbʤɛkt ˈproʊnaʊn",
+      "spell": "an object pronoun"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зупинись!",
+      "ipa": "breɪk!",
+      "spell": "break!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зроби це!",
+      "ipa": "du ɪt!",
+      "spell": "do it!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не роби цього!",
+      "ipa": "doʊnt du ɪt!",
+      "spell": "don't do it!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не слухай!",
+      "ipa": "doʊnt ˈlɪsən!",
+      "spell": "Don't listen!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не дивись!",
+      "ipa": "doʊnt lʊk!",
+      "spell": "Don't look!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не сідай!",
+      "ipa": "doʊnt sɪt daʊn!",
+      "spell": "don't sit down!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не чекай!",
+      "ipa": "doʊnt weɪt!",
+      "spell": "don't wait!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не чіпай це!",
+      "ipa": "doʊnt tʌʧ ɪt!",
+      "spell": "don’t touch it!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не чіпай мене!",
+      "ipa": "doʊnt tʌʧ mi!",
+      "spell": "don’t touch me!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Спустись!",
+      "ipa": "ɡɛt daʊn!",
+      "spell": "get down!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Дай мене",
+      "ipa": "ɡɪv mi",
+      "spell": "give me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Дай мені",
+      "ipa": "ɡɪv mi",
+      "spell": "give me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Гальмуй!",
+      "ipa": "hɪt ðə breɪks!",
+      "spell": "hit the breaks!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я був у Вашингтоні",
+      "ipa": "aɪ hæv bɪn tu ˈwɑʃɪŋtən",
+      "spell": "I have been to Washington"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я прочитаю їх",
+      "ipa": "aɪ wɪl rid ðɛm",
+      "spell": "I will read them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Відпусти мене!",
+      "ipa": "lɛt mi ɡoʊ!",
+      "spell": "let me go!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Слухай!",
+      "ipa": "ˈlɪsən!",
+      "spell": "Listen!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Дивись!",
+      "ipa": "lʊk!",
+      "spell": "Look!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Зроби мені торт",
+      "ipa": "meɪk mi ə keɪk",
+      "spell": "make me a cake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Змусь мене це зробити",
+      "ipa": "meɪk mi du ɪt",
+      "spell": "make me do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Тільки для моїх очей",
+      "ipa": "ˈoʊnli fɔr maɪ aɪz",
+      "spell": "only for my eyes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Паркуйся там!",
+      "ipa": "pɑrk ðɛr!",
+      "spell": "park there!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Обжени його",
+      "ipa": "pæs hɪm",
+      "spell": "pass him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Тисни на гальмо!",
+      "ipa": "prɛs ðə breɪk ˈpɛdəl!",
+      "spell": "press the brake pedal!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Виїжджай!",
+      "ipa": "pʊl aʊt!",
+      "spell": "pull out!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Припаркуйся!",
+      "ipa": "pʊl ˈoʊvər!",
+      "spell": "pull over!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Сідай!",
+      "ipa": "sɪt daʊn!",
+      "spell": "sit down!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Це приватне!",
+      "ipa": "ðæt ɪz ˈpraɪvət!",
+      "spell": "that is private!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ламати",
+      "ipa": "tu breɪk",
+      "spell": "to break"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кашляти",
+      "ipa": "tu kɑf",
+      "spell": "to cough"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хвилюватися",
+      "ipa": "tu ˈwɜri",
+      "spell": "to worry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Чекай!",
+      "ipa": "weɪt!",
+      "spell": "wait!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Чому ти втомлений?",
+      "ipa": "waɪ ɑr ju ˈtaɪərd?",
+      "spell": "why are you tired?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ти зламаєшся, якщо не відпочинеш",
+      "ipa": "ju wɪl breɪk ɪf ju doʊnt teɪk ə breɪk",
+      "spell": "you will break if you don't take a break"
+    }
+  ]
+}
