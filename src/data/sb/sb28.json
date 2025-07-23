@@ -1,0 +1,274 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "number": 28,
+  "date": "2025-07-21",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бейсбольный стадион",
+      "ipa": "ə ˈbɔlˌpɑrk",
+      "spell": "a ballpark"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сертификат",
+      "ipa": "ə sərˈtɪfɪkət",
+      "spell": "a certificate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ребёнок младше",
+      "ipa": "ə ʧaɪld hu ɪz ˈjʌŋɡər ðæn",
+      "spell": "a child who is younger than"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гимназия",
+      "ipa": "ə ʤɪmˈneɪziəm (ən ˌækəˈdɛmɪk haɪ skul ɪn ˈjʊrəp)",
+      "spell": "a gymnasium (an academic high school in Europe)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не носитель языка",
+      "ipa": "ə ˈnɑˈneɪtɪv ˈspikər",
+      "spell": "a non-native speaker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "философ",
+      "ipa": "ə fəˈlɑsəfər",
+      "spell": "a philosopher"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заколотить мяч в корзину",
+      "ipa": "ə slæm dʌŋk",
+      "spell": "a slam dunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "озвучка",
+      "ipa": "ə ˈvɔɪˌsoʊvər",
+      "spell": "a voiceover"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "озвученный перевод",
+      "ipa": "ə ˈvɔɪˌsoʊvər trænˈzleɪʃən",
+      "spell": "a voiceover translation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "напоследок",
+      "ipa": "æz ə ˈfaɪnəl θɪŋ",
+      "spell": "as a final thing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "счёт даётся нам нелегко",
+      "ipa": "ˈkaʊntɪŋ ˈdʌzənt kʌm ˈizi tu ʌs",
+      "spell": "counting doesn't come easy to us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дубляж",
+      "ipa": "ˈdʌbɪŋ",
+      "spell": "dubbing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "её собеседование прошло на ура",
+      "ipa": "hɜr ʤɑb ˈɪntərˌvju wʌz ə slæm dʌŋk",
+      "spell": "her job interview was a slam dunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сама замечаю свои ошибки",
+      "ipa": "aɪ kæʧ maɪ oʊn mɪsˈteɪks",
+      "spell": "I catch my own mistakes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если будешь усердно учиться, экзамен сдашь на ура",
+      "ipa": "ɪf ju ˈstʌdi hɑrd, ˈpæsɪŋ ði ɪɡˈzæm wɪl bi ə slæm dʌŋk",
+      "spell": "if you study hard, passing the exam will be a slam dunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в 2025 году",
+      "ipa": "ɪn ðə jɪr 2025",
+      "spell": "in the year 2025"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "позже в жизни",
+      "ipa": "ˈleɪtər ɑn ɪn laɪf",
+      "spell": "later on in life"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "команда добилась огромного успеха с запуском нового продукта",
+      "ipa": "ðə tim hɪt ɪt aʊt ʌv ðə pɑrk wɪð ðɛr nu ˈprɑdəkt lɔnʧ",
+      "spell": "the team hit it out of the park with their new product launch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они говорят неразборчиво",
+      "ipa": "ðeɪ slɜr ə lɑt",
+      "spell": "they slur a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они невнятно говорят",
+      "ipa": "ðeɪ slɜr ðɛr spiʧ",
+      "spell": "they slur their speech"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они проглатывают слова",
+      "ipa": "ðeɪ slɜr ðɛr wɜrdz",
+      "spell": "they slur their words"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они так хорошо говорят по-английски",
+      "ipa": "ðeɪ spik sʌʧ ɡʊd ˈɪŋɡlɪʃ",
+      "spell": "they speak such good english"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они снялись в фильме",
+      "ipa": "ðeɪ stɑrd ɪn ðə ˈmuvi",
+      "spell": "they starred in the movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне это нелегко даётся",
+      "ipa": "ðɪs ˈdʌzənt kʌm ˈizi tu mi",
+      "spell": "this doesn't come easy to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дублировать фильм",
+      "ipa": "tu dʌb ə ˈmuvi",
+      "spell": "to dub a movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "забивать мяч",
+      "ipa": "tu dʌŋk",
+      "spell": "to dunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обижаться",
+      "ipa": "tu fil əˈfɛndɪd",
+      "spell": "to feel offended"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чтобы меня поправляли в английском",
+      "ipa": "tu hæv maɪ ˈɪŋɡlɪʃ kəˈrɛktɪd",
+      "spell": "to have my English corrected"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плохо понимать его",
+      "ipa": "tu hæv ˈtrʌbəl ˌʌndərˈstændɪŋ hɪm",
+      "spell": "to have trouble understanding him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "добиться огромного успеха",
+      "ipa": "tu hɪt ɪt aʊt ʌv ðə pɑrk",
+      "spell": "to hit it out of the park"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "говорить так, что трудно понимать",
+      "ipa": "tu spik ɪn ə weɪ ðæts hɑrd tu ˌʌndərˈstænd",
+      "spell": "to speak in a way that's hard to understand"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хорошо говорить",
+      "ipa": "tu spik wɛl",
+      "spell": "to speak well"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "напечатать это (на клавиатуре)",
+      "ipa": "tu taɪp ɪt",
+      "spell": "to type it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы посещали (e.g. часто)",
+      "ipa": "wi wʊd ˈvɪzət",
+      "spell": "we would visit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне трудно подбирать слова",
+      "ipa": "wɜrdz doʊnt kʌm ˈizi tu mi",
+      "spell": "words don't come easy to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты блестяще выступил с той презентацией",
+      "ipa": "ju hɪt ɪt aʊt ʌv ðə pɑrk wɪð ðæt ˌprɛzənˈteɪʃən",
+      "spell": "you hit it out of the park with that presentation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "младше",
+      "ipa": "ˈjʌŋɡər",
+      "spell": "younger"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дольше",
+      "ipa": "ˈlɔŋɡər",
+      "spell": "longer"
+    }
+  ]
+}
