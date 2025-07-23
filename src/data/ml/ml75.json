@@ -1,0 +1,372 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 75,
+  "date": "2025-07-21",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "метель",
+   "ipa": "ə ˈblɪzərd",
+   "spell": "a blizzard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "засуха",
+   "ipa": "ə draʊt",
+   "spell": "a drought"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наводнение",
+   "ipa": "ə flʌd",
+   "spell": "a flood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мастер на все руки",
+   "ipa": "ə ˈhændiˌmæn",
+   "spell": "a handyman"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ураган",
+   "ipa": "ə ˈhɜrəˌkeɪn",
+   "spell": "a hurricane"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молния",
+   "ipa": "ə ˈlaɪtnɪŋ",
+   "spell": "a lightning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шуруповёрт",
+   "ipa": "ə ˈpaʊər drɪl",
+   "spell": "a power drill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отвёртка",
+   "ipa": "ə skru ˈdraɪvər",
+   "spell": "a screw driver"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сильный ветер",
+   "ipa": "ə strɔŋ wɪnd",
+   "spell": "a strong wind"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стойка, балка",
+   "ipa": "ə strʌt",
+   "spell": "a strut"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "густой туман",
+   "ipa": "ə θɪk fɑɡ",
+   "spell": "a thick fog"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тропический муссон",
+   "ipa": "ə ˈtrɑpɪkəl mɑnˈsun",
+   "spell": "a tropical monsoon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "долина",
+   "ipa": "ə ˈvæli",
+   "spell": "a valley"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "погодное явление",
+   "ipa": "ə ˈwɛðər ɪˈvɛnt",
+   "spell": "a weather event"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обледенелая дорога",
+   "ipa": "ən ˈaɪsi roʊd",
+   "spell": "an icy road"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Азия",
+   "ipa": "ˈeɪʒə",
+   "spell": "Asia"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в восемнадцать лет",
+   "ipa": "æt eɪˈtin (eɪʤ)",
+   "spell": "at eighteen (age)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ниже нуля",
+   "ipa": "bɪˈloʊ ˈzɪroʊ",
+   "spell": "below zero"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кипящий",
+   "ipa": "ˈbɔɪlɪŋ",
+   "spell": "boiling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вызванный чем-то",
+   "ipa": "kɑzd baɪ ˈsʌmθɪŋ",
+   "spell": "caused by something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "изменчивая погода",
+   "ipa": "ˈʧeɪnʤəbəl ˈwɛðər",
+   "spell": "changeable weather"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ясное небо",
+   "ipa": "klɪr skaɪz",
+   "spell": "clear skies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сырой",
+   "ipa": "dæmp",
+   "spell": "damp"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гипсокартон",
+   "ipa": "ˈdraɪˌwɑl",
+   "spell": "drywall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "град размером с мяч для гольфа",
+   "ipa": "heɪl ðə saɪz ʌv ɡɑlf bɔlz",
+   "spell": "hail the size of golf balls"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "влажный",
+   "ipa": "ˈhjumɪd",
+   "spell": "humid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в середине сентября",
+   "ipa": "ɪn mɪd sɛpˈtɛmbər",
+   "spell": "in mid September"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на девятом месяце (беременности)",
+   "ipa": "ɪn ðə naɪnθ mʌnθ (ʌv ˈprɛɡnənsi)",
+   "spell": "in the ninth month (of pregnancy)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прохладно",
+   "ipa": "ɪt ɪz ˈʧɪli",
+   "spell": "it is chilly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моросит",
+   "ipa": "ɪt ɪz ˈdrɪzəlɪŋ",
+   "spell": "it is drizzling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "необычно жарко",
+   "ipa": "ɪt ɪz ənˈjuʒˌuəli hɑt",
+   "spell": "it is unusually hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тепло",
+   "ipa": "ɪt ɪz wɔrm",
+   "spell": "it is warm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это была честная ошибка",
+   "ipa": "ɪt wʌz ən ˈɑnəst mɪsˈteɪk",
+   "spell": "it was an honest mistake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "леденяще",
+   "ipa": "ɪts ˈfrizɪŋ",
+   "spell": "it's freezing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ярко и солнечно",
+   "ipa": "ɪts braɪt ænd ˈsʌni",
+   "spell": "it’s bright and sunny"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "льёт как из ведра",
+   "ipa": "ɪts ˈpɔrɪŋ",
+   "spell": "it’s pouring"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сверкнула молния",
+   "ipa": "ˈlaɪtnɪŋ flæʃt",
+   "spell": "lightning flashed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мягкая погода",
+   "ipa": "maɪld ˈwɛðər",
+   "spell": "mild weather"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лёгкий туман",
+   "ipa": "mɪst",
+   "spell": "mist"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "копить сколько сможешь",
+   "ipa": "seɪv æz mʌʧ ˈmʌni æz ju kæn",
+   "spell": "save as much money as you can"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "устоявшаяся погода",
+   "ipa": "ˈsɛtəld ˈwɛðər",
+   "spell": "settled weather"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шесть тысяч пятьсот",
+   "ipa": "ˈsɪksti faɪv ˈhʌndrɪd",
+   "spell": "sixty five hundred"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в десяти метрах",
+   "ipa": "tɛn ˈmitərz əˈweɪ",
+   "spell": "ten meters away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лёгкий туман сгустился",
+   "ipa": "ðə mɪst hæd ˈkɝdəld tu ə fɑɡ",
+   "spell": "the mist had curdled to a fog"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смог был сильным",
+   "ipa": "ðə smɑɡ wʌz bæd",
+   "spell": "the smog was bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идут ливни",
+   "ipa": "ðɛr ɑr ˈʃaʊərz",
+   "spell": "there are showers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будет сильный дождь",
+   "ipa": "ðɛr wɪl bi ˈhɛvi reɪn",
+   "spell": "there will be heavy rain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лёгкий ветерок",
+   "ipa": "ðɛrz ə briz",
+   "spell": "there’s a breeze"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гром разбудил меня",
+   "ipa": "ˈθʌndər woʊk mi ʌp",
+   "spell": "thunder woke me up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подать заявку на предварительное одобрение",
+   "ipa": "tu əˈplaɪ fɔr ə priəpˈruvəl",
+   "spell": "to apply for a preapproval"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "накрыть влажной простынёй",
+   "ipa": "tu ˈkʌvər wɪð ə dæmp ʃit",
+   "spell": "to cover with a damp sheet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спать ночью",
+   "ipa": "tu slip æt naɪt",
+   "spell": "to sleep at night"
+ }
+]
+}
