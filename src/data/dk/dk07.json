@@ -1,0 +1,323 @@
+{
+  "student": "Dmitry K.",
+  "slug": "dk",
+  "number": 7,
+  "date": "2025-07-21",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неплохие шансы",
+      "ipa": "ə ˈdisənt ʧæns",
+      "spell": "a decent chance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "безошибочный ответ",
+      "ipa": "ə ˈfulˌpruf ˈænsər",
+      "spell": "a foolproof answer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гик",
+      "ipa": "ə ɡik",
+      "spell": "a geek"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "искренний вопрос",
+      "ipa": "ə ˈʤɛnjəwən ˈkwɛsʧən",
+      "spell": "a genuine question"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "интуитивное предчувствие",
+      "ipa": "ə ɡʌt ˈfilɪŋ",
+      "spell": "a gut feeling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "соискатель работы",
+      "ipa": "ə ʤɑb ˈsikər",
+      "spell": "a job seeker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "весёлый, комичный ответ",
+      "ipa": "ə ˈlaɪtˌhɑrtɪd rɪˈspɑns",
+      "spell": "a light-hearted response"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "конкретная тема",
+      "ipa": "ə pərˈtɪkjələr ˈsʌbʤɪkt",
+      "spell": "a particular subject"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "навык решения проблем",
+      "ipa": "ə ˈprɑbləm-ˈsɑlvɪŋ skɪl",
+      "spell": "a problem-solving skill"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "соперник",
+      "ipa": "ə ˈraɪvəl",
+      "spell": "a rival"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уместный ответ",
+      "ipa": "ən əˈproʊpriət ˈænsər",
+      "spell": "an appropriate answer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прибытие",
+      "ipa": "ən əˈraɪvəl",
+      "spell": "an arrival"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повод",
+      "ipa": "ən əˈkeɪʒən",
+      "spell": "an occasion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "детство",
+      "ipa": "ˈʧaɪldˌhʊd",
+      "spell": "childhood"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шоколад",
+      "ipa": "ˈʧɔklət",
+      "spell": "chocolate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спроектировано так, чтобы не подвести",
+      "ipa": "dɪˈzaɪnd soʊ ðæt ɪt ˈkænɑt feɪl",
+      "spell": "designed so that it cannot fail"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "преувеличение",
+      "ipa": "ɪɡˌzæʤəˈreɪʃən",
+      "spell": "exaggeration"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "безотказный",
+      "ipa": "ˈfulˌpruf",
+      "spell": "foolproof"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "добродушное соперничество",
+      "ipa": "ɡʊd-ˈneɪʧərd ˈraɪvəlri",
+      "spell": "good-natured rivalry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он легко подсаживается на ...",
+      "ipa": "hi ɪz ˈizəli əˈdɪktɪd tu ...",
+      "spell": "he is easily addicted to ..."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он ищет новую работу",
+      "ipa": "hi siks ə nu ʤɑb",
+      "spell": "he seeks a new job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чувствую это нутром",
+      "ipa": "aɪ fil ɪt ɪn maɪ ɡʌt",
+      "spell": "I feel it in my gut"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это должно быть забавным, а не серьёзным",
+      "ipa": "ɪt ɪz ɪnˈtɛndɪd tu bi əmˈjuzɪŋ ˈræðər ðæn ˈsɪriəs",
+      "spell": "it is intended to be amusing rather than serious"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя соревновательная жилка",
+      "ipa": "maɪ kəmˈpɛtətɪv saɪd",
+      "spell": "my competitive side"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моё стремление к успеху",
+      "ipa": "maɪ draɪv tu səkˈsid",
+      "spell": "my drive to succeed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моё нутро",
+      "ipa": "maɪ ɡʌt",
+      "spell": "my gut"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "психология",
+      "ipa": "saɪˈkɑləʤi",
+      "spell": "psychology"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ищет",
+      "ipa": "siks",
+      "spell": "seeks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сикхи",
+      "ipa": "siks",
+      "spell": "Sikhs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пение",
+      "ipa": "ˈsɪŋɪŋ",
+      "spell": "singing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шесть",
+      "ipa": "sɪks",
+      "spell": "six"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лучшей тактикой будет сделать это",
+      "ipa": "ðə bɛst ˈtæktɪk wʊd bi tu du ðɪs",
+      "spell": "the best tactic would be to do this"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смысл истории",
+      "ipa": "ðə pɔɪnt ʌv ðə ˈstɔri",
+      "spell": "the point of the story"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "баланс работы и личной жизни",
+      "ipa": "ðə wɜrk-laɪf ˈbæləns",
+      "spell": "the work-life balance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они вылетели",
+      "ipa": "ðeɪ flu aʊt",
+      "spell": "they flew out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "им нравится, как ты мыслишь",
+      "ipa": "ðeɪ laɪk ðə weɪ ju θɪŋk",
+      "spell": "they like the way you think"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поднимать на бицепс",
+      "ipa": "tu du ˈbaɪsɛp kɜrlz",
+      "spell": "to do bicep curls"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "преуспеть где-либо",
+      "ipa": "tu du wɛl ˈsʌmˌwɛr",
+      "spell": "to do well somewhere"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "объяснить им",
+      "ipa": "tu ɪkˈspleɪn tu ðɛm",
+      "spell": "to explain to them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "делать акцент на бицепс",
+      "ipa": "tu ˈfoʊkəs ɑn ˈbaɪˌsɛps",
+      "spell": "to focus on biceps"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проходить собеседование на работу",
+      "ipa": "tu ˈɪntərˌvju fɔr ə ʤɑb",
+      "spell": "to interview for a job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проходить собеседование на должность",
+      "ipa": "tu ˈɪntərˌvju fɔr ə roʊl",
+      "spell": "to interview for a role"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выглядеть слишком защищающимся",
+      "ipa": "tu lʊk tu dɪˈfɛnsɪv",
+      "spell": "to look too defensive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заткнуть дыру",
+      "ipa": "tu stɑp ðə hoʊl",
+      "spell": "to stop the hole"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "то, чем я расслабляюсь",
+      "ipa": "wɑt aɪ du tu rɪˈlæks",
+      "spell": "what I do to relax"
+    }
+  ]
+}
