@@ -2,41 +2,49 @@ import "../../styles/son/zunsna.scss";
 
 const Zunsna = (prop) => {
     return (
-        <section className="zunsna">
-            <div className="frisco">
+        <section id="zunsna">
+
+            <div className="blair jorge">
                 <div className="chapelle">
-                    <div>kʌ<i className="voiced non">p</i></div>
+                    <div>ˈzir<i className="voiced yes">oʊ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
-                    <div>kʌ<i className="voiced non">p</i><i className="asa">s</i></div>
-                    <div className="spell_">cups, cup's</div>
+                    <div>ˈzir<i className="voiced yes">oʊ</i><i className="aza">z</i></div>
+                    <div className="spell_">zeros, zero's, seros'</div>
                 </div>
                 <div className="chapelle">
-                    <div>kæ<i className="voiced non">t</i></div>
+                    <div>k<i className="voiced yes">i</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
-                    <div>kæ<i className="voiced non">t</i><i className="asa">s</i></div>
-                    <div className="spell_">cats, cat's</div>
+                    <div>k<i className="voiced yes">i</i><i className="aza">z</i></div>
+                    <div className="spell_">keys, key's, keys'</div>
                 </div>
                 <div className="chapelle">
-                    <div>bʊ<i className="voiced non">k</i></div>
+                    <div>d<i className="voiced yes">eɪ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
-                    <div>bʊ<i className="voiced non">k</i><i className="asa">s</i></div>
-                    <div className="spell_">books, book's</div>
+                    <div>d<i className="voiced yes">eɪ</i><i className="aza">z</i></div>
+                    <div className="spell_">days, day's, days'</div>
                 </div>
                 <div className="chapelle">
-                    <div>kʌ<i className="voiced non">f</i></div>
+                    <div>ʃ<i className="voiced yes">u</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
-                    <div>kʌ<i className="voiced non">f</i><i className="asa">s</i></div>
-                    <div className="spell_">cuffs, cuff's</div>
+                    <div>ʃ<i className="voiced yes">u</i><i className="aza">z</i></div>
+                    <div className="spell_">shoes, shoe's, shoes'</div>
                 </div>
                 <div className="chapelle">
-                    <div>mɪ<i className="voiced non">θ</i></div>
+                    <div>k<i className="voiced yes">aʊ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
-                    <div>mɪ<i className="voiced non">θ</i><i className="asa">s</i></div>
-                    <div className="spell_">myths, myth's</div>
+                    <div>k<i className="voiced yes">aʊ</i><i className="aza">z</i></div>
+                    <div className="spell_">cows, cow's, cows'</div>
                 </div>
+                <div className="chapelle">
+                    <div>b<i className="voiced yes">ɔɪ</i></div>
+                    <div>+<i className="phoneme">S</i>=</div>
+                    <div>b<i className="voiced yes">ɔɪ</i><i className="aza">z</i></div>
+                    <div className="spell_">boys, boy's, boys'</div>
+                </div>
+
             </div>
 
-            <div className="jorge">
+            <div className="blair jorge">
                 <div className="chapelle">
                     <div>mɑ<i className="voiced yes">m</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
@@ -99,7 +107,40 @@ const Zunsna = (prop) => {
                 </div>
             </div>
 
-            <div className="gonzalo">
+            <div className="blair frisco">
+                <div className="chapelle">
+                    <div>kʌ<i className="voiced non">p</i></div>
+                    <div>+<i className="phoneme">S</i>=</div>
+                    <div>kʌ<i className="voiced non">p</i><i className="asa">s</i></div>
+                    <div className="spell_">cups, cup's</div>
+                </div>
+                <div className="chapelle">
+                    <div>kæ<i className="voiced non">t</i></div>
+                    <div>+<i className="phoneme">S</i>=</div>
+                    <div>kæ<i className="voiced non">t</i><i className="asa">s</i></div>
+                    <div className="spell_">cats, cat's</div>
+                </div>
+                <div className="chapelle">
+                    <div>bʊ<i className="voiced non">k</i></div>
+                    <div>+<i className="phoneme">S</i>=</div>
+                    <div>bʊ<i className="voiced non">k</i><i className="asa">s</i></div>
+                    <div className="spell_">books, book's</div>
+                </div>
+                <div className="chapelle">
+                    <div>kʌ<i className="voiced non">f</i></div>
+                    <div>+<i className="phoneme">S</i>=</div>
+                    <div>kʌ<i className="voiced non">f</i><i className="asa">s</i></div>
+                    <div className="spell_">cuffs, cuff's</div>
+                </div>
+                <div className="chapelle">
+                    <div>mɪ<i className="voiced non">θ</i></div>
+                    <div>+<i className="phoneme">S</i>=</div>
+                    <div>mɪ<i className="voiced non">θ</i><i className="asa">s</i></div>
+                    <div className="spell_">myths, myth's</div>
+                </div>
+            </div>
+
+            <div className="blair gonzalo">
                 <div className="chapelle">
                     <div>wɑ<i className="voiced non">tʃ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>

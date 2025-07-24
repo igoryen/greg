@@ -1,22 +1,25 @@
-.zunsna {
-    border: 1px solid red;
+#zunsna {
+    // border: 1px solid red;
     font-family: "Noto Sans", sans-serif;
+    font-size: x-large;
 
+    .blair {
+        padding: 2px 2px 1em;
+        margin: 3px 3px 1em;
+    }
 
     .frisco {
-        border: 1px solid blue;
-        margin: 3px;
+        border-bottom: 1px solid blue;
 
     }
 
     .jorge {
-        border: 1px solid green;
-        margin: 3px;
+        // border: 1px solid green;
+        border-bottom: 1px solid green;
     }
 
     .gonzalo {
-        border: 1px solid red;
-        margin: 3px;
+        // border: 1px solid red;
     }
 
     .chapelle {
@@ -81,8 +84,9 @@
     .spell_ {
         color: brown;
         font-family: 'Times New Roman', Times, serif;
-        font-size: small;
+        font-size: medium;
         letter-spacing: normal !important;
+        margin-left: 1em;
     }
 
 }
