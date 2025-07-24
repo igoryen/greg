@@ -1,5 +1,39 @@
 import { useState } from "react";
 
+const clusters = {
+
+
+
+    "'ju": "ъˈю",
+    "ˌju": "ъˌю",
+    "pju": "пъю",
+    "tju": "тъю",
+    "kju": "къю",
+    "fju": "фъю",
+    "sju": "съю",
+    "ʃju": "щъю",
+    "hju": "hъю",
+    "bju": "бъю",
+    "dju": "дъю",
+    "ɡju": "гъю",
+
+    "vju": "въю",
+    "zju": "зъю",
+    "mju": "мъю",
+    "nju": "нъю",
+    "rju": "ръю",
+    "lju": "лъю",
+
+    "eɪ": "эй",
+    "ju": "ю",
+    "aɪ": "ай",
+    "ɔr": "ор",
+    "ɔɪ": "ой",
+    "aʊ": "ау",
+    "oʊ": "оу",
+
+};
+
 const ipaToCyrillicMap = {
     "p": "п",
     "b": "б",
@@ -22,8 +56,11 @@ const ipaToCyrillicMap = {
     "r": "р",
     "ʧ": "ч",
     "ʤ": "дж",
-    "ɛ": "э"
+    "ɛ": "э",
+    "w": "ў"
 };
+
+
 
 export default function IpaToCyrillicForm() {
     const [inputText, setInputText] = useState("");
@@ -32,12 +69,20 @@ export default function IpaToCyrillicForm() {
     const handleSubmit = (e) => {
         e.preventDefault();
         const lines = inputText.split(/\r?\n/);
-        const transformed = lines.map(line =>
-            line
+        const transformed = lines.map(line => {
+            // Apply second coat replacements (multi-char groups)
+            let modified = line;
+            for (const [key, value] of Object.entries(clusters)) {
+                modified = modified.replaceAll(key, value);
+            }
+
+            // Apply single-character replacements
+            return modified
                 .split("")
                 .map(char => ipaToCyrillicMap[char] ?? char)
-                .join("")
-        );
+                .join("");
+        });
+
         setOutputLines(transformed);
     };
 
@@ -50,7 +95,6 @@ export default function IpaToCyrillicForm() {
         const textToCopy = outputLines.join("\n");
         navigator.clipboard.writeText(textToCopy);
     };
-
     return (
         <div>
             <h1>IPA to Cyrillic Converter</h1>
