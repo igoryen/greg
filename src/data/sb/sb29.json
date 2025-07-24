@@ -1,0 +1,358 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "number": 29,
+  "date": "2025-07-23",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смесь, варево",
+      "ipa": "ə kənˈkɑkʃən",
+      "spell": "a concoction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знаток, ценитель",
+      "ipa": "ə ˌkɑnəˈsɜr",
+      "spell": "a connoisseur"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маленькая девочка промчалась мимо неё",
+      "ipa": "ə smɔl ɡɜrl rʌʃt pæst hɜr",
+      "spell": "a small girl rushed past her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "детская коляска",
+      "ipa": "ə ˈstroʊlər",
+      "spell": "a stroller"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дегустатор вин",
+      "ipa": "ə waɪn ˈteɪstər",
+      "spell": "a wine taster"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бурная реакция",
+      "ipa": "ən ɪnˈtɛns riˈækʃən",
+      "spell": "an intense reaction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лишь бы тебе нравилось",
+      "ipa": "æz lɔŋ æz ju laɪk ɪt",
+      "spell": "as long as you like it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты можешь починить машину сам?",
+      "ipa": "kæn ju fɪks ðə kɑr baɪ jərˈsɛlf?",
+      "spell": "Can you fix the car by yourself?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты сама испекла этот торт?",
+      "ipa": "dɪd ju meɪk ðɪs keɪk jərˈsɛlf",
+      "spell": "Did you make this cake yourself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты сам нарисовал это?",
+      "ipa": "dɪd ju peɪnt ðɪs baɪ jərˈsɛlf?",
+      "spell": "Did you paint this by yourself?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты живёшь один?",
+      "ipa": "du ju lɪv baɪ jərˈsɛlf?",
+      "spell": "Do you live by yourself?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не выходи один ночью.",
+      "ipa": "doʊnt ɡoʊ aʊt baɪ jərˈsɛlf æt naɪt.",
+      "spell": "Don't go out by yourself at night."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Хватай свою сумку!",
+      "ipa": "ɡræb jʊər bæɡ!",
+      "spell": "grab your bag!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Он путешествовал в Японию один.",
+      "ipa": "hi ˈtrævəld tu ʤəˈpæn baɪ hɪmˈsɛlf.",
+      "spell": "He traveled to Japan by himself."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я увлечена этим",
+      "ipa": "aɪ æm ˈpæʃənət əˈbaʊt ɪt",
+      "spell": "I am passionate about it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Не могу поверить, что ты сделал это сам!",
+      "ipa": "aɪ kænt bɪˈliv ju dɪd ðɪs baɪ jərˈsɛlf!",
+      "spell": "I can't believe you did this by yourself!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Мне нечего было делать несколько минут",
+      "ipa": "aɪ hæd ˈnʌθɪŋ tu du fɔr ˈsɛvrəl ˈmɪnəts",
+      "spell": "I had nothing to do for several minutes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я предпочитаю работать один",
+      "ipa": "aɪ prəˈfɜr ˈwɜrkɪŋ baɪ ˌmaɪˈsɛlf",
+      "spell": "I prefer working by myself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я была бы спокойнее",
+      "ipa": "aɪ wʊd bi ˈkɑmər",
+      "spell": "I would be calmer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Вместо того чтобы платить сантехнику, почини раковину сам",
+      "ipa": "ɪnˈstɛd ʌv ˈpeɪɪŋ ə ˈplʌmər, fɪks ðə sɪŋk jərˈsɛlf",
+      "spell": "Instead of paying a plumber, fix the sink yourself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Это не сработало",
+      "ipa": "ɪt ˈdɪdənt pæn aʊt",
+      "spell": "it didn't pan out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Оно затянуло меня, понравилось мне со временем",
+      "ipa": "ɪt ɡru ɑn mi",
+      "spell": "it grew on me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ностальгия",
+      "ipa": "nɔˈstælʤə",
+      "spell": "nostalgia"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "представьте себе...",
+      "ipa": "ˈpɪkʧər ɪf ju wɪl...",
+      "spell": "picture if you will..."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Она любит обедать одна.",
+      "ipa": "ʃi laɪks tu it lʌnʧ baɪ hərˈsɛlf.",
+      "spell": "She likes to eat lunch by herself."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Она сама нарисовала всю фреску.",
+      "ipa": "ʃi ˈpeɪntɪd ði ɪnˈtaɪər ˈmjʊrəl baɪ hərˈsɛlf.",
+      "spell": "She painted the entire mural by herself."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ребёнок ещё не может ходить самостоятельно.",
+      "ipa": "ðə ˈbeɪbi kænt wɔk baɪ hərˈsɛlf jɛt.",
+      "spell": "The baby can't walk by herself yet."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чем больше ... тем больше",
+      "ipa": "ðə mɔr ... ðə mɔr",
+      "spell": "the more ... the more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чем больше книг я читаю, тем терпимее становлюсь к другим",
+      "ipa": "ðə mɔr bʊks aɪ rid ðə mɔr fərˈɡɪvɪŋ aɪ æm təˈwɔrd ˈʌðərz",
+      "spell": "the more books I read the more forgiving I am toward others"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Они сами построили домик на дереве.",
+      "ipa": "ðeɪ bɪlt ðə ˈtrihaʊs baɪ ðɛmˈsɛlvz.",
+      "spell": "They built the treehouse by themselves."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Эта мебель продаётся в разобранном виде - тебе придётся собрать её самому.",
+      "ipa": "ðɪs ˈfɜrnɪʧər kʌmz flæt-pækt-ju hæv tu əˈsɛmbəl ɪt jərˈsɛlf.",
+      "spell": "This furniture comes flat-packed—you have to assemble it yourself."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "булькать на плите",
+      "ipa": "tu ˈbʌbəl əˈweɪ ɑn ðə stoʊv",
+      "spell": "to bubble away on the stove"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "состряпать блюдо",
+      "ipa": "tu kənˈkɑkt ə mil",
+      "spell": "to concoct a meal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мечтать что-то сделать",
+      "ipa": "tu drim ʌv ˈduɪŋ ˈsʌmθɪŋ",
+      "spell": "to dream of doing something"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дать комментарий",
+      "ipa": "tu ɡɪv ə ˈkɑmɛnt",
+      "spell": "to give a comment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знать это досконально",
+      "ipa": "tu noʊ ɪt ˈɪntəmətli",
+      "spell": "to know it intimately"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перепрыгивать с дерева на дерево",
+      "ipa": "tu lip frʌm tri tu tri",
+      "spell": "to leap from tree to tree"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "представить сцену",
+      "ipa": "tu ˈpɪkʧər ðə sin",
+      "spell": "to picture the scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дать пощёчину",
+      "ipa": "tu slæp əˈkrɔs ðə feɪs",
+      "spell": "to slap across the face"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гулять",
+      "ipa": "tu stroʊl",
+      "spell": "to stroll"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сделать шаг веры",
+      "ipa": "tu teɪk ə lip ʌv feɪθ",
+      "spell": "to take a leap of faith"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слишком тонко для обычного вкуса",
+      "ipa": "tu ˈsʌtəl fɔr ðə ˈkɑmən ˈpælət",
+      "spell": "too subtle for the common palate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда делаешь это сам, ты физически изолирован",
+      "ipa": "wɛn ju du ɪt baɪ jərˈsɛlf ju ɑr ˈfɪzɪkəli ˈaɪsəˌleɪtɪd",
+      "spell": "when you do it by yourself you are physically isolated"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда делаешь это сам, ты самостоятелен",
+      "ipa": "wɛn ju du ɪt jərˈsɛlf ju ɑr sɛlf-rɪˈlaɪənt",
+      "spell": "when you do it yourself you are self-reliant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты сама испекла этот торт? (Ты сделала это ОДНА?)",
+      "ipa": "ju beɪkt ðɪs keɪk baɪ jərˈsɛlf? (dɪd ju du ɪt əˈloʊn?)",
+      "spell": "You baked this cake by yourself? (Did you do it ALONE?)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты сама испекла этот торт? (Ты САМА сделала?)",
+      "ipa": "ju beɪkt ðɪs keɪk jərˈsɛlf? (dɪd ju du ɪt?)",
+      "spell": "You baked this cake yourself? (Did YOU do it?)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты не сможешь нести все эти коробки один!",
+      "ipa": "ju kænt ˈkæri ɔl ðoʊz ˈbɑksəz baɪ jərˈsɛlf!",
+      "spell": "You can't carry all those boxes by yourself!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты сам ответственен",
+      "ipa": "ju jərˈsɛlf ɑr riˈspɑnsəbəl",
+      "spell": "You yourself are responsible"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ты сам сказал, что это правда",
+      "ipa": "ju jərˈsɛlf sɛd ɪt wʌz tru",
+      "spell": "You yourself said it was true"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "младше",
+      "ipa": "ˈjʌŋɡər",
+      "spell": "younger"
+    }
+  ]
+}
