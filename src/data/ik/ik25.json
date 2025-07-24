@@ -1,0 +1,435 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 25,
+  "date": "2025-07-22",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комплимент",
+   "ipa": "ə ˈkɑmpləmənt",
+   "spell": "a compliment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сто, сотня",
+   "ipa": "ə ˈhʌndrɪd",
+   "spell": "a hundred"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "число, номер",
+   "ipa": "ə ˈnʌmbər",
+   "spell": "a number"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "номер телефона",
+   "ipa": "ə foʊn ˈnʌmbər",
+   "spell": "a phone number"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комплект",
+   "ipa": "ə sɛt, ə kɪt",
+   "spell": "a set, a kit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тысяча",
+   "ipa": "ə ˈθaʊzənd",
+   "spell": "a thousand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отдельная цифра",
+   "ipa": "ən ˌɪndəˈvɪʤəwəl ˈdɪʤət",
+   "spell": "an individual digit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь осторожен",
+   "ipa": "bi ˈkɛrfəl",
+   "spell": "be careful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полный",
+   "ipa": "kəmˈplit",
+   "spell": "complete"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцать два",
+   "ipa": "ˈdʌbəl tu",
+   "spell": "double two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восемь",
+   "ipa": "eɪt",
+   "spell": "eight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восемнадцать",
+   "ipa": "eɪˈtin",
+   "spell": "eighteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восемьдесят",
+   "ipa": "ˈeɪti",
+   "spell": "eighty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восемьдесят восемь",
+   "ipa": "ˈeɪti-eɪt",
+   "spell": "eighty-eight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "одиннадцать",
+   "ipa": "ɪˈlɛvən",
+   "spell": "eleven"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пятнадцать",
+   "ipa": "fɪfˈtin",
+   "spell": "fifteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пятьдесят",
+   "ipa": "ˈfɪfti",
+   "spell": "fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пятьдесят пять",
+   "ipa": "ˈfɪfti-faɪv",
+   "spell": "fifty-five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пять",
+   "ipa": "faɪv",
+   "spell": "five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пять-шесть-один девять-ноль-один пять-три-пять-один",
+   "ipa": "faɪv-sɪks-wʌn naɪn-oʊ-wʌn faɪv-θri-faɪv-wʌn",
+   "spell": "five-six-one nine-oh-one five-three-five-one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сорок",
+   "ipa": "ˈfɔrti",
+   "spell": "forty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сорок четыре",
+   "ipa": "ˈfɔrti-fɔr",
+   "spell": "forty-four"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "четыре",
+   "ipa": "fɔr",
+   "spell": "four"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "четырнадцать",
+   "ipa": "ˈfɔrˈtin",
+   "spell": "fourteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "четырнадцать-сорок",
+   "ipa": "ˈfɔrˈtin-ˈfɔrti",
+   "spell": "fourteen-forty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаю свой номер телефона",
+   "ipa": "aɪ doʊnt noʊ maɪ foʊn ˈnʌmbər",
+   "spell": "I don't know my phone number"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я родился в тысяча девятьсот семьдесят пятом году",
+   "ipa": "aɪ wʌz bɔrn ɪn ˈnaɪnˈtin ˈsɛvənti-faɪv",
+   "spell": "I was born in nineteen seventy-five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рад тебя видеть",
+   "ipa": "ɪts ɡʊd tu si ju",
+   "spell": "it's good to see you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой номер",
+   "ipa": "maɪ ˈnʌmbər",
+   "spell": "my number"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "девять",
+   "ipa": "naɪn",
+   "spell": "nine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "девятнадцать",
+   "ipa": "ˈnaɪnˈtin",
+   "spell": "nineteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тысяча девятьсот семьдесят пять",
+   "ipa": "ˈnaɪnˈtin ˈsɛvənti faɪv",
+   "spell": "nineteen seventy five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тысяча девятьсот семьдесят семь",
+   "ipa": "ˈnaɪnˈtin ˈsɛvənti ˈsɛvən",
+   "spell": "nineteen seventy seven"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "девяносто",
+   "ipa": "ˈnaɪnti",
+   "spell": "ninety"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "девяносто девять",
+   "ipa": "ˈnaɪnti-naɪn",
+   "spell": "ninety-nine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцать третье октября тысяча девятьсот семьдесят седьмого года",
+   "ipa": "ɑkˈtoʊbər ˈtwɛnti-θɜrd, ˈnaɪnˈtin ˈsɛvənti ˈsɛvən",
+   "spell": "October twenty-third, nineteen seventy seven"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один",
+   "ipa": "wʌn",
+   "spell": "one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скажи это!",
+   "ipa": "seɪ ɪt!",
+   "spell": "say it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "семь",
+   "ipa": "ˈsɛvən",
+   "spell": "seven"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "семнадцать",
+   "ipa": "ˈsɛvənˈtin",
+   "spell": "seventeen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "семьдесят",
+   "ipa": "ˈsɛvənti",
+   "spell": "seventy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "семьдесят семь",
+   "ipa": "ˈsɛvənti-ˈsɛvən",
+   "spell": "seventy-seven"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шесть",
+   "ipa": "sɪks",
+   "spell": "six"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шестнадцать",
+   "ipa": "sɪkˈstin",
+   "spell": "sixteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шестьдесят",
+   "ipa": "ˈsɪksti",
+   "spell": "sixty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шестьдесят шесть",
+   "ipa": "ˈsɪksti-sɪks",
+   "spell": "sixty-six"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "десять",
+   "ipa": "tɛn",
+   "spell": "ten"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ударение в слове",
+   "ipa": "ðə wɜrd strɛs",
+   "spell": "the word stress"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тринадцать",
+   "ipa": "ˈθɜrˈtin",
+   "spell": "thirteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тринадцать-тридцать",
+   "ipa": "ˈθɜrˈtin-ˈθɜrdi",
+   "spell": "thirteen-thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тридцать",
+   "ipa": "ˈθɜrdi",
+   "spell": "thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тридцать три",
+   "ipa": "ˈθɜrdi-θri",
+   "spell": "thirty-three"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три",
+   "ipa": "θri",
+   "spell": "three"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двенадцать",
+   "ipa": "twɛlv",
+   "spell": "twelve"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцать",
+   "ipa": "ˈtwɛnti",
+   "spell": "twenty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцать один",
+   "ipa": "ˈtwɛnti-wʌn",
+   "spell": "twenty-one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцать два",
+   "ipa": "ˈtwɛnti-tu",
+   "spell": "twenty-two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцать два",
+   "ipa": "ˈtwɛnti-tu",
+   "spell": "twenty-two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два",
+   "ipa": "tu",
+   "spell": "two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два-один-два пять-пять-пять ноль-три-семь-пять",
+   "ipa": "tu-wʌn-tu faɪv-faɪv-faɪv ˈzɪroʊ-θri-ˈsɛvən-faɪv",
+   "spell": "two-one-two five-five-five zero-three-seven-five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой у тебя номер телефона?",
+   "ipa": "wɑt ɪz jʊər foʊn ˈnʌmbər?",
+   "spell": "what is your phone number?"
+ }
+]
+}
