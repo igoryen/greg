@@ -1,0 +1,491 @@
+{
+  "student": "Olena T.",
+  "slug": "ot",
+  "number": 24,
+  "date": "2025-07-22",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "другое написание",
+      "ipa": "ə ˈdɪfərənt ˈspɛlɪŋ",
+      "spell": "a different spelling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быстрая машина",
+      "ipa": "ə fæst kɑr",
+      "spell": "a fast car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полный бак",
+      "ipa": "ə fʊl tæŋk",
+      "spell": "a full tank"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гамбургер",
+      "ipa": "ə ˈhæmbərɡər",
+      "spell": "a hamburger"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "высокая гора",
+      "ipa": "ə haɪ ˈmaʊntən",
+      "spell": "a high mountain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "голливудский фильм",
+      "ipa": "ə ˈhɑliˌwʊd ˈmuvi",
+      "spell": "a Hollywood movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ошибка",
+      "ipa": "ə mɪsˈteɪk",
+      "spell": "a mistake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сосед",
+      "ipa": "ə ˈneɪbər",
+      "spell": "a neighbor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "район",
+      "ipa": "ə ˈneɪbərˌhʊd",
+      "spell": "a neighborhood"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "новая единица",
+      "ipa": "ə nu ˈjunət",
+      "spell": "a new unit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "картина",
+      "ipa": "ə ˈpeɪntɪŋ",
+      "spell": "a painting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "низкий человек",
+      "ipa": "ə ʃɔrt ˈpɜrsən",
+      "spell": "a short person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сын",
+      "ipa": "ə sʌn",
+      "spell": "a son"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "высокий человек",
+      "ipa": "ə tɔl ˈpɜrsən",
+      "spell": "a tall person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "круглый год",
+      "ipa": "ɔl jɪr raʊnd",
+      "spell": "all year round"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прилагательное",
+      "ipa": "ən ˈæʤɪktɪv",
+      "spell": "an adjective"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пустой бак",
+      "ipa": "ən ˈɛmpti tæŋk",
+      "spell": "an empty tank"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "красивый ~ уродливый",
+      "ipa": "ˈbjutəfəl ~ ˈʌɡli",
+      "spell": "beautiful ~ ugly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "синий",
+      "ipa": "blu",
+      "spell": "blue"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "но иногда",
+      "ipa": "bʌt səmˈtaɪmz",
+      "spell": "but sometimes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты знаешь?",
+      "ipa": "du ju noʊ?",
+      "spell": "do you know?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты ждёшь, пока бак не опустеет?",
+      "ipa": "du ju weɪt ənˈtɪl jʊər tæŋk ɪz ˈɛmpti?",
+      "spell": "do you wait until your tank is empty?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лёгкий ~ трудный",
+      "ipa": "ˈizi ~ ˈdɪfəkəlt",
+      "spell": "easy ~ difficult"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он высокий",
+      "ipa": "hi ɪz tɔl",
+      "spell": "he is tall"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он очень богатый",
+      "ipa": "hi ɪz ˈvɛri rɪʧ",
+      "spell": "he is very rich"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "высокое давление",
+      "ipa": "haɪ blʌd ˈprɛʃər",
+      "spell": "high blood pressure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я слаб на этой неделе",
+      "ipa": "aɪ æm wik ðɪs wik",
+      "spell": "I am weak this week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я живу в США",
+      "ipa": "aɪ lɪv ɪn ðə ˈjuˈɛˈseɪ",
+      "spell": "I live in the USA"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "парами",
+      "ipa": "ɪn pɛrz",
+      "spell": "in pairs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "раннее утро",
+      "ipa": "ɪt ɪz ˈɜrli ˈmɔrnɪŋ",
+      "spell": "it is early morning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно красное",
+      "ipa": "ɪt ɪz rɛd",
+      "spell": "it is red"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это нелегко",
+      "ipa": "ɪts nɑt ˈizi",
+      "spell": "it's not easy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "озеро Онтарио",
+      "ipa": "leɪk ɑnˈtɛrioʊ",
+      "spell": "lake Ontario"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "низкое давление",
+      "ipa": "loʊ blʌd ˈprɛʃər",
+      "spell": "low blood pressure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мои зубы золотые",
+      "ipa": "maɪ tiθ ɑr ɡoʊld",
+      "spell": "my teeth are gold"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не всё время",
+      "ipa": "nɑt ɔl ðə taɪm",
+      "spell": "not all the time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "частично парализованный",
+      "ipa": "ˈpɑrʃəli ˈpɛrəˌlaɪzd",
+      "spell": "partially paralyzed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "люди плавают там",
+      "ipa": "ˈpipəl swɪm ðɛr",
+      "spell": "people swim there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "красный",
+      "ipa": "rɛd",
+      "spell": "red"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "богатый ~ бедный",
+      "ipa": "rɪʧ ~ pʊr",
+      "spell": "rich ~ poor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "богатые люди",
+      "ipa": "rɪʧ ˈpipəl",
+      "spell": "rich people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "безопасный ~ опасный",
+      "ipa": "seɪf ~ ˈdeɪnʤərəs",
+      "spell": "safe ~ dangerous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у неё был инсульт",
+      "ipa": "ʃi hæd ə stroʊk",
+      "spell": "she had a stroke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ей восемьдесят три",
+      "ipa": "ʃi ɪz ˈeɪti θri",
+      "spell": "she is eighty three"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она знаменитая",
+      "ipa": "ʃi ɪz ˈfeɪməs",
+      "spell": "she is famous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она парализована",
+      "ipa": "ʃi ɪz ˈpɛrəˌlaɪzd",
+      "spell": "she is paralyzed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она болела",
+      "ipa": "ʃi wʌz sɪk",
+      "spell": "she was sick"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ещё несколько цветов",
+      "ipa": "sʌm mɔr ˈkʌlərz",
+      "spell": "some more colors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сильный ~ слабый",
+      "ipa": "strɔŋ ~ wik",
+      "spell": "strong ~ weak"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сильный когда здоров",
+      "ipa": "strɔŋ wɛn ˈhɛlθi",
+      "spell": "strong when healthy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мальчик хороший",
+      "ipa": "ðə bɔɪ ɪz naɪs",
+      "spell": "the boy is nice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "противоположность",
+      "ipa": "ði ˈɑpəzət ʌv",
+      "spell": "the opposite of"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Статуя Свободы",
+      "ipa": "ðə ˈstæˌʧu ʌv ˈlɪbərti",
+      "spell": "the Statue of Liberty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "температура падает",
+      "ipa": "ðə ˈtɛmprəʧər drɑps",
+      "spell": "the temperature drops"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гадкий утёнок",
+      "ipa": "ði ˈʌɡli ˈdʌklɪŋ",
+      "spell": "the ugly duckling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они дешёвые",
+      "ipa": "ðeɪ ɑr ʧip",
+      "spell": "they are cheap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они жадные",
+      "ipa": "ðeɪ ɑr ˈɡridi",
+      "spell": "they are greedy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они никогда не болеют",
+      "ipa": "ðeɪ ɑr ˈnɛvər sɪk",
+      "spell": "they are never sick"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "их здесь нет",
+      "ipa": "ðeɪ ɑr nɑt hir",
+      "spell": "they are not here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "присоединиться к ним",
+      "ipa": "tu ʤɔɪn ðɛm",
+      "spell": "to join them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слабый когда болен",
+      "ipa": "wik wɛn sɪk",
+      "spell": "weak when sick"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неделя ~ слабый",
+      "ipa": "wik ~ wik",
+      "spell": "week ~ weak"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какого цвета ножницы?",
+      "ipa": "wɑt ˈkʌlər ɑr ðə ˈsɪzərz?",
+      "spell": "what color are the scissors?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какого они цвета?",
+      "ipa": "wɑt ˈkʌlər ɑr ðeɪ?",
+      "spell": "what color are they?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какого это цвета?",
+      "ipa": "wɑt ˈkʌlər ɪz ɪt?",
+      "spell": "what color is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что они значат",
+      "ipa": "wɑt ðeɪ min",
+      "spell": "what they mean"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда ты заправляешься?",
+      "ipa": "wɛn du ju fɪl ʌp?",
+      "spell": "when do you fill up?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда загорается символ",
+      "ipa": "wɛn ðə ˈsɪmbəl laɪts ʌp",
+      "spell": "when the symbol lights up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "белый",
+      "ipa": "waɪt",
+      "spell": "white"
+    }
+  ]
+}
