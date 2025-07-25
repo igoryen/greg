@@ -1,0 +1,295 @@
+ {
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 26,
+  "date": "2025-07-24",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дом",
+   "ipa": "ə hоум",
+   "spell": "a home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "домашний телефон",
+   "ipa": "ə hоум фоун ˈнʌмбəр",
+   "spell": "a home phone number"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "точка (знак препинания)",
+   "ipa": "ə ˈпɪриəд",
+   "spell": "a period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "точка (в цифрах)",
+   "ipa": "ə пойнт",
+   "spell": "a point"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "косая черта",
+   "ipa": "ə слæщ",
+   "spell": "a slash"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почти",
+   "ipa": "ˈɔлˌмоуст",
+   "spell": "almost"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "возраст",
+   "ipa": "əн эйдж",
+   "spell": "an age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты женат/замужем?",
+   "ipa": "ɑр ю ˈмэрид?",
+   "spell": "are you married?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "круто!",
+   "ipa": "ˈɑсəм!",
+   "spell": "awesome!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "между",
+   "ipa": "бɪˈтўин",
+   "spell": "between"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "между нами",
+   "ipa": "бɪˈтўин ю æнд ми",
+   "spell": "between you and me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в разводе",
+   "ipa": "дɪˈворст",
+   "spell": "divorced"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "первый",
+   "ipa": "фɜрст",
+   "spell": "first"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пятьсот",
+   "ipa": "файв ˈhʌндрɪд",
+   "spell": "five hundred"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пять тысяч",
+   "ipa": "файв ˈθаузəнд",
+   "spell": "five thousand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пять тысяч рублей",
+   "ipa": "файв ˈθаузəнд ˈрубəлз",
+   "spell": "five thousand rubles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сорок",
+   "ipa": "ˈфорти",
+   "spell": "forty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "последний",
+   "ipa": "лæст",
+   "spell": "last"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слушание",
+   "ipa": "ˈлɪсəнɪŋ",
+   "spell": "listening"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моё имя",
+   "ipa": "май фɜрст нэйм",
+   "spell": "my first name"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя фамилия",
+   "ipa": "май лæст нэйм",
+   "spell": "my last name"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "одна тысяча триста",
+   "ipa": "ўʌн ˈθаузəнд θри ˈhʌндрɪд",
+   "spell": "one thousand three hundred"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бумажные деньги",
+   "ipa": "ˈпэйпəр ˈмʌни",
+   "spell": "paper money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "врозь (о супругах)",
+   "ipa": "ˈсэпəˌрэйтɪд",
+   "spell": "separated"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шестьдесят три целых семнадцать сотых",
+   "ipa": "ˈсɪксти θри пойнт ˈсэвəнˈтин",
+   "spell": "sixty three point seventeen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разница между цифрами",
+   "ipa": "ðə ˈдɪфəрəнс бɪˈтўин ðə ˈнʌмбəрз",
+   "spell": "the difference between the numbers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "цифры, которые ты слышишь",
+   "ipa": "ðə ˈнʌмбəрз ю hир",
+   "spell": "the numbers you hear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тринадцать сотен (1300)",
+   "ipa": "ˈθɜрˈтин ˈhʌндрɪд",
+   "spell": "thirteen hundred"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тридцать",
+   "ipa": "ˈθɜрди",
+   "spell": "thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три целых две сотых",
+   "ipa": "θри пойнт ту",
+   "spell": "three point two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слушать",
+   "ipa": "ту ˈлɪсəн",
+   "spell": "to listen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зарабатывать деньги",
+   "ipa": "ту мэйк ˈмʌни",
+   "spell": "to make money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расслабляться",
+   "ipa": "ту рɪˈлæкс",
+   "spell": "to relax"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "две тысячи двадцать пять",
+   "ipa": "ˈтўэнти ˈтўэнти файв",
+   "spell": "twenty twenty five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам нужно делать деньги",
+   "ipa": "ўи hæв ту мэйк ˈмʌни",
+   "spell": "we have to make money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "странный",
+   "ipa": "ўɪрд",
+   "spell": "weird"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это?",
+   "ipa": "ўɑт ɪз ɪт?",
+   "spell": "what is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой сейчас год?",
+   "ipa": "ўɑт йɪр ɪз ɪт?",
+   "spell": "what year is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как твоё имя?",
+   "ipa": "ўʌтс йʊəр фɜрст нэйм?",
+   "spell": "what's your first name?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какая у тебя фамилия?",
+   "ipa": "ўʌтс йʊəр лæст нэйм?",
+   "spell": "what's your last name?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как тебя зовут?",
+   "ipa": "ўʌтс йʊəр нэйм?",
+   "spell": "what's your name?"
+ }
+]
+}

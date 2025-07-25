@@ -1,0 +1,358 @@
+{
+  "student": "Mike G.",
+  "slug": "mg",
+  "number": 7,
+  "date": "2025-07-24",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "климат",
+   "ipa": "ə ˈклаймəт",
+   "spell": "a climate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комедия",
+   "ipa": "ə ˈкɑмəди",
+   "spell": "a comedy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "документальный фильм",
+   "ipa": "ə ˌдɑкйəˈмэнтəри",
+   "spell": "a documentary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дрон",
+   "ipa": "ə дроун",
+   "spell": "a drone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кинокритик",
+   "ipa": "ə фɪлм ˈкрɪтɪк",
+   "spell": "a film critic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гимн",
+   "ipa": "ə hɪм",
+   "spell": "a hymn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давным-давно",
+   "ipa": "ə лɔŋ тайм əˈгоу",
+   "spell": "a long time ago"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "современный российский фильм",
+   "ipa": "ə ˈмɑдəрн ˈрʌщəн ˈмуви",
+   "spell": "a modern Russian movie"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гора",
+   "ipa": "ə ˈмаунтəн",
+   "spell": "a mountain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пальма",
+   "ipa": "ə пɑм три",
+   "spell": "a palm tree"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "роза",
+   "ipa": "ə роуз",
+   "spell": "a rose"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смена (рабочая)",
+   "ipa": "ə щɪфт",
+   "spell": "a shift"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "веб-камера",
+   "ipa": "ə ўэб ˈкæмəрə",
+   "spell": "a web camera"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двор",
+   "ipa": "ə йɑрд",
+   "spell": "a yard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "и я тоже",
+   "ipa": "æнд соу дɪд ай",
+   "spell": "and so did I"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лучше или хуже",
+   "ipa": "ˈбэтəр ор ўɜрс",
+   "spell": "better or worse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты закончил университет?",
+   "ipa": "дɪд ю ˈгрæджуɪт?",
+   "spell": "did you graduate?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя есть любимый советский фильм?",
+   "ipa": "ду ю hæв ə ˈфэйвəрɪт ˈсоувиəт ˈмуви?",
+   "spell": "do you have a favorite Soviet movie?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "меньше правил",
+   "ipa": "ˈфъюəр рулз",
+   "spell": "fewer rules"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не актёр",
+   "ipa": "hиз нɑт əн ˈæктəр",
+   "spell": "he's not an actor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько тебе было лет?",
+   "ipa": "hау оулд ўɜр ю?",
+   "spell": "how old were you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу сказать",
+   "ipa": "ай ˈкæнɑт сэй",
+   "spell": "I cannot say"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я был там",
+   "ipa": "ай hæв бɪн ðэр",
+   "spell": "I have been there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я лгу",
+   "ipa": "ай лай",
+   "spell": "I lie"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "довольно жарко",
+   "ipa": "ɪтс ˈпрɪти hɑт",
+   "spell": "it’s pretty hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "озеро Эри",
+   "ipa": "лэйк ˈɪри",
+   "spell": "lake Erie"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "озеро Симко",
+   "ipa": "лэйк ˈсɪмкоу",
+   "spell": "lake Simco"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прошлый век",
+   "ipa": "лæст ˈсэнчəри",
+   "spell": "last century"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жизнь в Советском Союзе",
+   "ipa": "лайф ɪн ðə ˈсоувиəт ˈюнйəн",
+   "spell": "life in the Soviet Union"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Бешеный пёс",
+   "ipa": "мæд дɔг",
+   "spell": "Mad Dog"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фильмы Гайдая",
+   "ipa": "ˈмувиз бай Gaидaи",
+   "spell": "movies by Gaidai"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой родной город",
+   "ipa": "май hоум таун",
+   "spell": "my home town"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой старший ребёнок",
+   "ipa": "май ˈоулдəст чайлд",
+   "spell": "my oldest child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя жена всегда дома",
+   "ipa": "май ўайф ɪз ˈɔлˌўэйз hоум",
+   "spell": "my wife is always home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тысяча девятьсот девяносто восьмой",
+   "ipa": "ˈнайнˈтин ˈнайнти-эйт",
+   "spell": "nineteen ninety-eight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грустный",
+   "ipa": "сæд",
+   "spell": "sad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она домохозяйка",
+   "ipa": "щи ɪз ə ˈhоумˌмэйкəр",
+   "spell": "she is a homemaker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шокирующий",
+   "ipa": "ˈщɑкɪŋ",
+   "spell": "shocking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "похождения Шурика",
+   "ipa": "Shурик'с æдˈвэнчəрз",
+   "spell": "Shurik's adventures"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть разница во времени",
+   "ipa": "ðэр ɪз ə тайм ˈдɪфəрəнс",
+   "spell": "there is a time difference"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они нанесли ущерб",
+   "ipa": "ðэй дɪд сʌм ˈдæмəдж",
+   "spell": "they did some damage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крошечный",
+   "ipa": "ˈтайни",
+   "spell": "tiny"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жениться/выйти замуж",
+   "ipa": "ту гэт ˈмэрид",
+   "spell": "to get married"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пинать",
+   "ipa": "ту кɪк",
+   "spell": "to kick"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ударить кулаком",
+   "ipa": "ту пʌнч",
+   "spell": "to punch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень дорогой",
+   "ipa": "ˈвэри ɪкˈспэнсɪв",
+   "spell": "very expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень далеко",
+   "ipa": "ˈвэри фɑр",
+   "spell": "very far"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда родилась твоя дочь?",
+   "ipa": "ўэн ўʌз йʊəр ˈдɔтəр борн?",
+   "spell": "when was your daughter born?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты мог бы это улучшить",
+   "ipa": "ю кʊд ɪмˈпрув ɪт",
+   "spell": "you could improve it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты получил это",
+   "ipa": "ю рəˈсивд ɪт",
+   "spell": "you received it"
+ }
+]
+}
