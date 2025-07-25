@@ -1,85 +1,69 @@
 import { useState } from "react";
 
-const clusters = {
-
-
-
-    "'ju": "ъˈю",
-    "ˌju": "ъˌю",
-    "pju": "пъю",
-    "tju": "тъю",
-    "kju": "къю",
-    "fju": "фъю",
-    "sju": "съю",
-    "ʃju": "щъю",
-    "hju": "hъю",
-    "bju": "бъю",
-    "dju": "дъю",
-    "ɡju": "гъю",
-
-    "vju": "въю",
-    "zju": "зъю",
-    "mju": "мъю",
-    "nju": "нъю",
-    "rju": "ръю",
-    "lju": "лъю",
-
-    "eɪ": "эй",
-    "ju": "ю",
-    "aɪ": "ай",
-    "ɔr": "ор",
-    "ɔɪ": "ой",
-    "aʊ": "ау",
-    "oʊ": "оу",
-
+// Russian cluster substitutions
+const clustersRussian = {
+    "'ju": "ъˈю", "ˌju": "ъˌю", "pju": "пъю", "tju": "тъю", "kju": "къю",
+    "fju": "фъю", "sju": "съю", "ʃju": "щъю", "hju": "hъю", "bju": "бъю",
+    "dju": "дъю", "ɡju": "гъю", "vju": "въю", "zju": "зъю", "mju": "мъю",
+    "nju": "нъю", "rju": "ръю", "lju": "лъю", "eɪ": "эй", "ju": "ю",
+    "aɪ": "ай", "ɔr": "ор", "ɔɪ": "ой", "aʊ": "ау", "oʊ": "оу"
 };
 
-const ipaToCyrillicMap = {
-    "p": "п",
-    "b": "б",
-    "f": "ф",
-    "v": "в",
-    "k": "к",
-    "ɡ": "г",
-    "s": "с",
-    "z": "з",
-    "l": "л",
-    "m": "м",
-    "j": "й",
-    "ʃ": "щ",
-    "ʒ": "ж",
-    "t": "т",
-    "d": "д",
-    "n": "н",
-    "i": "и",
-    "u": "у",
-    "r": "р",
-    "ʧ": "ч",
-    "ʤ": "дж",
-    "ɛ": "э",
-    "w": "ў"
+// Ukrainian cluster substitutions
+const clustersUkrainian = {
+    "'ju": "ьˈю", "ˌju": "ьˌю", "pju": "п’ю", "tju": "т’ю", "kju": "к’ю",
+    "fju": "ф’ю", "sju": "с’ю", "ʃju": "ш’ю", "hju": "х’ю", "bju": "б’ю",
+    "dju": "д’ю", "ɡju": "ґ’ю", "vju": "в’ю", "zju": "з’ю", "mju": "м’ю",
+    "nju": "н’ю", "rju": "р’ю", "lju": "л’ю", "eɪ": "ей", "ju": "ю",
+    "aɪ": "ай", "ɔr": "ор", "ɔɪ": "ой", "aʊ": "ау", "oʊ": "оу"
 };
 
+// Russian single-character replacements
+const ipaToCyrillicRussian = {
+    "p": "п", "b": "б", "f": "ф", "v": "в", "k": "к", "ɡ": "г",
+    "s": "с", "z": "з", "l": "л", "m": "м", "j": "й", "ʃ": "щ",
+    "ʒ": "ж", "t": "т", "d": "д", "n": "н", "i": "и", "u": "у",
+    "r": "р", "ʧ": "ч", "ʤ": "дж", "ɛ": "э", "w": "ў"
+};
 
+// Ukrainian single-character replacements
+const ipaToCyrillicUkrainian = {
+    "p": "п", "b": "б", "f": "ф", "v": "в", "k": "к", "ɡ": "ґ",
+    "s": "с", "z": "з", "l": "л", "m": "м", "j": "й", "ʃ": "ш",
+    "ʒ": "ж", "t": "т", "d": "д", "n": "н", "i": "і", "ɪ": "и", "u": "у",
+    "r": "р", "ʧ": "ч", "ʤ": "дж", "ɛ": "е", "w": "ў"
+};
 
 export default function IpaToCyrillicForm() {
     const [inputText, setInputText] = useState("");
     const [outputLines, setOutputLines] = useState([]);
+    const [mode, setMode] = useState("russian");
+
+    const getSubstitutionMap = () => {
+        return mode === "russian" ? ipaToCyrillicRussian : ipaToCyrillicUkrainian;
+    };
+
+    const getClustersMap = () => {
+        return mode === "russian" ? clustersRussian : clustersUkrainian;
+    };
 
     const handleSubmit = (e) => {
         e.preventDefault();
+        const map = getSubstitutionMap();
+        const clusters = getClustersMap();
+
         const lines = inputText.split(/\r?\n/);
         const transformed = lines.map(line => {
-            // Apply second coat replacements (multi-char groups)
+            // Apply cluster substitutions first
             let modified = line;
             for (const [key, value] of Object.entries(clusters)) {
                 modified = modified.replaceAll(key, value);
             }
 
-            // Apply single-character replacements
+            // Apply single-character substitutions
             return modified
                 .split("")
-                .map(char => ipaToCyrillicMap[char] ?? char)
+                .map(char => map[char] ?? char)
                 .join("");
         });
 
@@ -92,9 +76,9 @@ export default function IpaToCyrillicForm() {
     };
 
     const handleCopy = () => {
-        const textToCopy = outputLines.join("\n");
-        navigator.clipboard.writeText(textToCopy);
+        navigator.clipboard.writeText(outputLines.join("\n"));
     };
+
     return (
         <div>
             <h1>IPA to Cyrillic Converter</h1>
@@ -106,10 +90,27 @@ export default function IpaToCyrillicForm() {
                     rows={8}
                     style={{ width: '100%' }}
                 ></textarea>
-                <br />
+
+                <div style={{ margin: '8px 0' }}>
+                    <label>
+                        Mode:
+                        <select
+                            value={mode}
+                            onChange={(e) => setMode(e.target.value)}
+                            style={{ marginLeft: '8px' }}
+                        >
+                            <option value="russian">Russian</option>
+                            <option value="ukrainian">Ukrainian</option>
+                        </select>
+                    </label>
+                </div>
+
                 <button type="submit">Submit</button>
-                <button type="button" onClick={handleClear} style={{ marginLeft: '8px' }}>Clear</button>
+                <button type="button" onClick={handleClear} style={{ marginLeft: '8px' }}>
+                    Clear
+                </button>
             </form>
+
             {outputLines.length > 0 && (
                 <div>
                     <h2>Converted Output:</h2>
@@ -125,4 +126,4 @@ export default function IpaToCyrillicForm() {
             )}
         </div>
     );
-} 
+}
