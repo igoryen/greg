@@ -3,7 +3,7 @@ import clsx from "clsx";
 import { motion } from "framer-motion";
 import "../../src/styles/FlipCard.scss";
 
-const FlipCard = ({ index, propA, propB, propC, spellingToggle }) => {
+const FlipCard = ({ index, propA, propB, propC, spellingToggle, isHtml = false }) => {
     const [flipped, setFlipped] = useState(false);
 
     const IpaClassNames = clsx('ipa', {
@@ -21,7 +21,11 @@ const FlipCard = ({ index, propA, propB, propC, spellingToggle }) => {
                     <div className="propA">{propA}</div>
                 </div>
                 <div className="face back">
-                    <div className={IpaClassNames}>{propB}</div>
+                    {isHtml ? (
+                        <div className={IpaClassNames} dangerouslySetInnerHTML={{ __html: propB }} />
+                    ) : (
+                        <div className={IpaClassNames}>{propB}</div>
+                    )}
                     {spellingToggle && <div className="spell">{propC}</div>}
                 </div>
             </motion.div>
