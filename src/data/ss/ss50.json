@@ -1,0 +1,764 @@
+{
+  "student": "Svetlana S.",
+  "slug": "ss",
+  "number": 50,
+  "date": "2025-07-25",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "соотечественник",
+   "ipa": "ə кəмˈпэйтриəт",
+   "spell": "a compatriot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жалоба",
+   "ipa": "ə кəмˈплэйнт",
+   "spell": "a complaint"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "клиент",
+   "ipa": "ə ˈкʌстəмəр",
+   "spell": "a customer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "европеец",
+   "ipa": "ə ˌйʊрəˈпиəн",
+   "spell": "a European"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "военный",
+   "ipa": "ə ˈмɪлəˌтэри мæн",
+   "spell": "a military man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тумбочка",
+   "ipa": "ə найт стæнд",
+   "spell": "a night stand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "копилка",
+   "ipa": "ə ˈпɪги бæŋк",
+   "spell": "a piggy bank"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лыжник",
+   "ipa": "ə скайр",
+   "spell": "a skier"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рабовладелец",
+   "ipa": "ə слэйв ˈоунəр",
+   "spell": "a slave owner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тайник",
+   "ipa": "ə стæш",
+   "spell": "a stash"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тысяча четыреста сорок пять (1445)",
+   "ipa": "ə ˈθаузəнд фор ˈhʌндрɪд æнд ˈфорти-файв",
+   "spell": "a thousand four hundred and forty-five (1445)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дисконтная карта на двадцать долларов",
+   "ipa": "ə ˈтwэнти-ˈдɑлəр дɪˈскаунт кɑрд",
+   "spell": "a twenty-dollar discount card"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уведомление за две недели",
+   "ipa": "ə ту-wик ˈноутəс",
+   "spell": "a two-week notice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "украинец",
+   "ipa": "ə юˈкрэйниəн ˈпɜрсəн",
+   "spell": "a Ukrainian person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "знакомый",
+   "ipa": "əн əˈкwэйнтəнс",
+   "spell": "an acquaintance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зависимость от чего-либо",
+   "ipa": "əн əˈдɪкшəн ту ˈсʌмθɪŋ",
+   "spell": "an addiction to something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по-видимому",
+   "ipa": "əˈпэрəнтли",
+   "spell": "apparently"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с первого взгляда",
+   "ipa": "æт фɜрст сайт",
+   "spell": "at first sight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на его предыдущей работе",
+   "ipa": "æт hɪз ˈпривиəс джɑб",
+   "spell": "at his previous job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сразу",
+   "ipa": "æт wʌнс",
+   "spell": "at once"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закончи гонку!",
+   "ipa": "ˈфɪнɪш ðə рэйс!",
+   "spell": "finish the race!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в целом лучше",
+   "ipa": "ˈджэнəрəли ˈбэтəр",
+   "spell": "generally better"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жадный до денег",
+   "ipa": "ˈгриди фор ˈмʌни",
+   "spell": "greedy for money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жадный до власти",
+   "ipa": "ˈгриди фор ˈпауəр",
+   "spell": "greedy for power"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он дал мне",
+   "ipa": "hи гэйв ми",
+   "spell": "he gave me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он получил свою первую зарплату",
+   "ipa": "hи гɑт hɪз фɜрст ˈсæлəри",
+   "spell": "he got his first salary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он положил наши деньги в карман",
+   "ipa": "hи ˈпɑкəтɪд ˈауəр ˈмʌни",
+   "spell": "he pocketed our money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сразу убежал",
+   "ipa": "hи рæн əˈwэй æт wʌнс",
+   "spell": "he ran away at once"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он нас обманул",
+   "ipa": "hи скруд ʌс ˈоувəр",
+   "spell": "he screwed us over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он обращался с нами так же",
+   "ipa": "hи ˈтритɪд ʌс ðə сэйм wэй",
+   "spell": "he treated us the same way"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он был посредником",
+   "ipa": "hи wʌз ðə ˈмɪдəл мæн",
+   "spell": "he was the middle man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он написал и спросил их",
+   "ipa": "hи роут æнд æскт ðэм",
+   "spell": "he wrote and asked them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её английский лучше моего",
+   "ipa": "hɜр ˈɪŋглɪш ɪз ˈбэтəр ðæн майн",
+   "spell": "her English is better than mine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты узнал об этом?",
+   "ipa": "hау дɪд ю файнд аут əˈбаут ɪт?",
+   "spell": "how did you find out about it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты узнал об этом?",
+   "ipa": "hау дɪд ю лɜрн əˈбаут ɪт?",
+   "spell": "how did you learn about it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу с этим мириться",
+   "ipa": "ай кæнт пʊт ʌп wɪð ɪт",
+   "spell": "I can't put up with it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я больше не могу терпеть",
+   "ipa": "ай кæнт стæнд ɪт ˈэни мор",
+   "spell": "I can't stand it any more"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаю, чего от неё ожидать",
+   "ipa": "ай доунт ноу wɑт ту ɪкˈспэкт фрʌм hɜр",
+   "spell": "I don't know what to expect from her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужна помощь немедленно",
+   "ipa": "ай нид hэлп æт wʌнс",
+   "spell": "I need help at once"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужна помощь сейчас",
+   "ipa": "ай нид hэлп нау",
+   "spell": "I need help now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ему сказала",
+   "ipa": "ай тоулд hɪм",
+   "spell": "I told him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я работала на складе",
+   "ipa": "ай wɜркт æт ə ˈwэрˌhаус",
+   "spell": "I worked at a warehouse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "немедленно!",
+   "ipa": "ɪˈмидиəтли!",
+   "spell": "immediately!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в конце",
+   "ipa": "ɪн ðи энд",
+   "spell": "in the end"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в Украине",
+   "ipa": "ɪн юˈкрэйн",
+   "spell": "in Ukraine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это было так мило с Вашей стороны",
+   "ipa": "ɪт wʌз соу найс ʌв ю",
+   "spell": "it was so nice of you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лучше работать под канадцами, чем под нашими соотечественниками",
+   "ipa": "ɪтс ˈбэтəр ту wɜрк ˈʌндəр кəˈнэйдиəнз ðæн ˈʌндəр ˈауəр кəмˈпэйтриəтс",
+   "spell": "it's better to work under Canadians than under our compatriots"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отпусти это!",
+   "ipa": "лэт ɪт гоу!",
+   "spell": "let it go!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скромность",
+   "ipa": "ˈмɑдəсти",
+   "spell": "modesty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "денежная зависимость",
+   "ipa": "ˈмʌни əˈдɪкшəн",
+   "spell": "money addiction"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "деньги - это власть",
+   "ipa": "ˈмʌни ɪз ˈпауəр",
+   "spell": "money is power"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "деньгопоклонники",
+   "ipa": "ˈмʌни ˈwɜрщɪпəрз",
+   "spell": "money worshippers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на первый взгляд",
+   "ipa": "ɑн ðə фэйс ʌв ɪт",
+   "spell": "on the face of it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с твоей стороны",
+   "ipa": "ɑн йʊəр пɑрт",
+   "spell": "on your part"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "одна из его лыж сломалась",
+   "ipa": "wʌн ʌв hɪз скиз броук",
+   "spell": "one of his skis broke"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "другие иммигрантские сообщества",
+   "ipa": "ˈʌðəр ˈɪмəгрəнт кəмˈюнəтиз",
+   "spell": "other immigrant communities"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наши люди, наши соотечественники",
+   "ipa": "ˈауəр ˈпипəл, ˈауəр кəмˈпэйтриəтс",
+   "spell": "our people, our compatriots"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прямо сейчас",
+   "ipa": "райт нау",
+   "spell": "right now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она начала вести себя как её лучшая подруга",
+   "ipa": "щи бɪˈгæн ту æкт лайк hɜр бэст фрэнд",
+   "spell": "she began to act like her best friend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она пришла к власти",
+   "ipa": "щи кэйм ту ˈпауəр",
+   "spell": "she came to power"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не может найти работу",
+   "ipa": "щи кæнт файнд ə джɑб",
+   "spell": "she can't find a job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не получила работу",
+   "ipa": "щи дɪд нɑт гэт ðə джɑб",
+   "spell": "she did not get the job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она одна из нас",
+   "ipa": "щи ɪз wʌн ʌв ʌс",
+   "spell": "she is one of us"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она стесняется",
+   "ipa": "щи ɪз щаɪ",
+   "spell": "she is shy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она посещает уроки английского",
+   "ipa": "щи ɪз ˈтэйкɪŋ ˈɪŋглɪш ˈклæсəз",
+   "spell": "she is taking English classes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она отказалась",
+   "ipa": "щи рəˈфъюзд",
+   "spell": "she refused"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она обращается с нами как с дерьмом",
+   "ipa": "щи тритс ʌс лайк щɪт",
+   "spell": "she treats us like shit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она понимает английский лучше меня",
+   "ipa": "щи ˌʌндəрˈстæндз ˈɪŋглɪш ˈбэтəр ðæн ай (ду)",
+   "spell": "she understands English better than I (do)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она одна из нас",
+   "ipa": "щиз wʌн ʌв ʌс",
+   "spell": "she's one of us"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это всё",
+   "ipa": "ðæтс ɔл",
+   "spell": "that's all"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть много способов добиться цели",
+   "ipa": "ðэр ɑр ˈмэни wэйз ту скɪн ə кæт",
+   "spell": "there are many ways to skin a cat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моей комнате нет стола",
+   "ipa": "ðэр ɪз ноу ˈтэйбəл ɪн май рум",
+   "spell": "there is no table in my room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть не один способ сделать это",
+   "ipa": "ðэрз мор ðæн wʌн wэй ту ду ɪт",
+   "spell": "there’s more than one way to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они экономны",
+   "ipa": "ðэй ɑр ˈθрɪфти",
+   "spell": "they are thrifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они вычли праздники",
+   "ipa": "ðэй дɪˈдʌктɪд ðə ˈhɑлəˌдэйз",
+   "spell": "they deducted the holidays"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они не наняли её",
+   "ipa": "ðэй дɪд нɑт ˈhайəр hɜр",
+   "spell": "they did not hire her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "им не было до нас дела",
+   "ipa": "ðэй ˈдɪдəнт кэр əˈбаут ʌс",
+   "spell": "they didn't care about us"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они не уважают это",
+   "ipa": "ðэй доунт ˈɑнəр ɪт",
+   "spell": "they don't honor it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они не учли праздники",
+   "ipa": "ðэй фэйлд ту əˈкаунт фор ˈhɑлəˌдэйз",
+   "spell": "they failed to account for holidays"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они ответили ему",
+   "ipa": "ðэй рɪˈплайд ту hɪм",
+   "spell": "they replied to him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они поклоняются деньгам",
+   "ipa": "ðэй ˈwɜршəп ˈмʌни",
+   "spell": "they worship money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дела идут!",
+   "ipa": "θɪŋз ɑр ˈмувɪŋ!",
+   "spell": "things are moving!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это ненормально",
+   "ipa": "ðɪс ɪз нɑт ˈнормəл",
+   "spell": "this is not normal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "время покажет",
+   "ipa": "тайм wɪл тэл",
+   "spell": "time will tell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "попросить рекомендацию для работы",
+   "ipa": "ту æск фор ə джɑб ˈрэфəрəнс",
+   "spell": "to ask for a job reference"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "командовать",
+   "ipa": "ту кəˈмæнд",
+   "spell": "to command"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чувствовать себя неловко",
+   "ipa": "ту фил ˈɑкwəрд",
+   "spell": "to feel awkward"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ладить",
+   "ipa": "ту гэт əˈлɔŋ",
+   "spell": "to get along"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "получить власть",
+   "ipa": "ту гэт ˈпауəр",
+   "spell": "to get power"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "унижать людей",
+   "ipa": "ту hъюˈмɪлиˌэйт ˈпипəл",
+   "spell": "to humiliate people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "минимизировать наши расходы",
+   "ipa": "ту ˈмɪнəˌмайз ˈауəр ɪкˈспэнсəз",
+   "spell": "to minimize our expenses"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "копить деньги на чёрный день",
+   "ipa": "ту сэйв ˈмʌни фор ə ˈрэйни дэй",
+   "spell": "to save money for a rainy day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "копить деньги на экстренные случаи",
+   "ipa": "ту сэйв ˈмʌни фор ɪˈмɜрджəнсиз",
+   "spell": "to save money for emergencies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "переступать через людей",
+   "ipa": "ту стэп ˈоувəр ˈпипəл",
+   "spell": "to step over people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плохо обращаться с кем-либо",
+   "ipa": "ту трит ˈсʌмˌбɑди ˈбæдли",
+   "spell": "to treat somebody badly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хорошо обращаться с кем-либо",
+   "ipa": "ту трит ˈсʌмˌбɑди wэл",
+   "spell": "to treat somebody well"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работать под канадцами",
+   "ipa": "ту wɜрк ˈʌндəр кəˈнэйдиəнз",
+   "spell": "to work under Canadians"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уведомление за две недели",
+   "ipa": "ту wикс ˈноутəс",
+   "spell": "two weeks notice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас есть сбережения",
+   "ipa": "wи hæв сʌм ˈсэйвɪŋз",
+   "spell": "we have some savings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы узнали об этом",
+   "ipa": "wи лɜрнд əˈбаут ɪт",
+   "spell": "we learned about it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы поняли",
+   "ipa": "wи ˈриəˌлайзд",
+   "spell": "we realized"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я узнал об этом",
+   "ipa": "wэн ай лɜрнд əˈбаут ɪт",
+   "spell": "when I learned about it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почему мы не можем ладить?",
+   "ipa": "wай кæнт wи гэт əˈлɔŋ?",
+   "spell": "why can't we get along?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вчера",
+   "ipa": "ˈйэстəрˌдэй",
+   "spell": "yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никогда не угадаешь",
+   "ipa": "ю кæн ˈнэвəр тэл",
+   "spell": "you can never tell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты любишь деньги",
+   "ipa": "ю лʌв ˈмʌни",
+   "spell": "you love money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе не следовало этого делать",
+   "ipa": "ю ˈрɪли щʊд нɑт hæв дʌн ɪт",
+   "spell": "you really should not have done it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не стоило беспокоиться! это лишнее.",
+   "ipa": "ю ˈрɪли ˈщʊдəнт hæв!",
+   "spell": "you really shouldn't have!"
+ }
+]
+}
