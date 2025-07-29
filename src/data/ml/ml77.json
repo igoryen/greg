@@ -1,0 +1,470 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 77,
+  "date": "2025-07-25",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ниже средней температуры",
+   "ipa": "ə бɪˈлоу-ˈæвəрɪдж ˈтэмпрəчəр",
+   "spell": "a below-average temperature"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "погреб",
+   "ipa": "ə ˈсэлəр",
+   "spell": "a cellar"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "холм",
+   "ipa": "ə hɪл",
+   "spell": "a hill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "муж",
+   "ipa": "ə ˈhʌзбəнд",
+   "spell": "a husband"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "долгосрочный прогноз",
+   "ipa": "ə ˈлɔŋˈтɜрм ˈфорˌкæст",
+   "spell": "a long-term forecast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "метеор",
+   "ipa": "ə ˈмитиəр",
+   "spell": "a meteor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "более расслабляющее время",
+   "ipa": "ə мор рɪˈлæксɪŋ тайм",
+   "spell": "a more relaxing time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вопрос, который у вас есть",
+   "ipa": "ə ˈкwэсчəн ю hæв",
+   "spell": "a question you have"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полоса движения (на дороге)",
+   "ipa": "ə роуд лэйн",
+   "spell": "a road lane"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "палящая жара",
+   "ipa": "ə ˈскорчɪŋ ˈтэмпрəчəрз",
+   "spell": "a scorching temperatures"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тема для разговора",
+   "ipa": "ə ˈтɑпɪк ʌв ˌкɑнвəрˈсэйшəн",
+   "spell": "a topic of conversation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обученный метеоролог",
+   "ipa": "ə трэйнд ˌмитиəˈрɑлəджɪст",
+   "spell": "a trained meteorologist"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тоннель",
+   "ipa": "ə ˈтʌнəл",
+   "spell": "a tunnel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "точный",
+   "ipa": "ˈæкйəрəт",
+   "spell": "accurate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "точно",
+   "ipa": "ˈæкйəрəтли",
+   "spell": "accurately"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "точный прогноз",
+   "ipa": "əн ˈæкйəрəт ˈфорˌкæст",
+   "spell": "an accurate forecast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двигатель",
+   "ipa": "əн ˈэнджəн",
+   "spell": "an engine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у друга",
+   "ipa": "æт hɪз фрэндз",
+   "spell": "at his friend's"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это как?",
+   "ipa": "ˈɑфəл hау?",
+   "spell": "awful how?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Барри будет больше похож на Нью-Маркет",
+   "ipa": "ˈбæри wɪл лʊк мор лайк ну ˈмɑркəт",
+   "spell": "Barry will look more like New Market"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ветреный, свежий, прохладный",
+   "ipa": "ˈбризи",
+   "spell": "breezy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "определённый ~ неопределённый",
+   "ipa": "ˈсɜртəн ~ əнˈсɜртəн",
+   "spell": "certain ~ uncertain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день за днём",
+   "ipa": "дэй ту дэй",
+   "spell": "day to day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты угадал правильно?",
+   "ipa": "дɪд ю гэс кəˈрэктли?",
+   "spell": "did you guess correctly?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не считай цыплят, пока они не вылупились",
+   "ipa": "доунт каунт йʊəр ˈчɪкəнз бɪˈфор ðэй hæч",
+   "spell": "don't count your chickens before they hatch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отводные каналы",
+   "ipa": "ˈдрэйнəдж ˈчæнəлз",
+   "spell": "drainage channels"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый из них",
+   "ipa": "ˈэвриˌwʌн ʌв ðэм",
+   "spell": "everyone of them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "передний",
+   "ipa": "фор",
+   "spell": "fore"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он уволил метеорологов",
+   "ipa": "hи ˈфайəрд ˌмитиəˈрɑлəджɪстс",
+   "spell": "he fired meteorologists"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди капризны",
+   "ipa": "ˈhъюмəнз ɑр кəˈпрɪшəс",
+   "spell": "humans are capricious"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я всегда стараюсь что-то сделать",
+   "ipa": "ай ˈɔлˌwэйз трай ту ду ˈсʌмθɪŋ",
+   "spell": "I always try to do something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никак не могу за это взяться",
+   "ipa": "ай кæн ˈнэвəр гэт əˈраунд ту ˈдуɪŋ ɪт",
+   "spell": "I can never get around to doing it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ослабляю тормоза",
+   "ipa": "ай из ɔф ðə брэйкс",
+   "spell": "I ease off the brakes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ошибся в прогнозе погоды",
+   "ipa": "ай мɪсˈджʌджд ðə ˈwэðəр",
+   "spell": "I misjudged the weather"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня руки никак не доходят это сделать",
+   "ipa": "ай ˈнэвəр ˈмæнəдж ту ду ɪт",
+   "spell": "I never manage to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я убираю ногу с тормоза",
+   "ipa": "ай тэйк май фʊт ɔф ðə брэйк",
+   "spell": "I take my foot off the brake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в нашей повседневной жизни",
+   "ipa": "ɪн ˈауəр дэй-ту-дэй лайф",
+   "spell": "in our day-to-day life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как {как вы заметили} это изменилось?",
+   "ipa": "ɪн wɑт wэйз {hæв ю ˈноутəст} ɪт чэйнджд?",
+   "spell": "in what ways {have you noticed} it changed?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это может быть очень неопределённым",
+   "ipa": "ɪт кæн би ˈвэри əнˈсɜртəн",
+   "spell": "it can be very uncertain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дождь льёт днями напролёт",
+   "ipa": "ɪт порз рэйн фор дэйз æнд дэйз",
+   "spell": "it pours rain for days and days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дождь идёт без остановки днями",
+   "ipa": "ɪт рэйнз ˌнɑнˈстɑп фор дэйз",
+   "spell": "it rains nonstop for days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "имейте в виду!",
+   "ipa": "кип ɪн майнд!",
+   "spell": "keep in mind!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "глядя на научные данные",
+   "ipa": "ˈлʊкɪŋ æт ðə ˈсайəнс",
+   "spell": "looking at the science"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в среднем",
+   "ipa": "ɑн ˈæвəрɪдж",
+   "spell": "on average"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в других случаях",
+   "ipa": "ɑн ˈʌðəр əˈкэйжəнз",
+   "spell": "on other occasions"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на другом берегу реки",
+   "ipa": "ɑн ðи ˈʌðəр бæŋк ʌв ðə ˈрɪвəр",
+   "spell": "on the other bank of the river"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "облака рассеются",
+   "ipa": "ðə клауд wɪл клɪр",
+   "spell": "the cloud will clear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двигатель останавливается",
+   "ipa": "ðи ˈэнджəн стɑпс",
+   "spell": "the engine stops"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чем дальше, тем менее точно",
+   "ipa": "ðə ˈфɑрðəр əˈhэд, ðə лэс ˈæкйəрəт",
+   "spell": "the farther ahead, the less accurate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самая низкая температура была минус пятнадцать",
+   "ipa": "ðə ˈлоуəст ˈтэмпрəчəр wʌз ˈмайнəс фɪфˈтин",
+   "spell": "the lowest temperature was minus fifteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "река выходит из берегов",
+   "ipa": "ðə ˈрɪвəр ˈоувəрˌфлоуз ɪтс бæŋкс",
+   "spell": "the river overflows its banks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "солнце вышло",
+   "ipa": "ðə сʌн кэйм аут",
+   "spell": "the sun came out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "населения было меньше",
+   "ipa": "ðэр wʌз лэс ˌпɑпйəˈлэйшəн",
+   "spell": "there was less population"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много низких облаков",
+   "ipa": "ðэрз ə лɑт ʌв лоу клауд",
+   "spell": "there's a lot of low cloud"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "высокое давление",
+   "ipa": "ðэрз hай ˈпрэшəр",
+   "spell": "there's high pressure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не говори \"гоп\", пока не перепрыгнешь",
+   "ipa": "ðэрз ˈмэни ə слɪп тwɪкст ðə кʌп æнд ðə лɪп",
+   "spell": "there's many a slip twixt the cup and the lip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "транслировать",
+   "ipa": "ту ˈбрɔдˌкæст",
+   "spell": "to broadcast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предсказывать",
+   "ipa": "ту кæст",
+   "spell": "to cast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прогнозировать",
+   "ipa": "ту ˈфорˌкæст",
+   "spell": "to forecast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прогнозировать на несколько дней вперёд",
+   "ipa": "ту ˈфорˌкæст ˈсэврəл дэйз əˈhэд",
+   "spell": "to forecast several days ahead"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ошибаться в оценке",
+   "ipa": "ту мɪсˈджʌдж",
+   "spell": "to misjudge"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предсказывать погоду далеко вперёд",
+   "ipa": "ту прɪˈдɪкт ðə ˈwэðəр фɑр əˈhэд",
+   "spell": "to predict the weather far ahead"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "остановиться на красный свет",
+   "ipa": "ту стɑп æт ə рэд лайт",
+   "spell": "to stop at a red light"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень много переменных",
+   "ipa": "ˈвэри ˈмэни ˈвэриəбəлз",
+   "spell": "very many variables"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "погода влияет на ваше настроение",
+   "ipa": "ˈwэðəр əˈфэктс йʊəр муд",
+   "spell": "weather affects your mood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда он пришёл к власти",
+   "ipa": "wэн hи кэйм ту ˈпауəр",
+   "spell": "when he came to power"
+ }
+]
+}
