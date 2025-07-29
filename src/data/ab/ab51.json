@@ -1,0 +1,330 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "number": 51,
+  "date": "2025-07-27",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "креветка",
+   "ipa": "(ə) шрɪмп",
+   "spell": "(a) shrimp"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скучная вечеринка",
+   "ipa": "ə ˈборɪŋ ˈпɑрти",
+   "spell": "a boring party"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много хождения по магазинам",
+   "ipa": "ə лɑт ʌв ˈшɑпɪŋ",
+   "spell": "a lot of shopping"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "режиссёр фильма",
+   "ipa": "ə ˈмуви дəˈрэктəр",
+   "spell": "a movie director"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "одиночный кондиционер",
+   "ipa": "ə ˈсɪŋгəл ˈэркəнˌдɪшəнəр",
+   "spell": "a single air-conditioner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "телесериал",
+   "ipa": "ə ˈтиˈви ˈсɪриз",
+   "spell": "a TV series"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "инструкция",
+   "ipa": "əн ɪнˈстрʌкшəн",
+   "spell": "an instruction"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приказ",
+   "ipa": "əн ˈордəр",
+   "spell": "an order"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто-то знаменитый?",
+   "ipa": "ˈэнибəди ˈфэймəс?",
+   "spell": "anybody famous?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь счастлив!",
+   "ipa": "би ˈhæпи!",
+   "spell": "be happy!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь здоров!",
+   "ipa": "би wэл!",
+   "spell": "be well!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "центральное отопление",
+   "ipa": "ˈсэнтрəˌлайзд ˈhитɪŋ",
+   "spell": "centralized heating"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иди сюда!",
+   "ipa": "кʌм hир!",
+   "spell": "come here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заходи!",
+   "ipa": "кʌм ɪн!",
+   "spell": "come in!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зайди в мой офис",
+   "ipa": "кʌм ˈɪнту май ˈɔфəс",
+   "spell": "come into my office"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прикрой меня!",
+   "ipa": "ˈкʌвəр ми!",
+   "spell": "cover me!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не беспокойся о своём возрасте",
+   "ipa": "доунт ˈwɜри əˈбаут йʊəр эйдж",
+   "spell": "don't worry about your age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он ей нравится",
+   "ipa": "hи лайкс hɜр",
+   "spell": "he likes her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько в нём серий?",
+   "ipa": "hау ˈмэни eпoсидeс дʌз ɪт hæв?",
+   "spell": "how many eposides does it have?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "влажный воздух",
+   "ipa": "ˈhъюмɪд эр",
+   "spell": "humid air"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня аллергия на утро",
+   "ipa": "ай æм əˈлɜрджɪк ту ˈморнɪŋз",
+   "spell": "I am allergic to mornings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я делаю то, что хочу",
+   "ipa": "ай ду ми (ду wɑт ай лайк)",
+   "spell": "I do me (do what i like)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я поняла, что уже слишком поздно",
+   "ipa": "ай ˈриəˌлайзд ɪт wʌз ту лэйт",
+   "spell": "I realized it was too late"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хотела пойти в бассейн",
+   "ipa": "ай ˈwɔнтɪд ту гоу ту ðə пул",
+   "spell": "I wanted to go to the pool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я гуляла с собакой",
+   "ipa": "ай wэнт фор ə wɔк wɪð май дɔг",
+   "spell": "I went for a walk with my dog"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не справляется",
+   "ipa": "ɪт ˈдʌзəнт ˈмæнəдж",
+   "spell": "it doesn't manage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оставь меня в покое!",
+   "ipa": "лив ми əˈлоун!",
+   "spell": "leave me alone!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прямо рядом со мной",
+   "ipa": "райт нэкст ту ми",
+   "spell": "right next to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "макароны по-флотски",
+   "ipa": "ˈсэйлəрз ˌмæкəˈроуни",
+   "spell": "Sailor’s Macaroni"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сцена два",
+   "ipa": "син ту",
+   "spell": "scene two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она делает это специально",
+   "ipa": "щи дʌз ðæт ɑн ˈпɜрпəс",
+   "spell": "she does that on purpose"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ему нравится",
+   "ipa": "щи лайкс hɪм",
+   "spell": "she likes him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "встань рядом с ней!",
+   "ipa": "стæнд нэкст ту hɜр!",
+   "spell": "stand next to her!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это приказ",
+   "ipa": "ðæтс əн ˈордəр",
+   "spell": "that's an order"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "флаг алый",
+   "ipa": "ðə флæг ɪз ˈскɑрлəт",
+   "spell": "the flag is scarlet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "повелительное наклонение",
+   "ipa": "ðи ɪмˈпэрəтɪв муд",
+   "spell": "the imperative mood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "главное — что у тебя есть в этом возрасте",
+   "ipa": "ðə мэйн θɪŋ ɪз wɑт ю hæв æт ðɪс эйдж",
+   "spell": "the main thing is what you have at this age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они частные",
+   "ipa": "ðэй ɑр ˈпрайвəт",
+   "spell": "they are private"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "те яйца",
+   "ipa": "ðоуз эгз",
+   "spell": "those eggs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идти прямо",
+   "ipa": "ту гоу стрэйт",
+   "spell": "to go straight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы всё ещё смотрим тот турецкий сериал",
+   "ipa": "wи ɑр стɪл ˈwɑчɪŋ ðæт ˈтɜркɪш ˈсɪˌриəл",
+   "spell": "we are still watching that Turkish serial"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы переключаем его с обогрева на охлаждение",
+   "ipa": "wи сwɪч ɪт фрʌм ˈhитɪŋ ту ˈкулɪŋ",
+   "spell": "we switch it from heating to cooling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что, если ты их потеряешь?",
+   "ipa": "wɑт ɪф ю луз ðэм?",
+   "spell": "what if you lose them?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кого ты позовёшь?",
+   "ipa": "hу ɑр ю ˈгɑнə кɔл?",
+   "spell": "who are you gonna call?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кому будешь звонить?",
+   "ipa": "hу wɪл ю кɔл?",
+   "spell": "who will you call?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь собой!",
+   "ipa": "ю ду ю!",
+   "spell": "you do you!"
+ }
+]
+}
