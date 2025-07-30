@@ -3,328 +3,328 @@
   "slug": "ml",
   "number": 78,
   "date": "2025-07-28",
-  "words":  [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "водитель автобуса",
-   "ipa": "ə бʌс ˈдрайвəр",
-   "spell": "a bus driver"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "автовокзал",
-   "ipa": "ə бʌс ˈстэйшəн",
-   "spell": "a bus station"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кард-ридер, считыватель карточек",
-   "ipa": "ə кɑрд ˈридəр",
-   "spell": "a card reader"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "контрольный пункт",
-   "ipa": "ə ˈчэкˌпойнт",
-   "spell": "a checkpoint"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "смельчак, любитель риска",
-   "ipa": "ə рɪск-ˈтэйкəр",
-   "spell": "a risk-taker"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тротуар",
-   "ipa": "ə ˈсайˌдwɔк",
-   "spell": "a sidewalk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "достопримечательность",
-   "ipa": "ə сайт ту си",
-   "spell": "a sight to see"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хирург",
-   "ipa": "ə ˈсɜрджəн",
-   "spell": "a surgeon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "подержанный автомобиль",
-   "ipa": "ə юзд кɑр",
-   "spell": "a used car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "эстакада",
-   "ipa": "ə ˈвайəдəкт",
-   "spell": "a viaduct"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "путепроводб виадук",
-   "ipa": "əн ˈоувəрˌпæс",
-   "spell": "an overpass"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как будто я кого-то убил",
-   "ipa": "æз ɪф ай ˈмɜрдəрд ˈсʌмˌбɑди",
-   "spell": "as if I murdered somebody"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в полицейском участке",
-   "ipa": "æт ðə пəˈлис ˈстэйшəн",
-   "spell": "at the police station"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бактериальная инфекция с симптомами гриппа",
-   "ipa": "бæкˈтɪриəл ɪнˈфэкшəн wɪð ˈфлуˌлайк ˈсɪмптəмз",
-   "spell": "bacterial infection with flu-like symptoms"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "для пешеходов",
-   "ipa": "фор пəˈдэстриəнз",
-   "spell": "for pedestrians"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на бога надейся, а сам не плошай",
-   "ipa": "гɑд hэлпс ðоуз hу hэлп ðэмˈсэлвз",
-   "spell": "god helps those who help themselves"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как ты можешь это доказать?",
-   "ipa": "hау кæн ю прув ɪт?",
-   "spell": "how can you prove it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я уверена",
-   "ipa": "ай æм ˈкɑнфəдəнт",
-   "spell": "I am confident"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я села в автобус",
-   "ipa": "ай гɑт ɑн ðə бʌс",
-   "spell": "I got on the bus"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я попыталась идти пешком",
-   "ipa": "ай трайд ту wɔк",
-   "spell": "I tried to walk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я была в ужасе",
-   "ipa": "ай wʌз ˈhорəˌфайд",
-   "spell": "I was horrified"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "если бы у меня было это, у меня было бы то",
-   "ipa": "ɪф ай hæд hæд ðɪс, ай wʊд hæв hæд ðæт",
-   "spell": "if I had had this, I would have had that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это была такая глупая ошибка",
-   "ipa": "ɪт wʌз сʌч ə ˈступɪд мɪсˈтэйк",
-   "spell": "it was such a stupid mistake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мой муж",
-   "ipa": "май ˈhʌзбəнд",
-   "spell": "my husband"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ей нет тридцати двух",
-   "ipa": "щи ɪз ˈʌндəр ˈθɜрди-ту",
-   "spell": "she is under thirty-two"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она сильно рисковала, делая это",
-   "ipa": "щи wʌз ˈрɪскɪŋ ə лɑт ту ду ðæт",
-   "spell": "she was risking a lot to do that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она не любительница риска",
-   "ipa": "щиз нɑт ə рɪск-ˈтэйкəр",
-   "spell": "she's not a risk-taker"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мягкие навыки",
-   "ipa": "сɑфт скɪлз",
-   "spell": "soft skills"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "повреждения этой машины",
-   "ipa": "ðə ˈдæмəдж ðɪс кɑр hæз",
-   "spell": "the damage this car has"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они дали нам шанс",
-   "ipa": "ðэй гэйв ʌс ə чæнс",
-   "spell": "they gave us a chance"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они поженились",
-   "ipa": "ðэй гɑт ˈмэрид",
-   "spell": "they got married"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они говорят мне",
-   "ipa": "ðэй тэл ми",
-   "spell": "they tell me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на протяжении всей моей жизни",
-   "ipa": "θруˈаут май лайф",
-   "spell": "throughout my life"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "покупать машину с рук",
-   "ipa": "ту бай ə юзд кɑр ɔф ˈсʌмˌwʌн",
-   "spell": "to buy a used car off someone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "набрать чей-то номер",
-   "ipa": "ту ˈдайəл ˈсʌмˌбɑди",
-   "spell": "to dial somebody"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "делать это намеренно",
-   "ipa": "ту ду ɪт ɑн ˈпɜрпəс",
-   "spell": "to do it on purpose"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отдохнуть",
-   "ipa": "ту гэт ауəрˈсэлвз сʌм рэст",
-   "spell": "to get ourselves some rest"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "встречаться год",
-   "ipa": "ту гоу аут фор ə йɪр",
-   "spell": "to go out for a year"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ехать туда по делам",
-   "ipa": "ту гоу ðэр ɑн ˈбɪзнəс",
-   "spell": "to go there on business"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "выйти из зоны комфорта",
-   "ipa": "ту лив ðə ˈкʌмфəрт зоун",
-   "spell": "to leave the comfort zone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "познакомиться с ним через друзей",
-   "ipa": "ту мит hɪм θру сʌм фрэндз",
-   "spell": "to meet him through some friends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рискнуть",
-   "ipa": "ту тэйк ə рɪск",
-   "spell": "to take a risk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "под путепроводом",
-   "ipa": "ˌʌндəрˈниθ ðи ˈоувəрˌпæс",
-   "spell": "underneath the overpass"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "полезные вещи для будущего",
-   "ipa": "ˈюсфəл θɪŋз фор ðə ˈфъючəр",
-   "spell": "useful things for the future"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мыть раствором",
-   "ipa": "wɑш wɪð ə сəˈлушəн",
-   "spell": "wash with a solution"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нас задержала полиция",
-   "ipa": "wи wɜр дɪˈтэйнд бай ðə пəˈлис",
-   "spell": "we were detained by the police"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "водитель автобуса",
+      "ipa": "ə бʌс ˈдрайвəр",
+      "spell": "a bus driver"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "автовокзал",
+      "ipa": "ə бʌс ˈстэйшəн",
+      "spell": "a bus station"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кард-ридер, считыватель карточек",
+      "ipa": "ə кɑрд ˈридəр",
+      "spell": "a card reader"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "контрольный пункт",
+      "ipa": "ə ˈчэкˌпойнт",
+      "spell": "a checkpoint"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смельчак, любитель риска",
+      "ipa": "ə рɪск-ˈтэйкəр",
+      "spell": "a risk-taker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тротуар",
+      "ipa": "ə ˈсайˌдwɔк",
+      "spell": "a sidewalk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "достопримечательность",
+      "ipa": "ə сайт ту си",
+      "spell": "a sight to see"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хирург",
+      "ipa": "ə ˈсɜрджəн",
+      "spell": "a surgeon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подержанный автомобиль",
+      "ipa": "ə юзд кɑр",
+      "spell": "a used car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "эстакада",
+      "ipa": "ə ˈвайəдəкт",
+      "spell": "a viaduct"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "путепровод, виадук",
+      "ipa": "əн ˈоувəрˌпæс",
+      "spell": "an overpass"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как будто я кого-то убил",
+      "ipa": "æз ɪф ай ˈмɜрдəрд ˈсʌмˌбɑди",
+      "spell": "as if I murdered somebody"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в полицейском участке",
+      "ipa": "æт ðə пəˈлис ˈстэйшəн",
+      "spell": "at the police station"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бактериальная инфекция с симптомами гриппа",
+      "ipa": "бæкˈтɪриəл ɪнˈфэкшəн wɪð ˈфлуˌлайк ˈсɪмптəмз",
+      "spell": "bacterial infection with flu-like symptoms"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "для пешеходов",
+      "ipa": "фор пəˈдэстриəнз",
+      "spell": "for pedestrians"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на бога надейся, а сам не плошай",
+      "ipa": "гɑд hэлпс ðоуз hу hэлп ðэмˈсэлвз",
+      "spell": "god helps those who help themselves"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как ты можешь это доказать?",
+      "ipa": "hау кæн ю прув ɪт?",
+      "spell": "how can you prove it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я уверена",
+      "ipa": "ай æм ˈкɑнфəдəнт",
+      "spell": "I am confident"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я села в автобус",
+      "ipa": "ай гɑт ɑн ðə бʌс",
+      "spell": "I got on the bus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я попыталась идти пешком",
+      "ipa": "ай трайд ту wɔк",
+      "spell": "I tried to walk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я была в ужасе",
+      "ipa": "ай wʌз ˈhорəˌфайд",
+      "spell": "I was horrified"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если бы у меня было это, у меня было бы то",
+      "ipa": "ɪф ай hæд hæд ðɪс, ай wʊд hæв hæд ðæт",
+      "spell": "if I had had this, I would have had that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это была такая глупая ошибка",
+      "ipa": "ɪт wʌз сʌч ə ˈступɪд мɪсˈтэйк",
+      "spell": "it was such a stupid mistake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой муж",
+      "ipa": "май ˈhʌзбəнд",
+      "spell": "my husband"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ей нет тридцати двух",
+      "ipa": "щи ɪз ˈʌндəр ˈθɜрди-ту",
+      "spell": "she is under thirty-two"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она сильно рисковала, делая это",
+      "ipa": "щи wʌз ˈрɪскɪŋ ə лɑт ту ду ðæт",
+      "spell": "she was risking a lot to do that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она не любительница риска",
+      "ipa": "щиз нɑт ə рɪск-ˈтэйкəр",
+      "spell": "she's not a risk-taker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мягкие навыки",
+      "ipa": "сɑфт скɪлз",
+      "spell": "soft skills"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повреждения этой машины",
+      "ipa": "ðə ˈдæмəдж ðɪс кɑр hæз",
+      "spell": "the damage this car has"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они дали нам шанс",
+      "ipa": "ðэй гэйв ʌс ə чæнс",
+      "spell": "they gave us a chance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они поженились",
+      "ipa": "ðэй гɑт ˈмэрид",
+      "spell": "they got married"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они говорят мне",
+      "ipa": "ðэй тэл ми",
+      "spell": "they tell me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на протяжении всей моей жизни",
+      "ipa": "θруˈаут май лайф",
+      "spell": "throughout my life"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "покупать машину с рук",
+      "ipa": "ту бай ə юзд кɑр ɔф ˈсʌмˌwʌн",
+      "spell": "to buy a used car off someone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "набрать чей-то номер",
+      "ipa": "ту ˈдайəл ˈсʌмˌбɑди",
+      "spell": "to dial somebody"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "делать это намеренно",
+      "ipa": "ту ду ɪт ɑн ˈпɜрпəс",
+      "spell": "to do it on purpose"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отдохнуть",
+      "ipa": "ту гэт ауəрˈсэлвз сʌм рэст",
+      "spell": "to get ourselves some rest"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "встречаться год",
+      "ipa": "ту гоу аут фор ə йɪр",
+      "spell": "to go out for a year"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ехать туда по делам",
+      "ipa": "ту гоу ðэр ɑн ˈбɪзнəс",
+      "spell": "to go there on business"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выйти из зоны комфорта",
+      "ipa": "ту лив ðə ˈкʌмфəрт зоун",
+      "spell": "to leave the comfort zone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "познакомиться с ним через друзей",
+      "ipa": "ту мит hɪм θру сʌм фрэндз",
+      "spell": "to meet him through some friends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рискнуть",
+      "ipa": "ту тэйк ə рɪск",
+      "spell": "to take a risk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "под путепроводом",
+      "ipa": "ˌʌндəрˈниθ ðи ˈоувəрˌпæс",
+      "spell": "underneath the overpass"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полезные вещи для будущего",
+      "ipa": "ˈюсфəл θɪŋз фор ðə ˈфъючəр",
+      "spell": "useful things for the future"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мыть раствором",
+      "ipa": "wɑш wɪð ə сəˈлушəн",
+      "spell": "wash with a solution"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нас задержала полиция",
+      "ipa": "wи wɜр дɪˈтэйнд бай ðə пəˈлис",
+      "spell": "we were detained by the police"
+    }
+  ]
 }
