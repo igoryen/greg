@@ -1,0 +1,421 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 27,
+  "date": "2025-07-27",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кровать",
+   "ipa": "ə бэд",
+   "spell": "a bed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спальня",
+   "ipa": "ə ˈбэˌдрум",
+   "spell": "a bedroom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "новичок",
+   "ipa": "ə бɪˈгɪнəр",
+   "spell": "a beginner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мост",
+   "ipa": "ə брɪдж",
+   "spell": "a bridge"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кабель",
+   "ipa": "ə ˈкэйбəл",
+   "spell": "a cable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "канатная дорога",
+   "ipa": "ə ˈкэйбəл кɑр",
+   "spell": "a cable car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "машина",
+   "ipa": "ə кɑр",
+   "spell": "a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выходной (день)",
+   "ipa": "ə дэй ɔф",
+   "spell": "a day off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "друг",
+   "ipa": "ə фрэнд",
+   "spell": "a friend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ворота",
+   "ipa": "ə гэйт",
+   "spell": "a gate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хороший спортзал",
+   "ipa": "ə гʊд джɪм",
+   "spell": "a good gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "парень вроде меня",
+   "ipa": "ə гай лайк ми",
+   "spell": "a guy like me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кухня",
+   "ipa": "ə ˈкɪчəн",
+   "spell": "a kitchen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "языковая школа",
+   "ipa": "ə ˈлæŋгwəдж скул",
+   "spell": "a language school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пирс",
+   "ipa": "ə пɪр",
+   "spell": "a pier"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комната",
+   "ipa": "ə рум",
+   "spell": "a room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "школа",
+   "ipa": "ə скул",
+   "spell": "a school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отпуск",
+   "ipa": "ə вэйˈкэйшəн",
+   "spell": "a vacation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двор",
+   "ipa": "ə йɑрд",
+   "spell": "a yard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "год",
+   "ipa": "ə йɪр",
+   "spell": "a year"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "о, про",
+   "ipa": "əˈбаут",
+   "spell": "about"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "о школе",
+   "ipa": "əˈбаут ə скул",
+   "spell": "about a school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "около пяти",
+   "ipa": "əˈбаут файв",
+   "spell": "about five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "около десяти",
+   "ipa": "əˈбаут тэн",
+   "spell": "about ten"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "также",
+   "ipa": "ˈɔлсоу",
+   "spell": "also"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вечер",
+   "ipa": "əн ˈивнɪŋ",
+   "spell": "an evening"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "студент среднего уровня",
+   "ipa": "əн ˌɪнтəрˈмидиɪт ˈстудəнт",
+   "spell": "an intermediate student"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дома",
+   "ipa": "æт hоум",
+   "spell": "at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "но",
+   "ipa": "бʌт",
+   "spell": "but"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "захватывающий",
+   "ipa": "ɪкˈсайтɪŋ",
+   "spell": "exciting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "знаменитый",
+   "ipa": "ˈфэймəс",
+   "spell": "famous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дружелюбный",
+   "ipa": "ˈфрэндли",
+   "spell": "friendly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "золотой",
+   "ipa": "ˈгоулдəн",
+   "spell": "golden"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его класс маленький",
+   "ipa": "hɪз клæс ɪз смɔл",
+   "spell": "his class is small"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты на это отвечаешь?",
+   "ipa": "hау ду ю ˈæнсəр ɪт?",
+   "spell": "how do you answer it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько тебе лет?",
+   "ipa": "hау оулд ɑр ю?",
+   "spell": "how old are you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится",
+   "ipa": "ай лайк ɪт",
+   "spell": "I like it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он знаменито (чем-то)",
+   "ipa": "ɪт ɪз ˈфэймəс фор ...",
+   "spell": "it is famous for ..."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жарко",
+   "ipa": "ɪтс hɑт",
+   "spell": "it's hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "близко, рядом, около, возле",
+   "ipa": "нɪр",
+   "spell": "near"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на западном побережье",
+   "ipa": "ɑн ðə wэст коуст",
+   "spell": "on the west coast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "только пять",
+   "ipa": "ˈоунли файв",
+   "spell": "only five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "или",
+   "ipa": "ор",
+   "spell": "or"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень приятно",
+   "ipa": "ˈрɪли найс",
+   "spell": "really nice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скажи что-нибудь",
+   "ipa": "сэй ˈсʌмθɪŋ",
+   "spell": "say something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "так себе",
+   "ipa": "соу соу",
+   "spell": "so so"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "студенты, как я",
+   "ipa": "ˈстудəнтс лайк ми",
+   "spell": "students like me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "город веселый, интересный",
+   "ipa": "ðə ˈсɪти ɪз фʌн",
+   "spell": "the city is fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "начинать",
+   "ipa": "ту бɪˈгɪн",
+   "spell": "to begin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жить",
+   "ipa": "ту лɪв",
+   "spell": "to live"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "встречать",
+   "ipa": "ту мит",
+   "spell": "to meet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "посещать",
+   "ipa": "ту ˈвɪзəт",
+   "spell": "to visit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смотреть видео",
+   "ipa": "ту wɑч ə ˈвɪдиоу",
+   "spell": "to watch a video"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тоже",
+   "ipa": "ту",
+   "spell": "too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слишком большой",
+   "ipa": "ту бɪг",
+   "spell": "too big"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слишком хороший",
+   "ipa": "ту гʊд",
+   "spell": "too good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слишком маленький",
+   "ipa": "ту смɔл",
+   "spell": "too small"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда",
+   "ipa": "wэн",
+   "spell": "when"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "примерно с тремя студентами",
+   "ipa": "wɪð əˈбаут θри ˈстудəнтс",
+   "spell": "with about three students"
+ }
+]
+}
