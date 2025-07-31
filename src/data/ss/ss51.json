@@ -1,0 +1,736 @@
+{
+  "student": "Svetlana S.",
+  "slug": "ss",
+  "number": 51,
+  "date": "2025-07-28",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плохая привычка",
+   "ipa": "ə бæд ˈhæбəт",
+   "spell": "a bad habit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бюст",
+   "ipa": "ə бʌст",
+   "spell": "a bust"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двоюродный брат/сестра",
+   "ipa": "ə ˈкʌзəн",
+   "spell": "a cousin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "диагноз",
+   "ipa": "ə ˌдайəгˈноусəс",
+   "spell": "a diagnosis"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дрон",
+   "ipa": "ə дроун",
+   "spell": "a drone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "привычка",
+   "ipa": "ə ˈhæбəт",
+   "spell": "a habit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "родственник мужского пола",
+   "ipa": "ə мэйл ˈрэлəтɪв",
+   "spell": "a male relative"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фильм на английском",
+   "ipa": "ə ˈмуви ɪн ˈɪŋглɪш",
+   "spell": "a movie in English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обезболивающее",
+   "ipa": "ə пэйн ˈкɪлəр",
+   "spell": "a pain killer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "защемленный нерв",
+   "ipa": "ə пɪнчт нɜрв",
+   "spell": "a pinched nerve"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стабильная работа",
+   "ipa": "ə ˈстэйбəл джɑб",
+   "spell": "a stable job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень эмоциональный человек",
+   "ipa": "ə ˈвэри ɪˈмоушəнəл ˈпɜрсəн",
+   "spell": "a very emotional person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мнительный, беспокойный человек, который нервничает по пустякам",
+   "ipa": "ə ˈwɜриwорт",
+   "spell": "a worrywart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "продвинутый ученик",
+   "ipa": "əн əдˈвæнст ˈлɜрнəр",
+   "spell": "an advanced learner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "главное, что ты не сдаёшься",
+   "ipa": "æз лɔŋ æз ю доунт кwɪт",
+   "spell": "as long as you don't quit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сначала он хотел сделать предложение через год после знакомства",
+   "ipa": "æт фɜрст hи ˈwɔнтɪд ту прəˈпоуз ə йɪр ˈæфтəр ðэй мэт",
+   "spell": "at first he wanted to propose a year after they met"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "первое августа",
+   "ipa": "ˈɑгəст фɜрст",
+   "spell": "August first"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рак",
+   "ipa": "ˈкæнсəр",
+   "spell": "cancer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страх",
+   "ipa": "фɪр",
+   "spell": "fear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страх никому не идёт на пользу",
+   "ipa": "фɪр ɪз нɑт гʊд фор ˈэниˌwʌн",
+   "spell": "fear is not good for anyone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "свободные веса",
+   "ipa": "фри wэйтс",
+   "spell": "free weights"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "золото",
+   "ipa": "гоулд",
+   "spell": "gold"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он догнал меня",
+   "ipa": "hи кɑт ʌп wɪð ми",
+   "spell": "he caught up with me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он жалуется",
+   "ipa": "hи кəмˈплэйнз",
+   "spell": "he complains"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он выходит из себя",
+   "ipa": "hи флайз ɔф ðə ˈhæндəл",
+   "spell": "he flies off the handle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он вспыльчивый, у него короткий запал",
+   "ipa": "hи hæз ə шорт фъюз",
+   "spell": "he has a short fuse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он проработал всего четыре дня за две недели",
+   "ipa": "hи hæз ˈоунли wɜркт фор дэйз ɪн ту wикс",
+   "spell": "he has only worked four days in two weeks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он не призывного возраста",
+   "ipa": "hи ɪз нɑт ʌв дрæфт эйдж",
+   "spell": "he is not of draft age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он на год старше меня",
+   "ipa": "hи ɪз wʌн йɪр ˈоулдəр ðæн ми",
+   "spell": "he is one year older than me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он очень мягкий",
+   "ipa": "hи ɪз ˈвэри ˈджэнтəл",
+   "spell": "he is very gentle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он пронзил меня рапирой",
+   "ipa": "hи пɪрст ми wɪð ə ˈрэйпиəр",
+   "spell": "he pierced me with a rapier"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сказал ему",
+   "ipa": "hи тоулд hɪм",
+   "spell": "he told him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он снял мерки",
+   "ipa": "hи тʊк ðə ˈмэжəрмəнтс",
+   "spell": "he took the measurements"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он пытается бороться с этим",
+   "ipa": "hи трайз ту файт ɪт",
+   "spell": "he tries to fight it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раньше он был застенчивым",
+   "ipa": "hи юзд ту би шай",
+   "spell": "he used to be shy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он хочет, чтобы это был особенный момент",
+   "ipa": "hи wɑнтс ɪт ту би ə ˈспэшəл ˈмоумəнт",
+   "spell": "he wants it to be a special moment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он зря потратил бензин и время",
+   "ipa": "hи ˈwэйстɪд гæс æнд тайм",
+   "spell": "he wasted gas and time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сильный дождь",
+   "ipa": "ˈhэви рэйн",
+   "spell": "heavy rain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у неё постоянно ломаются волосы",
+   "ipa": "hɜр hэр кипс ˈбрэйкɪŋ",
+   "spell": "her hair keeps breaking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как давно ты видела свою мать?",
+   "ipa": "hау лɔŋ hæз ɪт бɪн сɪнс ю сɔ йʊəр ˈмʌðəр?",
+   "spell": "how long has it been since you saw your mother?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я всегда волнуюсь",
+   "ipa": "ай ˈɔлˌwэйз ˈwɜри",
+   "spell": "I always worry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я всегда нервничаю",
+   "ipa": "ай æм ˈɔлˌwэйз ˈнɜрвəс",
+   "spell": "I am always nervous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне почти шестьдесят",
+   "ipa": "ай æм ˈпʊщɪŋ ˈсɪксти",
+   "spell": "I am pushing sixty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не чувствую себя на сорок девять",
+   "ipa": "ай доунт фил лайк ˈфорти-найн",
+   "spell": "I don't feel like forty-nine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне это снилось",
+   "ipa": "ай дримд əˈбаут ɪт",
+   "spell": "I dreamed about it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я отказалась",
+   "ipa": "ай рəˈфъюзд",
+   "spell": "I refused"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я навестила мать",
+   "ipa": "ай ˈвɪзɪтɪд май ˈмʌðəр",
+   "spell": "I visited my mother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я посмотрела фильм на одном дыхании",
+   "ipa": "ай wʌз глуд ту ðə скрин ðə hоул тайм",
+   "spell": "I was glued to the screen the whole time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если всё хорошо",
+   "ipa": "ɪф ˈэвриˌθɪŋ ɪз гʊд",
+   "spell": "if everything is good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это появилось из ниоткуда",
+   "ipa": "ɪт кэйм аут ʌв ˈноуˌwэр",
+   "spell": "it came out of nowhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не имеет значения",
+   "ipa": "ɪт ˈдʌзəнт ˈмæтəр",
+   "spell": "it doesn't matter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это влияет на всех",
+   "ipa": "ɪт ɪз əˈфэктɪŋ ˈэвриˌбɑди",
+   "spell": "it is affecting everybody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это страшно",
+   "ipa": "ɪт ɪз ˈскэри",
+   "spell": "it is scary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не должно иметь значения",
+   "ipa": "ɪт ˈщʊдəнт ˈмæтəр",
+   "spell": "it shouldn't matter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе было легче",
+   "ipa": "ɪт wʌз ˈизиəр фор ю",
+   "spell": "it was easier for you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это был его пятидесятый день рождения",
+   "ipa": "ɪт wʌз hɪз ˈфɪфтиɪθ ˈбɜрθˌдэй",
+   "spell": "it was his fiftieth birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "более или менее",
+   "ipa": "мор ор лэс",
+   "spell": "more or less"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потеря мышечной массы",
+   "ipa": "ˈмʌсəл лɔс",
+   "spell": "muscle loss"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой ближайший родственник",
+   "ipa": "май ˈклоусəст ˈрэлəтɪв",
+   "spell": "my closest relative"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой муж",
+   "ipa": "май ˈhʌзбəнд",
+   "spell": "my husband"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой позвоночник",
+   "ipa": "май спайн",
+   "spell": "my spine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нервный",
+   "ipa": "ˈнɜрвəс",
+   "spell": "nervous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет причёски",
+   "ipa": "ноу ˈhэрˌду",
+   "spell": "no hairdo"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет причёски",
+   "ipa": "ноу ˈhэрˌстайл",
+   "spell": "no hairstyle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никому нет дела!",
+   "ipa": "ˈноуˌбɑˌди кэрз!",
+   "spell": "nobody cares!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ничего не помогает",
+   "ipa": "ˈнʌθɪŋ hэлпс",
+   "spell": "nothing helps"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "онемевший",
+   "ipa": "нʌм",
+   "spell": "numb"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старость",
+   "ipa": "оулд эйдж",
+   "spell": "old age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "совершенно неожиданно",
+   "ipa": "аут ʌв ðə блу",
+   "spell": "out of the blue"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "саркопения",
+   "ipa": "сɑркоуˈпиниə",
+   "spell": "sarcopenia"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она спросила меня",
+   "ipa": "щи æскт ми",
+   "spell": "she asked me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не умеет говорить \"нет\"",
+   "ipa": "щи кæнт сэй ноу",
+   "spell": "she can't say no"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ждала, когда мой сын сделает ей предложение",
+   "ipa": "щи hæд бɪн ˈwэйтɪŋ фор май сʌн ту прəˈпоуз ту hɜр",
+   "spell": "she had been waiting for my son to propose to her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у неё заболевание",
+   "ipa": "щи hæз ə кəнˈдɪшəн",
+   "spell": "she has a condition"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она давно болеет",
+   "ipa": "щи hæз бɪн сɪк фор ə лɔŋ тайм",
+   "spell": "she has been sick for a long time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она действительно страдает",
+   "ipa": "щи ˈрɪли ˈсʌфəрз",
+   "spell": "she really suffers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она поняла, для чего это",
+   "ipa": "щи ˌʌндəрˈстʊд wɑт ɪт wʌз фор",
+   "spell": "she understood what it was for"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ждала предложения",
+   "ipa": "щи ˈwэйтɪд фор ə прəˈпоузəл",
+   "spell": "she waited for a proposal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ожидала этого",
+   "ipa": "щи wʌз ɪкˈспэктɪŋ ɪт",
+   "spell": "she was expecting it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "позавчера",
+   "ipa": "ðə дэй бɪˈфор ˈйэстəрˌдэй",
+   "spell": "the day before yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "призывной возраст",
+   "ipa": "ðə дрæфт эйдж",
+   "spell": "the draft age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чем старше становишься, тем меньше мышечной массы",
+   "ipa": "ðи ˈоулдəр ю гэт, ðə лэс ˈмʌсəл мæс ю hæв",
+   "spell": "the older you get, the less muscle mass you have"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в её словах было много страха",
+   "ipa": "ðэр wʌз ə лɑт ʌв фɪр ɪн hɜр wɜрдз",
+   "spell": "there was a lot of fear in her words"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вернуться",
+   "ipa": "ту гоу бæк",
+   "spell": "to go back"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вернуться домой",
+   "ipa": "ту гоу бæк hоум",
+   "spell": "to go back home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поехать к брату",
+   "ipa": "ту гоу ту ˈвɪзəт май ˈбрʌðəр",
+   "spell": "to go to visit my brother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "укрепить спину",
+   "ipa": "ту мэйк май бæк ˈстрɔŋəр",
+   "spell": "to make my back stronger"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восстановить",
+   "ipa": "ту рɪˈстор",
+   "spell": "to restore"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "растягиваться",
+   "ipa": "ту стрэч",
+   "spell": "to stretch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "растягиваться",
+   "ipa": "ту стрэч",
+   "spell": "to stretch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страдать",
+   "ipa": "ту ˈсʌфəр",
+   "spell": "to suffer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ныть",
+   "ipa": "ту wайн",
+   "spell": "to whine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "увядать как цветок",
+   "ipa": "ту ˈwɪðəр лайк ə ˈфлауəр",
+   "spell": "to wither like a flower"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неожиданно",
+   "ipa": "ˌʌнɪкˈспэктɪдли",
+   "spell": "unexpectedly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы чувствуем свой возраст, когда болеем",
+   "ipa": "wи фил ˈауəр эйдж wэн wи ɑр сɪк",
+   "spell": "we feel our age when we are sick"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как оно выглядит?",
+   "ipa": "wɑт дʌз ɪт лʊк лайк?",
+   "spell": "what does it look like?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как выглядит кольцо?",
+   "ipa": "wɑт дʌз ðə рɪŋ лʊк лайк?",
+   "spell": "what does the ring look like?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда он не сделал предложение",
+   "ipa": "wэн hи ˈдɪдəнт прəˈпоуз",
+   "spell": "when he didn't propose"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я не нервничаю",
+   "ipa": "wэн ай æм нɑт ˈнɜрвəс",
+   "spell": "when I am not nervous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда она поедет в Польшу в следующем году",
+   "ipa": "wэн щи гоуз ту ˈпоулəнд нэкст йɪр",
+   "spell": "when she goes to Poland next year"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда они вернутся домой",
+   "ipa": "wэн ðэй кʌм бæк hоум",
+   "spell": "when they come back home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто знает, каково это?",
+   "ipa": "hу ноуз wɑт ɪт филз лайк?",
+   "spell": "who knows what it feels like?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почему они не могли написать ему раньше?",
+   "ipa": "wай ˈкʊдəнт ðэй hæв ˈрɪтəн hɪм ˈɜрлиəр?",
+   "spell": "why couldn't they have written him earlier?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты привык к Канаде",
+   "ipa": "ю гɑт юзд ту ˈкæнəдə",
+   "spell": "you got used to Canada"
+ }
+]
+}
