@@ -1,0 +1,288 @@
+{
+  "student": "Ivan P.",
+  "slug": "ip",
+  "number": 58,
+  "date": "2025-07-28",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поцілунок",
+   "ipa": "ə кис",
+   "spell": "a kiss"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "режисер",
+   "ipa": "ə ˈмуvі дəˈректəр",
+   "spell": "a movie director"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ритм",
+   "ipa": "ə ˈриðəм",
+   "spell": "a rhythm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сцена",
+   "ipa": "ə сін",
+   "spell": "a scene"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "секрет",
+   "ipa": "ə ˈсікрəт",
+   "spell": "a secret"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мовець",
+   "ipa": "ə ˈспікəр",
+   "spell": "a speaker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "майже",
+   "ipa": "ˈɔлˌмоуст",
+   "spell": "almost"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "актор",
+   "ipa": "əн ˈæктəр",
+   "spell": "an actor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будьте тихо!",
+   "ipa": "бі ˈкwайəт!",
+   "spell": "be quiet!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не влаштовуйте сцену!",
+   "ipa": "доунт мейк ə сін!",
+   "spell": "don't make a scene!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не рухайтеся",
+   "ipa": "доунт муv",
+   "spell": "don't move"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "він чудовий!",
+   "ipa": "hі из ґрейт!",
+   "spell": "he is great!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скільки ви тут живете?",
+   "ipa": "hау лɔŋ hæv ю лиvд hір?",
+   "spell": "how long have you lived here?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не пам'ятаю",
+   "ipa": "ай доунт риˈмембəр",
+   "spell": "I don't remember"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вперше приїхав до Ліннвуда майже рік тому",
+   "ipa": "ай фɜрст кейм ту ˈлинwʊд ˈɔлˌмоуст wʌн йир əˈґоу",
+   "spell": "I first came to Lynnwood almost one year ago"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вперше приїхав до Торонто у 2011",
+   "ipa": "ай фɜрст кейм ту тəˈрɑнтоу ин ˈтwенті иˈлеvəн",
+   "spell": "I first came to Toronto in twenty eleven"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я живу тут десять місяців",
+   "ipa": "ай hæv лиvд hір фор тен мʌнθс",
+   "spell": "I have lived here for ten months"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я переїхав звідси сюди",
+   "ipa": "ай муvд фрʌм ðер ту hір",
+   "spell": "I moved from there to here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я маю на увазі Ігоря",
+   "ipa": "ай рəˈфɜр ту иˈґор",
+   "spell": "I refer to Igor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я кажу \"він\" про свого сина",
+   "ipa": "ай сей \"hі\" æнд ай рəˈфɜр ту май сʌн",
+   "spell": "I say \"he\" and I refer to my son"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я кажу \"вона\" про свою дружину",
+   "ipa": "ай сей \"ші\" æнд ай рəˈфɜр ту май wайф",
+   "spell": "I say \"she\" and I refer to my wife"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я кажу \"ви\"",
+   "ipa": "ай сей \"ю\"",
+   "spell": "I say \"you\""
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "загалом",
+   "ipa": "ин ˈдженəрəл",
+   "spell": "in general"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наступна особа",
+   "ipa": "некст ˈпɜрсəн",
+   "spell": "next person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поруч зі мною",
+   "ipa": "некст ту мі",
+   "spell": "next to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прямо поруч",
+   "ipa": "райт некст ту мі",
+   "spell": "right next to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вона сидить поруч",
+   "ipa": "ші ситс некст ту мі",
+   "spell": "she sits next to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "до кого відноситься займенник?",
+   "ipa": "ðə ˈпроунаун рəˈфɜрз ту hу",
+   "spell": "the pronoun refers to who"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони жахливі",
+   "ipa": "ðей ɑр ˈɑфəл",
+   "spell": "they are awful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це ваше перше літо тут",
+   "ipa": "ðис из йʊəр фɜрст ˈсʌмəр hір",
+   "spell": "this is your first summer here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скопіювати це",
+   "ipa": "ту ˈкɑпі ит",
+   "spell": "to copy it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "посилатися на когось",
+   "ipa": "ту рəˈфɜр ту ˈсʌмˌбɑді",
+   "spell": "to refer to somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що на рахунок?",
+   "ipa": "wɑт əˈбаут?",
+   "spell": "what about?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на що ви посилаєтесь?",
+   "ipa": "wɑт ду ю рəˈфɜр ту?",
+   "spell": "what do you refer to?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ви приїхали до Ліннвуда?",
+   "ipa": "wен дид ю кʌм ту ˈлинwʊд?",
+   "spell": "when did you come to Lynnwood?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли ви вперше приїхали?",
+   "ipa": "wен дид ю фɜрст кʌм ту Lyннwooд?",
+   "spell": "when did you first come to Lynnwood?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "де помилка?",
+   "ipa": "wер из ðə мисˈтейк?",
+   "spell": "where is the mistake?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на кого ви посилаєтесь?",
+   "ipa": "hу ду ю рəˈфɜр ту?",
+   "spell": "who do you refer to?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на кого вона посилається?",
+   "ipa": "hу дʌз ші рəˈфɜр ту?",
+   "spell": "who does she refer to?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хто він?",
+   "ipa": "hу из hі?",
+   "spell": "who is he?"
+ }
+]
+}
