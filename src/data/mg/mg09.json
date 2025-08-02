@@ -1,0 +1,610 @@
+{
+  "student": "Mike G.",
+  "slug": "mg",
+  "number": 9,
+  "date": "2025-07-29",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "другой менталитет",
+   "ipa": "ə ˈдɪфəрəнт мэнˈтæлəти",
+   "spell": "a different mentality"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гриль",
+   "ipa": "ə грɪл",
+   "spell": "a grill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чуть горячее",
+   "ipa": "ə ˈлɪтəл ˈhɑтəр",
+   "spell": "a little hotter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "немного дикий",
+   "ipa": "ə ˈлɪтəл wайлд",
+   "spell": "a little wild"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "областной центр",
+   "ipa": "ə ˈриджəнəл ˈкæпəтəл",
+   "spell": "a regional capital"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "простое слово",
+   "ipa": "ə ˈсɪмпəл wɜрд",
+   "spell": "a simple word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "юбилей, годовщина",
+   "ipa": "əн ˌæнəˈвɜрсəри",
+   "spell": "an anniversary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "насколько я могу судить",
+   "ipa": "æз фɑр æз ай кæн тэл",
+   "spell": "as far as I can tell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что касается меня",
+   "ipa": "æз фор ми",
+   "spell": "as for me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чебуреки",
+   "ipa": "чибуˈрэки",
+   "spell": "chebureki"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она получила паспорт раньше тебя?",
+   "ipa": "дɪд щи гэт hɜр ˈпæˌспорт бɪˈфор ю?",
+   "spell": "did she get her passport before you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты чувствуешь то же самое?",
+   "ipa": "ду ю фил ðə сэйм?",
+   "spell": "do you feel the same?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты знаешь этот фильм?",
+   "ipa": "ду ю ноу ðɪс ˈмуви",
+   "spell": "do you know this movie"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты понимаешь?",
+   "ipa": "ду ю ˌʌндəрˈстæнд?",
+   "spell": "do you understand?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вступительные экзамены",
+   "ipa": "ˈэнтрəнс ɪгˈзæмз",
+   "spell": "entrance exams"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "испарение",
+   "ipa": "ɪˌвæпəˈрэйшəн",
+   "spell": "evaporation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё остальное",
+   "ipa": "ˈэвриˌθɪŋ элс",
+   "spell": "everything else"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "из столицы",
+   "ipa": "фрʌм ðə ˈкæпəтəл",
+   "spell": "from the capital"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шашлык на природе",
+   "ipa": "ˈгрɪлɪŋ кɪˈбɑбз ˈаутˈдорз",
+   "spell": "grilling kebabs outdoors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он говорит как носитель",
+   "ipa": "hи спикс лайк ə ˈнэйтɪв",
+   "spell": "he speaks like a native"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жарче, чем там",
+   "ipa": "ˈhɑтəр ðæн ðэр",
+   "spell": "hotter than there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как дела?",
+   "ipa": "hау hæз ɪт бɪн?",
+   "spell": "how has it been?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я испытываю ностальгию",
+   "ipa": "ай æм нɔˈстæлджɪк",
+   "spell": "I am nostalgic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу обойтись",
+   "ipa": "ай кæн гэт бай",
+   "spell": "I can get by"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не умею говорить по-английски",
+   "ipa": "ай доунт ноу hау ту спик ˈɪŋглɪш",
+   "spell": "I don't know how to speak English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я выучил это сам",
+   "ipa": "ай лɜрнд ɪт ˌмайˈсэлф",
+   "spell": "I learned it myself"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я разговариваю с сестрой",
+   "ipa": "ай тɔк wɪð май ˈсɪстəр",
+   "spell": "I talk with my sister"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я так думаю",
+   "ipa": "ай θɪŋк соу",
+   "spell": "I think so"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в восьмидесятых",
+   "ipa": "ɪн ˈнайнˈтин ˈэйтиз",
+   "spell": "in nineteen eighties"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "интеллигенция",
+   "ipa": "ɪнˌтэлəˈджэнтсиə",
+   "spell": "intelligentsia"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зашуганный",
+   "ipa": "ɪнˈтɪмɪˌдэйтɪд, кауд",
+   "spell": "intimidated, cowed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не важно",
+   "ipa": "ɪт ˈдʌзəнт ˈмæтəр",
+   "spell": "it doesn't matter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это выглядит сложным",
+   "ipa": "ɪт лʊкс ˈдɪфəкəлт",
+   "spell": "it looks difficult"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в это трудно поверить",
+   "ipa": "ɪтс hɑрд ту бɪˈлив",
+   "spell": "it's hard to believe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это так здорово!",
+   "ipa": "ɪтс соу гʊд!",
+   "spell": "it's so good!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шашлык",
+   "ipa": "кɪˈбɑб",
+   "spell": "kebab"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давайте встретимся",
+   "ipa": "лэтс гэт тəˈгэðəр",
+   "spell": "let's get together"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как кубики",
+   "ipa": "лайк блɑкс",
+   "spell": "like blocks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "многие из Торонто",
+   "ipa": "ˈмэни ɑр фрʌм тəˈрɑнтоу",
+   "spell": "many are from Toronto"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой родной город",
+   "ipa": "май hоум таун",
+   "spell": "my home town"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас с женой хорошие отношения",
+   "ipa": "май wайф æнд ай hæв ə гʊд риˈлэйшəнˌщɪп",
+   "spell": "my wife and I have a good relationship"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жена кинула клич",
+   "ipa": "май wайф пʊт аут ə кɔл",
+   "spell": "my wife put out a call"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "больше нет",
+   "ipa": "нɑт ˈэни мор",
+   "spell": "not any more"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "совсем нет",
+   "ipa": "нɑт æт ɔл",
+   "spell": "not at all"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "совсем не сложно",
+   "ipa": "нɑт hɑрд æт ɔл",
+   "spell": "not hard at all"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не очень дружелюбный",
+   "ipa": "нɑт ˈрɪли ˈфрэндли",
+   "spell": "not really friendly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ничего не меняется",
+   "ipa": "ˈнʌθɪŋ ˈчэйнджəз",
+   "spell": "nothing changes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в две недели",
+   "ipa": "wʌнс ɪн ту wикс",
+   "spell": "once in two weeks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наша тридцатая годовщина",
+   "ipa": "ˈауəр ˈθɜртиəθ ˌæнəˈвɜрсəри",
+   "spell": "our thirtieth anniversary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плов",
+   "ipa": "плɑв",
+   "spell": "plov"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "несколько дней",
+   "ipa": "ˈсэврəл дэйз",
+   "spell": "several days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у неё есть паспорт",
+   "ipa": "щи hæз ə ˈпæˌспорт",
+   "spell": "she has a passport"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где-то посередине",
+   "ipa": "ˈсʌмˌwэр ɪн ðə ˈмɪдəл",
+   "spell": "somewhere in the middle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "орфография",
+   "ipa": "ˈспэлɪŋ",
+   "spell": "spelling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё ещё близки",
+   "ipa": "стɪл клоус",
+   "spell": "still close"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "странный",
+   "ipa": "стрэйндж",
+   "spell": "strange"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гражданство",
+   "ipa": "ðə ˈсɪтɪзəнˌщɪп",
+   "spell": "the citizenship"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "казахский язык",
+   "ipa": "ðə ˈкæзæк ˈлæŋгwəдж",
+   "spell": "the Kazakh language"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они отстранённые",
+   "ipa": "ðэй ɑр əˈлуф",
+   "spell": "they are aloof"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они далёкие",
+   "ipa": "ðэй ɑр ˈдɪстəнт",
+   "spell": "they are distant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они замкнутые",
+   "ipa": "ðэй ɑр рɪˈклусɪв",
+   "spell": "they are reclusive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они пугливые",
+   "ipa": "ðэй ɑр ˈтɪмɪд",
+   "spell": "they are timid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они недружелюбные",
+   "ipa": "ðэй ɑр əнˈфрэндли",
+   "spell": "they are unfriendly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они необщительные",
+   "ipa": "ðэй ɑр ʌнˈсоушəбəл",
+   "spell": "they are unsociable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они настороженные",
+   "ipa": "ðэй ɑр ˈwэри",
+   "spell": "they are wary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они закрытые",
+   "ipa": "ðэй ɑр wɪθˈдрɔн",
+   "spell": "they are withdrawn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они готовят плов",
+   "ipa": "ðэй кʊк плɑв",
+   "spell": "they cook plov"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они просто дают это тебе",
+   "ipa": "ðэй джʌст гɪв ɪт ту ю",
+   "spell": "they just give it to you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тринадцать не русских букв",
+   "ipa": "ˈθɜрˈтин нɑн-ˈрʌшəн ˈлэтəрз",
+   "spell": "thirteen non-Russian letters"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это забавные штуки",
+   "ipa": "ðɪс ɪз ˈфʌни стʌф",
+   "spell": "this is funny stuff"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чувствовать то же самое",
+   "ipa": "ту фил ðə сэйм",
+   "spell": "to feel the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слышать",
+   "ipa": "ту hир",
+   "spell": "to hear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слушать",
+   "ipa": "ту ˈлɪсəн",
+   "spell": "to listen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смотреть",
+   "ipa": "ту лʊк",
+   "spell": "to look"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мариновать мясо",
+   "ipa": "ту ˈмэрəˌнэйт мит",
+   "spell": "to marinate meat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "говорить",
+   "ipa": "ту спик",
+   "spell": "to speak"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пар",
+   "ipa": "ˈвэйпəр",
+   "spell": "vapor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы хлебосольные",
+   "ipa": "wир ˈhɑˈспɪтəбəл",
+   "spell": "we're hospitable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это значит",
+   "ipa": "wɑт ɪт минз",
+   "spell": "what it means"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда ты это получил?",
+   "ipa": "wэн дɪд ю гэт ɪт?",
+   "spell": "when did you get it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда ты познакомился с ней?",
+   "ipa": "wэн дɪд ю мит hɜр?",
+   "spell": "when did you meet her?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где ты познакомился с ней?",
+   "ipa": "wэр дɪд ю мит hɜр?",
+   "spell": "where did you meet her?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работай безопасно!",
+   "ipa": "wɜрк сэйф!",
+   "spell": "work safe!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты не пишешь",
+   "ipa": "ю доунт райт",
+   "spell": "you don't write"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты рисуешь",
+   "ipa": "ю дрɔ",
+   "spell": "you draw"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вы (разг.)",
+   "ipa": "ю гайз",
+   "spell": "you guys"
+ }
+]
+}
