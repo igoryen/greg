@@ -1,0 +1,253 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 28,
+  "date": "2025-07-29",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спальня",
+   "ipa": "ə ˈбэˌдрум",
+   "spell": "a bedroom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автобусная остановка",
+   "ipa": "ə бʌс стɑп",
+   "spell": "a bus stop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "столовая",
+   "ipa": "ə ˈдайнɪŋ рум",
+   "spell": "a dining room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кухня",
+   "ipa": "ə ˈкɪчəн",
+   "spell": "a kitchen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "печень",
+   "ipa": "ə ˈлɪвəр",
+   "spell": "a liver"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гостиная",
+   "ipa": "ə ˈлɪвɪŋ рум",
+   "spell": "a living room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двухкомнатная квартира",
+   "ipa": "ə ту-ˈбэˌдрум əˈпɑртмəнт",
+   "spell": "a two-bedroom apartment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "около ста человек",
+   "ipa": "əˈбаут ə ˈhʌндрɪд ˈпипəл",
+   "spell": "about a hundred people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он очень привлекательный",
+   "ipa": "hиз ˈвэри гʊд-ˈлʊкɪŋ",
+   "spell": "he's very good-looking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как дела?",
+   "ipa": "hау ɑр ю?",
+   "spell": "how are you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как поживает твоя мама?",
+   "ipa": "hау ɪз йʊəр ˈмʌðəр?",
+   "spell": "how is your mother?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько комнат?",
+   "ipa": "hау ˈмэни румз?",
+   "spell": "how many rooms?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько ему лет?",
+   "ipa": "hау оулд ɪз hи?",
+   "spell": "how old is he?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "увидимся позже",
+   "ipa": "ай wɪл си ю ˈлэйтəр",
+   "spell": "I will see you later"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня всё хорошо",
+   "ipa": "айм файн",
+   "spell": "I'm fine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ижевск - оружейный город",
+   "ipa": "иˈжэфскɪз əн ɑрмз-ˌмæнйəˈфæкчəрɪŋ ˈсɪти",
+   "spell": "Izhevsk is an arms-manufacturing city"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ижевск знаменит АК-47, системами ПВО",
+   "ipa": "иˈжэфскɪз ˈфэймəс фор эй-кэй-47, эр дɪˈфэнс ˈсɪстəмз",
+   "spell": "Izhevsk is famous for AK-47, air defense systems"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поздно",
+   "ipa": "лэйт",
+   "spell": "late"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "позже",
+   "ipa": "ˈлэйтəр",
+   "spell": "later"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моему ребёнку всего два",
+   "ipa": "май чайлд ɪз ˈоунли ту",
+   "spell": "my child is only two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя племянница",
+   "ipa": "май нис",
+   "spell": "my niece"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "только пять",
+   "ipa": "ˈоунли файв",
+   "spell": "only five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "до скорого",
+   "ipa": "си ю ˈлэйтəр",
+   "spell": "see you later"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "такой известный город!",
+   "ipa": "сʌч ə ˈфэймəс ˈсɪти!",
+   "spell": "such a famous city!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это мой автобус",
+   "ipa": "ðæтс май бʌс",
+   "spell": "that's my bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правильный ответ",
+   "ipa": "ðə кəˈрэкт ˈæнсəр",
+   "spell": "the correct answer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это моя остановка",
+   "ipa": "ðɪс ɪз май бʌс стɑп",
+   "spell": "this is my bus stop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обвести ответ",
+   "ipa": "ту ˈсɜркəл ðи ˈæнсəр",
+   "spell": "to circle the answer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в каком ты классе?",
+   "ipa": "wɑт клæс ɑр ю ɪн?",
+   "spell": "what class are you in?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто он?",
+   "ipa": "hуз hи?",
+   "spell": "who's he?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с пятью учениками",
+   "ipa": "wɪð файв ˈстудəнтс",
+   "spell": "with five students"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "со мной",
+   "ipa": "wɪð ми",
+   "spell": "with me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всего с пятью учениками",
+   "ipa": "wɪð ˈоунли файв ˈстудəнтс",
+   "spell": "with only five students"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с учениками",
+   "ipa": "wɪð ˈстудəнтс",
+   "spell": "with students"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с тобой",
+   "ipa": "wɪð ю",
+   "spell": "with you"
+ }
+]
+}
