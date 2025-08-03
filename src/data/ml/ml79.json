@@ -1,0 +1,337 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 79,
+  "date": "2025-07-30",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ставка",
+   "ipa": "ə бэт",
+   "spell": "a bet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рисковый человек",
+   "ipa": "ə бɪг рɪск-ˈтэйкəр",
+   "spell": "a big risk-taker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "малиновый / алый лист",
+   "ipa": "ə ˈкрɪмзəн лиф",
+   "spell": "a crimson leaf"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обрыв",
+   "ipa": "ə ˈдрɑˌпɔф",
+   "spell": "a drop-off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хозяйственный магазин",
+   "ipa": "ə ˈhɑрˌдwэр стор",
+   "spell": "a hardware store"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мопед",
+   "ipa": "ə моупт",
+   "spell": "a moped"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пропасть",
+   "ipa": "ə ˈпрэсəпəс",
+   "spell": "a precipice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трусишка",
+   "ipa": "ə ˈскэрди-кæт",
+   "spell": "a scaredy-cat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самокат, скутер, мотороллер",
+   "ipa": "ə ˈскутəр",
+   "spell": "a scooter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "напутственная речь",
+   "ipa": "ə сэнд-ɔф спич",
+   "spell": "a send-off speech"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "позвоночник",
+   "ipa": "ə спайн",
+   "spell": "a spine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "через водопады",
+   "ipa": "əˈкрɔс ðə фɔлз",
+   "spell": "across the falls"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "аванс",
+   "ipa": "əн əдˈвæнс",
+   "spell": "an advance "
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сразу",
+   "ipa": "æт wʌнс",
+   "spell": "at once"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прыжки с канатом, \"тарзанка\"",
+   "ipa": "ˈбʌнджи ˈджʌмпɪŋ",
+   "spell": "bungee jumping"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обесцвеченные волосы",
+   "ipa": "дɪˈскʌлəрд hэр",
+   "spell": "discolored hair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "для разнообразия",
+   "ipa": "фор ə чэйндж",
+   "spell": "for a change"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дайте мне несколько советов",
+   "ipa": "гɪв ми ə фъю тɪпс",
+   "spell": "give me a few tips"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жуткие, чернушные подробности",
+   "ipa": "ˈгрусəм дɪˈтэйлз",
+   "spell": "gruesome details"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "краска для волос",
+   "ipa": "hэр дай",
+   "spell": "hair dye"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ореховый, карий цвет",
+   "ipa": "ˈhэйзəл ˈкʌлəр",
+   "spell": "hazel color"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он купил себе моторную лодку",
+   "ipa": "hи бɑт hɪмˈсэлф ə ˈмоутəрˌбоут",
+   "spell": "he bought himself a motorboat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он позвонил в банк",
+   "ipa": "hи кɔлд ðə бæŋк",
+   "spell": "he called the bank"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я услышала это по радио",
+   "ipa": "ай hɜрд ɪт ɑн ðə ˈрэйдиˌоу",
+   "spell": "I heard it on the radio"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в две тысячи двадцать четвёртом году",
+   "ipa": "ɪн ðə йɪр ˈтwэнти ˈтwэнти-фор",
+   "spell": "in the year twenty twenty-four"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это истощает вашу энергию",
+   "ipa": "ɪт дрэйнз йʊəр ˈэнəрджи",
+   "spell": "it drains your energy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это изнурительно",
+   "ipa": "ɪт ɪз ˈэнəрджи-ˈдрэйнɪŋ",
+   "spell": "it is energy-draining"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это просрочено",
+   "ipa": "ɪт ɪз пæст ɪтс сэл-бай дэйт",
+   "spell": "it is past its sell-by date"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это было даже не смешно",
+   "ipa": "ɪт ˈwɑзəнт ˈивɪн ˈфʌни",
+   "spell": "it wasn't even funny"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где угодно",
+   "ipa": "джʌст ˈэниˌwэр",
+   "spell": "just anywhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой паспорт истекает на следующей неделе",
+   "ipa": "май ˈпæˌспорт ɪкˈспайəрз нэкст wик",
+   "spell": "my passport expires next week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "невозвратный, невозмещаемый",
+   "ipa": "нɑнрɪˈфʌндəбəл",
+   "spell": "non-refundable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "напутствие",
+   "ipa": "ˈпɑртɪŋ æдˈвайс",
+   "spell": "parting advice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "педантичный в пунктуации",
+   "ipa": "пəˈдæнтɪк əˈбаут ˌпʌŋкчуˈэйшəн",
+   "spell": "pedantic about punctuation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "включи первую передачу",
+   "ipa": "пʊт ɪт ɪн фɜрст гɪр",
+   "spell": "put it in first gear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оставайтесь в освещённых местах ночью",
+   "ipa": "стэй ɪн wэл-лɪт ˈэриəз æт найт",
+   "spell": "stay in well-lit areas at night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "время летит",
+   "ipa": "тайм флайз",
+   "spell": "time flies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "переключать передачу",
+   "ipa": "ту чэйндж гɪр",
+   "spell": "to change gear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красить волосы",
+   "ipa": "ту дай май hэр",
+   "spell": "to dye my hair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ехать автостопом, на попутках",
+   "ipa": "ту ˈhɪчˌhайк",
+   "spell": "to hitchhike"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "терять деньги из-за компьютерного мошенничества",
+   "ipa": "ту луз ˈмʌни фрʌм кəмˈпъютəр фрɔд",
+   "spell": "to lose money from computer fraud"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заключить пари",
+   "ipa": "ту мэйк ə бэт",
+   "spell": "to make a bet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "играть по правилам",
+   "ipa": "ту плэй бай ðə рулз",
+   "spell": "to play by the rules"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прокладывать кабель",
+   "ipa": "ту рʌн ə ˈкэйбəл",
+   "spell": "to run a cable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "продавать со скидкой",
+   "ipa": "ту сэл æт ə дɪˈскаунт",
+   "spell": "to sell at a discount"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "форель",
+   "ipa": "траут",
+   "spell": "trout"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "две половины",
+   "ipa": "ту hæвз",
+   "spell": "two halves"
+ }
+]
+}
