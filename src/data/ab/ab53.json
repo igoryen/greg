@@ -1,0 +1,414 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "number": 53,
+  "date": "2025-07-31",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мультфильм",
+      "ipa": "ə кɑрˈтун",
+      "spell": "a cartoon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мир фантазий, сказочный, выдуманный мир",
+      "ipa": "ə ˈфæнтəси wɜрлд",
+      "spell": "a fantasy world"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жанр кинематографа",
+      "ipa": "ə ˈжɑнрə ʌв ˈфɪлˌмэйкɪŋ",
+      "spell": "a genre of film-making"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приятный сюрприз",
+      "ipa": "ə ˈплэзəнт сəрˈпрайз",
+      "spell": "a pleasant surprise"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "научно-фантастический фильм",
+      "ipa": "ə сай-фай ˈмуви",
+      "spell": "a sci-fi movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фантастический фильм",
+      "ipa": "ə сай-фай ˈмуви",
+      "spell": "a sci-fi movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "типичный вестерн",
+      "ipa": "ə ˈтɪпəкəл ˈwэстəрн",
+      "spell": "a typical western"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "художественный вымысел, художественное произведение",
+      "ipa": "ə wɜрк ʌв ˈфɪкшəн",
+      "spell": "a work of fiction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "остросюжетный фильм",
+      "ipa": "əн ˈæкшəн ˈмуви",
+      "spell": "an action movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "анимационный фильм",
+      "ipa": "əн ˈæнəˌмэйтɪд ˈмуви",
+      "spell": "an animated movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яблоки и апельсины (разные вещи)",
+      "ipa": "ˈæпəлз æнд ˈорəнджəз",
+      "spell": "apples and oranges"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можно мне это?",
+      "ipa": "кæн ай hæв ðæт?",
+      "spell": "can I have that?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "компьютерная анимация",
+      "ipa": "кəмˈпъютəр ˌæнəˈмэйшəн",
+      "spell": "computer animation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты видел \"Форреста Гампа\"?",
+      "ipa": "дɪд ю си ˈфорəст гʌмп?",
+      "spell": "did you see Forest Gump?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "посчитай! сам прикинь",
+      "ipa": "ду ðə мæθ!",
+      "spell": "do the math!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты видел этот фильм?",
+      "ipa": "hæв ю син ðɪс ˈмуви?",
+      "spell": "have you seen this movie?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как ты добираешься до работы?",
+      "ipa": "hау дɪд ю гэт ту wɜрк?",
+      "spell": "how did you get to work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как ты раньше добирался до работы?",
+      "ipa": "hау дɪд ю юз ту гэт ту wɜрк?",
+      "spell": "how did you use to get to work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как ты добираешься до работы?",
+      "ipa": "hау ду ю гэт ту wɜрк?",
+      "spell": "how do you get to work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько длится один эпизод?",
+      "ipa": "hау лɔŋ ɪз wʌн ˈэпəˌсоуд?",
+      "spell": "how long is one episode?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как ты доберёшься до работы?",
+      "ipa": "hау wɪл ю гэт ту wɜрк?",
+      "spell": "how will you get to work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я уже знаю",
+      "ipa": "ай ɔлˈрэди ноу",
+      "spell": "I already know"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я доехала туда на машине",
+      "ipa": "ай дроув ðэр",
+      "spell": "I drove there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чувствую себя живой",
+      "ipa": "ай фил əˈлайв",
+      "spell": "I feel alive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ненавижу научную фантастику",
+      "ipa": "ай hэйт сай-фай",
+      "spell": "I hate sci-fi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я никогда не ездил туда на машине",
+      "ipa": "ай ˈнэвəр дроув ðэр",
+      "spell": "I never drove there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я проходила мимо твоего дома вчера",
+      "ipa": "ай пæст бай йʊəр hаус ˈйэстəрˌдэй",
+      "spell": "I passed by your house yesterday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я прошла мимо",
+      "ipa": "ай wɔкт бай",
+      "spell": "I walked by"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я прошла мимо",
+      "ipa": "ай wɔкт пæст",
+      "spell": "I walked past"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я поехала туда на поезде",
+      "ipa": "ай wэнт ðэр бай трэйн",
+      "spell": "I went there by train"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу комбо номер три",
+      "ipa": "ай wʊд лайк ˈкɑмˌбоу ˈнʌмбəр θри",
+      "spell": "I would like combo number three"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "разве не жарко?",
+      "ipa": "ˈɪзəнт ɪт hɑт?",
+      "spell": "isn't it hot?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "иногда идёт дождь",
+      "ipa": "ɪт рэйнз сəмˈтаймз",
+      "spell": "it rains sometimes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это мне подойдёт",
+      "ipa": "ɪт wɪл wɜрк фор ми",
+      "spell": "it will work for me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это для меня загадка",
+      "ipa": "ɪтс ə ˈмɪстəри ту ми",
+      "spell": "it's a mystery to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это отвратительно",
+      "ipa": "ɪтс дɪсˈгʌстɪŋ",
+      "spell": "it's disgusting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не вариант",
+      "ipa": "ɪтс нɑт əн ˈɑпшəн",
+      "spell": "it's not an option"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пора заканчивать",
+      "ipa": "ɪтс тайм ту энд ɪт",
+      "spell": "it's time to end it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "больше нет",
+      "ipa": "нɑт ˈэни мор",
+      "spell": "not any more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скорее всего нет",
+      "ipa": "ˈпрɑбəбли нɑт",
+      "spell": "probably not"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дождь лучше, чем жара",
+      "ipa": "рэйн ɪз ˈбэтəр ðæн ðə hит",
+      "spell": "rain is better than the heat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "научная фантастика",
+      "ipa": "ˈсайəнс ˈфɪкшəн",
+      "spell": "science fiction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "научно-фантастический фильм",
+      "ipa": "ˈсайəнс ˈфɪкшəн ˈмуви",
+      "spell": "science fiction movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "раз уж я не буду ухаживать за женщинами",
+      "ipa": "сɪнс ай æм нɑт ˈгɑнə wу ˈwɪмəн",
+      "spell": "since I am not gonna woo women"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жара",
+      "ipa": "ðə hит",
+      "spell": "the heat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "место, где ты живёшь",
+      "ipa": "ðə плэйс wэр ю лɪв",
+      "spell": "the place where you live"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они потрясающие",
+      "ipa": "ðэй ɑр əˈмэйзɪŋ",
+      "spell": "they are amazing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отключить сенсорный экран",
+      "ipa": "ту дɪˈсэйбəл ðə тʌч скрин",
+      "spell": "to disable the touch screen"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сочетаться",
+      "ipa": "ту мæч",
+      "spell": "to match"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подобрать туфли к платью",
+      "ipa": "ту мæч ðə щуз ту ðə дрэс",
+      "spell": "to match the shoes to the dress"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ухаживать за женщинами",
+      "ipa": "ту wу ˈwɪмəн",
+      "spell": "to woo women"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двадцать минут спустя",
+      "ipa": "ˈтwэнти ˈмɪнəтс ˈлэйтəр",
+      "spell": "twenty minutes later"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прошло двадцать минут",
+      "ipa": "ˈтwэнти ˈмɪнəтс пæст",
+      "spell": "twenty minutes passed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у нас никогда не бывает дождя",
+      "ipa": "wи ˈнэвəр hæв рэйн",
+      "spell": "we never have rain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что бы ты хотел?",
+      "ipa": "wɑт wʊд ю лайк?",
+      "spell": "what would you like?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какая у вас погода?",
+      "ipa": "wʌтс ðə ˈwэðəр лайк wэр ю лɪв?",
+      "spell": "what's the weather like where you live?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда ты в последний раз был в Сочи?",
+      "ipa": "wэн дɪд ю лæст гоу ту ˈсоучи?",
+      "spell": "when did you last go to Sochi?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хочешь стакан воды?",
+      "ipa": "wʊд ю лайк ə кʌп ʌв ˈwɔтəр?",
+      "spell": "would you like a cup of water?"
+    }
+  ]
+}
