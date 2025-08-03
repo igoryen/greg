@@ -1,0 +1,239 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 80,
+  "date": "2025-08-01",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заседание совета директоров",
+   "ipa": "ə борд ˈмитɪŋ",
+   "spell": "a board meeting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "совет, рекоммендация",
+   "ipa": "ə ˈкаунсəл",
+   "spell": "a counsel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "культ образования",
+   "ipa": "ə кʌлт ʌв ˌэджəˈкэйшəн",
+   "spell": "a cult of education"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "источник финансовой поддержки",
+   "ipa": "ə сорс ʌв фəˈнæншəл сəˈпорт",
+   "spell": "a source of financial support"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в таком юном возрасте",
+   "ipa": "æт сʌч ə йʌŋ эйдж",
+   "spell": "at such a young age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в возрасте восьми лет",
+   "ipa": "æт ðи эйдж ʌв эйт",
+   "spell": "at the age of eight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у подножия холмов",
+   "ipa": "æт ðə фʊт ʌв ðə hɪлз",
+   "spell": "at the foot of the hills"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в этом нежном возрасте",
+   "ipa": "æт ðɪс ˈтэндəр эйдж",
+   "spell": "at this tender age"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трудоустройство и жильё",
+   "ipa": "эмˈплоймəнт æнд ˈhаузɪŋ",
+   "spell": "employment and housing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "государственные деньги",
+   "ipa": "ˈгʌвəрмəнт ˈмʌни",
+   "spell": "government money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "едва",
+   "ipa": "ˈhɑрдли",
+   "spell": "hardly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он еврей",
+   "ipa": "hи ɪз ˈджуɪш",
+   "spell": "he is Jewish"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он никогда не выходил без сэндвича",
+   "ipa": "hи wʊд ˈнэвəр гоу ˈаутˈсайд wɪˈθаут ə ˈсæндwɪч",
+   "spell": "he would never go outside without a sandwich"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вижу, ты много читаешь по-английски!",
+   "ipa": "ай кæн тэл ю ɑр ˈрэдɪŋ ə лɑт ɪн ˈɪŋглɪш!",
+   "spell": "I can tell you are reading a lot in English!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я скучаю по бабушке",
+   "ipa": "ай мɪс май ˈгрæни",
+   "spell": "I miss my granny"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никогда этого не осознавала",
+   "ipa": "ай ˈнэвəр ˈриəˌлайзд ðæт",
+   "spell": "I never realized that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я усердно работаю",
+   "ipa": "ай wɜрк hɑрд",
+   "spell": "I work hard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много евреев жило в нашем районе",
+   "ipa": "ˈмэни ˈджуɪш ˈпипəл лɪвд ɪн ˈауəр ˈэриə",
+   "spell": "many Jewish people lived in our area"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "взаимопомощь",
+   "ipa": "ˈмъючуəл hэлп",
+   "spell": "mutual help"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "взаимная поддержка",
+   "ipa": "ˈмъючуəл сəˈпорт",
+   "spell": "mutual support"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "другие евреи",
+   "ipa": "ˈʌðəр ˈджуɪш ˈпипəл",
+   "spell": "other Jewish people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "простите за каламбур",
+   "ipa": "ˈпɑрдəн ðə пʌн",
+   "spell": "pardon the pun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она его перебила",
+   "ipa": "щи ˌɪнтəˈрʌптɪд hɪм",
+   "spell": "she interrupted him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она много общается, налаживая связи",
+   "ipa": "щи ˈнэˌтwɜркс ə лɑт",
+   "spell": "she networks a lot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тонкая игра слов",
+   "ipa": "ˈсʌтəл wɜрд-плэй",
+   "spell": "subtle word-play"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выносить мусор",
+   "ipa": "тэйк ðə ˈгɑрбɪдж аут",
+   "spell": "take the garbage out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "немцы так и не получили это",
+   "ipa": "ðə ˈджɜрмəнз ˈнэвəр гɑт ɪт",
+   "spell": "the Germans never got it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работа едва началась",
+   "ipa": "ðə wɜрк hæз ˈhɑрдли бɪˈгʌн",
+   "spell": "the work has hardly begun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идишский акцент",
+   "ipa": "ðə ˈйɪдɪш ˈæксэнт",
+   "spell": "the Yiddish accent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они делали что хотели",
+   "ipa": "ðэй ду ˌwʌˈтэвəр ðэй лайкт",
+   "spell": "they do whatever they liked"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они усердно работают",
+   "ipa": "ðэй wɜрк hɑрд",
+   "spell": "they work hard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предусматривать непредвиденные обстоятельства",
+   "ipa": "ту əˈлау фор кəнˈтɪнджəнсиз",
+   "spell": "to allow for contingencies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "получить шанс",
+   "ipa": "ту гэт ə чæнс ту",
+   "spell": "to get a chance to"
+ }
+]
+}
