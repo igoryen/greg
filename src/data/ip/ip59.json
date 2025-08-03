@@ -1,0 +1,428 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 59,
+  "date": "2025-07-30",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "відома вулиця",
+      "ipa": "ə ˈфеймəс стріт",
+      "spell": "a famous street"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "група солдатів",
+      "ipa": "ə ґруп ʌv ˈсоулджəрз",
+      "spell": "a group of soldiers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закон",
+      "ipa": "ə лɔ",
+      "spell": "a law"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "секунда",
+      "ipa": "ə ˈсекəнд",
+      "spell": "a second"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "джерело енергії",
+      "ipa": "ə сорс ʌv ˈпауəр",
+      "spell": "a source of power"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "особливий день",
+      "ipa": "ə ˈспешəл дей",
+      "spell": "a special day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слово подяки",
+      "ipa": "ə wɜрд ʌv θæŋкс",
+      "spell": "a word of thanks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "порядковий номер",
+      "ipa": "əн ˈoрдəнəл ˈнʌмбəр",
+      "spell": "an ordinal number"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грудень",
+      "ipa": "диˈсембəр",
+      "spell": "December"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "залежність",
+      "ipa": "диˈпендəнс",
+      "spell": "dependence"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти дійсно хочеш знати?",
+      "ipa": "ду ю ˈрилі wɑнт ту ноу?",
+      "spell": "do you really want to know?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "все в порядку",
+      "ipa": "ˈеvріˌθиŋ из ин ˈордəр",
+      "spell": "everything is in order"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "П'ята авеню",
+      "ipa": "фифθ ˈævəˌну",
+      "spell": "Fifth Avenue"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "четвертий",
+      "ipa": "форθ",
+      "spell": "fourth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надання інформації",
+      "ipa": "ˈґиvиŋ ˌинфəрˈмейшəн",
+      "spell": "giving information"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Хелловін",
+      "ipa": "ˌhæлəˈwін",
+      "spell": "Halloween"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене все добре",
+      "ipa": "айм файн",
+      "spell": "I'm fine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "незалежність",
+      "ipa": "ˌиндиˈпендəнс",
+      "spell": "independence"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "майже серпень",
+      "ipa": "ит из ˈɔлˌмоуст ˈɑґəст",
+      "spell": "it is almost August"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це називається П'ята авеню",
+      "ipa": "ит из кɔлд фифθ ˈævəˌну",
+      "spell": "it is called Fifth Avenue"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це в липні",
+      "ipa": "ит из ин ˌджуˈлай",
+      "spell": "it is in July"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зараз липень",
+      "ipa": "ит из ˌджуˈлай",
+      "spell": "it is July"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зараз літо",
+      "ipa": "ит из ˈсʌмəр",
+      "spell": "it is summer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це жарт",
+      "ipa": "итс ə джоук",
+      "spell": "it's a joke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тут вперше",
+      "ipa": "итс май фɜрст тайм hір",
+      "spell": "it's my first time here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тут вдруге",
+      "ipa": "итс май ˈсекəнд тайм hір",
+      "spell": "it's my second time here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тут втретє",
+      "ipa": "итс май θɜрд тайм hір",
+      "spell": "it's my third time here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "червень",
+      "ipa": "джун",
+      "spell": "June"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моє ім'я",
+      "ipa": "май фɜрст нейм",
+      "spell": "my first name"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "листопад",
+      "ipa": "ноуˈvембəр",
+      "spell": "November"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жовтень",
+      "ipa": "ɑкˈтоубəр",
+      "spell": "October"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на День Незалежності",
+      "ipa": "ɑн ˌиндиˈпендəнс дей",
+      "spell": "on Independence Day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на Новий рік",
+      "ipa": "ɑн ну йирз дей",
+      "spell": "on New Year's Day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лише три літери",
+      "ipa": "ˈоунлі θрі ˈлетəрз",
+      "spell": "only three letters"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вересень",
+      "ipa": "сепˈтембəр",
+      "spell": "September"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона спекла індичку",
+      "ipa": "ші бейкт ə ˈтɜркі",
+      "spell": "she baked a turkey"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зоряні війни",
+      "ipa": "стɑр wорз",
+      "spell": "star wars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "літо майже закінчилося",
+      "ipa": "ˈсʌмəр из ˈɔлˌмоуст ˈоуvəр",
+      "spell": "summer is almost over"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це залежить від місця",
+      "ipa": "ðæт диˈпендз ɑн лоуˈкейшəн",
+      "spell": "that depends on location"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "протилежність до 'чорного'",
+      "ipa": "ðі ˈɑпəзəт ʌv блæк",
+      "spell": "the opposite of 'black'"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "третій шлюб",
+      "ipa": "ðə θɜрд ˈмеридж",
+      "spell": "the third marriage"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "третя какашка",
+      "ipa": "ðə θɜрд тɜрд",
+      "spell": "the third turd"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "собача какашка",
+      "ipa": "ə дɔґ тɜрд",
+      "spell": "a dog turd"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "верхній ряд клавіатури",
+      "ipa": "ðə тɑп роу ʌv ə ˈкіˌборд",
+      "spell": "the top row of a keyboard"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "використання сили",
+      "ipa": "ðə юс ʌv форс",
+      "spell": "the use of force"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у році дванадцять місяців",
+      "ipa": "ðер ɑр тwелv мʌнθс ин ə йир",
+      "spell": "there are twelve months in a year"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у липні свято",
+      "ipa": "ðер из ə ˈhɑлəˌдей ин ˌджуˈлай",
+      "spell": "there is a holiday in July"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони починаються на літеру J",
+      "ipa": "ðей биˈґин wиð ðə ˈлетəр джей",
+      "spell": "they begin with the letter J"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони закінчуються на -er",
+      "ipa": "ðей енд ин -əр",
+      "spell": "they end in -er"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "час летить",
+      "ipa": "тайм флайз",
+      "spell": "time flies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "підібрати особливі дні до місяців",
+      "ipa": "ту мæч ðə ˈспешəл дейз ту мʌнθс",
+      "spell": "to match the special days to months"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пройти тест",
+      "ipa": "ту тейк ə кwиз",
+      "spell": "to take a quiz"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "працювати як божевільний",
+      "ipa": "ту wɜрк лайк ˈкрейзі",
+      "spell": "to work like crazy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Валентин",
+      "ipa": "ˈvæлəнˌтайн",
+      "spell": "Valentine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми спекли індичку",
+      "ipa": "wі бейк ə ˈтɜркі",
+      "spell": "we bake a turkey"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що передує липню?",
+      "ipa": "wɑт кʌмз биˈфор ˌджуˈлай?",
+      "spell": "what comes before July?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "який зараз місяць?",
+      "ipa": "wɑт мʌнθ из ит нау?",
+      "spell": "what month is it now?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коли твій обідній перерва?",
+      "ipa": "wен из йʊəр лʌнч тайм?",
+      "spell": "when is your lunch time?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яке місто?",
+      "ipa": "wич ˈситі?",
+      "spell": "which city?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "який місяць?",
+      "ipa": "wич мʌнθ?",
+      "spell": "which month?"
+    }
+  ]
+}
