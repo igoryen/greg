@@ -1,0 +1,449 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "number": 31,
+  "date": "2025-07-31",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "изменчивая погода",
+   "ipa": "ə ˈʧeɪnʤəbəl ˈwɛðər",
+   "spell": "a changeable weather"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шахматная доска",
+   "ipa": "ə ʧɛs bɔrd",
+   "spell": "a chess board"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пугливый ребенок",
+   "ipa": "ə ˈfɪrfəl ʧaɪld",
+   "spell": "a fearful child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "домашний ребенок",
+   "ipa": "ə ˈhoʊmˌbɑdi ʧaɪld",
+   "spell": "a homebody child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комнатное растение",
+   "ipa": "ə haʊs plænt",
+   "spell": "a house plant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "большая семья",
+   "ipa": "ə lɑrʤ ˈfæməli",
+   "spell": "a large family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крупное изменение",
+   "ipa": "ə ˈmeɪʤər ʧeɪnʤ",
+   "spell": "a major change"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тележка для покупок",
+   "ipa": "ə ˈʃɑpɪŋ kɑrt",
+   "spell": "a shopping cart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "домашний ребенок",
+   "ipa": "ə steɪ-æt-hoʊm ʧaɪld",
+   "spell": "a stay-at-home child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "паникёр",
+   "ipa": "ə ˈwɜriwort",
+   "spell": "a worrywart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молодой мужчина",
+   "ipa": "ə ˈjʌŋɡər mæn",
+   "spell": "a younger man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молодая мать",
+   "ipa": "ə ˈjʌŋɡər ˈmʌðər",
+   "spell": "a younger mother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молодой человек",
+   "ipa": "ə ˈjʌŋstər",
+   "spell": "a youngster"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "активное времяпрепровождение",
+   "ipa": "ən ˈæktɪv ˈpæˌstaɪm",
+   "spell": "an active pastime"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старший брат",
+   "ipa": "ən ˈɛldər ˈbrʌðər (BrE)",
+   "spell": "an elder brother (BrE)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старший сын",
+   "ipa": "ən ˈɛldər sʌn (BrE)",
+   "spell": "an elder son (BrE)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожилой человек",
+   "ipa": "ən ˈɛldərli ˈpɜrsən",
+   "spell": "an elderly person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "впечатлительный ребенок",
+   "ipa": "ən ɪmˈprɛʃənəbəl kɪd",
+   "spell": "an impressionable kid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожилой взрослый",
+   "ipa": "ən ˈoʊldər əˈdʌlt",
+   "spell": "an older adult"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в детстве я много играл",
+   "ipa": "æz ə ʧaɪld aɪ pleɪd ə lɑt",
+   "spell": "as a child I played a lot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дети разного возраста",
+   "ipa": "ˈʧɪldrən ʌv ˈdɪfərənt ˈeɪʤəz",
+   "spell": "children of different ages"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все знали своих соседей",
+   "ipa": "ˈɛvriˌwʌn nu ðɛr ˈneɪbərz",
+   "spell": "everyone knew their neighbors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с пяти до десяти лет",
+   "ipa": "frʌm ði eɪʤ ʌv əˈbaʊt faɪv tɪl aɪ wʌz tɛn",
+   "spell": "from the age of about five till I was ten"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как дела?",
+   "ipa": "haʊ hæv ju bɪn?",
+   "spell": "how have you been?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я очень осторожен",
+   "ipa": "aɪ æm ˈvɛri ˈwɛri",
+   "spell": "I am very wary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу представить, чтобы доверить своего ребенка кому-то сегодня",
+   "ipa": "aɪ kænt ɪˈmæʤən ˈtrʌstɪŋ ˈɛniˌwʌn tu kɛr fɔr maɪ ʧaɪld ˈnaʊəˌdeɪz",
+   "spell": "I can’t imagine trusting anyone to care for my child nowadays"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я с нетерпением ждал выходных",
+   "ipa": "aɪ kʊd ˈhɑrdli weɪt fɔr ɪt tu bi maɪ ˈwiˌkɛnd",
+   "spell": "I could hardly wait for it to be my weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаю, почему это случилось",
+   "ipa": "aɪ doʊnt noʊ waɪ ɪt ˈhæpənd",
+   "spell": "I don’t know why it happened"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я был ребенком",
+   "ipa": "aɪ wʌz ə kɪd",
+   "spell": "I was a kid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в полной изоляции",
+   "ipa": "ɪn kəmˈplit ˌaɪsəˈleɪʃən",
+   "spell": "in complete isolation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в начале семидесятых",
+   "ipa": "ɪn ði ˈɜrli ˈsɛvəntiz",
+   "spell": "in the early seventies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это еще больше увеличивает его",
+   "ipa": "ɪt ˈfɜrðər ɪnˈkrisəz ɪt",
+   "spell": "it further increases it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дольше, чем ожидалось",
+   "ipa": "ˈlɔŋɡər ðæn ɪkˈspɛktɪd",
+   "spell": "longer than expected"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ошибки, которые мы совершили",
+   "ipa": "mɪsˈteɪks wi meɪd",
+   "spell": "mistakes we made"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не разрешалось этого делать",
+   "ipa": "nɑt əˈlaʊd tu du ðæt",
+   "spell": "not allowed to do that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не так много игрушек",
+   "ipa": "nɑt soʊ ˈmɛni tɔɪz",
+   "spell": "not so many toys"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не так широко распространено",
+   "ipa": "nɑt soʊ ˈwaɪdˈsprɛd",
+   "spell": "not so widespread"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожилые люди",
+   "ipa": "ˈoʊldər ˈpipəl",
+   "spell": "older people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на скамейках",
+   "ipa": "ɑn ðə ˈbɛnʧɪz",
+   "spell": "on the benches"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по своим делам",
+   "ipa": "ɑn ðɛr oʊn əˈfɛrz",
+   "spell": "on their own affairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "особо опасное приключение",
+   "ipa": "pərˈtɪkjələrli ˈhæzərdəs ædˈvɛnʧər",
+   "spell": "particularly hazardous adventure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "политики",
+   "ipa": "ˌpɑləˈtɪʃənz",
+   "spell": "politicians"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "психосоматический",
+   "ipa": "saɪˌkoʊsəˈmætɪk",
+   "spell": "psychosomatic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "испуганный",
+   "ipa": "skɛrd",
+   "spell": "scared"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "строгие выговоры",
+   "ipa": "səˈvɪr ˈrɛprəˌmændz",
+   "spell": "severe reprimands"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ребенок, который сидит дома",
+   "ipa": "steɪ æt hoʊm ʧaɪld",
+   "spell": "stay at home child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "виды игрушек",
+   "ipa": "ðə kaɪndz ʌv tɔɪz",
+   "spell": "the kinds of toys"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ловушка ностальгии",
+   "ipa": "ðə træp ʌv nɔˈstælʤə",
+   "spell": "the trap of nostalgia"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "было больше взаимопомощи",
+   "ipa": "ðɛr wʌz mɔr ˈmjuʧuəl hɛlp",
+   "spell": "there was more mutual help"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они сделали нас робкими",
+   "ipa": "ðeɪ meɪd ʌs ˈtɪmɪd",
+   "spell": "they made us timid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они играют на улице",
+   "ipa": "ðeɪ pleɪ ˈaʊtˈdɔrz",
+   "spell": "they play outdoors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они рассказывают о своем детстве",
+   "ipa": "ðeɪ tɔk əˈbaʊt ðɛr ˈʧaɪldˌhʊdz",
+   "spell": "they talk about their childhoods"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у них было хорошее настроение",
+   "ipa": "ðeɪ wɜr ɪn ə ɡʊd mud",
+   "spell": "they were in a good mood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ходить в садик",
+   "ipa": "tu ɡoʊ tu ˈkɪndərˌɡɑrtən",
+   "spell": "to go to kindergarten"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "придумать новую игру",
+   "ipa": "tu θɪŋk ʌp ə nu ɡeɪm",
+   "spell": "to think up a new game"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "игрушки у детей",
+   "ipa": "tɔɪz ˈʧɪldrən hæv",
+   "spell": "toys children have"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы сделали ~ мы состыковываемся",
+   "ipa": "wi meɪd ~ wi meɪt",
+   "spell": "we made ~ we mate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что еще?",
+   "ipa": "wɑt ɛls?",
+   "spell": "what else?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я был ребенком",
+   "ipa": "wɛn aɪ wʌz ə kɪd",
+   "spell": "when I was a kid"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я был маленьким",
+   "ipa": "wɛn aɪ wʌz smɔl",
+   "spell": "when I was small"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пока она делала что-то еще",
+   "ipa": "waɪl ʃi dɪd ˈsʌmθɪŋ ɛls",
+   "spell": "while she did something else"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вы на одной волне",
+   "ipa": "ju ɑr ɑn ðə seɪm peɪʤ",
+   "spell": "you are on the same page"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "за все приходилось платить",
+   "ipa": "ju hæd tu peɪ fɔr ˈɛvriˌθɪŋ",
+   "spell": "you had to pay for everything"
+ }
+]
+}
