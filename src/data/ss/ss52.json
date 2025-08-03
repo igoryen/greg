@@ -1,0 +1,477 @@
+{
+  "student": "Svetlana S.",
+  "slug": "ss",
+  "number": 52,
+  "date": "2025-08-01",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "улей",
+      "ipa": "ə ˈбиˌhайв",
+      "spell": "a beehive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стеклянная банка",
+      "ipa": "ə глæс джɑр",
+      "spell": "a glass jar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "банка",
+      "ipa": "ə джɑр",
+      "spell": "a jar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дом престарелых",
+      "ipa": "ə ˈнɜрсɪŋ hоум",
+      "spell": "a nursing home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "свадьба",
+      "ipa": "ə ˈwэдɪŋ",
+      "spell": "a wedding"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "босые ноги",
+      "ipa": "бэр фит",
+      "spell": "bare feet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Билл заменял Ларри, который был на больничном",
+      "ipa": "бɪл ˈсʌбстəˌтутəд фор ˈлэри, hу wʌз ɔф сɪк",
+      "spell": "Bill substituted for Larry, who was off sick"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "консервирование",
+      "ipa": "ˈкæнɪŋ",
+      "spell": "canning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "икра",
+      "ipa": "ˈкæвиˌɑр",
+      "spell": "caviar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кабачки, куржетки",
+      "ipa": "кʊəрˈжэт",
+      "spell": "courgettes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "преступность и коррупция представляют серьезную угрозу для общества",
+      "ipa": "крайм æнд кəˈрʌпшəн ˈкɑнстəˌтутс ə ˈмэйджəр θрэт ту сəˈсайəти",
+      "spell": "crime and corruption constitutes a major threat to society"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "баклажан, синенький",
+      "ipa": "ˈэгˌплæнт",
+      "spell": "eggplant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фермерское молоко",
+      "ipa": "ˈфɑрмəрз мɪлк",
+      "spell": "farmer's milk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него были ульи",
+      "ipa": "hи hæд ˈбиˌhайвз",
+      "spell": "he had beehives"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он меня слушал",
+      "ipa": "hи ˈлɪсəнд ту ми",
+      "spell": "he listened to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он был пчеловодом",
+      "ipa": "hи wʌз ə би ˈкипəр",
+      "spell": "he was a bee keeper"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "домашняя еда",
+      "ipa": "hоум-кʊкт фуд",
+      "spell": "home-cooked food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хрен",
+      "ipa": "ˈhорсˌрæдɪш",
+      "spell": "horseradish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я почти успела",
+      "ipa": "ай ˈɔлˌмоуст мэйд ɪт",
+      "spell": "I almost made it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я всегда пью кофе",
+      "ipa": "ай ˈɔлˌwэйз дрɪŋк ˈкɑфи",
+      "spell": "I always drink coffee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ела пироги вместо хлеба",
+      "ipa": "ай эйт пайз ɪнˈстэд ʌв брэд",
+      "spell": "I ate pies instead of bread"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ела это постоянно",
+      "ipa": "ай эйт ðæт ˈкɑнстəнтли",
+      "spell": "I ate that constantly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я едва успела",
+      "ipa": "ай ˈбэрли мэйд ɪт",
+      "spell": "I barely made it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я успела на автобус",
+      "ipa": "ай кɑт ðə бʌс",
+      "spell": "I caught the bus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не хочется готовить",
+      "ipa": "ай доунт фил лайк ˈкʊкɪŋ",
+      "spell": "I don't feel like cooking"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не хочется этого делать",
+      "ipa": "ай доунт фил лайк ˈдуɪŋ ðæт",
+      "spell": "I don't feel like doing that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не хочется есть",
+      "ipa": "ай доунт фил лайк ˈитɪŋ",
+      "spell": "I don't feel like eating"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я заполнила заявление на пособие",
+      "ipa": "ай фɪлд аут ðи ˌæплəˈкэйшəн фор ˈбэнəфɪтс",
+      "spell": "I filled out the application for benefits"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я успела на работу",
+      "ipa": "ай гɑт ту wɜрк ɑн тайм",
+      "spell": "I got to work on time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я успела домой",
+      "ipa": "ай мэйд ɪт hоум",
+      "spell": "I made it home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я заменила хлеб пирогами",
+      "ipa": "ай ˌриˈплэйст брэд wɪð пайз",
+      "spell": "I replaced bread with pies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пошла с ними",
+      "ipa": "ай wэнт əˈлɔŋ wɪð ðэм",
+      "spell": "I went along with them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ела это постоянно",
+      "ipa": "ай wʊд ит ɪт ɔл ðə тайм",
+      "spell": "I would eat it all the time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я насытилась молоком",
+      "ipa": "айм фʊл фрʌм ðə мɪлк",
+      "spell": "I'm full from the milk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "молоко портится",
+      "ipa": "мɪлк гоуз бæд",
+      "spell": "milk goes bad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "морс",
+      "ipa": "морз, ˈбэри фрут дрɪŋк",
+      "spell": "mors, berry fruit drink"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "азот составляет 78% земной атмосферы",
+      "ipa": "ˈнайтрəджəн ˈкɑнстəˌтутс 78% ʌв ðи ɜрθс ˈæтмəˌсфɪр",
+      "spell": "nitrogen constitutes 78% of the earth's atmosphere"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пироги вместо хлеба",
+      "ipa": "пайз ɪнˈстэд ʌв брэд",
+      "spell": "pies instead of bread"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "редис",
+      "ipa": "ˈрæдɪш",
+      "spell": "raddish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "редко",
+      "ipa": "ˈсэлдəм",
+      "spell": "seldom"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "компот",
+      "ipa": "студ фрут дрɪŋк, ˈкɑмпоут",
+      "spell": "stewed fruit drink, compote"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дворник",
+      "ipa": "стрит ˈсwипəр",
+      "spell": "street sweeper"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "летний кабачок",
+      "ipa": "ˈсʌмəр скwɑш",
+      "spell": "summer squash"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по прогнозу будет дождь",
+      "ipa": "ðə ˈфорˌкæст кɔлз фор рэйн",
+      "spell": "the forecast calls for rain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "их действия являются мошенничеством",
+      "ipa": "ðэр ˈæкшəн ˈкɑнстəˌтутс фрɔд",
+      "spell": "their action constitutes fraud"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это является преступлением",
+      "ipa": "ðɪс ˈкɑнстəˌтутс ə крайм",
+      "spell": "this constitutes a crime"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это является оскорблением",
+      "ipa": "ðɪс ˈкɑнстəˌтутс əн ˈɪнˌсʌлт",
+      "spell": "this constitutes an insult"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это оскорбление",
+      "ipa": "ðɪс ɪз əн ˈɪнˌсʌлт",
+      "spell": "this is an insult"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это, по сути, оскорбление",
+      "ipa": "ðɪс ɪз ˈбэйсɪкли əн ˈɪнˌсʌлт",
+      "spell": "this is basically an insult"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "консервировать еду",
+      "ipa": "ту кæн фуд",
+      "spell": "to can food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "консервировать помидоры",
+      "ipa": "ту кæн тəˈмэйтоуз",
+      "spell": "to can tomatoes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ухаживать за пожилыми",
+      "ipa": "ту кэр фор ˈсинйəрз",
+      "spell": "to care for seniors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "убирать за стариками",
+      "ipa": "ту клин ʌп ˈæфтəр ˈэлдəрли ˈпипəл",
+      "spell": "to clean up after elderly people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "составлять, являться",
+      "ipa": "ту ˈкɑнстəˌтут",
+      "spell": "to constitute"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заполнить пропуск",
+      "ipa": "ту фɪл ɪн ðə блæŋк",
+      "spell": "to fill in the blank"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заполнить форму",
+      "ipa": "ту фɪл аут ə форм",
+      "spell": "to fill out a form"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закатывать в банки",
+      "ipa": "ту джɑр фуд",
+      "spell": "to jar food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "успеть",
+      "ipa": "ту мэйк ɪт",
+      "spell": "to make it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "консервировать помидоры в банках",
+      "ipa": "ту прəˈзɜрв тəˈмэйтоуз ɪн глæс джɑрз",
+      "spell": "to preserve tomatoes in glass jars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закручивать банки",
+      "ipa": "ту скру ɑн джɑр лɪдз",
+      "spell": "to screw on jar lids"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заменять",
+      "ipa": "ту ˈсʌбстəˌтут",
+      "spell": "to substitute"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что составляет семью?",
+      "ipa": "wɑт ˈкɑнстəˌтутс ə ˈфæмəли?",
+      "spell": "what constitutes a family?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я жил в Украине",
+      "ipa": "wэн ай лɪвд ɪн юˈкрэйн",
+      "spell": "when I lived in Ukraine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда она была еще жива",
+      "ipa": "wэн щи wʌз стɪл əˈлайв",
+      "spell": "when she was still alive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в этом рецепте можно заменить масло маргарином",
+      "ipa": "ю кæн ˈсʌбстəˌтут ˈмɑрджəрəн фор ˈбʌтəр ɪн ðɪс ˈрэсəпи",
+      "spell": "you can substitute margarine for butter in this recipe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цуккини (сорт кабачка)",
+      "ipa": "зуˈкини",
+      "spell": "zucchini"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кабачковая икра",
+      "ipa": "зуˈкини спрэд",
+      "spell": "zucchini spread"
+    }
+  ]
+}
