@@ -1,0 +1,211 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 30,
+  "date": "2025-08-03",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сумка",
+   "ipa": "ə бæг",
+   "spell": "a bag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "доска",
+   "ipa": "ə борд",
+   "spell": "a board"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "камера",
+   "ipa": "ə ˈкæмəрə",
+   "spell": "a camera"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кошелек для мелочи",
+   "ipa": "ə чэйндж пɜрс",
+   "spell": "a change purse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зарядное устройство",
+   "ipa": "ə ˈчɑрджəр",
+   "spell": "a charger"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "конституция",
+   "ipa": "ə ˌкɑнстəˈтушəн",
+   "spell": "a constitution"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кредитная карта",
+   "ipa": "ə ˈкрэдəт кɑрд",
+   "spell": "a credit card"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дебетовая карта",
+   "ipa": "ə ˈдэбɪт кɑрд",
+   "spell": "a debit card"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "словарь ~ словари",
+   "ipa": "ə ˈдɪкшəˌнэри ~ ˈдɪкшəˌнэриз",
+   "spell": "a dictionary ~ dictionaries"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ключ ~ ключи",
+   "ipa": "ə ки ~ киз",
+   "spell": "a key ~ keys"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ноутбук",
+   "ipa": "ə ˈлæпˌтɑп",
+   "spell": "a laptop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ноутбук ~ два ноутбука",
+   "ipa": "ə ˈлæпˌтɑп ~ ту ˈлæпˌтɑпс",
+   "spell": "a laptop ~ two laptops"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "блокнот",
+   "ipa": "ə ˈноутˌбʊк",
+   "spell": "a notebook"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "существительное",
+   "ipa": "ə наун",
+   "spell": "a noun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "паспорт",
+   "ipa": "ə ˈпæˌспорт",
+   "spell": "a passport"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "карандаш ~ карандаши",
+   "ipa": "ə ˈпэнсəл ~ ˈпэнсəлз",
+   "spell": "a pencil ~ pencils"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "телефон",
+   "ipa": "ə фоун",
+   "spell": "a phone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фотография",
+   "ipa": "ə ˈфоуˌтоу",
+   "spell": "a photo"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "революция",
+   "ipa": "ə ˌрэвəˈлушəн",
+   "spell": "a revolution"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "часы ~ часы",
+   "ipa": "ə wɑч ~ ˈwɑчəз",
+   "spell": "a watch ~ watches"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "час",
+   "ipa": "əн ˈауəр",
+   "spell": "an hour"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зонт",
+   "ipa": "əн əмˈбрэлə",
+   "spell": "an umbrella"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зонт ~ зонты",
+   "ipa": "əн əмˈбрэлə ~ əмˈбрэлəз",
+   "spell": "an umbrella ~ umbrellas"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дикция",
+   "ipa": "ˈдɪкшəн",
+   "spell": "diction"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очки",
+   "ipa": "ˈглæсəз",
+   "spell": "glasses"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "более одного",
+   "ipa": "мор ðæн wʌн",
+   "spell": "more than one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вопросы и ответы",
+   "ipa": "ˈкwэсчəнз æнд ˈæнсəрз",
+   "spell": "questions and answers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "единственное число ~ множественное число",
+   "ipa": "ˈсɪŋгйəлəр ~ ˈплʊрəл",
+   "spell": "singular ~ plural"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отменять",
+   "ipa": "ту ˈкæнсəл",
+   "spell": "to cancel"
+ }
+]
+}
