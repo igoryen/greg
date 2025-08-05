@@ -1,0 +1,393 @@
+{
+  "student": "Olena T.",
+  "slug": "ot",
+  "number": 26,
+  "date": "2025-08-05",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "большая богатая рыба",
+   "ipa": "ə бɪг рɪч фɪш",
+   "spell": "a big rich fish"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "знаменитый человек",
+   "ipa": "ə ˈфэймəс ˈпɜрсəн",
+   "spell": "a famous person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наполненный дурак",
+   "ipa": "ə фʊл фул",
+   "spell": "a full fool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хороший полный бык",
+   "ipa": "ə гʊд фʊл бʊл",
+   "spell": "a good full bull"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гамбургер",
+   "ipa": "ə ˈhæмбəргəр",
+   "spell": "a hamburger"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "горячие спокойные часы",
+   "ipa": "ə hɑт кɑм клɑк",
+   "spell": "a hot calm clock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приморский штат",
+   "ipa": "ə ˈмэрəˌтайм стэйт",
+   "spell": "a maritime state"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "новый синий ботинок",
+   "ipa": "ə ну блу бут",
+   "spell": "a new blue boot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пионер",
+   "ipa": "ə ˌпайəˈнɪр",
+   "spell": "a pioneer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "богатый штат",
+   "ipa": "ə рɪч стэйт",
+   "spell": "a rich state"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "маленькая высокая пила",
+   "ipa": "ə смɔл тɔл сɔ",
+   "spell": "a small tall saw"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "белка",
+   "ipa": "ə ˈскwɜрəл",
+   "spell": "a squirrel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дикое животное",
+   "ipa": "ə wайлд ˈæнəмəл",
+   "spell": "a wild animal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прилагательное",
+   "ipa": "əн ˈæджɪктɪв",
+   "spell": "an adjective"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лёгкое дешёвое дерево",
+   "ipa": "əн ˈизи чип три",
+   "spell": "an easy cheap tree"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вы американец?",
+   "ipa": "ɑр ю əˈмэрəкəн?",
+   "spell": "are you American?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вы хорошие ученики?",
+   "ipa": "ɑр ю гʊд ˈстудəнтс?",
+   "spell": "are you good students?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "синие джинсы",
+   "ipa": "блу джинз",
+   "spell": "blue jeans"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чистая вода",
+   "ipa": "клин ˈwɔтəр",
+   "spell": "clean water"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прозрачная вода",
+   "ipa": "клɪр ˈwɔтəр",
+   "spell": "clear water"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "английский очень лёгкий",
+   "ipa": "ˈɪŋглɪш ɪз ˈвэри ˈизи",
+   "spell": "English is very easy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фастфуд",
+   "ipa": "фæст фуд",
+   "spell": "fast food"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "картофель фри",
+   "ipa": "фрэнч фрайз",
+   "spell": "french fries"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он поскользнулся в палатке",
+   "ipa": "hи слɪпт ɪн ðə тэнт",
+   "spell": "he slipped in the tent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как часто",
+   "ipa": "hау ˈɔфəн",
+   "spell": "how often"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сегодня я хорошо выспалась",
+   "ipa": "ай hæд ə гʊд слип тəˈдэй",
+   "spell": "I had a good sleep today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ваш учитель австралиец?",
+   "ipa": "ɪз йʊəр ˈтичəр ɔˈстрэйлйəн?",
+   "spell": "is your teacher Australian?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это очень жаркий день",
+   "ipa": "ɪт ɪз ə ˈвэри hɑт дэй",
+   "spell": "it is a very hot day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не бедно",
+   "ipa": "ɪт ɪз нɑт пʊр",
+   "spell": "it is not poor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это плохая идея",
+   "ipa": "ɪтс ə бæд айˈдиə",
+   "spell": "it’s a bad idea"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой брат очень сильный",
+   "ipa": "май ˈбрʌðəр ɪз ˈрɪли стрɔŋ",
+   "spell": "my brother is really strong"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не такой богатый",
+   "ipa": "нɑт соу рɪч",
+   "spell": "not so rich"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один раз за лето",
+   "ipa": "wʌн тайм пɜр ˈсʌмəр",
+   "spell": "one time per summer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в семи часах езды",
+   "ipa": "ˈсэвəн ˈауəрз əˈwэй",
+   "spell": "seven hours away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спасибо, я сыт",
+   "ipa": "θæŋк ю, ай æм фʊл",
+   "spell": "thank you, I am full"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "та машина не очень быстрая",
+   "ipa": "ðæт кɑр ˈɪзəнт ˈвэри фæст",
+   "spell": "that car isn’t very fast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "американский футбол",
+   "ipa": "ðи əˈмэрəкəн ˈфʊтˌбɔл",
+   "spell": "the American football"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Белый дом",
+   "ipa": "ðə wайт hаус",
+   "spell": "the white house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жёлтое такси",
+   "ipa": "ðə ˈйэлоу ˈтæкси",
+   "spell": "the yellow taxi"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они звучат почти одинаково",
+   "ipa": "ðэй саунд ˈɔлˌмоуст ðə сэйм",
+   "spell": "they sound almost the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это медленный поезд",
+   "ipa": "ðɪс ɪз ə слоу трэйн",
+   "spell": "this is a slow train"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "купаться",
+   "ipa": "ту бэйð",
+   "spell": "to bathe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стирать бельё",
+   "ipa": "ту ду ðə ˈлɔндри",
+   "spell": "to do the laundry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спать в палатке",
+   "ipa": "ту слип ɪн ðə тэнт",
+   "spell": "to sleep in the tent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поскользнуться в палатке",
+   "ipa": "ту слɪп ɪн ðə тэнт",
+   "spell": "to slip in the tent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "загорать",
+   "ipa": "ту ˈсʌнˌбэйð",
+   "spell": "to sunbathe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень мокрый",
+   "ipa": "ˈвэри wэт",
+   "spell": "very wet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы разожгли костёр",
+   "ipa": "wи бɪлт ə ˈфайəр",
+   "spell": "we built a fire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы жарили мясо на гриле",
+   "ipa": "wи кʊкт мит ɑн ðə грɪл",
+   "spell": "we cooked meat on the grill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы надели больше одежды",
+   "ipa": "wи пʊт ɑн мор клоуðз",
+   "spell": "we put on more clothes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы сидели у костра",
+   "ipa": "wи сæт əˈраунд ðə ˈфайəр",
+   "spell": "we sat around the fire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы спали в машине Игоря",
+   "ipa": "wи слэпт ɪн ɪˈгорз кɑр",
+   "spell": "we slept in Igor’s car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы спали в палатке",
+   "ipa": "wи слэпт ɪн ðə тэнт",
+   "spell": "we slept in the tent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы хотим поехать туда снова",
+   "ipa": "wи wɑнт ту гоу ðэр əˈгэн",
+   "spell": "we want to go there again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пока лето",
+   "ipa": "wайл ɪт ɪз ˈсʌмəр",
+   "spell": "while it is summer"
+ }
+]
+}
