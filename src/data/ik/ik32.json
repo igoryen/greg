@@ -1,0 +1,365 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 32,
+  "date": "2025-08-05",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стул ~ стулья",
+   "ipa": "ə чэр ~ чэрз",
+   "spell": "a chair ~ chairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разговор",
+   "ipa": "ə ˌкɑнвəрˈсэйшəн",
+   "spell": "a conversation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сто фунтов",
+   "ipa": "ə ˈhʌндрɪд паундз",
+   "spell": "a hundred pounds"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пакет",
+   "ipa": "ə ˈпæкəт",
+   "spell": "a packet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лист бумаги",
+   "ipa": "ə пис ʌв ˈпэйпəр",
+   "spell": "a piece of paper"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "карман",
+   "ipa": "ə ˈпɑкəт",
+   "spell": "a pocket"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "портрет",
+   "ipa": "ə ˈпортрəт",
+   "spell": "a portrait"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вещь",
+   "ipa": "ə θɪŋ",
+   "spell": "a thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "абсолютно!",
+   "ipa": "ˌæбсəˈлутли!",
+   "spell": "absolutely!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почти",
+   "ipa": "ˈɔлˌмоуст",
+   "spell": "almost"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ответ",
+   "ipa": "əн ˈæнсəр",
+   "spell": "an answer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь осторожен!",
+   "ipa": "би ˈкэрфəл!",
+   "spell": "be careful!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "забота",
+   "ipa": "кэр",
+   "spell": "care"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "осторожный",
+   "ipa": "ˈкэрфəл",
+   "spell": "careful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты согласен?",
+   "ipa": "ду ю əˈгри?",
+   "spell": "do you agree?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пять дней в неделю",
+   "ipa": "файв дэйз ə wик",
+   "spell": "five days a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "четыре дня в неделю",
+   "ipa": "фор дэйз ə wик",
+   "spell": "four days a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "из списка",
+   "ipa": "фрʌм ðə лɪст",
+   "spell": "from the list"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полчаса",
+   "ipa": "hæф əн ˈауəр",
+   "spell": "half an hour"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плотное движение",
+   "ipa": "ˈhэви ˈтрæфɪк",
+   "spell": "heavy traffic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тяжёлый ~ лёгкий",
+   "ipa": "ˈhэви ~ лайт",
+   "spell": "heavy ~ light"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько дней в неделю ты ходишь в спортзал?",
+   "ipa": "hау ˈмэни дэйз ə wик ду ю гоу ту ðə джɪм?",
+   "spell": "how many days a week do you go to the gym?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько подходов и повторений",
+   "ipa": "hау ˈмэни сэтс æнд рэпс",
+   "spell": "how many sets and reps"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько вещей?",
+   "ipa": "hау ˈмэни θɪŋз?",
+   "spell": "how many things?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет времени это сделать",
+   "ipa": "ай доунт hæв тайм ту ду ɪт",
+   "spell": "I don't have time to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаю",
+   "ipa": "ай доунт ноу",
+   "spell": "I don't know"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ем три раза в день",
+   "ipa": "ай ит θри таймз ə дэй",
+   "spell": "I eat three times a day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня больше вещей",
+   "ipa": "ай hæв мор θɪŋз",
+   "spell": "I have more things"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет времени",
+   "ipa": "ай hæв ноу тайм",
+   "spell": "I have no time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня есть время это сделать",
+   "ipa": "ай hæв тайм ту ду ɪт",
+   "spell": "I have time to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я иногда ем, иногда сплю",
+   "ipa": "ай сəмˈтаймз ит, сəмˈтаймз слип",
+   "spell": "I sometimes eat, sometimes sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я думаю",
+   "ipa": "ай θɪŋк",
+   "spell": "I think"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я думаю, это удостоверение личности",
+   "ipa": "ай θɪŋк ɪтс əн ɪд кɑрд",
+   "spell": "I think it's an ID card"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я так думаю",
+   "ipa": "ай θɪŋк соу",
+   "spell": "I think so"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тренируюсь на объём",
+   "ipa": "ай трэйн фор ˈвɑлъюм",
+   "spell": "I train for volume"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это для тебя тяжёлое?",
+   "ipa": "ɪз ɪт ˈhэви фор ю?",
+   "spell": "is it heavy for you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это газета",
+   "ipa": "ɪт ɪз ə ˈнузˌпэйпəр",
+   "spell": "it is a newspaper"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это зонт",
+   "ipa": "ɪтс əн əмˈбрэлə",
+   "spell": "it's an umbrella"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лёгкое движение",
+   "ipa": "лайт ˈтрæфɪк",
+   "spell": "light traffic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один раз в год",
+   "ipa": "wʌн тайм ə йɪр",
+   "spell": "one time a year"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подходы и повторения",
+   "ipa": "сэтс æнд рэпс",
+   "spell": "sets and reps"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это паспорта",
+   "ipa": "ðэй ɑр ˈпæˌспортс",
+   "spell": "they are passports"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это часы",
+   "ipa": "ðэй ɑр ˈwɑчəз",
+   "spell": "they are watches"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это сумки",
+   "ipa": "ðэр бæгз",
+   "spell": "they're bags"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "время что-то сделать",
+   "ipa": "тайм ту ду ˈсʌмθɪŋ",
+   "spell": "time to do something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "проверить это",
+   "ipa": "ту чэк ɪт",
+   "spell": "to check it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "починить это",
+   "ipa": "ту фɪкс ɪт",
+   "spell": "to fix it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "думать",
+   "ipa": "ту θɪŋк",
+   "spell": "to think"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это?",
+   "ipa": "wɑт ɑр ðэй?",
+   "spell": "what are they?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что ты думаешь?",
+   "ipa": "wɑт ду ю θɪŋк?",
+   "spell": "what do you think?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где это?",
+   "ipa": "wэр ɪз ɪт?",
+   "spell": "where is it?"
+ }
+]
+}
