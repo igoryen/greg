@@ -1,0 +1,498 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "number": 54,
+  "date": "2025-08-05",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жирная буква",
+   "ipa": "ə боулд ˈлэтəр",
+   "spell": "a bold letter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коллега, который говорит медленно",
+   "ipa": "ə ˈкоуˈwɜркəр hу тɔкс ˈслоули",
+   "spell": "a coworker who talks slowly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "офисная работа",
+   "ipa": "ə дэск джɑб",
+   "spell": "a desk job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хорошая работа",
+   "ipa": "ə гʊд джɑб",
+   "spell": "a good job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "государственная работа",
+   "ipa": "ə ˈгʌвəрмəнт джɑб",
+   "spell": "a government job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дырокол",
+   "ipa": "ə hоул пʌнч",
+   "spell": "a hole punch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страна возможностей",
+   "ipa": "ə лæнд ʌв ˌɑпəрˈтунəтиз",
+   "spell": "a land of opportunities"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мужчина не может понять женщину",
+   "ipa": "ə мæн кæнт ˌʌндəрˈстæнд ə ˈwʊмəн",
+   "spell": "a man can't understand a woman"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ужасный водитель",
+   "ipa": "ə ˈпрɪти ˈɑфəл ˈдрайвəр",
+   "spell": "a pretty awful driver"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чужой рюкзак",
+   "ipa": "ə ˈстрэйнджəрз бæг",
+   "spell": "a stranger's bag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "команда",
+   "ipa": "ə тим",
+   "spell": "a team"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женский коллектив",
+   "ipa": "ə ˈwɪмəнз кəˈлэктɪв",
+   "spell": "a women's collective"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "весь день",
+   "ipa": "ɔл дэй",
+   "spell": "all day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ужасный запах",
+   "ipa": "əн ˈɑфəл смэл",
+   "spell": "an awful smell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эмоционально непробиваемый человек",
+   "ipa": "əн ɪˈмоушнəли əнˈшэɪкəбəл ˈпɜрсəн",
+   "spell": "an emotionally unshakable person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "незаконный иммигрант",
+   "ipa": "əн ɪˈлигəл ˈэйлиəн",
+   "spell": "an illegal alien"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "возможность",
+   "ipa": "əн ˌɑпəрˈтунəти",
+   "spell": "an opportunity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-нибудь ещё?",
+   "ipa": "ˈэниˌθɪŋ элс?",
+   "spell": "anything else?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сначала",
+   "ipa": "æт фɜрст",
+   "spell": "at first"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ужасный",
+   "ipa": "ˈɑфəл",
+   "spell": "awful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разве ты не можешь этого сделать?",
+   "ipa": "кæнт ю ду ðæт?",
+   "spell": "can't you do that?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прежде всего, я одна в офисе",
+   "ipa": "фɜрст ʌв ɔл, ай æм əˈлоун ɪн май ˈɔфəс",
+   "spell": "first of all, I am alone in my office"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу себе представить",
+   "ipa": "ай кæн ɪˈмæджəн",
+   "spell": "I can imagine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ничего не могу сделать",
+   "ipa": "ай кæнт ду ˈэниˌθɪŋ",
+   "spell": "I can't do anything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу выйти",
+   "ipa": "ай кæнт гоу аут",
+   "spell": "I can't go out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вам не завидую",
+   "ipa": "ай доунт ˈэнви ю",
+   "spell": "I don't envy you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне не нравятся люди, которые меня окружают",
+   "ipa": "ай доунт лайк ðə ˈпипəл hу сəˈраунд ми",
+   "spell": "I don't like the people who surround me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "впервые посетил США в 2020 году",
+   "ipa": "ай фɜрст ˈвɪзɪтɪд ðə ю.эс. ɪн ˈтwэнти ˈтwэнти",
+   "spell": "I first visited the U.S. in twenty twenty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я научился это делать",
+   "ipa": "ай hæв лɜрнд ту ду ðæт",
+   "spell": "I have learned to do that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я знаю почему",
+   "ipa": "ай ноу wай",
+   "spell": "I know why"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ни с кем не разговариваю на работе",
+   "ipa": "ай тɔк ту ˈноуˌбɑˌди æт wɜрк",
+   "spell": "I talk to nobody at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идиоты на работе",
+   "ipa": "ˈɪдиəтс æт wɜрк",
+   "spell": "idiots at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во всём",
+   "ipa": "ɪн ˈэвриˌθɪŋ",
+   "spell": "in everything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это берёт меня за живое",
+   "ipa": "ɪт гэтс ту ми",
+   "spell": "it gets to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это берёт меня за живое",
+   "ipa": "ɪт hɪтс ми wэр ɪт hɜртс",
+   "spell": "it hits me where it hurts"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ужасно пахнет",
+   "ipa": "ɪт смэлз ˈɑфəл",
+   "spell": "it smells awful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женщин понять трудно",
+   "ipa": "ɪтс hɑрд ту ˌʌндəрˈстæнд ˈwɪмəн",
+   "spell": "it's hard to understand women"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женщин понять невозможно",
+   "ipa": "ɪтс ɪмˈпɑсəбəл ту ˌʌндəрˈстæнд ˈwɪмəн",
+   "spell": "it's impossible to understand women"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не проблема",
+   "ipa": "ɪтс нɑт ə ˈпрɑблəм",
+   "spell": "it's not a problem"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дело не в моей работе",
+   "ipa": "ɪтс нɑт əˈбаут май джɑб",
+   "spell": "it's not about my job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "может быть",
+   "ipa": "ˈмэйби",
+   "spell": "maybe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои коллеги",
+   "ipa": "май ˈкоуˈwɜркəрз",
+   "spell": "my coworkers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя любимая мозоль",
+   "ipa": "май пэт пив",
+   "spell": "my pet peeve"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя бодрствующая жизнь",
+   "ipa": "май ˈwэйкɪŋ лайф",
+   "spell": "my waking life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди вокруг меня",
+   "ipa": "ˈпипəл əˈраунд ми",
+   "spell": "people around me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плюсы и минусы",
+   "ipa": "проуз æнд кɑнз",
+   "spell": "pros and cons"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "действительно ужасный опыт",
+   "ipa": "ˈрɪли ˈɑфəл ɪкˈспɪриəнс",
+   "spell": "really awful experience"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самозанятый",
+   "ipa": "сэлф-эмˈплойд",
+   "spell": "self-employed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она стеснительная",
+   "ipa": "щи ɪз шай",
+   "spell": "she is shy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чужая сумка",
+   "ipa": "ˈсʌмˌбɑди ˈэлсɪз бæг",
+   "spell": "somebody else's bag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-то ещё",
+   "ipa": "ˈсʌмθɪŋ элс",
+   "spell": "something else"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это было нормально",
+   "ipa": "ðæт wʌз ˈоуˈкэй",
+   "spell": "that was ok"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фильм «Чужой»",
+   "ipa": "ðи ˈэйлиəн ˈмуви",
+   "spell": "the Alien movie"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фильмы из серии «Чужой»",
+   "ipa": "ðи ˈэйлиəн ˈмувиз",
+   "spell": "the Alien movies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "суть в том, что",
+   "ipa": "ðə ˈбɑтəм лайн ɪз,",
+   "spell": "the bottom line is,"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "первый",
+   "ipa": "ðə фɜрст wʌн",
+   "spell": "the first one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фильм «Чужой»",
+   "ipa": "ðə ˈмуви ˈэйлиəн",
+   "spell": "the movie 'Alien'"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "со мной происходит то же самое на работе",
+   "ipa": "ðə сэйм ˈhæпəнз ту ми æт wɜрк",
+   "spell": "the same happens to me at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "челядь",
+   "ipa": "ðə ˈсɜрвəнтс / ðə hэлп",
+   "spell": "the servants / the help"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "погода ужасная",
+   "ipa": "ðə ˈwэðəр ɪз ˈɑфəл",
+   "spell": "the weather is awful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вокруг меня много людей",
+   "ipa": "ðэр ɑр ˈмэни ˈпипəл əˈраунд ми",
+   "spell": "there are many people around me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чураются",
+   "ipa": "ðэй шай əˈwэй (фрʌм)",
+   "spell": "they shy away (from)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дружить семьями",
+   "ipa": "ту би ˈфæмəли фрэндз",
+   "spell": "to be family friends"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ссылаться на него",
+   "ipa": "ту рəˈфɜр ту hɪм",
+   "spell": "to refer to him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подвести итог",
+   "ipa": "ту сʌм ʌп",
+   "spell": "to sum up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на кого вы ссылаетесь?",
+   "ipa": "hу ду ю рəˈфɜр ту?",
+   "spell": "who do you refer to?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никогда нельзя быть уверенным",
+   "ipa": "ю кæн ˈнэвəр би щʊр",
+   "spell": "you can never be sure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никогда не угадаешь",
+   "ipa": "ю кæн ˈнэвəр тэл",
+   "spell": "you can never tell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты не любишь быть один",
+   "ipa": "ю доунт лайк ту би əˈлоун",
+   "spell": "you don't like to be alone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты слишком строг к себе",
+   "ipa": "йʊр ту hɑрд ɑн йəрˈсэлф",
+   "spell": "you're too hard on yourself"
+ }
+]
+}
