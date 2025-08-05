@@ -1,0 +1,435 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 31,
+  "date": "2025-08-04",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "\"have\" - это форма множественного числа от \"has\"",
+      "ipa": "\"hæв\" ɪз ðə ˈплʊрəл форм ʌв \"hæз\"",
+      "spell": "\"have\" is the plural form of \"has\""
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сумка ~ сумки",
+      "ipa": "ə бæг ~ бæгз",
+      "spell": "a bag ~ bags"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спинка ~ спинки",
+      "ipa": "ə бæгз ~ бæкс",
+      "spell": "a bags ~ backs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стакан ~ стаканы",
+      "ipa": "ə глæс ~ ˈглæсəз",
+      "spell": "a glass ~ glasses"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пистолет ~ пистолеты",
+      "ipa": "ə гʌн ~ гʌнз",
+      "spell": "a gun ~ guns"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мужчина ~ мужчины",
+      "ipa": "ə мæн ~ мэн",
+      "spell": "a man ~ men"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "число ~ числа",
+      "ipa": "ə ˈнʌмбəр ~ ˈнʌмбəрз",
+      "spell": "a number ~ numbers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пакет",
+      "ipa": "ə ˈпæкəт",
+      "spell": "a packet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "страница ~ страницы",
+      "ipa": "ə пэйдж ~ ˈпэйджəз",
+      "spell": "a page ~ pages"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ручка ~ ручки",
+      "ipa": "ə пэн ~ пэнз",
+      "spell": "a pen ~ pens"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фотография",
+      "ipa": "ə ˈфоутəˌгрæф",
+      "spell": "a photograph"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кусок ~ куски",
+      "ipa": "ə пис ~ ˈписəз",
+      "spell": "a piece ~ pieces"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пластиковый пакет",
+      "ipa": "ə ˈплæстɪк бæг",
+      "spell": "a plastic bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чек ~ чеки",
+      "ipa": "ə рɪˈсит ~ рɪˈситс",
+      "spell": "a receipt ~ receipts"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "змея ~ змеи",
+      "ipa": "ə снэйк ~ снэйкс",
+      "spell": "a snake ~ snakes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "звук ~ звуки",
+      "ipa": "ə саунд ~ саундз",
+      "spell": "a sound ~ sounds"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "год ~ годы",
+      "ipa": "ə йɪр ~ йɪрз",
+      "spell": "a year ~ years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ещё раз!",
+      "ipa": "əˈгэн!",
+      "spell": "again!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "служба безопасности аэропорта",
+      "ipa": "ˈэрˌпорт сɪˈкйʊрəти",
+      "spell": "airport security"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь здоров!",
+      "ipa": "блэс ю!",
+      "spell": "bless you!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "каждый",
+      "ipa": "ич",
+      "spell": "each"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "восемь месяцев",
+      "ipa": "эйт мʌнθс",
+      "spell": "eight months"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "для каждой ситуации",
+      "ipa": "фор ич ˌсɪчуˈэйшəн",
+      "spell": "for each situation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сорок один год",
+      "ipa": "ˈфорти-wʌн йɪрз",
+      "spell": "forty-one years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь здоров! (после чихания)",
+      "ipa": "гəˈзʊндhайт",
+      "spell": "gesundheit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "здесь",
+      "ipa": "hир",
+      "spell": "here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот ваш ключ",
+      "ipa": "hɪрз йʊəр ки",
+      "spell": "here's your key"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он из России",
+      "ipa": "hиз фрʌм ˈрʌшə",
+      "spell": "he’s from Russia"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он в моей комнате",
+      "ipa": "hиз ɪн май рум",
+      "spell": "he’s in my room"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ему двадцать один год",
+      "ipa": "hиз ˈтwэнти-wʌн",
+      "spell": "he’s twenty-one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как долго ты учился?",
+      "ipa": "hау лɔŋ дɪд ю лɜрн?",
+      "spell": "how long did you learn?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я отправил тебе деньги",
+      "ipa": "ай сэнт ю ˈмʌни",
+      "spell": "I sent you money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я думаю",
+      "ipa": "ай θɪŋк",
+      "spell": "I think"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в гостинице",
+      "ipa": "ɪн ə hоуˈтэл",
+      "spell": "in a hotel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в такси",
+      "ipa": "ɪн ə ˈтæкси",
+      "spell": "in a taxi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в самолёте",
+      "ipa": "ɪн əн ˈэрˌплэйн",
+      "spell": "in an airplane"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это камера",
+      "ipa": "ɪтс ə ˈкæмəрə",
+      "spell": "it’s a camera"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это зарядное устройство",
+      "ipa": "ɪтс ə ˈчɑрджəр",
+      "spell": "it’s a charger"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это телефон",
+      "ipa": "ɪтс ə фоун",
+      "spell": "it’s a phone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слушай меня",
+      "ipa": "ˈлɪсəн ту ми",
+      "spell": "listen to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смотри на меня",
+      "ipa": "лʊк æт ми",
+      "spell": "look at me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ещё нет",
+      "ipa": "нɑт йэт",
+      "spell": "not yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на самолёте",
+      "ipa": "ɑн ə плэйн",
+      "spell": "on a plane"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скажи это по-английски",
+      "ipa": "сэй ɪт ɪн ˈɪŋглɪш",
+      "spell": "say it in English"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маленькие вещи",
+      "ipa": "смɔл θɪŋз",
+      "spell": "small things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выньте свои ноутбуки",
+      "ipa": "тэйк аут йʊəр ˈлæпˌтɑпс",
+      "spell": "take out your laptops"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это книги",
+      "ipa": "ðэй ɑр бʊкс",
+      "spell": "they are books"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это кредитные карты",
+      "ipa": "ðэй ɑр ˈкрэдəт кɑрдз",
+      "spell": "they are credit cards"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это ключи",
+      "ipa": "ðэй ɑр киз",
+      "spell": "they are keys"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это ручки",
+      "ipa": "ðэй ɑр пэнз",
+      "spell": "they are pens"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это листы бумаги",
+      "ipa": "ðэй ɑр ˈписəз ʌв ˈпэйпəр",
+      "spell": "they are pieces of paper"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это кошельки",
+      "ipa": "ðэй ɑр ˈwɔлəтс",
+      "spell": "they are wallets"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тридцать один год",
+      "ipa": "ˈθɜрди wʌн йɪрз",
+      "spell": "thirty one years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "три года",
+      "ipa": "θри йɪрз",
+      "spell": "three years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "укомплектовать людьми",
+      "ipa": "ту мæн ɪт",
+      "spell": "to man it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пронумеровать",
+      "ipa": "ту ˈнʌмбəр ɪт",
+      "spell": "to number it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повторить",
+      "ipa": "ту рɪˈпит",
+      "spell": "to repeat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двадцать один год",
+      "ipa": "ˈтwэнти wʌн йɪрз",
+      "spell": "twenty one years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что это?",
+      "ipa": "wɑт ɑр ðэй?",
+      "spell": "what are they?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где это?",
+      "ipa": "wэр ɪз ðɪс?",
+      "spell": "where is this?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с партнёром",
+      "ipa": "wɪð ə ˈпɑртнəр",
+      "spell": "with a partner"
+    }
+  ]
+}
