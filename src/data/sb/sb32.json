@@ -1,0 +1,330 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "number": 32,
+  "date": "2025-08-04",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "журнал",
+   "ipa": "ə ˈmæɡəˌzin",
+   "spell": "a magazine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "партнёр",
+   "ipa": "ə ˈpɑrtnər",
+   "spell": "a partner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "реальная история",
+   "ipa": "ə riəl laɪf ˈstɔri",
+   "spell": "a real life story"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сбежавший из дома ребёнок",
+   "ipa": "ə ˈrʌnəˌweɪ ʧaɪld",
+   "spell": "a runaway child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "болтливая, словообильная, многословная жена",
+   "ipa": "ə vɜrˈboʊs waɪf",
+   "spell": "a verbose wife"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расти с другими ценностями",
+   "ipa": "ɡroʊ ʌp wɪð ˈʌðər ˈvæljuz",
+   "spell": "grow up with other values"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он недостаточно практикует английский",
+   "ipa": "hi ˈdʌzənt ˈpræktəs ˈɪŋɡlɪʃ ɪˈnʌf",
+   "spell": "he doesn’t practice English enough"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он играет на эмоциях",
+   "ipa": "hi pleɪz ɑn ði ɪˈmoʊʃənz",
+   "spell": "he plays on the emotions"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он кричал на нас",
+   "ipa": "hi ˈʃaʊtɪd æt ʌs",
+   "spell": "he shouted at us"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он использует это в своих целях",
+   "ipa": "hi ˈjusəz ɪt fɔr hɪz oʊn ɡeɪnz / ˈpɜrpəsəz",
+   "spell": "he uses it for his own gains / purposes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сходил с ума, когда не получал правильный ответ",
+   "ipa": "hi wʊd ɡoʊ ˈkreɪzi wɛˈnɛvər hi ˈdɪdənt ɡɛt ðə raɪt ˈænsər",
+   "spell": "he would go crazy whenever he didn’t get the right answer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "торговля людьми",
+   "ipa": "ˈhjumən ˈtræfɪkɪŋ",
+   "spell": "human trafficking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я услышала его ~ я причинила ему боль",
+   "ipa": "aɪ hɜrd hɪm ~ aɪ hɜrt hɪm",
+   "spell": "I heard him ~ I hurt him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я продала это",
+   "ipa": "aɪ soʊld ɪt",
+   "spell": "I sold it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне бы и в голову не пришло это сделать",
+   "ipa": "aɪ ˈwʊdənt drim ʌv ˈduɪŋ ðæt",
+   "spell": "I wouldn't dream of doing that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по-моему, это неправильно",
+   "ipa": "ɪn maɪ maɪnd, ðɪs ɪz rɔŋ",
+   "spell": "in my mind, this is wrong"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по моему мнению",
+   "ipa": "ɪn maɪ vju",
+   "spell": "in my view"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "так было всегда",
+   "ipa": "ɪt hæz ˈɔlˌweɪz bɪn ðɪs weɪ",
+   "spell": "it has always been this way"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дети по соседству",
+   "ipa": "ˈneɪbərˌhʊd ˈʧɪldrən",
+   "spell": "neighborhood children"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один из партнёров",
+   "ipa": "wʌn ʌv ðə ˈpɑrtnərz",
+   "spell": "one of the partners"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто-то, кто выдаёт себя за подростка",
+   "ipa": "ˈsʌmˌwʌn hu ˈpoʊzəz æz ə ˈtiˌneɪʤər",
+   "spell": "someone who poses as a teenager"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Игра в кальмара",
+   "ipa": "skwɪd ɡeɪm",
+   "spell": "Squid Game"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "текст более разнообразен",
+   "ipa": "ðə tɛkst ɪz mɔr ˈvɛrid",
+   "spell": "the text is more varied"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "образ мышления людей",
+   "ipa": "ðə weɪ ˈpipəl θɪŋk",
+   "spell": "the way people think"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их немецкий не так хорош",
+   "ipa": "ðɛr ˈʤɜrmən ɪz nɑt ðæt ɡʊd",
+   "spell": "their German is not that good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их менталитет",
+   "ipa": "ðɛr mɛnˈtæləti",
+   "spell": "their mentality"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "произошло много изменений",
+   "ipa": "ðɛr hæv bɪn ə lɑt ʌv ˈʧeɪnʤəz",
+   "spell": "there have been a lot of changes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они всё организовали",
+   "ipa": "ðeɪ əˈreɪnʤd ˈɛvriˌθɪŋ",
+   "spell": "they arranged everything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они сожительствуют",
+   "ipa": "ðeɪ koʊˈhæbɪt",
+   "spell": "they cohabit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они редко появляются",
+   "ipa": "ðeɪ ˈhɑrdli ˈɛvər əˈpɪr",
+   "spell": "they hardly ever appear"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "придумай синоним",
+   "ipa": "θɪŋk ʌv ə ˈsɪnəˌnɪm",
+   "spell": "think of a synonym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это связывает статью воедино",
+   "ipa": "ðɪs lɪŋks ði ˈɑrtəkəl təˈɡɛðər",
+   "spell": "this links the article together"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "придумать тему",
+   "ipa": "tu ˈbreɪnstorm fɔr ə ˈtɑpɪk",
+   "spell": "to brainstrorm for a topic"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "развестись",
+   "ipa": "tu dɪˈvɔrs",
+   "spell": "to divorce"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заинтересовать читателя",
+   "ipa": "tu ɛnˈɡeɪʤ ðə ˈridər",
+   "spell": "to engage the reader"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жить раздельно",
+   "ipa": "tu lɪv əˈpɑrt",
+   "spell": "to live apart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сделать более разнообразным",
+   "ipa": "tu meɪk ɪt mɔr ˈvɛrid",
+   "spell": "to make it more varied"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заставить задуматься",
+   "ipa": "tu meɪk ju θɪŋk əˈbaʊt ɪt",
+   "spell": "to make you think about it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "реагировать на ситуацию",
+   "ipa": "tu riˈækt tu ə ˌsɪʧuˈeɪʃən",
+   "spell": "to react to a situation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разойтись (о паре)",
+   "ipa": "tu ˈsɛpəˌreɪt (ʌv ə ˈkʌpəl)",
+   "spell": "to separate (of a couple)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "связать себя узами брака",
+   "ipa": "tu taɪ ðə nɑt",
+   "spell": "to tie the knot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ухаживать за женщинами",
+   "ipa": "tu wu ˈwɪmən",
+   "spell": "to woo women"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "невообразимая боль",
+   "ipa": "ˌʌnɪˈmæʤɪnəbəl peɪn",
+   "spell": "unimaginable pain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень осторожный",
+   "ipa": "ˈvɛri ˈwɛri",
+   "spell": "very wary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "то, что раньше было постыдным",
+   "ipa": "wɑt juzd tu bi ˈʃeɪmfəl",
+   "spell": "what used to be shameful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что будет сделано",
+   "ipa": "wɑt wɪl bi dʌn",
+   "spell": "what will be done"
+ }
+]
+}
