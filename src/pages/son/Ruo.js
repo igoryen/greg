@@ -1,30 +1,32 @@
 import { useState } from "react";
+import "../../styles/ruo.scss";
 
-// Russian cluster substitutions
-const clustersRussian = {
-
-    "ʃju": "щъю",
-    "ʃi": "щи", "ʃæ": "щæ", "ʃɑ": "шɑ", "ʃɪ": "щɪ", "ʃɛ": "щɛ", "ʃʌ": "шʌ", "ʃʊ": "щʊ",
-    "ʃe": "шэ", "ʃo": "шо", "ʃu": "щу", "ʃa": "ща", "ʃɜ": "щɜ", "ʃə": "шə",
-
-    "'ju": "ъˈю", "ˌju": "ъˌю", "pju": "пъю", "tju": "тъю", "kju": "къю",
-    "fju": "фъю", "sju": "съю",
-    "hju": "hъю", "bju": "бъю",
-    "dju": "дъю", "ɡju": "гъю", "vju": "въю", "zju": "зъю", "mju": "мъю",
-    "nju": "нъю", "rju": "ръю", "lju": "лъю", "eɪ": "эй", "ju": "ю",
-    "aɪ": "ай", "ɔr": "ор", "ɔɪ": "ой", "aʊ": "ау", "oʊ": "оу"
+const highlightIPA = (text) => {
+    const charsToBold = ['h', 'w', 'æ', 'ð', 'ŋ', 'ɔ', 'ə', 'ʊ', 'ʌ', 'θ', 'ɑ', 'ɜ', 'ɪ', 'v'];
+    const regex = new RegExp(`(${charsToBold.map(c => c.replace(/([.*+?^=!:${}()|[\]/\\])/g, "\\$1")).join('|')})`, 'g');
+    return text.replace(regex, "<b>$1</b>");
 };
 
-// Ukrainian cluster substitutions
+const clustersRussian = {
+    "ʃju": "щъю", "ʃi": "щи", "ʃæ": "щæ", "ʃɑ": "шɑ", "ʃɪ": "щɪ", "ʃɛ": "щɛ", "ʃʌ": "шʌ", "ʃʊ": "щʊ",
+    "ʃe": "шэ", "ʃo": "шо", "ʃu": "щу", "ʃɜ": "щɜ", "ʃə": "шə",
+    "'ju": "ъˈю", "ˌju": "ъˌю", "pju": "пъю", "tju": "тъю", "kju": "къю",
+    "fju": "фъю", "sju": "съю", "hju": "hъю", "bju": "бъю", "dju": "дъю",
+    "ɡju": "гъю", "vju": "въю", "zju": "зъю", "mju": "мъю", "nju": "нъю",
+    "rju": "ръю", "lju": "лъю", "eɪ": "эй", "ju": "ю", "aɪ": "ай",
+    "ɔr": "ор", "ɔɪ": "ой", "aʊ": "ау", "oʊ": "оу",
+
+    "ʃa": "ща"
+};
+
 const clustersUkrainian = {
     "'ju": "ьˈю", "ˌju": "ьˌю", "pju": "п’ю", "tju": "т’ю", "kju": "к’ю",
     "fju": "ф’ю", "sju": "с’ю", "ʃju": "ш’ю", "hju": "х’ю", "bju": "б’ю",
     "dju": "д’ю", "ɡju": "ґ’ю", "vju": "в’ю", "zju": "з’ю", "mju": "м’ю",
-    "nju": "н’ю", "rju": "р’ю", "lju": "л’ю", "eɪ": "ей", "ju": "ю",
+    "nju": "н’ю", "rju": "р’ю", "lju": "л’ю", "eɪ": "ей", "ju": "ю", "je": "є",
     "aɪ": "ай", "ɔr": "ор", "ɔɪ": "ой", "aʊ": "ау", "oʊ": "оу"
 };
 
-// Russian single-character replacements
 const ipaToCyrillicRussian = {
     "p": "п", "b": "б", "f": "ф", "v": "в", "k": "к", "ɡ": "г",
     "s": "с", "z": "з", "l": "л", "m": "м", "j": "й", "ʃ": "ш",
@@ -32,9 +34,8 @@ const ipaToCyrillicRussian = {
     "r": "р", "ʧ": "ч", "ʤ": "дж", "ɛ": "э"
 };
 
-// Ukrainian single-character replacements
 const ipaToCyrillicUkrainian = {
-    "p": "п", "b": "б", "f": "ф", "v": "в", "k": "к", "ɡ": "ґ",
+    "p": "п", "b": "б", "f": "ф", "k": "к", "ɡ": "ґ",
     "s": "с", "z": "з", "l": "л", "m": "м", "j": "й", "ʃ": "ш",
     "ʒ": "ж", "t": "т", "d": "д", "n": "н", "i": "і", "ɪ": "и", "u": "у",
     "r": "р", "ʧ": "ч", "ʤ": "дж", "ɛ": "е"
@@ -42,16 +43,15 @@ const ipaToCyrillicUkrainian = {
 
 export default function IpaToCyrillicForm() {
     const [inputText, setInputText] = useState("");
-    const [outputLines, setOutputLines] = useState([]);
+    const [plainOutput, setPlainOutput] = useState("");
+    const [highlightedOutput, setHighlightedOutput] = useState("");
     const [mode, setMode] = useState("russian");
 
-    const getSubstitutionMap = () => {
-        return mode === "russian" ? ipaToCyrillicRussian : ipaToCyrillicUkrainian;
-    };
+    const getSubstitutionMap = () =>
+        mode === "russian" ? ipaToCyrillicRussian : ipaToCyrillicUkrainian;
 
-    const getClustersMap = () => {
-        return mode === "russian" ? clustersRussian : clustersUkrainian;
-    };
+    const getClustersMap = () =>
+        mode === "russian" ? clustersRussian : clustersUkrainian;
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -59,51 +59,54 @@ export default function IpaToCyrillicForm() {
         const clusters = getClustersMap();
 
         const lines = inputText.split(/\r?\n/);
-        const transformed = lines.map(line => {
-            // Apply cluster substitutions first
+
+        const plainTransformed = lines.map((line) => {
             let modified = line;
             for (const [key, value] of Object.entries(clusters)) {
                 modified = modified.replaceAll(key, value);
             }
-
-            // Apply single-character substitutions
             return modified
                 .split("")
-                .map(char => map[char] ?? char)
+                .map((char) => map[char] ?? char)
                 .join("");
         });
 
-        setOutputLines(transformed);
+        setPlainOutput(plainTransformed.join("\n"));
+
+        const htmlTransformed = plainTransformed.map(line => highlightIPA(line));
+        setHighlightedOutput(htmlTransformed.join("<br />"));
     };
 
     const handleClear = () => {
         setInputText("");
-        setOutputLines([]);
+        setPlainOutput("");
+        setHighlightedOutput("");
     };
 
     const handleCopy = () => {
-        navigator.clipboard.writeText(outputLines.join("\n"));
+        navigator.clipboard.writeText(plainOutput);
     };
 
     return (
-        <div>
+        <div id="ruo">
             <h1>IPA to Cyrillic Converter</h1>
+
             <form onSubmit={handleSubmit}>
                 <textarea
                     placeholder="Enter IPA transcription list here..."
                     value={inputText}
-                    onChange={e => setInputText(e.target.value)}
-                    rows={8}
-                    style={{ width: '100%' }}
-                ></textarea>
+                    onChange={(e) => setInputText(e.target.value)}
+                    rows={6}
+                    style={{ width: "100%" }}
+                />
 
-                <div style={{ margin: '8px 0' }}>
+                <div style={{ margin: "8px 0" }}>
                     <label>
                         Mode:
                         <select
                             value={mode}
                             onChange={(e) => setMode(e.target.value)}
-                            style={{ marginLeft: '8px' }}
+                            style={{ marginLeft: "8px" }}
                         >
                             <option value="russian">Russian</option>
                             <option value="ukrainian">Ukrainian</option>
@@ -112,23 +115,37 @@ export default function IpaToCyrillicForm() {
                 </div>
 
                 <button type="submit">Submit</button>
-                <button type="button" onClick={handleClear} style={{ marginLeft: '8px' }}>
-                    Clear
-                </button>
+                <button type="button" onClick={handleClear} style={{ marginLeft: "10px" }}>Clear</button>
             </form>
 
-            {outputLines.length > 0 && (
-                <div>
-                    <h2>Converted Output:</h2>
+            {plainOutput && (
+                <>
+                    <h2>Plain Output (Copyable):</h2>
                     <textarea
+                        value={plainOutput}
                         readOnly
-                        value={outputLines.join("\n")}
-                        rows={outputLines.length || 4}
-                        style={{ width: '100%', maxHeight: '20em' }}
-                    ></textarea>
-                    <br />
-                    <button type="button" onClick={handleCopy}>Copy Output</button>
-                </div>
+                        rows={6}
+                        style={{ width: "100%" }}
+                    />
+                    <button onClick={handleCopy}>Copy</button>
+                </>
+            )}
+
+            {highlightedOutput && (
+                <>
+                    <h2>Highlighted Output:</h2>
+                    <div
+                        style={{
+                            border: "1px solid #ccc",
+                            padding: "1em",
+                            marginTop: "1em",
+                            whiteSpace: "pre-wrap",
+                            lineHeight: "1.5",
+                            fontSize: "1.2em"
+                        }}
+                        dangerouslySetInnerHTML={{ __html: highlightedOutput }}
+                    />
+                </>
             )}
         </div>
     );
