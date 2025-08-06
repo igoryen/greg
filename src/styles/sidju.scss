@@ -1,22 +1,48 @@
-.sidju {
+#sidju {
     font-family: "Noto Sans", sans-serif;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    flex-wrap: wrap;
+    width: 100%;
+    display: grid;
+    gap: 1rem;
+    // grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    // grid-template-columns: repeat(auto-fill, minmax(min(10rem, 33%), 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(min(10rem, 100%), 1fr));
 
-    .pippy {
+    button {
+        padding: 1em 0.3em;
+        cursor: pointer;
+
         display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: flex-start;
 
-        button {
-            padding: 5px;
-            min-width: 5em;
-        }
-
-        .ribbet {
-            margin-left: 3px;
+        .polly {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 1em;
         }
     }
+
+
+
+
+
+    // display: flex;
+    // flex-direction: column;
+    // gap: 10px;
+    // flex-wrap: wrap;
+
+    // .pippy {
+    //     display: flex;
+    //     flex-direction: column;
+    //     // flex-wrap: wrap;
+
+    //     button {
+    //         padding: 5px;
+    //         min-width: 5em;
+    //     }
+
+    //     .ribbet {
+    //         margin-left: 3px;
+    //     }
+    // }
 }

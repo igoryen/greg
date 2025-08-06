@@ -9,8 +9,8 @@ const Sidju = () => {
         { label: "Clani", path: "/clani", desc: "vowels: long, short" },
         { label: "Cnicro", path: "/cnicro", desc: "\"be\" in present simple" },
         { label: "Gadri", path: "/gadri", desc: "articles: ə/ən, ðə/ði" },
-        { label: "Jimte", path: "/jimte", desc: "random word wrapper" },
-        { label: "Kooi", path: "/kooi", desc: "imperative" },
+        { label: "Jimte", path: "/jimte", desc: "Message shredder" },
+        { label: "Kooi", path: "/kooi", desc: "imperatives" },
         { label: "Prenu", path: "/prenu", desc: "possessive pronouns" },
         { label: "Rimni", path: "/rimni", desc: "IPA symbols" },
         { label: "Ruo", path: "/ruo", desc: "IPA to Cyrillic converter" },
@@ -21,14 +21,13 @@ const Sidju = () => {
     ];
 
     return (
-        <div className="sidju">
+        <div id="sidju">
             {pages.map((page, idx) => (
-                <div className="pippy">
-                    <button key={idx} onClick={() => navigate(page.path)}>
-                        {page.label}
-                    </button>
+                <button key={idx} onClick={() => navigate(page.path)}>
+                    <div className="polly"> {page.label}</div>
                     <div className="ribbet">{page.desc}</div>
-                </div>
+                </button>
+
             ))}
         </div>
     );
