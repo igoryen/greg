@@ -56,7 +56,7 @@ import AS07 from "./pages/as/AS07";
 
 
 import Bob from "./pages/Bob";
-
+import Clani from "./pages/Clani";
 import Cnicro from "./pages/grm/Cnicro";
 
 
@@ -68,6 +68,8 @@ import DK02 from "./pages/dk/DK02";
 import DK03 from "./pages/dk/DK03";
 
 import FlipCardPage from "./components/FlipCardPage";
+import Gadri from "./pages/Gadri";
+
 
 import GK from "./pages/gk/GK";
 import GK01 from "./pages/gk/GK01";
@@ -235,6 +237,7 @@ import SB25 from "./pages/sb/SB25";
 
 import Sidju from "./pages/Sidju";
 
+import Smuni from "./pages/Smuni";
 
 import SS from "./pages/ss/SS";
 import SS00 from "./pages/ss/SS00";
@@ -358,6 +361,8 @@ export default function App() {
 
           {/* trial for non-jQuery card flipping functionality 250708 */}
           <Route path="fcp" element={<FlipCardPage />} />
+          <Route path="gadri" element={<Gadri />} />
+
 
           <Route path="gk" element={<GK />} />
           <Route path="gk01" element={<GK01 />} />
@@ -513,6 +518,8 @@ export default function App() {
           <Route path="sb25" element={<SB25 />} />
 
           <Route path="sidju" element={<Sidju />} />
+          <Route path="clani" element={<Clani />} />
+          <Route path="smuni" element={<Smuni />} />
 
           <Route path="ss" element={<SS />} />
           <Route path="ss00" element={<SS00 />} />

@@ -1,0 +1,78 @@
+#clani {
+    background-color: antiquewhite;
+    font-family: "Noto Sans", sans-serif;
+
+    .laddie {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .sow {
+        margin: 0 0.2em;
+        text-align: center;
+    }
+
+    .liddy {
+        font-size: 5em;
+
+    }
+
+    .pronnie {}
+
+
+
+
+    .artie {
+        color: red;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .joos {
+        background-color: gainsboro;
+
+        .cooler {
+            background-color: lightgoldenrodyellow;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            align-items: center;
+
+            .zvuk {
+                border: 1px solid gray;
+                font-size: 5em;
+                padding: 0 0.5em;
+
+                &.light {
+                    background-color: aliceblue;
+
+                    &.deh {
+                        background-color: burlywood;
+                    }
+
+                    &.dee {
+                        background-color: lightblue;
+                    }
+
+                    &.doo {
+                        // height: 1em;
+                        color: lightblue;
+                    }
+                }
+
+                &.dark {
+                    background-color: darkslateblue;
+                    height: 1em;
+                }
+            }
+
+            .wurt {
+                padding-left: 1em;
+            }
+        }
+    }
+
+
+
+}

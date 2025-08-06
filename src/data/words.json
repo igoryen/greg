@@ -1,0 +1,1784 @@
+[
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "acorn",
+        "ipa": "ˈeɪkɔrn",
+        "sampa": "ˈэйкорн",
+        "uampa": "ˈейкорн",
+        "emoji": "🌰"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "airplane",
+        "ipa": "ˈɛrˌpleɪn",
+        "sampa": "ˈэрˌплэйн",
+        "uampa": "ˈерˌплейн",
+        "emoji": "✈️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "airport",
+        "ipa": "ˈɛrˌpɔrt",
+        "sampa": "ˈэрˌпорт",
+        "uampa": "ˈерˌпорт",
+        "emoji": "✈️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "album",
+        "ipa": "ˈælbəm",
+        "sampa": "ˈæлбəм",
+        "uampa": "ˈæлбəм",
+        "emoji": "📔"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "alembic",
+        "ipa": "əˈlɛm.bɪk",
+        "sampa": "əˈлэм.бɪк",
+        "uampa": "əˈлем.бик",
+        "emoji": "⚗️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "ambulance",
+        "ipa": "ˈæmbjələns",
+        "sampa": "ˈæмбйəлəнс",
+        "uampa": "ˈæмбйəлəнс",
+        "emoji": "🚑"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "amplifier",
+        "ipa": "ˈæmpləˌfaɪər",
+        "sampa": "ˈæмплəˌфайəр",
+        "uampa": "ˈæмплəˌфайəр",
+        "emoji": "🎛️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "anchor",
+        "ipa": "ˈæŋkər",
+        "sampa": "ˈæŋкəр",
+        "uampa": "ˈæŋкəр",
+        "emoji": "⚓"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "animal",
+        "ipa": "ˈænəməl",
+        "sampa": "ˈæнəмəл",
+        "uampa": "ˈæнəмəл",
+        "emoji": "🐾"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "apple",
+        "ipa": "ˈæpəl",
+        "sampa": "ˈæпəл",
+        "uampa": "ˈæпəл",
+        "emoji": "🍎"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "arm",
+        "ipa": "ɑrm",
+        "sampa": "ɑрм",
+        "uampa": "ɑрм",
+        "emoji": "💪"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "arrow",
+        "ipa": "ˈæroʊ",
+        "sampa": "ˈæроу",
+        "uampa": "ˈæроу",
+        "emoji": "🏹"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "artichoke",
+        "ipa": "ˈɑrtəˌʧoʊk",
+        "sampa": "ˈɑртəˌчоук",
+        "uampa": "ˈɑртəˌчоук",
+        "emoji": "🥬"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "artist palette",
+        "ipa": "ˈɑrtəst ˈpælət",
+        "sampa": "ˈɑртəст ˈпæлəт",
+        "uampa": "ˈɑртəст ˈпæлəт",
+        "emoji": "🎨"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "aunt",
+        "ipa": "ænt",
+        "sampa": "æнт",
+        "uampa": "æнт",
+        "emoji": "👩"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "automobile",
+        "ipa": "ˈɔtəmoʊˌbil",
+        "sampa": "ˈɔтəмоуˌбил",
+        "uampa": "ˈɔтəмоуˌбіл",
+        "emoji": "🚗"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "avocado",
+        "ipa": "ˌævəˈkɑdoʊ",
+        "sampa": "ˌæвəˈкɑдоу",
+        "uampa": "ˌævəˈкɑдоу",
+        "emoji": "🥑"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "axe",
+        "ipa": "æks",
+        "sampa": "æкс",
+        "uampa": "æкс",
+        "emoji": "🪓"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "backpack",
+        "ipa": "ˈbækˌpæk",
+        "sampa": "ˈбæкˌпæк",
+        "uampa": "ˈбæкˌпæк",
+        "emoji": "🎒"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "basket",
+        "ipa": "ˈbæskət",
+        "sampa": "ˈбæскəт",
+        "uampa": "ˈбæскəт",
+        "emoji": "🧺"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "basketball",
+        "ipa": "ˈbæskətˌbɔl",
+        "sampa": "ˈбæскəтˌбɔл",
+        "uampa": "ˈбæскəтˌбɔл",
+        "emoji": "🏀"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "bathtub",
+        "ipa": "ˈbæθtəb",
+        "sampa": "ˈбæθтəб",
+        "uampa": "ˈбæθтəб",
+        "emoji": "🛁"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "battery",
+        "ipa": "ˈbætəri",
+        "sampa": "ˈбæтəри",
+        "uampa": "ˈбæтəрі",
+        "emoji": "🔋"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "bed",
+        "ipa": "bɛd",
+        "sampa": "бэд",
+        "uampa": "бед",
+        "emoji": "🛏️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "bicycle",
+        "ipa": "ˈbaɪsɪkəl",
+        "sampa": "ˈбайсɪкəл",
+        "uampa": "ˈбайсикəл",
+        "emoji": "🚲"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "black nib",
+        "ipa": "blæk nɪb",
+        "sampa": "блæк нɪб",
+        "uampa": "блæк ниб",
+        "emoji": "✒️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "blue book",
+        "ipa": "blu bʊk",
+        "sampa": "блу бʊк",
+        "uampa": "блу бʊк",
+        "emoji": "📘"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "book",
+        "ipa": "bʊk",
+        "sampa": "бʊк",
+        "uampa": "бʊк",
+        "emoji": "📖"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "bookmark",
+        "ipa": "ˈbʊkmɑrk",
+        "sampa": "ˈбʊкмɑрк",
+        "uampa": "ˈбʊкмɑрк",
+        "emoji": "🔖"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "books",
+        "ipa": "bʊks",
+        "sampa": "бʊкс",
+        "uampa": "бʊкс",
+        "emoji": "📚"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "broom",
+        "ipa": "brum",
+        "sampa": "брум",
+        "uampa": "брум",
+        "emoji": "🧹"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "bus",
+        "ipa": "bʌs",
+        "sampa": "бʌс",
+        "uampa": "бʌс",
+        "emoji": "🚌"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "calendar",
+        "ipa": "ˈkæləndər",
+        "sampa": "ˈкæлəндəр",
+        "uampa": "ˈкæлəндəр",
+        "emoji": "📅"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "camera",
+        "ipa": "ˈkæmərə",
+        "sampa": "ˈкæмəрə",
+        "uampa": "ˈкæмəрə",
+        "emoji": "📷"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "candle",
+        "ipa": "ˈkændəl",
+        "sampa": "ˈкæндəл",
+        "uampa": "ˈкæндəл",
+        "emoji": "🕯️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "cat",
+        "ipa": "kæt",
+        "sampa": "кæт",
+        "uampa": "кæт",
+        "emoji": "🐱"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "chair",
+        "ipa": "ʧɛr",
+        "sampa": "чэр",
+        "uampa": "чер",
+        "emoji": "🪑"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "chess pawn",
+        "ipa": "ʧɛs pɔn",
+        "sampa": "чэс пɔн",
+        "uampa": "чес пɔн",
+        "emoji": "♟️"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "chopsticks",
+        "ipa": "ˈʧɑpˌstɪks",
+        "sampa": "ˈчɑпˌстɪкс",
+        "uampa": "ˈчɑпˌстикс",
+        "emoji": "🥢"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "closed book",
+        "ipa": "kloʊzd bʊk",
+        "sampa": "клоузд бʊк",
+        "uampa": "клоузд бʊк",
+        "emoji": "📕"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "computer disk",
+        "ipa": "kəmˈpjutər dɪsk",
+        "sampa": "кəмˈпъютəр дɪск",
+        "uampa": "кəмˈп’ютəр диск",
+        "emoji": "💽"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "computer mouse",
+        "ipa": "kəmˈpjutər maʊs",
+        "sampa": "кəмˈпъютəр маус",
+        "uampa": "кəмˈп’ютəр маус",
+        "emoji": "🖱️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "couch",
+        "ipa": "kaʊʧ",
+        "sampa": "кауч",
+        "uampa": "кауч",
+        "emoji": "🛋️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "crayon",
+        "ipa": "ˈkreɪˌɑn",
+        "sampa": "ˈкрэйˌɑн",
+        "uampa": "ˈкрейˌɑн",
+        "emoji": "🖍️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "credit card",
+        "ipa": "ˈkrɛdət kɑrd",
+        "sampa": "ˈкрэдəт кɑрд",
+        "uampa": "ˈкредəт кɑрд",
+        "emoji": "💳"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "crown",
+        "ipa": "kraʊn",
+        "sampa": "краун",
+        "uampa": "краун",
+        "emoji": "👑"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "desktop computer",
+        "ipa": "ˈdɛskˌtɑp kəmˈpjutər",
+        "sampa": "ˈдэскˌтɑп кəмˈпъютəр",
+        "uampa": "ˈдескˌтɑп кəмˈп’ютəр",
+        "emoji": "🖥️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "DNA strand",
+        "ipa": "ˈdiˌɛˈneɪ strænd",
+        "sampa": "ˈдиˌэˈнэй стрæнд",
+        "uampa": "ˈдіˌеˈней стрæнд",
+        "emoji": "🧬"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "dog",
+        "ipa": "dɔɡ",
+        "sampa": "дɔг",
+        "uampa": "дɔґ",
+        "emoji": "🐶"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "door",
+        "ipa": "dɔr",
+        "sampa": "дор",
+        "uampa": "дор",
+        "emoji": "🚪"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "dress",
+        "ipa": "drɛs",
+        "sampa": "дрэс",
+        "uampa": "дрес",
+        "emoji": "👗"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "DVD",
+        "ipa": "ˌdiˌviˈdi",
+        "sampa": "ˌдиˌвиˈди",
+        "uampa": "ˌдіˌvіˈді",
+        "emoji": "📀"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "ear",
+        "ipa": "ir",
+        "sampa": "ир",
+        "uampa": "ір",
+        "emoji": "👂"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "egg",
+        "ipa": "ɛɡ",
+        "sampa": "эг",
+        "uampa": "еґ",
+        "emoji": "🥚"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "eggplant",
+        "ipa": "ˈɛɡˌplænt",
+        "sampa": "ˈэгˌплæнт",
+        "uampa": "ˈеґˌплæнт",
+        "emoji": "🍆"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "electric plug",
+        "ipa": "ɪˈlɛktrɪk plʌɡ",
+        "sampa": "ɪˈлэктрɪк плʌг",
+        "uampa": "иˈлектрик плʌґ",
+        "emoji": "🔌"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "elevator",
+        "ipa": "ˈɛləˌveɪtər",
+        "sampa": "ˈэлəˌвэйтəр",
+        "uampa": "ˈелəˌvейтəр",
+        "emoji": "🛗"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "email",
+        "ipa": "iˈmeɪl",
+        "sampa": "иˈмэйл",
+        "uampa": "іˈмейл",
+        "emoji": "📧"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "end",
+        "ipa": "ɛnd",
+        "sampa": "энд",
+        "uampa": "енд",
+        "emoji": "🔚"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "engine",
+        "ipa": "ˈɛnʤən",
+        "sampa": "ˈэнджəн",
+        "uampa": "ˈенджəн",
+        "emoji": "⚙️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "envelope",
+        "ipa": "ˈɛnvəˌloʊp",
+        "sampa": "ˈэнвəˌлоуп",
+        "uampa": "ˈенvəˌлоуп",
+        "emoji": "✉️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "eraser",
+        "ipa": "ɪˈreɪsər",
+        "sampa": "ɪˈрэйсəр",
+        "uampa": "иˈрейсəр",
+        "emoji": "🧼"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "evening",
+        "ipa": "ˈivnɪŋ",
+        "sampa": "ˈивнɪŋ",
+        "uampa": "ˈіvниŋ",
+        "emoji": "🌆"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "example",
+        "ipa": "ɪɡˈzæmpəl",
+        "sampa": "ɪгˈзæмпəл",
+        "uampa": "иґˈзæмпəл",
+        "emoji": "ℹ️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "extension cord",
+        "ipa": "ɪkˈstɛnʃən kɔrd",
+        "sampa": "ɪкˈстэншəн корд",
+        "uampa": "икˈстеншəн корд",
+        "emoji": "🔌"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "eye",
+        "ipa": "aɪ",
+        "sampa": "ай",
+        "uampa": "ай",
+        "emoji": "👁️"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ði",
+        "word": "eyeglasses",
+        "ipa": "ˈaɪˌɡlæsəz",
+        "sampa": "ˈайˌглæсəз",
+        "uampa": "ˈайˌґлæсəз",
+        "emoji": "👓"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "fax machine",
+        "ipa": "fæks məˈʃin",
+        "sampa": "фæкс мəˈщин",
+        "uampa": "фæкс мəˈшін",
+        "emoji": "📠"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "ferry",
+        "ipa": "ˈfɛri",
+        "sampa": "ˈфэри",
+        "uampa": "ˈфері",
+        "emoji": "⛴️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "file folder",
+        "ipa": "faɪl ˈfoʊldər",
+        "sampa": "файл ˈфоулдəр",
+        "uampa": "файл ˈфоулдəр",
+        "emoji": "📁"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "film projector",
+        "ipa": "fɪlm prəˈʤɛktər",
+        "sampa": "фɪлм прəˈджэктəр",
+        "uampa": "филм прəˈджектəр",
+        "emoji": "📽️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "fire engine",
+        "ipa": "ˈfaɪər ˈɛnʤən",
+        "sampa": "ˈфайəр ˈэнджəн",
+        "uampa": "ˈфайəр ˈенджəн",
+        "emoji": "🚒"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "fire extinguisher",
+        "ipa": "ˈfaɪər ɪkˈstɪŋɡwɪʃər",
+        "sampa": "ˈфайəр ɪкˈстɪŋгwɪшəр",
+        "uampa": "ˈфайəр икˈстиŋґwишəр",
+        "emoji": "🧯"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "fish",
+        "ipa": "fɪʃ",
+        "sampa": "фɪш",
+        "uampa": "фиш",
+        "emoji": "🐟"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "flashlight",
+        "ipa": "ˈflæˌʃlaɪt",
+        "sampa": "ˈфлæˌшлайт",
+        "uampa": "ˈфлæˌшлайт",
+        "emoji": "🔦"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "floppy disk",
+        "ipa": "ˈflɑpi dɪsk",
+        "sampa": "ˈфлɑпи дɪск",
+        "uampa": "ˈфлɑпі диск",
+        "emoji": "💾"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "fork and knife",
+        "ipa": "fɔrk ænd naɪf",
+        "sampa": "форк æнд найф",
+        "uampa": "форк æнд найф",
+        "emoji": "🍴"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "fountain pen",
+        "ipa": "ˈfaʊntən pɛn",
+        "sampa": "ˈфаунтəн пэн",
+        "uampa": "ˈфаунтəн пен",
+        "emoji": "🖋️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "game die",
+        "ipa": "ɡeɪm daɪ",
+        "sampa": "гэйм дай",
+        "uampa": "ґейм дай",
+        "emoji": "🎲"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "gear",
+        "ipa": "ɡɪr",
+        "sampa": "гɪр",
+        "uampa": "ґир",
+        "emoji": "⚙️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "gem stone",
+        "ipa": "ʤɛm stoʊn",
+        "sampa": "джэм стоун",
+        "uampa": "джем стоун",
+        "emoji": "💎"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "girl",
+        "ipa": "ɡɜrl",
+        "sampa": "гɜрл",
+        "uampa": "ґɜрл",
+        "emoji": "👧"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "glasses",
+        "ipa": "ˈɡlæsəz",
+        "sampa": "ˈглæсəз",
+        "uampa": "ˈґлæсəз",
+        "emoji": "👓"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "green apple",
+        "ipa": "ɡrin ˈæpəl",
+        "sampa": "грин ˈæпəл",
+        "uampa": "ґрін ˈæпəл",
+        "emoji": "🍏"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "green book",
+        "ipa": "ɡrin bʊk",
+        "sampa": "грин бʊк",
+        "uampa": "ґрін бʊк",
+        "emoji": "📗"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "guitar",
+        "ipa": "ɡɪˈtɑr",
+        "sampa": "гɪˈтɑр",
+        "uampa": "ґиˈтɑр",
+        "emoji": "🎸"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "hammer",
+        "ipa": "ˈhæmər",
+        "sampa": "ˈhæмəр",
+        "uampa": "ˈhæмəр",
+        "emoji": "🔨"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "handbag",
+        "ipa": "ˈhændˌbæɡ",
+        "sampa": "ˈhæндˌбæг",
+        "uampa": "ˈhæндˌбæґ",
+        "emoji": "👜"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "helicopter",
+        "ipa": "ˈhɛlɪˌkɑptər",
+        "sampa": "ˈhэлɪˌкɑптəр",
+        "uampa": "ˈhелиˌкɑптəр",
+        "emoji": "🚁"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "hour",
+        "ipa": "ˈaʊər",
+        "sampa": "ˈауəр",
+        "uampa": "ˈауəр",
+        "emoji": "⏰"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "house",
+        "ipa": "haʊs",
+        "sampa": "hаус",
+        "uampa": "hаус",
+        "emoji": "🏠"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "ice cube",
+        "ipa": "aɪs kjub",
+        "sampa": "айс къюб",
+        "uampa": "айс к’юб",
+        "emoji": "🧊"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "instrument",
+        "ipa": "ˈɪnstrəmənt",
+        "sampa": "ˈɪнстрəмəнт",
+        "uampa": "ˈинстрəмəнт",
+        "emoji": "🎻"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "iron",
+        "ipa": "ˈaɪərn",
+        "sampa": "ˈайəрн",
+        "uampa": "ˈайəрн",
+        "emoji": "♨️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "island",
+        "ipa": "ˈaɪlənd",
+        "sampa": "ˈайлəнд",
+        "uampa": "ˈайлəнд",
+        "emoji": "🏝️"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "jeans",
+        "ipa": "ʤinz",
+        "sampa": "джинз",
+        "uampa": "джінз",
+        "emoji": "👖"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "joystick",
+        "ipa": "ˈʤɔɪˌstɪk",
+        "sampa": "ˈджойˌстɪк",
+        "uampa": "ˈджойˌстик",
+        "emoji": "🕹️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "juice box",
+        "ipa": "ʤus bɑks",
+        "sampa": "джус бɑкс",
+        "uampa": "джус бɑкс",
+        "emoji": "🧃"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "key",
+        "ipa": "ki",
+        "sampa": "ки",
+        "uampa": "кі",
+        "emoji": "🔑"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "label",
+        "ipa": "ˈleɪbəl",
+        "sampa": "ˈлэйбəл",
+        "uampa": "ˈлейбəл",
+        "emoji": "🏷️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "laptop",
+        "ipa": "ˈlæpˌtɑp",
+        "sampa": "ˈлæпˌтɑп",
+        "uampa": "ˈлæпˌтɑп",
+        "emoji": "💻"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "ledger",
+        "ipa": "ˈlɛʤər",
+        "sampa": "ˈлэджəр",
+        "uampa": "ˈледжəр",
+        "emoji": "📒"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "leg",
+        "ipa": "lɛɡ",
+        "sampa": "лэг",
+        "uampa": "леґ",
+        "emoji": "🦵"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "light bulb",
+        "ipa": "laɪt bʌlb",
+        "sampa": "лайт бʌлб",
+        "uampa": "лайт бʌлб",
+        "emoji": "💡"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "linked paperclips",
+        "ipa": "lɪŋkt ˈpeɪpərˌklɪps",
+        "sampa": "лɪŋкт ˈпэйпəрˌклɪпс",
+        "uampa": "лиŋкт ˈпейпəрˌклипс",
+        "emoji": "🖇️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "lipstick",
+        "ipa": "ˈlɪpˌstɪk",
+        "sampa": "ˈлɪпˌстɪк",
+        "uampa": "ˈлипˌстик",
+        "emoji": "💄"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "lock",
+        "ipa": "lɑk",
+        "sampa": "лɑк",
+        "uampa": "лɑк",
+        "emoji": "🔒"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "magnet",
+        "ipa": "ˈmæɡnət",
+        "sampa": "ˈмæгнəт",
+        "uampa": "ˈмæґнəт",
+        "emoji": "🧲"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "magnifying glass",
+        "ipa": "ˈmæɡnəˌfaɪɪŋ ɡlæs",
+        "sampa": "ˈмæгнəˌфайɪŋ глæс",
+        "uampa": "ˈмæґнəˌфайиŋ ґлæс",
+        "emoji": "🔍"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "man",
+        "ipa": "mæn",
+        "sampa": "мæн",
+        "uampa": "мæн",
+        "emoji": "👨"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "metro",
+        "ipa": "ˈmɛˌtroʊ",
+        "sampa": "ˈмэˌтроу",
+        "uampa": "ˈмеˌтроу",
+        "emoji": "🚇"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "microscope",
+        "ipa": "ˈmaɪkrəˌskoʊp",
+        "sampa": "ˈмайкрəˌскоуп",
+        "uampa": "ˈмайкрəˌскоуп",
+        "emoji": "🔬"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "money bag",
+        "ipa": "ˈmʌni bæɡ",
+        "sampa": "ˈмʌни бæг",
+        "uampa": "ˈмʌні бæґ",
+        "emoji": "💰"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "movie camera",
+        "ipa": "ˈmuvi ˈkæmərə",
+        "sampa": "ˈмуви ˈкæмəрə",
+        "uampa": "ˈмуvі ˈкæмəрə",
+        "emoji": "🎥"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "necktie",
+        "ipa": "ˈnɛkˌtaɪ",
+        "sampa": "ˈнэкˌтай",
+        "uampa": "ˈнекˌтай",
+        "emoji": "👔"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "newspaper",
+        "ipa": "ˈnuzˌpeɪpər",
+        "sampa": "ˈнузˌпэйпəр",
+        "uampa": "ˈнузˌпейпəр",
+        "emoji": "📰"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "nose",
+        "ipa": "noʊz",
+        "sampa": "ноуз",
+        "uampa": "ноуз",
+        "emoji": "👃"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "notebook",
+        "ipa": "ˈnoʊtˌbʊk",
+        "sampa": "ˈноутˌбʊк",
+        "uampa": "ˈноутˌбʊк",
+        "emoji": "📓"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "nut and bolt",
+        "ipa": "nʌt ænd boʊlt",
+        "sampa": "нʌт æнд боулт",
+        "uampa": "нʌт æнд боулт",
+        "emoji": "🔩"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "oar",
+        "ipa": "ɔr",
+        "sampa": "ор",
+        "uampa": "ор",
+        "emoji": "🚣"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "octopus",
+        "ipa": "ˈɑktəˌpʊs",
+        "sampa": "ˈɑктəˌпʊс",
+        "uampa": "ˈɑктəˌпʊс",
+        "emoji": "🐙"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "office",
+        "ipa": "ˈɔfəs",
+        "sampa": "ˈɔфəс",
+        "uampa": "ˈɔфəс",
+        "emoji": "🏢"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "oil can",
+        "ipa": "ɔɪl kæn",
+        "sampa": "ойл кæн",
+        "uampa": "ойл кæн",
+        "emoji": "🛢️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "oil lamp",
+        "ipa": "ɔɪl læmp",
+        "sampa": "ойл лæмп",
+        "uampa": "ойл лæмп",
+        "emoji": "🪔"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "olive",
+        "ipa": "ˈɑləv",
+        "sampa": "ˈɑлəв",
+        "uampa": "ˈɑлəv",
+        "emoji": "🫒"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "omelet",
+        "ipa": "ˈɑmlət",
+        "sampa": "ˈɑмлəт",
+        "uampa": "ˈɑмлəт",
+        "emoji": "🍳"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "onion",
+        "ipa": "ˈʌnjən",
+        "sampa": "ˈʌнйəн",
+        "uampa": "ˈʌнйəн",
+        "emoji": "🧅"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "open book",
+        "ipa": "ˈoʊpən bʊk",
+        "sampa": "ˈоупəн бʊк",
+        "uampa": "ˈоупəн бʊк",
+        "emoji": "📖"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "open file folder",
+        "ipa": "ˈoʊpən faɪl ˈfoʊldər",
+        "sampa": "ˈоупəн файл ˈфоулдəр",
+        "uampa": "ˈоупəн файл ˈфоулдəр",
+        "emoji": "📂"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "optical disk",
+        "ipa": "ˈɑptɪkəl dɪsk",
+        "sampa": "ˈɑптɪкəл дɪск",
+        "uampa": "ˈɑптикəл диск",
+        "emoji": "💿"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "orange",
+        "ipa": "ˈɔrənʤ",
+        "sampa": "ˈорəндж",
+        "uampa": "ˈорəндж",
+        "emoji": "🍊"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "orange book",
+        "ipa": "ˈɔrənʤ bʊk",
+        "sampa": "ˈорəндж бʊк",
+        "uampa": "ˈорəндж бʊк",
+        "emoji": "📙"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "organ",
+        "ipa": "ˈɔrɡən",
+        "sampa": "ˈоргəн",
+        "uampa": "ˈорґəн",
+        "emoji": "🎹"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "overalls",
+        "ipa": "ˈoʊvəˌrɔlz",
+        "sampa": "ˈоувəˌрɔлз",
+        "uampa": "ˈоуvəˌрɔлз",
+        "emoji": "👖"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "package",
+        "ipa": "ˈpækəʤ",
+        "sampa": "ˈпæкəдж",
+        "uampa": "ˈпæкəдж",
+        "emoji": "📦"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "pager",
+        "ipa": "ˈpeɪʤər",
+        "sampa": "ˈпэйджəр",
+        "uampa": "ˈпейджəр",
+        "emoji": "📟"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "paintbrush",
+        "ipa": "ˈpeɪntˌbrʌʃ",
+        "sampa": "ˈпэйнтˌбрʌш",
+        "uampa": "ˈпейнтˌбрʌш",
+        "emoji": "🖌️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "paperclip",
+        "ipa": "ˈpeɪpərˌklɪp",
+        "sampa": "ˈпэйпəрˌклɪп",
+        "uampa": "ˈпейпəрˌклип",
+        "emoji": "📎"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "pen",
+        "ipa": "pɛn",
+        "sampa": "пэн",
+        "uampa": "пен",
+        "emoji": "🖊️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "pencil",
+        "ipa": "ˈpɛnsəl",
+        "sampa": "ˈпэнсəл",
+        "uampa": "ˈпенсəл",
+        "emoji": "✏️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "pill",
+        "ipa": "pɪl",
+        "sampa": "пɪл",
+        "uampa": "пил",
+        "emoji": "💊"
+    },
+    {
+        "articleA": "",
+        "articleThe": "",
+        "word": "",
+        "ipa": "",
+        "sampa": "",
+        "uampa": "",
+        "emoji": ""
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "printer",
+        "ipa": "ˈprɪntər",
+        "sampa": "ˈпрɪнтəр",
+        "uampa": "ˈпринтəр",
+        "emoji": "🖨️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "puzzle piece",
+        "ipa": "ˈpʌzəl pis",
+        "sampa": "ˈпʌзəл пис",
+        "uampa": "ˈпʌзəл піс",
+        "emoji": "🧩"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "queen",
+        "ipa": "kwin",
+        "sampa": "кwин",
+        "uampa": "кwін",
+        "emoji": "👸"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "red paper lantern",
+        "ipa": "rɛd ˈpeɪpər ˈlæntərn",
+        "sampa": "рэд ˈпэйпəр ˈлæнтəрн",
+        "uampa": "ред ˈпейпəр ˈлæнтəрн",
+        "emoji": "🏮"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "ring",
+        "ipa": "rɪŋ",
+        "sampa": "рɪŋ",
+        "uampa": "риŋ",
+        "emoji": "💍"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "rocket",
+        "ipa": "ˈrɑkət",
+        "sampa": "ˈрɑкəт",
+        "uampa": "ˈрɑкəт",
+        "emoji": "🚀"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "rolled-up newspaper",
+        "ipa": "roʊld-ʌp ˈnuzˌpeɪpər",
+        "sampa": "роулд-ʌп ˈнузˌпэйпəр",
+        "uampa": "роулд-ʌп ˈнузˌпейпəр",
+        "emoji": "🗞️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "sailboat",
+        "ipa": "ˈseɪlˌboʊt",
+        "sampa": "ˈсэйлˌбоут",
+        "uampa": "ˈсейлˌбоут",
+        "emoji": "⛵"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "satellite antenna",
+        "ipa": "ˈsætəˌlaɪt ænˈtɛnə",
+        "sampa": "ˈсæтəˌлайт æнˈтэнə",
+        "uampa": "ˈсæтəˌлайт æнˈтенə",
+        "emoji": "📡"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "school",
+        "ipa": "skul",
+        "sampa": "скул",
+        "uampa": "скул",
+        "emoji": "🏫"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "scissors",
+        "ipa": "ˈsɪzərz",
+        "sampa": "ˈсɪзəрз",
+        "uampa": "ˈсизəрз",
+        "emoji": "✂️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "scroll",
+        "ipa": "skroʊl",
+        "sampa": "скроул",
+        "uampa": "скроул",
+        "emoji": "📜"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "shoe",
+        "ipa": "ʃu",
+        "sampa": "щу",
+        "uampa": "шу",
+        "emoji": "👟"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "shopping cart",
+        "ipa": "ˈʃɑpɪŋ kɑrt",
+        "sampa": "ˈшɑпɪŋ кɑрт",
+        "uampa": "ˈшɑпиŋ кɑрт",
+        "emoji": "🛒"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "shower",
+        "ipa": "ˈʃaʊər",
+        "sampa": "ˈшауəр",
+        "uampa": "ˈшауəр",
+        "emoji": "🚿"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "skateboard",
+        "ipa": "ˈskeɪtˌbɔrd",
+        "sampa": "ˈскэйтˌборд",
+        "uampa": "ˈскейтˌборд",
+        "emoji": "🛹"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "smartphone",
+        "ipa": "ˈsmɑɹtfoʊn",
+        "sampa": "ˈсмɑɹтфоун",
+        "uampa": "ˈсмɑɹтфоун",
+        "emoji": "📱"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "soap",
+        "ipa": "soʊp",
+        "sampa": "соуп",
+        "uampa": "соуп",
+        "emoji": "🧼"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "soccer ball",
+        "ipa": "ˈsɑkər bɔl",
+        "sampa": "ˈсɑкəр бɔл",
+        "uampa": "ˈсɑкəр бɔл",
+        "emoji": "⚽"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "sponge",
+        "ipa": "spʌnʤ",
+        "sampa": "спʌндж",
+        "uampa": "спʌндж",
+        "emoji": "🧽"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "spoon",
+        "ipa": "spun",
+        "sampa": "спун",
+        "uampa": "спун",
+        "emoji": "🥄"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "stethoscope",
+        "ipa": "ˈstɛθəˌskoʊp",
+        "sampa": "ˈстэθəˌскоуп",
+        "uampa": "ˈстеθəˌскоуп",
+        "emoji": "🩺"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "stop sign",
+        "ipa": "stɑp saɪn",
+        "sampa": "стɑп сайн",
+        "uampa": "стɑп сайн",
+        "emoji": "🛑"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "straight ruler",
+        "ipa": "streɪt ˈrulər",
+        "sampa": "стрэйт ˈрулəр",
+        "uampa": "стрейт ˈрулəр",
+        "emoji": "📏"
+    },
+    {
+        "articleA": "x",
+        "articleThe": "ðə",
+        "word": "sunglasses",
+        "ipa": "ˈsʌnˌɡlæsɪz",
+        "sampa": "ˈсʌнˌглæсɪз",
+        "uampa": "ˈсʌнˌґлæсиз",
+        "emoji": "🕶️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "syringe",
+        "ipa": "səˈrɪnʤ",
+        "sampa": "сəˈрɪндж",
+        "uampa": "сəˈриндж",
+        "emoji": "💉"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "t-shirt",
+        "ipa": "ti-ʃɜrt",
+        "sampa": "ти-щɜрт",
+        "uampa": "ті-шɜрт",
+        "emoji": "👕"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "table",
+        "ipa": "ˈteɪbəl",
+        "sampa": "ˈтэйбəл",
+        "uampa": "ˈтейбəл",
+        "emoji": "🪟"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "teacher",
+        "ipa": "ˈtiʧər",
+        "sampa": "ˈтичəр",
+        "uampa": "ˈтічəр",
+        "emoji": "🧑🏫"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "telephone",
+        "ipa": "ˈtɛləˌfoʊn",
+        "sampa": "ˈтэлəˌфоун",
+        "uampa": "ˈтелəˌфоун",
+        "emoji": "☎️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "telephone receiver",
+        "ipa": "ˈtɛləˌfoʊn rəˈsivər",
+        "sampa": "ˈтэлəˌфоун рəˈсивəр",
+        "uampa": "ˈтелəˌфоун рəˈсіvəр",
+        "emoji": "📞"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "telescope",
+        "ipa": "ˈtɛləˌskoʊp",
+        "sampa": "ˈтэлəˌскоуп",
+        "uampa": "ˈтелəˌскоуп",
+        "emoji": "🔭"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "tennis racket",
+        "ipa": "ˈtɛnəs ˈrækɪt",
+        "sampa": "ˈтэнəс ˈрæкɪт",
+        "uampa": "ˈтенəс ˈрæкит",
+        "emoji": "🎾"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "test tube",
+        "ipa": "tɛst tub",
+        "sampa": "тэст туб",
+        "uampa": "тест туб",
+        "emoji": "🧪"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "thread",
+        "ipa": "θrɛd",
+        "sampa": "θрэд",
+        "uampa": "θред",
+        "emoji": "🧵"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "toilet",
+        "ipa": "ˈtɔɪlət",
+        "sampa": "ˈтойлəт",
+        "uampa": "ˈтойлəт",
+        "emoji": "🚽"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "toolbox",
+        "ipa": "ˈtulˌbɔks",
+        "sampa": "ˈтулˌбɔкс",
+        "uampa": "ˈтулˌбɔкс",
+        "emoji": "🧰"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "trackball",
+        "ipa": "ˈtrækˌbɔl",
+        "sampa": "ˈтрæкˌбɔл",
+        "uampa": "ˈтрæкˌбɔл",
+        "emoji": "🖲️"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "train",
+        "ipa": "treɪn",
+        "sampa": "трэйн",
+        "uampa": "трейн",
+        "emoji": "🚂"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "triangular ruler",
+        "ipa": "traɪˈæŋɡjələr ˈrulər",
+        "sampa": "трайˈæŋгйəлəр ˈрулəр",
+        "uampa": "трайˈæŋґйəлəр ˈрулəр",
+        "emoji": "📐"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "tumbler glass",
+        "ipa": "ˈtʌmblər ɡlæs",
+        "sampa": "ˈтʌмблəр глæс",
+        "uampa": "ˈтʌмблəр ґлæс",
+        "emoji": "🥃"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "ukulele",
+        "ipa": "ˌjukəˈleɪli",
+        "sampa": "ˌюкəˈлэйли",
+        "uampa": "ˌюкəˈлейлі",
+        "emoji": "🎸"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "umbrella",
+        "ipa": "əmˈbrɛlə",
+        "sampa": "əмˈбрэлə",
+        "uampa": "əмˈбрелə",
+        "emoji": "☂️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "underwear",
+        "ipa": "ˈʌndərˌwɛr",
+        "sampa": "ˈʌндəрˌwэр",
+        "uampa": "ˈʌндəрˌwер",
+        "emoji": "🩲"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "urn",
+        "ipa": "ɜrn",
+        "sampa": "ɜрн",
+        "uampa": "ɜрн",
+        "emoji": "⚱️"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "USB",
+        "ipa": "ju-ɛs-bi",
+        "sampa": "ю-эс-би",
+        "uampa": "ю-ес-бі",
+        "emoji": "💾"
+    },
+    {
+        "articleA": "ən",
+        "articleThe": "ði",
+        "word": "utensil",
+        "ipa": "juˈtɛnsəl",
+        "sampa": "юˈтэнсəл",
+        "uampa": "юˈтенсəл",
+        "emoji": "🍴"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "video camera",
+        "ipa": "ˈvɪdioʊ ˈkæmərə",
+        "sampa": "ˈвɪдиоу ˈкæмəрə",
+        "uampa": "ˈvидіоу ˈкæмəрə",
+        "emoji": "📹"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "video game",
+        "ipa": "ˈvɪdioʊ ɡeɪm",
+        "sampa": "ˈвɪдиоу гэйм",
+        "uampa": "ˈvидіоу ґейм",
+        "emoji": "🎮"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "videocassette",
+        "ipa": "ˈvɪdioʊkæˌsɛt",
+        "sampa": "ˈвɪдиоукæˌсэт",
+        "uampa": "ˈvидіоукæˌсет",
+        "emoji": "📼"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "watch",
+        "ipa": "wɑʧ",
+        "sampa": "wɑч",
+        "uampa": "wɑч",
+        "emoji": "⌚"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "window",
+        "ipa": "ˈwɪndoʊ",
+        "sampa": "ˈwɪндоу",
+        "uampa": "ˈwиндоу",
+        "emoji": "🪟"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "wine glass",
+        "ipa": "waɪn ɡlæs",
+        "sampa": "wайн глæс",
+        "uampa": "wайн ґлæс",
+        "emoji": "🍷"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "wrench",
+        "ipa": "rɛnʧ",
+        "sampa": "рэнч",
+        "uampa": "ренч",
+        "emoji": "🔧"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "yarn",
+        "ipa": "jɑrn",
+        "sampa": "йɑрн",
+        "uampa": "йɑрн",
+        "emoji": "🧶"
+    },
+    {
+        "articleA": "ə",
+        "articleThe": "ðə",
+        "word": "zoo",
+        "ipa": "zu",
+        "sampa": "зу",
+        "uampa": "зу",
+        "emoji": "🐘"
+    }
+]

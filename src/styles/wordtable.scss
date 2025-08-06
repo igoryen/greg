@@ -1,0 +1,51 @@
+#wordTable {
+    font-family: "Noto Sans", sans-serif;
+
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    th,
+    td {
+        border: 1px solid #ccc;
+        // padding: 0.5rem;
+        text-align: center;
+    }
+
+    td {
+        &.emoji {
+            font-size: xx-large;
+        }
+
+        &.indef {
+            font-size: x-large;
+            background-color: lightgreen;
+
+        }
+
+        &.def {
+            font-size: x-large;
+            background-color: #f7dcaa;
+        }
+
+        &.write {
+            font-size: normal;
+        }
+
+        &.say {
+            font-size: medium;
+        }
+    }
+
+    th button {
+        margin-left: 0.5rem;
+    }
+
+    .clickable {
+        cursor: pointer;
+        color: darkblue;
+    }
+
+}
