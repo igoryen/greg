@@ -1,0 +1,232 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "number": 33,
+  "date": "2025-08-07",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мнение, точка зрения ",
+   "ipa": "ə bɪˈlif",
+   "spell": "a belief"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сложное слово",
+   "ipa": "ə ˈkɑmpaʊnd wɜrd",
+   "spell": "a compound word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "демагог",
+   "ipa": "ə ˈdɛməˌɡɑɡ",
+   "spell": "a demagogue"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "несколько слов мудрости",
+   "ipa": "ə fju wɜrdz ʌv ˈwɪzdəm",
+   "spell": "a few words of wisdom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мудрый человек",
+   "ipa": "ə mæn ʌv ɡreɪt ˈwɪzdəm",
+   "spell": "a man of great wisdom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мудрый старец",
+   "ipa": "ə waɪz oʊld mæn",
+   "spell": "a wise old man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "взрослость, возмужалость ~ взрослая пора, взрослое состояние",
+   "ipa": "əˈdʌltnəs ~ əˈdʌltˌhʊd",
+   "spell": "adultness ~ adulthood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "изумление",
+   "ipa": "əˈmeɪzmənt",
+   "spell": "amazement"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скука",
+   "ipa": "ˈbɔrdəm",
+   "spell": "boredom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вопреки распространённому мнению",
+   "ipa": "ˈkɑntrɛri tu ˈpɑpjələr bɪˈlif",
+   "spell": "contrary to popular belief"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в рабочее время (моё)",
+   "ipa": "ˈdʊrɪŋ wɜrk ˈaʊərz",
+   "spell": "during work hours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "во время работы (офиса)",
+   "ipa": "ˈdʊrɪŋ ˈwɜrkɪŋ ˈaʊərz",
+   "spell": "during working hours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "например",
+   "ipa": "i.ʤi. (fɔr ɪɡˈzæmpəl)",
+   "spell": "e.g. (for example)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня очень живое воображение",
+   "ipa": "aɪ hæv ə ˈvɛri ˈvɪvɪd ɪˌmæʤəˈneɪʃən",
+   "spell": "I have a very vivid imagination"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это было огромным разочарованием",
+   "ipa": "ɪt wʌz ə hjuʤ ˌdɪsəˈpɔɪntmənt",
+   "spell": "it was a huge disappointment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это перерастает в серьёзные отношения",
+   "ipa": "ɪts bɪˈkʌmɪŋ ə ˈsɪriəs riˈleɪʃənˌʃɪp",
+   "spell": "it's becoming a serious relationship"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дольше",
+   "ipa": "ˈlɔŋɡər",
+   "spell": "longer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой ноутбук сдох",
+   "ipa": "maɪ ˈlæpˌtɑp daɪd ɑn mi",
+   "spell": "my laptop died on me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стыд ~ пристыженный",
+   "ipa": "ʃeɪm ~ əˈʃeɪmd",
+   "spell": "shame ~ ashamed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это был очень мудрый шаг",
+   "ipa": "ðæt wʌz ə ˈvɛri waɪz muv",
+   "spell": "that was a very wise move"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это невозможно",
+   "ipa": "ðæts ɪmˈpɑsəbəl",
+   "spell": "that's impossible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "основное ударение",
+   "ipa": "ðə ˈpraɪˌmɛri strɛs",
+   "spell": "the primary stress"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "второстепенное ударение",
+   "ipa": "ðə ˈsɛkənˌdɛri strɛs",
+   "spell": "the secondary stress"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть большая вероятность, что это произойдёт",
+   "ipa": "ðɛr ɪz ə strɔŋ ˌpɑsəˈbɪləti ðæt ɪt wɪl ˈhæpən",
+   "spell": "there is a strong possibility that it will happen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "непосредственной опасности не было",
+   "ipa": "ðɛr wʌz noʊ ɪˈmidiət ˈdeɪnʤər",
+   "spell": "there was no immediate danger"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выразить соболезнования по поводу вашей ужасной утраты",
+   "ipa": "tu ɪkˈsprɛs maɪ ˈsɪmpəθi fɔr jʊər ˈtɛrəbəl lɔs",
+   "spell": "to express my sympathy for your terrible loss"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "к моему полному изумлению",
+   "ipa": "tu maɪ kəmˈplit əˈmeɪzmənt",
+   "spell": "to my complete amazement"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ждать этого",
+   "ipa": "tu weɪt fɔr ɪt",
+   "spell": "to wait for it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на работе",
+   "ipa": "waɪl æt wɜrk",
+   "spell": "while at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мудрость",
+   "ipa": "ˈwɪzdəm",
+   "spell": "wisdom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты выбыл, выпал",
+   "ipa": "ju hæv drɑpt aʊt",
+   "spell": "you have dropped out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ваша ужасная утрата",
+   "ipa": "jʊər ˈtɛrəbəl lɔs",
+   "spell": "your terrible loss"
+ }
+]
+}
