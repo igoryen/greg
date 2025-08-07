@@ -1,0 +1,414 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 33,
+  "date": "2025-08-06",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красивый голос",
+   "ipa": "ə ˈбъютəфəл войс",
+   "spell": "a beautiful voice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кепка",
+   "ipa": "ə кæп",
+   "spell": "a cap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "цепь ~ цепи",
+   "ipa": "ə чэйн ~ чэйнз",
+   "spell": "a chain ~ chains"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "страна",
+   "ipa": "ə ˈкʌнтри",
+   "spell": "a country"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чашка",
+   "ipa": "ə кʌп",
+   "spell": "a cup"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брелок",
+   "ipa": "ə ки чэйн",
+   "spell": "a key chain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "карта",
+   "ipa": "ə мæп",
+   "spell": "a map"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кружка",
+   "ipa": "ə мʌг",
+   "spell": "a mug"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "открытка",
+   "ipa": "ə ˈпоустˌкɑрд",
+   "spell": "a postcard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рубашка",
+   "ipa": "ə щɜрт",
+   "spell": "a shirt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сувенир",
+   "ipa": "ə ˌсувəˈнɪр",
+   "spell": "a souvenir"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сувенирный киоск",
+   "ipa": "ə ˌсувəˈнɪр стæнд",
+   "spell": "a souvenir stand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "футболка",
+   "ipa": "ə ти-щɜрт",
+   "spell": "a T-shirt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "игрушка",
+   "ipa": "ə той",
+   "spell": "a toy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неделя",
+   "ipa": "ə wик",
+   "spell": "a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слово",
+   "ipa": "ə wɜрд",
+   "spell": "a word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "футболка Янкиз",
+   "ipa": "ə ˈйæŋкиз ти-щɜрт",
+   "spell": "a Yankees T-shirt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эхо повторяет звуки",
+   "ipa": "əн ˈэкоу рɪˈпитс саундз",
+   "spell": "an echo repeats sounds"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обратно в {место}",
+   "ipa": "бæк ту {ə плэйс}",
+   "spell": "back to {a place}"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пятнадцать",
+   "ipa": "фɪфˈтин",
+   "spell": "fifteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на сколько времени?",
+   "ipa": "фор hау лɔŋ?",
+   "spell": "for how long?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "четырнадцать",
+   "ipa": "ˈфорˈтин",
+   "spell": "fourteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько это стоит?",
+   "ipa": "hау мʌч ɪз ɪт?",
+   "spell": "how much is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько?",
+   "ipa": "hау мʌч?",
+   "spell": "how much?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как?",
+   "ipa": "hау?",
+   "spell": "how?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я еду в {страну}",
+   "ipa": "ай æм ˈгоуɪŋ ту {ə ˈкʌнтри}",
+   "spell": "I am going to {a country}"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "интересно",
+   "ipa": "ˈɪнтрəстɪŋ",
+   "spell": "interesting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всего три",
+   "ipa": "ɪтс ˈоунли θри",
+   "spell": "it's only three"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много",
+   "ipa": "мʌч",
+   "spell": "much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неплохо",
+   "ipa": "нɑт бæд",
+   "spell": "not bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кого? чего?",
+   "ipa": "ʌв",
+   "spell": "of"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "от одного до восьми",
+   "ipa": "wʌн ту эйт",
+   "spell": "one to eight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фотографии - это сувениры",
+   "ipa": "ˈпɪкчəрз ɑр ˌсувəˈнɪрз",
+   "spell": "pictures are souvenirs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скажи!",
+   "ipa": "сэй!",
+   "spell": "say!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шесть",
+   "ipa": "сɪкс",
+   "spell": "six"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-то",
+   "ipa": "ˈсʌмθɪŋ",
+   "spell": "something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "большое спасибо!",
+   "ipa": "θæŋк ю ˈвэри мʌч!",
+   "spell": "thank you very much!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тот, та, то",
+   "ipa": "ðæт",
+   "spell": "that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в первый раз",
+   "ipa": "ðə фɜрст тайм",
+   "spell": "the first time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "новый айфон",
+   "ipa": "ðə ну ˈайˌфоун",
+   "spell": "the new iPhone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кубок мира",
+   "ipa": "ðə wɜрлд кʌп",
+   "spell": "the world cup"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эти",
+   "ipa": "ðиз",
+   "spell": "these"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "этот, эта, это",
+   "ipa": "ðɪс",
+   "spell": "this"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "те",
+   "ipa": "ðоуз",
+   "spell": "those"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "покупать",
+   "ipa": "ту бай",
+   "spell": "to buy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двенадцать дней",
+   "ipa": "тwэлв дэйз",
+   "spell": "twelve days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцать пять",
+   "ipa": "ˈтwэнти файв",
+   "spell": "twenty five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "две недели",
+   "ipa": "ту wикс",
+   "spell": "two weeks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень много",
+   "ipa": "ˈвэри мʌч",
+   "spell": "very much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "словарный запас",
+   "ipa": "воуˈкæбйəˌлэри",
+   "spell": "vocabulary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добро пожаловать!",
+   "ipa": "ˈwэлкəм!",
+   "spell": "welcome!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что покупает женщина?",
+   "ipa": "wɑт дʌз ðə ˈwʊмəн бай?",
+   "spell": "what does the woman buy?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где, куда",
+   "ipa": "wэр",
+   "spell": "where"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "куда ты идёшь?",
+   "ipa": "wэр ɑр ю ˈгоуɪŋ?",
+   "spell": "where are you going?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кем? чем?",
+   "ipa": "wɪð",
+   "spell": "with"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "номерами, числами",
+   "ipa": "wɪð ˈнʌмбəрз",
+   "spell": "with numbers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты должен привезти сувениры",
+   "ipa": "ю hæв ту брɪŋ бæк сʌм ˌсувəˈнɪрз",
+   "spell": "you have to bring back some souvenirs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожалуйста!",
+   "ipa": "йʊр ˈwэлкəм!",
+   "spell": "you're welcome!"
+ }
+]
+}
