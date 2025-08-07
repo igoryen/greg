@@ -1,0 +1,442 @@
+{
+  "student": "Ivan P.",
+  "slug": "ip",
+  "number": 62,
+  "date": "2025-08-06",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "соняшник",
+   "ipa": "ə ˈсʌнˌфлауəр",
+   "spell": "a sunflower"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "місто",
+   "ipa": "ə таун",
+   "spell": "a town"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дуже маленька різниця",
+   "ipa": "ə ˈvері смɔл ˈдифəрəнс",
+   "spell": "a very small difference"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "майже однакові",
+   "ipa": "ˈɔлˌмоуст ðə сейм",
+   "spell": "almost the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у віці п'ятдесяти років",
+   "ipa": "æт ðі ейдж ʌv ˈфифті",
+   "spell": "at the age of fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зателефонуй мені в понеділок на роботу",
+   "ipa": "кɔл мі ɑн ˈмʌнˌдей æт wɜрк",
+   "spell": "call me on Monday at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їзда по пішохідному переходу",
+   "ipa": "ˈдрайvиŋ ɑн ðə ˈкрɑˌсwɑк",
+   "spell": "driving on the crosswalk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їзда дорогою",
+   "ipa": "ˈдрайvиŋ ɑн ðə роуд",
+   "spell": "driving on the road"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їзда по тротуару",
+   "ipa": "ˈдрайvиŋ ɑн ðə ˈсайˌдwɔк",
+   "spell": "driving on the sidewalk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "з Гаваїв",
+   "ipa": "фрʌм həˈwайˌі",
+   "spell": "from Hawaii"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як щодо Ліннвуда?",
+   "ipa": "hау əˈбаут ˈлинwʊд?",
+   "spell": "how about Lynnwood?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як щодо тебе?",
+   "ipa": "hау əˈбаут ю?",
+   "spell": "how about you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як справи?",
+   "ipa": "hау ɑр ю?",
+   "spell": "how are you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як воно?",
+   "ipa": "hау из ит?",
+   "spell": "how is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "як вона?",
+   "ipa": "hау из ші?",
+   "spell": "how is she?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поспішай!",
+   "ipa": "ˈhɜрі ʌп!",
+   "spell": "hurry up!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені дуже шкода",
+   "ipa": "ай æм ˈрилі ˈсɑрі",
+   "spell": "I am really sorry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені шкода",
+   "ipa": "ай æм ˈсɑрі",
+   "spell": "I am sorry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це правильно?",
+   "ipa": "из ðæт райт?",
+   "spell": "is that right?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зараз серпень",
+   "ipa": "ит из ˈɑґəст",
+   "spell": "it is August"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це важливо для тебе",
+   "ipa": "ит из имˈпортəнт ту ю",
+   "spell": "it is important to you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сьогодні середа",
+   "ipa": "ит из ˈwензˌдей",
+   "spell": "it is Wednesday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Ліннвуд теж занадто малий",
+   "ipa": "ˈлинwʊд из ту смɔл, ту",
+   "spell": "Lynnwood is too small, too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження моєї дочки...",
+   "ipa": "май ˈдɔтəрз ˈбɜрθˌдей из ...",
+   "spell": "my daughter's birthday is ..."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження мого батька - двадцять сьоме травня",
+   "ipa": "май ˈфɑðəрз ˈбɜрθˌдей из мей ˈтwенті-ˈсеvəнθ",
+   "spell": "my father's birthday is May twenty-seventh"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мої батьки",
+   "ipa": "май ˈперəнтс",
+   "spell": "my parents"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження мого сина...",
+   "ipa": "май сʌнз ˈбɜрθˌдей из ...",
+   "spell": "my son's birthday is ..."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження моєї дружини",
+   "ipa": "май wайфс ˈбɜрθˌдей",
+   "spell": "my wife's birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я сам",
+   "ipa": "ˌмайˈселф",
+   "spell": "myself"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дев'ятнадцяте",
+   "ipa": "ˈнайнˈтінθ",
+   "spell": "nineteenth"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "звичайно",
+   "ipa": "ʌv корс",
+   "spell": "of course"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ще раз",
+   "ipa": "wʌн мор тайм",
+   "spell": "one more time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "інші дати",
+   "ipa": "ˈʌðəр дейтс",
+   "spell": "other dates"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Рятувати рядового Раяна",
+   "ipa": "ˈсейvиŋ ˈпрайvəт ˈрайəн",
+   "spell": "Saving private Ryan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "себе",
+   "ipa": "селф",
+   "spell": "self"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "насіння соняшника",
+   "ipa": "ˈсʌнˌфлауəр сідз",
+   "spell": "sunflower seeds"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розмова",
+   "ipa": "ˈтɔкиŋ",
+   "spell": "talking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розмова по телефону",
+   "ipa": "ˈтɔкиŋ ɑн ðə фоун",
+   "spell": "talking on the phone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "підлітки",
+   "ipa": "ˈтіˌнейджəрз",
+   "spell": "teenagers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день тижня",
+   "ipa": "ðə дей ʌv ðə wік",
+   "spell": "the day of the week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "час летить",
+   "ipa": "тайм флайз",
+   "spell": "time flies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поспішати",
+   "ipa": "ту ˈhɜрі",
+   "spell": "to hurry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розмовляти",
+   "ipa": "ту тɔк",
+   "spell": "to talk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розповідати про свою подорож",
+   "ipa": "ту тɔк əˈбаут йʊəр трип",
+   "spell": "to talk about your trip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сьогодні шосте серпня",
+   "ipa": "тəˈдей из ˈɑґəст сиксθ",
+   "spell": "today is August sixth"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "завтра сьоме серпня",
+   "ipa": "тəˈмɑˌроу из ˈɑґəст ˈсеvəнθ",
+   "spell": "tomorrow is August seventh"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двадцять друге",
+   "ipa": "ˈтwенті-ˈсекəнд",
+   "spell": "twenty-second"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам потрібно поговорити",
+   "ipa": "wі нід ту тɔк",
+   "spell": "we need to talk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "який сьогодні день тижня?",
+   "ipa": "wɑт дей ʌv ðə wік из ит?",
+   "spell": "what day of the week is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що це?",
+   "ipa": "wɑт из ит?",
+   "spell": "what is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яке сьогодні число?",
+   "ipa": "wɑт из ðə дейт тəˈдей?",
+   "spell": "what is the date today?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "який зараз місяць?",
+   "ipa": "wɑт мʌнθ из ит?",
+   "spell": "what month is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "які ще дати",
+   "ipa": "wɑт ˈʌðəр дейтс",
+   "spell": "what other dates"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "які ще дати є святами?",
+   "ipa": "wɑт ˈʌðəр дейтс ɑр ˈhɑлəˌдейз?",
+   "spell": "what other dates are holidays?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яке число завтра?",
+   "ipa": "wʌтс ðə дейт тəˈмɑˌроу?",
+   "spell": "what's the date tomorrow?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли в тебе день народження?",
+   "ipa": "wенз йʊəр ˈбɜрθˌдей?",
+   "spell": "when's your birthday?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хто вона?",
+   "ipa": "hу из ші?",
+   "spell": "who is she?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому він їй телефонує?",
+   "ipa": "wай дʌз hі кɔл hɜр?",
+   "spell": "why does he call her?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому Роб телефонує Дженні?",
+   "ipa": "wай дʌз рɑб кɔл ˈджені?",
+   "spell": "why does Rob call Jenny?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти прибуваєш",
+   "ipa": "ю əˈрайv",
+   "spell": "you arrive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти знаєш",
+   "ipa": "ю ноу",
+   "spell": "you know"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти їдеш",
+   "ipa": "ю ліv",
+   "spell": "you leave"
+ }
+]
+}
