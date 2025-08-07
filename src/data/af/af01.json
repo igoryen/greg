@@ -1,0 +1,890 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "number": 1,
+  "date": "2025-08-07",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "канадский гусь",
+   "ipa": "ə кəˈнэйдиəн гус",
+   "spell": "a Canadian goose"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кардиолог",
+   "ipa": "ə ˌкɑрдиˈɑлəджɪст",
+   "spell": "a cardiologist"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потолок",
+   "ipa": "ə ˈсилɪŋ",
+   "spell": "a ceiling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коллега",
+   "ipa": "ə ˈкоуˈwɜркəр",
+   "spell": "a co-worker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "блин",
+   "ipa": "ə крэйп",
+   "spell": "a crepe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "требовательная работа",
+   "ipa": "ə дɪˈмæндɪŋ джɑб",
+   "spell": "a demanding job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "семейный врач",
+   "ipa": "ə ˈфæмəли ˈдɑктəр",
+   "spell": "a family doctor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обогреватель",
+   "ipa": "ə ˈhитəр",
+   "spell": "a heater"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много китайцев",
+   "ipa": "ə лɑт ʌв чайˈниз ˈпипəл",
+   "spell": "a lot of Chinese people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много мексиканцев",
+   "ipa": "ə лɑт ʌв ˈмэксɪкəнз",
+   "spell": "a lot of Mexicans"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "миля длиннее километра",
+   "ipa": "ə майл ɪз ˈлɔŋгəр ðæн ə кəˈлɑмəтəр",
+   "spell": "a mile is longer than a kilometer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мини-чизкейк",
+   "ipa": "ə ˈмɪни ˈчизˌкэйк",
+   "spell": "a mini cheesecake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ипотека",
+   "ipa": "ə ˈморгəдж",
+   "spell": "a mortgage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сосед",
+   "ipa": "ə ˈнэйбəр",
+   "spell": "a neighbor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "район",
+   "ipa": "ə ˈнэйбəрˌhʊд",
+   "spell": "a neighborhood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рай",
+   "ipa": "ə ˈпэрəˌдайс",
+   "spell": "a paradise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "парк рядом",
+   "ipa": "ə пɑрк ˈнɪрˈбай",
+   "spell": "a park nearby"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "опоссум",
+   "ipa": "ə ˈпɑсəм",
+   "spell": "a possum"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "енот",
+   "ipa": "ə рæˈкун",
+   "spell": "a raccoon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ресторан",
+   "ipa": "ə ˈрэстəˌрɑнт",
+   "spell": "a restaurant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "суп",
+   "ipa": "ə суп",
+   "spell": "a soup"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "носилки",
+   "ipa": "ə ˈстрэчəр",
+   "spell": "a stretcher"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лебедь",
+   "ipa": "ə сwɑн",
+   "spell": "a swan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "черепаха",
+   "ipa": "ə ˈтɜртəл",
+   "spell": "a turtle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двухэтажный дом",
+   "ipa": "ə ту-ˈсторид hаус",
+   "spell": "a two-storied house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кондиционер всегда работает",
+   "ipa": "ˈэйˈси ɪз ˈɔлˌwэйз ˈwɜркɪŋ",
+   "spell": "AC is always working"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хотя я родился зимой",
+   "ipa": "ˌɔлˈðоу ай wʌз борн ɪн ˈwɪнтəр",
+   "spell": "although I was born in winter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "афроамериканец",
+   "ipa": "əн ˈæфрəкəн əˈмэрəкəн",
+   "spell": "an African American"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ангельское имя",
+   "ipa": "əн ˌæнˈджэлɪк нэйм",
+   "spell": "an angelic name"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё, что хочешь",
+   "ipa": "ˈэниˌθɪŋ ю wɑнт",
+   "spell": "anything you want"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в обед",
+   "ipa": "æт лʌнч",
+   "spell": "at lunch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ночью",
+   "ipa": "æт найт",
+   "spell": "at night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на работе",
+   "ipa": "æт wɜрк",
+   "spell": "at work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "болонья (колбаса)",
+   "ipa": "бəˈлоуни",
+   "spell": "bologna"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "но иногда случается, что люди умирают",
+   "ipa": "бʌт ɪт ˈhæпəнз сəмˈтаймз ðæт ˈпипəл дай",
+   "spell": "but it happens sometimes that people die"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "окружность три мили",
+   "ipa": "сəрˈкʌмфрəнс ɪз 3 майлз",
+   "spell": "circumference is 3 miles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя есть американские друзья?",
+   "ipa": "ду ю hæв ˈэни əˈмэрəкəн фрэндз?",
+   "spell": "do you have any American friends?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "днём",
+   "ipa": "ˈдʊрɪŋ ðə дэй",
+   "spell": "during the day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ночью",
+   "ipa": "ˈдʊрɪŋ ðə найт",
+   "spell": "during the night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закусочная",
+   "ipa": "ˈитəри",
+   "spell": "eatery"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восемнадцать сотен",
+   "ipa": "эйˈтин ˈhʌндрɪд",
+   "spell": "eighteen hundred"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый второй",
+   "ipa": "ˈэвəри ˈсэкəнд ˈпɜрсəн",
+   "spell": "every second person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый раз на работе она испытывает стресс",
+   "ipa": "ˈэвəри тайм щи wɜркс щи гэтс ə лɑт ʌв стрэс",
+   "spell": "every time she works she gets a lot of stress"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё закрылось из-за снега",
+   "ipa": "ˈэвриˌθɪŋ wʌз шʌт даун бɪˈкɔз ʌв ðə сноу",
+   "spell": "everything was shut down because of the snow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё, что ты скучаешь",
+   "ipa": "ˈэвриˌθɪŋ ю мɪс",
+   "spell": "everything you miss"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё, что тебе нужно",
+   "ipa": "ˈэвриˌθɪŋ ю нид",
+   "spell": "everything you need"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в пяти минутах",
+   "ipa": "файв ˈмɪнəтс əˈwэй",
+   "spell": "five minutes away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на неделю",
+   "ipa": "фор ə wик",
+   "spell": "for a weak"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я гуляю в парке (сейчас)",
+   "ipa": "ай æм ˈwɔкɪŋ ɪн ðə пɑрк (нау)",
+   "spell": "I am walking in the park (now)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я покупаю еду и готовлю дома",
+   "ipa": "ай бай фуд æнд кʊк æт hоум",
+   "spell": "I buy food and cook at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не вижу тебя",
+   "ipa": "ай ˈкæнɑт си ю",
+   "spell": "I cannot see you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я готовлю",
+   "ipa": "ай кʊк",
+   "spell": "I cook"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне не нравится, когда холодно",
+   "ipa": "ай доунт лайк ɪт wэн ɪтс коулд",
+   "spell": "I don't like it when it's cold"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я покупаю продукты и готовлю дома",
+   "ipa": "ай ˈгроусəри-шɑп æнд кʊк æт hоум",
+   "spell": "I grocery-shop and cook at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не видел ни одного белого лебедя",
+   "ipa": "ай ˈhæвəнт син ə ˈсɪŋгəл wайт сwɑн",
+   "spell": "I haven't seen a single white swan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится осень",
+   "ipa": "ай лайк фɔл",
+   "spell": "I like fall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится, когда жарко",
+   "ipa": "ай лайк ɪт wэн ɪтс hɑт",
+   "spell": "I like it when it's hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я гуляю в парке",
+   "ipa": "ай wɔк ɪн ðə пɑрк",
+   "spell": "I walk in the park"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в тысяча девятьсот восемьдесят пятом",
+   "ipa": "ɪн ˈнайнˈтин ˈэйти-файв",
+   "spell": "in nineteen eighty-five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в принципе",
+   "ipa": "ɪн ˈпрɪнсəпəл",
+   "spell": "in principle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "днём",
+   "ipa": "ɪн ðи ˌæфтəрˈнун",
+   "spell": "in the afternoon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плохая погода",
+   "ipa": "ɪнˈклэмəнт ˈwэðəр",
+   "spell": "inclement weather"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это принадлежит им",
+   "ipa": "ɪт бɪˈлɔŋз ту ðэм",
+   "spell": "it belongs to them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно охлаждает",
+   "ipa": "ɪт кулз",
+   "spell": "it cools"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно охлаждает весь дом",
+   "ipa": "ɪт кулз ðə hоул hаус",
+   "spell": "it cools the whole house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это зависит",
+   "ipa": "ɪт дɪˈпэндз",
+   "spell": "it depends"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здесь не было снега сто пятьдесят лет",
+   "ipa": "ɪт ˈhæзəнт сноуд ɪн ə ˈhʌндрɪд æнд ˈфɪфти йɪрз",
+   "spell": "it hasn't snowed in a hundred and fifty years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно снаружи",
+   "ipa": "ɪт ɪз ˈаутˈсайд",
+   "spell": "it is outside"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно очень большое",
+   "ipa": "ɪт ɪз ˈвэри бɪг",
+   "spell": "it is very big"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "недолго идёт сильный дождь",
+   "ipa": "ɪт порз рэйн фор ə шорт тайм",
+   "spell": "it pours rain for a short time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утром шёл дождь",
+   "ipa": "ɪт рэйнд ɪн ðə ˈморнɪŋ",
+   "spell": "it rained in the morning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здесь шёл снег",
+   "ipa": "ɪт сноуд hир",
+   "spell": "it snowed here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно распыляет что-то",
+   "ipa": "ɪт спрэйз ˈсʌмθɪŋ",
+   "spell": "it sprays something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это была чрезвычайная ситуация",
+   "ipa": "ɪт wʌз əн ɪˈмɜрджəнси",
+   "spell": "it was an emergency"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это всегда по-разному",
+   "ipa": "ɪтс ˈɔлˌwэйз ˈдɪфəрəнт",
+   "spell": "it's always different"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ужасно жарко",
+   "ipa": "ɪтс ˈɑфли hɑт",
+   "spell": "it's awfully hot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это лучше, чем ничего",
+   "ipa": "ɪтс ˈбэтəр ðæн ˈнʌθɪŋ",
+   "spell": "it's better than nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый раз по-разному",
+   "ipa": "ɪтс ˈдɪфəрəнт ˈэвəри тайм",
+   "spell": "it's different every time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это никогда не повторяется",
+   "ipa": "ɪтс ˈнэвəр ðə сэйм",
+   "spell": "it's never the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это довольно интересно",
+   "ipa": "ɪтс ˈпрɪти ˈɪнтрəстɪŋ",
+   "spell": "it's pretty interesting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в прошлом месяце",
+   "ipa": "лæст мʌнθ",
+   "spell": "last month"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои дети купили этот дом",
+   "ipa": "май ˈчɪлдрəн hæв бɑт ðɪс hаус",
+   "spell": "my children have bought this house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на выходных",
+   "ipa": "ɑн ə ˈwиˌкэнд",
+   "spell": "on a weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в неделю",
+   "ipa": "wʌнс ə wик",
+   "spell": "once a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня так же",
+   "ipa": "сэйм hир",
+   "spell": "same here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ей звонят",
+   "ipa": "щи гэтс ə кɔл",
+   "spell": "she gets a call"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она едет в Чикаго",
+   "ipa": "щи гоуз ту шəˈкɑˌгоу",
+   "spell": "she goes to Chicago"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у неё маленький ребёнок",
+   "ipa": "щи hæз ə йʌŋ чайлд",
+   "spell": "she has a young child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ещё учится",
+   "ipa": "щи ɪз стɪл ɪн скул",
+   "spell": "she is still in school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ей нравится",
+   "ipa": "щи лайкс ɪт",
+   "spell": "she likes it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ей очень нравится гулять в парке",
+   "ipa": "щи лайкс ˈwɔкɪŋ ɪн ðə пɑрк ˈвэри мʌч",
+   "spell": "she likes walking in the park very much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она спасает людей",
+   "ipa": "щи сэйвз ˈпипəл",
+   "spell": "she saves people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она говорит",
+   "ipa": "щи сэз",
+   "spell": "she says"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она хочет быть врачом",
+   "ipa": "щи wɑнтс ту би ə ˈдɑктəр",
+   "spell": "she wants to be a doctor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она застряла на работе из-за снега",
+   "ipa": "щи wʌз стʌк æт wɜрк бɪˈкɔз ʌв ðə сноу",
+   "spell": "she was stuck at work because of the snow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ещё студентка",
+   "ipa": "щиз стɪл ə ˈстудəнт",
+   "spell": "she's still a student"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приёмное отделение, неотложная помощь",
+   "ipa": "ðи ɪˈмɜрджəнси рум (əр)",
+   "spell": "the emergency room (ER)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "погода резко изменилась",
+   "ipa": "ðə ˈwэðəр чэйнджд əˈбрʌптли",
+   "spell": "the weather changed abruptly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их кондиционеры не работают как обогреватели",
+   "ipa": "ðэр ˈэйˈсиз доунт wɜрк æз ˈhитəрз",
+   "spell": "their ACs don't work as heaters"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здесь много комаров",
+   "ipa": "ðэр ɑр ˈмэни мəˈскитоуз hир",
+   "spell": "there are many mosquitoes here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть некоторые вещи",
+   "ipa": "ðэр ɑр сʌм θɪŋз",
+   "spell": "there are some things"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть одна вещь",
+   "ipa": "ðэр ɪз ə θɪŋ",
+   "spell": "there is a thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть дезинсектор",
+   "ipa": "ðэр ɪз əн ɪкˈстɜрмəˌнэйтəр",
+   "spell": "there is an exterminator"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её вызывают",
+   "ipa": "ðэй кɔл hɜр",
+   "spell": "they call her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у них осталось пять лет ипотеки",
+   "ipa": "ðэй hæв файв йɪрз лэфт ɑн ðэр ˈморгəдж",
+   "spell": "they have five years left on their mortgage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у них белые щёки",
+   "ipa": "ðэй hæв wайт чикс",
+   "spell": "they have white cheeks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у них ещё пять лет выплат",
+   "ipa": "ðэй стɪл hæв файв йɪрз ту пэй",
+   "spell": "they still have five years to pay"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они сошли с ума",
+   "ipa": "ðэй wэнт ˈкрэйзи",
+   "spell": "they went crazy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в этом году",
+   "ipa": "ðɪс йɪр",
+   "spell": "this year"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть вне дома",
+   "ipa": "ту ит аут",
+   "spell": "to eat out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "убивать комаров",
+   "ipa": "ту кɪл ðə мəˈскитоуз",
+   "spell": "to kill the mosquitoes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сдавать экзамены",
+   "ipa": "ту тэйк ɪгˈзæмз",
+   "spell": "to take exams"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перейти через парк",
+   "ipa": "ту wɔк əˈкрɔс ðə пɑрк",
+   "spell": "to walk across the park"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сегодня",
+   "ipa": "тəˈдэй",
+   "spell": "today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "непредсказуемый",
+   "ipa": "ˌʌнпрɪˈдɪктəбəл",
+   "spell": "unpredictable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас есть кондиционер",
+   "ipa": "wи hæв эр кəнˈдɪшəнɪŋ",
+   "spell": "we have air conditioning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас есть кондиционер",
+   "ipa": "wи hæв əн ˈэйˈси",
+   "spell": "we have an AC"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас один кондиционер",
+   "ipa": "wи hæв wʌн ˈэр кəнˌдɪш(ə)нəр",
+   "spell": "we have one air-conditioner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как тебя называют в США?",
+   "ipa": "wɑт ду ˈпипəл ɪн ðə ˈюˈэˈсэй кɔл ю?",
+   "spell": "what do people in the USA call you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как тебя называют?",
+   "ipa": "wɑт ду ðэй кɔл ю?",
+   "spell": "what do they call you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой сейчас год?",
+   "ipa": "wɑт йɪр ɪз ɪт?",
+   "spell": "what year is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё, что попросят",
+   "ipa": "ˌwʌˈтэвəр ðэй æск ми фор",
+   "spell": "whatever they ask me for"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой сейчас год?",
+   "ipa": "wʌтс ðə ˈкɜрəнт йɪр?",
+   "spell": "what’s the current year?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в каком городе я живу",
+   "ipa": "wɪч ˈсɪти ай лɪв ɪн",
+   "spell": "which city I live in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здесь тёплые зимы",
+   "ipa": "ˈwɪнтəрз ɑр wорм hир",
+   "spell": "winters are warm here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты знаешь грамматику",
+   "ipa": "ю ноу йʊəр ˈгрæмəр",
+   "spell": "you know your grammar"
+ }
+]
+}
