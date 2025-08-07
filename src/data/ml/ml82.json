@@ -1,0 +1,372 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 82,
+  "date": "2025-08-06",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лук и стрелы",
+      "ipa": "ə боу æнд ˈæроу",
+      "spell": "a bow and arrow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смертельный вид спорта",
+      "ipa": "ə ˈдэдли спорт",
+      "spell": "a deadly sport"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ледник",
+      "ipa": "ə ˈглэйшəр",
+      "spell": "a glacier"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "недавно",
+      "ipa": "ə шорт тайм əˈгоу",
+      "spell": "a short time ago"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одиночный полёт",
+      "ipa": "ə ˈсоуˌлоу флайт",
+      "spell": "a solo flight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "женщина-альпинист",
+      "ipa": "ə ˈwʊмəн ˈклаймəр",
+      "spell": "a woman climber"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "и прежде всего",
+      "ipa": "æнд əˈбʌв ɔл",
+      "spell": "and above all"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что касается меня",
+      "ipa": "æз фɑр æз айм кəнˈсɜрнд",
+      "spell": "as far as I'm concerned"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по-моему, нужно быть сумасшедшим, чтобы заниматься экстремальным спортом",
+      "ipa": "æз фɑр æз айм кəнˈсɜрнд ю hæв ту би ˈкрэйзи ту wɑнт ту ду əн экˈстрим спорт",
+      "spell": "As far as I'm concerned you have to be crazy to want to do an extreme sport"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бинты",
+      "ipa": "ˈбæндəджəз",
+      "spell": "bandages"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ясен пень, ну дык",
+      "ipa": "дʌ",
+      "spell": "duh"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "функции и обязанности",
+      "ipa": "ˈдутиз æнд риˌспɑнсəˈбɪлəтиз",
+      "spell": "duties and responsibilities"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прежде всего",
+      "ipa": "фɜрст ʌв ɔл",
+      "spell": "first of all"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хороший картон",
+      "ipa": "гʊд ˈкɑрдˌборд",
+      "spell": "good cardboard"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он охотится с луком",
+      "ipa": "hи hʌнтс wɪð ə боу æнд ˈæроу",
+      "spell": "he hunts with a bow and arrow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он прыгнул туда с парашютом",
+      "ipa": "hи ˈпэрəˌщутɪд ðэр",
+      "spell": "he parachuted there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он стреляет из лука",
+      "ipa": "hи щутс wɪð ə боу",
+      "spell": "he shoots with a bow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он летал в вингсьюте",
+      "ipa": "hи wэнт ˈwɪŋсут ˈфлайɪŋ",
+      "spell": "he went wingsuit flying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделал это недавно",
+      "ipa": "ай дɪд ɪт ə шорт тайм əˈгоу",
+      "spell": "I did it a short time ago"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я думала, что не успею",
+      "ipa": "ай θɔт ай wʊд нɑт би ɑн тайм",
+      "spell": "I thought I would not be on time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я была занята работой",
+      "ipa": "ай wʌз ˈбɪзи ˈwɜркɪŋ",
+      "spell": "I was busy working"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сначала я боялся",
+      "ipa": "ай wʌз скэрд æт фɜрст",
+      "spell": "I was scared at first"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в идеальном мире",
+      "ipa": "ɪн əн айˈдил wɜрлд",
+      "spell": "in an ideal world"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно взлетело",
+      "ipa": "ɪт ˈрɑкəтɪд",
+      "spell": "it rocketed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это был такой потрясающий опыт",
+      "ipa": "ɪт wʌз сʌч əн əˈмэйзɪŋ ɪкˈспɪриəнс",
+      "spell": "it was such an amazing experience"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Это был настолько потрясающий опыт, что я никогда его не забыл",
+      "ipa": "ɪт wʌз сʌч əн əˈмэйзɪŋ ɪкˈспɪриəнс ðæт айв ˈнэвəр фəрˈгɑтəн əˈбаут ɪт",
+      "spell": "It was such an amazing experience that I've never forgotten about it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в итоге оно того стоило",
+      "ipa": "ɪт wʌз wɜрθ ɪт ɪн ðи энд",
+      "spell": "it was worth it in the end"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спрыгивать со всякого",
+      "ipa": "ˈлипɪŋ ɔф θɪŋз",
+      "spell": "leaping off things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заметь",
+      "ipa": "майнд ю",
+      "spell": "mind you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с края скалы",
+      "ipa": "ɔф ə клɪф эдж",
+      "spell": "off a cliff edge"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с ~ кого-чего",
+      "ipa": "ɔф ~ ʌв",
+      "spell": "off ~ of"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она поступила на годичную программу по уходу за больными",
+      "ipa": "щи энˈроулд ɪн ə ˈwʌнˈйɪр ˈнɜрсɪŋ ˈпроуˌгрæм",
+      "spell": "she enrolled in a one-year nursing program"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она визжит",
+      "ipa": "щи скwилз",
+      "spell": "she squeals"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "захватывающие новости",
+      "ipa": "сʌм ɪкˈсайтɪŋ нуз",
+      "spell": "some exciting news"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "экстремальные виды спорта на подъёме",
+      "ipa": "ðи экˈстрим спортс ɑр ˈбумɪŋ",
+      "spell": "the extreme sports are booming"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они бросили/бросают работу",
+      "ipa": "ðэй кwɪт ðэр джɑбз",
+      "spell": "they quit their jobs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они возвращаются",
+      "ipa": "ðэй рɪˈтɜрн",
+      "spell": "they return"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на три фута ниже",
+      "ipa": "θри фит бɪˈлоу",
+      "spell": "three feet below"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "переносить пациента",
+      "ipa": "ту ˈкæри ə ˈпэйшəнт",
+      "spell": "to carry a patient"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подняться на Эверест",
+      "ipa": "ту клайм ˈэвəрəст",
+      "spell": "to climb Everest"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "высказать своё мнение врачу",
+      "ipa": "ту гɪв йʊəр əˈпɪнйəн ту ðə ˈдɑктəр",
+      "spell": "to give your opinion to the doctor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обеспечивать уход за пациентом",
+      "ipa": "ту прəˈвайд ˈпэйшəнт кэр",
+      "spell": "to provide patient care"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "раскрыть парашют",
+      "ipa": "ту риˈлис ə ˈпэрəˌщут",
+      "spell": "to release a parachute"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "учиться на парамедика",
+      "ipa": "ту ˈстʌди ту бɪˈкʌм ə ˌпэрəˈмэдɪк",
+      "spell": "to study to become a paramedic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "начать заниматься спортом",
+      "ipa": "ту тэйк ʌп ə спорт",
+      "spell": "to take up a sport"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "транспортировать их",
+      "ipa": "ту трæнˈспорт ðэм",
+      "spell": "to transport them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двадцать пять процентов",
+      "ipa": "ˈтwэнти файв пəрˈсэнт",
+      "spell": "twenty five percent"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если это не экстренный случай",
+      "ipa": "əнˈлэс ɪтс əн ɪˈмɜрджəнси",
+      "spell": "unless it's an emergency"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какая мелочь пошла не так?",
+      "ipa": "wɪч смɔл θɪŋ wэнт рɔŋ?",
+      "spell": "which small thing went wrong?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зачем тратить время впустую?",
+      "ipa": "wай wэйст тайм?",
+      "spell": "why waste time?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты просто втягиваешься",
+      "ipa": "ю джʌст гэт ˈɪнту ɪт",
+      "spell": "you just get into it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты должна быть готова начать работать",
+      "ipa": "ю щʊд би ˈэйбəл ту стɑрт ˈwɜркɪŋ",
+      "spell": "you should be able to start working"
+    }
+  ]
+}
