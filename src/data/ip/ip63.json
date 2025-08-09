@@ -1,0 +1,540 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 63,
+  "date": "2025-08-08",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вільний переклад",
+   "ipa": "ə фрі трæнˈзлейшəн",
+   "spell": "a free translation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дослівний переклад",
+   "ipa": "ə ˈлитəрəл трæнˈзлейшəн",
+   "spell": "a literal translation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "маркер",
+   "ipa": "ə ˈмɑркəр",
+   "spell": "a marker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пігулка",
+   "ipa": "ə пил",
+   "spell": "a pill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "защемлений нерв",
+   "ipa": "ə пинчт нɜрv",
+   "spell": "a pinched nerve"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "над ним",
+   "ipa": "əˈбʌv ит",
+   "spell": "above it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у будь-якому разі!",
+   "ipa": "ˈеніˌwей!",
+   "spell": "anyway!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти одружений? - так, я одружений",
+   "ipa": "ɑр ю ˈмерід? - йес, ай æм",
+   "spell": "are you married? - yes, I am"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти мій водій Uber? - так, я",
+   "ipa": "ɑр ю май ˈюбəр ˈдрайvəр? - йес, ай æм",
+   "spell": "are you my Uber driver? - yes, I am"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти впевнений? - так, впевнений",
+   "ipa": "ɑр ю шʊр? - йес, ай æм",
+   "spell": "are you sure? - yes, I am"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "третє грудня",
+   "ipa": "диˈсембəр θɜрд",
+   "spell": "December third"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всі збираються разом, щоб відсвяткувати",
+   "ipa": "ˈеvріˌбɑді кʌмз тəˈґеðəр ту ˈселəˌбрейт",
+   "spell": "everybody comes together to celebrate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "п'ятниця тринадцяте",
+   "ipa": "ˈфрайˌдей ðə ˈθɜрˈтінθ",
+   "spell": "Friday the thirteenth"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "він хоче розповісти про її подорож до Лондона",
+   "ipa": "hі wɑнтс ту тɔк əˈбаут hɜр трип ту ˈлʌндəн",
+   "spell": "he wants to talk about her trip to London"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "її мати - це її сім'я",
+   "ipa": "hɜр ˈмʌðəр из hɜр ˈфæмəлі",
+   "spell": "her mother is her family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не почуваю себе на сто відсотків",
+   "ipa": "ай æм нɑт ˈфілиŋ ə ˈhʌндрид пəрˈсент",
+   "spell": "I am not feeling a hundred percent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені більше п'ятдесяти",
+   "ipa": "ай æм ˈоуvəр ˈфифті",
+   "spell": "I am over fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені менше п'ятдесяти",
+   "ipa": "ай æм ˈʌндəр ˈфифті",
+   "spell": "I am under fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я багато сиджу",
+   "ipa": "ай сит ə лɑт",
+   "spell": "I sit a lot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я сплю ~ я спав",
+   "ipa": "ай сліп ~ ай слепт",
+   "spell": "I sleep ~ I slept"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я проспав сьогодні, тому що вчора багато працював",
+   "ipa": "ай слепт ин тəˈдей биˈкɔз ай wɜркт ə лɑт ˈйестəрˌдей",
+   "spell": "I slept in today because I worked a lot yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я проспав після важкої роботи вчора",
+   "ipa": "ай слепт лейт ˈæфтəр ˈwɜркиŋ соу hɑрд ˈйестəрˌдей",
+   "spell": "I slept late after working so hard yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "якщо тобі більше п'ятдесяти",
+   "ipa": "иф ю ɑр ˈоуvəр ˈфифті",
+   "spell": "if you are over fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у моїй спині",
+   "ipa": "ин май бæк",
+   "spell": "in my back"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це Ігор? – так, це я, Ігор",
+   "ipa": "из ðæт иˈґор? – йес, иˈґор ˈспікиŋ.",
+   "spell": "is that Igor? – yes, Igor speaking."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хіба не перше? – так, перше. ні, не перше.",
+   "ipa": "ˈизəнт ит ðə фɜрст? – йес, ит из. ноу, ит ˈизəнт.",
+   "spell": "isn’t it the first? – yes, it is. no, it isn’t."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене зараз день",
+   "ipa": "итс ˌæфтəрˈнун wер ай æм",
+   "spell": "it’s afternoon where I am"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження мого брата",
+   "ipa": "итс май ˈбрʌðəрз ˈбɜрθˌдей",
+   "spell": "it’s my brother’s birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження мого тата",
+   "ipa": "итс май дæдз ˈбɜрθˌдей",
+   "spell": "it’s my dad’s birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження моєї мами",
+   "ipa": "итс май ˈмʌðəрз ˈбɜрθˌдей",
+   "spell": "it’s my mother’s birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження моєї сестри",
+   "ipa": "итс май ˈсайтəрз ˈбɜрθˌдей",
+   "spell": "it’s my siter’s birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження мого сина",
+   "ipa": "итс май сʌнз ˈбɜрθˌдей",
+   "spell": "it’s my son’s birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "день народження моєї дружини",
+   "ipa": "итс май wайфс ˈбɜрθˌдей",
+   "spell": "it’s my wife’s birthday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "продовжуймо",
+   "ipa": "летс ґоу ɑн",
+   "spell": "let's go on"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "багато ~ більше",
+   "ipa": "ˈмені ~ мор",
+   "spell": "many ~ more"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "більше п'ятдесяти",
+   "ipa": "мор ðæн ˈфифті",
+   "spell": "more than fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "звичайно!",
+   "ipa": "ʌv корс!",
+   "spell": "of course!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "більше п'ятдесяти",
+   "ipa": "ˈоуvəр ˈфифті",
+   "spell": "over fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "над ним",
+   "ipa": "ˈоуvəр ит",
+   "spell": "over it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "над моєю головою",
+   "ipa": "ˈоуvəр май hед",
+   "spell": "over my head"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "над парканом",
+   "ipa": "ˈоуvəр ðə фенс",
+   "spell": "over the fence"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "над горою",
+   "ipa": "ˈоуvəр ðə ˈмаунтəн",
+   "spell": "over the mountain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "над тунелем",
+   "ipa": "ˈоуvəр ðə ˈтʌнəл",
+   "spell": "over the tunnel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сидяча робота",
+   "ipa": "ˈседəнтері wɜрк",
+   "spell": "sedentery work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вона прибуває до Лондона",
+   "ipa": "ші əˈрайvз ин ˈлʌндəн",
+   "spell": "she arrives in London"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вона зі своєю сім'єю",
+   "ipa": "ші из wиð hɜр ˈфæмəлі",
+   "spell": "she is with her family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вона їде завтра",
+   "ipa": "ші ліvз тəˈмɑˌроу",
+   "spell": "she leaves tomorrow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поговоримо у вівторок",
+   "ipa": "тɔк ту ю ɑн ˈтузˌдей",
+   "spell": "talk to you on Tuesday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поговоримо завтра",
+   "ipa": "тɔк ту ю тəˈмɑˌроу",
+   "spell": "talk to you tomorrow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "восьмий місяць",
+   "ipa": "ðі ейтθ мʌнθ",
+   "spell": "the eighth month"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це для тебе",
+   "ipa": "ðис из фор ю",
+   "spell": "this is for you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крізь гору",
+   "ipa": "θру ðə ˈмаунтəн",
+   "spell": "through the mountain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "крізь тунель",
+   "ipa": "θру ðə ˈтʌнəл",
+   "spell": "through the tunnel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "святкувати",
+   "ipa": "ту ˈселəˌбрейт",
+   "spell": "to celebrate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зібратися разом",
+   "ipa": "ту кʌм тəˈґеðəр",
+   "spell": "to come together"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "позначити щось маркером",
+   "ipa": "ту мɑрк ˈсʌмθиŋ wиð ə ˈмɑркəр",
+   "spell": "to mark something with a marker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "проспати",
+   "ipa": "ту сліп ин",
+   "spell": "to sleep in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сьогодні восьме серпня",
+   "ipa": "тəˈдей из ˈɑґəст ейтθ",
+   "spell": "today is August eighth"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правда ~ неправда",
+   "ipa": "тру ~ фɔлс",
+   "spell": "true ~ false"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "під горою",
+   "ipa": "ˈʌндəр ðə ˈмаунтəн",
+   "spell": "under the mountain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "під тунелем",
+   "ipa": "ˈʌндəр ðə ˈтʌнəл",
+   "spell": "under the tunnel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "під ним",
+   "ipa": "ˌʌндəрˈніθ ит",
+   "spell": "underneath it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми позначаємо речі маркером",
+   "ipa": "wі мɑрк θиŋз wиð ə ˈмɑркəр",
+   "spell": "we mark things with a marker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам потрібно про щось поговорити",
+   "ipa": "wі нід ту тɔк əˈбаут ˈсʌмθиŋ",
+   "spell": "we need to talk about something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що він хоче?",
+   "ipa": "wɑт дʌз hі wɑнт?",
+   "spell": "what does he want?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "яке сьогодні число?",
+   "ipa": "wʌтс ðə дейт тəˈдей?",
+   "spell": "what's the date today?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли йому потрібно подзвонити Дженні?",
+   "ipa": "wен дʌз hі нід ту кɔл ˈджені?",
+   "spell": "when does he need to call Jenny?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли йому не потрібно дзвонити Дженні?",
+   "ipa": "wен ˈдʌзəнт hі нід ту кɔл ˈджені?",
+   "spell": "when doesn’t he need to call Jenny?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "з ким вона?",
+   "ipa": "hу из ші wиð?",
+   "spell": "who is she with?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чому він їй телефонує?",
+   "ipa": "wай дʌз hі кɔл hɜр?",
+   "spell": "why does he call her?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "так, я слухаю",
+   "ipa": "йес, ай æм ˈлисəниŋ",
+   "spell": "yes, I am listening"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "так, це я",
+   "ipa": "йес, итс мі",
+   "spell": "yes, it’s me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "так не роблять!",
+   "ipa": "ю доунт ду ðæт! (итс нɑт дʌн)",
+   "spell": "you don't do that! (it's not done)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти позначаєш речі маркером",
+   "ipa": "ю мɑрк θиŋз wиð ə ˈмɑркəр",
+   "spell": "you mark things with a marker"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти прибираєш своє сміття",
+   "ipa": "ю пик ʌп йʊəр ˈґɑрбидж",
+   "spell": "you pick up your garbage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твої м'язи починають сохнути",
+   "ipa": "йʊəр ˈмʌсəлз стɑрт ту ґет драй",
+   "spell": "your muscles start to get dry"
+ }
+]
+}
