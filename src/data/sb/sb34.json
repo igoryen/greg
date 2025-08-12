@@ -1,0 +1,351 @@
+ {
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "number": 34,
+  "date": "2025-08-11",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кесарево сечение",
+   "ipa": "ə si-ˈsɛkʃən",
+   "spell": "a C-section"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "округ",
+   "ipa": "ə ˈkaʊnti",
+   "spell": "a county"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ярмарка округа",
+   "ipa": "ə ˈkaʊnti fɛr",
+   "spell": "a county fair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смена подгузника",
+   "ipa": "ə ˈdaɪpər ʧeɪnʤ",
+   "spell": "a diaper change"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пугающий опыт",
+   "ipa": "ə ˈfraɪtənɪŋ ɪkˈspɪriəns",
+   "spell": "a frightening experience"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выдуманная история",
+   "ipa": "ə meɪd ʌp ˈstɔri",
+   "spell": "a made up story"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "детская коляска",
+   "ipa": "ə ˈstroʊlər",
+   "spell": "a stroller"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кувшинка",
+   "ipa": "ə ˈwɔtər ˈlɪli",
+   "spell": "a water lily"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раздражение",
+   "ipa": "əˈnɔɪəns",
+   "spell": "annoyance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раздражённый",
+   "ipa": "əˈnɔɪd",
+   "spell": "annoyed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "высокомерие",
+   "ipa": "ˈɛrəɡəns",
+   "spell": "arrogance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "под углом",
+   "ipa": "æt ən ˈæŋɡəl",
+   "spell": "at an angle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слуховой",
+   "ipa": "ˈɔdɪˌtɔri",
+   "spell": "auditory"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "осознание себя",
+   "ipa": "əˈwɛrnəs ʌv sɛlf",
+   "spell": "awareness of self"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "любопытство",
+   "ipa": "ˌkjʊriˈɑsəti",
+   "spell": "curiosity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "диагональный",
+   "ipa": "daɪˈæɡənəl",
+   "spell": "diagonal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разочарование",
+   "ipa": "ˌdɪsəˈpɔɪntmənt",
+   "spell": "disappointment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "волнение",
+   "ipa": "ɪkˈsaɪtmənt",
+   "spell": "excitement"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он ничего не помнит",
+   "ipa": "hi kænt rɪˈmɛmbər ˈɛniˌθɪŋ",
+   "spell": "he can’t remember anything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "влажность",
+   "ipa": "hjuˈmɪdəti",
+   "spell": "humidity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если бы ты не сказал, я бы никогда об этом не подумала",
+   "ipa": "ɪf ju ˈdɪdənt tɛl mi aɪ wʊd ˈnɛvər θɪŋk əˈbaʊt ɪt",
+   "spell": "if you didn’t tell me I would never think about it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "объявить предупреждение о жаре",
+   "ipa": "ˈɪʃu ə hit ˈwɔrnɪŋ",
+   "spell": "issue a heat warning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это нарисовало картину",
+   "ipa": "ɪt dru / ˈpeɪntɪd ðə ˈpɪkʧər",
+   "spell": "it drew / painted the picture"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "языковые навыки",
+   "ipa": "lɪŋˈɡwɪstɪk skɪlz",
+   "spell": "linguistic skills"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "намного легче",
+   "ipa": "mʌʧ ˈiziər",
+   "spell": "much easier"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обонятельные органы",
+   "ipa": "oʊlˈfæktəri ˈɔrɡənz",
+   "spell": "olfactory organs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самосознание",
+   "ipa": "sɛlf-ˈkɑnʃəsnəs",
+   "spell": "self-consciousness"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самосохранение",
+   "ipa": "sɛlf-ˌprɛzərˈveɪʃən",
+   "spell": "self-preservation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она была опустошена",
+   "ipa": "ʃi wʌz ˈdɛvəˌsteɪtɪd",
+   "spell": "she was devastated"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "схожее с этим",
+   "ipa": "ˈsɪmələr tu ðæt",
+   "spell": "similar to that"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сильные эмоции",
+   "ipa": "strɔŋ ɪˈmoʊʃənz",
+   "spell": "strong emotions"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лето уже не такое тёплое, как раньше",
+   "ipa": "ˈsʌmərz ɑr nɑt æz wɔrm æz ðeɪ juzd tu bi",
+   "spell": "summers are not as warm as they used to be"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "воздушный шар улетел",
+   "ipa": "ðə bəˈlun flu əˈweɪ",
+   "spell": "the balloon flew away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слишком много боли",
+   "ipa": "ðɛr ɪz tu mʌʧ peɪn",
+   "spell": "there is too much pain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они много плачут",
+   "ipa": "ðeɪ kraɪ ə lɑt",
+   "spell": "they cry a lot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вдыхать и выдыхать",
+   "ipa": "tu brið ɪn ænd aʊt",
+   "spell": "to breathe in and out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сделать что-то не так",
+   "ipa": "tu du ˈsʌmθɪŋ rɔŋ",
+   "spell": "to do something wrong"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выдумать",
+   "ipa": "tu meɪk ɪt ʌp",
+   "spell": "to make it up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "играть (понарошку) в пиратов",
+   "ipa": "tu pleɪ priˈtɛnd æz ˈpaɪrəts",
+   "spell": "to play pretend as pirates"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прочитать это неправильно",
+   "ipa": "tu rid ɪt rɔŋ",
+   "spell": "to read it wrong"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бегать из комнаты в комнату",
+   "ipa": "tu rʌn frʌm rum tu rum",
+   "spell": "to run from room to room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "придумать",
+   "ipa": "tu θɪŋk ʌp (ɪnˈvɛnt)",
+   "spell": "to think up (invent)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тратить",
+   "ipa": "tu weɪst",
+   "spell": "to waste"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зрительный",
+   "ipa": "ˈvɪʒəwəl",
+   "spell": "visual"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы не разговаривали",
+   "ipa": "wi ˈdɪdənt spik",
+   "spell": "we didn’t speak"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что именно она помнила?",
+   "ipa": "wɑt θɪŋ wʌz hɜr ˈmɛməri ʌv?",
+   "spell": "what thing was her memory of?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "там можно было ловить рыбу",
+   "ipa": "ju kʊd fɪʃ ðɛr",
+   "spell": "you could fish there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе не было и двух лет",
+   "ipa": "ju wɜr nɑt ˈivɪn tu",
+   "spell": "you were not even two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты был таким маленьким",
+   "ipa": "ju wɜr soʊ smɔl",
+   "spell": "you were so small"
+ }
+]
+}
