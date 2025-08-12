@@ -1,0 +1,883 @@
+{
+  "student": "Mike G.",
+  "slug": "mg",
+  "number": 11,
+  "date": "2025-08-08",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "другая планета",
+   "ipa": "ə ˈдɪфəрəнт ˈплæнəт",
+   "spell": "a different planet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подсобный рабочий",
+   "ipa": "ə ˈлэйбəрəр",
+   "spell": "a laborer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мышца отрывается",
+   "ipa": "ə ˈмʌсəл тэрз ɔф",
+   "spell": "a muscle tears off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нос ~ любопытный",
+   "ipa": "ə ноуз ~ ˈноузи",
+   "spell": "a nose ~ nosy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шаблон",
+   "ipa": "ə ˈпæтəрн",
+   "spell": "a pattern"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кусок картона",
+   "ipa": "ə пис ʌв ˈкɑрдˌборд",
+   "spell": "a piece of cardboard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "таблетка",
+   "ipa": "ə пɪл",
+   "spell": "a pill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "защемлённый нерв",
+   "ipa": "ə пɪнчт нɜрв",
+   "spell": "a pinched nerve"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "планка (упражнение)",
+   "ipa": "ə плæŋк",
+   "spell": "a plank"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "турник",
+   "ipa": "ə пʊл-ʌп бɑр",
+   "spell": "a pull-up bar"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отдельная цена",
+   "ipa": "ə ˈсэпрəт прайс",
+   "spell": "a separate price"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скетч",
+   "ipa": "ə скɪт",
+   "spell": "a skit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "азиат ~ азиаты",
+   "ipa": "əн ˈэйжəн ~ ˈэйжəнз",
+   "spell": "an Asian ~ Asians"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полтора часа",
+   "ipa": "əн ˈауəр æнд ə hæф",
+   "spell": "an hour and a half"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в две недели",
+   "ipa": "байˈwикли",
+   "spell": "biweekly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дешёвый ~ дешевле",
+   "ipa": "чип ~ ˈчипəр",
+   "spell": "cheap ~ cheaper"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "холодный ~ прохладный",
+   "ipa": "коулд ~ кул",
+   "spell": "cold ~ cool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отвратительный",
+   "ipa": "дɪсˈгʌстɪŋ",
+   "spell": "disgusting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "особенно мужчины",
+   "ipa": "əˈспэшли мэн",
+   "spell": "especially men"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый раз когда мы встречаемся",
+   "ipa": "ˈэвəри тайм wи мит",
+   "spell": "every time we meet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "везде, куда я иду",
+   "ipa": "ˈэвриˌwэр ай гоу",
+   "spell": "everywhere I go"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "из Дании",
+   "ipa": "фрʌм ˈдэнˌмɑрк",
+   "spell": "from Denmark"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молодец!",
+   "ipa": "гʊд фор ю!",
+   "spell": "good for you!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тяжёлый ~ едва",
+   "ipa": "hɑрд ~ ˈhɑрдли",
+   "spell": "hard ~ hardly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он задал вопрос",
+   "ipa": "hи æскт ə ˈкwэсчəн",
+   "spell": "he asked a question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ему за тридцать",
+   "ipa": "hи ɪз ˈоувəр ˈθɜрди",
+   "spell": "he is over thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он старался",
+   "ipa": "hи трайд hɑрд",
+   "spell": "he tried hard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он усердно работает",
+   "ipa": "hи wɜркс hɑрд",
+   "spell": "he works hard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как туда добраться",
+   "ipa": "hау ту гэт ðэр",
+   "spell": "how to get there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я в (хорошей физической) форме",
+   "ipa": "ай æм фɪт",
+   "spell": "I am fit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет этого дома",
+   "ipa": "ай доунт hæв ɪт æт hоум",
+   "spell": "I don't have it at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне не нравится погода здесь",
+   "ipa": "ай доунт лайк ðə ˈwэðəр hир",
+   "spell": "I don't like the weather here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ни о чём больше не беспокоюсь",
+   "ipa": "ай доунт ˈwɜри əˈбаут ˈэниˌθɪŋ элс",
+   "spell": "I don't worry about anything else"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я делаю массаж",
+   "ipa": "ай гэт ə мəˈсɑж",
+   "spell": "I get a massage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хожу на массаж",
+   "ipa": "ай гэт мəˈсɑжɪз",
+   "spell": "I get massages"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня это было",
+   "ipa": "ай hæд ɪт",
+   "spell": "I had it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я встречал его",
+   "ipa": "ай hæв мэт hɪм",
+   "spell": "I have met him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я видел это",
+   "ipa": "ай hæв син ɪт",
+   "spell": "I have seen it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я раньше делал планку",
+   "ipa": "ай юзд ту ду ðə плæŋк",
+   "spell": "I used to do the plank"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в целом",
+   "ipa": "ɪн ˈджэнəрəл",
+   "spell": "in general"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в плавках",
+   "ipa": "ɪн сwɪм трʌŋкс",
+   "spell": "in swim trunks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в той же отрасли",
+   "ipa": "ɪн ðə сэйм ˈɪндəстри",
+   "spell": "in the same industry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно возвращается",
+   "ipa": "ɪт кʌмз бæк",
+   "spell": "it comes back"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне от этого хорошо",
+   "ipa": "ɪт мэйкс ми фил гʊд",
+   "spell": "it makes me feel good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это расслабляет мои мышцы",
+   "ipa": "ɪт рɪˈлæксɪз май ˈмʌсəлз",
+   "spell": "it relaxes my muscles"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стареть - отстой",
+   "ipa": "ɪт сʌкс ту гэт оулд",
+   "spell": "it sucks to get old"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его было легко слушать",
+   "ipa": "ɪт wʌз ˈизи ту ˈлɪсəн ту hɪм",
+   "spell": "it was easy to listen to him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это раздражает и смешно одновременно",
+   "ipa": "ɪтс əˈнойɪŋ æнд ˈфʌни æт ðə сэйм тайм",
+   "spell": "it's annoying and funny at the same time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это неправда",
+   "ipa": "ɪтс нɑт тру",
+   "spell": "it's not true"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "(ностранные) языки",
+   "ipa": "ˈлæŋгwəджəз",
+   "spell": "languages"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дай мне знать",
+   "ipa": "лэт ми ноу",
+   "spell": "let me know"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как водолаз",
+   "ipa": "лайк ə ˈдайвəр",
+   "spell": "like a diver"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "длинный ~ длиннее",
+   "ipa": "лɔŋ ~ ˈлɔŋгəр",
+   "spell": "long ~ longer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много английских языков",
+   "ipa": "ˈмэни ˈɪŋглɪш ˈлæŋгwəджəз",
+   "spell": "many English languages"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "большую часть времени",
+   "ipa": "моуст ʌв ðə тайм",
+   "spell": "most of the time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "боль в мышцах",
+   "ipa": "ˈмʌсəл пэйн",
+   "spell": "muscle pain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мышцы сохнут",
+   "ipa": "ˈмʌсəлз гэт драй",
+   "spell": "muscles get dry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои мышцы расслабляются",
+   "ipa": "май ˈмʌсəлз рɪˈлæкс",
+   "spell": "my muscles relax"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "новые люди",
+   "ipa": "ну ˈпипəл",
+   "spell": "new people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "шум ~ шумный",
+   "ipa": "нойз ~ ˈнойзи",
+   "spell": "noise ~ noisy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в вашей команде",
+   "ipa": "ɑн йʊəр тим",
+   "spell": "on your team"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в две недели",
+   "ipa": "wʌнс ˈэвəри ту wикс",
+   "spell": "once every two weeks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в неделю",
+   "ipa": "wʌн тайм ə wик",
+   "spell": "one time a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в целом",
+   "ipa": "ˈоувəˌрɔл",
+   "spell": "overall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бледная кожа",
+   "ipa": "пэйл скɪн",
+   "spell": "pale skin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бедный ~ беднее",
+   "ipa": "пʊр ~ ˈпʊрəр",
+   "spell": "poor ~ poorer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тихий",
+   "ipa": "ˈкwайəт",
+   "spell": "quiet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тихий ~ тише",
+   "ipa": "ˈкwайəт ~ ˈкwайəтəр",
+   "spell": "quiet ~ quieter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "недавно",
+   "ipa": "ˈрисəнтли",
+   "spell": "recently"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "богатый ~ богаче",
+   "ipa": "рɪч ~ ˈрɪчəр",
+   "spell": "rich ~ richer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смехотворный",
+   "ipa": "рɪˈдɪкйəлəс",
+   "spell": "ridiculous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня так же",
+   "ipa": "сэйм hир",
+   "spell": "same here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отдельно",
+   "ipa": "ˈсэпəрəтли",
+   "spell": "separately"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "короткий ~ короче",
+   "ipa": "шорт ~ ˈшортəр",
+   "spell": "short ~ shorter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "медленный ~ медленно",
+   "ipa": "слоу ~ ˈслоули",
+   "spell": "slow ~ slowly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "южноафриканский",
+   "ipa": "сауθ ˈæфрəкəн",
+   "spell": "South African"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "растяжения",
+   "ipa": "спрэйнз (пл.)",
+   "spell": "sprains (pl.)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спасибо за уделенное время",
+   "ipa": "θæŋкс фор йʊəр тайм",
+   "spell": "thanks for your time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это сложно",
+   "ipa": "ðæтс ˈдɪфəкəлт",
+   "spell": "that's difficult"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это страшно",
+   "ipa": "ðæтс ˈскэри",
+   "spell": "that's scary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "индийский английский",
+   "ipa": "ðи ˈɪндиəн ˈɪŋглɪш",
+   "spell": "the Indian English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нигерийский английский",
+   "ipa": "ðə найˈджɪриəн ˈɪŋглɪш",
+   "spell": "the Nigerian English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дождь закончился",
+   "ipa": "ðə рэйн стɑпт",
+   "spell": "the rain stopped"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их много",
+   "ipa": "ðэр ɑр ˈмэни ʌв ðэм",
+   "spell": "there are many of them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они наглые",
+   "ipa": "ðэй ɑр ˈбрэйзəн",
+   "spell": "they are brazen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они скромные",
+   "ipa": "ðэй ɑр ˈhʌмбəл",
+   "spell": "they are humble"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они громкие",
+   "ipa": "ðэй ɑр лауд",
+   "spell": "they are loud"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они громко говорят",
+   "ipa": "ðэй ɑр лауд",
+   "spell": "they are loud"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они скромные",
+   "ipa": "ðэй ɑр ˈмɑдəст",
+   "spell": "they are modest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они выглядят смешно",
+   "ipa": "ðэй лʊк hɪˈлэриəс",
+   "spell": "they look hilarious"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они должны понять",
+   "ipa": "ðэй щʊд ˌʌндəрˈстæнд",
+   "spell": "they should understand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они закрыли все спортзалы",
+   "ipa": "ðэй шʌт даун ɔл ðə джɪмз (ðэй дɪд)",
+   "spell": "they shut down all the gyms (they did)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они говорят по-китайски",
+   "ipa": "ðэй спик чайˈниз",
+   "spell": "they speak Chinese"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они говорят громко",
+   "ipa": "ðэй спик ˈлаудли",
+   "spell": "they speak loudly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они хотят это показать",
+   "ipa": "ðэй wɑнт ту шоʊ ɪт",
+   "spell": "they want to show it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "возбудиться",
+   "ipa": "ту бɪˈкʌм ɪкˈсайтɪд",
+   "spell": "to become excited"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прочистить горло",
+   "ipa": "ту клɪр йʊəр θроут",
+   "spell": "to clear your throat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выполнять тяжёлую физическую работу",
+   "ipa": "ту ду ə лɑт ʌв ˈфɪзɪкəл ˈлэйбəр",
+   "spell": "to do a lot of physical labor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делать массаж",
+   "ipa": "ту ду мəˈсɑж",
+   "spell": "to do massage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подтягиваться",
+   "ipa": "ту ду пʊл-ʌпс",
+   "spell": "to do pull-ups"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отжиматься",
+   "ipa": "ту ду ˈпʊˌшʌпс",
+   "spell": "to do push-ups"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стоять в планке",
+   "ipa": "ту ду ðə плæŋк",
+   "spell": "to do the plank"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пить больше воды",
+   "ipa": "ту дрɪŋк мор ˈwɔтəр",
+   "spell": "to drink more water"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много тренироваться",
+   "ipa": "ту ˈэксəрˌсайз мʌч",
+   "spell": "to exercise much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ходить на массаж",
+   "ipa": "ту гоу фор мəˈсɑжɪз",
+   "spell": "to go for massages"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выглядеть богато",
+   "ipa": "ту лʊк рɪч",
+   "spell": "to look rich"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "говорить быстро",
+   "ipa": "ту спик ˈкwɪкли",
+   "spell": "to speak quickly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поддерживать тонус",
+   "ipa": "ту стэй тоунд",
+   "spell": "to stay toned"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делать массаж",
+   "ipa": "ту тэйк мəˈсɑж, ду",
+   "spell": "to take massage, do"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правильно разминаться",
+   "ipa": "ту wорм ʌп ˈпрɑпəрли",
+   "spell": "to warm up properly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "работать быстро",
+   "ipa": "ту wɜрк ˈкwɪкли",
+   "spell": "to work quickly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кричать и орать",
+   "ipa": "ту йэл æнд шаут",
+   "spell": "to yell and shout"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам повезло с ней",
+   "ipa": "wи ɑр ˈлʌки ту hæв hɜр",
+   "spell": "we are lucky to have her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы этого не показываем",
+   "ipa": "wи доунт шоʊ ɪт",
+   "spell": "we don't show it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы только что вернулись оттуда",
+   "ipa": "wи hæв джʌст кʌм бæк фрʌм ðæт ˈэриə",
+   "spell": "we have just come back from that area"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы держим всё в себе",
+   "ipa": "wи hоулд ˈэвриˌθɪŋ ɪнˈсайд (ˌʌниˈмоушəнəл)",
+   "spell": "we hold everything inside (unemotional)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что ты собираешься делать?",
+   "ipa": "wɑт ɑр ю ˈгɑнə ду?",
+   "spell": "what are you gonna do?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что у тебя было?",
+   "ipa": "wɑт дɪд ю hæв?",
+   "spell": "what did you have?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда они эмоциональны",
+   "ipa": "wэн ðэй ɑр ɪˈмоушəнəл",
+   "spell": "when they are emotional"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда тебе за пятьдесят",
+   "ipa": "wэн ю ɑр ˈоувəр ˈфɪфти",
+   "spell": "when you are over fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "белая кожа",
+   "ipa": "wайт скɪн",
+   "spell": "white skin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты всё это время лежишь",
+   "ipa": "ю ɑр ˈлайɪŋ ɔл ðɪс тайм",
+   "spell": "you are lying all this time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты не можешь это контролировать",
+   "ipa": "ю кæнт кəнˈтроул ɪт",
+   "spell": "you can't control it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты мог (бы) положить это",
+   "ipa": "ю кʊд пʊт ɪт даун",
+   "spell": "you could put it down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты мог (бы) поднять это",
+   "ipa": "ю кʊд пʊт ɪт ʌп",
+   "spell": "you could put it up"
+ }
+]
+}
