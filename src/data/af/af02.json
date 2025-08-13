@@ -1,0 +1,575 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "number": 2,
+  "date": "2025-08-11",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "замок (крепость)",
+   "ipa": "ə ˈкæсəл",
+   "spell": "a castle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вентилятор",
+   "ipa": "ə фæн",
+   "spell": "a fan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дворец",
+   "ipa": "ə ˈпæлəс",
+   "spell": "a palace"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "попугай",
+   "ipa": "ə ˈпэрəт",
+   "spell": "a parrot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "домашнее животное",
+   "ipa": "ə пэт",
+   "spell": "a pet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "защемлённый нерв",
+   "ipa": "ə пɪнчт нɜрв",
+   "spell": "a pinched nerve"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сыпь",
+   "ipa": "ə рæш",
+   "spell": "a rash"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брат или сестра",
+   "ipa": "ə ˈсɪблɪŋ",
+   "spell": "a sibling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "черепаха",
+   "ipa": "ə ˈтɜртəл",
+   "spell": "a turtle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оса",
+   "ipa": "ə wɑсп",
+   "spell": "a wasp"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её ужалила оса",
+   "ipa": "ə wɑсп стʌŋ hɜр",
+   "spell": "a wasp stung her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зуд",
+   "ipa": "əн ɪч",
+   "spell": "an itch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "древние римляне",
+   "ipa": "ˈэйнчəнт ˈроумəнз",
+   "spell": "ancient Romans"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "противовоспалительное",
+   "ipa": "ˈæнти-ɪнˈфлæмəˌтори",
+   "spell": "anti-inflammatory"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "около тридцати",
+   "ipa": "əˈраунд ˈθɜрди",
+   "spell": "around thirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как только я её увидел",
+   "ipa": "æз сун æз ай сɔ hɜр",
+   "spell": "as soon as I saw her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "блондин",
+   "ipa": "блɑнд",
+   "spell": "blond"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "граф Дракула",
+   "ipa": "каунт ˈдрæкъюлə",
+   "spell": "count Dracula"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "замок графа Дракулы",
+   "ipa": "каунт ˈдрæкъюлəз ˈкæсəл",
+   "spell": "count Dracula's castle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кириллические буквы",
+   "ipa": "сəˈрɪлɪк ˈлэтəрз",
+   "spell": "Cyrillic letters"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "опасный",
+   "ipa": "ˈдэйнджəрəс",
+   "spell": "dangerous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тёмно-русый",
+   "ipa": "дɑрк блɑнд",
+   "spell": "dark blond"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они используют Фаренгейт?",
+   "ipa": "ду ðэй юз ˈфæрəнhайт?",
+   "spell": "do they use Fahrenheit?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с тех пор",
+   "ipa": "ˈэвəр сɪнс",
+   "spell": "ever since"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "четыре недели назад",
+   "ipa": "фор wикс əˈгоу",
+   "spell": "four weeks ago"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "волоски",
+   "ipa": "hэрз",
+   "spell": "hairs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он встретил её на вокзале",
+   "ipa": "hи мэт hɜр æт ðə ˈстэйшəн",
+   "spell": "he met her at the station"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он познакомился с ней в Сочи",
+   "ipa": "hи мэт hɜр ɪн ˈсоучи",
+   "spell": "he met her in Sochi"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он раньше говорил мне",
+   "ipa": "hи юзд ту тэл ми",
+   "spell": "he used to tell me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выше ~ ниже",
+   "ipa": "ˈhайəр ~ ˈлоуəр",
+   "spell": "higher ~ lower"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу догадаться",
+   "ipa": "ай кæн гэс",
+   "spell": "I can guess"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаю, какая сейчас температура",
+   "ipa": "ай доунт ноу wɑт ðə ˈтэмпрəчəр ɪз райт нау",
+   "spell": "I don't know what the temperature is right now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня были отличные выходные",
+   "ipa": "ай hæд ə ˈвэри гʊд ˈwиˌкэнд",
+   "spell": "I had a very good weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня был несчастный случай",
+   "ipa": "ай hæд əн ˈæксəдəнт",
+   "spell": "I had an accident"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я был в ...",
+   "ipa": "ай hæв бɪн ту ...",
+   "spell": "I have been to ..."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня было всего три питомца",
+   "ipa": "ай hæв hæд ˈоунли θри пэтс",
+   "spell": "I have had only three pets"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я жил в Китае",
+   "ipa": "ай hæв лɪвд ɪн ˈчайнə",
+   "spell": "I have lived in China"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я дольше всего жил в Канаде",
+   "ipa": "ай hæв лɪвд ðə ˈлɔŋгəст ɪн ˈкæнəдə",
+   "spell": "I have lived the longest in Canada"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я там не был",
+   "ipa": "ай ˈhæвəнт бɪн ðэр",
+   "spell": "I haven't been there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не был там очень давно",
+   "ipa": "ай ˈhæвəнт бɪн ðэр ɪн ə ˈвэри лɔŋ тайм",
+   "spell": "I haven't been there in a very long time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я жил в Китае в 2010 году",
+   "ipa": "ай лɪвд ɪн ˈчайнə ɪн ˈтwэнти тэн",
+   "spell": "I lived in China in twenty ten"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я расслабился",
+   "ipa": "ай рɪˈлæкст",
+   "spell": "I relaxed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я пошёл в отца",
+   "ipa": "ай тэйк ˈæфтəр май дæд",
+   "spell": "I take after my dad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я был дома один",
+   "ipa": "ай wʌз hоум əˈлоун",
+   "spell": "I was home alone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ходил в русскую школу",
+   "ipa": "ай wэнт ту ə ˈрʌшəн скул",
+   "spell": "I went to a Russian school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я проснулась",
+   "ipa": "ай wоук ʌп",
+   "spell": "I woke up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в клетке",
+   "ipa": "ɪн ə кэйдж",
+   "spell": "in a cage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в огне",
+   "ipa": "ɪн флэймз",
+   "spell": "in flames"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моей жизни",
+   "ipa": "ɪн май лайф",
+   "spell": "in my life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на Западном Кавказе",
+   "ipa": "ɪн ˈwэстəрн ˈкɔкəсəс",
+   "spell": "in Western Caucasus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно воспалено",
+   "ipa": "ɪт ɪз ɪнˈфлэймд",
+   "spell": "it is inflamed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "светло-коричневый",
+   "ipa": "лайт браун",
+   "spell": "light brown"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "русый",
+   "ipa": "лайт браун",
+   "spell": "light brown"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у моей дочери было много питомцев",
+   "ipa": "май ˈдɔтəр hæз hæд ə лɑт ʌв пэтс",
+   "spell": "my daughter has had a lot of pets"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у моей дочери тёмные волосы",
+   "ipa": "май ˈдɔтəрз hэр ɪз дɑрк",
+   "spell": "my daughter's hair is dark"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "цвет моих волос",
+   "ipa": "май hэр ˈкʌлəр",
+   "spell": "my hair color"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "машина моего мужа",
+   "ipa": "май ˈhʌзбəндз кɑр",
+   "spell": "my husband's car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у моей жены тёмно-каштановые волосы",
+   "ipa": "май wайфс hэр ˈкʌлəр ɪз дɑрк браун",
+   "spell": "my wife's hair color is dark brown"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рядом с румынской границей",
+   "ipa": "нэкст ту ðə роуˈмэйниəн ˈбордəр",
+   "spell": "next to the Romanian border"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она почувствовала укус",
+   "ipa": "щи фэлт ə байт",
+   "spell": "she felt a bite"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у неё был зуд",
+   "ipa": "щи hæд əн ɪч",
+   "spell": "she had an itch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она живёт там с тех пор",
+   "ipa": "щи hæз лɪвд ðэр ˈэвəр сɪнс",
+   "spell": "she has lived there ever since"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она переехала туда",
+   "ipa": "щи мувд ðэр",
+   "spell": "she moved there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её ужалила оса",
+   "ipa": "щи wʌз ˈбɪтəн бай ə wɑсп",
+   "spell": "she was bitten by a wasp"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она вампир",
+   "ipa": "щиз ə ˈвæмпайр",
+   "spell": "she's a vampire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иногда мы шутим",
+   "ipa": "сəмˈтаймз wи джоук",
+   "spell": "sometimes we joke"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Кавказ",
+   "ipa": "ðə ˈкɔкəсəс",
+   "spell": "the Caucasus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "питомцы, которые у нас были!",
+   "ipa": "ðə пэтс wи hæд!",
+   "spell": "the pets we had!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Великобритания",
+   "ipa": "ðə ю-кэй",
+   "spell": "the UK"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они познакомились в Сочи",
+   "ipa": "ðэй мэт ɪн ˈсоучи",
+   "spell": "they met in Sochi"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дуть на меня",
+   "ipa": "ту блоу æт ми",
+   "spell": "to blow at me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "воспалить нерв",
+   "ipa": "ту гэт ə нɜрв ɪнˈфлэймд",
+   "spell": "to get a nerve inflamed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жить в деревне",
+   "ipa": "ту лɪв ɪн ðə ˈкʌнтри",
+   "spell": "to live in the country"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "встречать",
+   "ipa": "ту мит",
+   "spell": "to meet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мыть голову",
+   "ipa": "ту wɑш май hэр",
+   "spell": "to wash my hair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в мою сторону",
+   "ipa": "тəˈwорд ми",
+   "spell": "toward me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Приднестровье",
+   "ipa": "трæнзˈнɪсˌтриə",
+   "spell": "Transnistria"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "два значения",
+   "ipa": "ту ˈминɪŋз",
+   "spell": "two meanings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас не было черепахи",
+   "ipa": "wи ˈдɪдəнт hæв ə ˈтɜртəл",
+   "spell": "we didn't have a turtle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда ты был молод",
+   "ipa": "wэн ю wɜр йʌŋ",
+   "spell": "when you were young"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где Вы были?",
+   "ipa": "wэр hæв ю бɪн?",
+   "spell": "where have you been?"
+ }
+]
+}
