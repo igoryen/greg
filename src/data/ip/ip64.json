@@ -1,0 +1,596 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 64,
+  "date": "2025-08-11",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "катастрофа",
+   "ipa": "ə диˈзæстəр",
+   "spell": "a disaster"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "водійське посвідчення",
+   "ipa": "ə ˈдрайvəрз ˈлайсəнс",
+   "spell": "a driver's license"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "іспит на водія",
+   "ipa": "ə ˈдрайvəрз тест",
+   "spell": "a driver's test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "інструктор з водіння",
+   "ipa": "ə ˈдрайvиŋ инˈстрʌктəр",
+   "spell": "a driving instructor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "помилка",
+   "ipa": "ə фɔлт",
+   "spell": "a fault"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "повна катастрофа",
+   "ipa": "ə ˈтоутəл диˈзæстəр",
+   "spell": "a total disaster"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твіт",
+   "ipa": "ə тwіт",
+   "spell": "a tweet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "письмовий іспит",
+   "ipa": "ə ˈритəн тест",
+   "spell": "a written test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все одно",
+   "ipa": "ɔл ðə сейм",
+   "spell": "all the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дивовижно!",
+   "ipa": "əˈмейзиŋ!",
+   "spell": "amazing!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вісімдесят п'ять балів на іспиті",
+   "ipa": "əн ˈейті-файv ɑн ðə тест",
+   "spell": "an eighty-five on the test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "електронний лист",
+   "ipa": "əн іˈмейл",
+   "spell": "an email"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приклад",
+   "ipa": "əн иґˈзæмпəл",
+   "spell": "an example"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "протизапальний",
+   "ipa": "ˈæнті-инˈфлæмəˌторі",
+   "spell": "anti-inflammatory"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "є запитання?",
+   "ipa": "ˈені ˈкwесчəнз?",
+   "spell": "any questions?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ви готові вивчити трохи англійської?",
+   "ipa": "ɑр ю ˈреді ту лɜрн сʌм ˈиŋґлиш?",
+   "spell": "are you ready to learn some English?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по місту",
+   "ipa": "əˈраунд ðə ˈситі",
+   "spell": "around the city"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по всьому світу",
+   "ipa": "əˈраунд ðə wɜрлд",
+   "spell": "around the world"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "о першій годині",
+   "ipa": "æт wʌн əˈклɑк",
+   "spell": "at one o'clock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти це бачив?",
+   "ipa": "дид ю сі ит?",
+   "spell": "did you see it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти склав іспит?",
+   "ipa": "дид ю тейк ə тест?",
+   "spell": "did you take a test?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "водіння",
+   "ipa": "ˈдрайvиŋ",
+   "spell": "driving"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по-перше",
+   "ipa": "фɜрст",
+   "spell": "First"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наприклад",
+   "ipa": "фор иґˈзæмпəл",
+   "spell": "for example"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "він жахливий вчитель",
+   "ipa": "hі из ə ˈтерəбəл ˈтічəр",
+   "spell": "he is a terrible teacher"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я пропустив поворот",
+   "ipa": "ай мист ðə тɜрн",
+   "spell": "I missed the turn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені потрібні заняття",
+   "ipa": "ай нід сʌм ˈлесəнз",
+   "spell": "I need some lessons"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у мене ніколи не було машини до Канади",
+   "ipa": "ай ˈнеvəр hæд ə кɑр биˈфор ˈкæнəдə",
+   "spell": "I never had a car before Canada"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я склав з другого разу",
+   "ipa": "ай пæст ðə ˈсекəнд тайм",
+   "spell": "I passed the second time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я проїхав поворот",
+   "ipa": "ай пæст ðə тɜрн",
+   "spell": "I passed the turn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я думаю",
+   "ipa": "ай θиŋк",
+   "spell": "I think"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я поверну",
+   "ipa": "ай wил мейк ə тɜрн",
+   "spell": "I will make a turn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я розвернусь",
+   "ipa": "ай wил тɜрн əˈраунд",
+   "spell": "I will turn around"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у деяких штатах",
+   "ipa": "ин сʌм стейтс",
+   "spell": "in some states"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це дратує",
+   "ipa": "ит из əˈнойиŋ",
+   "spell": "it is annoying"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це моя провина",
+   "ipa": "итс май фɔлт",
+   "spell": "it's my fault"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "багато людей складають з першого разу",
+   "ipa": "ˈмені ˈпіпəл пæс ðə фɜрст тайм",
+   "spell": "many people pass the first time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обгін заборонено!",
+   "ipa": "ноу ˈпæсиŋ!",
+   "spell": "no passing!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тепер він каже",
+   "ipa": "нау hі сез",
+   "spell": "now he says"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в інший день",
+   "ipa": "ɑн ə ˈдифəрəнт дей",
+   "spell": "on a different day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у різні дні",
+   "ipa": "ɑн ˈдифəрəнт дейз",
+   "spell": "on different days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "того дня",
+   "ipa": "ɑн ðæт дей",
+   "spell": "on that day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "того ж дня",
+   "ipa": "ɑн ðə сейм дей",
+   "spell": "on the same day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вона дала мені пігулки",
+   "ipa": "ші ґейv мі сʌм пилз",
+   "spell": "she gave me some pills"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вона хоче навчитися водіти",
+   "ipa": "ші wɑнтс ту лɜрн ту драйv",
+   "spell": "she wants to learn to drive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "деякі міста",
+   "ipa": "сʌм ˈситіз",
+   "spell": "some cities"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трохи їжі",
+   "ipa": "сʌм фуд",
+   "spell": "some food"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "деякі заняття",
+   "ipa": "сʌм ˈлесəнз",
+   "spell": "some lessons"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трохи грошей",
+   "ipa": "сʌм ˈмʌні",
+   "spell": "some money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "деякі штати",
+   "ipa": "сʌм стейтс",
+   "spell": "some states"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трохи води",
+   "ipa": "сʌм ˈwɔтəр",
+   "spell": "some water"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "південь",
+   "ipa": "сауθ",
+   "spell": "south"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зупинити машину",
+   "ipa": "стɑп ə кɑр",
+   "spell": "stop a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "іспит складний",
+   "ipa": "ðə тест из ˈдифəкəлт",
+   "spell": "the test is difficult"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Великобританія",
+   "ipa": "ðə ю-кей",
+   "spell": "the UK"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потім ти складаєш іспит",
+   "ipa": "ðен ю тейк ə тест",
+   "spell": "then you take a test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони різні",
+   "ipa": "ðей ɑр ˈдифəрəнт",
+   "spell": "they are different"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони складні",
+   "ipa": "ðей ɑр ˈдифəкəлт",
+   "spell": "they are difficult"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вони провалюють іспит",
+   "ipa": "ðей фейл ðə тест",
+   "spell": "they fail the test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "три відсотки",
+   "ipa": "θрі пəрˈсент",
+   "spell": "three percent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "водити машину",
+   "ipa": "ту драйv ə кɑр",
+   "spell": "to drive a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "керувати автомобілем",
+   "ipa": "ту драйv ə кɑр",
+   "spell": "to drive a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "провалити іспит на водія",
+   "ipa": "ту фейл ə ˈдрайvəрз тест",
+   "spell": "to fail a driver's test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "провалити іспит",
+   "ipa": "ту фейл ə тест",
+   "spell": "to fail a test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отримати посвідчення",
+   "ipa": "ту ґет ə ˈлайсəнс",
+   "spell": "to get a license"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "виділяти",
+   "ipa": "ту ˈhайˌлайт",
+   "spell": "to highlight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "відповідати",
+   "ipa": "ту мæч",
+   "spell": "to match"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "паркувати машину",
+   "ipa": "ту пɑрк ə кɑр",
+   "spell": "to park a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обігнати машину",
+   "ipa": "ту пæс ə кɑр",
+   "spell": "to pass a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скласти іспит на водія",
+   "ipa": "ту пæс ə ˈдрайvəрз тест",
+   "spell": "to pass a driver's test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скласти іспит",
+   "ipa": "ту пæс ə тест",
+   "spell": "to pass a test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тренуватися на його машині",
+   "ipa": "ту ˈпрæктəс ин hиз кɑр",
+   "spell": "to practice in his car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перескладати",
+   "ipa": "ту ріˈтейк",
+   "spell": "to retake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перескласти іспит",
+   "ipa": "ту ріˈтейк ðə тест",
+   "spell": "to retake the test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заводити машину",
+   "ipa": "ту стɑрт ə кɑр",
+   "spell": "to start a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "складати іспит на водія",
+   "ipa": "ту тейк ə ˈдрайvəрз тест",
+   "spell": "to take a driver's test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "складати іспит",
+   "ipa": "ту тейк ə тест",
+   "spell": "to take a test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перескладати іспит",
+   "ipa": "ту тейк ə тест əˈґен",
+   "spell": "to take a test again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "складати іспит для отримання посвідчення",
+   "ipa": "ту тейк ə тест ту ґет ə ˈлайсəнс",
+   "spell": "to take a test to get a license"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "перескладати іспит",
+   "ipa": "ту тейк ðə тест əˈґен",
+   "spell": "to take the test again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ми поїхали до озера",
+   "ipa": "wі wент ту ðə лейк",
+   "spell": "we went to the lake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коли тобі чотирнадцять",
+   "ipa": "wен йʊр ˈфорˈтін",
+   "spell": "when you're fourteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тобі не потрібно це робити",
+   "ipa": "ю доунт нід ту ду ит",
+   "spell": "you don't need to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тобі потрібно лише вісімнадцять",
+   "ipa": "ю ˈоунлі нід ту бі ейˈтін",
+   "spell": "you only need to be eighteen"
+ }
+]
+}
