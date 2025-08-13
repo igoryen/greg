@@ -1,0 +1,582 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 84,
+  "date": "2025-08-11",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плинтус",
+   "ipa": "ə ˈбэйсˌборд",
+   "spell": "a baseboard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бурундук",
+   "ipa": "ə ˈчɪпмʌŋк",
+   "spell": "a chipmunk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "таракан",
+   "ipa": "ə ˈкɑˌкроуч",
+   "spell": "a cockroach"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нашествие тараканов",
+   "ipa": "ə ˈкɑˌкроуч ɪнˈфэˈстэйшəн",
+   "spell": "a cockroach infestation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коридор",
+   "ipa": "ə ˈкорəдəр",
+   "spell": "a corridor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "устройство",
+   "ipa": "ə дɪˈвайс",
+   "spell": "a device"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мусорный бак",
+   "ipa": "ə ˈгɑрбɪдж бɪн",
+   "spell": "a garbage bin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мышеловка",
+   "ipa": "ə маус трæп",
+   "spell": "a mouse trap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самолёт взлетает",
+   "ipa": "ə плэйн тэйкс ɔф",
+   "spell": "a plane takes off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пара пенсионеров",
+   "ipa": "ə рɪˈтайрд ˈкʌпəл",
+   "spell": "a retired couple"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "таракан",
+   "ipa": "ə роуч",
+   "spell": "a roach"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "защитная плёнка",
+   "ipa": "ə скрин прəˈтэктəр",
+   "spell": "a screen protector"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "решение",
+   "ipa": "ə сəˈлушəн",
+   "spell": "a solution"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отёкшая нога",
+   "ipa": "ə ˈсwоулəн лэг",
+   "spell": "a swollen leg"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "еда на вынос",
+   "ipa": "ə ˈтэйˌкаут",
+   "spell": "a take-out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мероприятие проходит где-то",
+   "ipa": "əн ɪˈвэнт тэйкс плэйс ˈсʌмˌwэр",
+   "spell": "an event takes place somewhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обычная кошка",
+   "ipa": "əн ˈордəˌнэри кæт",
+   "spell": "an ordinary cat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "курсовая работа",
+   "ipa": "ˈкорсwɜрк",
+   "spell": "coursework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты не торопишься?",
+   "ipa": "ду ю тэйк йʊəр тайм?",
+   "spell": "do you take your time?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он очень спокоен насчёт своего здоровья",
+   "ipa": "hи ɪз ˈвэри лэйд бæк əˈбаут hɪз hэлθ",
+   "spell": "he is very laid back about his health"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он ушёл и не вернулся",
+   "ipa": "hи лэфт æнд ˈнэвəр кэйм бæк",
+   "spell": "he left and never came back"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его сбила машина",
+   "ipa": "hи wʌз hɪт бай ə кɑр",
+   "spell": "he was hit by a car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ухожу через десять минут",
+   "ipa": "ай æм ˈгɑнə тэйк ɔф ɪн тэн ˈмɪнəтс",
+   "spell": "I am gonna take off in ten minutes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я записался на приём",
+   "ipa": "ай бʊкт əн əˈпойнтмəнт",
+   "spell": "I booked an appointment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне не нужна жалость",
+   "ipa": "ай доунт нид ˈпɪти",
+   "spell": "I don't need pity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не пользовался им почти год",
+   "ipa": "ай hæв юзд ɪт ɪн ˈɔлˌмоуст wʌн йɪр",
+   "spell": "I have used it in almost one year"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я оставил немного места",
+   "ipa": "ай лэфт сʌм спэйс",
+   "spell": "I left some space"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я нажимаю на кнопку \"Отложить\" на будильнике",
+   "ipa": "ай снуз май əˈлɑрм",
+   "spell": "I snooze my alarm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я сделал заметки",
+   "ipa": "ай тʊк сʌм ноутс",
+   "spell": "I took some notes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я был раздражён",
+   "ipa": "ай wʌз əˈнойд",
+   "spell": "I was annoyed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я торопился",
+   "ipa": "ай wʌз ɪн ə ˈhɜри",
+   "spell": "I was in a hurry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если бы он мог быть там",
+   "ipa": "ɪф hи кʊд би ðэр",
+   "spell": "if he could be there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно бы разбилось",
+   "ipa": "ɪт wʊд крæш",
+   "spell": "it would crash"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно бы зависло",
+   "ipa": "ɪт wʊд hæŋ",
+   "spell": "it would hang"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно бы замедлилось",
+   "ipa": "ɪт wʊд слоу даун",
+   "spell": "it would slow down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он побывал везде",
+   "ipa": "ɪтс бɪн ˈэвриˌwэр",
+   "spell": "it's been everywhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неправильно расслышанные слова песен",
+   "ipa": "ˌмɪсˈhɜрд ˈлɪрɪкс",
+   "spell": "misheard lyrics"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет силы воли",
+   "ipa": "ноу wɪл ˈпауəр",
+   "spell": "no will power"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не породистая кошка",
+   "ipa": "нɑт ə ˈпэдəгри кæт",
+   "spell": "not a pedigree cat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в тот день",
+   "ipa": "ɑн ðæт дэй",
+   "spell": "on that day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "другие люди пользуются мной",
+   "ipa": "ˈʌðəр ˈпипəл тэйк æдˈвæнтɪдж ʌв ми",
+   "spell": "other people take advantage of me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жалкий",
+   "ipa": "ˈпɪтəфəл",
+   "spell": "pitiful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жалость",
+   "ipa": "ˈпɪти",
+   "spell": "pity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жалость или любовь",
+   "ipa": "ˈпɪти ор лʌв",
+   "spell": "pity or love"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожалуйста, вынеси мусор",
+   "ipa": "плиз тэйк ðə трæш аут",
+   "spell": "please take the trash out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ранее",
+   "ipa": "ˈпривиəсли",
+   "spell": "previously"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она действительно увлеклась мной",
+   "ipa": "щи hæз ˈрɪли ˈтэйкəн ту ми",
+   "spell": "she has really taken to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не торопись!",
+   "ipa": "тэйк йʊəр тайм!",
+   "spell": "take your time!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приём, на который я записалась три месяца назад",
+   "ipa": "ðи əˈпойнтмəнт ай мэйд θри мʌнθс əˈгоу",
+   "spell": "the appointment I made three months ago"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кошка убежала",
+   "ipa": "ðə кæт тʊк ɔф",
+   "spell": "the cat took off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "концерт",
+   "ipa": "ðə ˈкɑнсɜрт",
+   "spell": "the concert"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они ловят мышей",
+   "ipa": "ðэй кæч майс",
+   "spell": "they catch mice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они их ловят",
+   "ipa": "ðэй кæч ðэм",
+   "spell": "they catch them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они хорошо работают",
+   "ipa": "ðэй ду ə гʊд джɑб",
+   "spell": "they do a good job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они тянут свою лямку",
+   "ipa": "ðэй пʊл ðэр wэйт",
+   "spell": "they pull their weight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приносить пользу сообществу",
+   "ipa": "ту ˈбэнəфɪт ə кəмˈюнəти",
+   "spell": "to benefit a community"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дышать",
+   "ipa": "ту бриð",
+   "spell": "to breathe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть / кушать вне дома",
+   "ipa": "ту ит аут",
+   "spell": "to eat out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "накормить всех",
+   "ipa": "ту фид ˈэвриˌwʌн",
+   "spell": "to feed everyone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "использовать / употреблять что-то",
+   "ipa": "ту мэйк юз ʌв ˈсʌмθɪŋ",
+   "spell": "to make use of something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "участвовать",
+   "ipa": "ту пɑрˈтɪсəˌпэйт",
+   "spell": "to participate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заменить А на Б",
+   "ipa": "ту сwɪч ə фор би",
+   "spell": "to switch A for B"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "воспользоваться возможностью",
+   "ipa": "ту тэйк æдˈвæнтɪдж ʌв əн ˌɑпəрˈтунəти",
+   "spell": "to take advantage of an opportunity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "учитывать все факторы",
+   "ipa": "ту тэйк ɔл ðə ˈфæктəрз ˈɪнту əˈкаунт",
+   "spell": "to take all the factors into account"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заботиться о себе",
+   "ipa": "ту тэйк кэр ʌв йəрˈсэлф",
+   "spell": "to take care of yourself"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "принимать во внимание",
+   "ipa": "ту тэйк ˈɪнту əˈкаунт",
+   "spell": "to take into account"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "снять это",
+   "ipa": "ту тэйк ɪт ɔф",
+   "spell": "to take it off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не обращать внимания на",
+   "ipa": "ту тэйк ноу ˈноутəс ʌв",
+   "spell": "to take no notice of"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обратить внимание на что-то",
+   "ipa": "ту тэйк ˈноутəс ʌв ˈсʌмθɪŋ",
+   "spell": "to take notice of something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нанять сотрудника",
+   "ipa": "ту тэйк ɑн əн эмˈплойи",
+   "spell": "to take on an employee"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выносить",
+   "ipa": "ту тэйк аут",
+   "spell": "to take out"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "участвовать в мероприятии",
+   "ipa": "ту тэйк пɑрт ɪн əн æкˈтɪвəти",
+   "spell": "to take part in an activity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "участвовать в чём-то",
+   "ipa": "ту тэйк пɑрт ɪн ˈсʌмθɪŋ",
+   "spell": "to take part in something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожалеть кого-то",
+   "ipa": "ту тэйк ˈпɪти ɑн ˈсʌмˌбɑди",
+   "spell": "to take pity on somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "происходить",
+   "ipa": "ту тэйк плэйс",
+   "spell": "to take place"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "взяться за вязание",
+   "ipa": "ту тэйк ʌп ˈнɪтɪŋ",
+   "spell": "to take up knitting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "взяться за чтение",
+   "ipa": "ту тэйк ʌп ˈрэдɪŋ",
+   "spell": "to take up reading"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "начать какое-то занятие",
+   "ipa": "ту тэйк ʌп сʌм æкˈтɪвəти",
+   "spell": "to take up some activity"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы выпускаем их на улицу",
+   "ipa": "wи лэт ðэм гоу ˈаутˈсайд",
+   "spell": "we let them go outside"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на кого ты больше похож?",
+   "ipa": "hу ду ю тэйк ˈæфтəр мор?",
+   "spell": "who do you take after more?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты в деле",
+   "ipa": "ю ɑр ɑн борд",
+   "spell": "you are on board"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты в команде",
+   "ipa": "ю ɑр ɑн ðə тим",
+   "spell": "you are on the team"
+ }
+]
+}
