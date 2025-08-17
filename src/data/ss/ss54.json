@@ -1,0 +1,386 @@
+{
+  "student": "Svetlana S.",
+  "slug": "ss",
+  "number": 54,
+  "date": "2025-08-11",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "но она не забыла обо мне",
+   "ipa": "бʌт щи ˈhæзəнт фəрˈгɑтəн əˈбаут ми",
+   "spell": "but she hasn’t forgotten about me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он поздоровался с мамой? да, поздоровался",
+   "ipa": "hæз hи сэд həˈлоу ту мɑм? йэс, hи hæз.",
+   "spell": "has he said hello to mom? yes, he has."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она уже ушла домой?",
+   "ipa": "hæз щи гɔн hоум йэт?",
+   "spell": "has she gone home yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она что-нибудь сказала?",
+   "ipa": "hæз щи сэд ˈэниˌθɪŋ?",
+   "spell": "has she said anything?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автобус уже пришёл?",
+   "ipa": "hæз ðə бʌс кʌм йэт?",
+   "spell": "has the bus come yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе уже заплатили?",
+   "ipa": "hæв ðэй пэйд ю йэт?",
+   "spell": "have they paid you yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты покупала что-нибудь интересное в последнее время?",
+   "ipa": "hæв ю бɑт ˈэниˌθɪŋ ˈɪнтрəстɪŋ ˈлэйтли?",
+   "spell": "have you bought anything interesting lately?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты ела что-нибудь интересное в последнее время?",
+   "ipa": "hæв ю ˈитəн ˈэниˌθɪŋ ˈɪнтрəстɪŋ ˈлэйтли?",
+   "spell": "have you eaten anything interesting lately?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты уже закончила работу?",
+   "ipa": "hæв ю ˈфɪнɪшт wɜрк йэт?",
+   "spell": "have you finished work yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты попрощалась с ней?",
+   "ipa": "hæв ю сэд ˌгʊдˈбай ту hɜр?",
+   "spell": "have you said goodbye to her?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты уже поговорила с менеджером?",
+   "ipa": "hæв ю тɔкт ту ðə ˈмæнəджəр йэт?",
+   "spell": "have you talked to the manager yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он пришёл сюда утром. но он уже ушёл",
+   "ipa": "hи кэйм hир ðɪс ˈморнɪŋ. бʌт hи hæз ɔлˈрэди гɔн",
+   "spell": "he came here this morning. but he has already gone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не видела его со вчерашнего дня",
+   "ipa": "ай ˈhæвəнт син hɪм сɪнс ˈйэстəрˌдэй",
+   "spell": "I haven’t seen him since yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я уже закончила",
+   "ipa": "ай hæв ɔлˈрэди ˈфɪнɪшт",
+   "spell": "I have already finished"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я уже всё тебе (рас)сказала",
+   "ipa": "ай hæв ɔлˈрэди тоулд ю ˈэвриˌθɪŋ",
+   "spell": "I have already told you everything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я уже это сделала?",
+   "ipa": "ай hæв дʌн ɪт ɔлˈрэди?",
+   "spell": "I have done it already?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я уже поела",
+   "ipa": "ай hæв ˈитəн ɔлˈрэди",
+   "spell": "I have eaten already"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я уже пообедала",
+   "ipa": "ай hæв ˈфɪнɪшт лʌнч ɔлˈрэди",
+   "spell": "I have finished lunch already"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никогда не видела её в своей жизни",
+   "ipa": "ай hæв ˈнэвəр син hɜр ɪн май лайф",
+   "spell": "I have never seen her in my life"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не видела его несколько дней",
+   "ipa": "ай ˈhæвəнт син hɪм фор ˈсэврəл дэйз",
+   "spell": "I haven't seen him for several days"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ещё не пришла домой",
+   "ipa": "ай ˈhæвəнт кʌм hоум йэт",
+   "spell": "I haven’t come home yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ещё не ела",
+   "ipa": "ай ˈhæвəнт ˈитəн йэт",
+   "spell": "I haven’t eaten yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ещё не приготовила ужин",
+   "ipa": "ай ˈhæвəнт мэйд ˈдɪнəр йэт",
+   "spell": "I haven’t made dinner yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ещё не рассортировала это",
+   "ipa": "ай ˈhæвəнт ˈсортɪд ɪт йэт",
+   "spell": "I haven’t sorted it yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я позвоню тебе, когда приду домой",
+   "ipa": "ай wɪл кɔл ю wэн ай hæв кʌм hоум",
+   "spell": "I will call you when I have come home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой муж уже пришёл и ждёт меня",
+   "ipa": "май ˈhʌзбəнд hæз кʌм ɔлˈрэди æнд (hи) ɪз ˈwэйтɪŋ фор ми",
+   "spell": "my husband has come already and (he) is waiting for me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой сын решил жениться",
+   "ipa": "май сʌн hæз ˌдɪˈсайдɪд ту гэт ˈмэрид",
+   "spell": "my son has decided to get married"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет, я ещё не закончила работу",
+   "ipa": "ноу, ай ˈhæвəнт ˈфɪнɪшт wɜрк йэт",
+   "spell": "no, I haven’t finished work yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет, я не видела её три часа",
+   "ipa": "ноу, ай ˈhæвəнт син hɜр фор θри ˈауəрз",
+   "spell": "no, I haven’t seen her for three hours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ещё не ушла домой",
+   "ipa": "щи ˈhæзəнт гɔн hоум йэт",
+   "spell": "she hasn’t gone home yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не оставила никаких инструкций",
+   "ipa": "щи ˈhæзəнт лэфт ˈэни ɪнˈстрʌкшəнз",
+   "spell": "she hasn’t left any instructions"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не навещала меня с девяти лет",
+   "ipa": "щи ˈhæзəнт ˈвɪзɪтɪд ми сɪнс ай wʌз найн",
+   "spell": "she hasn’t visited me since I was nine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не писала матери 2 месяца",
+   "ipa": "щи ˈhæзəнт ˈрɪтəн ту hɜр ˈмʌðəр фор 2 мʌнθс",
+   "spell": "she hasn’t written to her mother for 2 months"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "извините, я оставила паспорт дома",
+   "ipa": "ˈсɑри, ай hæв лэфт май ˈпæˌспорт æт hоум",
+   "spell": "sorry, I have left my passport at home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё, я уже закончила",
+   "ipa": "ðæтс ɔл, ай hæв ɔлˈрэди ˈфɪнɪшт",
+   "spell": "that’s all, I have already finished"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё, она уже ушла домой",
+   "ipa": "ðæтс ɔл, щи hæз ɔлˈрэди гɔн hоум",
+   "spell": "that’s all, she has already gone home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автобус уже уехал",
+   "ipa": "ðə бʌс hæз ɔлˈрэди лэфт / гɔн",
+   "spell": "the bus has already left / gone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автобус уже пришёл",
+   "ipa": "ðə бʌс hæз кʌм ɔлˈрэди",
+   "spell": "the bus has come already"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автобус ещё не пришёл",
+   "ipa": "ðə бʌс ˈhæзəнт кʌм йэт",
+   "spell": "the bus hasn’t come yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рабочий день уже начался",
+   "ipa": "ðə ˈwɜркɪŋ дэй hæз ɔлˈрэди ˈстɑртɪд",
+   "spell": "the working day has already started"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тогда я решила пойти домой",
+   "ipa": "ðэн ай hæв ˌдɪˈсайдɪд ту гоу hоум",
+   "spell": "then I have decided to go home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они только что закончили, не так ли?",
+   "ipa": "ðэй hæв джʌст ˈфɪнɪшт, ˈhæвəнт ðэй?",
+   "spell": "they have just finished, haven’t they?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне уже заплатили",
+   "ipa": "ðэй hæв пэйд ми ɔлˈрэди",
+   "spell": "they have paid me already"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне ещё не заплатили",
+   "ipa": "ðэй ˈhæвəнт пэйд ми йэт",
+   "spell": "they haven’t paid me yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закончить обед",
+   "ipa": "ту ˈфɪнɪш лʌнч",
+   "spell": "to finish lunch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закончить работу",
+   "ipa": "ту ˈфɪнɪш wɜрк",
+   "spell": "to finish work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поздороваться с…",
+   "ipa": "ту сэй həˈлоу ту…",
+   "spell": "to say hello to…"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "велеть мне сделать что-то",
+   "ipa": "ту тэл ми ту ду ˈсʌмθɪŋ",
+   "spell": "to tell me to do something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы решили купить новую машину",
+   "ipa": "wи hæв ˌдɪˈсайдɪд ту бай ə ну кɑр",
+   "spell": "we have decided to buy a new car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что она велела мне сделать?",
+   "ipa": "wɑт hæз щи тоулд ми ту ду?",
+   "spell": "what has she told me to do?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда она ушла? она ушла в 12",
+   "ipa": "wэн hæз щи гɔн? щи лэфт æт 12",
+   "spell": "when has she gone? she left at 12"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто ещё оставил свой паспорт?",
+   "ipa": "hу элс hæз лэфт ðэр ˈпæˌспорт?",
+   "spell": "who else has left their passport?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто видел менеджера?",
+   "ipa": "hу hæз син ðə ˈмæнəджəр?",
+   "spell": "who has seen the manager?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты уже спрашивал меня об этом",
+   "ipa": "ю hæв æскт ми əˈбаут ɪт ɔлˈрэди",
+   "spell": "you have asked me about it already"
+ }
+]
+}
