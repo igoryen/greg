@@ -3,608 +3,608 @@
   "slug": "ip",
   "number": 57,
   "date": "2025-07-25",
-  "words":  [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мультфільм",
-   "ipa": "ə кɑрˈтун",
-   "spell": "a cartoon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "комедія",
-   "ipa": "ə ˈкɑмəді",
-   "spell": "a comedy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скорочення",
-   "ipa": "ə кəнˈтрæкшəн",
-   "spell": "a contraction"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "драма",
-   "ipa": "ə ˈдрɑмə",
-   "spell": "a drama"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кілька запитань",
-   "ipa": "ə ф’ю ˈкwесчəнз",
-   "spell": "a few questions"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фільм жахів",
-   "ipa": "ə ˈhорəр ˈмуві",
-   "spell": "a horror movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "різновид",
-   "ipa": "ə кайнд",
-   "spell": "a kind"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "маленька зелена людина",
-   "ipa": "ə ˈлитəл ґрін мæн",
-   "spell": "a little green man"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "психопат",
-   "ipa": "ə ˈсайкоу",
-   "spell": "a psycho"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "науково-фантастичний фільм",
-   "ipa": "ə ˈсайəнс ˈфикшəн ˈмуві",
-   "spell": "a science fiction movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "серіал",
-   "ipa": "ə ˈсиˌріəл",
-   "spell": "a serial"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "телешоу",
-   "ipa": "ə ˈтіˈві шоу",
-   "spell": "a TV show"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вестерн",
-   "ipa": "ə ˈwестəрн",
-   "spell": "a western"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "всі фільми",
-   "ipa": "ɔл ðə ˈмувіз",
-   "spell": "all the movies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бойовик",
-   "ipa": "əн ˈæкшəн ˈмуві",
-   "spell": "an action movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "актриса",
-   "ipa": "əн ˈæктрəс",
-   "spell": "an actress"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "прибулець",
-   "ipa": "əн ˈейліəн",
-   "spell": "an alien"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фільм про прибульців",
-   "ipa": "əн ˈейліəн ˈмуві",
-   "spell": "an Alien movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "анімаційний фільм",
-   "ipa": "əн ˈæнəˌмейтид ˈмуві",
-   "spell": "an animated movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "аніматор",
-   "ipa": "əн ˈæнəˌмейтəр",
-   "spell": "an animator"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "художник",
-   "ipa": "əн ˈɑртəст",
-   "spell": "an artist"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "екзорцист",
-   "ipa": "əн ˈексəрсəст",
-   "spell": "an exorcist"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "анімація",
-   "ipa": "ˌæнəˈмейшəн",
-   "spell": "animation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "роби якнайкраще!",
-   "ipa": "ду ðə бест ю кæн!",
-   "spell": "do the best you can!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фантастично!",
-   "ipa": "фæнˈтæстик!",
-   "spell": "fantastic!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фантастика",
-   "ipa": "ˈфикшəн",
-   "spell": "fiction"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знайди методом виключення",
-   "ipa": "файнд ит бай ˈпрɑˌсес ʌв иˌлимəˈнейшəн",
-   "spell": "find it by process of elimination"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тверда наукова фантастика",
-   "ipa": "hɑрд сай-фай",
-   "spell": "hard sci-fi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скільки тобі треба заплатити?",
-   "ipa": "hау мʌч ду ю hæв ту пей?",
-   "spell": "how much do you have to pay?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я повернувся додому о десятій вечора вчора",
-   "ipa": "ай кейм hоум æт тен пі.ем. лæст найт",
-   "spell": "I came home at ten p.m. last night"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зробив все, що міг",
-   "ipa": "ай дид ðə бест ай кʊд",
-   "spell": "I did the best I could"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ненавиджу це",
-   "ipa": "ай hейт ит",
-   "spell": "I hate it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я люблю розумні фільми",
-   "ipa": "ай лайк смɑрт ˈмувіз",
-   "spell": "I like smart movies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я віддаю перевагу тому",
-   "ipa": "ай прəˈфɜр ðæт wʌн",
-   "spell": "I prefer that one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "якщо зможу",
-   "ipa": "иф ай кæн",
-   "spell": "if I can"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він носить форму?",
-   "ipa": "из hі ˈwериŋ ə ˈюнəˌформ?",
-   "spell": "is he wearing a uniform?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це залежить",
-   "ipa": "ит диˈпендз",
-   "spell": "it depends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це про робота",
-   "ipa": "ит из əˈбаут ə ˈроуˌбɑт",
-   "spell": "it is about a robot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це наукова фантастика",
-   "ipa": "ит из ˈсайəнс ˈфикшəн",
-   "spell": "it is science fiction"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нам знадобилося дві ночі, щоб закінчити",
-   "ipa": "ит тʊк ʌс ту найтс ту ˈфиниш ит",
-   "spell": "it took us two nights to finish it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це був дуже добрий фільм",
-   "ipa": "ит wʌз ə ˈвері ə кайнд ˈмуві",
-   "spell": "it was a very a kind movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це було дуже коротке",
-   "ipa": "ит wʌз ˈвері шорт",
-   "spell": "it was very short"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це фантастичний фільм",
-   "ipa": "итс ə фæнˈтæстик ˈмуві",
-   "spell": "it's a fantastic movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це трилер",
-   "ipa": "итс ə ˈθрилəр",
-   "spell": "it's a thriller"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це чудово!",
-   "ipa": "итс ґрейт!",
-   "spell": "it's great!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це наукова фантастика",
-   "ipa": "итс сі-фай",
-   "spell": "it's sci-fi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це неправда",
-   "ipa": "итс нɑт тру",
-   "spell": "its not true"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "види фільмів",
-   "ipa": "кайндз ʌв ˈмувіз",
-   "spell": "kinds of movies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знайомтеся з батьками!",
-   "ipa": "міт ðə ˈперəнтс!",
-   "spell": "meet the parents!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мої улюблені жанри фільмів",
-   "ipa": "май ˈфейвəрит кайнд ʌв ˈмувіз",
-   "spell": "my favorite kind of movies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "лише десять серій",
-   "ipa": "ˈоунлі тен ˈепəˌсоудз",
-   "spell": "only ten episodes"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я також",
-   "ipa": "сейм hір",
-   "spell": "same here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "страшні речі",
-   "ipa": "ˈскері стʌф",
-   "spell": "scary stuff"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наукова фантастика",
-   "ipa": "сай-фай",
-   "spell": "sci-fi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наука",
-   "ipa": "ˈсайəнс",
-   "spell": "science"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "з нею все гаразд",
-   "ipa": "шіз ˈоуˈкей",
-   "spell": "she's ok"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "м'яка наукова фантастика",
-   "ipa": "сɑфт сай-фай",
-   "spell": "soft sci-fi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фільм «Прибулець»",
-   "ipa": "ðі ˈейліəн ˈмуві",
-   "spell": "the Alien movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фільми серії «Прибулець»",
-   "ipa": "ðі ˈейліəн ˈмувіз",
-   "spell": "the Alien movies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "перший",
-   "ipa": "ðə фɜрст wʌн",
-   "spell": "the first one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хрещений батько",
-   "ipa": "ðə ˈґɑдˌфɑðəр",
-   "spell": "the godfather"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "останній вечір",
-   "ipa": "ðə лæст ˈівниŋ",
-   "spell": "the last evening"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "великолепна сімка",
-   "ipa": "ðə мæґˈнифəсəнт ˈсевəн",
-   "spell": "the magnificent seven"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фільм «Термінатор»",
-   "ipa": "ðə ˈмуві ˈтɜрмəˌнейтəр",
-   "spell": "the movie Terminator"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "інший",
-   "ipa": "ðі ˈʌðəр wʌн",
-   "spell": "the other one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "метод виключення",
-   "ipa": "ðə ˈпрɑˌсес ʌв иˌлимəˈнейшəн",
-   "spell": "the process of elimination"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "другий",
-   "ipa": "ðə ˈсекəнд wʌн",
-   "spell": "the second one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фільм «Термінатор»",
-   "ipa": "ðə ˈтɜрмəˌнейтəр ˈмуві",
-   "spell": "the Terminator movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тринадцятий",
-   "ipa": "ðə ˈθɜрˈтінθ",
-   "spell": "the thirteenth"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони жахливі",
-   "ipa": "ðей ɑр ˈɑфəл",
-   "spell": "they are awful"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони дивовижні!",
-   "ipa": "ðер əˈмейзиŋ!",
-   "spell": "they're amazing!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "такий тип прибульця",
-   "ipa": "ðис кайнд ʌв ˈейліəн",
-   "spell": "this kind of alien"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "анімувати",
-   "ipa": "ту ˈæнəˌмейт",
-   "spell": "to animate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "відповісти на запитання",
-   "ipa": "ту ˈæнсəр ə ˈкwесчəн",
-   "spell": "to answer a question"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "огидний",
-   "ipa": "ˈʌґлі",
-   "spell": "ugly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нам дуже сподобалось",
-   "ipa": "wі лайкт ит ˈвері мʌч",
-   "spell": "we liked it very much"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що ти робив минулої ночі?",
-   "ipa": "wɑт дид ю ду лæст найт?",
-   "spell": "what did you do last night?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "яка це пташка?",
-   "ipa": "wɑт кайнд ʌв бɜрд из ит?",
-   "spell": "what kind of bird is it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "яка це машина?",
-   "ipa": "wɑт кайнд ʌв кɑр из ðис?",
-   "spell": "what kind of car is this?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "який це будинок?",
-   "ipa": "wɑт кайнд ʌв hаус из ит?",
-   "spell": "what kind of house is it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "який це фільм?",
-   "ipa": "wɑт кайнд ʌв ˈмуві из ит?",
-   "spell": "what kind of movie is it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "який він чоловік?",
-   "ipa": "wɑт кайнд ʌв ˈпɜрсəн из hі?",
-   "spell": "what kind of person is he?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "який вид?",
-   "ipa": "wɑт кайнд?",
-   "spell": "what kind?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "яка це кінофільм?",
-   "ipa": "wɑт ˈмуві из ит?",
-   "spell": "what movie is it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "о котрій годині ти прийшов додому вчора?",
-   "ipa": "wɑт тайм дид ю кʌм hоум лæст найт?",
-   "spell": "what time did you come home last night?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що трапилося?",
-   "ipa": "wʌтс ðə ˈмæтəр?",
-   "spell": "what's the matter?"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мультфільм",
+      "ipa": "ə кɑрˈтун",
+      "spell": "a cartoon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "комедія",
+      "ipa": "ə ˈкɑмəді",
+      "spell": "a comedy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скорочення",
+      "ipa": "ə кəнˈтрæкшəн",
+      "spell": "a contraction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "драма",
+      "ipa": "ə ˈдрɑмə",
+      "spell": "a drama"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кілька запитань",
+      "ipa": "ə ф’ю ˈкwесчəнз",
+      "spell": "a few questions"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фільм жахів",
+      "ipa": "ə ˈhорəр ˈмуві",
+      "spell": "a horror movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "різновид",
+      "ipa": "ə кайнд",
+      "spell": "a kind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маленька зелена людина",
+      "ipa": "ə ˈлитəл ґрін мæн",
+      "spell": "a little green man"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "психопат",
+      "ipa": "ə ˈсайкоу",
+      "spell": "a psycho"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "науково-фантастичний фільм",
+      "ipa": "ə ˈсайəнс ˈфикшəн ˈмуві",
+      "spell": "a science fiction movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "серіал",
+      "ipa": "ə ˈсиˌріəл",
+      "spell": "a serial"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "телешоу",
+      "ipa": "ə ˈтіˈві шоу",
+      "spell": "a TV show"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вестерн",
+      "ipa": "ə ˈwестəрн",
+      "spell": "a western"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всі фільми",
+      "ipa": "ɔл ðə ˈмувіз",
+      "spell": "all the movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бойовик",
+      "ipa": "əн ˈæкшəн ˈмуві",
+      "spell": "an action movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "актриса",
+      "ipa": "əн ˈæктрəс",
+      "spell": "an actress"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прибулець",
+      "ipa": "əн ˈейліəн",
+      "spell": "an alien"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фільм про прибульців",
+      "ipa": "əн ˈейліəн ˈмуві",
+      "spell": "an Alien movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "анімаційний фільм",
+      "ipa": "əн ˈæнəˌмейтид ˈмуві",
+      "spell": "an animated movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "аніматор",
+      "ipa": "əн ˈæнəˌмейтəр",
+      "spell": "an animator"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "художник",
+      "ipa": "əн ˈɑртəст",
+      "spell": "an artist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "екзорцист",
+      "ipa": "əн ˈексəрсəст",
+      "spell": "an exorcist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "анімація",
+      "ipa": "ˌæнəˈмейшəн",
+      "spell": "animation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "роби якнайкраще!",
+      "ipa": "ду ðə бест ю кæн!",
+      "spell": "do the best you can!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фантастично!",
+      "ipa": "фæнˈтæстик!",
+      "spell": "fantastic!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фантастика",
+      "ipa": "ˈфикшəн",
+      "spell": "fiction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знайди методом виключення",
+      "ipa": "файнд ит бай ˈпрɑˌсес ʌв иˌлимəˈнейшəн",
+      "spell": "find it by process of elimination"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тверда наукова фантастика",
+      "ipa": "hɑрд сай-фай",
+      "spell": "hard sci-fi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скільки тобі треба заплатити?",
+      "ipa": "hау мʌч ду ю hæв ту пей?",
+      "spell": "how much do you have to pay?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я повернувся додому о десятій вечора вчора",
+      "ipa": "ай кейм hоум æт тен пі.ем. лæст найт",
+      "spell": "I came home at ten p.m. last night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я зробив все, що міг",
+      "ipa": "ай дид ðə бест ай кʊд",
+      "spell": "I did the best I could"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ненавиджу це",
+      "ipa": "ай hейт ит",
+      "spell": "I hate it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я люблю розумні фільми",
+      "ipa": "ай лайк смɑрт ˈмувіз",
+      "spell": "I like smart movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я віддаю перевагу тому",
+      "ipa": "ай прəˈфɜр ðæт wʌн",
+      "spell": "I prefer that one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "якщо зможу",
+      "ipa": "иф ай кæн",
+      "spell": "if I can"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він носить форму?",
+      "ipa": "из hі ˈwериŋ ə ˈюнəˌформ?",
+      "spell": "is he wearing a uniform?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це залежить",
+      "ipa": "ит диˈпендз",
+      "spell": "it depends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це про робота",
+      "ipa": "ит из əˈбаут ə ˈроуˌбɑт",
+      "spell": "it is about a robot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це наукова фантастика",
+      "ipa": "ит из ˈсайəнс ˈфикшəн",
+      "spell": "it is science fiction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нам знадобилося дві ночі, щоб закінчити",
+      "ipa": "ит тʊк ʌс ту найтс ту ˈфиниш ит",
+      "spell": "it took us two nights to finish it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це був дуже добрий фільм",
+      "ipa": "ит wʌз ə ˈвері ə кайнд ˈмуві",
+      "spell": "it was a very a kind movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це було дуже коротке",
+      "ipa": "ит wʌз ˈвері шорт",
+      "spell": "it was very short"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це фантастичний фільм",
+      "ipa": "итс ə фæнˈтæстик ˈмуві",
+      "spell": "it's a fantastic movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це трилер",
+      "ipa": "итс ə ˈθрилəр",
+      "spell": "it's a thriller"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це чудово!",
+      "ipa": "итс ґрейт!",
+      "spell": "it's great!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це наукова фантастика",
+      "ipa": "итс сай-фай",
+      "spell": "it's sci-fi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це неправда",
+      "ipa": "итс нɑт тру",
+      "spell": "its not true"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "види фільмів",
+      "ipa": "кайндз ʌв ˈмувіз",
+      "spell": "kinds of movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знайомтеся з батьками!",
+      "ipa": "міт ðə ˈперəнтс!",
+      "spell": "meet the parents!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мої улюблені жанри фільмів",
+      "ipa": "май ˈфейвəрит кайнд ʌв ˈмувіз",
+      "spell": "my favorite kind of movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лише десять серій",
+      "ipa": "ˈоунлі тен ˈепəˌсоудз",
+      "spell": "only ten episodes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я також",
+      "ipa": "сейм hір",
+      "spell": "same here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "страшні речі",
+      "ipa": "ˈскері стʌф",
+      "spell": "scary stuff"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наукова фантастика",
+      "ipa": "сай-фай",
+      "spell": "sci-fi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наука",
+      "ipa": "ˈсайəнс",
+      "spell": "science"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з нею все гаразд",
+      "ipa": "шіз ˈоуˈкей",
+      "spell": "she's ok"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "м'яка наукова фантастика",
+      "ipa": "сɑфт сай-фай",
+      "spell": "soft sci-fi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фільм «Прибулець»",
+      "ipa": "ðі ˈейліəн ˈмуві",
+      "spell": "the Alien movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фільми серії «Прибулець»",
+      "ipa": "ðі ˈейліəн ˈмувіз",
+      "spell": "the Alien movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перший",
+      "ipa": "ðə фɜрст wʌн",
+      "spell": "the first one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хрещений батько",
+      "ipa": "ðə ˈґɑдˌфɑðəр",
+      "spell": "the godfather"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "останній вечір",
+      "ipa": "ðə лæст ˈівниŋ",
+      "spell": "the last evening"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "великолепна сімка",
+      "ipa": "ðə мæґˈнифəсəнт ˈсевəн",
+      "spell": "the magnificent seven"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фільм «Термінатор»",
+      "ipa": "ðə ˈмуві ˈтɜрмəˌнейтəр",
+      "spell": "the movie Terminator"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "інший",
+      "ipa": "ðі ˈʌðəр wʌн",
+      "spell": "the other one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "метод виключення",
+      "ipa": "ðə ˈпрɑˌсес ʌв иˌлимəˈнейшəн",
+      "spell": "the process of elimination"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "другий",
+      "ipa": "ðə ˈсекəнд wʌн",
+      "spell": "the second one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фільм «Термінатор»",
+      "ipa": "ðə ˈтɜрмəˌнейтəр ˈмуві",
+      "spell": "the Terminator movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тринадцятий",
+      "ipa": "ðə ˈθɜрˈтінθ",
+      "spell": "the thirteenth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони жахливі",
+      "ipa": "ðей ɑр ˈɑфəл",
+      "spell": "they are awful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони дивовижні!",
+      "ipa": "ðер əˈмейзиŋ!",
+      "spell": "they're amazing!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "такий тип прибульця",
+      "ipa": "ðис кайнд ʌв ˈейліəн",
+      "spell": "this kind of alien"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "анімувати",
+      "ipa": "ту ˈæнəˌмейт",
+      "spell": "to animate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "відповісти на запитання",
+      "ipa": "ту ˈæнсəр ə ˈкwесчəн",
+      "spell": "to answer a question"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "огидний",
+      "ipa": "ˈʌґлі",
+      "spell": "ugly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нам дуже сподобалось",
+      "ipa": "wі лайкт ит ˈвері мʌч",
+      "spell": "we liked it very much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що ти робив минулої ночі?",
+      "ipa": "wɑт дид ю ду лæст найт?",
+      "spell": "what did you do last night?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яка це пташка?",
+      "ipa": "wɑт кайнд ʌв бɜрд из ит?",
+      "spell": "what kind of bird is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яка це машина?",
+      "ipa": "wɑт кайнд ʌв кɑр из ðис?",
+      "spell": "what kind of car is this?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "який це будинок?",
+      "ipa": "wɑт кайнд ʌв hаус из ит?",
+      "spell": "what kind of house is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "який це фільм?",
+      "ipa": "wɑт кайнд ʌв ˈмуві из ит?",
+      "spell": "what kind of movie is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "який він чоловік?",
+      "ipa": "wɑт кайнд ʌв ˈпɜрсəн из hі?",
+      "spell": "what kind of person is he?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "який вид?",
+      "ipa": "wɑт кайнд?",
+      "spell": "what kind?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яка це кінофільм?",
+      "ipa": "wɑт ˈмуві из ит?",
+      "spell": "what movie is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "о котрій годині ти прийшов додому вчора?",
+      "ipa": "wɑт тайм дид ю кʌм hоум лæст найт?",
+      "spell": "what time did you come home last night?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що трапилося?",
+      "ipa": "wʌтс ðə ˈмæтəр?",
+      "spell": "what's the matter?"
+    }
+  ]
 }
