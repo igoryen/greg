@@ -1,0 +1,554 @@
+{
+  "student": "Svetlana S.",
+  "slug": "ss",
+  "number": 55,
+  "date": "2025-08-18",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "петух",
+   "ipa": "ə кɑк, ə ˈрустəр",
+   "spell": "a cock, a rooster"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "курс танцев (AmE)",
+   "ipa": "ə дæнс клæс",
+   "spell": "a dance class"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предложение",
+   "ipa": "ə ˈсэнтəнс",
+   "spell": "a sentence"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уроки начинаются в девять (AmE)",
+   "ipa": "ˈклæсəз стɑрт æт найн əˈклɑк",
+   "spell": "classes start at nine o'clock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты уже сделал это? (разг.)",
+   "ipa": "дɪд ю ду ɪт йэт?",
+   "spell": "did you do it yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты уже сделала это?",
+   "ipa": "hæв ю дʌн ɪт йэт?",
+   "spell": "have you done it yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя уже был перерыв?",
+   "ipa": "hæв ю hæд ə брэйк йэт?",
+   "spell": "have you had a break yet?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя была хорошая вечеринка?",
+   "ipa": "hæв ю hæд ə гʊд ˈпɑрти?",
+   "spell": "have you had a good party?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты слышала о переговорах на Аляске?",
+   "ipa": "hæв ю hɜрд əˈбаут ðə нəˌгоущиˈэйшəнз ɪн əˈлæскə?",
+   "spell": "have you heard about the negotiations in Alaska?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты прочитала правила?",
+   "ipa": "hæв ю рид ðə рулз?",
+   "spell": "have you read the rules?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты видела этот фильм?",
+   "ipa": "hæв ю син ðɪс ˈмуви?",
+   "spell": "have you seen this movie?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как давно это у тебя?",
+   "ipa": "hау лɔŋ hæв ю hæд ɪт?",
+   "spell": "how long have you had it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предполагается, что я это сделаю",
+   "ipa": "ай æм сəˈпоузд ту ду ɪт",
+   "spell": "I am supposed to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня сегодня не было ни одной видеоигры",
+   "ipa": "ай дɪд нɑт hæв ə ˈсɪŋгəл ˈвɪдиоу гэйм тəˈдэй",
+   "spell": "I did not have a single video game today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не было даже одной видеоигры",
+   "ipa": "ай ˈдɪдəнт ˈивɪн hæв wʌн ˈвɪдиоу гэйм",
+   "spell": "I didn’t even have one video game"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не было ничего, кроме одной видеоигры",
+   "ipa": "ай ˈдɪдəнт hæв ˈэниˌθɪŋ бʌт wʌн ˈвɪдиоу гэйм",
+   "spell": "I didn’t have anything but one video game"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня шрам на руке",
+   "ipa": "ай hæв ə скɑр ɑн май hæнд",
+   "spell": "I have a scar on my hand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне приснился плохой сон",
+   "ipa": "ай hæв hæд ə бæд дрим",
+   "spell": "I have had a bad dream"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня синяк на груди",
+   "ipa": "ай hæв hæд ə бруз ɑн май чэст",
+   "spell": "I have had a bruise on my chest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я простудился",
+   "ipa": "ай hæв hæд ə коулд",
+   "spell": "I have had a cold"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я выпил одну-две рюмки",
+   "ipa": "ай hæв hæд ə дрɪŋк ор ту",
+   "spell": "I have had a drink or two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня долго была температура",
+   "ipa": "ай hæв hæд ə ˈфивəр фор ə лɔŋ тайм",
+   "spell": "I have had a fever for a long time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня весь день болит голова",
+   "ipa": "ай hæв hæд ə ˈhэˌдэйк ɔл дэй тəˈдэй",
+   "spell": "I have had a headache all day today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вздремнул",
+   "ipa": "ай hæв hæд ə нæп",
+   "spell": "I have had a nap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня давно есть вопрос",
+   "ipa": "ай hæв hæд ə ˈкwэсчəн фор ə лɔŋ тайм",
+   "spell": "I have had a question for a long time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня шрам на руке уже тридцать лет",
+   "ipa": "ай hæв hæд ə скɑр ɑн май hæнд фор ˈθɜрди йɪрз",
+   "spell": "I have had a scar on my hand for thirty years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня было достаточно времени",
+   "ipa": "ай hæв hæд ɪˈнʌф тайм",
+   "spell": "I have had enough time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне было весело",
+   "ipa": "ай hæв hæд фʌн",
+   "spell": "I have had fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я выпил немного вина",
+   "ipa": "ай hæв hæд сʌм wайн",
+   "spell": "I have had some wine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эти очки у меня уже два года",
+   "ipa": "ай hæв hæд ðиз ˈглæсəз фор ту йɪрз",
+   "spell": "I have had these glasses for two years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня этот долг уже давно",
+   "ipa": "ай hæв hæд ðɪс дэт фор ə лɔŋ тайм",
+   "spell": "I have had this debt for a long time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня эта проблема уже неделю",
+   "ipa": "ай hæв hæд ðɪс ˈпрɑблəм фор ə wик",
+   "spell": "I have had this problem for a week"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я выпила три чашки кофе",
+   "ipa": "ай hæв hæд θри кʌпс ʌв ˈкɑфи",
+   "spell": "I have had three cups of coffee"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я слышала об этом",
+   "ipa": "ай hæв hɜрд əˈбаут ɪт",
+   "spell": "I have heard about it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня только что был урок",
+   "ipa": "ай hæв джʌст hæд ə клæс",
+   "spell": "I have just had a class"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня только что было собеседование",
+   "ipa": "ай hæв джʌст hæд əн ˈɪнтəрˌвъю",
+   "spell": "I have just had an interview"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я только что пообедала",
+   "ipa": "ай hæв джʌст hæд лʌнч",
+   "spell": "I have just had lunch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня сегодня не было ни одной видеоигры",
+   "ipa": "ай hæв нɑт hæд ə ˈсɪŋгəл ˈвɪдиоу гэйм тəˈдэй",
+   "spell": "I have not had a single video game today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я еще не ужинала",
+   "ipa": "ай hæв нɑт hæд ˈдɪнəр йэт",
+   "spell": "I have not had dinner yet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня этого нет уже 2 года",
+   "ipa": "ай hæв нɑт hæд ɪт фор ту йɪрз",
+   "spell": "I have not had it for two years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я видела это десять раз",
+   "ipa": "ай hæв син ɪт тэн таймз",
+   "spell": "I have seen it ten times"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я должна это сделать",
+   "ipa": "ай hæв ту ду ɪт",
+   "spell": "I have to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не было",
+   "ipa": "ай ˈhæвəнт hæд",
+   "spell": "I haven't had"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не было возможности",
+   "ipa": "ай ˈhæвəнт hæд ə чæнс",
+   "spell": "I haven't had a chance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня давно нет ноутбука",
+   "ipa": "ай ˈhæвəнт hæд ə ˈлæпˌтɑп фор ə лɔŋ тайм",
+   "spell": "I haven't had a laptop for a long time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет много денег",
+   "ipa": "ай ˈhæвəнт hæд ə лɑт ʌв ˈмʌни",
+   "spell": "I haven't had a lot of money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня давно нет друзей",
+   "ipa": "ай ˈhæвəнт hæд ˈэни фрэндз фор ə лɔŋ тайм",
+   "spell": "I haven't had any friends for a long time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет сбережений",
+   "ipa": "ай ˈhæвəнт hæд ˈэни ˈсэйвɪŋз",
+   "spell": "I haven't had any savings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня нет видеоигр",
+   "ipa": "ай ˈhæвəнт hæд ˈэни ˈвɪдиоу гэймз",
+   "spell": "I haven't had any video games"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня не было времени",
+   "ipa": "ай ˈhæвəнт hæд тайм",
+   "spell": "I haven't had time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не видел этого",
+   "ipa": "ай ˈhæвəнт син ɪт",
+   "spell": "I haven't seen it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полагаю, ты теперь боишься водить",
+   "ipa": "ай сəˈпоуз йʊр əˈфрэйд ту драйв нау",
+   "spell": "I suppose you're afraid to drive now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в формальном английском",
+   "ipa": "ɪн ˈформəл ˈɪŋглɪш",
+   "spell": "in formal English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в письменном английском",
+   "ipa": "ɪн ˈрɪтəн ˈɪŋглɪш",
+   "spell": "in written English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предполагалось, что это закончится к десяти вечера",
+   "ipa": "ɪт wʌз сəˈпоузд ту ˈфɪнɪш бай тэн ˈпиˈэм",
+   "spell": "it was supposed to finish by ten PM"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уроки начинаются в девять (BrE)",
+   "ipa": "ˈлэсəнз стɑрт æт найн əˈклɑк",
+   "spell": "lessons start at nine o'clock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "переговоры",
+   "ipa": "нəˌгоущиˈэйшəнз",
+   "spell": "negotiations"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на уроке не разговаривать! (AmE)",
+   "ipa": "ноу ˈтɔкɪŋ ɪн клæс!",
+   "spell": "no talking in class!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет, но я читал книги",
+   "ipa": "ноу, бʌт ай hæв рид ðə бʊкс",
+   "spell": "no, but I have read the books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ни одной видеоигры",
+   "ipa": "нɑт ə ˈсɪŋгəл ˈвɪдиоу гэйм",
+   "spell": "not a single video game"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "читал - прочитал",
+   "ipa": "рид - рид",
+   "spell": "read - read"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правила",
+   "ipa": "ðə рулз",
+   "spell": "the rules"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть проблема",
+   "ipa": "ðэр ɪз ə ˈпрɑблəм",
+   "spell": "there is a problem"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "была проблема",
+   "ipa": "ðэр wʌз ə ˈпрɑблəм",
+   "spell": "there was a problem"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давать частные уроки английского (AmE)",
+   "ipa": "ту гɪвз ˈпрайвəт ˈклæсəз ɪн ˈɪŋглɪш",
+   "spell": "to gives private classes in English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давать частные уроки английского (BrE)",
+   "ipa": "ту гɪвз ˈпрайвəт ˈлэсəнз ɪн ˈɪŋглɪш",
+   "spell": "to gives private lessons in English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пить кофе",
+   "ipa": "ту hæв ˈкɑфи",
+   "spell": "to have coffee"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иметь сбережения",
+   "ipa": "ту hæв ˈсэйвɪŋз",
+   "spell": "to have savings"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "болеть гриппом",
+   "ipa": "ту hæв ðə флу",
+   "spell": "to have the flu"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брать уроки вождения",
+   "ipa": "ту тэйк ˈдрайвɪŋ ˈлэсəнз",
+   "spell": "to take driving lessons"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брать уроки языка",
+   "ipa": "ту тэйк ˈлæŋгwəдж ˈлэсəнз",
+   "spell": "to take language lessons"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "была проблема?",
+   "ipa": "wʌз ðэр ə ˈпрɑблəм?",
+   "spell": "was there a problem?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы хорошо поговорили",
+   "ipa": "wи hæв hæд ə гʊд тɔк",
+   "spell": "we have had a good talk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы посмеялись",
+   "ipa": "wи hæв hæд ə лæф",
+   "spell": "we have had a laugh"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы поговорили",
+   "ipa": "wи hæв hæд ə тɔк",
+   "spell": "we have had a talk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы попили чай",
+   "ipa": "wи hæв hæд сʌм ти",
+   "spell": "we have had some tea"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас только что была встреча",
+   "ipa": "wи hæв джʌст hæд ə ˈмитɪŋ",
+   "spell": "we have just had a meeting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас давно нет тараканов",
+   "ipa": "wи ˈhæвəнт hæд ˈэни (кɑк)ˈроучɪз фор ə лɔŋ тайм",
+   "spell": "we haven't had any (cock)roaches for a long time"
+ }
+]
+}
