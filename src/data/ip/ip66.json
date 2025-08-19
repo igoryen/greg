@@ -1,0 +1,533 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 66,
+  "date": "2025-08-18",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дозвіл",
+   "ipa": "ə ˈпɜрˌмит",
+   "spell": "a permit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можливість",
+   "ipa": "ə ˌпɑсəˈбилəті",
+   "spell": "a possibility"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "навичка",
+   "ipa": "ə скил",
+   "spell": "a skill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тисяча",
+   "ipa": "ə ˈθаузəнд",
+   "spell": "a thousand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дозвіл на роботу",
+   "ipa": "ə wɜрк ˈпɜрˌмит",
+   "spell": "a work permit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дозвольте мені це зробити",
+   "ipa": "əˈлау мі ту ду ит",
+   "spell": "allow me to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дозвольте мені сісти",
+   "ipa": "əˈлау мі ту сит даун",
+   "spell": "allow me to sit down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здатність",
+   "ipa": "əн əˈбилəті",
+   "spell": "an ability"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вміння",
+   "ipa": "əн əˈбилəті",
+   "spell": "an ability"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти вмієш водити?",
+   "ipa": "ɑр ю ˈейбəл ту драйv?",
+   "spell": "are you able to drive?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "але не стоматолог",
+   "ipa": "бʌт нɑт ðə ˈдентəст",
+   "spell": "but not the dentist"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чи можу я пройти?",
+   "ipa": "кæн ай ґоу θру?",
+   "spell": "can I go through?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чи можу я тут сидіти?",
+   "ipa": "кæн ай сит hір?",
+   "spell": "can I sit here?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чи вони можуть нам допомогти?",
+   "ipa": "кæн ðей hелп ʌс?",
+   "spell": "can they help us?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чи можете ви мені допомогти?",
+   "ipa": "кæн ю hелп мі?",
+   "spell": "can you help me?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ви можете замовкнути?",
+   "ipa": "кæн ю шʌт ʌп?",
+   "spell": "can you shut up?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай, ти можеш це зробити",
+   "ipa": "кʌм ɑн, ю кæн ду ит",
+   "spell": "come on, you can do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти достатньо спиш?",
+   "ipa": "ду ю сліп иˈнʌф?",
+   "spell": "do you sleep enough?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти спиш?",
+   "ipa": "ду ю сліп?",
+   "spell": "do you sleep?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рано сьогодні",
+   "ipa": "ˈирі тəˈдей",
+   "spell": "eary today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все буде добре",
+   "ipa": "ˈеvріˌθиŋ из ˈґɑнə бі ɔл райт",
+   "spell": "everything is gonna be all right"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скільки це коштує?",
+   "ipa": "hау мʌч из ит?",
+   "spell": "how much is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я можу",
+   "ipa": "ай æм ˈейбəл",
+   "spell": "I am able"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не можу",
+   "ipa": "ай æм нɑт ˈейбəл",
+   "spell": "I am not able"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я купив телефон у кредит, тому що не зміг заплатити одразу",
+   "ipa": "ай бɑт май фоун ɑн ˈкредəт биˈкɔз ай ˈкʊдəнт пей ˈʌпˌфрʌнт",
+   "spell": "I bought my phone on credit because I couldn’t pay upfront"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вмію водити",
+   "ipa": "ай кæн драйv",
+   "spell": "I can drive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не дозволяю тобі!",
+   "ipa": "ай доунт əˈлау ю!",
+   "spell": "I don't allow you!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хочу спати",
+   "ipa": "ай філ ˈсліпі",
+   "spell": "I feel sleepy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я просто не можу",
+   "ipa": "ай ˈсимплі кæнт",
+   "spell": "I simply can't"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неможливість",
+   "ipa": "имˌпɔсиˈбилиті",
+   "spell": "impossibility"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у музеї",
+   "ipa": "ин ðə м’юˈзіəм",
+   "spell": "in the museum"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це дозволено",
+   "ipa": "ит из əˈлауд",
+   "spell": "it is allowed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це брудно",
+   "ipa": "ит из ˈдɜрті",
+   "spell": "it is dirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це неможливо",
+   "ipa": "ит из имˈпɑсəбəл",
+   "spell": "it is impossible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це не можливо",
+   "ipa": "ит из имˈпɑсəбəл",
+   "spell": "it is impossible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це поруч",
+   "ipa": "ит из ˈнирˈбай",
+   "spell": "it is nearby"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це не дозволено",
+   "ipa": "ит из нɑт əˈлауд",
+   "spell": "it is not allowed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це не дозволено",
+   "ipa": "ит из нɑт пəрˈмитид",
+   "spell": "it is not permitted"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це можливо",
+   "ipa": "ит из ˈпɑсəбəл",
+   "spell": "it is possible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це заборонено",
+   "ipa": "ит из проуˈhибəтəд",
+   "spell": "it is prohibited"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це під забороною",
+   "ipa": "ит из ˈʌндəр ˌпроуəˈбишəн",
+   "spell": "it is under prohibition"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все гаразд!",
+   "ipa": "итс ɔл райт!",
+   "spell": "it's all right!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "все буде добре",
+   "ipa": "итс ˈґɑнə бі ɔл райт",
+   "spell": "it's gonna be all right"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це не дозволено",
+   "ipa": "итс нɑт əˈлауд",
+   "spell": "it's not allowed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це не дозволено",
+   "ipa": "итс нɑт пəрˈмитид",
+   "spell": "it's not permitted"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "це заборонено",
+   "ipa": "итс проуˈhибəтəд",
+   "spell": "it's prohibited"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "робоча сила та запчастини",
+   "ipa": "ˈлейбəр æнд пɑртс",
+   "spell": "labor and parts"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нічого",
+   "ipa": "ˈнʌθиŋ",
+   "spell": "nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "люди в цілому",
+   "ipa": "ˈпіпəл ин ˈдженəрəл",
+   "spell": "people in general"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дозвіл",
+   "ipa": "пəрˈмишəн",
+   "spell": "permission"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у неї була проблема з машиною",
+   "ipa": "ші hæд ə ˈпрɑблəм wиð hɜр кɑр",
+   "spell": "she had a problem with her car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їй потрібна машина",
+   "ipa": "ші нідз ðə кɑр",
+   "spell": "she needs the car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "магазин поруч",
+   "ipa": "ðə шɑп из ˈнирˈбай",
+   "spell": "the shop is nearby"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дозволяти",
+   "ipa": "ту əˈлау",
+   "spell": "to allow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бути спроможним",
+   "ipa": "ту бі ˈейбəл",
+   "spell": "to be able"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "купити це в кредит",
+   "ipa": "ту бай ðис ɑн ˈкредəт",
+   "spell": "to buy this on credit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полагодити машину",
+   "ipa": "ту фикс ðə кɑр",
+   "spell": "to fix the car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дозволяти",
+   "ipa": "ту пəрˈмит",
+   "spell": "to permit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас лише одна спальня",
+   "ipa": "wі ˈоунлі hæv wʌн ˈбеˌдрум",
+   "spell": "we only have one bedroom"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що ще ми можемо зробити?",
+   "ipa": "wɑт елс кæн wі ду?",
+   "spell": "what else can we do?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "що не так?",
+   "ipa": "wɑт из рɔŋ?",
+   "spell": "what is wrong?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти можеш це зробити, якщо це можливо",
+   "ipa": "ю кæн ду ит иф ит из ˈпɑсəбəл",
+   "spell": "you can do it if it is possible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти можеш це зробити, якщо маєш дозвіл",
+   "ipa": "ю кæн ду ит иф ю hæv пəрˈмишəн",
+   "spell": "you can do it if you have permission"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш цього зробити",
+   "ipa": "ю кæнт ду ит",
+   "spell": "you can't do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш цього зробити, якщо це неможливо",
+   "ipa": "ю кæнт ду ит иф ит из имˈпɑсəбəл",
+   "spell": "you can't do it if it is impossible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш цього зробити, якщо не маєш дозволу",
+   "ipa": "ю кæнт ду ит иф ю hæv ноу пəрˈмишəн",
+   "spell": "you can't do it if you have no permission"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш цього зробити!",
+   "ipa": "ю кæнт ду ит!",
+   "spell": "you can't do it!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш їсти тут",
+   "ipa": "ю кæнт іт hір",
+   "spell": "you can't eat here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш слухати музику тут",
+   "ipa": "ю кæнт ˈлисəн ту ˈм’юзик hір",
+   "spell": "you can't listen to music here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш паркуватися тут!",
+   "ipa": "ю кæнт пɑрк hір!",
+   "spell": "you can't park here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш сидіти тут",
+   "ipa": "ю кæнт сит hір",
+   "spell": "you can't sit here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш палити тут",
+   "ipa": "ю кæнт смоук hір",
+   "spell": "you can't smoke here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш стояти тут",
+   "ipa": "ю кæнт стæнд hір",
+   "spell": "you can't stand here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш зупинятися тут",
+   "ipa": "ю кæнт стɑп hір",
+   "spell": "you can't stop here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ти не можеш ходити тут",
+   "ipa": "ю кæнт wɔк hір",
+   "spell": "you can't walk here"
+ }
+]
+}
