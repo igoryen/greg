@@ -1,0 +1,372 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "number": 4,
+  "date": "2025-08-18",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чудо",
+   "ipa": "ə ˈмɪрəкəл",
+   "spell": "a miracle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пропавший без вести",
+   "ipa": "ə ˈмɪсɪŋ ˈпɜрсəн",
+   "spell": "a missing person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подлежащее",
+   "ipa": "ə ˈсʌбджɪкт",
+   "spell": "a subject"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "глагол",
+   "ipa": "ə вɜрб",
+   "spell": "a verb"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "иллюстратор",
+   "ipa": "əн ˈɪлəˌстрэйтəр",
+   "spell": "an illustrator"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дополнение (объект)",
+   "ipa": "əн ˈɑбджэкт",
+   "spell": "an object"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "и вот она пошла в начальную школу",
+   "ipa": "æнд нау щи ˈстɑртɪд ˌэлəˈмэнтри скул",
+   "spell": "and now she started elementary school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дешевле",
+   "ipa": "ˈчипəр",
+   "spell": "cheaper"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не доверяй никому",
+   "ipa": "доунт трʌст ˈэнибəди",
+   "spell": "don't trust anybody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дай Бог",
+   "ipa": "гɑд грæнт",
+   "spell": "God grant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если Бог даст",
+   "ipa": "гɑд ˈwɪлɪŋ",
+   "spell": "God willing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он высокомерный",
+   "ipa": "hи ɪз стʌк-ʌп",
+   "spell": "he is stuck-up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её мама забирает её из школы сегодня",
+   "ipa": "hɜр ˈмʌðəр ɪз ˈпɪкɪŋ hɜр ʌп фрʌм скул тəˈдэй",
+   "spell": "her mother is picking her up from school today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "надеюсь",
+   "ipa": "ˈhоупфəли",
+   "spell": "hopefully"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я нервничаю",
+   "ipa": "ай æм ˈнɜрвəс",
+   "spell": "I am nervous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я отдыхаю",
+   "ipa": "ай æм рɪˈлæксɪŋ",
+   "spell": "I am relaxing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никого не вижу",
+   "ipa": "ай доунт си ˈэнибəди",
+   "spell": "I don't see anybody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нравится путешествовать",
+   "ipa": "ай лайк ˈтрæвəлɪŋ",
+   "spell": "I like traveling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я кого-то люблю",
+   "ipa": "ай лʌв ˈсʌмˌбɑди",
+   "spell": "I love somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тебя люблю",
+   "ipa": "ай лʌв ю",
+   "spell": "I love you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если всё пойдёт хорошо",
+   "ipa": "ɪф ɔл гоуз wэл",
+   "spell": "if all goes well"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это бесплатно (1)",
+   "ipa": "ɪт ɪз фри",
+   "spell": "it is free"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это бесплатно (2)",
+   "ipa": "ɪт ɪз фри ʌв чɑрдж",
+   "spell": "it is free of charge"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это случится",
+   "ipa": "ɪт wɪл ˈhæпəн",
+   "spell": "it will happen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это её первый день в школе",
+   "ipa": "ɪтс hɜр фɜрст дэй ʌв скул",
+   "spell": "it's her first day of school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она впервые в этой новой школе",
+   "ipa": "ɪтс hɜр фɜрст тайм æт ðɪс ну скул",
+   "spell": "it's her first time at this new school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моём спортзале нет бассейна",
+   "ipa": "май джɪм ˈдʌзəнт hæв ə ˈсwɪмɪŋ пул",
+   "spell": "my gym doesn't have a swimming pool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не такой высокомерный",
+   "ipa": "нɑт соу ˈэрəгəнт",
+   "spell": "not so arrogant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раз в два месяца",
+   "ipa": "wʌнс ˈэвəри ту мʌнθс",
+   "spell": "once every two months"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "просто и понятно",
+   "ipa": "плэйн æнд ˈсɪмпəл",
+   "spell": "plain and simple"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её нет дома",
+   "ipa": "щи ɪз əˈwэй фрʌм hоум",
+   "spell": "she is away from home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она звонит мужу",
+   "ipa": "щи ɪз ˈкɔлɪŋ hɜр ˈhʌзбəнд",
+   "spell": "she is calling her husband"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она плачет",
+   "ipa": "щи ɪз ˈкрайɪŋ",
+   "spell": "she is crying"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она разговаривает с мужем по телефону",
+   "ipa": "щи ɪз ˈспикɪŋ ту hɜр ˈhʌзбəнд ɑн ðə фоун",
+   "spell": "she is speaking to her husband on the phone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она остановилась в отеле",
+   "ipa": "щи ɪз ˈстэйɪŋ ɪн ə hоуˈтэл",
+   "spell": "she is staying in a hotel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она очень взволнована",
+   "ipa": "щи ɪз ˈвэри ɪкˈсайтɪд",
+   "spell": "she is very excited"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она только пошла в начальную школу",
+   "ipa": "щи джʌст ˈстɑртɪд ˌэлəˈмэнтри скул",
+   "spell": "she just started elementary school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она ходила в детский сад",
+   "ipa": "щи wʌз ɪн ˈкɪндəрˌгɑртəн",
+   "spell": "she was in kindergarten"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она поехала в Коста-Рику",
+   "ipa": "щи wэнт ту ˈкɔстə ˈрикə",
+   "spell": "she went to Costa Rica"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она будет в школе до трёх дня",
+   "ipa": "щи wɪл би æт скул əнˈтɪл θри ˈпиˈэм",
+   "spell": "she will be at school until three PM"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она поедет в другой город",
+   "ipa": "щи wɪл гоу ту əˈнʌðəр ˈсɪти",
+   "spell": "she will go to another city"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "теперь она в начальной школе",
+   "ipa": "щиз нау ɪн ˌэлəˈмэнтри скул",
+   "spell": "she’s now in elementary school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "глупый",
+   "ipa": "ˈсɪли",
+   "spell": "silly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подлежащее - сказуемое - дополнение (ПСД)",
+   "ipa": "ˈсʌбджɪкт - вɜрб - ˈɑбджэкт (эс-ви-оу)",
+   "spell": "subject - verb - object (SVO)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сегодня светит солнце",
+   "ipa": "ðə сʌн ɪз ˈшайнɪŋ тəˈдэй",
+   "spell": "the sun is shining today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в третий раз",
+   "ipa": "ðə θɜрд тайм",
+   "spell": "the third time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плата за обучение",
+   "ipa": "ðə тъюˈɪшəн фи",
+   "spell": "the tuition fee"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "забрать её из школы",
+   "ipa": "ту пɪк hɜр ʌп фрʌм скул",
+   "spell": "to pick her up from school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "переставить это",
+   "ipa": "ту ˌриəˈрэйндж ɪт",
+   "spell": "to rearrange it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "остановиться в отеле",
+   "ipa": "ту стэй ɪн ə hоуˈтэл",
+   "spell": "to stay in a hotel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто забирает её из школы?",
+   "ipa": "hу ɪз ˈпɪкɪŋ hɜр ʌп фрʌм скул?",
+   "spell": "who is picking her up from school?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вам ли не знать",
+   "ipa": "ю wʊд ноу",
+   "spell": "you would know"
+ }
+]
+}
