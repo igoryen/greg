@@ -3,538 +3,538 @@
   "slug": "gp",
   "number": 14,
   "date": "2025-07-30",
-  "words":   [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "народження",
-   "ipa": "ə бɜрθ",
-   "spell": "a birth"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "трохи",
-   "ipa": "ə бит",
-   "spell": "a bit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "трохи занадто молодий",
-   "ipa": "ə бит ту йʌŋ",
-   "spell": "a bit too young"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зручне місце і час",
-   "ipa": "ə кəнˈvінйəнт плейс æнд тайм",
-   "spell": "a convenient place and time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "побачення",
-   "ipa": "ə дейт",
-   "spell": "a date"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ім'я",
-   "ipa": "ə фɜрст нейм",
-   "spell": "a first name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чудове місце",
-   "ipa": "ə ґрейт плейс",
-   "spell": "a great place"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приємні слова",
-   "ipa": "ə кайнд θиŋ ту сей",
-   "spell": "a kind thing to say"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "прізвище",
-   "ipa": "ə лæст нейм",
-   "spell": "a last name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "трохи",
-   "ipa": "ə ˈлитəл",
-   "spell": "a little"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "трохи",
-   "ipa": "ə ˈлитəл бит",
-   "spell": "a little bit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "місце, куди можна піти",
-   "ipa": "ə плейс ту ґоу",
-   "spell": "a place to go"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рецепціоніст",
-   "ipa": "ə риˈсепшəнист",
-   "spell": "a receptionist"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "розумний будинок",
-   "ipa": "ə смɑрт hаус",
-   "spell": "a smart house"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "назва вулиці",
-   "ipa": "ə стріт нейм",
-   "spell": "a street name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тон голосу",
-   "ipa": "ə тоун ʌv vойс",
-   "spell": "a tone of voice"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рік",
-   "ipa": "ə йир",
-   "spell": "a year"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "призначення",
-   "ipa": "əн əˈпойнтмəнт",
-   "spell": "an appointment"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "призначення на одинадцяту ранку",
-   "ipa": "əн иˈлеvəн ей.ем. əˈпойнтмəнт",
-   "spell": "an eleven a.m. appointment"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неформальна розмова",
-   "ipa": "əн инˈформəл тɔк",
-   "spell": "an informal talk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мистецтво, яке можна побачити",
-   "ipa": "ɑрт ту сі",
-   "spell": "art to see"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "великий",
-   "ipa": "биґ",
-   "spell": "big"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чи можу дізнатися ваше повне ім'я?",
-   "ipa": "кæн ай hæv йʊəр фʊл нейм?",
-   "spell": "can I have your full name?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти вмієш співати?",
-   "ipa": "кæн ю сиŋ?",
-   "spell": "can you sing?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їжа, яку можна їсти",
-   "ipa": "фуд ту іт",
-   "spell": "food to eat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "як",
-   "ipa": "hау",
-   "spell": "how"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "як ти це робиш?",
-   "ipa": "hау ду ю ду ðæт?",
-   "spell": "how do you do that?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "як тобі це подобається?",
-   "ipa": "hау ду ю лайк ит?",
-   "spell": "how do you like it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скільки ти випив?",
-   "ipa": "hау мʌч дид ю дриŋк?",
-   "spell": "how much did you drink?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скільки ти працював?",
-   "ipa": "hау мʌч дид ю wɜрк?",
-   "spell": "how much did you work?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у мене є це",
-   "ipa": "ай hæv ит",
-   "spell": "I have it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мені просто потрібна деяка інформація",
-   "ipa": "ай джʌст нід сʌм ˌинфəрˈмейшəн",
-   "spell": "I just need some information"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мені просто потрібно працювати",
-   "ipa": "ай джʌст нід ту wɜрк",
-   "spell": "I just need to work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я люблю це",
-   "ipa": "ай лʌv ит",
-   "spell": "I love it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мені дуже подобається",
-   "ipa": "ай ˈрилі лайк ит",
-   "spell": "I really like it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я думаю",
-   "ipa": "ай θиŋк",
-   "spell": "I think"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я розумію трохи",
-   "ipa": "ай ˌʌндəрˈстæнд ə ˈлитəл",
-   "spell": "i understand a little"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я відвідаю це",
-   "ipa": "ай wил ˈvизəт ит",
-   "spell": "I will visit it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я відвідаю це скоро",
-   "ipa": "ай wил ˈvизəт ит сун",
-   "spell": "I will visit it soon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це дійсно велике",
-   "ipa": "ит из ˈрилі биґ",
-   "spell": "it is really big"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це не велика справа",
-   "ipa": "итс нɑт ə биґ діл",
-   "spell": "it's not a big deal"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "січень",
-   "ipa": "ˈджæн’юˌері",
-   "spell": "January"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "слухай!",
-   "ipa": "ˈлисəн!",
-   "spell": "listen!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "маленький",
-   "ipa": "ˈлитəл",
-   "spell": "little"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сучасне мистецтво",
-   "ipa": "ˈмɑдəрн ɑрт",
-   "spell": "modern art"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "більшість питань",
-   "ipa": "моуст ˈкwесчəнз",
-   "spell": "most questions"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "багато",
-   "ipa": "мʌч",
-   "spell": "much"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "близько",
-   "ipa": "нир",
-   "spell": "near"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "біля музею мистецтв",
-   "ipa": "нир ðі ɑрт м’юˈзіəм",
-   "spell": "near the art museum"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дев'ятнадцять вісімдесят п'ять (1985)",
-   "ipa": "ˈнайнˈтін ˈейті-файv (1985)",
-   "spell": "nineteen eighty-five (1985)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дев'ятнадцять вісімдесят сім (1987)",
-   "ipa": "ˈнайнˈтін ˈейті-ˈсеvəн (1987)",
-   "spell": "nineteen eighty-seven (1987)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зверніть увагу на це",
-   "ipa": "пей əˈтеншəн ту ðæт",
-   "spell": "pay attention to that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "місця, які варто побачити",
-   "ipa": "ˈплейсəз ту сі",
-   "spell": "places to see"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "множина",
-   "ipa": "ˈплʊрəл",
-   "spell": "plural"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "так?",
-   "ipa": "райт?",
-   "spell": "right?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сьомий",
-   "ipa": "ˈсеvəнθ",
-   "spell": "seventh"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "так багато",
-   "ipa": "соу мʌч",
-   "spell": "so much"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скоро",
-   "ipa": "сун",
-   "spell": "soon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "музей мистецтв",
-   "ipa": "ðі ɑрт м’юˈзіəм",
-   "spell": "the art museum"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шепелявий z",
-   "ipa": "ðə ліспy зі",
-   "spell": "the lispy z"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кімнати",
-   "ipa": "ðə румз",
-   "spell": "the rooms"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "є",
-   "ipa": "ðер из",
-   "spell": "there is"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "речі, які можна купити",
-   "ipa": "θиŋз ту бай",
-   "spell": "things to buy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "речі, які можна робити",
-   "ipa": "θиŋз ту ду",
-   "spell": "things to do"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "думай! думай!",
-   "ipa": "θиŋк! θиŋк!",
-   "spell": "think! think!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це особливість",
-   "ipa": "ðис из ə кwɜрк",
-   "spell": "this is a quirk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це справжнє мистецтво",
-   "ipa": "ðис из ріəл ɑрт",
-   "spell": "this is real art"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це сумно",
-   "ipa": "ðис из сæд",
-   "spell": "this is sad"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "звучати ввічливо",
-   "ipa": "ту саунд пəˈлайт",
-   "spell": "to sound polite"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "відвідати це",
-   "ipa": "ту ˈvизəт ит",
-   "spell": "to visit it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дуже сучасний",
-   "ipa": "ˈvері ˈмɑдəрн",
-   "spell": "very modern"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дуже корисно",
-   "ipa": "ˈvері ˈюсфəл",
-   "spell": "very useful"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "про що вони говорять?",
-   "ipa": "wɑт ду ðей тɔк əˈбаут?",
-   "spell": "what do they talk about?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "з",
-   "ipa": "wиð",
-   "spell": "with"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "з лікарем",
-   "ipa": "wиð ə ˈдɑктəр",
-   "spell": "with a doctor"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "робота, яку потрібно виконати",
-   "ipa": "wɜрк ту ду",
-   "spell": "work to do"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "народження",
+      "ipa": "ə бɜрθ",
+      "spell": "a birth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "трохи",
+      "ipa": "ə бит",
+      "spell": "a bit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "трохи занадто молодий",
+      "ipa": "ə бит ту йʌŋ",
+      "spell": "a bit too young"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зручне місце і час",
+      "ipa": "ə кəнˈvінйəнт плейс æнд тайм",
+      "spell": "a convenient place and time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "побачення",
+      "ipa": "ə дейт",
+      "spell": "a date"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ім'я",
+      "ipa": "ə фɜрст нейм",
+      "spell": "a first name"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чудове місце",
+      "ipa": "ə ґрейт плейс",
+      "spell": "a great place"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приємні слова",
+      "ipa": "ə кайнд θиŋ ту сей",
+      "spell": "a kind thing to say"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прізвище",
+      "ipa": "ə лæст нейм",
+      "spell": "a last name"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "трохи",
+      "ipa": "ə ˈлитəл",
+      "spell": "a little"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "трохи",
+      "ipa": "ə ˈлитəл бит",
+      "spell": "a little bit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "місце, куди можна піти",
+      "ipa": "ə плейс ту ґоу",
+      "spell": "a place to go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рецепціоніст",
+      "ipa": "ə риˈсепшəнист",
+      "spell": "a receptionist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "розумний будинок",
+      "ipa": "ə смɑрт hаус",
+      "spell": "a smart house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "назва вулиці",
+      "ipa": "ə стріт нейм",
+      "spell": "a street name"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тон голосу",
+      "ipa": "ə тоун ʌv vойс",
+      "spell": "a tone of voice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рік",
+      "ipa": "ə йир",
+      "spell": "a year"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "призначення",
+      "ipa": "əн əˈпойнтмəнт",
+      "spell": "an appointment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "призначення на одинадцяту ранку",
+      "ipa": "əн иˈлеvəн ей.ем. əˈпойнтмəнт",
+      "spell": "an eleven a.m. appointment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неформальна розмова",
+      "ipa": "əн инˈформəл тɔк",
+      "spell": "an informal talk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мистецтво, яке можна побачити",
+      "ipa": "ɑрт ту сі",
+      "spell": "art to see"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "великий",
+      "ipa": "биґ",
+      "spell": "big"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чи можу дізнатися ваше повне ім'я?",
+      "ipa": "кəн ай hæv йʊəр фʊл нейм?",
+      "spell": "can I have your full name?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти вмієш співати?",
+      "ipa": "кəн ю сиŋ?",
+      "spell": "can you sing?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їжа, яку можна їсти",
+      "ipa": "фуд ту іт",
+      "spell": "food to eat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "як",
+      "ipa": "hау",
+      "spell": "how"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "як ти це робиш?",
+      "ipa": "hау ду ю ду ðæт?",
+      "spell": "how do you do that?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "як тобі це подобається?",
+      "ipa": "hау ду ю лайк ит?",
+      "spell": "how do you like it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скільки ти випив?",
+      "ipa": "hау мʌч дид ю дриŋк?",
+      "spell": "how much did you drink?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скільки ти працював?",
+      "ipa": "hау мʌч дид ю wɜрк?",
+      "spell": "how much did you work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене є це",
+      "ipa": "ай hæv ит",
+      "spell": "I have it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені просто потрібна деяка інформація",
+      "ipa": "ай джʌст нід сʌм ˌинфəрˈмейшəн",
+      "spell": "I just need some information"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені просто потрібно працювати",
+      "ipa": "ай джʌст нід ту wɜрк",
+      "spell": "I just need to work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я люблю це",
+      "ipa": "ай лʌv ит",
+      "spell": "I love it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені дуже подобається",
+      "ipa": "ай ˈрилі лайк ит",
+      "spell": "I really like it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я думаю",
+      "ipa": "ай θиŋк",
+      "spell": "I think"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я розумію трохи",
+      "ipa": "ай ˌʌндəрˈстæнд ə ˈлитəл",
+      "spell": "i understand a little"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я відвідаю це",
+      "ipa": "ай wил ˈvизəт ит",
+      "spell": "I will visit it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я відвідаю це скоро",
+      "ipa": "ай wил ˈvизəт ит сун",
+      "spell": "I will visit it soon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це дійсно велике",
+      "ipa": "ит из ˈрилі биґ",
+      "spell": "it is really big"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це не велика справа",
+      "ipa": "итс нɑт ə биґ діл",
+      "spell": "it's not a big deal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "січень",
+      "ipa": "ˈджæн’юˌері",
+      "spell": "January"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слухай!",
+      "ipa": "ˈлисəн!",
+      "spell": "listen!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маленький",
+      "ipa": "ˈлитəл",
+      "spell": "little"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сучасне мистецтво",
+      "ipa": "ˈмɑдəрн ɑрт",
+      "spell": "modern art"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "більшість питань",
+      "ipa": "моуст ˈкwесчəнз",
+      "spell": "most questions"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "багато",
+      "ipa": "мʌч",
+      "spell": "much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "близько",
+      "ipa": "нир",
+      "spell": "near"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "біля музею мистецтв",
+      "ipa": "нир ðі ɑрт м’юˈзіəм",
+      "spell": "near the art museum"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дев'ятнадцять вісімдесят п'ять (1985)",
+      "ipa": "ˈнайнˈтін ˈейті-файv (1985)",
+      "spell": "nineteen eighty-five (1985)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дев'ятнадцять вісімдесят сім (1987)",
+      "ipa": "ˈнайнˈтін ˈейті-ˈсеvəн (1987)",
+      "spell": "nineteen eighty-seven (1987)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зверніть увагу на це",
+      "ipa": "пей əˈтеншəн ту ðæт",
+      "spell": "pay attention to that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "місця, які варто побачити",
+      "ipa": "ˈплейсəз ту сі",
+      "spell": "places to see"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "множина",
+      "ipa": "ˈплʊрəл",
+      "spell": "plural"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так?",
+      "ipa": "райт?",
+      "spell": "right?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сьомий",
+      "ipa": "ˈсеvəнθ",
+      "spell": "seventh"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так багато",
+      "ipa": "соу мʌч",
+      "spell": "so much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скоро",
+      "ipa": "сун",
+      "spell": "soon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "музей мистецтв",
+      "ipa": "ðі ɑрт м’юˈзіəм",
+      "spell": "the art museum"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шепелявий z",
+      "ipa": "ðə ліспy зі",
+      "spell": "the lispy z"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кімнати",
+      "ipa": "ðə румз",
+      "spell": "the rooms"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "є",
+      "ipa": "ðер из",
+      "spell": "there is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "речі, які можна купити",
+      "ipa": "θиŋз ту бай",
+      "spell": "things to buy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "речі, які можна робити",
+      "ipa": "θиŋз ту ду",
+      "spell": "things to do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "думай! думай!",
+      "ipa": "θиŋк! θиŋк!",
+      "spell": "think! think!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це особливість",
+      "ipa": "ðис из ə кwɜрк",
+      "spell": "this is a quirk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це справжнє мистецтво",
+      "ipa": "ðис из ріəл ɑрт",
+      "spell": "this is real art"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це сумно",
+      "ipa": "ðис из сæд",
+      "spell": "this is sad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "звучати ввічливо",
+      "ipa": "ту саунд пəˈлайт",
+      "spell": "to sound polite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "відвідати це",
+      "ipa": "ту ˈvизəт ит",
+      "spell": "to visit it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дуже сучасний",
+      "ipa": "ˈvері ˈмɑдəрн",
+      "spell": "very modern"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дуже корисно",
+      "ipa": "ˈvері ˈюсфəл",
+      "spell": "very useful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "про що вони говорять?",
+      "ipa": "wɑт ду ðей тɔк əˈбаут?",
+      "spell": "what do they talk about?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з",
+      "ipa": "wиð",
+      "spell": "with"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з лікарем",
+      "ipa": "wиð ə ˈдɑктəр",
+      "spell": "with a doctor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "робота, яку потрібно виконати",
+      "ipa": "wɜрк ту ду",
+      "spell": "work to do"
+    }
+  ]
 }

@@ -3,979 +3,979 @@
   "slug": "mg",
   "number": 8,
   "date": "2025-07-27",
-  "words":  [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "медведь",
-   "ipa": "ə бэр",
-   "spell": "a bear"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "клоп постельный",
-   "ipa": "ə бэд бʌг",
-   "spell": "a bed bug"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "квартал",
-   "ipa": "ə ˈсɪти блɑк",
-   "spell": "a city block"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дефект",
-   "ipa": "ə ˈдифэкт",
-   "spell": "a defect"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "продуктовый магазин",
-   "ipa": "ə ˈгроусəри стор",
-   "spell": "a grocery store"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "работа — это занятие",
-   "ipa": "ə джɑб ɪз ə θɪŋ ту ду",
-   "spell": "a job is a thing to do"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "полоса",
-   "ipa": "ə лэйн",
-   "spell": "a lane"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отреставрированный автомобиль",
-   "ipa": "ə рɪˈсторд кɑр",
-   "spell": "a restored car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "резиновая лодка",
-   "ipa": "ə ˈрʌбəр боут",
-   "spell": "a rubber boat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нехватка квалифицированных рабочих",
-   "ipa": "ə ˈшортəдж ʌв скɪлд ˈwɜркəрз",
-   "spell": "a shortage of skilled workers"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "маленькая работа не требует много труда",
-   "ipa": "ə смɔл джɑб ˈдʌзəнт тэйк мʌч wɜрк",
-   "spell": "a small job doesn't take much work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "задача, задание",
-   "ipa": "ə тæск",
-   "spell": "a task"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "занятие",
-   "ipa": "ə θɪŋ ту ду",
-   "spell": "a thing to do"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты рыбак?",
-   "ipa": "ɑр ю ə ˈфɪшəрˌмæн?",
-   "spell": "are you a fisherman?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "по сравнению с Торонто",
-   "ipa": "кəмˈпэрд ту тəˈрɑнтоу",
-   "spell": "compared to Toronto"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в зависимости от вашего опыта",
-   "ipa": "дɪˈпэндɪŋ ɑн йʊəр ɪкˈспɪриəнс",
-   "spell": "depending on your experience"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вы привезли всё с собой?",
-   "ipa": "дɪд ю брɪŋ ˈэвриˌθɪŋ wɪð ю?",
-   "spell": "did you bring everything with you?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "люди рыбачат?",
-   "ipa": "ду ˈпипəл фɪш?",
-   "spell": "do people fish?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вы с женой живёте одни?",
-   "ipa": "ду ю æнд йʊəр wайф лɪв əˈлоун?",
-   "spell": "do you and your wife live alone?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе пока нравится?",
-   "ipa": "ду ю лайк ɪт соу фɑр?",
-   "spell": "do you like it so far?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пыльный",
-   "ipa": "ˈдʌсти",
-   "spell": "dusty"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заработки низкие",
-   "ipa": "ˈɜрнɪŋз ɑр лоу",
-   "spell": "earnings are low"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "своеобразные люди",
-   "ipa": "ɪкˈсэнтрɪк ˈпипəл, ˈɑдˌбɔлз",
-   "spell": "eccentric people, oddballs"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у каждого своё мнение",
-   "ipa": "ˈэвриˌwʌн hæз ðэр оун айˈдиə",
-   "spell": "everyone has their own idea"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "всё такое же, одинаковое",
-   "ipa": "ˈэвриˌθɪŋ ɪз ðə сэйм",
-   "spell": "everything is the same"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "немногие",
-   "ipa": "фъю",
-   "spell": "few"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поля",
-   "ipa": "филдз",
-   "spell": "fields"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поля пшеницы",
-   "ipa": "филдз ʌв wит",
-   "spell": "fields of wheat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "большая конкуренция",
-   "ipa": "грэйт ˌкɑмпəˈтɪшəн",
-   "spell": "great competition"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "продукты",
-   "ipa": "ˈгроусəриз",
-   "spell": "groceries"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он не женат",
-   "ipa": "hи ɪз нɑт ˈмэрид",
-   "spell": "he is not married"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он ненадёжный",
-   "ipa": "hи ɪз нɑт рɪˈлайəбəл",
-   "spell": "he is not reliable"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он всё портит",
-   "ipa": "hи ˈмэсɪз ʌп",
-   "spell": "he messes up"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "более высокие цены",
-   "ipa": "ˈhайəр ˈпрайсəз",
-   "spell": "higher prices"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бездомные",
-   "ipa": "ˈhоумлəс ˈпипəл",
-   "spell": "homeless people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "насколько по-другому?",
-   "ipa": "hау ˈдɪфəрəнт?",
-   "spell": "how different?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как давно ты в Калгари?",
-   "ipa": "hау лɔŋ hæв ю бɪн ɪн ˈкæлгəри?",
-   "spell": "how long have you been in Calgary?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ищу место (работы)",
-   "ipa": "ай æм ˈлʊкɪŋ фор ə джɑб",
-   "spell": "I am looking for a job"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ищу работу",
-   "ipa": "ай æм ˈлʊкɪŋ фор wɜрк",
-   "spell": "I am looking for work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не могу жаловаться",
-   "ipa": "ай кæнт кəмˈплэйн",
-   "spell": "I can't complain"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ходил",
-   "ipa": "ай дɪд гоу = ай wэнт",
-   "spell": "I did go = I went"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня была работа",
-   "ipa": "ай дɪд hæв ə джɑб",
-   "spell": "I did have a job"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не работал вчера",
-   "ipa": "ай дɪд нɑт wɜрк ˈйэстəрˌдэй",
-   "spell": "I did not work yesterday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я взял",
-   "ipa": "ай дɪд тэйк = ай тʊк",
-   "spell": "I did take = I took"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я работал вчера",
-   "ipa": "ай дɪд wɜрк ˈйэстəрˌдэй",
-   "spell": "I did work yesterday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня была работа",
-   "ipa": "ай hæд ə джɑб",
-   "spell": "I had a job"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня есть работа",
-   "ipa": "ай hæв ə джɑб",
-   "spell": "I have a job"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я никогда этого не делал",
-   "ipa": "ай hæв ˈнэвəр дʌн ɪт",
-   "spell": "I have never done it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хорошо зарабатываю",
-   "ipa": "ай мэйк гʊд ˈмʌни",
-   "spell": "I make good money"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я давно хотел поехать",
-   "ipa": "ай ˈwɔнтɪд ту гоу фор ə лɔŋ тайм",
-   "spell": "I wanted to go for a long time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я был шокирован",
-   "ipa": "ай wʌз шɑкт",
-   "spell": "I was shocked"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "если приплюсовать все заработки",
-   "ipa": "ɪф ю æд ʌп ɔл ˈɜрнɪŋз",
-   "spell": "if you add up all earnings"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "если ты не знаешь",
-   "ipa": "ɪф ю доунт ноу",
-   "spell": "if you don't know"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "природа ближе в Калгари, чем в Торонто?",
-   "ipa": "ɪз ˈнэйчəр ˈклоусəр ɪн ˈкæлгəри ðæн ɪн тəˈрɑнтоу?",
-   "spell": "is nature closer in Calgary than in Toronto?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "природа лучше?",
-   "ipa": "ɪз ðə ˈнэйчəр ˈбэтəр?",
-   "spell": "is the nature better?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "летом становится большим",
-   "ipa": "ɪт бɪˈкʌм бɪг ɪн ˈсʌмəр",
-   "spell": "it become big in summer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зависит",
-   "ipa": "ɪт дɪˈпэндз",
-   "spell": "it depends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зависит от того, где ты живёшь",
-   "ipa": "ɪт дɪˈпэндз ɑн wэр ю лɪв",
-   "spell": "it depends on where you live"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это большая работа, это много труда",
-   "ipa": "ɪт ɪз ə бɪг джɑб, ɪтс ə лɑт ʌв wɜрк",
-   "spell": "it is a big job, it's a lot of work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сейчас слишком рано",
-   "ipa": "ɪт ɪз ту ˈɜрли нау",
-   "spell": "it is too early now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это страшно",
-   "ipa": "ɪтс ˈскэри",
-   "spell": "it's scary"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "работа, задача",
-   "ipa": "джɑб",
-   "spell": "job"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "меньше миллиона",
-   "ipa": "лэс ðæн ə ˈмɪлйəн",
-   "spell": "less than a million"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "немного",
-   "ipa": "ˈлɪтəл",
-   "spell": "little"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мало денег",
-   "ipa": "ˈлɪтəл ˈмʌни",
-   "spell": "little money"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мало воды",
-   "ipa": "ˈлɪтəл ˈwɔтəр",
-   "spell": "little water"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мало работы",
-   "ipa": "ˈлɪтəл wɜрк",
-   "spell": "little work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "более низкие цены",
-   "ipa": "ˈлоуəр ˈпрайсəз",
-   "spell": "lower prices"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "многие",
-   "ipa": "ˈмэни",
-   "spell": "many"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "намного больше, чем в Торонто",
-   "ipa": "ˈмэни мор ðæн ɪн тəˈрɑнтоу",
-   "spell": "many more than in Toronto"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "больше или меньше, чем в Торонто?",
-   "ipa": "мор ор ˈфъюəр ðæн ɪн тəˈрɑнтоу?",
-   "spell": "more or fewer than in Toronto?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "горы",
-   "ipa": "ˈмаунтəнз",
-   "spell": "mountains"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много",
-   "ipa": "мʌч",
-   "spell": "much"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много денег",
-   "ipa": "мʌч ˈмʌни",
-   "spell": "much money"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много воды",
-   "ipa": "мʌч ˈwɔтəр",
-   "spell": "much water"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много работы",
-   "ipa": "мʌч wɜрк",
-   "spell": "much work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мой сын живёт с нами",
-   "ipa": "май сʌн лɪвз wɪð ʌс",
-   "spell": "my son lives with us"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "люди приятнее",
-   "ipa": "ˈнайсəр ˈпипəл",
-   "spell": "nicer people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "никто не приходит смотреть твою работу",
-   "ipa": "ˈноуˌбɑˌди кʌмз ту лʊк æт йʊəр wɜрк",
-   "spell": "nobody comes to look at your work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в Торонто никто не проверяет",
-   "ipa": "ˈноуˌбɑˌди ɪнˈспэктс ɪн тəˈрɑнтоу",
-   "spell": "nobody inspects in Toronto"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не карточка, а бумажная \"портянка\"",
-   "ipa": "нɑт ə ˈпрɑпəр кɑрд, джʌст ə ˈпэйпəр скрæп",
-   "spell": "not a proper card, just a paper scrap"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ещё нет",
-   "ipa": "нɑт йэт",
-   "spell": "not yet"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в среднем",
-   "ipa": "ɑн ˈæвəрɪдж",
-   "spell": "on average"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "одна работа на человека",
-   "ipa": "wʌн джɑб пɜр гай",
-   "spell": "one job per guy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "одна работа на двоих",
-   "ipa": "wʌн джɑб пɜр ту гайз",
-   "spell": "one job per two guys"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "странные, своеобразные люди",
-   "ipa": "пəˈкъюлйəр ˈпипəл",
-   "spell": "peculiar people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "люди здесь более расположены",
-   "ipa": "ˈпипəл hир ɑр ˈфрэндлиəр",
-   "spell": "people here are friendlier"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знакомые люди",
-   "ipa": "ˈпипəл ю ноу",
-   "spell": "people you know"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "относительно много",
-   "ipa": "ˈрэлəтɪвли ˈмэни",
-   "spell": "relatively many"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отреставрированный автомобиль",
-   "ipa": "рɪˈсторд кɑр",
-   "spell": "restored car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "богаче или беднее",
-   "ipa": "ˈрɪчəр ор ˈпʊрəр",
-   "spell": "richer or poorer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "реки",
-   "ipa": "ˈрɪвəрз",
-   "spell": "rivers"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зарплата низкая",
-   "ipa": "ˈсæлəри ɪз лоу",
-   "spell": "salary is low"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "такой же, как у меня",
-   "ipa": "сэйм æз майн",
-   "spell": "same as mine"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скажи мне",
-   "ipa": "сэй ɪт ту ми",
-   "spell": "say it to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "серьёзные дефекты",
-   "ipa": "ˈсɪриəс ˈдифэктс",
-   "spell": "serious defects"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она замужем",
-   "ipa": "щи ɪз ˈмэрид",
-   "spell": "she is married"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "недостатки",
-   "ipa": "ˈшортˌкʌмɪŋз",
-   "spell": "shortcomings"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сидя на диване",
-   "ipa": "ˈсɪтɪŋ ɑн ðə кауч",
-   "spell": "sitting on the couch"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мелкие детали",
-   "ipa": "смɔл дɪˈтэйлз",
-   "spell": "small details"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "социальные сети",
-   "ipa": "ˈсоушəл ˈмидиə",
-   "spell": "social media"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уличное освещение",
-   "ipa": "стрит ˈлайтɪŋ",
-   "spell": "street lighting"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сдать экзамен на права",
-   "ipa": "тэйк ə ˈдрайвɪŋ ˈлайсəнс тэст",
-   "spell": "take a driving licence test"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "клиенты недовольны",
-   "ipa": "ðə ˈклайəнтс ɑр нɑт ˈhæпи",
-   "spell": "the clients are not happy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "страна",
-   "ipa": "ðə ˈкʌнтри",
-   "spell": "the country"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знаменитый Стампид",
-   "ipa": "ðə ˈфэймəс стæмˈпид",
-   "spell": "the famous Stampede"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "озеро маленькое, как бассейн",
-   "ipa": "ðə лэйк ɪз смɔл лайк ə пул",
-   "spell": "the lake is small like a pool"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "самая большая сумма денег",
-   "ipa": "ðə ˈлɑрджəст сʌм ʌв ˈмʌни",
-   "spell": "the largest sum of money"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "минимальная зарплата",
-   "ipa": "ðə ˈмɪнəмəм wэйдж",
-   "spell": "the minimum wage"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "самые необходимые вещи",
-   "ipa": "ðə моуст ˈнэсəˌсэри θɪŋз",
-   "spell": "the most necessary things"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зарплата невелика",
-   "ipa": "ðə пэй ˈɪзəнт грэйт",
-   "spell": "the pay isn't great"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "работа, которую мы делаем",
-   "ipa": "ðə wɜрк wи ду",
-   "spell": "the work we do"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они не платят за исправление дефектов",
-   "ipa": "ðэй доунт пэй фор ˈфɪксɪŋ ˈдифэктс",
-   "spell": "they don't pay for fixing defects"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они ожидают совершенства",
-   "ipa": "ðэй ɪкˈспэкт пəрˈфэкшəн",
-   "spell": "they expect perfection"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сменить владельца",
-   "ipa": "ту чэйндж ˈоунəрˌщɪп",
-   "spell": "to change ownership"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "брать работников с улицы",
-   "ipa": "ту ˈhайəр ˈпипəл ɔф ðə стрит",
-   "spell": "to hire people off the street"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "испортить",
-   "ipa": "ту мэс ʌп",
-   "spell": "to mess up"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "увидеть разницу",
-   "ipa": "ту си ðə ˈдɪфəрəнс",
-   "spell": "to see the difference"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "брать знакомых людей",
-   "ipa": "ту тэйк ˈпипəл ю ноу",
-   "spell": "to take people you know"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "говорить лабуду",
-   "ipa": "ту тɔк ˈнɑнсэнс",
-   "spell": "to talk nonsense"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "попробовать",
-   "ipa": "ту трай",
-   "spell": "to try"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "попытаться жить",
-   "ipa": "ту трай ту лɪв",
-   "spell": "to try to live"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неадекватные люди",
-   "ipa": "əнˈризнəбəл ˈпипəл",
-   "spell": "unreasonable people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "очень далеко",
-   "ipa": "ˈвэри фɑр",
-   "spell": "very far"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нам нужно многое исправить после него",
-   "ipa": "wи нид ту фɪкс ə лɑт ˈæфтəр hɪм",
-   "spell": "we need to fix a lot after him"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чего нельзя найти в Калгари?",
-   "ipa": "wɑт кæнт ю файнд ɪн ˈкæлгəри",
-   "spell": "what can't you find in Calgary"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как это называется?",
-   "ipa": "wɑт ду ðэй кɔл ɪт?",
-   "spell": "what do they call it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пшеница",
-   "ipa": "wит",
-   "spell": "wheat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда ты заработал больше всего",
-   "ipa": "wэн ю мэйд ðə моуст ˈмʌни",
-   "spell": "when you made the most money"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "работа, деятельность",
-   "ipa": "wɜрк",
-   "spell": "work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "из нашего дома видно горы",
-   "ipa": "ю кæн си ðə ˈмаунтəнз фрʌм ˈауəр hаус",
-   "spell": "you can see the mountains from our house"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты берёшь с клиентов большие деньги",
-   "ipa": "ю чɑрдж ˈклайəнтс бɪг ˈмʌни",
-   "spell": "you charge clients big money"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты мало зарабатываешь",
-   "ipa": "ю доунт ɜрн мʌч",
-   "spell": "you don't earn much"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у тебя была одна работа!",
-   "ipa": "ю hæд wʌн джɑб!",
-   "spell": "you had one job!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты получаешь минималку",
-   "ipa": "ю мэйк ˈмɪнəмəм wэйдж",
-   "spell": "you make minimum wage"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты всё испортил!",
-   "ipa": "ю мэст ɪт ʌп!",
-   "spell": "you messed it up!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нужно пытаться жить везде",
-   "ipa": "ю нид ту трай ту лɪв ˈэвриˌwэр",
-   "spell": "you need to try to live everywhere"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ваши ребята",
-   "ipa": "йʊəр гайз",
-   "spell": "your guys"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ваша команда",
-   "ipa": "йʊəр тим",
-   "spell": "your team"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "медведь",
+      "ipa": "ə бэр",
+      "spell": "a bear"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "клоп постельный",
+      "ipa": "ə бэд бʌг",
+      "spell": "a bed bug"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "квартал",
+      "ipa": "ə ˈсɪти блɑк",
+      "spell": "a city block"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дефект",
+      "ipa": "ə ˈдифэкт",
+      "spell": "a defect"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "продуктовый магазин",
+      "ipa": "ə ˈгроусəри стор",
+      "spell": "a grocery store"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "работа — это занятие",
+      "ipa": "ə джɑб ɪз ə θɪŋ ту ду",
+      "spell": "a job is a thing to do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полоса",
+      "ipa": "ə лэйн",
+      "spell": "a lane"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отреставрированный автомобиль",
+      "ipa": "ə рɪˈсторд кɑр",
+      "spell": "a restored car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "резиновая лодка",
+      "ipa": "ə ˈрʌбəр боут",
+      "spell": "a rubber boat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нехватка квалифицированных рабочих",
+      "ipa": "ə ˈшортəдж ʌв скɪлд ˈwɜркəрз",
+      "spell": "a shortage of skilled workers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маленькая работа не требует много труда",
+      "ipa": "ə смɔл джɑб ˈдʌзəнт тэйк мʌч wɜрк",
+      "spell": "a small job doesn't take much work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "задача, задание",
+      "ipa": "ə тæск",
+      "spell": "a task"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "занятие",
+      "ipa": "ə θɪŋ ту ду",
+      "spell": "a thing to do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты рыбак?",
+      "ipa": "ɑр ю ə ˈфɪшəрˌмæн?",
+      "spell": "are you a fisherman?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по сравнению с Торонто",
+      "ipa": "кəмˈпэрд ту тəˈрɑнтоу",
+      "spell": "compared to Toronto"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в зависимости от вашего опыта",
+      "ipa": "дɪˈпэндɪŋ ɑн йʊəр ɪкˈспɪриəнс",
+      "spell": "depending on your experience"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вы привезли всё с собой?",
+      "ipa": "дɪд ю брɪŋ ˈэвриˌθɪŋ wɪð ю?",
+      "spell": "did you bring everything with you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "люди рыбачат?",
+      "ipa": "ду ˈпипəл фɪш?",
+      "spell": "do people fish?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вы с женой живёте одни?",
+      "ipa": "ду ю æнд йʊəр wайф лɪв əˈлоун?",
+      "spell": "do you and your wife live alone?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тебе пока нравится?",
+      "ipa": "ду ю лайк ɪт соу фɑр?",
+      "spell": "do you like it so far?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пыльный",
+      "ipa": "ˈдʌсти",
+      "spell": "dusty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заработки низкие",
+      "ipa": "ˈɜрнɪŋз ɑр лоу",
+      "spell": "earnings are low"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "своеобразные люди",
+      "ipa": "ɪкˈсэнтрɪк ˈпипəл, ˈɑдˌбɔлз",
+      "spell": "eccentric people, oddballs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у каждого своё мнение",
+      "ipa": "ˈэвриˌwʌн hæз ðэр оун айˈдиə",
+      "spell": "everyone has their own idea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё такое же, одинаковое",
+      "ipa": "ˈэвриˌθɪŋ ɪз ðə сэйм",
+      "spell": "everything is the same"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "немногие",
+      "ipa": "фъю",
+      "spell": "few"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поля",
+      "ipa": "филдз",
+      "spell": "fields"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поля пшеницы",
+      "ipa": "филдз ʌв wит",
+      "spell": "fields of wheat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "большая конкуренция",
+      "ipa": "грэйт ˌкɑмпəˈтɪшəн",
+      "spell": "great competition"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "продукты",
+      "ipa": "ˈгроусəриз",
+      "spell": "groceries"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он не женат",
+      "ipa": "hи ɪз нɑт ˈмэрид",
+      "spell": "he is not married"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он ненадёжный",
+      "ipa": "hи ɪз нɑт рɪˈлайəбəл",
+      "spell": "he is not reliable"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он всё портит",
+      "ipa": "hи ˈмэсɪз ʌп",
+      "spell": "he messes up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "более высокие цены",
+      "ipa": "ˈhайəр ˈпрайсəз",
+      "spell": "higher prices"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бездомные",
+      "ipa": "ˈhоумлəс ˈпипəл",
+      "spell": "homeless people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "насколько по-другому?",
+      "ipa": "hау ˈдɪфəрəнт?",
+      "spell": "how different?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как давно ты в Калгари?",
+      "ipa": "hау лɔŋ hæв ю бɪн ɪн ˈкæлгəри?",
+      "spell": "how long have you been in Calgary?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ищу место (работы)",
+      "ipa": "ай æм ˈлʊкɪŋ фор ə джɑб",
+      "spell": "I am looking for a job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ищу работу",
+      "ipa": "ай æм ˈлʊкɪŋ фор wɜрк",
+      "spell": "I am looking for work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могу жаловаться",
+      "ipa": "ай кæнт кəмˈплэйн",
+      "spell": "I can't complain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ходил",
+      "ipa": "ай дɪд гоу = ай wэнт",
+      "spell": "I did go = I went"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня была работа",
+      "ipa": "ай дɪд hæв ə джɑб",
+      "spell": "I did have a job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не работал вчера",
+      "ipa": "ай дɪд нɑт wɜрк ˈйэстəрˌдэй",
+      "spell": "I did not work yesterday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я взял",
+      "ipa": "ай дɪд тэйк = ай тʊк",
+      "spell": "I did take = I took"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я работал вчера",
+      "ipa": "ай дɪд wɜрк ˈйэстəрˌдэй",
+      "spell": "I did work yesterday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня была работа",
+      "ipa": "ай hæд ə джɑб",
+      "spell": "I had a job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня есть работа",
+      "ipa": "ай hæв ə джɑб",
+      "spell": "I have a job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я никогда этого не делал",
+      "ipa": "ай hæв ˈнэвəр дʌн ɪт",
+      "spell": "I have never done it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хорошо зарабатываю",
+      "ipa": "ай мэйк гʊд ˈмʌни",
+      "spell": "I make good money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я давно хотел поехать",
+      "ipa": "ай ˈwɔнтɪд ту гоу фор ə лɔŋ тайм",
+      "spell": "I wanted to go for a long time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был шокирован",
+      "ipa": "ай wʌз шɑкт",
+      "spell": "I was shocked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если приплюсовать все заработки",
+      "ipa": "ɪф ю æд ʌп ɔл ˈɜрнɪŋз",
+      "spell": "if you add up all earnings"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если ты не знаешь",
+      "ipa": "ɪф ю доунт ноу",
+      "spell": "if you don't know"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "природа ближе в Калгари, чем в Торонто?",
+      "ipa": "ɪз ˈнэйчəр ˈклоусəр ɪн ˈкæлгəри ðæн ɪн тəˈрɑнтоу?",
+      "spell": "is nature closer in Calgary than in Toronto?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "природа лучше?",
+      "ipa": "ɪз ðə ˈнэйчəр ˈбэтəр?",
+      "spell": "is the nature better?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "летом становится большим",
+      "ipa": "ɪт бɪˈкʌм бɪг ɪн ˈсʌмəр",
+      "spell": "it become big in summer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зависит",
+      "ipa": "ɪт дɪˈпэндз",
+      "spell": "it depends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зависит от того, где ты живёшь",
+      "ipa": "ɪт дɪˈпэндз ɑн wэр ю лɪв",
+      "spell": "it depends on where you live"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это большая работа, это много труда",
+      "ipa": "ɪт ɪз ə бɪг джɑб, ɪтс ə лɑт ʌв wɜрк",
+      "spell": "it is a big job, it's a lot of work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сейчас слишком рано",
+      "ipa": "ɪт ɪз ту ˈɜрли нау",
+      "spell": "it is too early now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это страшно",
+      "ipa": "ɪтс ˈскэри",
+      "spell": "it's scary"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "работа, задача",
+      "ipa": "джɑб",
+      "spell": "job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меньше миллиона",
+      "ipa": "лэс ðæн ə ˈмɪлйəн",
+      "spell": "less than a million"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "немного",
+      "ipa": "ˈлɪтəл",
+      "spell": "little"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мало денег",
+      "ipa": "ˈлɪтəл ˈмʌни",
+      "spell": "little money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мало воды",
+      "ipa": "ˈлɪтəл ˈwɔтəр",
+      "spell": "little water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мало работы",
+      "ipa": "ˈлɪтəл wɜрк",
+      "spell": "little work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "более низкие цены",
+      "ipa": "ˈлоуəр ˈпрайсəз",
+      "spell": "lower prices"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "многие",
+      "ipa": "ˈмэни",
+      "spell": "many"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "намного больше, чем в Торонто",
+      "ipa": "ˈмэни мор ðæн ɪн тəˈрɑнтоу",
+      "spell": "many more than in Toronto"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "больше или меньше, чем в Торонто?",
+      "ipa": "мор ор ˈфъюəр ðæн ɪн тəˈрɑнтоу?",
+      "spell": "more or fewer than in Toronto?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "горы",
+      "ipa": "ˈмаунтəнз",
+      "spell": "mountains"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много",
+      "ipa": "мʌч",
+      "spell": "much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много денег",
+      "ipa": "мʌч ˈмʌни",
+      "spell": "much money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много воды",
+      "ipa": "мʌч ˈwɔтəр",
+      "spell": "much water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много работы",
+      "ipa": "мʌч wɜрк",
+      "spell": "much work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой сын живёт с нами",
+      "ipa": "май сʌн лɪвз wɪð ʌс",
+      "spell": "my son lives with us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "люди приятнее",
+      "ipa": "ˈнайсəр ˈпипəл",
+      "spell": "nicer people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "никто не приходит смотреть твою работу",
+      "ipa": "ˈноуˌбɑˌди кʌмз ту лʊк æт йʊəр wɜрк",
+      "spell": "nobody comes to look at your work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в Торонто никто не проверяет",
+      "ipa": "ˈноуˌбɑˌди ɪнˈспэктс ɪн тəˈрɑнтоу",
+      "spell": "nobody inspects in Toronto"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не карточка, а бумажная \"портянка\"",
+      "ipa": "нɑт ə ˈпрɑпəр кɑрд, джʌст ə ˈпэйпəр скрæп",
+      "spell": "not a proper card, just a paper scrap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ещё нет",
+      "ipa": "нɑт йэт",
+      "spell": "not yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в среднем",
+      "ipa": "ɑн ˈæвəрɪдж",
+      "spell": "on average"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одна работа на человека",
+      "ipa": "wʌн джɑб пɜр гай",
+      "spell": "one job per guy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одна работа на двоих",
+      "ipa": "wʌн джɑб пɜр ту гайз",
+      "spell": "one job per two guys"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "странные, своеобразные люди",
+      "ipa": "пəˈкъюлйəр ˈпипəл",
+      "spell": "peculiar people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "люди здесь более расположены",
+      "ipa": "ˈпипəл hир ɑр ˈфрэндлиəр",
+      "spell": "people here are friendlier"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знакомые люди",
+      "ipa": "ˈпипəл ю ноу",
+      "spell": "people you know"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "относительно много",
+      "ipa": "ˈрэлəтɪвли ˈмэни",
+      "spell": "relatively many"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отреставрированный автомобиль",
+      "ipa": "рɪˈсторд кɑр",
+      "spell": "restored car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "богаче или беднее",
+      "ipa": "ˈрɪчəр ор ˈпʊрəр",
+      "spell": "richer or poorer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "реки",
+      "ipa": "ˈрɪвəрз",
+      "spell": "rivers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зарплата низкая",
+      "ipa": "ˈсæлəри ɪз лоу",
+      "spell": "salary is low"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "такой же, как у меня",
+      "ipa": "сэйм æз майн",
+      "spell": "same as mine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скажи мне",
+      "ipa": "сэй ɪт ту ми",
+      "spell": "say it to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "серьёзные дефекты",
+      "ipa": "ˈсɪриəс ˈдифэктс",
+      "spell": "serious defects"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она замужем",
+      "ipa": "щи ɪз ˈмэрид",
+      "spell": "she is married"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "недостатки",
+      "ipa": "ˈшортˌкʌмɪŋз",
+      "spell": "shortcomings"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сидя на диване",
+      "ipa": "ˈсɪтɪŋ ɑн ðə кауч",
+      "spell": "sitting on the couch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мелкие детали",
+      "ipa": "смɔл дɪˈтэйлз",
+      "spell": "small details"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "социальные сети",
+      "ipa": "ˈсоушəл ˈмидиə",
+      "spell": "social media"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уличное освещение",
+      "ipa": "стрит ˈлайтɪŋ",
+      "spell": "street lighting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сдать экзамен на права",
+      "ipa": "тэйк ə ˈдрайвɪŋ ˈлайсəнс тэст",
+      "spell": "take a driving licence test"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "клиенты недовольны",
+      "ipa": "ðə ˈклайəнтс ɑр нɑт ˈhæпи",
+      "spell": "the clients are not happy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "страна",
+      "ipa": "ðə ˈкʌнтри",
+      "spell": "the country"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знаменитый Стампид",
+      "ipa": "ðə ˈфэймəс стæмˈпид",
+      "spell": "the famous Stampede"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "озеро маленькое, как бассейн",
+      "ipa": "ðə лэйк ɪз смɔл лайк ə пул",
+      "spell": "the lake is small like a pool"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "самая большая сумма денег",
+      "ipa": "ðə ˈлɑрджəст сʌм ʌв ˈмʌни",
+      "spell": "the largest sum of money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "минимальная зарплата",
+      "ipa": "ðə ˈмɪнəмəм wэйдж",
+      "spell": "the minimum wage"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "самые необходимые вещи",
+      "ipa": "ðə моуст ˈнэсəˌсэри θɪŋз",
+      "spell": "the most necessary things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зарплата невелика",
+      "ipa": "ðə пэй ˈɪзəнт грэйт",
+      "spell": "the pay isn't great"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "работа, которую мы делаем",
+      "ipa": "ðə wɜрк wи ду",
+      "spell": "the work we do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они не платят за исправление дефектов",
+      "ipa": "ðэй доунт пэй фор ˈфɪксɪŋ ˈдифэктс",
+      "spell": "they don't pay for fixing defects"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они ожидают совершенства",
+      "ipa": "ðэй ɪкˈспэкт пəрˈфэкшəн",
+      "spell": "they expect perfection"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сменить владельца",
+      "ipa": "ту чэйндж ˈоунəрˌщɪп",
+      "spell": "to change ownership"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "брать работников с улицы",
+      "ipa": "ту ˈhайəр ˈпипəл ɔф ðə стрит",
+      "spell": "to hire people off the street"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "испортить",
+      "ipa": "ту мэс ʌп",
+      "spell": "to mess up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увидеть разницу",
+      "ipa": "ту си ðə ˈдɪфəрəнс",
+      "spell": "to see the difference"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "брать знакомых людей",
+      "ipa": "ту тэйк ˈпипəл ю ноу",
+      "spell": "to take people you know"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "говорить лабуду",
+      "ipa": "ту тɔк ˈнɑнсэнс",
+      "spell": "to talk nonsense"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "попробовать",
+      "ipa": "ту трай",
+      "spell": "to try"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "попытаться жить",
+      "ipa": "ту трай ту лɪв",
+      "spell": "to try to live"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неадекватные люди",
+      "ipa": "əнˈризнəбəл ˈпипəл",
+      "spell": "unreasonable people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "очень далеко",
+      "ipa": "ˈвэри фɑр",
+      "spell": "very far"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нам нужно многое исправить после него",
+      "ipa": "wи нид ту фɪкс ə лɑт ˈæфтəр hɪм",
+      "spell": "we need to fix a lot after him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чего нельзя найти в Калгари?",
+      "ipa": "wɑт кæнт ю файнд ɪн ˈкæлгəри",
+      "spell": "what can't you find in Calgary"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как это называется?",
+      "ipa": "wɑт ду ðэй кɔл ɪт?",
+      "spell": "what do they call it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пшеница",
+      "ipa": "wит",
+      "spell": "wheat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда ты заработал больше всего",
+      "ipa": "wэн ю мэйд ðə моуст ˈмʌни",
+      "spell": "when you made the most money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "работа, деятельность",
+      "ipa": "wɜрк",
+      "spell": "work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "из нашего дома видно горы",
+      "ipa": "ю кəн си ðə ˈмаунтəнз фрʌм ˈауəр hаус",
+      "spell": "you can see the mountains from our house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты берёшь с клиентов большие деньги",
+      "ipa": "ю чɑрдж ˈклайəнтс бɪг ˈмʌни",
+      "spell": "you charge clients big money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты мало зарабатываешь",
+      "ipa": "ю доунт ɜрн мʌч",
+      "spell": "you don't earn much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя была одна работа!",
+      "ipa": "ю hæд wʌн джɑб!",
+      "spell": "you had one job!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты получаешь минималку",
+      "ipa": "ю мэйк ˈмɪнəмəм wэйдж",
+      "spell": "you make minimum wage"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты всё испортил!",
+      "ipa": "ю мэст ɪт ʌп!",
+      "spell": "you messed it up!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нужно пытаться жить везде",
+      "ipa": "ю нид ту трай ту лɪв ˈэвриˌwэр",
+      "spell": "you need to try to live everywhere"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваши ребята",
+      "ipa": "йʊəр гайз",
+      "spell": "your guys"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваша команда",
+      "ipa": "йʊəр тим",
+      "spell": "your team"
+    }
+  ]
 }

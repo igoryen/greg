@@ -3,244 +3,244 @@
   "slug": "st",
   "number": 7,
   "date": "2025-07-27",
-  "words":  [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "слабонервный человек",
-   "ipa": "ə ˈфэйнтˈhɑртɪд ˈпɜрсəн",
-   "spell": "a faint-hearted person"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пастбище",
-   "ipa": "ə ˈпæсчəр",
-   "spell": "a pasture"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "осанка",
-   "ipa": "ə ˈпɑсчəр",
-   "spell": "a posture"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в составе команды",
-   "ipa": "æз пɑрт ʌв ə тим",
-   "spell": "as part of a team"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "можете сказать, встречались ли они с ней?",
-   "ipa": "кæн ю тэл ми ɪф ðэй мэт hɜр?",
-   "spell": "can you tell me if they met her?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "можете сказать, пробовали ли вы йогу?",
-   "ipa": "кæн ю тэл ми ɪф ю hæв ˈэвəр трайд ˈйоугə?",
-   "spell": "can you tell me if you have ever tried yoga?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "можете сказать, когда вечеринка Джейн?",
-   "ipa": "кæн ю тэл ми wэн джэйнз ˈпɑрти ɪз?",
-   "spell": "can you tell me when Jane's party is?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "соревнование",
-   "ipa": "ˌкɑмпəˈтɪшəн",
-   "spell": "competition"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "можете сказать, какая погода?",
-   "ipa": "кʊд ю тэл ми wɑт ðə ˈwэðəр ɪз?",
-   "spell": "could you tell me what the weather is?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они встретились с ней?",
-   "ipa": "дɪд ðэй мит hɜр?",
-   "spell": "did they meet her?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты не знаешь, где мои ключи?",
-   "ipa": "ду ю ноу wэр май киз ɑр?",
-   "spell": "do you know where my keys are?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты знаешь, почему он это сделал?",
-   "ipa": "ду ю ноу wай hи дɪд ðæт?",
-   "spell": "do you know why he did that?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе нравится эта рубашка?",
-   "ipa": "ду ю лайк ðɪс щɜрт?",
-   "spell": "do you like this shirt?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "оторвись от телевизора",
-   "ipa": "дрæг йəрˈсэлф əˈwэй фрʌм ðə ˈтиˈви",
-   "spell": "drag yourself away from the TV"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты когда-нибудь пробовал йогу?",
-   "ipa": "hæв ю ˈэвəр трайд ˈйоугə?",
-   "spell": "have you ever tried yoga?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не уверен, чего ты хочешь",
-   "ipa": "ай æм нɑт щʊр wɑт ю wɑнт",
-   "spell": "I am not sure what you want"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не могу вспомнить",
-   "ipa": "ай кæнт рɪˈмэмбəр",
-   "spell": "I can't remember"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не помню, куда они ездили в отпуск",
-   "ipa": "ай кæнт рɪˈмэмбəр wэр ðэй wэнт ɑн вэйˈкэйшəн",
-   "spell": "I can’t remember where they went on vacation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня нет сомнений в этом",
-   "ipa": "ай доунт hæв ə даут əˈбаут ɪт",
-   "spell": "I don't have a doubt about it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я с трудом выбрался из постели",
-   "ipa": "ай дрæгд ˌмайˈсэлф аут ʌв бэд",
-   "spell": "I dragged myself out of bed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я спал как убитый",
-   "ipa": "ай слэпт лайк ə лɔг",
-   "spell": "I slept like a log"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне интересно, нравится ли тебе эта рубашка",
-   "ipa": "ай ˈwɑндəр ɪф ю лайк ðɪс щɜрт",
-   "spell": "I wander if you like this shirt"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне интересно, понравилось ли ему",
-   "ipa": "ай ˈwʌндəр ɪф hи энˈджойд ɪт",
-   "spell": "I wonder if he enjoyed it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне интересно, куда они ходили в прошлую субботу",
-   "ipa": "ай ˈwʌндəр wэр ðэй wэнт лæст ˈсæтəрˌдэй",
-   "spell": "I wonder where they went last saturday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "моя повседневная жизнь",
-   "ipa": "май дэй-ту-дэй лайф",
-   "spell": "my day-to-day life"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не для слабонервных",
-   "ipa": "нɑт фор ðə ˈфэйнтˈhɑртɪд",
-   "spell": "not for the faint-hearted"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они были жесткими",
-   "ipa": "ðэй wɜр тʌф",
-   "spell": "they were tough"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "соревноваться",
-   "ipa": "ту кəмˈпит",
-   "spell": "to compete"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тащить",
-   "ipa": "ту дрæг",
-   "spell": "to drag"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "падать в обморок",
-   "ipa": "ту фэйнт",
-   "spell": "to faint"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что ты хочешь?",
-   "ipa": "wɑт ду ю wɑнт?",
-   "spell": "what do you want?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "где мои ключи?",
-   "ipa": "wэр ɑр май киз?",
-   "spell": "where are my keys?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "куда они ездили в отпуск?",
-   "ipa": "wэр дɪд ðэй гоу ɑн вэйˈкэйшəн?",
-   "spell": "where did they go on vacation?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "почему он это сделал?",
-   "ipa": "wай дɪд hи ду ðæт?",
-   "spell": "why did he do that?"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слабонервный человек",
+      "ipa": "ə ˈфэйнтˈhɑртɪд ˈпɜрсəн",
+      "spell": "a faint-hearted person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пастбище",
+      "ipa": "ə ˈпæсчəр",
+      "spell": "a pasture"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осанка",
+      "ipa": "ə ˈпɑсчəр",
+      "spell": "a posture"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в составе команды",
+      "ipa": "æз пɑрт ʌв ə тим",
+      "spell": "as part of a team"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можете сказать, встречались ли они с ней?",
+      "ipa": "кəн ю тэл ми ɪф ðэй мэт hɜр?",
+      "spell": "can you tell me if they met her?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можете сказать, пробовали ли вы йогу?",
+      "ipa": "кəн ю тэл ми ɪф ю hæв ˈэвəр трайд ˈйоугə?",
+      "spell": "can you tell me if you have ever tried yoga?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можете сказать, когда вечеринка Джейн?",
+      "ipa": "кəн ю тэл ми wэн джэйнз ˈпɑрти ɪз?",
+      "spell": "can you tell me when Jane's party is?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "соревнование",
+      "ipa": "ˌкɑмпəˈтɪшəн",
+      "spell": "competition"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можете сказать, какая погода?",
+      "ipa": "кʊд ю тэл ми wɑт ðə ˈwэðəр ɪз?",
+      "spell": "could you tell me what the weather is?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они встретились с ней?",
+      "ipa": "дɪд ðэй мит hɜр?",
+      "spell": "did they meet her?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты не знаешь, где мои ключи?",
+      "ipa": "ду ю ноу wэр май киз ɑр?",
+      "spell": "do you know where my keys are?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты знаешь, почему он это сделал?",
+      "ipa": "ду ю ноу wай hи дɪд ðæт?",
+      "spell": "do you know why he did that?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тебе нравится эта рубашка?",
+      "ipa": "ду ю лайк ðɪс щɜрт?",
+      "spell": "do you like this shirt?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оторвись от телевизора",
+      "ipa": "дрæг йəрˈсэлф əˈwэй фрʌм ðə ˈтиˈви",
+      "spell": "drag yourself away from the TV"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты когда-нибудь пробовал йогу?",
+      "ipa": "hæв ю ˈэвəр трайд ˈйоугə?",
+      "spell": "have you ever tried yoga?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не уверен, чего ты хочешь",
+      "ipa": "ай æм нɑт щʊр wɑт ю wɑнт",
+      "spell": "I am not sure what you want"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не могу вспомнить",
+      "ipa": "ай кæнт рɪˈмэмбəр",
+      "spell": "I can't remember"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не помню, куда они ездили в отпуск",
+      "ipa": "ай кæнт рɪˈмэмбəр wэр ðэй wэнт ɑн вэйˈкэйшəн",
+      "spell": "I can’t remember where they went on vacation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня нет сомнений в этом",
+      "ipa": "ай доунт hæв ə даут əˈбаут ɪт",
+      "spell": "I don't have a doubt about it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я с трудом выбрался из постели",
+      "ipa": "ай дрæгд ˌмайˈсэлф аут ʌв бэд",
+      "spell": "I dragged myself out of bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я спал как убитый",
+      "ipa": "ай слэпт лайк ə лɔг",
+      "spell": "I slept like a log"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне интересно, нравится ли тебе эта рубашка",
+      "ipa": "ай ˈwɑндəр ɪф ю лайк ðɪс щɜрт",
+      "spell": "I wander if you like this shirt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне интересно, понравилось ли ему",
+      "ipa": "ай ˈwʌндəр ɪф hи энˈджойд ɪт",
+      "spell": "I wonder if he enjoyed it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне интересно, куда они ходили в прошлую субботу",
+      "ipa": "ай ˈwʌндəр wэр ðэй wэнт лæст ˈсæтəрˌдэй",
+      "spell": "I wonder where they went last saturday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя повседневная жизнь",
+      "ipa": "май дэй-ту-дэй лайф",
+      "spell": "my day-to-day life"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не для слабонервных",
+      "ipa": "нɑт фор ðə ˈфэйнтˈhɑртɪд",
+      "spell": "not for the faint-hearted"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они были жесткими",
+      "ipa": "ðэй wɜр тʌф",
+      "spell": "they were tough"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "соревноваться",
+      "ipa": "ту кəмˈпит",
+      "spell": "to compete"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тащить",
+      "ipa": "ту дрæг",
+      "spell": "to drag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "падать в обморок",
+      "ipa": "ту фэйнт",
+      "spell": "to faint"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что ты хочешь?",
+      "ipa": "wɑт ду ю wɑнт?",
+      "spell": "what do you want?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где мои ключи?",
+      "ipa": "wэр ɑр май киз?",
+      "spell": "where are my keys?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "куда они ездили в отпуск?",
+      "ipa": "wэр дɪд ðэй гоу ɑн вэйˈкэйшəн?",
+      "spell": "where did they go on vacation?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почему он это сделал?",
+      "ipa": "wай дɪд hи ду ðæт?",
+      "spell": "why did he do that?"
+    }
+  ]
 }
