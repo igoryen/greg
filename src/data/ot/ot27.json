@@ -1,0 +1,414 @@
+{
+  "student": "Olena T.",
+  "slug": "ot",
+  "number": 27,
+  "date": "2025-08-19",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чёрная сумка",
+      "ipa": "ə блæк бæг",
+      "spell": "a black bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хорошая книга",
+      "ipa": "ə гʊд бʊк",
+      "spell": "a good book"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "серый день, прямо как сегодня",
+      "ipa": "ə грэй дэй джʌст лайк тəˈдэй",
+      "spell": "a gray day just like today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "красивый мужчина",
+      "ipa": "ə ˈhæнсəм мæн",
+      "spell": "a handsome man"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "длинная песня",
+      "ipa": "ə лɔŋ сɔŋ",
+      "spell": "a long song"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "длинное слово",
+      "ipa": "ə лɔŋ wɜрд",
+      "spell": "a long word"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кошелёк",
+      "ipa": "ə пɜрс",
+      "spell": "a purse"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "короткий рассказ",
+      "ipa": "ə шорт ˈстори",
+      "spell": "a short story"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "старая фотография",
+      "ipa": "əн оулд ˈфоуˌтоу",
+      "spell": "an old photo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спокойный",
+      "ipa": "кɑм",
+      "spell": "calm"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "В Канаде система общественного здравоохранения",
+      "ipa": "ˈкæнəдə hæз ə ˈпʌблɪк ˈhэлθˌкэр ˈсɪстəм",
+      "spell": "Canada has a public healthcare system"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "восемь вещей, которые у тебя есть",
+      "ipa": "эйт θɪŋз ю hæв",
+      "spell": "eight things you have"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "даже если я не работаю",
+      "ipa": "ˈивɪн ɪф ай доунт wɜрк",
+      "spell": "even if I don't work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бесплатное медицинское обслуживание",
+      "ipa": "фри ˈмэдəкəл ˈтритмəнт",
+      "spell": "free medical treatment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него сильный ирландский акцент",
+      "ipa": "hи hæз ə стрɔŋ ˈайрɪш ˈæксэнт",
+      "spell": "he has a strong Irish accent"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он вырвал у неё ей зуб",
+      "ipa": "hи пʊлд аут hɜр туθ",
+      "spell": "he pulled out her tooth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какая обычно длина песни?",
+      "ipa": "hау лɔŋ ɪз ə сɔŋ ˈюжəwəли?",
+      "spell": "how long is a song usually?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне грустно",
+      "ipa": "ай æм ˈфилɪŋ блу",
+      "spell": "I am feeling blue"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне как-то грустно",
+      "ipa": "ай æм ˈфилɪŋ кайнд ʌв блу",
+      "spell": "I am feeling kind of blue"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я как бы голоден",
+      "ipa": "ай æм кайнд ʌв ˈhʌŋгри",
+      "spell": "I am kind of hungry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я как бы хочу спать",
+      "ipa": "ай æм кайнд ʌв ˈслипи",
+      "spell": "I am kind of sleepy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я как бы устал",
+      "ipa": "ай æм кайнд ʌв ˈтайəрд",
+      "spell": "I am kind of tired"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня есть большой велосипед, но я не пользуюсь им",
+      "ipa": "ай hæв ə бɪг ˈбайсɪкəл бʌт ай доунт юз ɪт",
+      "spell": "I have a big bicycle but I don't use it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня новый ноутбук",
+      "ipa": "ай hæв ə ну ˈлæпˌтɑп",
+      "spell": "I have a new laptop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня замечательный муж",
+      "ipa": "ай hæв ə ˈwʌндəрфəл ˈhʌзбəнд",
+      "spell": "I have a wonderful husband"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня есть разные типы обуви",
+      "ipa": "ай hæв ˈдɪфəрəнт тайпс ʌв щуз",
+      "spell": "I have different types of shoes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня есть свежие цветы",
+      "ipa": "ай hæв фрэш ˈфлауəрз",
+      "spell": "I have fresh flowers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня много разной обуви",
+      "ipa": "ай hæв лɑтс ʌв ˈдɪфəрəнт щуз",
+      "spell": "I have lots of different shoes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я уже заплатил за это",
+      "ipa": "ай hæв пэйд фор ɪт ɔлˈрэди",
+      "spell": "I have paid for it already"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в - это предлог",
+      "ipa": "ɪн ɪз ə ˌпрeпəˈзɪшəн",
+      "spell": "in is a preposition"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя старая машина?",
+      "ipa": "ɪз йʊəр кɑр оулд?",
+      "spell": "is your car old?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это покрывает восемь имплантов",
+      "ipa": "ɪт ˈкʌвəрз эйт ɪмˈплæнтс",
+      "spell": "it covers eight implants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я жду, когда придут автозапчасти",
+      "ipa": "айм ˈwэйтɪŋ фор сʌм кɑр пɑртс ту əˈрайв",
+      "spell": "I’m waiting for some car parts to arrive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прямо как моя машина",
+      "ipa": "джʌст лайк май кɑр",
+      "spell": "just like my car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя машина в лизинге",
+      "ipa": "май кɑр ɪз лист",
+      "spell": "my car is leased"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "новые ботинки",
+      "ipa": "ну бутс",
+      "spell": "new boots"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тоже!",
+      "ipa": "сэйм hир!",
+      "spell": "same here!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у неё большой словарный запас",
+      "ipa": "щи hæз ə лɑрдж воуˈкæбйəˌлэри",
+      "spell": "she has a large vocabulary"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "небольшие различия",
+      "ipa": "смɔл ˈдɪфəрəнсɪз",
+      "spell": "small differences"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "правильное произношение",
+      "ipa": "ðə кəˈрэкт прəˌнʌнсиˈэйшəн",
+      "spell": "the correct pronunciation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "правильное написание",
+      "ipa": "ðə кəˈрэкт ˈспэлɪŋ",
+      "spell": "the correct spelling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "значение слова",
+      "ipa": "ðə ˈминɪŋ ʌв ðə wɜрд",
+      "spell": "the meaning of the word"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "то же самое, но другое",
+      "ipa": "ðə сэйм бʌт ˈдɪфəрəнт",
+      "spell": "the same but different"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это дешёвые джинсы",
+      "ipa": "ðэй ɑр чип джинз",
+      "spell": "they are cheap jeans"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они ещё не починили это",
+      "ipa": "ðэй hæв нɑт фɪкст ɪт йэт",
+      "spell": "they have not fixed it yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быть спокойным",
+      "ipa": "ту би кɑм",
+      "spell": "to be calm"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быть добрым",
+      "ipa": "ту би кайнд",
+      "spell": "to be kind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "произносить",
+      "ipa": "ту прəˈнаунс",
+      "spell": "to pronounce"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сохранять спокойствие",
+      "ipa": "ту стэй кɑм",
+      "spell": "to stay calm"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ждать чего-то",
+      "ipa": "ту wэйт фор ˈсʌмθɪŋ",
+      "spell": "to wait for something"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наоборот",
+      "ipa": "вайс ˈвɜрсə",
+      "spell": "vice versa"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы можем либо вернуть это, либо купить",
+      "ipa": "wи кæн ˈиðəр рɪˈтɜрн ɪт ор бай ɪт",
+      "spell": "we can either return it or buy it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы сделали это правильно",
+      "ipa": "wи дɪд ɪт кəˈрэктли",
+      "spell": "we did it correctly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у нас большая серая машина",
+      "ipa": "wи hæв ə бɪг грэй кɑр",
+      "spell": "we have a big gray car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы взяли её в лизинг у дилера",
+      "ipa": "wи лис ɪт фрʌм ə ˈдилəрˌщɪп",
+      "spell": "we lease it from a dealership"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы заказали запчасти",
+      "ipa": "wи ˈордəрд сʌм пɑртс",
+      "spell": "we ordered some parts"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы хотим импланты",
+      "ipa": "wи wɑнт ɪмˈплæнтс",
+      "spell": "we want implants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты всё ещё можешь этим пользоваться",
+      "ipa": "ю кæн стɪл юз ɪт",
+      "spell": "you can still use it"
+    }
+  ]
+}
