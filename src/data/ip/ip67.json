@@ -1,0 +1,211 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "number": 67,
+  "date": "2025-08-20",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коротка сорочка",
+   "ipa": "ə шорт шɜрт",
+   "spell": "a short shirt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "багаж",
+   "ipa": "ˈбæґəдж",
+   "spell": "baggage"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ви можете сфотографувати, будь ласка?",
+   "ipa": "кæн ю тейк ə ˈпикчəр, пліз?",
+   "spell": "can you take a picture, please?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не можу",
+   "ipa": "ˈкæнɑт, кæнт",
+   "spell": "cannot, can't"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у вас є ця футболка у великому розмірі?",
+   "ipa": "ду ю hæv ðис ті-шɜрт ин лɑрдж?",
+   "spell": "do you have this T-shirt in large?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мені не дозволено",
+   "ipa": "ай æм нɑт əˈлауд",
+   "spell": "I am not allowed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не можу!",
+   "ipa": "ай ˈкæнɑт!",
+   "spell": "I cannot!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у магазині",
+   "ipa": "ин ə стор",
+   "spell": "in a store"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "великий",
+   "ipa": "лɑрдж",
+   "spell": "large"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "місцеві жителі",
+   "ipa": "ˈлоукəлз",
+   "spell": "locals"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не дозволено",
+   "ipa": "нɑт əˈлауд",
+   "spell": "not allowed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у поїзді",
+   "ipa": "ɑн ə трейн",
+   "spell": "on a train"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на вулиці",
+   "ipa": "ɑн ðə стріт",
+   "spell": "on the street"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "онлайн",
+   "ipa": "ˈɔнˌлайн",
+   "spell": "online"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "купити щось онлайн",
+   "ipa": "ту бай ˈсʌмθиŋ ˈɔнˌлайн",
+   "spell": "to buy something online"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "робити щось онлайн",
+   "ipa": "ту ду ˈсʌмθиŋ ˈɔнˌлайн",
+   "spell": "to do something online"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "літати літаком",
+   "ipa": "ту ґоу бай ер",
+   "spell": "to go by air"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати човном",
+   "ipa": "ту ґоу бай боут",
+   "spell": "to go by boat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати автобусом",
+   "ipa": "ту ґоу бай бʌс",
+   "spell": "to go by bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати машиною",
+   "ipa": "ту ґоу бай кɑр",
+   "spell": "to go by car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати сушею",
+   "ipa": "ту ґоу бай лæнд",
+   "spell": "to go by land"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати морем",
+   "ipa": "ту ґоу бай сі",
+   "spell": "to go by sea"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "їхати поїздом",
+   "ipa": "ту ґоу бай трейн",
+   "spell": "to go by train"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "познайомитися з кимось онлайн",
+   "ipa": "ту міт ˈсʌмˌбɑді ˈɔнˌлайн",
+   "spell": "to meet somebody online"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бути поруч зі мною",
+   "ipa": "ту стæнд бай мі",
+   "spell": "to stand by me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "з поверненням!",
+   "ipa": "ˈwелкəм бæк!",
+   "spell": "welcome back!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ви можете зробити це онлайн",
+   "ipa": "ю кæн ду ит ˈɔнˌлайн",
+   "spell": "you can do it online"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ви не можете співати тут",
+   "ipa": "ю кæнт сиŋ hір",
+   "spell": "you can't sing here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вам потрібно зайти в інтернет",
+   "ipa": "ю нід ту ґоу ˈɔнˌлайн",
+   "spell": "you need to go online"
+ }
+]
+}
