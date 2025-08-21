@@ -1,0 +1,407 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "number": 5,
+  "date": "2025-08-20",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рейс",
+   "ipa": "ə флайт",
+   "spell": "a flight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подарок",
+   "ipa": "ə гɪфт",
+   "spell": "a gift"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самоучитель",
+   "ipa": "ə ˈсэлфˈhэлп бʊк",
+   "spell": "a self-help book"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чемодан",
+   "ipa": "ə ˈсутˌкэйс",
+   "spell": "a suitcase"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "интеллектуальная семья",
+   "ipa": "əн ˌɪнтəˈлэкчуəл ˈфæмəли",
+   "spell": "an intellectual family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плохо",
+   "ipa": "ˈбæдли",
+   "spell": "badly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "покупка",
+   "ipa": "ˈбайɪŋ",
+   "spell": "buying"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не могу",
+   "ipa": "кæн нɑт = кæнт",
+   "spell": "can not = can’t"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "(национальная) кухня",
+   "ipa": "кwɪˈзин",
+   "spell": "cuisine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не надо",
+   "ipa": "ду нɑт, доунт",
+   "spell": "do not, don’t"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он несёт чемодан",
+   "ipa": "hи ɪз ˈкæриɪŋ ə ˈсутˌкэйс",
+   "spell": "he is carrying a suitcase"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он ловит такси",
+   "ipa": "hи ɪз ˈгэтɪŋ ə ˈтæкси",
+   "spell": "he is getting a taxi"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он знал пять языков",
+   "ipa": "hи ну файв ˈлæŋгwəджəз",
+   "spell": "he knew five languages"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не настоящий",
+   "ipa": "ай æм нɑт рил",
+   "spell": "I am not real"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня были друзья",
+   "ipa": "ай hæд фрэндз",
+   "spell": "I had friends"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я пойду за ней в 3 часа дня",
+   "ipa": "ай wɪл гоу ту пɪк hɜр ʌп æт 3 ˈпиˈэм",
+   "spell": "I will go to pick her up at 3 PM"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это мне помогает",
+   "ipa": "ɪт hэлпс ми",
+   "spell": "it helps me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это не настоящее",
+   "ipa": "ɪт ɪз нɑт рил",
+   "spell": "it is not real"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это была хорошая работа",
+   "ipa": "ɪт wʌз ə гʊд джɑб",
+   "spell": "it was a good job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это было очень тяжело",
+   "ipa": "ɪт wʌз ˈвэри hɑрд",
+   "spell": "it was very hard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это подарок",
+   "ipa": "ɪтс ə гɪфт",
+   "spell": "it's a gift"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я телец по гороскопу",
+   "ipa": "май ˈзоудиˌæк сайн ɪз ˈторəс",
+   "spell": "my zodiac sign is Taurus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "новые дети",
+   "ipa": "ну ˈчɪлдрəн",
+   "spell": "new children"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "второго сентября",
+   "ipa": "ɑн сэпˈтэмбəр ˈсэкəнд",
+   "spell": "on September second"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один ребёнок",
+   "ipa": "wʌн чайлд",
+   "spell": "one child"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "летом, в летний период",
+   "ipa": "ˈоувəр ðə ˈсʌмəр, ˈдʊрɪŋ ðə ˈсʌмəр ˈпɪриəд",
+   "spell": "over the summer, during the summer period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она могла говорить",
+   "ipa": "щи кʊд спик",
+   "spell": "she could speak"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она выходит из дома",
+   "ipa": "щи ɪз ˈливɪŋ ðə hаус",
+   "spell": "she is leaving the house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она была в первом классе",
+   "ipa": "щи wʌз ɪн фɜрст грэйд",
+   "spell": "she was in first grade"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "именно эта кухня",
+   "ipa": "спəˈсɪфɪкли ðɪс кwɪˈзин",
+   "spell": "specifically this cuisine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не торопись",
+   "ipa": "тэйк йʊəр тайм",
+   "spell": "take your time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вкусный",
+   "ipa": "ˈтэйсти",
+   "spell": "tasty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "послезавтра",
+   "ipa": "ðə дэй ˈæфтəр тəˈмɑˌроу",
+   "spell": "the day after tomorrow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их отец",
+   "ipa": "ðэр ˈфɑðəр",
+   "spell": "their father"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их мать",
+   "ipa": "ðэр ˈмʌðəр",
+   "spell": "their mother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они ждут автобус",
+   "ipa": "ðэй ɑр ˈwэйтɪŋ фор ə бʌс",
+   "spell": "they are waiting for a bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они ждут рейс",
+   "ipa": "ðэй ɑр ˈwэйтɪŋ фор ə флайт",
+   "spell": "they are waiting for a flight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они не верили, что английский важен",
+   "ipa": "ðэй ˈдɪдəнт бɪˈлив ˈɪŋглɪш wʌз ɪмˈпортəнт",
+   "spell": "they didn't believe English was important"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прибыть в отель",
+   "ipa": "ту əˈрайв æт ə hоуˈтэл",
+   "spell": "to arrive at a hotel"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "забронировать номер",
+   "ipa": "ту бʊк ə рум",
+   "spell": "to book a room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "забронировать что-то",
+   "ipa": "ту бʊк ˈсʌмθɪŋ",
+   "spell": "to book something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "забронировать билеты",
+   "ipa": "ту бʊк ˈтɪкəтс",
+   "spell": "to book tickets"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "покупать подарки",
+   "ipa": "ту бай ˈпрэзəнтс",
+   "spell": "to buy presents"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "позвонить домой",
+   "ipa": "ту кɔл hоум",
+   "spell": "to call home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нести, переносить",
+   "ipa": "ту ˈкæри",
+   "spell": "to carry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прийти домой",
+   "ipa": "ту кʌм hоум",
+   "spell": "to come home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сесть на автобус",
+   "ipa": "ту гэт ə бʌс",
+   "spell": "to get a bus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поймать такси",
+   "ipa": "ту гэт ə ˈтæкси",
+   "spell": "to get a taxi"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сесть на поезд",
+   "ipa": "ту гэт ə трэйн",
+   "spell": "to get a train"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идти домой",
+   "ipa": "ту гоу hоум",
+   "spell": "to go home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ходить в спортзал",
+   "ipa": "ту гоу ту ðə джɪм",
+   "spell": "to go to the gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "надеть это",
+   "ipa": "ту пʊт ɪт ɑн",
+   "spell": "to put it on"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "носить это",
+   "ipa": "ту wэр ɪт",
+   "spell": "to wear it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "краситься",
+   "ipa": "ту wэр ˈмэйˌкʌп",
+   "spell": "to wear makeup"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нас было трое детей",
+   "ipa": "wи wɜр θри ˈчɪлдрəн",
+   "spell": "we were three children"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто ты по гороскопу?",
+   "ipa": "wɑт ɪз йʊəр (ˈзоудиˌæк) сайн?",
+   "spell": "what is your (zodiac) sign?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вкуснятина",
+   "ipa": "ˈйʌми",
+   "spell": "yummy"
+ }
+]
+}
