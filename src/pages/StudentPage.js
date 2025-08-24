@@ -15,13 +15,16 @@ function StudentPage() {
     // temporary while old pages exist (250714)
     //===============================================
     function StudentLink({ slug }) {
-        const validSlugs = ["aa", "ab", "ag", "as", "dk", "gk", "gp", "ic", "ik", "im", "ip", "is", "mg", "ml", "ms", "os", "ot", "sb", "ss", "st", "vk", "yk"]; // your allowed slugs
+        const validSlugs = [
+            "aa", "ab", "ag", "as", "dk", "gk", "gp", "ic", "ik",
+            "im", "ip", "is", "mg", "ml", "ms", "os", "ot",
+            "sb", "ss", "st", "vk", "yk"
+        ];
 
         if (!validSlugs.includes(slug)) return null;
 
         return <Link to={`/${slug}`}>Go to {slug.toUpperCase()}'s old page</Link>;
     }
-
     //===============================================
 
     return (
@@ -31,21 +34,22 @@ function StudentPage() {
 
             <div className="howard">
                 {studentLessons.map((lesson) => {
-                    // const weekday = new Date(lesson.date).toLocaleDateString("en-US", {
-                    //     weekday: "short",
-                    //     timeZone: "America/Toronto" // Use "America/Toronto" for Eastern Time
-                    // });
+                    const periodLabel = (lesson.period || "lesson")
+                        .charAt(0).toUpperCase() + (lesson.period || "lesson").slice(1);
+
+                    // 🔽 if period === "week", display only the year from lesson.date
+                    const displayDate = lesson.period === "week" && lesson.date
+                        ? new Date(lesson.date).getFullYear()
+                        : lesson.date;
 
                     return (
                         <button
                             key={lesson.number}
                             onClick={() => handleClick(lesson.number)}
                         >
-                            <div className="session">Lesson</div>
+                            <div className="session">{periodLabel}</div>
                             <div className="number">{lesson.number}</div>
-                            <div className="date">{lesson.date}
-                                {/* ({weekday}) */}
-                            </div>
+                            <div className="date">{displayDate}</div>
                         </button>
                     );
                 })}
@@ -55,3 +59,4 @@ function StudentPage() {
 }
 
 export default StudentPage;
+

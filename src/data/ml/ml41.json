@@ -1,331 +1,337 @@
-[
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "в среднем",
-    "ipa": "ɑn ˈævərɪʤ",
-    "spell": "on average"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "кирпич",
-    "ipa": "ə brɪk",
-    "spell": "a brick"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "персонаж / характер",
-    "ipa": "ə ˈkɛrɪktər",
-    "spell": "a character"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "недостаток характера",
-    "ipa": "ə ˈkɛrɪktər flɔ",
-    "spell": "a character flaw"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "экземпляр",
-    "ipa": "ə ˈkɑpi",
-    "spell": "a copy"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "клавиатура",
-    "ipa": "ə ˈkiˌbɔrd",
-    "spell": "a keyboard"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "политик",
-    "ipa": "ə ˌpɑləˈtɪʃən",
-    "spell": "a politician"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "второй / летний / загородный дом",
-    "ipa": "ə ˈsɛkənd hoʊm",
-    "spell": "a second home"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "одинокий старик",
-    "ipa": "ə ˈsɪŋɡəl oʊld mæn",
-    "spell": "a single old man"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "инвестиция",
-    "ipa": "ən ɪnˈvɛstmənt",
-    "spell": "an investment"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у входной двери",
-    "ipa": "æt ðə frʌnt dɔr",
-    "spell": "at the front door"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дешёвый",
-    "ipa": "ʧip",
-    "spell": "cheap"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "эрудированный",
-    "ipa": "ˈɛrəˌdaɪt",
-    "spell": "erudite"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "всё, что им нужно",
-    "ipa": "ˈɛvriˌθɪŋ ðeɪ nid",
-    "spell": "everything they need"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "жадный",
-    "ipa": "ˈɡridi",
-    "spell": "greedy"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "её муж",
-    "ipa": "hɜr ˈhʌzbənd",
-    "spell": "her husband"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сколько ты зарабатываешь?",
-    "ipa": "haʊ mʌʧ du ju ɜrn?",
-    "spell": "how much do you earn?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у меня было три принтера с тех пор, как я приехала сюда",
-    "ipa": "aɪ hæv hæd θri ˈprɪntərz sɪns aɪ keɪm hir",
-    "spell": "I have had three printers since I came here"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я просто молчу",
-    "ipa": "aɪ ʤʌst steɪ ˈkwaɪət",
-    "spell": "I just stay quiet"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "если вы не против выполнить эту работу",
-    "ipa": "ɪf ju doʊnt maɪnd ˈduɪŋ ðɪs ʤɑb",
-    "spell": "if you don’t mind doing this job"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "важный",
-    "ipa": "ɪmˈpɔrtənt",
-    "spell": "important"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "это не применяется",
-    "ipa": "ɪt ˈdʌzənt əˈplaɪ",
-    "spell": "it doesn’t apply"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "это не прилипает",
-    "ipa": "ɪt ˈdʌzənt stɪk",
-    "spell": "it doesn’t stick"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моя готовность помочь",
-    "ipa": "maɪ ˈwɪlɪŋnəs tu hɛlp",
-    "spell": "my willingness to help"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "чужая собственность",
-    "ipa": "ˈʌðər ˈpipəlz ˈprɑpərti",
-    "spell": "other people’s property"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "гладкий",
-    "ipa": "smuð",
-    "spell": "smooth"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "жить без квартплаты",
-    "ipa": "tu lɪv rɛnt-fri",
-    "spell": "to live rent-free"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "путешествовать налегке",
-    "ipa": "tu ˈtrævəl laɪt",
-    "spell": "to travel light"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "начитанный",
-    "ipa": "wɛl ˈrɛd",
-    "spell": "well-read"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "то, что я видел, это...",
-    "ipa": "wɑt aɪ hæv sin ɪz…",
-    "spell": "what I have seen is…"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "а что, если",
-    "ipa": "wɑt ɪf",
-    "spell": "what if"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "барахольщик, Плюшкин",
-    "ipa": "ə pæk ræt",
-    "spell": "a pack rat"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "возьми себя в руки, соберись, организуйся",
-    "ipa": "ɡɛt jʊər ækt təˈɡɛðər",
-    "spell": "get your act together"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "груз",
-    "ipa": "ə ˈkɑrˌɡoʊ",
-    "spell": "a cargo"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "доска",
-    "ipa": "ə bɔrd",
-    "spell": "a board"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "идти против моих убеждений",
-    "ipa": "tu ɡoʊ əˈɡɛnst maɪ kənˈvɪkʃənz",
-    "spell": "to go against my convictions"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "из грязи в князи",
-    "ipa": "frʌm ræɡz tu ˈrɪʧəz",
-    "spell": "from rags to riches"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "кожаный",
-    "ipa": "ˈlɛðər",
-    "spell": "leather"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "кулич",
-    "ipa": "ˈistər brɛd",
-    "spell": "Easter bread"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "не обращать внимания на драйверы",
-    "ipa": "tu ˌdɪsrɪˈɡɑrd ðə ˈdraɪvərz",
-    "spell": "to disregard the drivers"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "низкооплачиваемая работа",
-    "ipa": "ə loʊ-peɪd ʤɑb",
-    "spell": "a low-paid job"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "он мне дорог как память",
-    "ipa": "ɪt hæz ˌsɛntəˈmɛntəl ˈvælju tu mi",
-    "spell": "it has sentimental value to me"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "очень щедрый",
-    "ipa": "ˈvɛri ˈʤɛnərəs",
-    "spell": "very generous"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "пережитки СССР",
-    "ipa": "ðə sərˈvaɪvəlz ʌv ðə ju-ɛs-ɛs-ɑr",
-    "spell": "the survivals of the USSR"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "посуда",
-    "ipa": "ˈdɪʃəz",
-    "spell": "dishes"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "соглашаться на любую работу",
-    "ipa": "tu teɪk ˈɛni ʤɑb",
-    "spell": "to take any job"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "увидеть более полную картину",
-    "ipa": "tu si ə ˈfʊlər/ˈbrɔdər ˈpɪkʧər",
-    "spell": "to see a fuller/broader picture"
-  }
-]
+{
+  "number": 41,
+  "date": "2025-04-18",
+  "student": "Maria L.",
+  "slug": "ml",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в среднем",
+      "ipa": "ɑn ˈævərɪʤ",
+      "spell": "on average"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кирпич",
+      "ipa": "ə brɪk",
+      "spell": "a brick"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "персонаж / характер",
+      "ipa": "ə ˈkɛrɪktər",
+      "spell": "a character"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "недостаток характера",
+      "ipa": "ə ˈkɛrɪktər flɔ",
+      "spell": "a character flaw"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "экземпляр",
+      "ipa": "ə ˈkɑpi",
+      "spell": "a copy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "клавиатура",
+      "ipa": "ə ˈkiˌbɔrd",
+      "spell": "a keyboard"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "политик",
+      "ipa": "ə ˌpɑləˈtɪʃən",
+      "spell": "a politician"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "второй / летний / загородный дом",
+      "ipa": "ə ˈsɛkənd hoʊm",
+      "spell": "a second home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одинокий старик",
+      "ipa": "ə ˈsɪŋɡəl oʊld mæn",
+      "spell": "a single old man"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "инвестиция",
+      "ipa": "ən ɪnˈvɛstmənt",
+      "spell": "an investment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у входной двери",
+      "ipa": "æt ðə frʌnt dɔr",
+      "spell": "at the front door"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дешёвый",
+      "ipa": "ʧip",
+      "spell": "cheap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "эрудированный",
+      "ipa": "ˈɛrəˌdaɪt",
+      "spell": "erudite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё, что им нужно",
+      "ipa": "ˈɛvriˌθɪŋ ðeɪ nid",
+      "spell": "everything they need"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жадный",
+      "ipa": "ˈɡridi",
+      "spell": "greedy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "её муж",
+      "ipa": "hɜr ˈhʌzbənd",
+      "spell": "her husband"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько ты зарабатываешь?",
+      "ipa": "haʊ mʌʧ du ju ɜrn?",
+      "spell": "how much do you earn?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня было три принтера с тех пор, как я приехала сюда",
+      "ipa": "aɪ hæv hæd θri ˈprɪntərz sɪns aɪ keɪm hir",
+      "spell": "I have had three printers since I came here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я просто молчу",
+      "ipa": "aɪ ʤʌst steɪ ˈkwaɪət",
+      "spell": "I just stay quiet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если вы не против выполнить эту работу",
+      "ipa": "ɪf ju doʊnt maɪnd ˈduɪŋ ðɪs ʤɑb",
+      "spell": "if you don’t mind doing this job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "важный",
+      "ipa": "ɪmˈpɔrtənt",
+      "spell": "important"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не применяется",
+      "ipa": "ɪt ˈdʌzənt əˈplaɪ",
+      "spell": "it doesn’t apply"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не прилипает",
+      "ipa": "ɪt ˈdʌzənt stɪk",
+      "spell": "it doesn’t stick"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя готовность помочь",
+      "ipa": "maɪ ˈwɪlɪŋnəs tu hɛlp",
+      "spell": "my willingness to help"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чужая собственность",
+      "ipa": "ˈʌðər ˈpipəlz ˈprɑpərti",
+      "spell": "other people’s property"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гладкий",
+      "ipa": "smuð",
+      "spell": "smooth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жить без квартплаты",
+      "ipa": "tu lɪv rɛnt-fri",
+      "spell": "to live rent-free"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "путешествовать налегке",
+      "ipa": "tu ˈtrævəl laɪt",
+      "spell": "to travel light"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "начитанный",
+      "ipa": "wɛl ˈrɛd",
+      "spell": "well-read"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "то, что я видел, это...",
+      "ipa": "wɑt aɪ hæv sin ɪz…",
+      "spell": "what I have seen is…"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "а что, если",
+      "ipa": "wɑt ɪf",
+      "spell": "what if"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "барахольщик, Плюшкин",
+      "ipa": "ə pæk ræt",
+      "spell": "a pack rat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "возьми себя в руки, соберись, организуйся",
+      "ipa": "ɡɛt jʊər ækt təˈɡɛðər",
+      "spell": "get your act together"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "груз",
+      "ipa": "ə ˈkɑrˌɡoʊ",
+      "spell": "a cargo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "доска",
+      "ipa": "ə bɔrd",
+      "spell": "a board"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "идти против моих убеждений",
+      "ipa": "tu ɡoʊ əˈɡɛnst maɪ kənˈvɪkʃənz",
+      "spell": "to go against my convictions"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "из грязи в князи",
+      "ipa": "frʌm ræɡz tu ˈrɪʧəz",
+      "spell": "from rags to riches"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кожаный",
+      "ipa": "ˈlɛðər",
+      "spell": "leather"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кулич",
+      "ipa": "ˈistər brɛd",
+      "spell": "Easter bread"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не обращать внимания на драйверы",
+      "ipa": "tu ˌdɪsrɪˈɡɑrd ðə ˈdraɪvərz",
+      "spell": "to disregard the drivers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "низкооплачиваемая работа",
+      "ipa": "ə loʊ-peɪd ʤɑb",
+      "spell": "a low-paid job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он мне дорог как память",
+      "ipa": "ɪt hæz ˌsɛntəˈmɛntəl ˈvælju tu mi",
+      "spell": "it has sentimental value to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "очень щедрый",
+      "ipa": "ˈvɛri ˈʤɛnərəs",
+      "spell": "very generous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пережитки СССР",
+      "ipa": "ðə sərˈvaɪvəlz ʌv ðə ju-ɛs-ɛs-ɑr",
+      "spell": "the survivals of the USSR"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "посуда",
+      "ipa": "ˈdɪʃəz",
+      "spell": "dishes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "соглашаться на любую работу",
+      "ipa": "tu teɪk ˈɛni ʤɑb",
+      "spell": "to take any job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увидеть более полную картину",
+      "ipa": "tu si ə ˈfʊlər/ˈbrɔdər ˈpɪkʧər",
+      "spell": "to see a fuller/broader picture"
+    }
+  ]
+}

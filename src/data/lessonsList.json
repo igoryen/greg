@@ -1,534 +1,676 @@
 {
-    "ab": [
-        {
-            "number": 58,
-            "date": "2025-08-19"
-        },
-        {
-            "number": 57,
-            "date": "2025-08-14"
-        },
-        {
-            "number": 56,
-            "date": "2025-08-12"
-        },
-        {
-            "number": 55,
-            "date": "2025-08-07"
-        },
-        {
-            "number": 54,
-            "date": "2025-08-05"
-        },
-        {
-            "number": 53,
-            "date": "2025-07-31"
-        },
-        {
-            "number": 52,
-            "date": "2025-07-29"
-        },
-        {
-            "number": 51,
-            "date": "2025-07-27"
-        },
-        {
-            "number": 50,
-            "date": "2025-07-24"
-        },
-        {
-            "number": 49,
-            "date": "2025-07-20"
-        },
-        {
-            "number": 48,
-            "date": "2025-07-17"
-        },
-        {
-            "number": 47,
-            "date": "2025-07-15"
-        }
-    ],
-    "af": [
-        {
-            "number": 5,
-            "date": "2025-08-20"
-        },
-        {
-            "number": 4,
-            "date": "2025-08-18"
-        },
-        {
-            "number": 3,
-            "date": "2025-08-13"
-        },
-        {
-            "number": 2,
-            "date": "2025-08-11"
-        },
-        {
-            "number": 1,
-            "date": "2025-08-07"
-        },
-        {
-            "number": 0,
-            "date": "2025-08-06"
-        }
-    ],
-    "dk": [
-        {
-            "number": 13,
-            "date": "2025-08-18"
-        },
-        {
-            "number": 12,
-            "date": "2025-08-11"
-        },
-        {
-            "number": 11,
-            "date": "2025-08-08"
-        },
-        {
-            "number": 10,
-            "date": "2025-08-01"
-        },
-        {
-            "number": 9,
-            "date": "2025-07-28"
-        },
-        {
-            "number": 8,
-            "date": "2025-07-25"
-        },
-        {
-            "number": 7,
-            "date": "2025-07-21"
-        },
-        {
-            "number": 6,
-            "date": "2025-07-18"
-        },
-        {
-            "number": 5,
-            "date": "2025-07-15"
-        },
-        {
-            "number": 4,
-            "date": "2025-07-13"
-        }
-    ],
-    "gp": [
-        {
-            "number": 16,
-            "date": "2025-08-13"
-        },
-        {
-            "number": 15,
-            "date": "2025-08-06"
-        },
-        {
-            "number": 14,
-            "date": "2025-07-30"
-        },
-        {
-            "number": 13,
-            "date": "2025-07-23"
-        }
-    ],
-    "ik": [
-        {
-            "number": 33,
-            "date": "2025-08-06"
-        },
-        {
-            "number": 32,
-            "date": "2025-08-05"
-        },
-        {
-            "number": 31,
-            "date": "2025-08-04"
-        },
-        {
-            "number": 30,
-            "date": "2025-08-03"
-        },
-        {
-            "number": 29,
-            "date": "2025-07-31"
-        },
-        {
-            "number": 28,
-            "date": "2025-07-29"
-        },
-        {
-            "number": 27,
-            "date": "2025-07-27"
-        },
-        {
-            "number": 26,
-            "date": "2025-07-24"
-        },
-        {
-            "number": 25,
-            "date": "2025-07-22"
-        },
-        {
-            "number": 24,
-            "date": "2025-07-20"
-        },
-        {
-            "number": 23,
-            "date": "2025-07-17"
-        },
-        {
-            "number": 22,
-            "date": "2025-07-15"
-        },
-        {
-            "number": 21,
-            "date": "2025-07-13"
-        }
-    ],
-    "ip": [
-        {
-            "number": 67,
-            "date": "2025-08-20"
-        },
-        {
-            "number": 66,
-            "date": "2025-08-18"
-        },
-        {
-            "number": 65,
-            "date": "2025-08-13"
-        },
-        {
-            "number": 64,
-            "date": "2025-08-11"
-        },
-        {
-            "number": 63,
-            "date": "2025-08-08"
-        },
-        {
-            "number": 62,
-            "date": "2025-08-06"
-        },
-        {
-            "number": 61,
-            "date": "2025-08-04"
-        },
-        {
-            "number": 60,
-            "date": "2025-08-01"
-        },
-        {
-            "number": 59,
-            "date": "2025-07-30"
-        },
-        {
-            "number": 58,
-            "date": "2025-07-28"
-        },
-        {
-            "number": 57,
-            "date": "2025-07-25"
-        },
-        {
-            "number": 56,
-            "date": "2025-07-23"
-        },
-        {
-            "number": 55,
-            "date": "2025-07-21"
-        },
-        {
-            "number": 54,
-            "date": "2025-07-18"
-        },
-        {
-            "number": 53,
-            "date": "2025-07-16"
-        },
-        {
-            "number": 52,
-            "date": "2025-07-15"
-        }
-    ],
-    "js": [
-        {
-            "number": 3,
-            "date": "2025-07-18"
-        },
-        {
-            "number": 2,
-            "date": "2025-07-18"
-        },
-        {
-            "number": 1,
-            "date": "2025-07-11"
-        }
-    ],
-    "jt": [
-        {
-            "number": 2,
-            "date": "2025-07-19"
-        },
-        {
-            "number": 1,
-            "date": "2025-07-12"
-        }
-    ],
-    "mg": [
-        {
-            "number": 11,
-            "date": "2025-08-08"
-        },
-        {
-            "number": 10,
-            "date": "2025-08-05"
-        },
-        {
-            "number": 9,
-            "date": "2025-07-29"
-        },
-        {
-            "number": 8,
-            "date": "2025-07-27"
-        },
-        {
-            "number": 7,
-            "date": "2025-07-24"
-        },
-        {
-            "number": 5,
-            "date": "2025-07-20"
-        }
-    ],
-    "ml": [
-        {
-            "number": 87,
-            "date": "2025-08-20"
-        },
-        {
-            "number": 86,
-            "date": "2025-08-18"
-        },
-        {
-            "number": 85,
-            "date": "2025-08-13"
-        },
-        {
-            "number": 84,
-            "date": "2025-08-11"
-        },
-        {
-            "number": 83,
-            "date": "2025-08-08"
-        },
-        {
-            "number": 82,
-            "date": "2025-08-06"
-        },
-        {
-            "number": 81,
-            "date": "2025-08-04"
-        },
-        {
-            "number": 80,
-            "date": "2025-08-01"
-        },
-        {
-            "number": 79,
-            "date": "2025-07-30"
-        },
-        {
-            "number": 78,
-            "date": "2025-07-28"
-        },
-        {
-            "number": 77,
-            "date": "2025-07-25"
-        },
-        {
-            "number": 76,
-            "date": "2025-07-23"
-        },
-        {
-            "number": 75,
-            "date": "2025-07-21"
-        },
-        {
-            "number": 74,
-            "date": "2025-07-18"
-        },
-        {
-            "number": 73,
-            "date": "2025-07-17"
-        },
-        {
-            "number": 72,
-            "date": "2025-07-16"
-        },
-        {
-            "number": 71,
-            "date": "2025-07-14"
-        },
-        {
-            "number": 70,
-            "date": "2025-07-09"
-        },
-        {
-            "number": 69,
-            "date": "2025-07-07"
-        },
-        {
-            "number": 68,
-            "date": "2025-07-04"
-        },
-        {
-            "number": 67,
-            "date": "2025-07-02"
-        },
-        {
-            "number": 66,
-            "date": "2025-06-30"
-        },
-        {
-            "number": 65,
-            "date": "2025-06-27"
-        },
-        {
-            "number": 64,
-            "date": "2025-06-25"
-        },
-        {
-            "number": 63,
-            "date": "2025-05-23"
-        },
-        {
-            "number": 50,
-            "date": "2025-05-21"
-        },
-        {
-            "number": 49,
-            "date": "2025-05-19"
-        },
-        {
-            "number": 47,
-            "date": "2025-05-05"
-        }
-    ],
-    "ot": [
-        {
-            "number": 27,
-            "date": "2025-08-19"
-        },
-        {
-            "number": 26,
-            "date": "2025-08-05"
-        },
-        {
-            "number": 25,
-            "date": "2025-08-01"
-        },
-        {
-            "number": 24,
-            "date": "2025-07-22"
-        },
-        {
-            "number": 23,
-            "date": "2025-07-15"
-        }
-    ],
-    "sb": [
-        {
-            "number": 36,
-            "date": "2025-08-18"
-        },
-        {
-            "number": 35,
-            "date": "2025-08-14"
-        },
-        {
-            "number": 34,
-            "date": "2025-08-11"
-        },
-        {
-            "number": 33,
-            "date": "2025-08-07"
-        },
-        {
-            "number": 32,
-            "date": "2025-08-04"
-        },
-        {
-            "number": 31,
-            "date": "2025-07-31"
-        },
-        {
-            "number": 30,
-            "date": "2025-07-28"
-        },
-        {
-            "number": 29,
-            "date": "2025-07-23"
-        },
-        {
-            "number": 28,
-            "date": "2025-07-21"
-        },
-        {
-            "number": 27,
-            "date": "2025-07-17"
-        },
-        {
-            "number": 26,
-            "date": "2025-07-14"
-        }
-    ],
-    "ss": [
-        {
-            "number": 55,
-            "date": "2025-08-18"
-        },
-        {
-            "number": 54,
-            "date": "2025-08-11"
-        },
-        {
-            "number": 53,
-            "date": "2025-08-08"
-        },
-        {
-            "number": 52,
-            "date": "2025-08-01"
-        },
-        {
-            "number": 51,
-            "date": "2025-07-28"
-        },
-        {
-            "number": 50,
-            "date": "2025-07-25"
-        },
-        {
-            "number": 49,
-            "date": "2025-07-21"
-        },
-        {
-            "number": 48,
-            "date": "2025-07-18"
-        },
-        {
-            "number": 47,
-            "date": "2025-07-14"
-        }
-    ],
-    "st": [
-        {
-            "number": 7,
-            "date": "2025-07-27"
-        }
-    ]
+  "aa": [],
+  "ab": [
+    {
+      "number": 58,
+      "date": "2025-08-19",
+      "period": "lesson"
+    },
+    {
+      "number": 57,
+      "date": "2025-08-14",
+      "period": "lesson"
+    },
+    {
+      "number": 56,
+      "date": "2025-08-12",
+      "period": "lesson"
+    },
+    {
+      "number": 55,
+      "date": "2025-08-07",
+      "period": "lesson"
+    },
+    {
+      "number": 54,
+      "date": "2025-08-05",
+      "period": "lesson"
+    },
+    {
+      "number": 53,
+      "date": "2025-07-31",
+      "period": "lesson"
+    },
+    {
+      "number": 52,
+      "date": "2025-07-29",
+      "period": "lesson"
+    },
+    {
+      "number": 51,
+      "date": "2025-07-27",
+      "period": "lesson"
+    },
+    {
+      "number": 50,
+      "date": "2025-07-24",
+      "period": "lesson"
+    },
+    {
+      "number": 49,
+      "date": "2025-07-20",
+      "period": "lesson"
+    },
+    {
+      "number": 48,
+      "date": "2025-07-17",
+      "period": "lesson"
+    },
+    {
+      "number": 47,
+      "date": "2025-07-15",
+      "period": "lesson"
+    }
+  ],
+  "af": [
+    {
+      "number": 5,
+      "date": "2025-08-20",
+      "period": "lesson"
+    },
+    {
+      "number": 4,
+      "date": "2025-08-18",
+      "period": "lesson"
+    },
+    {
+      "number": 3,
+      "date": "2025-08-13",
+      "period": "lesson"
+    },
+    {
+      "number": 2,
+      "date": "2025-08-11",
+      "period": "lesson"
+    },
+    {
+      "number": 1,
+      "date": "2025-08-07",
+      "period": "lesson"
+    },
+    {
+      "number": 0,
+      "date": "2025-08-06",
+      "period": "lesson"
+    }
+  ],
+  "ag": [],
+  "as": [],
+  "dk": [
+    {
+      "number": 13,
+      "date": "2025-08-18",
+      "period": "lesson"
+    },
+    {
+      "number": 12,
+      "date": "2025-08-11",
+      "period": "lesson"
+    },
+    {
+      "number": 11,
+      "date": "2025-08-08",
+      "period": "lesson"
+    },
+    {
+      "number": 10,
+      "date": "2025-08-01",
+      "period": "lesson"
+    },
+    {
+      "number": 9,
+      "date": "2025-07-28",
+      "period": "lesson"
+    },
+    {
+      "number": 8,
+      "date": "2025-07-25",
+      "period": "lesson"
+    },
+    {
+      "number": 7,
+      "date": "2025-07-21",
+      "period": "lesson"
+    },
+    {
+      "number": 6,
+      "date": "2025-07-18",
+      "period": "lesson"
+    },
+    {
+      "number": 5,
+      "date": "2025-07-15",
+      "period": "lesson"
+    },
+    {
+      "number": 4,
+      "date": "2025-07-13",
+      "period": "lesson"
+    }
+  ],
+  "gk": [],
+  "gp": [
+    {
+      "number": 16,
+      "date": "2025-08-13",
+      "period": "lesson"
+    },
+    {
+      "number": 15,
+      "date": "2025-08-06",
+      "period": "lesson"
+    },
+    {
+      "number": 14,
+      "date": "2025-07-30",
+      "period": "lesson"
+    },
+    {
+      "number": 13,
+      "date": "2025-07-23",
+      "period": "lesson"
+    }
+  ],
+  "ic": [],
+  "ik": [
+    {
+      "number": 33,
+      "date": "2025-08-06",
+      "period": "lesson"
+    },
+    {
+      "number": 32,
+      "date": "2025-08-05",
+      "period": "lesson"
+    },
+    {
+      "number": 31,
+      "date": "2025-08-04",
+      "period": "lesson"
+    },
+    {
+      "number": 30,
+      "date": "2025-08-03",
+      "period": "lesson"
+    },
+    {
+      "number": 29,
+      "date": "2025-07-31",
+      "period": "lesson"
+    },
+    {
+      "number": 28,
+      "date": "2025-07-29",
+      "period": "lesson"
+    },
+    {
+      "number": 27,
+      "date": "2025-07-27",
+      "period": "lesson"
+    },
+    {
+      "number": 26,
+      "date": "2025-07-24",
+      "period": "lesson"
+    },
+    {
+      "number": 25,
+      "date": "2025-07-22",
+      "period": "lesson"
+    },
+    {
+      "number": 24,
+      "date": "2025-07-20",
+      "period": "lesson"
+    },
+    {
+      "number": 23,
+      "date": "2025-07-17",
+      "period": "lesson"
+    },
+    {
+      "number": 22,
+      "date": "2025-07-16",
+      "period": "lesson"
+    },
+    {
+      "number": 21,
+      "date": "2025-07-13",
+      "period": "lesson"
+    }
+  ],
+  "im": [],
+  "ip": [
+    {
+      "number": 67,
+      "date": "2025-08-20",
+      "period": "lesson"
+    },
+    {
+      "number": 66,
+      "date": "2025-08-18",
+      "period": "lesson"
+    },
+    {
+      "number": 65,
+      "date": "2025-08-13",
+      "period": "lesson"
+    },
+    {
+      "number": 64,
+      "date": "2025-08-11",
+      "period": "lesson"
+    },
+    {
+      "number": 63,
+      "date": "2025-08-08",
+      "period": "lesson"
+    },
+    {
+      "number": 62,
+      "date": "2025-08-06",
+      "period": "lesson"
+    },
+    {
+      "number": 61,
+      "date": "2025-08-04",
+      "period": "lesson"
+    },
+    {
+      "number": 60,
+      "date": "2025-08-01",
+      "period": "lesson"
+    },
+    {
+      "number": 59,
+      "date": "2025-07-30",
+      "period": "lesson"
+    },
+    {
+      "number": 58,
+      "date": "2025-07-28",
+      "period": "lesson"
+    },
+    {
+      "number": 57,
+      "date": "2025-07-25",
+      "period": "lesson"
+    },
+    {
+      "number": 56,
+      "date": "2025-07-23",
+      "period": "lesson"
+    },
+    {
+      "number": 55,
+      "date": "2025-07-21",
+      "period": "lesson"
+    },
+    {
+      "number": 54,
+      "date": "2025-07-18",
+      "period": "lesson"
+    },
+    {
+      "number": 53,
+      "date": "2025-07-16",
+      "period": "lesson"
+    },
+    {
+      "number": 52,
+      "date": "2025-07-15",
+      "period": "lesson"
+    }
+  ],
+  "is": [],
+  "js": [
+    {
+      "number": 3,
+      "date": "2025-07-13",
+      "period": "lesson"
+    },
+    {
+      "number": 2,
+      "date": "2025-07-12",
+      "period": "lesson"
+    },
+    {
+      "number": 1,
+      "date": "2025-07-11",
+      "period": "lesson"
+    }
+  ],
+  "jt": [
+    {
+      "number": 1,
+      "date": "2025-07-11",
+      "period": "lesson"
+    }
+  ],
+  "mg": [
+    {
+      "number": 11,
+      "date": "2025-08-08",
+      "period": "lesson"
+    },
+    {
+      "number": 10,
+      "date": "2025-08-05",
+      "period": "lesson"
+    },
+    {
+      "number": 9,
+      "date": "2025-07-29",
+      "period": "lesson"
+    },
+    {
+      "number": 8,
+      "date": "2025-07-27",
+      "period": "lesson"
+    },
+    {
+      "number": 7,
+      "date": "2025-07-24",
+      "period": "lesson"
+    },
+    {
+      "number": 5,
+      "date": "2025-07-20",
+      "period": "lesson"
+    }
+  ],
+  "ml": [
+    {
+      "number": 87,
+      "date": "2025-08-20",
+      "period": "lesson"
+    },
+    {
+      "number": 86,
+      "date": "2025-08-18",
+      "period": "lesson"
+    },
+    {
+      "number": 85,
+      "date": "2025-08-13",
+      "period": "lesson"
+    },
+    {
+      "number": 84,
+      "date": "2025-08-11",
+      "period": "lesson"
+    },
+    {
+      "number": 83,
+      "date": "2025-08-08",
+      "period": "lesson"
+    },
+    {
+      "number": 82,
+      "date": "2025-08-06",
+      "period": "lesson"
+    },
+    {
+      "number": 81,
+      "date": "2025-08-04",
+      "period": "lesson"
+    },
+    {
+      "number": 80,
+      "date": "2025-08-01",
+      "period": "lesson"
+    },
+    {
+      "number": 79,
+      "date": "2025-07-30",
+      "period": "lesson"
+    },
+    {
+      "number": 78,
+      "date": "2025-07-28",
+      "period": "lesson"
+    },
+    {
+      "number": 77,
+      "date": "2025-07-25",
+      "period": "lesson"
+    },
+    {
+      "number": 76,
+      "date": "2025-07-23",
+      "period": "lesson"
+    },
+    {
+      "number": 75,
+      "date": "2025-07-21",
+      "period": "lesson"
+    },
+    {
+      "number": 74,
+      "date": "2025-07-18",
+      "period": "lesson"
+    },
+    {
+      "number": 73,
+      "date": "2025-07-17",
+      "period": "lesson"
+    },
+    {
+      "number": 72,
+      "date": "2025-07-16",
+      "period": "lesson"
+    },
+    {
+      "number": 71,
+      "date": "2025-07-15",
+      "period": "lesson"
+    },
+    {
+      "number": 70,
+      "date": "2025-07-09",
+      "period": "lesson"
+    },
+    {
+      "number": 69,
+      "date": "2025-07-07",
+      "period": "lesson"
+    },
+    {
+      "number": 68,
+      "date": "2025-07-04",
+      "period": "lesson"
+    },
+    {
+      "number": 67,
+      "date": "2025-07-02",
+      "period": "lesson"
+    },
+    {
+      "number": 66,
+      "date": "2025-06-30",
+      "period": "lesson"
+    },
+    {
+      "number": 65,
+      "date": "2025-06-27",
+      "period": "lesson"
+    },
+    {
+      "number": 64,
+      "date": "2025-06-25",
+      "period": "lesson"
+    },
+    {
+      "number": 63,
+      "date": "2025-05-23",
+      "period": "lesson"
+    },
+    {
+      "number": 50,
+      "date": "2025-05-21",
+      "period": "lesson"
+    },
+    {
+      "number": 49,
+      "date": "2025-05-19",
+      "period": "lesson"
+    },
+    {
+      "number": 47,
+      "date": "2025-05-05",
+      "period": "lesson"
+    },
+    {
+      "number": 41,
+      "date": "2025-04-18",
+      "period": "lesson"
+    }
+  ],
+  "ms": [],
+  "os": [],
+  "ot": [
+    {
+      "number": 27,
+      "date": "2025-08-19",
+      "period": "lesson"
+    },
+    {
+      "number": 26,
+      "date": "2025-08-05",
+      "period": "lesson"
+    },
+    {
+      "number": 25,
+      "date": "2025-08-01",
+      "period": "lesson"
+    },
+    {
+      "number": 24,
+      "date": "2025-07-22",
+      "period": "lesson"
+    },
+    {
+      "number": 23,
+      "date": "2025-07-16",
+      "period": "lesson"
+    }
+  ],
+  "sb": [
+    {
+      "number": 37,
+      "date": "2025-08-21",
+      "period": "lesson"
+    },
+    {
+      "number": 36,
+      "date": "2025-08-18",
+      "period": "lesson"
+    },
+    {
+      "number": 35,
+      "date": "2025-08-14",
+      "period": "lesson"
+    },
+    {
+      "number": 34,
+      "date": "2025-08-11",
+      "period": "lesson"
+    },
+    {
+      "number": 33,
+      "date": "2025-08-07",
+      "period": "lesson"
+    },
+    {
+      "number": 32,
+      "date": "2025-08-04",
+      "period": "lesson"
+    },
+    {
+      "number": 31,
+      "date": "2025-07-31",
+      "period": "lesson"
+    },
+    {
+      "number": 30,
+      "date": "2025-07-28",
+      "period": "lesson"
+    },
+    {
+      "number": 29,
+      "date": "2025-07-23",
+      "period": "lesson"
+    },
+    {
+      "number": 28,
+      "date": "2025-07-21",
+      "period": "lesson"
+    },
+    {
+      "number": 27,
+      "date": "2025-07-17",
+      "period": "lesson"
+    },
+    {
+      "number": 26,
+      "date": "2025-07-14",
+      "period": "lesson"
+    }
+  ],
+  "ss": [
+    {
+      "number": 55,
+      "date": "2025-08-18",
+      "period": "lesson"
+    },
+    {
+      "number": 54,
+      "date": "2025-08-11",
+      "period": "lesson"
+    },
+    {
+      "number": 53,
+      "date": "2025-08-08",
+      "period": "lesson"
+    },
+    {
+      "number": 52,
+      "date": "2025-08-01",
+      "period": "lesson"
+    },
+    {
+      "number": 51,
+      "date": "2025-07-28",
+      "period": "lesson"
+    },
+    {
+      "number": 50,
+      "date": "2025-07-25",
+      "period": "lesson"
+    },
+    {
+      "number": 49,
+      "date": "2025-07-21",
+      "period": "lesson"
+    },
+    {
+      "number": 48,
+      "date": "2025-07-18",
+      "period": "lesson"
+    },
+    {
+      "number": 47,
+      "date": "2025-07-14",
+      "period": "lesson"
+    }
+  ],
+  "st": [
+    {
+      "number": 7,
+      "date": "2025-07-27",
+      "period": "lesson"
+    }
+  ],
+  "vk": [],
+  "yk": []
 }

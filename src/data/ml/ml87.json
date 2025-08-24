@@ -3,433 +3,434 @@
   "slug": "ml",
   "number": 87,
   "date": "2025-08-20",
-  "words":   [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скалолаз",
-   "ipa": "ə ˈклаймəр",
-   "spell": "a climber"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "новичок в скалолазании",
-   "ipa": "ə ˈклаймɪŋ ˈнɑвəс",
-   "spell": "a climbing novice"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "компонент",
-   "ipa": "ə кəмˈпоунəнт",
-   "spell": "a component"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "трещина",
-   "ipa": "ə крæк",
-   "spell": "a crack"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кошка (альпинистская)",
-   "ipa": "ə ˈкрæмпɔн",
-   "spell": "a crampon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "спящий вулкан",
-   "ipa": "ə ˈдормəнт вɑлˈкэйноу",
-   "spell": "a dormant volcano"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "впечатляющее восхождение",
-   "ipa": "ə дрəˈмæтɪк клайм",
-   "spell": "a dramatic climb"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проводник, гид",
-   "ipa": "ə гайд",
-   "spell": "a guide"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шипящий звук",
-   "ipa": "ə ˈhɪсɪŋ саунд",
-   "spell": "a hissing sound"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "долгий поход к вершине",
-   "ipa": "ə лɔŋ трэк ту ðə ˈсʌмəт",
-   "spell": "a long trek to the summit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рыхлая каменная поверхность",
-   "ipa": "ə лус рɑк ˈсɜрфəс",
-   "spell": "a loose rock surface"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "необходимость",
-   "ipa": "ə нəˈсэсəти",
-   "spell": "a necessity"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "удостоверение личности с фотографией",
-   "ipa": "ə ˈпɪкчəр ɪд",
-   "spell": "a picture ID"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "гвоздь программы",
-   "ipa": "ə стɑр тɜрн",
-   "spell": "a star turn"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "крутой склон",
-   "ipa": "ə стип слоуп",
-   "spell": "a steep slope"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "угроза",
-   "ipa": "ə θрэт",
-   "spell": "a threat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "коварная местность",
-   "ipa": "ə ˈтрэчəрəс тəˈрэйн",
-   "spell": "a treacherous terrain"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "желанный вызов, трудность",
-   "ipa": "ə ˈwэлкəм ˈчæлəндж",
-   "spell": "a welcome challenge"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стоящее усилие",
-   "ipa": "ə ˈwɜрˈθwайл ˈэфəрт",
-   "spell": "a worthwhile effort"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "по пути",
-   "ipa": "əˈлɔŋ ðə wэй",
-   "spell": "along the way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "легкодоступная тропа",
-   "ipa": "əн æкˈсэсəбəл трэйл",
-   "spell": "an accessible trail"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "извержение",
-   "ipa": "əн ˌɪˈрʌпшəн",
-   "spell": "an eruption"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бодрящий пеший поход",
-   "ipa": "əн ɪгˈзɪлəˌрэйтɪŋ hайк",
-   "spell": "an exhilarating hike"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ледяная шапка (горы)",
-   "ipa": "əн айс кæп",
-   "spell": "an ice cap"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ледоруб",
-   "ipa": "əн айс пɪк",
-   "spell": "an ice pick"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наблюдатель (за экзаменующимися)",
-   "ipa": "əн ɪнˈвɪджɪлэйтəр",
-   "spell": "an invigilator"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сложные условия",
-   "ipa": "ˈчæлəнджɪŋ кəнˈдɪшəнз",
-   "spell": "challenging conditions"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что бы ни случилось",
-   "ipa": "кʌм wɑт мэй",
-   "spell": "come what may"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "восемь часов всего",
-   "ipa": "эйт ˈауəрз ˌɔлтəˈгэðəр",
-   "spell": "eight hours altogether"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "электричество",
-   "ipa": "ɪˌлэкˈтрɪсəти",
-   "spell": "electricity"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вулканы Европы",
-   "ipa": "ˈйʊрəпс вɑлˈкэйноуз",
-   "spell": "Europe's volcanos"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "для галочки",
-   "ipa": "фор формз сэйк",
-   "spell": "for form's sake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в любом случае",
-   "ipa": "ɪн ˈэни ɪˈвэнт",
-   "spell": "in any event"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это простая формальность",
-   "ipa": "ɪтс ə мɪр форˈмæлəти",
-   "spell": "it's a mere formality"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мягкая погода",
-   "ipa": "майлд ˈwэðəр",
-   "spell": "mild weather"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мой старший сын",
-   "ipa": "май ˈоулдəр сʌн",
-   "spell": "my older son"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мой сын",
-   "ipa": "май сʌн",
-   "spell": "my son"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "один раз",
-   "ipa": "wʌн тайм",
-   "spell": "one time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "независимо от результата",
-   "ipa": "рəˈгɑрдлəс ʌв ðи ˈаутˌкʌм",
-   "spell": "regardless of the outcome"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "палящая жара",
-   "ipa": "ˈскорчɪŋ hит",
-   "spell": "scorching heat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что-то, что может быть с этим связано",
-   "ipa": "ˈсʌмθɪŋ ðæт кʊд рɪˈлэйт ту ðæт",
-   "spell": "something that could relate to that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пожилые люди",
-   "ipa": "ðи ˈэлдəрли",
-   "spell": "the elderly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "окружающая среда",
-   "ipa": "ðи ɪнˈвайрəнмəнт",
-   "spell": "the environment"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вершина (горы)",
-   "ipa": "ðə ˈсʌмəт (æз ɪн ʌв ðə ˈмаунтəн)",
-   "spell": "the summit (as in of the mountain)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они приняли меня",
-   "ipa": "ðэй æкˈсэптɪд ми",
-   "spell": "they accepted me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они одобрили меня",
-   "ipa": "ðэй əˈпрувд ми",
-   "spell": "they approved me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они ничего мне не сказали",
-   "ipa": "ðэй ˈдɪдəнт тэл ми ˈэниˌθɪŋ",
-   "spell": "they didn't tell me anything"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они отличаются друг от друга",
-   "ipa": "ðэй ˈдɪфəр фрʌм ич ˈʌðəр",
-   "spell": "they differ from each other"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они кивнули",
-   "ipa": "ðэй ˈнɑдɪд",
-   "spell": "they nodded"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "круглый год",
-   "ipa": "θруˈаут ðə йɪр",
-   "spell": "throughout the year"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "попытаться сделать это",
-   "ipa": "ту əˈтэмпт ɪт",
-   "spell": "to attempt it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "быть в курсе",
-   "ipa": "ту би əˈwэр",
-   "spell": "to be aware"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зубрить перед экзаменом",
-   "ipa": "ту крæм фор əн ɪгˈзæм",
-   "spell": "to cram for an exam"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "делать что-то ещё",
-   "ipa": "ту ду ˈсʌмθɪŋ элс",
-   "spell": "to do something else"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "извергаться",
-   "ipa": "ту ɪˈрʌпт",
-   "spell": "to erupt"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заполнить должность кем угодно",
-   "ipa": "ту фɪл ə пəˈзɪшəн wɪð ˈэнибəди",
-   "spell": "to fill a position with anybody"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обращать на меня внимание",
-   "ipa": "ту пэй əˈтэншəн ту ми",
-   "spell": "to pay attention to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проверить свой предел",
-   "ipa": "ту тэст йʊəр ˈлɪмəт",
-   "spell": "to test your limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "работать правильно",
-   "ipa": "ту wɜрк ˈпрɑпəрли",
-   "spell": "to work properly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "какой проходной балл?",
-   "ipa": "wʌтс ðə ˈпæсɪŋ скор",
-   "spell": "what's the passing score"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что бы ни случилось",
-   "ipa": "ˌwʌˈтэвəр ˈhæпəнз",
-   "spell": "whatever happens"
- }
-]
+  "period": "lesson",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скалолаз",
+      "ipa": "ə ˈклаймəр",
+      "spell": "a climber"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "новичок в скалолазании",
+      "ipa": "ə ˈклаймɪŋ ˈнɑвəс",
+      "spell": "a climbing novice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "компонент",
+      "ipa": "ə кəмˈпоунəнт",
+      "spell": "a component"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "трещина",
+      "ipa": "ə крæк",
+      "spell": "a crack"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кошка (альпинистская)",
+      "ipa": "ə ˈкрæмпɔн",
+      "spell": "a crampon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спящий вулкан",
+      "ipa": "ə ˈдормəнт вɑлˈкэйноу",
+      "spell": "a dormant volcano"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "впечатляющее восхождение",
+      "ipa": "ə дрəˈмæтɪк клайм",
+      "spell": "a dramatic climb"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проводник, гид",
+      "ipa": "ə гайд",
+      "spell": "a guide"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шипящий звук",
+      "ipa": "ə ˈhɪсɪŋ саунд",
+      "spell": "a hissing sound"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "долгий поход к вершине",
+      "ipa": "ə лɔŋ трэк ту ðə ˈсʌмəт",
+      "spell": "a long trek to the summit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рыхлая каменная поверхность",
+      "ipa": "ə лус рɑк ˈсɜрфəс",
+      "spell": "a loose rock surface"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "необходимость",
+      "ipa": "ə нəˈсэсəти",
+      "spell": "a necessity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "удостоверение личности с фотографией",
+      "ipa": "ə ˈпɪкчəр ɪд",
+      "spell": "a picture ID"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гвоздь программы",
+      "ipa": "ə стɑр тɜрн",
+      "spell": "a star turn"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "крутой склон",
+      "ipa": "ə стип слоуп",
+      "spell": "a steep slope"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "угроза",
+      "ipa": "ə θрэт",
+      "spell": "a threat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коварная местность",
+      "ipa": "ə ˈтрэчəрəс тəˈрэйн",
+      "spell": "a treacherous terrain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "желанный вызов, трудность",
+      "ipa": "ə ˈwэлкəм ˈчæлəндж",
+      "spell": "a welcome challenge"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стоящее усилие",
+      "ipa": "ə ˈwɜрˈθwайл ˈэфəрт",
+      "spell": "a worthwhile effort"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по пути",
+      "ipa": "əˈлɔŋ ðə wэй",
+      "spell": "along the way"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "легкодоступная тропа",
+      "ipa": "əн æкˈсэсəбəл трэйл",
+      "spell": "an accessible trail"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "извержение",
+      "ipa": "əн ˌɪˈрʌпшəн",
+      "spell": "an eruption"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бодрящий пеший поход",
+      "ipa": "əн ɪгˈзɪлəˌрэйтɪŋ hайк",
+      "spell": "an exhilarating hike"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ледяная шапка (горы)",
+      "ipa": "əн айс кæп",
+      "spell": "an ice cap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ледоруб",
+      "ipa": "əн айс пɪк",
+      "spell": "an ice pick"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наблюдатель (за экзаменующимися)",
+      "ipa": "əн ɪнˈвɪджɪлэйтəр",
+      "spell": "an invigilator"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сложные условия",
+      "ipa": "ˈчæлəнджɪŋ кəнˈдɪшəнз",
+      "spell": "challenging conditions"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что бы ни случилось",
+      "ipa": "кʌм wɑт мэй",
+      "spell": "come what may"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "восемь часов всего",
+      "ipa": "эйт ˈауəрз ˌɔлтəˈгэðəр",
+      "spell": "eight hours altogether"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "электричество",
+      "ipa": "ɪˌлэкˈтрɪсəти",
+      "spell": "electricity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вулканы Европы",
+      "ipa": "ˈйʊрəпс вɑлˈкэйноуз",
+      "spell": "Europe's volcanos"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "для галочки",
+      "ipa": "фор формз сэйк",
+      "spell": "for form's sake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в любом случае",
+      "ipa": "ɪн ˈэни ɪˈвэнт",
+      "spell": "in any event"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это простая формальность",
+      "ipa": "ɪтс ə мɪр форˈмæлəти",
+      "spell": "it's a mere formality"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мягкая погода",
+      "ipa": "майлд ˈwэðəр",
+      "spell": "mild weather"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой старший сын",
+      "ipa": "май ˈоулдəр сʌн",
+      "spell": "my older son"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой сын",
+      "ipa": "май сʌн",
+      "spell": "my son"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "один раз",
+      "ipa": "wʌн тайм",
+      "spell": "one time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "независимо от результата",
+      "ipa": "рəˈгɑрдлəс ʌв ðи ˈаутˌкʌм",
+      "spell": "regardless of the outcome"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "палящая жара",
+      "ipa": "ˈскорчɪŋ hит",
+      "spell": "scorching heat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что-то, что может быть с этим связано",
+      "ipa": "ˈсʌмθɪŋ ðæт кʊд рɪˈлэйт ту ðæт",
+      "spell": "something that could relate to that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пожилые люди",
+      "ipa": "ðи ˈэлдəрли",
+      "spell": "the elderly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "окружающая среда",
+      "ipa": "ðи ɪнˈвайрəнмəнт",
+      "spell": "the environment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вершина (горы)",
+      "ipa": "ðə ˈсʌмəт (æз ɪн ʌв ðə ˈмаунтəн)",
+      "spell": "the summit (as in of the mountain)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они приняли меня",
+      "ipa": "ðэй æкˈсэптɪд ми",
+      "spell": "they accepted me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они одобрили меня",
+      "ipa": "ðэй əˈпрувд ми",
+      "spell": "they approved me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они ничего мне не сказали",
+      "ipa": "ðэй ˈдɪдəнт тэл ми ˈэниˌθɪŋ",
+      "spell": "they didn't tell me anything"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они отличаются друг от друга",
+      "ipa": "ðэй ˈдɪфəр фрʌм ич ˈʌðəр",
+      "spell": "they differ from each other"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они кивнули",
+      "ipa": "ðэй ˈнɑдɪд",
+      "spell": "they nodded"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "круглый год",
+      "ipa": "θруˈаут ðə йɪр",
+      "spell": "throughout the year"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "попытаться сделать это",
+      "ipa": "ту əˈтэмпт ɪт",
+      "spell": "to attempt it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быть в курсе",
+      "ipa": "ту би əˈwэр",
+      "spell": "to be aware"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зубрить перед экзаменом",
+      "ipa": "ту крæм фор əн ɪгˈзæм",
+      "spell": "to cram for an exam"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "делать что-то ещё",
+      "ipa": "ту ду ˈсʌмθɪŋ элс",
+      "spell": "to do something else"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "извергаться",
+      "ipa": "ту ɪˈрʌпт",
+      "spell": "to erupt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заполнить должность кем угодно",
+      "ipa": "ту фɪл ə пəˈзɪшəн wɪð ˈэнибəди",
+      "spell": "to fill a position with anybody"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обращать на меня внимание",
+      "ipa": "ту пэй əˈтэншəн ту ми",
+      "spell": "to pay attention to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проверить свой предел",
+      "ipa": "ту тэст йʊəр ˈлɪмəт",
+      "spell": "to test your limit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "работать правильно",
+      "ipa": "ту wɜрк ˈпрɑпəрли",
+      "spell": "to work properly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какой проходной балл?",
+      "ipa": "wʌтс ðə ˈпæсɪŋ скор",
+      "spell": "what's the passing score"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что бы ни случилось",
+      "ipa": "ˌwʌˈтэвəр ˈhæпəнз",
+      "spell": "whatever happens"
+    }
+  ]
 }
