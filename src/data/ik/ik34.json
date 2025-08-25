@@ -1,0 +1,261 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "number": 34,
+  "date": "2025-08-24",
+  "period": "week",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кепка",
+   "ipa": "ə кæп",
+   "spell": "a cap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "брелок",
+   "ipa": "ə ки чэйн",
+   "spell": "a key chain"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "карта",
+   "ipa": "ə мæп",
+   "spell": "a map"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мать",
+   "ipa": "ə ˈмʌðəр",
+   "spell": "a mother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кружка",
+   "ipa": "ə мʌг",
+   "spell": "a mug"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "открытка",
+   "ipa": "ə ˈпоустˌкɑрд",
+   "spell": "a postcard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сувенир",
+   "ipa": "ə ˌсувəˈнɪр",
+   "spell": "a souvenir"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "футболка",
+   "ipa": "ə ти-щɜрт",
+   "spell": "a T-shirt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "игрушка",
+   "ipa": "ə той",
+   "spell": "a toy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здесь",
+   "ipa": "hир",
+   "spell": "here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько стоят те часы?",
+   "ipa": "hау мʌч ɑр ðоуз ˈwɑчəз?",
+   "spell": "how much are those watches?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько стоит эта кружка?",
+   "ipa": "hау мʌч ɪз ðɪс мʌг?",
+   "spell": "how much is this mug?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я расслаблялся",
+   "ipa": "ай дɪд рɪˈлæкс",
+   "spell": "I did relax"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я работал",
+   "ipa": "ай дɪд wɜрк",
+   "spell": "I did work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я буду расслабляться",
+   "ipa": "ай wɪл рɪˈлæкс",
+   "spell": "I will relax"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я буду работать",
+   "ipa": "ай wɪл wɜрк",
+   "spell": "I will work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "много",
+   "ipa": "мʌч",
+   "spell": "much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здесь",
+   "ipa": "ˈоувəр hир",
+   "spell": "over here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "там",
+   "ipa": "ˈоувəр ðэр",
+   "spell": "over there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "солнцезащитные очки",
+   "ipa": "ˈсʌнˌглæсɪз",
+   "spell": "sunglasses"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "та машина",
+   "ipa": "ðæт кɑр",
+   "spell": "that car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "та мать",
+   "ipa": "ðæт ˈмʌðəр",
+   "spell": "that mother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "там",
+   "ipa": "ðэр",
+   "spell": "there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эти машины",
+   "ipa": "ðиз кɑрз",
+   "spell": "these cars"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эти матери",
+   "ipa": "ðиз ˈмʌðəрз",
+   "spell": "these mothers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они стоят двадцать долларов",
+   "ipa": "ðэй ɑр ˈтwэнти ˈдɑлəрз",
+   "spell": "they are twenty dollars"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эта машина",
+   "ipa": "ðɪс кɑр",
+   "spell": "this car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "эта мать",
+   "ipa": "ðɪс ˈмʌðəр",
+   "spell": "this mother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "те машины",
+   "ipa": "ðоуз кɑрз",
+   "spell": "those cars"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "те матери",
+   "ipa": "ðоуз ˈмʌðəрз",
+   "spell": "those mothers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень много",
+   "ipa": "ˈвэри мʌч",
+   "spell": "very much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это? (близко, мн.ч.)",
+   "ipa": "wɑт ɑр ðиз?",
+   "spell": "what are these?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что то? (далеко, мн.ч.)",
+   "ipa": "wɑт ɑр ðоуз?",
+   "spell": "what are those?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это? (далеко, ед.ч.)",
+   "ipa": "wɑт ɪз ðæт?",
+   "spell": "what is that?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это? (близко, ед.ч.)",
+   "ipa": "wɑт ɪз ðɪс?",
+   "spell": "what is this?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это там?",
+   "ipa": "wʌтс ðæт ˈоувəр ðэр?",
+   "spell": "what’s that over there?"
+ }
+]
+}
