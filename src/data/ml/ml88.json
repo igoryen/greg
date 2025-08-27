@@ -1,0 +1,835 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "number": 88,
+  "date": "2025-08-22",
+  "period": "lesson",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "биосфера, экосфера",
+   "ipa": "ə ˈбайоуˌсфɪр, əн ˈикоуˌсфɪр",
+   "spell": "a biosphere, an ecosphere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трость-зонт",
+   "ipa": "ə кэйн əмˈбрэлə",
+   "spell": "a cane umbrella"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коробка передач",
+   "ipa": "ə ˈгɪрˌбɑкс",
+   "spell": "a gearbox"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пистолет",
+   "ipa": "ə hæнд гʌн",
+   "spell": "a hand gun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гипотетический вопрос",
+   "ipa": "ə ˌhайпəˈθэтəкəл ˈкwэсчəн",
+   "spell": "a hypothetical question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в библиотеке хранятся книги",
+   "ipa": "ə ˈлайˌбрэри hоулдз бʊкс",
+   "spell": "a library holds books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "маньяк",
+   "ipa": "ə ˈмэйниˌæк",
+   "spell": "a maniac"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мембрана",
+   "ipa": "ə ˈмэмˌбрэйн",
+   "spell": "a membrane"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тихий милый городок",
+   "ipa": "ə найс ˈкwайəт таун",
+   "spell": "a nice quiet town"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поцарапанное лицо",
+   "ipa": "ə скрæчт фэйс",
+   "spell": "a scratched face"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "незнакомец",
+   "ipa": "ə ˈстрэйнджəр",
+   "spell": "a stranger"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каверзный вопрос",
+   "ipa": "ə трɪк ˈкwэсчəн",
+   "spell": "a trick question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "двусторонняя рация",
+   "ipa": "ə ту-wэй ˈрэйдиˌоу",
+   "spell": "a two-way radio"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "стена из камня",
+   "ipa": "ə wɔл мэйд ʌв стоун",
+   "spell": "a wall made of stone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "метеорологическая тренировка",
+   "ipa": "ə ˈwэðəр дрɪл",
+   "spell": "a weather drill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приложение (программное обеспечение)",
+   "ipa": "əн ˌæплəˈкэйшəн (ˈсɔфˌтwэр)",
+   "spell": "an application (software)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "низменность",
+   "ipa": "əн ˈэриə ʌв лоу граунд",
+   "spell": "an area of low ground"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "злоумышленник",
+   "ipa": "əн ɪнˈтрудəр",
+   "spell": "an intruder"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в то время",
+   "ipa": "æт ðæт тайм",
+   "spell": "at that time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в три сорок",
+   "ipa": "æт θри ˈфорти",
+   "spell": "at three forty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бактерии - это живые организмы",
+   "ipa": "бæкˈтɪриə ɑр ˈлɪвɪŋ ˈоргəˌнɪзəмз",
+   "spell": "bacteria are living organisms"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дети теряют самообладание",
+   "ipa": "ˈчɪлдрəн луз кəнˈтроул ʌв ðэмˈсэлвз",
+   "spell": "children lose control of themselves"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ночью",
+   "ipa": "ˈдʊрɪŋ ðə найт",
+   "spell": "during the night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с 2 дня до 3 дня",
+   "ipa": "фрʌм 2 ˈпиˈэм əнˈтɪл 3 ˈпиˈэм",
+   "spell": "from 2 PM until 3 PM"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "руки на плечах",
+   "ipa": "hæндз ɑн ðə ˈшоʊлдəрз",
+   "spell": "hands on the shoulders"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он жаловался на неё",
+   "ipa": "hи кəмˈплэйнд əˈбаут hɜр",
+   "spell": "he complained about her"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он закрыл ей рот рукой",
+   "ipa": "hи ˈкʌвəрд hɜр мауθ wɪð hɪз hæнд",
+   "spell": "he covered her mouth with his hand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он убежал",
+   "ipa": "hи рæн əˈwэй",
+   "spell": "he ran away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он споткнулся и упал",
+   "ipa": "hи трɪпт æнд фэл",
+   "spell": "he tripped and fell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он истекал кровью",
+   "ipa": "hи wʌз ˈблидɪŋ ɔл ˈоувəр",
+   "spell": "he was bleeding all over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я развиваюсь",
+   "ipa": "ай æм дɪˈвэлəпɪŋ",
+   "spell": "I am developing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я безоружен",
+   "ipa": "ай æм əˈнɑрмд",
+   "spell": "I am unarmed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я плохо спал прошлой ночью",
+   "ipa": "ай ˈдɪдəнт слип wэл лæст найт",
+   "spell": "I didn’t sleep well last night"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не помню, чтобы это когда-либо работало",
+   "ipa": "ай доунт рɪˈмэмбəр ɪт ˈэвəр ˈwɜркɪŋ",
+   "spell": "I don't remember it ever working"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не думаю, что он придёт",
+   "ipa": "ай доунт θɪŋк hи wʊд кʌм",
+   "spell": "I don't think he would come"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я сильно продвинулся",
+   "ipa": "ай hæв прəˈгрэст мʌч",
+   "spell": "I have progressed much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я сворачиваюсь в клубок",
+   "ipa": "ай мэйк ˌмайˈсэлф ˈɪнту ə бɔл",
+   "spell": "I make myself into a ball"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я прогрессирую",
+   "ipa": "ай ˈпрɑˌгрэс",
+   "spell": "I progress"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я попал в грозу",
+   "ipa": "ай wʌз кɑт ɪн ə ˈθʌндəрˌсторм",
+   "spell": "I was caught in a thunderstorm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я был напряжён",
+   "ipa": "ай wʌз тэнс",
+   "spell": "I was tense"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не буду прятаться под деревом",
+   "ipa": "ай wɪл нɑт ˈщэлтəр ˈʌндəр ə три",
+   "spell": "I will not shelter under a tree"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я бы испугался",
+   "ipa": "ай wʊд би ˈтэрəˌфайд",
+   "spell": "I would be terrified"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в двух словах",
+   "ipa": "ɪн ə ˈнʌтˌщэл",
+   "spell": "in a nutshell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в сентябре",
+   "ipa": "ɪн сэпˈтэмбəр",
+   "spell": "in September"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в таких случаях",
+   "ipa": "ɪн сʌч ˈкэйсəз",
+   "spell": "in such cases"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это вызывает растрескивание льда",
+   "ipa": "ɪт ˈкɑзəз ðи айс ту брэйк",
+   "spell": "it causes the ice to break"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно содержит ядро",
+   "ipa": "ɪт кəнˈтэйнз ə ˈнуклиəс",
+   "spell": "it contains a nucleus"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это маленький городок",
+   "ipa": "ɪтс ə смɔл таун",
+   "spell": "it's a small town"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "успокойся",
+   "ipa": "кип йʊəр щɜрт ɑн",
+   "spell": "keep your shirt on"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запрись в комнате",
+   "ipa": "лɑк йəрˈсэлф ɪн ə рум",
+   "spell": "lock yourself in a room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на девятом этаже",
+   "ipa": "ɑн ðə найнθ флор",
+   "spell": "on the ninth floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "искатели ищут их",
+   "ipa": "ˈсɜрчəрз лʊк фор ðэм",
+   "spell": "searchers look for them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "семьдесят квадратных метров",
+   "ipa": "ˈсэвəнти скwэр ˈмитəрз",
+   "spell": "seventy square meters"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она носит перцовый баллончик",
+   "ipa": "щи ˈкæриз ˈпэпəр спрэй",
+   "spell": "she carries pepper spray"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она продолжала бить его",
+   "ipa": "щи кэпт ˈhɪтɪŋ hɪм",
+   "spell": "she kept hitting him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она работала в ресторане",
+   "ipa": "щи wɜркт æт ə ˈрэстəˌрɑнт",
+   "spell": "she worked at a restaurant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она приходила бы домой",
+   "ipa": "щи wʊд кʌм hоум",
+   "spell": "she would come home"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "су-шеф",
+   "ipa": "суз-щэф",
+   "spell": "sous-chef"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в этом суть",
+   "ipa": "ðæтс ðə hɑрт ʌв ɪт",
+   "spell": "thats the heart of it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лифт",
+   "ipa": "ðи ˈэлəˌвэйтəр",
+   "spell": "the elevator"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молния ударяет",
+   "ipa": "ðə ˈлайтнɪŋ страйкс",
+   "spell": "the lightning strikes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "самый лучший совет",
+   "ipa": "ðə ˈнʌмбəр wʌн тɪп",
+   "spell": "the number one tip"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лёгкая мишень",
+   "ipa": "ðə ˈсɪтɪŋ дʌк",
+   "spell": "the sitting duck"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их привычки",
+   "ipa": "ðэр ˈhæбəтс",
+   "spell": "their habits"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет сигнала сотовой связи",
+   "ipa": "ðэр ɪз ноу сэл фоун ˈсɪгнəл",
+   "spell": "there is no cell phone signal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они могут объединиться в одну клетку",
+   "ipa": "ðэй кæн кəмˈбайн ту форм ə ˈсɪŋгəл сэл",
+   "spell": "they can combine to form a single cell"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они могли бы его опознать",
+   "ipa": "ðэй кʊд айˈдэнтəˌфай hɪм",
+   "spell": "they could identify him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они зависят от растений",
+   "ipa": "ðэй дɪˈпэнд ɑн ðə плæнтс",
+   "spell": "they depend on the plants"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у них может быть оружие",
+   "ipa": "ðэй мэй hæв ə ˈwэпəн",
+   "spell": "they may have a weapon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "те, кто был на дежурстве",
+   "ipa": "ðоуз hу wɜр ɑн ˈдути",
+   "spell": "those who were on duty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бросать оборудование",
+   "ipa": "ту əˈбæндəн ɪˈкwɪпмəнт",
+   "spell": "to abandon equipment"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "привлекать внимание",
+   "ipa": "ту əˈтрæкт əˈтэншəн",
+   "spell": "to attract attention"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "быть погребённым в лавине",
+   "ipa": "ту би ˈбэрид ɪн əн ˈæвəˌлæнч",
+   "spell": "to be buried in an avalanche"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "преследовать парня",
+   "ipa": "ту чэйс ðə гай",
+   "spell": "to chase the guy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "противостоять маньяку",
+   "ipa": "ту кəнˈфрʌнт ðə ˈмэйниˌæк",
+   "spell": "to confront the maniac"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сворачиваться в клубок",
+   "ipa": "ту кɜрл ˈɪнту ə бɔл",
+   "spell": "to curl into a ball"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "защищаться",
+   "ipa": "ту дɪˈфэнд йəрˈсэлф",
+   "spell": "to defend yourself"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "делиться на два",
+   "ipa": "ту дɪˈвайд ˈɪнту ту",
+   "spell": "to divide into two"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "провалиться под лёд в озере",
+   "ipa": "ту фɔл θру айс ˈɪнту ə лэйк",
+   "spell": "to fall through ice into a lake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сливаться",
+   "ipa": "ту фъюз",
+   "spell": "to fuse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "собираться в спортзале",
+   "ipa": "ту ˈгæðəр ɪн ðə джɪм",
+   "spell": "to gather in the gym"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добраться до поверхности",
+   "ipa": "ту гэт ту ðə ˈсɜрфəс",
+   "spell": "to get to the surface"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "собираться с семьёй",
+   "ipa": "ту гэт тəˈгэðəр wɪð ˈауəр ˈфæмəли",
+   "spell": "to get together with our family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "помогать держаться на плаву",
+   "ipa": "ту hэлп ю ту флоут",
+   "spell": "to help you to float"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прятаться",
+   "ipa": "ту hайд",
+   "spell": "to hide"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заражать",
+   "ipa": "ту ɪнˈфэкт",
+   "spell": "to infect"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вторгаться",
+   "ipa": "ту ɪнˈтруд",
+   "spell": "to intrude"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "изолироваться от них",
+   "ipa": "ту ˈайсəˌлэйт ðэмˈсэлвз фрʌм ðэм",
+   "spell": "to isolate themselves from them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "держаться на плаву",
+   "ipa": "ту кип əˈфлоут",
+   "spell": "to keep afloat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "объединяться",
+   "ipa": "ту мɜрдж",
+   "spell": "to merge"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "размножаться",
+   "ipa": "ту ˈмʌлтəˌплай",
+   "spell": "to multiply"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ставить на тормоз",
+   "ipa": "ту пʊт ɑн ə брэйк",
+   "spell": "to put on a break"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кататься на лыжах вне трасс",
+   "ipa": "ту ски аут ʌв баундз",
+   "spell": "to ski out of bounds"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оставаться на открытом пространстве",
+   "ipa": "ту стэй ɪн ðи ˈоупəн",
+   "spell": "to stay in the open"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подать на них в суд",
+   "ipa": "ту су ðэм",
+   "spell": "to sue them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подводить итог",
+   "ipa": "ту сʌм ʌп",
+   "spell": "to sum up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "протиснуть своё тело",
+   "ipa": "ту θрʌст йʊəр ˈбɑди θру",
+   "spell": "to thrust your body through"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выиграть в суде",
+   "ipa": "ту wɪн ɪн корт",
+   "spell": "to win in court"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расслабляться, сбавлять обороты",
+   "ipa": "ту wɪнд даун",
+   "spell": "to wind down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пока гости не будут готовы уйти",
+   "ipa": "əнˈтɪл ðə гэстс ɑр ˈрэди ту лив",
+   "spell": "until the guests are ready to leave"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "учение по землетрясению",
+   "ipa": "əн ˈɜрθˌкwэйк дрɪл",
+   "spell": "an earthquake drill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "учение по готовности к суровой погоде",
+   "ipa": "ə сəˈвɪр ˈwэðəр приˈпэрəднəс дрɪл",
+   "spell": "a severe weather preparedness drill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один наш родственник",
+   "ipa": "ə ˈрэлəтɪв ʌв ˈауəрз",
+   "spell": "a relative of ours"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты когда-нибудь занимался экстремальным спортом?",
+   "ipa": "hæв ю ˈэвəр дʌн ə ˈдэйнджəрəс спорт?",
+   "spell": "have you ever done a dangerous sport?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты когда-нибудь летал на дальние расстояния?",
+   "ipa": "hæв ю ˈэвəр флоун лɔŋ-hɔл?",
+   "spell": "have you ever flown long-haul?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он киноман",
+   "ipa": "hиз ə ˈсɪнəˌфайл",
+   "spell": "he's a cinephile"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я летел ночным рейсом",
+   "ipa": "ай флу ˈоувəрˈнайт",
+   "spell": "I flew overnight"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это было довольно скоро после моего приезда туда",
+   "ipa": "ɪт wʌз кwайт сун ˈɪнту май стэй ðэр",
+   "spell": "it was quite soon into my stay there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "для галочки",
+   "ipa": "джʌст ту чэк ə бɑкс",
+   "spell": "just to check a box"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в основном потому что",
+   "ipa": "ˈмоустли бɪˈкɔз",
+   "spell": "mostly because"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на эту тему",
+   "ipa": "ɑн ðɪс ˈтɑпɪк / ˈсʌбджɪкт",
+   "spell": "on this topic / subject"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дальний перелёт",
+   "ipa": "ðæтс лɔŋ-hɔл",
+   "spell": "that's long-haul"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они проводят учения",
+   "ipa": "ðэй hæв дрɪлз",
+   "spell": "they have drills"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отказать ей в OSAP",
+   "ipa": "ту дɪˈнай hɜр оу-эс-эй-пи ˌæплəˈкэйшəн",
+   "spell": "to deny her OSAP application"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "читать в печатном виде",
+   "ipa": "ту рид ɪн прɪнт",
+   "spell": "to read in print"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "читать онлайн",
+   "ipa": "ту рид ˈɔнˌлайн",
+   "spell": "to read online"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оставаться в помещении",
+   "ipa": "ту стэй ˈɪнˌдорз",
+   "spell": "to stay indoors"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закрыть глаза на это",
+   "ipa": "ту тɜрн ə блайнд ай ту ðæт",
+   "spell": "to turn a blind eye to that"
+ }
+]
+}
