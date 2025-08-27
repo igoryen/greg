@@ -1,5 +1,8 @@
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import DraggableSentenceGame from "./DraggableSentenceGame";
+import { useEffect, useState } from "react";
+
 import Layout from "./pages/Layout/Layout";
 import Home from "./pages/Home";
 
@@ -291,9 +294,47 @@ import Uenba from "./pages/Uenba";
 import Tim from "./pages/Tim";
 import NoPage from "./pages/NoPage";
 
+
+function LessonList() {
+  const [lessons, setLessons] = useState([]);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    async function fetchManifest() {
+      try {
+        const res = await fetch("/data/cnici/manifest.json");
+        if (!res.ok) throw new Error("Could not load manifest");
+        const data = await res.json();
+        setLessons(data);
+      } catch (e) {
+        setError(e.message);
+      }
+    }
+    fetchManifest();
+  }, []);
+
+  if (error) return <div>Error: {error}</div>;
+  if (!lessons.length) return <div>Loading lessons...</div>;
+
+  return (
+    <div style={{ padding: "20px" }}>
+      <h2>Available Lessons</h2>
+      <ul>
+        {lessons.map((lesson) => (
+          <li key={lesson}>
+            <Link to={`/cnici/${lesson}`}>{lesson}</Link>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+
+
 export default function App() {
   return (
-    <BrowserRouter>
+    <Router>
       <Routes>
 
         <Route path="/" element={<Layout />}>
@@ -348,6 +389,10 @@ export default function App() {
           <Route path="as03" element={<AS03 />} />
           <Route path="as06" element={<AS06 />} />
           <Route path="as07" element={<AS07 />} />
+
+          <Route path="/cnici" element={<LessonList />} />
+          <Route path="/cnici/:fileId" element={<DraggableSentenceGame />} />
+
 
           <Route path="cnicro" element={<Cnicro />} />
 
@@ -585,7 +630,7 @@ export default function App() {
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 }
 
