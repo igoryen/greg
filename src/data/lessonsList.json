@@ -69,6 +69,11 @@
   ],
   "af": [
     {
+      "number": 6,
+      "date": "2025-08-22",
+      "period": "lesson"
+    },
+    {
       "number": 5,
       "date": "2025-08-20",
       "period": "lesson"
@@ -102,6 +107,11 @@
   "ag": [],
   "as": [],
   "dk": [
+    {
+      "number": 14,
+      "date": "2025-08-22",
+      "period": "lesson"
+    },
     {
       "number": 13,
       "date": "2025-08-18",
