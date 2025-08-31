@@ -27,15 +27,20 @@ function generateLessonsList() {
                 return; // skip if student is missing
             }
 
+            // extract number from filename (last 2 digits before .json)
+            const match = file.match(/(\d+)\.json$/);
+            const fileNumber = match ? parseInt(match[1], 10) : null;
+
             lessonsList[student].push({
-                number: jsonData.number,
+                number: jsonData.number,      // from inside JSON
+                fileNumber,                   // from filename
                 date: jsonData.date,
-                period: jsonData.period || "lesson" // fallback in case period is missing
+                period: jsonData.period || "lesson"
             });
         });
 
-        // sort descending by number
-        lessonsList[student].sort((a, b) => b.number - a.number);
+        // 🔽 sort descending by fileNumber
+        lessonsList[student].sort((a, b) => b.fileNumber - a.fileNumber);
     });
 
     fs.writeFileSync(outputFile, JSON.stringify(lessonsList, null, 2), "utf-8");

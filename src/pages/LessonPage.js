@@ -1,24 +1,25 @@
 import { useParams, Link } from "react-router-dom";
-// import Leon from "../components/Leon";
 import Mathilda from "../components/Mathilda";
 import { useEffect, useState } from "react";
 
 function LessonPage() {
-    const { slug, number } = useParams();
+    const { slug, number } = useParams(); // "number" is the fileNumber from URL
     const [lessonData, setLessonData] = useState(null);
     const [words, setWords] = useState([]);
 
     useEffect(() => {
         const loadLesson = async () => {
             try {
-                const lesson = await import(`../data/${slug}/${slug}${number.padStart(2, '0')}.json`);
+                // 🔽 Load file by fileNumber (zero-padded)
+                const lesson = await import(`../data/${slug}/${slug}${number.padStart(2, "0")}.json`);
 
                 setLessonData({
                     student: lesson.student,
                     slug: lesson.slug,
-                    number: lesson.number,
+                    number: lesson.number,   // lesson number from inside JSON
+                    fileNumber: number,      // keep fileNumber from URL
                     date: lesson.date,
-                    period: lesson.period || "lesson"  // fallback if missing
+                    period: lesson.period || "lesson"
                 });
                 setWords(lesson.words);
             } catch (err) {
@@ -34,17 +35,19 @@ function LessonPage() {
     const periodLabel = lessonData.period.charAt(0).toUpperCase() + lessonData.period.slice(1);
 
     // 🔽 Show only year if period === "week"
-    const displayDate = lessonData.period === "week" && lessonData.date
-        ? new Date(lessonData.date).getFullYear()
-        : lessonData.date;
+    const displayDate =
+        lessonData.period === "week" && lessonData.date
+            ? new Date(lessonData.date).getFullYear()
+            : lessonData.date;
 
     return (
         <div className="pelli">
             <div className="linus">
                 <Link to={`/student/${slug}`}>{lessonData.student}</Link>
             </div>
-            <h2>{periodLabel} {lessonData.number}: {displayDate}</h2>
-            {/* <Leon lesson={lessonData} /> */}
+            <h2>
+                {periodLabel} {lessonData.number}: {displayDate}
+            </h2>
             <Mathilda words={words} lesnum={lessonData.number} />
         </div>
     );

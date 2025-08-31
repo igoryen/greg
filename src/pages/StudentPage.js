@@ -8,8 +8,8 @@ function StudentPage() {
 
     const studentLessons = lessons[slug] || [];
 
-    const handleClick = (lessonNumber) => {
-        navigate(`/student/${slug}/lesson/${lessonNumber}`);
+    const handleClick = (fileNumber) => {
+        navigate(`/student/${slug}/lesson/${fileNumber}`);
     };
 
     // temporary while old pages exist (250714)
@@ -37,22 +37,22 @@ function StudentPage() {
                     const periodLabel = (lesson.period || "lesson")
                         .charAt(0).toUpperCase() + (lesson.period || "lesson").slice(1);
 
-                    // 🔽 if period === "week", display only the year from lesson.date
                     const displayDate = lesson.period === "week" && lesson.date
                         ? new Date(lesson.date).getFullYear()
                         : lesson.date;
 
                     return (
                         <button
-                            key={lesson.number}
-                            onClick={() => handleClick(lesson.number)}
+                            key={lesson.fileNumber}
+                            onClick={() => handleClick(String(lesson.fileNumber).padStart(2, '0'))}
                         >
                             <div className="session">{periodLabel}</div>
-                            <div className="number">{lesson.number}</div>
+                            <div className="number">{lesson.number}</div> {/* from JSON */}
                             <div className="date">{displayDate}</div>
                         </button>
                     );
                 })}
+
             </div>
         </div>
     );
