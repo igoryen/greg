@@ -1,0 +1,583 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "number": 35,
+  "date": "2025-08-28",
+  "period": "week",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "автомобильная авария",
+   "ipa": "ə кɑр ˈæксəдəнт",
+   "spell": "a car accident"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "таракан",
+   "ipa": "ə ˈкɑˌкроуч",
+   "spell": "a cockroach"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "видеорегистратор",
+   "ipa": "ə ˈдæшˌкæм",
+   "spell": "a dashcam"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неудача",
+   "ipa": "ə фэйл",
+   "spell": "a fail"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "светлая кожа",
+   "ipa": "ə фэр скɪн",
+   "spell": "a fair skin"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "загар фермера (только руки и шея)",
+   "ipa": "ə ˈфɑрмəрз тæн",
+   "spell": "a farmer's tan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "духи",
+   "ipa": "ə ˈпɜрфъюм",
+   "spell": "a perfume"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рутина",
+   "ipa": "ə руˈтин",
+   "spell": "a routine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "солярий",
+   "ipa": "ə ˈсʌнˌбэд",
+   "spell": "a sunbed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "загар",
+   "ipa": "ə тæн",
+   "spell": "a tan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тонна",
+   "ipa": "ə тʌн",
+   "spell": "a ton"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полный провал!",
+   "ipa": "ə ˈтоутəл дɪˈзæстəр!",
+   "spell": "a total disaster!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "письменный тест",
+   "ipa": "ə ˈрɪтəн тэст",
+   "spell": "a written test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "до того как тебе исполнится восемнадцать",
+   "ipa": "бɪˈфор ю ɑр эйˈтин",
+   "spell": "before you are eighteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пригласить тебя на ужин ко мне домой?",
+   "ipa": "кæн ай ɪнˈвайт ю ту ˈдɪнəр æт май hаус?",
+   "spell": "can I invite you to dinner at my house?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можете ли вы мне дать ваши водительские права, пожалуйста?",
+   "ipa": "кæн ю гɪв ми йʊəр ˈдрайвəрз ˈлайсəнс, плиз?",
+   "spell": "can you give me your driver's license, please?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "праздновать хорошие времена",
+   "ipa": "ˈсэлəˌбрэйт гʊд таймз",
+   "spell": "celebrate good times"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мог (в прошлом)",
+   "ipa": "кʊд",
+   "spell": "could"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мог бы",
+   "ipa": "кʊд",
+   "spell": "could"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно мне X, пожалуйста?",
+   "ipa": "кʊд ай гэт экс плиз?",
+   "spell": "could I get X please?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно мне салфетку?",
+   "ipa": "кʊд ай hæв ə ˈнæпкɪн?",
+   "spell": "could I have a napkin?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно мне X, пожалуйста?",
+   "ipa": "кʊд ай hæв экс плиз?",
+   "spell": "could I have X please?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно мне ваши водительские права, пожалуйста?",
+   "ipa": "кʊд ай hæв йʊəр ˈдрайвəрз ˈлайсəнс, плиз?",
+   "spell": "could I have your driver’s license, please?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя когда-нибудь была автомобильная авария?",
+   "ipa": "дɪд ю ˈэвəр hæв ə кɑр ˈæксəдəнт?",
+   "spell": "did you ever have a car accident?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она сдает?",
+   "ipa": "дʌз щи пæс?",
+   "spell": "does she pass?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вождение",
+   "ipa": "ˈдрайвɪŋ",
+   "spell": "driving"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по разным ценам",
+   "ipa": "фор ˈдɪфəрəнт ˈпрайсəз",
+   "spell": "for different prices"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "конечно",
+   "ipa": "фор щʊр",
+   "spell": "for sure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сорок семь процентов",
+   "ipa": "ˈфoрти ˈсэвəн пəрˈсэнт",
+   "spell": "forty seven percent"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он создает драму",
+   "ipa": "hи криˈэйтс ˈдрɑмə",
+   "spell": "he creates drama"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он меня бесит",
+   "ipa": "hи ˈпɪсɪз ми ɔф",
+   "spell": "he pisses me off"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он переигрывал",
+   "ipa": "hи wʌз ˈоувəˌрæктɪŋ",
+   "spell": "he was overacting"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он немного глуповат",
+   "ipa": "hиз ə бɪт ʌв ə фул",
+   "spell": "he's a bit of a fool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как долго",
+   "ipa": "hау лɔŋ",
+   "spell": "how long"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я занят тем, что ничего не делаю",
+   "ipa": "ай æм ˈбɪзи ˈдуɪŋ ˈнʌθɪŋ",
+   "spell": "I am busy doing nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я очень нервничаю",
+   "ipa": "ай æм ˈвэри ˈнɜрвəс",
+   "spell": "I am very nervous"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу только представить",
+   "ipa": "ай кæн ˈоунли ɪˈмæджəн",
+   "spell": "I can only imagine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу его объяснить",
+   "ipa": "ай кæнт ɪкˈсплэйн hɪм",
+   "spell": "I can't explain him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу представить, как будет выглядеть моя жизнь в пятьдесят",
+   "ipa": "ай кæнт ɪˈмæджəн wɑт май лайф wɪл би лайк wэн айм ˈфɪфти",
+   "spell": "I can't imagine what my life will be like when I'm fifty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу просто ничего не делать",
+   "ipa": "ай кæнт джʌст ду ˈнʌθɪŋ",
+   "spell": "I can't just do nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я решил",
+   "ipa": "ай ˌдɪˈсайдɪд",
+   "spell": "I decided"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хорошо поработал",
+   "ipa": "ай дɪд ə гʊд джɑб",
+   "spell": "I did a good job"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я так не думал",
+   "ipa": "ай дɪд нɑт θɪŋк лайк ðɪс",
+   "spell": "I did not think like this"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не знаю как",
+   "ipa": "ай доунт ноу hау",
+   "spell": "I don't know how"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я чувствую жару",
+   "ipa": "ай фил ðə hит",
+   "spell": "I feel the heat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я получил членство",
+   "ipa": "ай гɑт ə ˈмэмбəрˌщɪп",
+   "spell": "I got a membership"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я обгорел на солнце",
+   "ipa": "ай гɑт бɜрнд бай ðə сʌн",
+   "spell": "I got burned by the sun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне никогда не нужны были водительские права",
+   "ipa": "ай hæв ˈнэвəр ˈнидɪд ə ˈдрайвəрз ˈлайсəнс",
+   "spell": "I have never needed a driver’s license"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я всегда должен хорошо выглядеть",
+   "ipa": "ай мʌст ˈɔлˌwэйз лʊк гʊд",
+   "spell": "I must always look good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне нужен загар",
+   "ipa": "ай нид ə тæн",
+   "spell": "I need a tan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я пытаюсь остановить время",
+   "ipa": "ай трай ту стɑп ðə тайм",
+   "spell": "I try to stop the time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вошел",
+   "ipa": "ай wэнт ɪн",
+   "spell": "I went in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно не запирается",
+   "ipa": "ɪт ˈдʌзəнт лɑк",
+   "spell": "it doesn't lock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у него есть вентиляторы",
+   "ipa": "ɪт hæз фæнз",
+   "spell": "it has fans"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это совсем не проблема",
+   "ipa": "ɪтс нɑт ə ˈпрɑблəм æт ɔл",
+   "spell": "it's not a problem at all"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на всякий случай",
+   "ipa": "джʌст ɪн кэйс",
+   "spell": "just in case"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давайте пока сделаем так",
+   "ipa": "лэтс ду ðɪс фор нау",
+   "spell": "let's do this for now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сделай мой день",
+   "ipa": "мэйк май дэй",
+   "spell": "make my day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обязательно нанеси солнцезащитный крем",
+   "ipa": "мэйк щʊр ю əˈплай сəнˈскрин",
+   "spell": "make sure you apply sunscreen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой муж и я",
+   "ipa": "май ˈhʌзбəнд æнд ай",
+   "spell": "my husband and I"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "только когда тебе исполнится восемнадцать",
+   "ipa": "ˈоунли wэн ю ɑр эйˈтин",
+   "spell": "only when you are eighteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "возможный - невозможный",
+   "ipa": "ˈпɑсəбəл - ɪмˈпɑсəбəл",
+   "spell": "possible - impossible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "излучение",
+   "ipa": "ˌрэйдиˈэйшəн",
+   "spell": "radiation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она сказала мне",
+   "ipa": "щи сэд ту ми",
+   "spell": "she said to me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "компот",
+   "ipa": "студ фрут",
+   "spell": "stewed fruit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "главное - хорошо себя чувствовать",
+   "ipa": "ðə мэйн θɪŋ ɪз ту фил гʊд",
+   "spell": "the main thing is to feel good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Великобритания",
+   "ipa": "ðə ю-кэй",
+   "spell": "the UK"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добавлять",
+   "ipa": "ту æд",
+   "spell": "to add"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добавить одну минуту",
+   "ipa": "ту æд wʌн ˈмɪнəт",
+   "spell": "to add one minute"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закрывать",
+   "ipa": "ту клоус",
+   "spell": "to close"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "провалить тест",
+   "ipa": "ту фэйл ə тэст",
+   "spell": "to fail a test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "загореть",
+   "ipa": "ту гэт ə тæн",
+   "spell": "to get a tan"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запирать",
+   "ipa": "ту лɑк",
+   "spell": "to lock"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы нанимаем нового кандидата",
+   "ipa": "wи ˈhайəр ə ну ˈæплɪкəнт",
+   "spell": "we hire a new applicant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы разговаривали",
+   "ipa": "wи тɔкт",
+   "spell": "we talked"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это значит",
+   "ipa": "wɑт дʌз ɪт мин",
+   "spell": "what does it mean"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "без failа (обязательно)",
+   "ipa": "wɪˈθаут фэйл",
+   "spell": "without fail"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не хочешь прийти ко мне на ужин?",
+   "ipa": "wʊд ю лайк ту кʌм ˈоувəр фор ˈдɪнəр?",
+   "spell": "would you like to come over for dinner?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "письменный",
+   "ipa": "ˈрɪтəн",
+   "spell": "written"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нельзя",
+   "ipa": "ю кæнт",
+   "spell": "you can’t"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "здесь нельзя парковаться!",
+   "ipa": "ю кæнт пɑрк hир!",
+   "spell": "you can’t park here!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе нужно быть только восемнадцатилетним",
+   "ipa": "ю ˈоунли нид ту би эйˈтин",
+   "spell": "you only need to be eighteen"
+ }
+]
+}
