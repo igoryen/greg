@@ -1,0 +1,765 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "period": "week",
+  "number": 35,
+  "date": "2025-08-31",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ветка треснула",
+      "ipa": "ə брæнч крæкт",
+      "spell": "a branch cracked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "комок грязи",
+      "ipa": "ə клʌмп ʌв дɜрт",
+      "spell": "a clump of dirt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коммунальная квартира",
+      "ipa": "ə кəмˈюнəл əˈпɑртмəнт",
+      "spell": "a communal apartment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коммунальное убежище",
+      "ipa": "ə кəмˈюнəл ˈщэлтəр",
+      "spell": "a communal shelter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "высокооплачиваемый работник",
+      "ipa": "ə hай ˈɜрнəр",
+      "spell": "a high earner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ягуар",
+      "ipa": "ə ˈджæˌгwɑр",
+      "spell": "a jaguar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "матрас",
+      "ipa": "ə ˈмæтрəс",
+      "spell": "a mattress"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "паразит",
+      "ipa": "ə ˈпэрəˌсайт",
+      "spell": "a parasite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пиранья",
+      "ipa": "ə пɪˈрɑнə",
+      "spell": "a piranha"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ядовитая змея",
+      "ipa": "ə ˈпойзəнəс снэйк",
+      "spell": "a poisonous snake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плот",
+      "ipa": "ə рæфт",
+      "spell": "a raft"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жесткий воротник",
+      "ipa": "ə стɪф ˈкɑлəр",
+      "spell": "a stiff collar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "техника выживания",
+      "ipa": "ə сəрˈвайвəл тэкˈник",
+      "spell": "a survival technique"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "целый ряд техник",
+      "ipa": "ə hоул рэйндж ʌв тэкˈникс",
+      "spell": "a whole range of techniques"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кабан",
+      "ipa": "ə wайлд бор",
+      "spell": "a wild boar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "все прививки",
+      "ipa": "ɔл ðи ˌɪмъюнəˈзэйшəнз",
+      "spell": "all the immunizations"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коренное племя",
+      "ipa": "əн ɪнˈдɪджəнəс трайб",
+      "spell": "an indigenous tribe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "человек, любящий природу",
+      "ipa": "əн ˈаутˈдорз ˈпɜрсəн",
+      "spell": "an outdoors person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как на беду",
+      "ipa": "æз ɪл-лʌк wʊд hæв ɪт",
+      "spell": "as ill-luck would have it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бактерии и паразиты",
+      "ipa": "бæкˈтɪриə æнд ˈпэрəˌсайтс",
+      "spell": "bacteria and parasites"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чистая одежда",
+      "ipa": "клин клоуðз",
+      "spell": "clean clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одежда",
+      "ipa": "клоуðз",
+      "spell": "clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ползучие гады (насекомые)",
+      "ipa": "ˈкрипи ˈкрɔлиз",
+      "spell": "creepy crawlies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "краска для волос",
+      "ipa": "hэр дай",
+      "spell": "hair dye"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он набрал десять килограммов",
+      "ipa": "hи гэйнд тэн ˈкиˌлоуз",
+      "spell": "he gained ten kilos"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него есть лишний вес",
+      "ipa": "hи hæз сʌм ˈэкстрə wэйт",
+      "spell": "he has some extra weight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он ведет шоу",
+      "ipa": "hи нэˈрэйтс ðə шоʊ",
+      "spell": "he narrates the show"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он это послал",
+      "ipa": "hи сэнт ɪт",
+      "spell": "he sent it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он рассказывает нам",
+      "ipa": "hи тэлз ʌс",
+      "spell": "he tells us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он доверяет вам обоим",
+      "ipa": "hи трʌстс боуθ ʌв ю",
+      "spell": "he trusts both of you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он немного полноват",
+      "ipa": "hиз ə бɪт ˈоувəрˌwэйт",
+      "spell": "he's a bit overweight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он прыгает от радости",
+      "ipa": "hиз ˈджʌмпɪŋ фор джой",
+      "spell": "he’s jumping for joy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него болели ноги",
+      "ipa": "hɪз фит wɜр ˈhɜртɪŋ",
+      "spell": "his feet were hurting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гормональное лечение",
+      "ipa": "hорˈмоунəл ˈтритмəнт",
+      "spell": "hormonal treatment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я начал ими тяготиться",
+      "ipa": "ай бɪˈгæн ту гэт фэд ʌп wɪð ðэм",
+      "spell": "I began to get fed up with them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я наклонился, чтобы завязать шнурки",
+      "ipa": "ай бэнт ту тай май ˈщуˌлэйс",
+      "spell": "I bent to tie my shoelace"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я построил убежище на возвышении",
+      "ipa": "ай бɪлт ə ˈщэлтəр ɔф ðə граунд",
+      "spell": "I built a shelter off the ground"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я могу сделать это сам",
+      "ipa": "ай кæн ду ɪт ˌмайˈсэлф",
+      "spell": "I can do it myself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могу поверить своим глазам",
+      "ipa": "ай кæнт бɪˈлив май айз",
+      "spell": "I can’t believe my eyes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне пора идти",
+      "ipa": "ай гɑт ту гоу",
+      "spell": "I got to go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня есть челка",
+      "ipa": "ай hæв бæŋз",
+      "spell": "I have bangs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне так и не удалось это увидеть",
+      "ipa": "ай ˈнэвəр гɑт ту си ɪт",
+      "spell": "I never got to see it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сказал",
+      "ipa": "ай сэд",
+      "spell": "I said"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был немного разочарован",
+      "ipa": "ай wʌз ə ˈлɪтəл ˌдɪсəˈпойнтɪд",
+      "spell": "I was a little disappointed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был в полном ужасе",
+      "ipa": "ай wʌз ˌæбсəˈлутли ˈhорəˌфайд",
+      "spell": "I was absolutely horrified"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был поражен",
+      "ipa": "ай wʌз əˈстɑнɪшт",
+      "spell": "I was astonished"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня был тяжелый период",
+      "ipa": "ай wʌз ɪн ə бæд плэйс",
+      "spell": "I was in a bad place"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был до смерти напуган",
+      "ipa": "ай wʌз скэрд стɪф",
+      "spell": "I was scared stiff"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был так счастлив",
+      "ipa": "ай wʌз соу ˈhæпи",
+      "spell": "I was so happy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был в восторге",
+      "ipa": "ай wʌз θрɪлд",
+      "spell": "I was thrilled"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пошел к своему семейному врачу",
+      "ipa": "ай wэнт ту си май ˈфæмəли ˈдɑктəр",
+      "spell": "I went to see my family doctor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделаю это на этих выходных",
+      "ipa": "ай wɪл ду ɪт ðɪс ˈwиˌкэнд",
+      "spell": "I will do it this weekend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я никогда ни перед кем не буду унижаться",
+      "ipa": "ай wɪл ˈнэвəр ˈгрɑвəл ту ˈэниˌwʌн",
+      "spell": "I will never grovel to anyone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня много дел",
+      "ipa": "айв гɑт ə лɑт ɑн май плэйт",
+      "spell": "I've got a lot on my plate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на континенте Южная Америка",
+      "ipa": "ɪн ðə ˈкɑнтəнəнт ʌв сауθ əˈмэрəкə",
+      "spell": "in the continent of South America"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в ближайшем будущем",
+      "ipa": "ɪн ðə нɪр ˈфъючəр",
+      "spell": "in the near future"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вместо того, как ты это делаешь",
+      "ipa": "ɪнˈстэд ʌв ðə wэй ю ду ɪт",
+      "spell": "instead of the way you do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это меня так раздражало",
+      "ipa": "ɪт əˈнойд ми соу мʌч",
+      "spell": "it annoyed me so much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне это очень нравится",
+      "ipa": "ɪт ˈрɪли əˈпилз ту ми",
+      "spell": "it really appeals to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "её продал полицейский",
+      "ipa": "ɪт wʌз соулд бай ə пəˈлисмəн",
+      "spell": "it was sold by a policeman"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "именно когда я рассказал ему об этом",
+      "ipa": "ɪт wʌз wэн ай тоулд hɪм əˈбаут ðæт",
+      "spell": "it was when I told him about that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я совершенно измотан",
+      "ipa": "айм ˌæбсəˈлутли wорн аут",
+      "spell": "I’m absolutely worn out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я совершенно ошеломлен таким количеством информации",
+      "ipa": "айм кəмˈплитли бɪˈwɪлдəрд бай соу мʌч ˌɪнфəрˈмэйшəн",
+      "spell": "I’m completely bewildered by so much information"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я полностью перегружен",
+      "ipa": "айм кəмˈплитли ˌоувəрˈwэлмд",
+      "spell": "I’m completely overwhelmed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я в отчаянии",
+      "ipa": "айм ˈдэспрɪт",
+      "spell": "I’m desperate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне это надоело",
+      "ipa": "айм сɪк æнд ˈтайəрд ʌв ðæт",
+      "spell": "I’m sick and tired of that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ни за что на свете!",
+      "ipa": "ˈнэвəр ɪн ə ˈмɪлйəн йɪрз!",
+      "spell": "never in a million years!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "теперь мы ждем",
+      "ipa": "нау wи ɑр ˈwэйтɪŋ",
+      "spell": "now we are waiting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на необитаемом острове",
+      "ipa": "ɑн əн ˌʌнɪнˈhæбəтɪд ˈайлəнд",
+      "spell": "on an uninhabited island"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наша одежда",
+      "ipa": "ˈауəр клоуðз",
+      "spell": "our clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плавающий мусор",
+      "ipa": "стʌф ˈфлоутɪŋ",
+      "spell": "stuff floating"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "такая большая ошибка",
+      "ipa": "сʌч ə бɪг мɪсˈтэйк",
+      "spell": "such a big mistake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в группе начала появляться напряженность",
+      "ipa": "ˈтэншəнз бɪˈгæн ту əˈпɪр ɪн ðə груп",
+      "spell": "tensions began to appear in the group"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спасибо, я буду рад",
+      "ipa": "θæŋк ю, айд би дɪˈлайтɪд",
+      "spell": "thank you, I’d be delighted"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это помогло ему сохранить рассудок",
+      "ipa": "ðæт hэлпт hɪм кип hɪз ˈсæнəти",
+      "spell": "that helped him keep his sanity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потолочный вентилятор вращается надо мной",
+      "ipa": "ðə ˈсилɪŋ фæн спɪнз əˈбʌв ми",
+      "spell": "the ceiling fan spins above me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в последний раз я обиделся вчера вечером",
+      "ipa": "ðə лæст тайм ай wʌз əˈфэндɪд wʌз лæст найт",
+      "spell": "the last time I was offended was last night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кроны деревьев такие густые, что лесная подстилка всегда темная",
+      "ipa": "ðə три ˈкæнəпи ɪз соу θɪк ðæт ðə ˈфорəст флор ɪз ˈɔлˌwэйз дɑрк",
+      "spell": "the tree canopy is so thick that the forest floor is always dark"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "конечная цель конференции",
+      "ipa": "ðи ˈʌлтəмəт гоул ʌв ðə ˈкɑнфəрəнс",
+      "spell": "the ultimate goal of the conference"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "годы, которые мы потратили на это",
+      "ipa": "ðə йɪрз ðæт wи спэнт ˈдуɪŋ ðæт",
+      "spell": "the years that we spent doing that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они называли друг друга по имени",
+      "ipa": "ðэй кɔлд ич ˈʌðəр бай нэйм",
+      "spell": "they called each other by name"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они обзывали друг друга",
+      "ipa": "ðэй кɔлд ич ˈʌðəр нэймз",
+      "spell": "they called each other names"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они заботятся о нас",
+      "ipa": "ðэй кэр əˈбаут ʌс",
+      "spell": "they care about us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они не доверяют своей системе здравоохранения",
+      "ipa": "ðэй доунт трʌст ðэр ˈhэлθˌкэр ˈсɪстəм",
+      "spell": "they don’t trust their healthcare system"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они дали нам одну неделю",
+      "ipa": "ðэй гэйв ʌс wʌн wик",
+      "spell": "they gave us one week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "им пришлось прервать свое приключение",
+      "ipa": "ðэй hæд ту кʌт шорт ðэр æдˈвэнчəр",
+      "spell": "they had to cut short their adventure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у них никогда не было никаких контактов с внешним миром",
+      "ipa": "ðэй hæв ˈнэвəр hæд ˈэни ˈкɑнˌтæкт wɪð ðи ˈаутˈсайд wɜрлд",
+      "spell": "they have never had any contact with the outside world"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они вернули нам деньги",
+      "ipa": "ðэй сэнт ðə ˈмʌни бæк ту ʌс",
+      "spell": "they sent the money back to us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они были опустошены",
+      "ipa": "ðэй wɜр ˈдэвəˌстэйтɪд",
+      "spell": "they were devastated"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "строить убежище",
+      "ipa": "ту бɪлд ə ˈщэлтəр",
+      "spell": "to build a shelter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "расслабляться, \"чилить\"",
+      "ipa": "ту чɪл",
+      "spell": "to chill"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "красить волосы",
+      "ipa": "ту дай ðə hэр",
+      "spell": "to dye the hair"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отправляться в приключения",
+      "ipa": "ту гоу ɑн æдˈвэнчəрз",
+      "spell": "to go on adventures"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "идти туда пешком",
+      "ipa": "ту гоу ðэр ɑн фʊт",
+      "spell": "to go there on foot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бегать трусцой",
+      "ipa": "ту джɑг",
+      "spell": "to jog"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ориентироваться по солнцу",
+      "ipa": "ту ˈнæвəˌгэйт бай ðə сʌн",
+      "spell": "to navigate by the sun"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сплавляться по реке на плоту",
+      "ipa": "ту рæфт даун ðə ˈрɪвəр",
+      "spell": "to raft down the river"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поднимать цену",
+      "ipa": "ту рэйз ðə прайс",
+      "spell": "to raise the price"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сохранять лицо",
+      "ipa": "ту сэйв ðə фэйс",
+      "spell": "to save the face"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы сделали это сегодня утром",
+      "ipa": "wи дɪд ɪт ðɪс ˈморнɪŋ",
+      "spell": "we did it this morning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы потратили все наши деньги на этот дом",
+      "ipa": "wи спэнт ɔл ˈауəр ˈмʌни ɑн ðɪс hаус",
+      "spell": "we spent all our money on this house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы сказали нашему риелтору",
+      "ipa": "wи тоулд ˈауəр ˈриəлтəр",
+      "spell": "we told our realtor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы не дадим вам денег",
+      "ipa": "wир нɑт ˈгоуɪŋ ту гɪв ю ðə ˈмʌни",
+      "spell": "we’re not going to give you the money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "то, что я понял, было ...",
+      "ipa": "wɑт ай ˈриəˌлайзд wʌз ...",
+      "spell": "what I realized was ..."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда ты в последний раз это делал?",
+      "ipa": "wэн дɪд ю лæст ду ɪт?",
+      "spell": "when did you last do it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя была одна работа",
+      "ipa": "ю hæд wʌн джɑб (ту ду)",
+      "spell": "you had one job (to do)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты выглядишь немного подавленным",
+      "ipa": "ю лʊк ə ˈлɪтəл даун",
+      "spell": "you look a little down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты же не обиделся на то, что я сказал, да?",
+      "ipa": "ю ˈwɜрəнт əˈфэндɪд бай wɑт ай сэд, wɜр ю?",
+      "spell": "you weren’t offended by what I said, were you?"
+    }
+  ]
+}
