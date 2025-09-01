@@ -1,0 +1,1094 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "week",
+  "number": 35,
+  "date": "2025-08-29",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "погане ліжко",
+      "ipa": "ə бæд бед",
+      "spell": "a bad bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бразильський ресторан",
+      "ipa": "ə брəˈзилйəн ˈрестəˌрɑнт",
+      "spell": "a Brazilian restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пензель",
+      "ipa": "ə брʌш",
+      "spell": "a brush"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "іспит на водіння",
+      "ipa": "ə ˈдрайvəрз тест",
+      "spell": "a driver's test"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колесо огляду",
+      "ipa": "ə ˈферис wіл",
+      "spell": "a Ferris wheel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дурень",
+      "ipa": "ə фул",
+      "spell": "a fool"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маляр",
+      "ipa": "ə ˈпейнтəр",
+      "spell": "a painter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "квиток туди й назад",
+      "ipa": "ə ˌраундˈтрип ˈтикəт",
+      "spell": "a round-trip ticket"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коротка сорочка",
+      "ipa": "ə шорт шɜрт",
+      "spell": "a short shirt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спальний мішок",
+      "ipa": "ə ˈсліпиŋ бæґ",
+      "spell": "a sleeping bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "річ",
+      "ipa": "ə θиŋ",
+      "spell": "a thing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що зробити",
+      "ipa": "ə θиŋ ту ду",
+      "spell": "a thing to do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "діяльність",
+      "ipa": "əн æкˈтиvəті",
+      "spell": "an activity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ресторан «все можна їсти»",
+      "ipa": "əн ɔл-ю-кəн-іт ˈрестəˌрɑнт",
+      "spell": "an all-you-can-eat restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "митець",
+      "ipa": "əн ˈɑртəст",
+      "spell": "an artist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще одну пляшку!",
+      "ipa": "əˈнʌðəр ˈбɑтəл!",
+      "spell": "another bottle!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще одну чашку!",
+      "ipa": "əˈнʌðəр кʌп!",
+      "spell": "another cup!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще один!",
+      "ipa": "əˈнʌðəр wʌн!",
+      "spell": "another one!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще чаю!",
+      "ipa": "əˈнʌðəр ті!",
+      "spell": "another tea!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти не у стосунках?",
+      "ipa": "ɑр ю ˈсиŋґəл?",
+      "spell": "are you single?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у китайському ресторані",
+      "ipa": "æт ə чайˈніз ˈрестəˌрɑнт",
+      "spell": "at a Chinese restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мексиканському ресторані",
+      "ipa": "æт ə ˈмексəкəн ˈрестəˌрɑнт",
+      "spell": "at a Mexican restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у багатьох інших місцях",
+      "ipa": "æт ˈмені ˈʌðəр ˈплейсəз",
+      "spell": "at many other places"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "багаж",
+      "ipa": "ˈбæґəдж",
+      "spell": "baggage"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заспокойся!",
+      "ipa": "бі кɑм!",
+      "spell": "be calm!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь щасливий!",
+      "ipa": "бі ˈhæпі!",
+      "spell": "be happy!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь здоровим!",
+      "ipa": "бі ˈhелθі!",
+      "spell": "be healthy!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь добрим!",
+      "ipa": "бі wел!",
+      "spell": "be well!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їзда на велосипеді",
+      "ipa": "байк ˈрайдиŋ",
+      "spell": "bike riding"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Брюс Лі похований у Сіетлі",
+      "ipa": "брус лі из ˈберід ин сіˈæтəл",
+      "spell": "Bruce Lee is buried in Seattle"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "могила Брюса Лі",
+      "ipa": "брус ліз ґрейv",
+      "spell": "Bruce Lee's grave"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "суходолом",
+      "ipa": "бай лæнд",
+      "spell": "by land"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "морем",
+      "ipa": "бай сі",
+      "spell": "by sea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ви можете сфотографувати, будь ласка?",
+      "ipa": "кəн ю тейк ə ˈпикчəр, пліз?",
+      "spell": "can you take a picture, please?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не можу",
+      "ipa": "ˈкæнɑт, кæнт",
+      "spell": "cannot, can't"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дешевий ~ дорогий",
+      "ipa": "чіп ~ икˈспенсиv",
+      "spell": "cheap ~ expensive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одяг",
+      "ipa": "клоуðз",
+      "spell": "clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приготування їжі",
+      "ipa": "ˈкʊкиŋ",
+      "spell": "cooking"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "побачення",
+      "ipa": "ˈдейтиŋ",
+      "spell": "dating"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у вас є ця футболка великого розміру?",
+      "ipa": "ду ю hæv ðис ті-шɜрт ин лɑрдж?",
+      "spell": "do you have this T-shirt in large?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "займання йогою",
+      "ipa": "ˈдуиŋ ˈйоуґə",
+      "spell": "doing yoga"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не будь божевільним",
+      "ipa": "доунт бі ˈкрейзі",
+      "spell": "don't be crazy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не хвилюйся",
+      "ipa": "доунт бі ˈнɜрvəс",
+      "spell": "don't be nervous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не сумуй",
+      "ipa": "доунт бі сæд",
+      "spell": "don't be sad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прогулянка",
+      "ipa": "ˈґоуиŋ фор ə wɔк",
+      "spell": "going for a walk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я активний",
+      "ipa": "ай æм ˈæктиv",
+      "spell": "I am active"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ситий",
+      "ipa": "ай æм фʊл",
+      "spell": "I am full"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені не дозволено",
+      "ipa": "ай æм нɑт əˈлауд",
+      "spell": "I am not allowed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені шкода, що я не можу прийти",
+      "ipa": "ай æм ˈсɑрі ай кæнт кʌм",
+      "spell": "I am sorry I can't come"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я дуже хвилююся",
+      "ipa": "ай æм ˈvері ˈнɜрvəс",
+      "spell": "I am very nervous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я можу керувати",
+      "ipa": "ай кəн драйv",
+      "spell": "I can drive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я можу йти",
+      "ipa": "ай кəн ґоу",
+      "spell": "I can go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не можу керувати",
+      "ipa": "ай кæнт драйv",
+      "spell": "I can't drive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не можу!",
+      "ipa": "ай ˈкæнɑт!",
+      "spell": "I cannot!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я трохи побігав",
+      "ipa": "ай дид сʌм ˈрʌниŋ",
+      "spell": "I did some running"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я трохи покупляв",
+      "ipa": "ай дид сʌм ˈшɑпиŋ",
+      "spell": "I did some shopping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я трохи попрацював",
+      "ipa": "ай дид сʌм ˈwɜркиŋ",
+      "spell": "I did some working"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я займаюся різними справами",
+      "ipa": "ай ду ˈдифəрəнт æкˈтиvəтіз",
+      "spell": "I do different activities"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я трохи співаю",
+      "ipa": "ай ду сʌм ˈсиŋиŋ",
+      "spell": "I do some singing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не керую",
+      "ipa": "ай доунт драйv",
+      "spell": "I don't drive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я це ненавиджу",
+      "ipa": "ай hейт ит",
+      "spell": "I hate it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене є справа",
+      "ipa": "ай hæv ə θиŋ ту ду",
+      "spell": "I have a thing to do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене є справи",
+      "ipa": "ай hæv θиŋз ту ду",
+      "spell": "I have things to do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я люблю кемпінг",
+      "ipa": "ай лайк ˈкæмпиŋ",
+      "spell": "I like camping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені подобається спати у спальному мішку",
+      "ipa": "ай лайк ˈсліпиŋ ин ə ˈсліпиŋ бæґ",
+      "spell": "I like sleeping in a sleeping bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені потрібно це зробити",
+      "ipa": "ай нід ту ду ит",
+      "spell": "I need to do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені потрібно керувати",
+      "ipa": "ай нід ту драйv",
+      "spell": "I need to drive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені потрібно йти",
+      "ipa": "ай нід ту ґоу",
+      "spell": "I need to go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я працюю шість днів на тиждень",
+      "ipa": "ай wɜрк сикс дейз ə wік",
+      "spell": "I work six days a week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у магазині",
+      "ipa": "ин ə стор",
+      "spell": "in a store"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там гарно",
+      "ipa": "ит из найс ðер",
+      "spell": "it is nice there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це зайняло у мене три з половиною години",
+      "ipa": "ит тʊк мі θрі æнд ə hæф ˈауəрз",
+      "spell": "it took me three and a half hours"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "була середа",
+      "ipa": "ит wʌз ˈwензˌдей",
+      "spell": "it was Wednesday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "великий",
+      "ipa": "лɑрдж",
+      "spell": "large"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "місцеві жителі",
+      "ipa": "ˈлоукəлз",
+      "spell": "locals"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "багато видів м'яса",
+      "ipa": "ˈмені кайндз ʌv міт",
+      "spell": "many kinds of meat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "багато парків",
+      "ipa": "ˈмені пɑркс",
+      "spell": "many parks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "м'ясо на шампурі",
+      "ipa": "міт ɑн ə ˈск’юəр",
+      "spell": "meat on a skewer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "схвильований",
+      "ipa": "ˈнɜрvəс",
+      "spell": "nervous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не дозволено",
+      "ipa": "нɑт əˈлауд",
+      "spell": "not allowed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "звичайно",
+      "ipa": "ʌv корс",
+      "spell": "of course"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у потязі",
+      "ipa": "ɑн ə трейн",
+      "spell": "on a train"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на вулиці",
+      "ipa": "ɑн ðə стріт",
+      "spell": "on the street"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на набережній",
+      "ipa": "ɑн ðə ˈwɔтəрˌфрʌнт",
+      "spell": "on the waterfront"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще один",
+      "ipa": "wʌн мор",
+      "spell": "one more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "онлайн",
+      "ipa": "ˈɔнˌлайн",
+      "spell": "online"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "малювання",
+      "ipa": "ˈпейнтиŋ",
+      "spell": "painting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фарбування",
+      "ipa": "ˈпейнтиŋ",
+      "spell": "painting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гра",
+      "ipa": "ˈплейиŋ",
+      "spell": "playing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "читання",
+      "ipa": "ˈредиŋ",
+      "spell": "reading"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "біг",
+      "ipa": "ˈрʌниŋ",
+      "spell": "running"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я також",
+      "ipa": "сейм hір",
+      "spell": "same here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "покупки",
+      "ipa": "ˈшɑпиŋ",
+      "spell": "shopping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грішити",
+      "ipa": "син",
+      "spell": "sin"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "співати",
+      "ipa": "сиŋ",
+      "spell": "sing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "співак",
+      "ipa": "ˈсиŋəр",
+      "spell": "singer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спів",
+      "ipa": "ˈсиŋиŋ",
+      "spell": "singing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неодружений/незаміжня",
+      "ipa": "ˈсиŋґəл",
+      "spell": "single"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грішник",
+      "ipa": "ˈсинəр",
+      "spell": "sinner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гріхування",
+      "ipa": "ˈсиниŋ",
+      "spell": "sinning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плавання",
+      "ipa": "ˈсwимиŋ",
+      "spell": "swimming"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це огидно",
+      "ipa": "ðæт сʌкс",
+      "spell": "that sucks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кінотеатр",
+      "ipa": "ðə ˈмуvіз",
+      "spell": "the movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "найсолодша фраза, яку можна почути від копа",
+      "ipa": "ðə ˈсwітəст фрейз ту hір фрʌм ə кɑп",
+      "spell": "the sweetest phrase to hear from a cop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "погода була дуже хороша",
+      "ipa": "ðə ˈwеðəр wʌз ˈvері ґʊд",
+      "spell": "the weather was very good"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що робити",
+      "ipa": "θиŋз ту ду",
+      "spell": "things to do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "крізь",
+      "ipa": "θру",
+      "spell": "through"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "забронювати столик",
+      "ipa": "ту бʊк ə ˈтейбəл",
+      "spell": "to book a table"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "купити щось онлайн",
+      "ipa": "ту бай ˈсʌмθиŋ ˈɔнˌлайн",
+      "spell": "to buy something online"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "робити щось (дієприсл.)",
+      "ipa": "ту ду сʌм шиŋ",
+      "spell": "to do some X-ing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "робити щось онлайн",
+      "ipa": "ту ду ˈсʌмθиŋ ˈɔнˌлайн",
+      "spell": "to do something online"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "займатися йогою",
+      "ipa": "ту ду ˈйоуґə",
+      "spell": "to do yoga"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "керувати автомобілем",
+      "ipa": "ту драйv ə кɑр",
+      "spell": "to drive a car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кататися по центру міста",
+      "ipa": "ту драйv əˈраунд ˈдаунˈтаун",
+      "spell": "to drive around downtown"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їсти не вдома",
+      "ipa": "ту іт аут",
+      "spell": "to eat out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "летіти літаком",
+      "ipa": "ту ґоу бай ер",
+      "spell": "to go by air"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плисти човном",
+      "ipa": "ту ґоу бай боут",
+      "spell": "to go by boat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їхати автобусом",
+      "ipa": "ту ґоу бай бʌс",
+      "spell": "to go by bus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їхати автомобілем",
+      "ipa": "ту ґоу бай кɑр",
+      "spell": "to go by car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їхати потягом",
+      "ipa": "ту ґоу бай трейн",
+      "spell": "to go by train"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ходити в кемпінг",
+      "ipa": "ту ґоу ˈкæмпиŋ",
+      "spell": "to go camping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "піти на приємну прогулянку",
+      "ipa": "ту ґоу фор ə найс wɔк",
+      "spell": "to go for a nice walk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ходити в кіно",
+      "ipa": "ту ґоу ту ðə ˈмуvіз",
+      "spell": "to go to the movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ненавидіти",
+      "ipa": "ту hейт",
+      "spell": "to hate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вчитися",
+      "ipa": "ту лɜрн",
+      "spell": "to learn"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вчитися готувати",
+      "ipa": "ту лɜрн ту кʊк",
+      "spell": "to learn to cook"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вчитися керувати",
+      "ipa": "ту лɜрн ту драйv",
+      "spell": "to learn to drive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любити ~ ненавидіти",
+      "ipa": "ту лʌv ~ ту hейт",
+      "spell": "to love ~ to hate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "познайомитися з кимось онлайн",
+      "ipa": "ту міт ˈсʌмˌбɑді ˈɔнˌлайн",
+      "spell": "to meet somebody online"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "малювати",
+      "ipa": "ту пейнт",
+      "spell": "to paint"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фарбувати",
+      "ipa": "ту пейнт (ə wɔл)",
+      "spell": "to paint (a wall)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грати",
+      "ipa": "ту плей",
+      "spell": "to play"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їхати в машині",
+      "ipa": "ту райд ə кɑр",
+      "spell": "to ride a car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бігати",
+      "ipa": "ту рʌн",
+      "spell": "to run"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "робити покупки",
+      "ipa": "ту шɑп",
+      "spell": "to shop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "співати",
+      "ipa": "ту сиŋ",
+      "spell": "to sing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бути поруч зі мною",
+      "ipa": "ту стæнд бай мі",
+      "spell": "to stand by me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кидати",
+      "ipa": "ту θроу",
+      "spell": "to throw"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перекласти це",
+      "ipa": "ту трæнˈзлейт ит",
+      "spell": "to translate it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повний провал!",
+      "ipa": "ˈтоутəл диˈзæстəр!",
+      "spell": "total disaster!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми гуляли на набережній",
+      "ipa": "wі wɔкт ɑн ðə ˈwɔтəрˌфрʌнт",
+      "spell": "we walked on the waterfront"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми поїхали на острів",
+      "ipa": "wі wент ту əн ˈайлəнд",
+      "spell": "we went to an island"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з поверненням!",
+      "ipa": "ˈwелкəм бæк!",
+      "spell": "welcome back!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "а ти?",
+      "ipa": "wɑт əˈбаут ю?",
+      "spell": "what about you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коли прийшла моя донька",
+      "ipa": "wен май ˈдɔтəр кейм",
+      "spell": "when my daughter came"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чий?",
+      "ipa": "hуз?",
+      "spell": "whose?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з багатьма ресторанами",
+      "ipa": "wиð ˈмені ˈрестəˌрɑнтс",
+      "spell": "with many restaurants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так, звичайно",
+      "ipa": "йес, ʌv корс",
+      "spell": "yes, of course"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти можеш зробити це онлайн",
+      "ipa": "ю кəн ду ит ˈɔнˌлайн",
+      "spell": "you can do it online"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти можеш покататися по центру",
+      "ipa": "ю кəн драйv əˈраунд ˈдаунˈтаун",
+      "spell": "you can drive around downtown"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти можеш йти",
+      "ipa": "ю кəн ґоу",
+      "spell": "you can go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти можеш піти в парк з мостом",
+      "ipa": "ю кəн ґоу ту ə пɑрк wиð ə бридж",
+      "spell": "you can go to a park with a bridge"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тут не можна співати",
+      "ipa": "ю кæнт сиŋ hір",
+      "spell": "you can't sing here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тобі потрібно зайти в інтернет",
+      "ipa": "ю нід ту ґоу ˈɔнˌлайн",
+      "spell": "you need to go online"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "молоді люди",
+      "ipa": "йʌŋ ˈпіпəл",
+      "spell": "young people"
+    }
+  ]
+}
