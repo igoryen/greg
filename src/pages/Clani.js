@@ -5,52 +5,62 @@ const Clani = (prop) => {
         <section id="clani">
             <div className="laddie">
                 <div className="artie">
-                    <div className="sow liddy">ă</div>
                     <div className="sow pronnie">æ</div>
+                    <div className="sow liddy shorta">ă</div>
+                    <div className="sow mike">the short A</div>
                 </div>
                 <div className="artie">
-                    <div className="sow liddy">ā</div>
                     <div className="sow pronnie">eɪ</div>
+                    <div className="sow liddy longa">ā</div>
+                    <div className="sow mike">the long A</div>
                 </div>
             </div>
             <div className="laddie">
                 <div className="artie">
-                    <div className="sow liddy">ŏ</div>
                     <div className="sow pronnie">ɑ</div>
+                    <div className="sow liddy shorto">ŏ</div>
+                    <div className="sow mike">the short O</div>
                 </div>
                 <div className="artie">
-                    <div className="sow liddy">ō</div>
                     <div className="sow pronnie">oʊ</div>
+                    <div className="sow liddy longo">ō</div>
+                    <div className="sow mike">the long O</div>
                 </div>
             </div>
             <div className="laddie">
                 <div className="artie">
-                    <div className="sow liddy">ŭ</div>
                     <div className="sow pronnie">ʌ</div>
+                    <div className="sow liddy longu">ŭ</div>
+                    <div className="sow mike">the short U</div>
                 </div>
                 <div className="artie">
-                    <div className="sow liddy">ū</div>
                     <div className="sow pronnie">u</div>
+                    <div className="sow liddy shortu">ū</div>
+                    <div className="sow mike">the long U</div>
                 </div>
             </div>
             <div className="laddie">
                 <div className="artie">
-                    <div className="sow liddy">ĭ</div>
                     <div className="sow pronnie">ɪ</div>
+                    <div className="sow liddy shorti">ĭ</div>
+                    <div className="sow mike">the short I</div>
                 </div>
                 <div className="artie">
-                    <div className="sow liddy">ī</div>
                     <div className="sow pronnie">aɪ</div>
+                    <div className="sow liddy longi">ī</div>
+                    <div className="sow mike">the long I</div>
                 </div>
             </div>
             <div className="laddie">
                 <div className="artie">
-                    <div className="sow liddy">ĕ</div>
                     <div className="sow pronnie">ɛ</div>
+                    <div className="sow liddy shorte">ĕ</div>
+                    <div className="sow mike">the short E</div>
                 </div>
                 <div className="artie">
-                    <div className="sow liddy">ē</div>
                     <div className="sow pronnie">i</div>
+                    <div className="sow liddy longe">ē</div>
+                    <div className="sow mike">the long E</div>
                 </div>
             </div>
 

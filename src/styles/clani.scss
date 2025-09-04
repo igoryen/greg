@@ -15,10 +15,54 @@
 
     .liddy {
         font-size: 5em;
+        font-weight: 900;
+
+        &.longa {
+            color: red;
+        }
+
+        &.shorta {
+            color: orangered;
+        }
+
+        &.longo {
+            color: blue;
+        }
+
+        &.shorto {
+            color: rgb(13, 0, 255);
+        }
+
+        &.longu {
+            color: green;
+        }
+
+        &.shortu {
+            color: rgb(11, 178, 11);
+        }
+
+        &.longi {
+            color: brown;
+        }
+
+        &.shorti {
+            color: rgb(220, 66, 66);
+        }
+
+        &.longe {
+            color: rgb(191, 75, 191);
+        }
+
+        &.shorte {
+            color: purple;
+        }
 
     }
 
-    .pronnie {}
+    .pronnie {
+        font-size: 1.5em;
+        color: darkblue;
+    }
 
 
 
@@ -27,6 +71,14 @@
         color: red;
         display: flex;
         flex-direction: column;
+        line-height: 0.8;
+        margin: .5em 0.2em;
+        border: 1px solid gray;
+        padding: 5px;
+
+        .mike {
+            margin-top: 0.5em;
+        }
     }
 
     .joos {
