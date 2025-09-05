@@ -1,0 +1,716 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 35,
+  "date": "2025-08-31",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пирожное брауни",
+      "ipa": "ə ˈбрауни",
+      "spell": "a brownie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цент",
+      "ipa": "ə сэнт",
+      "spell": "a cent"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "центр",
+      "ipa": "ə ˈсэнтəр",
+      "spell": "a center"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "куриный пирог",
+      "ipa": "ə ˈчɪкəн пай",
+      "spell": "a chicken pie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цирк",
+      "ipa": "ə ˈсɜркəс",
+      "spell": "a circus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кока-кола",
+      "ipa": "ə коук",
+      "spell": "a coke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "страна",
+      "ipa": "ə ˈкʌнтри",
+      "spell": "a country"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "магазин где всё по доллару",
+      "ipa": "ə ˈдɑлəр стор",
+      "spell": "a dollar store"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "напиток",
+      "ipa": "ə дрɪŋк",
+      "spell": "a drink"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отличная идея",
+      "ipa": "ə грэйт айˈдиə",
+      "spell": "a great idea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "головная боль",
+      "ipa": "ə ˈhэˌдэйк",
+      "spell": "a headache"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "карта памяти",
+      "ipa": "ə ˈмэмəри кɑрд",
+      "spell": "a memory card"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "билет в один конец",
+      "ipa": "ə ˈwʌнˈwэй ˈтɪкəт",
+      "spell": "a one-way ticket"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пирог (пироги)",
+      "ipa": "ə пай (пайз)",
+      "spell": "a pie (pies)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фунт",
+      "ipa": "ə паунд",
+      "spell": "a pound"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цена (цены)",
+      "ipa": "ə прайс (ˈпрайсəз)",
+      "spell": "a price (prices)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сэндвич",
+      "ipa": "ə ˈсæндwɪч",
+      "spell": "a sandwich"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чайный пакетик",
+      "ipa": "ə ти бæг",
+      "spell": "a tea bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "билет",
+      "ipa": "ə ˈтɪкəт",
+      "spell": "a ticket"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поезд",
+      "ipa": "ə трэйн",
+      "spell": "a train"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "способ",
+      "ipa": "ə wэй",
+      "spell": "a way"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "после",
+      "ipa": "ˈæфтəр",
+      "spell": "after"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всегда",
+      "ipa": "ˈɔлˌwэйз",
+      "spell": "always"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любая машина",
+      "ipa": "ˈэни кɑр",
+      "spell": "any car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любая еда",
+      "ipa": "ˈэни фуд",
+      "spell": "any food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любой дом",
+      "ipa": "ˈэни hаус",
+      "spell": "any house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любой человек",
+      "ipa": "ˈэни ˈпɜрсəн",
+      "spell": "any person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любая вещь",
+      "ipa": "ˈэни θɪŋ",
+      "spell": "any thing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любая работа",
+      "ipa": "ˈэни wɜрк",
+      "spell": "any work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что-нибудь",
+      "ipa": "ˈэниˌθɪŋ",
+      "spell": "anything"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что-нибудь еще?",
+      "ipa": "ˈэниˌθɪŋ элс?",
+      "spell": "anything else?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "покупка обеда",
+      "ipa": "ˈбайɪŋ лʌнч",
+      "spell": "buying lunch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Можно мне кофе, пожалуйста?",
+      "ipa": "кæн ай hæв ə ˈкɑфи, плиз?",
+      "spell": "Can I have a coffee, please?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мелочь (деньги)",
+      "ipa": "чэйндж",
+      "spell": "change"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сыр",
+      "ipa": "чиз",
+      "spell": "cheese"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сырный сэндвич",
+      "ipa": "чиз ˈсæндwɪч",
+      "spell": "cheese sandwich"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Европа",
+      "ipa": "ˈйʊрəп",
+      "spell": "Europe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "каждый день",
+      "ipa": "ˈэвəри дэй",
+      "spell": "every day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пятнадцать",
+      "ipa": "фɪфˈтин",
+      "spell": "fifteen"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пятьдесят",
+      "ipa": "ˈфɪфти",
+      "spell": "fifty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пятьдесят на пятьдесят",
+      "ipa": "ˈфɪфти ˈфɪфти",
+      "spell": "fifty fifty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "еда",
+      "ipa": "фуд",
+      "spell": "food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "за сколько?",
+      "ipa": "фор hау мʌч?",
+      "spell": "for how much?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полный",
+      "ipa": "фʊл",
+      "spell": "full"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "съешь банан!",
+      "ipa": "hæв ə бəˈнæнə!",
+      "spell": "have a banana!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хорошего дня",
+      "ipa": "hæв ə найс дэй",
+      "spell": "have a nice day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "его нет на месте",
+      "ipa": "hи ɪз ɔф",
+      "spell": "he is off"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он работает в Англии",
+      "ipa": "hи wɜркс ɪн ˈɪŋглəнд",
+      "spell": "he works in England"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прошу! вот, пожалуйста!",
+      "ipa": "hир ю ɑр",
+      "spell": "here you are"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот возьмите!",
+      "ipa": "hир ю гоу",
+      "spell": "here you go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот ваша сдача",
+      "ipa": "hɪрз йʊəр чэйндж",
+      "spell": "here's your change"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как вы сегодня?",
+      "ipa": "hау ɑр ю тəˈдэй?",
+      "spell": "how are you today?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько вещей она съедает?",
+      "ipa": "hау ˈмэни θɪŋз дʌз щи hæв?",
+      "spell": "how many things does she have?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почем оно, это?",
+      "ipa": "hау мʌч ɪз ɪт?",
+      "spell": "how much is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я уверен",
+      "ipa": "ай æм щʊр",
+      "spell": "I am sure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю, выпиваю",
+      "ipa": "ай hæв",
+      "spell": "I have"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я был в постели",
+      "ipa": "ай wʌз ɪн бэд",
+      "spell": "I was in bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лёд и лимон",
+      "ipa": "айс æнд ˈлэмəн",
+      "spell": "ice and lemon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в Европе многие страны используют евро",
+      "ipa": "ɪн ˈйʊрəп, ə лɑт ʌв ˈкʌнтриз юз ðə ˈюроу",
+      "spell": "in Europe, a lot of countries use the Euro"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подойдет кредитная карта?",
+      "ipa": "ɪз ə ˈкрэдəт кɑрд ˈоуˈкэй?",
+      "spell": "is a credit card OK?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Марк Твен",
+      "ipa": "мɑрк тwэйн",
+      "spell": "Mark Twain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "средние веса",
+      "ipa": "ˈмидиəм wэйтс",
+      "spell": "medium weights"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "память",
+      "ipa": "ˈмэмəри",
+      "spell": "memory"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "минеральная вода",
+      "ipa": "ˈмɪнəрəл ˈwɔтəр",
+      "spell": "mineral water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ещё",
+      "ipa": "мор",
+      "spell": "more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой папа",
+      "ipa": "май ˈдæди",
+      "spell": "my daddy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "новости",
+      "ipa": "нуз",
+      "spell": "news"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "девять долларов семьдесят центов",
+      "ipa": "найн ˈдɑлəрз ˈсэвəнти сэнтс",
+      "spell": "nine dollars seventy cents"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сейчас",
+      "ipa": "нау",
+      "spell": "now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "один евро",
+      "ipa": "wʌн ˈюроу",
+      "spell": "one euro"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "еще один",
+      "ipa": "wʌн мор",
+      "spell": "one more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "один раз",
+      "ipa": "wʌн тайм",
+      "spell": "one time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в одну сторону",
+      "ipa": "wʌн wэй",
+      "spell": "one way"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бумага",
+      "ipa": "ˈпэйпəр",
+      "spell": "paper"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в любую погоду",
+      "ipa": "рэйн ор шайн",
+      "spell": "rain or shine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лёгкие веса",
+      "ipa": "смɔл wэйтс",
+      "spell": "small weights"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "конечно!",
+      "ipa": "щʊр!",
+      "spell": "sure!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "десять повторений",
+      "ipa": "тэн рэпс",
+      "spell": "ten reps"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "самый дешёвый напиток",
+      "ipa": "ðə ˈчипəст дрɪŋк",
+      "spell": "the cheapest drink"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "самая дешёвая еда",
+      "ipa": "ðə ˈчипəст фуд",
+      "spell": "the cheapest food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "послезавтра",
+      "ipa": "ðə дэй ˈæфтəр тəˈмɑˌроу",
+      "spell": "the day after tomorrow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "билет в кино стоит шесть евро шестьдесят центов",
+      "ipa": "ðə ˈмуви ˈтɪкəт ɪз сɪкс ˈюˌроуз æнд ˈсɪксти сэнтс",
+      "spell": "the movie ticket is six euros and sixty cents"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тридцать",
+      "ipa": "ˈθɜрди",
+      "spell": "thirty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "три подхода",
+      "ipa": "θри сэтс",
+      "spell": "three sets"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "три вещи",
+      "ipa": "θри θɪŋз",
+      "spell": "three things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "три раза",
+      "ipa": "θри таймз",
+      "spell": "three times"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "три раза в неделю",
+      "ipa": "θри таймз ə wик",
+      "spell": "three times a week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "съесть, выпить",
+      "ipa": "ту hæв",
+      "spell": "to have"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выпить стакан колы",
+      "ipa": "ту hæв ə коук",
+      "spell": "to have a coke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "использовать",
+      "ipa": "ту юз",
+      "spell": "to use"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тунец",
+      "ipa": "ˈтунə",
+      "spell": "tuna"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "салат с тунцом",
+      "ipa": "ˈтунə ˈсæлəд",
+      "spell": "tuna salad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двадцать",
+      "ipa": "ˈтwэнти",
+      "spell": "twenty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "два или четыре",
+      "ipa": "ту ор фор",
+      "spell": "two or four"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "два раза",
+      "ipa": "ту таймз",
+      "spell": "two times"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "понимание",
+      "ipa": "ˌʌндəрˈстæндɪŋ",
+      "spell": "understanding"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "польза, прок",
+      "ipa": "юс",
+      "spell": "use"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полезный",
+      "ipa": "ˈюсфəл",
+      "spell": "useful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жди меня",
+      "ipa": "wэйт фор ми",
+      "spell": "wait for me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у нас нет наличных",
+      "ipa": "wи hæв ноу кæш",
+      "spell": "we have no cash"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что они съедают, выпивают?",
+      "ipa": "wɑт ду ðэй hæв?",
+      "spell": "what do they have?"
+    }
+  ]
+}
