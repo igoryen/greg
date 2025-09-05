@@ -8,6 +8,21 @@
         margin: 3px 3px 1em;
     }
 
+    .pam {
+        border: 1px solid gray;
+        border-radius: 5px;
+        padding: 0 0.3em;
+        margin: 0 0 0.2em;
+        width: fit-content;
+    }
+
+    .dwight {
+        border-radius: 3px;
+        border: 1px solid gray;
+        min-width: 2em;
+        text-align: center;
+    }
+
     .frisco {
         border-bottom: 1px solid blue;
 
@@ -23,6 +38,7 @@
     }
 
     .chapelle {
+        align-items: center;
         display: flex;
         flex-wrap: wrap;
         margin-bottom: 3px;
@@ -82,11 +98,14 @@
     }
 
     .spell_ {
+        background-color: bisque;
         color: brown;
         font-family: 'Times New Roman', Times, serif;
-        font-size: medium;
+        font-size: 1em;
         letter-spacing: normal !important;
+        line-height: 1;
         margin-left: 1em;
+        padding: 2px;
     }
 
 }
