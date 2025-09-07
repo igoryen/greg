@@ -1,534 +1,534 @@
 {
   "student": "Svetlana B.",
   "slug": "sb",
-  "number": 38,
+  "number": 35,
   "date": "2025-08-28",
   "period": "week",
-  "words":  [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "светловолосый молодой человек",
-   "ipa": "ə blɑnd jʌŋ mæn",
-   "spell": "a blond young man"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "невеста",
-   "ipa": "ə braɪd",
-   "spell": "a bride"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жених",
-   "ipa": "ə ˈbraɪdˌɡrum",
-   "spell": "a bridegroom"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кафе",
-   "ipa": "ə kəˈfeɪ",
-   "spell": "a cafe"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "государственный переворот",
-   "ipa": "ə ku deɪˈtɑ",
-   "spell": "a coup d'etat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "криминолог",
-   "ipa": "ə ˌkrɪmɪˈnɑləʤɪst",
-   "spell": "a criminologist"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "круассан",
-   "ipa": "ə ˌkwɑˈsɑnt",
-   "spell": "a croissant"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жанр",
-   "ipa": "ə ˈʒɑnrə",
-   "spell": "a genre"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "огромный букет цветов",
-   "ipa": "ə hjuʤ buˈkeɪ ʌv ˈflaʊərz",
-   "spell": "a huge bouquet of flowers"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "местный предприниматель",
-   "ipa": "ə ˈloʊkəl ˌɑntrəprəˈnɜr",
-   "spell": "a local entrepreneur"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "автор текстов песен",
-   "ipa": "ə ˈlɪrɪsɪst",
-   "spell": "a lyricist"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нувориш",
-   "ipa": "ə ˌnuˈvoʊ rɪʧ",
-   "spell": "a nouveau riche"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "костюм и галстук",
-   "ipa": "ə sut ænd taɪ",
-   "spell": "a suit and tie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "свитер",
-   "ipa": "ə ˈswɛtər",
-   "spell": "a sweater"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "насильственный военный переворот",
-   "ipa": "ə ˈvaɪələnt ˈmɪləˌtɛri ku",
-   "spell": "a violent military coup"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "способ выпустить пар после напряженного дня",
-   "ipa": "ə weɪ tu vɛnt ˈæftər ə ˈstrɛsfəl deɪ",
-   "spell": "a way to vent after a stressful day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знаток вин",
-   "ipa": "ə waɪn ˌkɑnəˈsɜr",
-   "spell": "a wine connoisseur"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "иностранная гувернантка живет в семье",
-   "ipa": "ən oʊ pɛr steɪz wɪð ə ˈfæməli",
-   "spell": "an au pair stays with a family"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ар-нуво (стиль)",
-   "ipa": "ɑrt ˌnuˈvoʊ",
-   "spell": "art nouveau"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "любой ценой",
-   "ipa": "æt ɔl kɑsts",
-   "spell": "at all costs"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "балет",
-   "ipa": "bæˈleɪ",
-   "spell": "ballet"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "французская кухня",
-   "ipa": "frɛnʧ kwɪˈzin",
-   "spell": "French cuisine"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скатертью дорога!",
-   "ipa": "ɡʊd ˈrɪdəns!",
-   "spell": "good riddance!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Гран-при",
-   "ipa": "ɡrænd pri",
-   "spell": "Grand Prix"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он мне отомстил",
-   "ipa": "hi ɡɑt bæk æt mi",
-   "spell": "he got back at me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у него есть шарм",
-   "ipa": "hi hæz ʧɑrm",
-   "spell": "he has charm"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он был прекрасным рассказчиком",
-   "ipa": "hi wʌz ə ˈwʌndərfəl ˌrækɑnˈtur",
-   "spell": "he was a wonderful raconteur"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он мой жених",
-   "ipa": "hiz maɪ fiˈɑnˌseɪ",
-   "spell": "he's my fiance"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "задние лапы",
-   "ipa": "haɪnd lɛɡz",
-   "spell": "hind legs"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "его красивая блондинка жена",
-   "ipa": "hɪz ˈprɪti blɑnd waɪf",
-   "spell": "his pretty blonde wife"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня было чувство дежавю",
-   "ipa": "aɪ hæd ə sɛns ʌv ˈdiʤə vu",
-   "spell": "I had a sense of deja vu"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я знаю, что это клише",
-   "ipa": "aɪ noʊ ɪts ə kliˈʃeɪ",
-   "spell": "I know it's a cliché"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я совершил настоящий промах, некрасивый поступок",
-   "ipa": "aɪ meɪd ə riəl foʊ pɑ",
-   "spell": "I made a real faux pas"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, чтобы мы сошлись снова",
-   "ipa": "aɪ wɑnt ʌs tu ɡɛt bæk təˈɡɛðər",
-   "spell": "I want us to get back together"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я с тобой расквитаюсь — вот увидишь!",
-   "ipa": "aɪl ɡɛt ˈivɪn wɪð ju -- ʤʌst weɪt!",
-   "spell": "I'll get even with you -- just wait!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "лично",
-   "ipa": "ɪn ˈpɜrsən",
-   "spell": "in person"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в Венеции",
-   "ipa": "ɪn ˈvɛnəs",
-   "spell": "in Venice"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "промышленный саботаж",
-   "ipa": "ɪnˈdʌstriəl ˈsæbəˌtɑʒ",
-   "spell": "industrial sabotage"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он запищал",
-   "ipa": "ɪt bipt",
-   "spell": "it beeped"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "становится облачно",
-   "ipa": "ɪts ˈɡɛtɪŋ ˈklaʊdi",
-   "spell": "it's getting cloudy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "минималистский декор",
-   "ipa": "ˈmɪnəməlɪst dɪˈkɔr",
-   "spell": "minimalist decor"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нарциссический",
-   "ipa": "ˌnɑrsɪˈsɪstɪk",
-   "spell": "narcissistic"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ни один из них недостаточно хорош",
-   "ipa": "nʌn ʌv ðɛm ɪz ɡʊd ɪˈnʌf",
-   "spell": "none of them is good enough"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Париж",
-   "ipa": "ˈpɛrɪs",
-   "spell": "Paris"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она происходила из буржуазной семьи",
-   "ipa": "ʃi keɪm frʌm ə bʊərˈʒwɑ ˈfæməli",
-   "spell": "she came from a bourgeois family"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она была права, сделав это",
-   "ipa": "ʃi wʌz ˈʤʌstəˌfaɪd ɪn ˈduɪŋ ðæt",
-   "spell": "she was justified in doing that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она моя невеста",
-   "ipa": "ʃiz maɪ fiˈænsi",
-   "spell": "she's my fiancee"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шофер какой-то кинозвезды",
-   "ipa": "sʌm fɪlm stɑrz ʃoʊˈfɜr",
-   "spell": "some film star's chauffeur"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "таковы правила игры",
-   "ipa": "ðæts ðə neɪm ʌv ðə ɡeɪm",
-   "spell": "that's the name of the game"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "развязка истории",
-   "ipa": "ðə ˌdeɪˌnuˈmɑn ʌv ðə ˈstɔri",
-   "spell": "the denouement of the story"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мусорный контейнер почти полон",
-   "ipa": "ðə ˈdʌmpstər ɪz ˈɔlˌmoʊst fʊl",
-   "spell": "the Dumpster is almost full"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чем раньше я начну, тем раньше смогу уйти",
-   "ipa": "ði ˈɜrliər aɪ stɑrt ði ˈɜrliər aɪ kæn liv",
-   "spell": "the earlier I start the earlier I can leave"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "небо стало серым и тяжелым",
-   "ipa": "ðə skaɪ ɡru ɡreɪ ænd ˈhɛvi",
-   "spell": "the sky grew gray and heavy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "небо становится серым",
-   "ipa": "ðə skaɪ ɪz ˈtɜrnɪŋ ɡreɪ",
-   "spell": "the sky is turning gray"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вся идея слишком извращённа",
-   "ipa": "ðə hoʊl aɪˈdiə ɪz tu pərˈvɜrs",
-   "spell": "the whole idea is too perverse"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они пили аперитивы в летнем салоне",
-   "ipa": "ðeɪ dræŋk əˌpɛrəˈtifs ɪn ðə ˈsʌmər səˈlɑn",
-   "spell": "they drank aperitifs in the summer salon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это мой бывший",
-   "ipa": "ðɪs ɪz maɪ ɛks",
-   "spell": "this is my ex"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проанализировать это",
-   "ipa": "tu ˈænəˌlaɪz ɪt",
-   "spell": "to analyze it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "быть полезным для меня",
-   "ipa": "tu bi ɡʊd fɔr mi",
-   "spell": "to be good for me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хорошо ко мне относиться",
-   "ipa": "tu bi ɡʊd tu mi",
-   "spell": "to be good to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "препарировать жизни знаменитых людей",
-   "ipa": "tu daɪˈsɛkt ðə laɪvz ʌv ˈfeɪməs ˈpipəl",
-   "spell": "to dissect the lives of famous people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "оправиться после расставания",
-   "ipa": "tu ɡɛt ˈoʊvər ə ˈbreɪˌkʌp",
-   "spell": "to get over a breakup"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проходить через разрыв отношений",
-   "ipa": "tu ɡɛt θru ə ˈbreɪˌkʌp",
-   "spell": "to get through a breakup"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приходить на работу раньше",
-   "ipa": "tu ɡɛt tu wɜrk ˈɜrliər",
-   "spell": "to get to work earlier"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "иметь тайное свидание",
-   "ipa": "tu hæv ə ˈsikrət ˈrɑndɪˌvu",
-   "spell": "to have a secret rendezvous"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "унижать",
-   "ipa": "tu hjuˈmɪliˌeɪt",
-   "spell": "to humiliate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фотографировать",
-   "ipa": "tu ˈfoʊtəˌɡræf",
-   "spell": "to photograph"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хвалить",
-   "ipa": "tu preɪz",
-   "spell": "to praise"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "представить им свершившийся факт",
-   "ipa": "tu priˈzɛnt ðɛm wɪð ə feɪt ˌɑˈkɑmpli",
-   "spell": "to present them with a fait accompli"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "исправить оплошность",
-   "ipa": "tu ˈrɛktəˌfaɪ ə foʊ pɑ",
-   "spell": "to rectify a faux pas"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "осесть",
-   "ipa": "tu ˈsɛtəl daʊn",
-   "spell": "to settle down"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отомстить ему",
-   "ipa": "tu teɪk riˈvɛnʤ ɑn hɪm",
-   "spell": "to take revenge on him"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "какое у нее богатое воображение!",
-   "ipa": "wɑt ə ɡreɪt ɪˌmæʤəˈneɪʃən ʃi hæz!",
-   "spell": "what a great imagination she has!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "какое у нее хорошее воображение",
-   "ipa": "wɑt ɡʊd ɪˌmæʤəˈneɪʃən ʃi hæz",
-   "spell": "what good imagination she has"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "оглядываясь назад, я не уверен, что сделал правильный ход",
-   "ipa": "wɪð ˈhaɪndˌsaɪt aɪ æm nɑt ʃʊr ðæt aɪ meɪd ðə raɪt muv",
-   "spell": "with hindsight I am not sure that I made the right move"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "светловолосый молодой человек",
+      "ipa": "ə blɑnd jʌŋ mæn",
+      "spell": "a blond young man"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "невеста",
+      "ipa": "ə braɪd",
+      "spell": "a bride"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жених",
+      "ipa": "ə ˈbraɪdˌɡrum",
+      "spell": "a bridegroom"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кафе",
+      "ipa": "ə kəˈfeɪ",
+      "spell": "a cafe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "государственный переворот",
+      "ipa": "ə ku deɪˈtɑ",
+      "spell": "a coup d'etat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "криминолог",
+      "ipa": "ə ˌkrɪmɪˈnɑləʤɪst",
+      "spell": "a criminologist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "круассан",
+      "ipa": "ə ˌkwɑˈsɑnt",
+      "spell": "a croissant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жанр",
+      "ipa": "ə ˈʒɑnrə",
+      "spell": "a genre"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "огромный букет цветов",
+      "ipa": "ə hjuʤ buˈkeɪ ʌv ˈflaʊərz",
+      "spell": "a huge bouquet of flowers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "местный предприниматель",
+      "ipa": "ə ˈloʊkəl ˌɑntrəprəˈnɜr",
+      "spell": "a local entrepreneur"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "автор текстов песен",
+      "ipa": "ə ˈlɪrɪsɪst",
+      "spell": "a lyricist"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нувориш",
+      "ipa": "ə ˌnuˈvoʊ rɪʧ",
+      "spell": "a nouveau riche"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "костюм и галстук",
+      "ipa": "ə sut ænd taɪ",
+      "spell": "a suit and tie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "свитер",
+      "ipa": "ə ˈswɛtər",
+      "spell": "a sweater"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "насильственный военный переворот",
+      "ipa": "ə ˈvaɪələnt ˈmɪləˌtɛri ku",
+      "spell": "a violent military coup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "способ выпустить пар после напряженного дня",
+      "ipa": "ə weɪ tu vɛnt ˈæftər ə ˈstrɛsfəl deɪ",
+      "spell": "a way to vent after a stressful day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знаток вин",
+      "ipa": "ə waɪn ˌkɑnəˈsɜr",
+      "spell": "a wine connoisseur"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "иностранная гувернантка живет в семье",
+      "ipa": "ən oʊ pɛr steɪz wɪð ə ˈfæməli",
+      "spell": "an au pair stays with a family"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ар-нуво (стиль)",
+      "ipa": "ɑrt ˌnuˈvoʊ",
+      "spell": "art nouveau"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любой ценой",
+      "ipa": "æt ɔl kɑsts",
+      "spell": "at all costs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "балет",
+      "ipa": "bæˈleɪ",
+      "spell": "ballet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "французская кухня",
+      "ipa": "frɛnʧ kwɪˈzin",
+      "spell": "French cuisine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скатертью дорога!",
+      "ipa": "ɡʊd ˈrɪdəns!",
+      "spell": "good riddance!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Гран-при",
+      "ipa": "ɡrænd pri",
+      "spell": "Grand Prix"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он мне отомстил",
+      "ipa": "hi ɡɑt bæk æt mi",
+      "spell": "he got back at me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него есть шарм",
+      "ipa": "hi hæz ʧɑrm",
+      "spell": "he has charm"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он был прекрасным рассказчиком",
+      "ipa": "hi wʌz ə ˈwʌndərfəl ˌrækɑnˈtur",
+      "spell": "he was a wonderful raconteur"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он мой жених",
+      "ipa": "hiz maɪ fiˈɑnˌseɪ",
+      "spell": "he's my fiance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "задние лапы",
+      "ipa": "haɪnd lɛɡz",
+      "spell": "hind legs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "его красивая блондинка жена",
+      "ipa": "hɪz ˈprɪti blɑnd waɪf",
+      "spell": "his pretty blonde wife"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня было чувство дежавю",
+      "ipa": "aɪ hæd ə sɛns ʌv ˈdiʤə vu",
+      "spell": "I had a sense of deja vu"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я знаю, что это клише",
+      "ipa": "aɪ noʊ ɪts ə kliˈʃeɪ",
+      "spell": "I know it's a cliché"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я совершил настоящий промах, некрасивый поступок",
+      "ipa": "aɪ meɪd ə riəl foʊ pɑ",
+      "spell": "I made a real faux pas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, чтобы мы сошлись снова",
+      "ipa": "aɪ wɑnt ʌs tu ɡɛt bæk təˈɡɛðər",
+      "spell": "I want us to get back together"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я с тобой расквитаюсь — вот увидишь!",
+      "ipa": "aɪl ɡɛt ˈivɪn wɪð ju -- ʤʌst weɪt!",
+      "spell": "I'll get even with you -- just wait!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лично",
+      "ipa": "ɪn ˈpɜrsən",
+      "spell": "in person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в Венеции",
+      "ipa": "ɪn ˈvɛnəs",
+      "spell": "in Venice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "промышленный саботаж",
+      "ipa": "ɪnˈdʌstriəl ˈsæbəˌtɑʒ",
+      "spell": "industrial sabotage"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он запищал",
+      "ipa": "ɪt bipt",
+      "spell": "it beeped"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "становится облачно",
+      "ipa": "ɪts ˈɡɛtɪŋ ˈklaʊdi",
+      "spell": "it's getting cloudy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "минималистский декор",
+      "ipa": "ˈmɪnəməlɪst dɪˈkɔr",
+      "spell": "minimalist decor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нарциссический",
+      "ipa": "ˌnɑrsɪˈsɪstɪk",
+      "spell": "narcissistic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ни один из них недостаточно хорош",
+      "ipa": "nʌn ʌv ðɛm ɪz ɡʊd ɪˈnʌf",
+      "spell": "none of them is good enough"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Париж",
+      "ipa": "ˈpɛrɪs",
+      "spell": "Paris"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она происходила из буржуазной семьи",
+      "ipa": "ʃi keɪm frʌm ə bʊərˈʒwɑ ˈfæməli",
+      "spell": "she came from a bourgeois family"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она была права, сделав это",
+      "ipa": "ʃi wʌz ˈʤʌstəˌfaɪd ɪn ˈduɪŋ ðæt",
+      "spell": "she was justified in doing that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она моя невеста",
+      "ipa": "ʃiz maɪ fiˈænsi",
+      "spell": "she's my fiancee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шофер какой-то кинозвезды",
+      "ipa": "sʌm fɪlm stɑrz ʃoʊˈfɜr",
+      "spell": "some film star's chauffeur"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "таковы правила игры",
+      "ipa": "ðæts ðə neɪm ʌv ðə ɡeɪm",
+      "spell": "that's the name of the game"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "развязка истории",
+      "ipa": "ðə ˌdeɪˌnuˈmɑn ʌv ðə ˈstɔri",
+      "spell": "the denouement of the story"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мусорный контейнер почти полон",
+      "ipa": "ðə ˈdʌmpstər ɪz ˈɔlˌmoʊst fʊl",
+      "spell": "the Dumpster is almost full"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чем раньше я начну, тем раньше смогу уйти",
+      "ipa": "ði ˈɜrliər aɪ stɑrt ði ˈɜrliər aɪ kæn liv",
+      "spell": "the earlier I start the earlier I can leave"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "небо стало серым и тяжелым",
+      "ipa": "ðə skaɪ ɡru ɡreɪ ænd ˈhɛvi",
+      "spell": "the sky grew gray and heavy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "небо становится серым",
+      "ipa": "ðə skaɪ ɪz ˈtɜrnɪŋ ɡreɪ",
+      "spell": "the sky is turning gray"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вся идея слишком извращённа",
+      "ipa": "ðə hoʊl aɪˈdiə ɪz tu pərˈvɜrs",
+      "spell": "the whole idea is too perverse"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они пили аперитивы в летнем салоне",
+      "ipa": "ðeɪ dræŋk əˌpɛrəˈtifs ɪn ðə ˈsʌmər səˈlɑn",
+      "spell": "they drank aperitifs in the summer salon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это мой бывший",
+      "ipa": "ðɪs ɪz maɪ ɛks",
+      "spell": "this is my ex"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проанализировать это",
+      "ipa": "tu ˈænəˌlaɪz ɪt",
+      "spell": "to analyze it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быть полезным для меня",
+      "ipa": "tu bi ɡʊd fɔr mi",
+      "spell": "to be good for me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хорошо ко мне относиться",
+      "ipa": "tu bi ɡʊd tu mi",
+      "spell": "to be good to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "препарировать жизни знаменитых людей",
+      "ipa": "tu daɪˈsɛkt ðə laɪvz ʌv ˈfeɪməs ˈpipəl",
+      "spell": "to dissect the lives of famous people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оправиться после расставания",
+      "ipa": "tu ɡɛt ˈoʊvər ə ˈbreɪˌkʌp",
+      "spell": "to get over a breakup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проходить через разрыв отношений",
+      "ipa": "tu ɡɛt θru ə ˈbreɪˌkʌp",
+      "spell": "to get through a breakup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приходить на работу раньше",
+      "ipa": "tu ɡɛt tu wɜrk ˈɜrliər",
+      "spell": "to get to work earlier"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "иметь тайное свидание",
+      "ipa": "tu hæv ə ˈsikrət ˈrɑndɪˌvu",
+      "spell": "to have a secret rendezvous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "унижать",
+      "ipa": "tu hjuˈmɪliˌeɪt",
+      "spell": "to humiliate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фотографировать",
+      "ipa": "tu ˈfoʊtəˌɡræf",
+      "spell": "to photograph"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хвалить",
+      "ipa": "tu preɪz",
+      "spell": "to praise"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "представить им свершившийся факт",
+      "ipa": "tu priˈzɛnt ðɛm wɪð ə feɪt ˌɑˈkɑmpli",
+      "spell": "to present them with a fait accompli"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "исправить оплошность",
+      "ipa": "tu ˈrɛktəˌfaɪ ə foʊ pɑ",
+      "spell": "to rectify a faux pas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осесть",
+      "ipa": "tu ˈsɛtəl daʊn",
+      "spell": "to settle down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отомстить ему",
+      "ipa": "tu teɪk riˈvɛnʤ ɑn hɪm",
+      "spell": "to take revenge on him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какое у нее богатое воображение!",
+      "ipa": "wɑt ə ɡreɪt ɪˌmæʤəˈneɪʃən ʃi hæz!",
+      "spell": "what a great imagination she has!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какое у нее хорошее воображение",
+      "ipa": "wɑt ɡʊd ɪˌmæʤəˈneɪʃən ʃi hæz",
+      "spell": "what good imagination she has"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оглядываясь назад, я не уверен, что сделал правильный ход",
+      "ipa": "wɪð ˈhaɪndˌsaɪt aɪ æm nɑt ʃʊr ðæt aɪ meɪd ðə raɪt muv",
+      "spell": "with hindsight I am not sure that I made the right move"
+    }
+  ]
 }
