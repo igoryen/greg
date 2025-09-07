@@ -1,0 +1,436 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "period": "week",
+  "number": 36,
+  "date": "2025-09-05",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хороший вид на озеро",
+   "ipa": "ə гʊд въю ʌв ðə лэйк",
+   "spell": "a good view of the lake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "человек, который никуда не ходит",
+   "ipa": "ə мæн hу гоуз ˈноуˌwэр",
+   "spell": "a man who goes nowhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лыжная зона",
+   "ipa": "ə ски ˈэриə",
+   "spell": "a ski area"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой-либо",
+   "ipa": "ˈэни",
+   "spell": "any"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто-либо",
+   "ipa": "ˈэнибəди",
+   "spell": "anybody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-либо",
+   "ipa": "ˈэниˌθɪŋ",
+   "spell": "anything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть ли какие-либо объекты?",
+   "ipa": "ɑр ðэр ˈэни ˈɑбджэктс?",
+   "spell": "are there any objects?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть ли какие-либо люди?",
+   "ipa": "ɑр ðэр ˈэни ˈпипəл?",
+   "spell": "are there any people?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грязные места",
+   "ipa": "ˈдɜрти ˈплэйсəз",
+   "spell": "dirty places"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в пяти минутах",
+   "ipa": "файв ˈмɪнəтс əˈwэй",
+   "spell": "five minutes away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он будит свою жену",
+   "ipa": "hи wэйкс hɪз wайф ʌп",
+   "spell": "he wakes his wife up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как прошёл твой первый день осени?",
+   "ipa": "hау wʌз йʊəр фɜрст дэй ʌв фɔл",
+   "spell": "how was your first day of fall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне плохо",
+   "ipa": "ай фил бæд",
+   "spell": "I feel bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я там не был",
+   "ipa": "ай hæв нɑт бɪн ðэр",
+   "spell": "I have not been there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я хотел бы туда поехать",
+   "ipa": "ай wʊд лайк ту гоу ðэр",
+   "spell": "I would like to go there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть ли объект?",
+   "ipa": "ɪз ðэр əн ˈɑбджэкт?",
+   "spell": "is there an object?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть ли кто-нибудь?",
+   "ipa": "ɪз ðэр ˈэнибəди?",
+   "spell": "is there anybody?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть ли что-нибудь?",
+   "ipa": "ɪз ðэр ˈэниˌθɪŋ?",
+   "spell": "is there anything?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как глина",
+   "ipa": "лайк клэй",
+   "spell": "like clay"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никаких людей, никакие люди",
+   "ipa": "ноу ˈпипəл",
+   "spell": "no people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никакого курения",
+   "ipa": "ноу ˈсмоукɪŋ",
+   "spell": "no smoking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет, нет (для множественного числа)",
+   "ipa": "ноу, ðэр ˈɑрəнт",
+   "spell": "no, there aren’t"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет, нет (для единственного числа)",
+   "ipa": "ноу, ðэр ˈɪзəнт",
+   "spell": "no, there isn’t"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не так много",
+   "ipa": "нɑт ðæт мʌч",
+   "spell": "not that much"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на третьем этаже",
+   "ipa": "ɑн ðə θɜрд флор",
+   "spell": "on the third floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой-то, некоторый",
+   "ipa": "сʌм",
+   "spell": "some"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "некоторые люди",
+   "ipa": "сʌм ˈпипəл",
+   "spell": "some people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "некоторые говорят",
+   "ipa": "сʌм ˈпипəл сэй",
+   "spell": "some people say"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кто-то",
+   "ipa": "ˈсʌмˌбɑди",
+   "spell": "somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что-то",
+   "ipa": "ˈсʌмθɪŋ",
+   "spell": "something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на вкус и цвет товарищей нет",
+   "ipa": "тэйстс ˈдɪфəр",
+   "spell": "tastes differ"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слава богу",
+   "ipa": "θæŋк гɑд",
+   "spell": "thank god"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "течение очень сильное",
+   "ipa": "ðə ˈкɜрəнт ɪз ˈвэри стрɔŋ",
+   "spell": "the current is very strong"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вода не голубая",
+   "ipa": "ðə ˈwɔтəр ɪз нɑт блу",
+   "spell": "the water is not blue"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть некоторые объекты",
+   "ipa": "ðэр ɑр сʌм ˈɑбджэктс",
+   "spell": "there are some objects"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть некоторые люди",
+   "ipa": "ðэр ɑр сʌм ˈпипəл",
+   "spell": "there are some people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть несколько комнат",
+   "ipa": "ðэр ɑр сʌм румз",
+   "spell": "there are some rooms"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "имеется в наличии",
+   "ipa": "ðэр ɑр/ɪз",
+   "spell": "there are/is"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет никаких людей",
+   "ipa": "ðэр ˈɑрəнт ˈэни ˈпипəл",
+   "spell": "there aren't any people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет никаких комнат",
+   "ipa": "ðэр ˈɑрəнт ˈэни румз",
+   "spell": "there aren't any rooms"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет никаких объектов",
+   "ipa": "ðэр ˈɑрəнт ˈэни ˈɑбджэктс",
+   "spell": "there aren’t any objects"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет никаких людей",
+   "ipa": "ðэр ˈɑрəнт ˈэни ˈпипəл",
+   "spell": "there aren’t any people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть дом",
+   "ipa": "ðэр ɪз ə hаус",
+   "spell": "there is a house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть объект",
+   "ipa": "ðэр ɪз əн ˈɑбджэкт",
+   "spell": "there is an object"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "никого нет",
+   "ipa": "ðэр ɪз ˈноуˌбɑˌди",
+   "spell": "there is nobody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ничего нет",
+   "ipa": "ðэр ɪз ˈнʌθɪŋ",
+   "spell": "there is nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть кто-то",
+   "ipa": "ðэр ɪз ˈсʌмˌбɑди",
+   "spell": "there is somebody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть что-то",
+   "ipa": "ðэр ɪз ˈсʌмθɪŋ",
+   "spell": "there is something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "есть (наличие)",
+   "ipa": "ðэр ɪз/ɑр",
+   "spell": "there is/are"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет никакого дома",
+   "ipa": "ðэр ˈɪзəнт ˈэни hаус",
+   "spell": "there isn't any house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет объекта",
+   "ipa": "ðэр ˈɪзəнт əн ˈɑбджэкт",
+   "spell": "there isn’t an object"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет никого",
+   "ipa": "ðэр ˈɪзəнт ˈэнибəди",
+   "spell": "there isn’t anybody"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет ничего",
+   "ipa": "ðэр ˈɪзəнт ˈэниˌθɪŋ",
+   "spell": "there isn’t anything"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "им нужно идти завтракать",
+   "ipa": "ðэй hæв ту гоу ту ˈбрэкфəст",
+   "spell": "they have to go to breakfast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "до четырех пятнадцати",
+   "ipa": "əнˈтɪл фор фɪфˈтин",
+   "spell": "until four fifteen"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень страшно",
+   "ipa": "ˈвэри ˈскэри",
+   "spell": "very scary"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам пришлось работать до двух дня",
+   "ipa": "wи hæд ту wɜрк əнˈтɪл ту ˈпиˈэм",
+   "spell": "we had to work until two PM"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где еще?",
+   "ipa": "wэр элс?",
+   "spell": "where else?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "да, имеются",
+   "ipa": "йэс, ðэр ɑр",
+   "spell": "yes, there are"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "да, имеется",
+   "ipa": "йэс, ðэр ɪз",
+   "spell": "yes, there is"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты не был в Вермонте",
+   "ipa": "ю hæв нɑт бɪн ту вəрˈмɑнт",
+   "spell": "you have not been to Vermont"
+ }
+]
+}
