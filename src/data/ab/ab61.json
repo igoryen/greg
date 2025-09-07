@@ -1,0 +1,604 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "period": "week",
+  "number": 36,
+  "date": "2025-09-05",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "удар по её самолюбию",
+   "ipa": "ə блоу ту hɜр прайд",
+   "spell": "a blow to her pride"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сайт знакомств",
+   "ipa": "ə ˈдэйтɪŋ ˈwэбˌсайт",
+   "spell": "a dating website"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ужин",
+   "ipa": "ə ˈдɪнəр",
+   "spell": "a dinner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "удар по самооценке",
+   "ipa": "ə hɪт ту wʌнз сэлф-əˈстим",
+   "spell": "a hit to one's self-esteem"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обед",
+   "ipa": "ə лʌнч",
+   "spell": "a lunch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разрешение",
+   "ipa": "ə ˈпɜрˌмɪт",
+   "spell": "a permit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ритм",
+   "ipa": "ə ˈрɪðəм",
+   "spell": "a rhythm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "трамвай",
+   "ipa": "ə стрит кɑр",
+   "spell": "a street car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обычный скучный день",
+   "ipa": "ə ˈюжəwəл ˈборɪŋ дэй",
+   "spell": "a usual boring day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень позитивный человек",
+   "ipa": "ə ˈвэри ˈпɑзəтɪв ˈпɜрсəн",
+   "spell": "a very positive person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прими мои добрые пожелания",
+   "ipa": "æкˈсэпт май гʊд ˈwɪщɪз",
+   "spell": "accept my good wishes"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "владелец",
+   "ipa": "əн ˈоунəр",
+   "spell": "an owner"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Они пытаются вас подсидеть?",
+   "ipa": "ɑр ðэй ˈтрайɪŋ ту ˈʌндəрˌмайн ю?",
+   "spell": "Are they trying to undermine you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вы здесь по поводу вакансии?",
+   "ipa": "ɑр ю hир əˈбаут ə джɑб ˌɑпəрˈтунəти?",
+   "spell": "are you here about a job opportunity?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потому что",
+   "ipa": "бɪˈкɔз",
+   "spell": "because"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всего наилучшего!",
+   "ipa": "бэст ˈwɪщɪз!",
+   "spell": "best wishes!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "скучный",
+   "ipa": "ˈборɪŋ",
+   "spell": "boring"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "методом тыка",
+   "ipa": "бай ˈтрайəл æнд ˈэрəр",
+   "spell": "by trial and error"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно мне чашку чая?",
+   "ipa": "кæн ай hæв ə кʌп ʌв ти?",
+   "spell": "can I have a cup of tea?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу вам помочь?",
+   "ipa": "кæн ай hэлп ю?",
+   "spell": "can I help you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чем могу помочь?",
+   "ipa": "кæн ай hэлп ю?",
+   "spell": "can I help you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "конечно",
+   "ipa": "ˈсɜртəнли",
+   "spell": "certainly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обстоятельства",
+   "ipa": "ˈсɜркəмˌстæнсəз",
+   "spell": "circumstances"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приходите в понедельник",
+   "ipa": "кʌм бæк ˈмʌнˌдэй",
+   "spell": "come back Monday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мог бы",
+   "ipa": "кʊд",
+   "spell": "could"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно мне чашку чая?",
+   "ipa": "кʊд ай гэт ə кʌп ʌв ти?",
+   "spell": "could I get a cup of tea?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты когда-нибудь занимаешься каякингом?",
+   "ipa": "ду ю ˈэвəр ду ˈкайˌæкɪŋ?",
+   "spell": "do you ever do kayaking?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе нужна помощь?",
+   "ipa": "ду ю нид ə hæнд?",
+   "spell": "do you need a hand?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе нужна моя помощь?",
+   "ipa": "ду ю нид май hэлп?",
+   "spell": "do you need my help?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты обычно ходишь в кино?",
+   "ipa": "ду ю ˈюжəwəли гоу ту ðə ˈмувиз?",
+   "spell": "do you usually go to the movies?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты хочешь, чтобы я помог?",
+   "ipa": "ду ю wɑнт ми ту hэлп ю?",
+   "spell": "do you want me to help you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вы хотите заполнить анкету?",
+   "ipa": "ду ю wɑнт ту фɪл аут əн ˌæплəˈкэйшəн?",
+   "spell": "do you want to fill out an application?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё что ни делается — всё к лучшему",
+   "ipa": "ˈэвриˌθɪŋ ðæт ˈhæпəнз ˈhæпəнз фор ðə бэст",
+   "spell": "everything that happens happens for the best"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "объясни свою логику",
+   "ipa": "ɪкˈсплэйн йʊəр ˈризəнɪŋ",
+   "spell": "explain your reasoning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "несомненно",
+   "ipa": "фор щʊр",
+   "spell": "for sure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты когда-нибудь ходил на каяках?",
+   "ipa": "hæв ю ˈэвəр бɪн ˈкайˌæкɪŋ?",
+   "spell": "have you ever been kayaking?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как ты провел время вчера?",
+   "ipa": "hау дɪд ю спэнд йʊəр тайм ˈйэстəрˌдэй?",
+   "spell": "how did you spend your time yesterday?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "откуда ты знаешь?",
+   "ipa": "hау ду ю ноу?",
+   "spell": "how do you know?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я мог бы учить фразы",
+   "ipa": "ай кʊд лɜрн ˈфрэйзəз",
+   "spell": "I could learn phrases"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я решил не идти на работу",
+   "ipa": "ай ˌдɪˈсайдɪд нɑт ту гоу ту wɜрк",
+   "spell": "I decided not to go to work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я много пил вчера",
+   "ipa": "ай дɪд ə лɑт ʌв ˈдрɪŋкɪŋ ˈйэстəрˌдэй",
+   "spell": "I did a lot of drinking yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я поплавал",
+   "ipa": "ай дɪд сʌм ˈсwɪмɪŋ",
+   "spell": "I did some swimming"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я много пил вчера",
+   "ipa": "ай дрæŋк ə лɑт ˈйэстəрˌдэй",
+   "spell": "I drank a lot yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ненавижу беспокоиться",
+   "ipa": "ай hэйт ˈwɜриɪŋ",
+   "spell": "I hate worrying"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не должен вас задерживать",
+   "ipa": "ай ˈщʊдəнт hоулд ю ʌп",
+   "spell": "I shouldn't hold you up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я говорил по-английски сегодня",
+   "ipa": "ай споук ˈɪŋглɪш тəˈдэй",
+   "spell": "I spoke English today"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я всё слишком близко к сердцу принимаю",
+   "ipa": "ай тэйк ˈэвриˌθɪŋ ту мʌч ту hɑрт",
+   "spell": "I take everything too much to heart"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я отпущу вас",
+   "ipa": "ай wɪл лэт ю гоу",
+   "spell": "I will let you go"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "желаю вам всего наилучшего!",
+   "ipa": "ай wɪш ю ɔл ðə бэст!",
+   "spell": "I wish you all the best!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не смею вас задерживать",
+   "ipa": "ай wоунт кип ю ˈэни ˈлɔŋгəр",
+   "spell": "I won't keep you any longer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "под вас копают?",
+   "ipa": "ɪз ˈсʌмˌwʌн аут ту гэт ю?",
+   "spell": "is someone out to get you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "может быть и так, и так",
+   "ipa": "ɪт кæн би боуθ",
+   "spell": "it can be both"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это зависит от обстоятельств",
+   "ipa": "ɪт дɪˈпэндз ɑн ðə ˈсɜркəмˌстæнсəз",
+   "spell": "it depends on the circumstances"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это зависит от ситуации",
+   "ipa": "ɪт дɪˈпэндз ɑн ðə ˌсɪчуˈэйшəн",
+   "spell": "it depends on the situation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это была моя заслуга",
+   "ipa": "ɪт wʌз май əˈчивмəнт",
+   "spell": "it was my achievement"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "так лучше",
+   "ipa": "ɪтс ˈбэтəр ðɪс wэй",
+   "spell": "it's better this way"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Джейсона нет",
+   "ipa": "ˈджэйсəн ɪз нɑт hир",
+   "spell": "Jason is not here"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "просто обычный скучный день",
+   "ipa": "джʌст əн ˈордəˌнэри ˈборɪŋ дэй",
+   "spell": "just an ordinary boring day"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обоснуй",
+   "ipa": "ˈджʌстəˌфай ɪт",
+   "spell": "justify it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с другой стороны",
+   "ipa": "ɑн ðи ˈʌðəр hæнд",
+   "spell": "on the other hand"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один год опыта",
+   "ipa": "wʌн йɪр ʌв ɪкˈспɪриəнс",
+   "spell": "one year of experience"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "или нет",
+   "ipa": "ор нɑт",
+   "spell": "or not"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вне пределов дома",
+   "ipa": "ˈаутˈсайд ðə hаус",
+   "spell": "outside the house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пожалуйста, приходите в понедельник",
+   "ipa": "плиз кʌм бæк ɑн ˈмʌнˌдэй",
+   "spell": "please come back on Monday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "конечно",
+   "ipa": "щʊр",
+   "spell": "sure"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вот почему",
+   "ipa": "ðæтс wай",
+   "spell": "that's why"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кино",
+   "ipa": "ðə ˈмувиз",
+   "spell": "the movies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утро вечера мудренее",
+   "ipa": "θɪŋз wɪл лʊк ˈбэтəр ɪн ðə ˈморнɪŋ",
+   "spell": "things will look better in the morning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "так",
+   "ipa": "ðɪс wэй",
+   "spell": "this way"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "попросить что-либо",
+   "ipa": "ту æск фор ˈсʌмθɪŋ",
+   "spell": "to ask for something"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прояснить любые сомнения",
+   "ipa": "ту клɪр ʌп ˈэни даутс",
+   "spell": "to clear up any doubts"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "зависеть",
+   "ipa": "ту дɪˈпэнд",
+   "spell": "to depend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "развеять сомнения",
+   "ipa": "ту дɪˈспэл даутс",
+   "spell": "to dispel doubts"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждому своё",
+   "ipa": "ту ич ðэр оун",
+   "spell": "to each their own"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пойти погулять",
+   "ipa": "ту гоу фор ə wɔк",
+   "spell": "to go for a walk"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "рисовать",
+   "ipa": "ту пэйнт",
+   "spell": "to paint"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "петь",
+   "ipa": "ту сɪŋ",
+   "spell": "to sing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы покатались на каноэ",
+   "ipa": "wи дɪд сʌм кəˈнуɪŋ",
+   "spell": "we did some canoeing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы делаем",
+   "ipa": "wи ду",
+   "spell": "we do"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы ходили на каноэ",
+   "ipa": "wи wэнт кəˈнуɪŋ",
+   "spell": "we went canoeing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я хожу в поход",
+   "ipa": "wэн ай гоу ˈкæмпɪŋ",
+   "spell": "when I go camping"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда я вошёл",
+   "ipa": "wэн ай wэнт ɪн",
+   "spell": "when I went in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "когда вы пойдете в ресторан?",
+   "ipa": "wэн wɪл ю гоу ту ðə ˈрэстəˌрɑнт?",
+   "spell": "when will you go to the restaurant?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хочешь, чтобы я помог?",
+   "ipa": "wʊд ю лайк ми ту hэлп ю?",
+   "spell": "would you like me to help you?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты лучше знаешь",
+   "ipa": "ю ноу ˈбэтəр",
+   "spell": "you know better"
+ }
+]
+}
