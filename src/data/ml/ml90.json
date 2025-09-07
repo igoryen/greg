@@ -1,0 +1,555 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "period": "week",
+  "number": 36,
+  "date": "2025-09-03",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утюг для одежды",
+   "ipa": "ə клоуðз ˈайəрн",
+   "spell": "a clothes iron"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "аптека (где продают и товары, и лекарства)",
+   "ipa": "ə ˈдрʌгˌстор",
+   "spell": "a drugstore"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утюг без отпаривания",
+   "ipa": "ə драй ˈайəрн",
+   "spell": "a dry iron"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утюг (старомодный)",
+   "ipa": "ˈфлæтˌайəрн",
+   "spell": "a flatiron"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обязательное условие для курса",
+   "ipa": "ə приˈрэкwəзəт фор ðə корс",
+   "spell": "a prerequisite for the course"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утюг для разглаживания",
+   "ipa": "ə ˈсмуðɪŋ ˈайəрн",
+   "spell": "a smoothing iron"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "паровой утюг",
+   "ipa": "ə стим ˈайəрн",
+   "spell": "a steam iron"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "утюг",
+   "ipa": "əн ˈайəрн",
+   "spell": "an iron"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "невыносимо высокомерный риелтор",
+   "ipa": "əн əнˈбэрəбли ˈэрəгəнт ˈриəлтəр",
+   "spell": "an unbearably arrogant realtor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь готов торговаться",
+   "ipa": "би приˈпэрд ту ˈhæгəл",
+   "spell": "be prepared to haggle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Каир - столица Египта",
+   "ipa": "ˈкайроу ɪз ðə ˈкæпəтəл ʌв ˈиджəпт",
+   "spell": "Cairo is the capital of Egypt"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Китай потерял деньги",
+   "ipa": "ˈчайнə лɔст ˈмʌни",
+   "spell": "China lost money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не сглазь",
+   "ipa": "доунт джɪŋкс ɪт",
+   "spell": "don't jinx it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обязательные прививки",
+   "ipa": "ɪˈсэншəл ˌвæксəˈнэйшəнз",
+   "spell": "essential vaccinations"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "практическое обучение",
+   "ipa": "hæндз-ɑн ˈтрэйнɪŋ",
+   "spell": "hands-on training"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он чувствовал себя измотанным",
+   "ipa": "hи фэлт ɪгˈзɑстɪд",
+   "spell": "he felt exhausted"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он болел гепатитом",
+   "ipa": "hи hæд ˌhэпəˈтайтəс",
+   "spell": "he had hepatitis"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он послал за мной",
+   "ipa": "hи сэнт фор ми",
+   "spell": "he sent for me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он отправил деньги не тем людям",
+   "ipa": "hи сэнт ðə ˈмʌни ту ðə рɔŋ ˈпипəл",
+   "spell": "he sent the money to the wrong people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он думал",
+   "ipa": "hи θɔт",
+   "spell": "he thought"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он подумал, что это пчела",
+   "ipa": "hи θɔт ɪт wʌз ə би",
+   "spell": "he thought it was a bee"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он использовал тактику запугивания",
+   "ipa": "hи юзд скэр ˈтæктɪкс",
+   "spell": "he used scare tactics"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он почти терял рассудок",
+   "ipa": "hи wʌз ˈɔлˌмоуст ˈлузɪŋ hɪз майнд",
+   "spell": "he was almost losing his mind"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он был измотан",
+   "ipa": "hи wʌз ɪгˈзɑстɪд",
+   "spell": "he was exhausted"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он был невероятно удачлив",
+   "ipa": "hи wʌз ɪнˈкрэдəбли ˈлʌки",
+   "spell": "he was incredibly lucky"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его спасли",
+   "ipa": "hи wʌз ˈрэскъюд",
+   "spell": "he was rescued"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он устал",
+   "ipa": "hи wʌз ˈтайəрд",
+   "spell": "he was tired"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не могу решиться",
+   "ipa": "ай кæнт мэйк ʌп май майнд",
+   "spell": "I can't make up my mind"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я мог только представить",
+   "ipa": "ай кʊд ˈоунли ɪˈмæджəн",
+   "spell": "I could only imagine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я на это не подписывался",
+   "ipa": "ай ˈдɪдəнт сайн ʌп фор ðɪс",
+   "spell": "I didn't sign up for this"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне не нравится ходить в обычный лес",
+   "ipa": "ай доунт лайк ˈгоуɪŋ ту ə ˈрэгйəлəр ˈфорəст",
+   "spell": "I don’t like going to a regular forest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я потеряла нить мысли",
+   "ipa": "ай лɔст май трэйн ʌв θɔт",
+   "spell": "I lost my train of thought"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я решила больше так никогда не делать",
+   "ipa": "ай риˈзɑлвд ˈнэвəр ту ду ðæт əˈгэн",
+   "spell": "I resolved never to do that again"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне их больше всех жаль",
+   "ipa": "ай ˈсɪмпəˌθайз wɪð ðэм ðə моуст",
+   "spell": "I sympathize with them the most"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я бы умер",
+   "ipa": "ай wʊд hæв дайд",
+   "spell": "I would have died"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если бы он был внимательнее с документами, они могли бы отправить деньги правильно",
+   "ipa": "ɪф hи hæд бɪн мор ˈкэрфəл wɪð ðə ˈпэйпəрˌwɜрк ðэй кʊд hæв сэнт ðə ˈмʌни ˈпрɑпəрли",
+   "spell": "if he had been more careful with the paperwork they could have sent the money properly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если бы я получила водительские права, я могла бы записаться на тот курс",
+   "ipa": "ɪф ай hæд ˈгɑтəн май ˈдрайвəрз ˈлайсəнс, ай кʊд hæв энˈроулд ɪн ðæт корс",
+   "spell": "if I had gotten my driver's license, I could have enrolled in that course"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "важные прививки",
+   "ipa": "ɪмˈпортəнт шɑтс (æз ɪн вæксəˈнэйшəн)",
+   "spell": "important shots (as in vaccination)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это заняло у нас много времени",
+   "ipa": "ɪт тʊк ʌс ə лɑт ʌв тайм",
+   "spell": "it took us a lot of time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "было 11:30 ночи, и никого не было вокруг / поблизости",
+   "ipa": "ɪт wʌз 11:30 æт найт, æнд ноу wʌн wʌз əˈраунд",
+   "spell": "it was 11:30 at night, and no one was around"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это была уловка",
+   "ipa": "ɪт wʌз ə руз",
+   "spell": "it was a ruse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это был отличный момент",
+   "ipa": "ɪт wʌз грэйт ˈтаймɪŋ",
+   "spell": "it was great timing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "постучи по дереву",
+   "ipa": "нɑк ɑн wʊд",
+   "spell": "knock on wood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "проба Манту",
+   "ipa": "мɑнˈту тэст",
+   "spell": "Mantoux test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "проба Манту (Мендель-Манту)",
+   "ipa": "ˈмэндəл-мɑнˈту тэст",
+   "spell": "Mendel–Mantoux test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "туберкулиновая проба",
+   "ipa": "ˌтубəрˈкъюлɪн ˌсэнсɪˈтɪвɪти тэст",
+   "spell": "tuberculin sensitivity test"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гораздо больше следов",
+   "ipa": "ˈмэни мор ˈфʊтˌпрɪнтс",
+   "spell": "many more footprints"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не то чтобы они были несчастны; они были в отчаянии",
+   "ipa": "нɑт ðæт ðэй wɜр əнˈhæпи; ðэй wɜр ˈдэспрɪт",
+   "spell": "not that they were unhappy; they were desperate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "один упал, а другой последовал за ним",
+   "ipa": "wʌн фэл, æнд ðи ˈʌðəр ˈфɑлоуд",
+   "spell": "one fell, and the other followed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "онлайн против оффлайн",
+   "ipa": "ˈɔнˌлайн ˈвɜрсəз ɔфˈлайн",
+   "spell": "online vs offline"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "этой шутке уже много лет",
+   "ipa": "ðæт джоукс бɪн əˈраунд фор йɪрз",
+   "spell": "that joke’s been around for years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лес был слишком густым",
+   "ipa": "ðə ˈфорəст wʌз ту дэнс",
+   "spell": "the forest was too dense"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они привыкли торговаться",
+   "ipa": "ðэй ɑр юзд ту ˈhæгəлɪŋ",
+   "spell": "they are used to haggling"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их может укусить змея",
+   "ipa": "ðэй кʊд би ˈбɪтəн бай ə снэйк",
+   "spell": "they could be bitten by a snake"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они пролетели над лесом",
+   "ipa": "ðэй флу ˈоувəр ðə ˈфорəст",
+   "spell": "they flew over the forest"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они дали нам время",
+   "ipa": "ðэй гэйв ʌс ðə тайм",
+   "spell": "they gave us the time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они торгуются из-за цены",
+   "ipa": "ðэй ˈhæгəл ˈоувəр ðə прайс",
+   "spell": "they haggle over the price"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они делят прибыль",
+   "ipa": "ðэй щэр ðə ˈпрɑфɪтс",
+   "spell": "they share the profits"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они спускались по реке",
+   "ipa": "ðэй wɜр ˈтрæвəлɪŋ даун ðə ˈрɪвəр",
+   "spell": "they were traveling down the river"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пройти по коридору",
+   "ipa": "ту гоу даун ðə hɔл",
+   "spell": "to go down the hall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спускаться по реке",
+   "ipa": "ту гоу даун ðə ˈрɪвəр",
+   "spell": "to go down the river"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подниматься вверх по реке",
+   "ipa": "ту гоу ˌʌˈпрɪвəр",
+   "spell": "to go upriver"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "гладить брюки",
+   "ipa": "ту ˈайəрн пæнтс",
+   "spell": "to iron pants"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заплатить человеку",
+   "ipa": "ту пэй ðə мæн",
+   "spell": "to pay the man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "решиться",
+   "ipa": "ту риˈзɑлв",
+   "spell": "to resolve"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спорить о цене",
+   "ipa": "ту ˈскwɑбəл əˈбаут ðə прайс",
+   "spell": "to squabble about the price"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спорить из-за денег",
+   "ipa": "ту ˈскwɑбəл ˈоувəр ˈмʌни",
+   "spell": "to squabble over money"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "путешествовать против течения реки",
+   "ipa": "ту ˈтрæвəл əˈгэнст ðə ˈрɪвəрз ˈкɜрəнт",
+   "spell": "to travel against the river's current"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "путешествовать по течению реки",
+   "ipa": "ту ˈтрæвəл ɪн ðə дəˈрэкшəн ʌв ðə ˈрɪвəрз ˈкɜрəнт",
+   "spell": "to travel in the direction of the river's current"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идти по коридору",
+   "ipa": "ту wɔк əˈлɔŋ ðə ˈhɔлˌwэй",
+   "spell": "to walk along the hallway"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жизненно важная информация",
+   "ipa": "ˈвайтəл ˌɪнфəрˈмэйшəн",
+   "spell": "vital information"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам пришлось унижаться, чтобы они дали нам больше времени",
+   "ipa": "wи hæд ту hъюˈмɪлиˌэйт ауəрˈсэлвз ту гэт ðэм ту гɪв ʌс мор тайм",
+   "spell": "we had to humiliate ourselves to get them to give us more time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы потеряли много времени",
+   "ipa": "wи лɔст ə лɑт ʌв тайм",
+   "spell": "we lost a lot of time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы потеряли время",
+   "ipa": "wи лɔст тайм",
+   "spell": "we lost time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ну, для начала, ...",
+   "ipa": "wэл, ту бɪˈгɪн wɪð, ...",
+   "spell": "well, to begin with, ..."
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почему вы так себя ведёте?",
+   "ipa": "wай ɑр ю ˈæктɪŋ лайк ðɪс?",
+   "spell": "why are you acting like this?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты заработаешь на этом",
+   "ipa": "ю ɑр ˈгоуɪŋ ту ˈпрɑфəт фрʌм ðɪс",
+   "spell": "you are going to profit from this"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты должен быть готов",
+   "ipa": "йʊр сəˈпоузд ту би ˈрэди",
+   "spell": "you're supposed to be ready"
+ }
+]
+}
