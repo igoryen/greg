@@ -1,0 +1,443 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 36,
+  "date": "2025-09-07",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тело",
+   "ipa": "ə ˈбɑди",
+   "spell": "a body"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "друг семьи",
+   "ipa": "ə фрэнд ʌв ðə ˈфæмəли",
+   "spell": "a friend of the family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "юридическое слово",
+   "ipa": "ə ˈлигəл wɜрд",
+   "spell": "a legal word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мужчина - мужчины",
+   "ipa": "ə мæн - мэн",
+   "spell": "a man - men"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "человек",
+   "ipa": "ə ˈпɜрсəн",
+   "spell": "a person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обычный человек",
+   "ipa": "ə ˈрэгйəлəр ˈпɜрсəн",
+   "spell": "a regular person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "задача",
+   "ipa": "ə тæск",
+   "spell": "a task"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женщина - женщины",
+   "ipa": "ə ˈwʊмəн - ˈwɪмəн",
+   "spell": "a woman - women"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "еще один брат",
+   "ipa": "əˈнʌðəр ˈбрʌðəр",
+   "spell": "another brother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь хорошим!",
+   "ipa": "би гʊд!",
+   "spell": "be good!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Дружок",
+   "ipa": "ˈбʌди",
+   "spell": "Buddy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Бадди - собака Карли",
+   "ipa": "ˈбʌди ɪз ˈкɑрлиз дɔг",
+   "spell": "Buddy is Carly's dog"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "папин",
+   "ipa": "дæдз",
+   "spell": "dad’s"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "каждый",
+   "ipa": "ˈэвəри",
+   "spell": "every"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у каждого тела есть номер",
+   "ipa": "ˈэвəри ˈбɑди hæз ə ˈнʌмбəр",
+   "spell": "every body has a number"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у каждого тела есть бирка",
+   "ipa": "ˈэвəри ˈбɑди hæз ə тæг",
+   "spell": "every body has a tag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у каждого есть имя",
+   "ipa": "ˈэвриˌбɑди hæз ə нэйм",
+   "spell": "everybody has a name"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пятнадцать детей",
+   "ipa": "фɪфˈтин ˈчɪлдрəн",
+   "spell": "fifteen children"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "хороший - плохой",
+   "ipa": "гʊд - бæд",
+   "spell": "good - bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дедушкин",
+   "ipa": "ˈгрæндˌфɑðəрз",
+   "spell": "grandfather’s"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бабушкин",
+   "ipa": "ˈгрæндˌмʌðəрз",
+   "spell": "grandmother’s"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твердый",
+   "ipa": "hɑрд",
+   "spell": "hard"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ее машина",
+   "ipa": "hɜр кɑр",
+   "spell": "her car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его машина",
+   "ipa": "hɪз кɑр",
+   "spell": "his car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я обычный парень",
+   "ipa": "ай æм ə ˈрэгйəлəр гай",
+   "spell": "I am a regular guy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я знаю того мужчину",
+   "ipa": "ай ноу ðæт мæн",
+   "spell": "I know that man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я знаю того человека",
+   "ipa": "ай ноу ðæт ˈпɜрсəн",
+   "spell": "I know that person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я знаю ту женщину",
+   "ipa": "ай ноу ðæт ˈwʊмəн",
+   "spell": "I know that woman"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если у тебя есть наркотики",
+   "ipa": "ɪф ю пəˈзэс дрʌгз",
+   "spell": "if you possess drugs"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неправильный, нестандартный",
+   "ipa": "ɪˈрэгйəлəр",
+   "spell": "irregular"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его (неодуш.)",
+   "ipa": "ɪтс",
+   "spell": "its"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его название",
+   "ipa": "ɪтс нэйм",
+   "spell": "its name"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "его название",
+   "ipa": "ɪтс нэйм",
+   "spell": "its name"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он находится",
+   "ipa": "ɪтс, ɪт ɪз",
+   "spell": "it’s, it is"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мамин",
+   "ipa": "мɑмз",
+   "spell": "mom’s"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комната моих братьев",
+   "ipa": "май ˈбрʌðəрз рум",
+   "spell": "my brothers’ room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "комната моего брата",
+   "ipa": "май ˈбрʌðəрз рум",
+   "spell": "my brother’s room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя машина",
+   "ipa": "май кɑр",
+   "spell": "my car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кличка моей собаки",
+   "ipa": "май дɔгз нэйм",
+   "spell": "my dog’s name"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нет пиццы",
+   "ipa": "ноу ˈпитсə",
+   "spell": "no pizza"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сейчас",
+   "ipa": "нау",
+   "spell": "now"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "наша машина",
+   "ipa": "ˈауəр кɑр",
+   "spell": "our car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вон там",
+   "ipa": "ˈоувəр ðэр",
+   "spell": "over there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обычный",
+   "ipa": "ˈрэгйəлəр",
+   "spell": "regular"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она плохая",
+   "ipa": "щи ɪз бæд",
+   "spell": "she is bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она хорошая",
+   "ipa": "щи ɪз гʊд",
+   "spell": "she is good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не плохая",
+   "ipa": "щи ɪз нɑт бæд",
+   "spell": "she is not bad"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она не хорошая",
+   "ipa": "щи ɪз нɑт гʊд",
+   "spell": "she is not good"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спасибо",
+   "ipa": "θæŋкс",
+   "spell": "thanks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их машина",
+   "ipa": "ðэр кɑр",
+   "spell": "their car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "там",
+   "ipa": "ðэр",
+   "spell": "there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "этому ребенку пять лет",
+   "ipa": "ðɪс чайлд ɪз файв",
+   "spell": "this child is five"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "владеть",
+   "ipa": "ту пəˈзэс",
+   "spell": "to possess"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как зовут твоего отца?",
+   "ipa": "wɑт ɪз йʊəр ˈфɑðəрз нэйм?",
+   "spell": "what is your father's name?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как зовут твою мать?",
+   "ipa": "wɑт ɪз йʊəр ˈмʌðəрз нэйм?",
+   "spell": "what is your mother's name?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чей день рождения?",
+   "ipa": "hуз ˈбɜрθˌдэй ɪз ɪт?",
+   "spell": "whose birthday is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чья машина?",
+   "ipa": "hуз кɑр?",
+   "spell": "whose car?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чей?",
+   "ipa": "hуз?",
+   "spell": "whose?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "желтый",
+   "ipa": "ˈйэлоу",
+   "spell": "yellow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя есть оружие",
+   "ipa": "ю пəˈзэс ə ˈwэпəн",
+   "spell": "you possess a weapon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "молодой - старый",
+   "ipa": "йʌŋ - оулд",
+   "spell": "young - old"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "твоя машина",
+   "ipa": "йʊəр кɑр",
+   "spell": "your car"
+ }
+]
+}
