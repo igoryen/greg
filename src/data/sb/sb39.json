@@ -1,0 +1,590 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "period": "week",
+  "number": 36,
+  "date": "2025-09-04",
+  "words":   [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "кафе",
+   "ipa": "ə kəˈfeɪ",
+   "spell": "a cafe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "танцпол",
+   "ipa": "ə dæns flɔr",
+   "spell": "a dance floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "потрясающий игрок",
+   "ipa": "ə ˈfæbjələs ˈpleɪər",
+   "spell": "a fabulous player"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бесплатная версия",
+   "ipa": "ə fri ˈvɜrʒən",
+   "spell": "a free version"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "километр",
+   "ipa": "ə kəˈlɑmətər",
+   "spell": "a kilometer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бильярдный стол",
+   "ipa": "ə pul ˈteɪbəl",
+   "spell": "a pool table"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обед из семи блюд",
+   "ipa": "ə ˈsɛvən-kɔrs mil",
+   "spell": "a seven-course meal"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "предмет, курс",
+   "ipa": "ə ˈsʌbʤɪkt, ə kɔrs",
+   "spell": "a subject, a course"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "еженедельная рубрика в журнале",
+   "ipa": "ə ˈwikli ˈfiʧər ɪn ə ˈmæɡəˌzin",
+   "spell": "a weekly feature in a magazine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "после школы он занялся политикой",
+   "ipa": "ˈæftər haɪ skul hi ɡɑt ˈɪntu ˈpɑləˌtɪks",
+   "spell": "after high school he got into politics"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как правило",
+   "ipa": "æz ə rul",
+   "spell": "as a rule"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "плохая погода портит мне настроение",
+   "ipa": "bæd ˈwɛðər ɡɛts mi daʊn",
+   "spell": "bad weather gets me down"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мальчики и девочки из школы",
+   "ipa": "bɔɪz ænd ɡɜrlz frʌm skul",
+   "spell": "boys and girls from school"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "то же самое",
+   "ipa": "ˈdɪtoʊ",
+   "spell": "ditto"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не забывай о манерах",
+   "ipa": "doʊnt fərˈɡɛt jʊər ˈmænərz",
+   "spell": "don’t forget your manners"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не давай ему ложных надежд",
+   "ipa": "doʊnt ɡɪv hɪm fɔls hoʊp",
+   "spell": "don’t give him false hope"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не принимай поспешных решений",
+   "ipa": "doʊnt meɪk ə snæp dɪˈsɪʒən",
+   "spell": "don’t make a snap decision"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не суди с первого взгляда",
+   "ipa": "doʊnt meɪk ən ˈɪnstənt ˈʤʌʤmənt",
+   "spell": "don’t make an instant judgement"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "не притворяйся тем, кем ты не являешься",
+   "ipa": "doʊnt priˈtɛnd tu bi ˈɛniˌθɪŋ jʊr nɑt",
+   "spell": "don’t pretend to be anything you’re not"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "непринуждённо красивая",
+   "ipa": "ˈɛfərtləsli ˈbjutəfəl",
+   "spell": "effortlessly beautiful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "первое впечатление может быть обманчивым",
+   "ipa": "fɜrst ɪmˈprɛʃənz kæn bi mɪsˈlidɪŋ",
+   "spell": "first impressions can be misleading"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в дальнейшем",
+   "ipa": "ˈfɜrðər daʊn ðə laɪn",
+   "spell": "further down the line"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он смошенничал и сошёл с рук",
+   "ipa": "hi ˈʧitɪd ænd ɡɑt əˈweɪ wɪð ɪt",
+   "spell": "he cheated and got away with it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сделал это и не попался",
+   "ipa": "hi dɪd ɪt wɪˈθaʊt ˈɡɛtɪŋ kɑt",
+   "spell": "he did it without getting caught"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он стирает бельё",
+   "ipa": "hi dʌz ðə ˈlɔndri",
+   "spell": "he does the laundry"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он оказался в затруднительном положении",
+   "ipa": "hi faʊnd hɪmˈsɛlf ɪn ə ˈtrɪki ˌsɪʧuˈeɪʃən",
+   "spell": "he found himself in a tricky situation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он уклоняется от своей доли домашней работы",
+   "ipa": "hi ɡɛts aʊt ʌv ˈduɪŋ hɜr ʃɛr ʌv ðə ˈhaʊˌswɜrk",
+   "spell": "he gets out of doing her share of the housework"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он большой человек в сфере коммуникаций",
+   "ipa": "hi ɪz ˈsʌmθɪŋ bɪɡ ɪn kəmˌjunəˈkeɪʃənz",
+   "spell": "he is something big in communications"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он просто напросто лжёт",
+   "ipa": "hi ʤʌst pleɪn laɪz",
+   "spell": "he just plain lies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он учил мою мать",
+   "ipa": "hi tɔt maɪ ˈmʌðər",
+   "spell": "he taught my mother"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он появился с немытыми волосами",
+   "ipa": "hi tɜrnd ʌp wɪð ənˈwɑʃt hɛr",
+   "spell": "he turned up with unwashed hair"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он пылесосит пол",
+   "ipa": "hi ˈvækjumz ðə flɔr",
+   "spell": "he vacuums the floor"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он был незаметным",
+   "ipa": "hi wʌz fɔrˈɡɛtəbəl",
+   "spell": "he was forgettable"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он был очень забывчивым",
+   "ipa": "hi wʌz ˈvɛri fɔrˈɡɛtfəl",
+   "spell": "he was very forgetful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "её впечатление о нём было хорошим",
+   "ipa": "hɜr ɪmˈprɛʃən ʌv hɪm wʌz ðæt hi wʌz naɪs",
+   "spell": "her impression of him was that he was nice"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я взрослый",
+   "ipa": "aɪ æm ɡroʊn ʌp",
+   "spell": "I am grown up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я сделал это не нарочно",
+   "ipa": "aɪ ˈdɪdənt du ɪt ɑn ˈpɜrpəs",
+   "spell": "I didn’t do it on purpose"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я абсолютно не собираюсь этого делать",
+   "ipa": "aɪ hæv ˌæbsəˈlutli noʊ ɪnˈtɛnʧən ʌv ˈfɑloʊɪŋ θru",
+   "spell": "I have absolutely no intention of following through"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я никогда не был на свидании вслепую",
+   "ipa": "aɪ hæv ˈnɛvər bɪn ɑn ə blaɪnd deɪt",
+   "spell": "I have never been on a blind date"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я оставил ему сообщение, но он не ответил мне сразу",
+   "ipa": "aɪ lɛft hɪm ə ˈmɛsəʤ bʌt hi ˈdɪdənt ɡɛt bæk tu mi ɪˈmidiətli",
+   "spell": "I left him a message but he didn’t get back to me immediately"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я был на четвертом курсе колледжа",
+   "ipa": "aɪ wʌz ɪn maɪ fɔrθ jɪr ʌv ˈkɑlɪʤ",
+   "spell": "I was in my fourth year of college"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "если ты опоздаешь по какой-либо причине",
+   "ipa": "ɪf jʊr ˈɡoʊɪŋ tu bi leɪt fɔr ˌwʌˈtɛvər ˈrizən",
+   "spell": "if you’re going to be late for whatever reason"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "безупречные манеры за столом",
+   "ipa": "ɪmˈpɛkəbəl ˈteɪbəl ˈmænərz",
+   "spell": "impeccable table manners"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это всегда на меня действует",
+   "ipa": "ɪt ˈɔlˌweɪz ɡɛts mi mi",
+   "spell": "it always gets me me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это лучше некуда",
+   "ipa": "ɪts ðə bɛst ɪt kæn bi",
+   "spell": "it’s the best it can be"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь краток",
+   "ipa": "kip ɪt ʃɔrt ænd swit",
+   "spell": "keep it short and sweet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "удели внимание внешнему виду",
+   "ipa": "meɪk ən ˈɛfərt wɪð jʊər əˈpɪrəns",
+   "spell": "make an effort with your appearance"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "убедись, что ты придешь вовремя",
+   "ipa": "meɪk ʃʊr ju tɜrn ʌp ɑn taɪm",
+   "spell": "make sure you turn up on time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "встреться со своим партнёром",
+   "ipa": "mit jʊər deɪt",
+   "spell": "meet your date"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень искренний",
+   "ipa": "ˈrɪli ˈʤɛnjəwən",
+   "spell": "really genuine"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она с изяществом и ловкостью впихнула в себя бургер",
+   "ipa": "ʃi kræmd ə ˈbɜrɡər ˈɪntu hɜr feɪs wɪð ɡreɪs ænd fɪˈnɛs",
+   "spell": "she crammed a burger into her face with grace and finesse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она непростительно опаздывает",
+   "ipa": "ʃi ɪz ˌʌnfɔrˈɡɪvəbəli leɪt",
+   "spell": "she is unforgivably late"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она сразу его отсеяла",
+   "ipa": "ʃi ruld hɪm aʊt raɪt əˈweɪ",
+   "spell": "she ruled him out right away"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она набирает высокие баллы у меня",
+   "ipa": "ʃi skɔrz ˈhaɪli wɪð mi",
+   "spell": "she scores highly with me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она вышла на сцену, чтобы блеснуть умением",
+   "ipa": "ʃi wɛnt ɑn steɪʤ tu strʌt hɜr stʌf = блеснуть умением",
+   "spell": "she went on stage to strut her stuff = блеснуть умением"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она его покорила",
+   "ipa": "ʃi wʌn hɪm ˈoʊvər",
+   "spell": "she won him over"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "то, что ей в нём больше всего понравилось",
+   "ipa": "ðə bɛst θɪŋ ʃi laɪkt əˈbaʊt hɪm",
+   "spell": "the best thing she liked about him"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "свидание ни к чему не ведёт",
+   "ipa": "ðə deɪt ɪz ˈɡoʊɪŋ ˈnoʊˌwɛr",
+   "spell": "the date is going nowhere"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "другой человек платит по счёту",
+   "ipa": "ði ˈʌðər ˈpɜrsən ɪz ˈfʊtɪŋ ðə bɪl",
+   "spell": "the other person is footing the bill"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "учитель никогда не ставит высший балл",
+   "ipa": "ðə ˈtiʧər ˈnɛvər ɡɪvz fʊl mɑrks",
+   "spell": "the teacher never gives full marks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вся группа, включая меня",
+   "ipa": "ðə hoʊl ɡrup ɪnˈkludɪŋ mi",
+   "spell": "the whole group including me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "их отношения развиваются",
+   "ipa": "ðɛr riˈleɪʃənˌʃɪp dɪˈvɛləps",
+   "spell": "their relationship develops"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "всё обошлось",
+   "ipa": "θɪŋz tɜrnd aʊt ɔl raɪt",
+   "spell": "things turned out all right"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "совет номер один",
+   "ipa": "tɪp ˈnʌmbər wʌn",
+   "spell": "tip number one"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "избегать контакта с ними",
+   "ipa": "tu əˈvɔɪd ˈkɑnˌtæktɪŋ ðɛm",
+   "spell": "to avoid contacting them"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приукрашивать правду",
+   "ipa": "tu drɛs ʌp ðə truθ",
+   "spell": "to dress up the truth"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "преувеличивать",
+   "ipa": "tu ɪɡˈzæʤəˌreɪt",
+   "spell": "to exaggerate"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "столкнуться с главным испытанием",
+   "ipa": "tu feɪs ði ˈʌltəmət ˈʧælənʤ",
+   "spell": "to face the ultimate challenge"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "собраться с дальней роднёй",
+   "ipa": "tu ɡɛt təˈɡɛðər wɪð maɪ ɪkˈstɛndɪd ˈfæməli",
+   "spell": "to get together with my extended family"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прилагать усилия",
+   "ipa": "tu meɪk ən ˈɛfərt",
+   "spell": "to make an effort"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "справиться",
+   "ipa": "tu meɪk ɪt θru",
+   "spell": "to make it through"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "играть на бильярде",
+   "ipa": "tu pleɪ pul",
+   "spell": "to play pool"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "броситься к двери",
+   "ipa": "tu rʌn fɔr ðə dɔr",
+   "spell": "to run for the door"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "говорить правду",
+   "ipa": "tu tɛl ðə truθ",
+   "spell": "to tell the truth"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы не можем до тебя достучаться (заставить понять)",
+   "ipa": "wi kænt ɡɛt θru tu ju (meɪk ju ˌʌndərˈstænd)",
+   "spell": "we can’t get through to you (make you understand)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы не хотим отставать в учёбе",
+   "ipa": "wi doʊnt wɑnt tu ɡɛt bɪˈhaɪnd wɪð ˈaʊər ˈstʌdiz",
+   "spell": "we don’t want to get behind with our studies"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы передвигаемся по городу пешком",
+   "ipa": "wi ɡɛt əˈraʊnd ðə ˈsɪti ɑn fʊt",
+   "spell": "we get around the city on foot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у нас есть немного денег, чтобы прожить",
+   "ipa": "wi hæv sʌm ˈmʌni tu ɡɛt baɪ",
+   "spell": "we have some money to get by"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нам приходится обходиться тем, что есть",
+   "ipa": "wi hæv tu ˈmænəʤ wɪð wɑt wi hæv",
+   "spell": "we have to manage with what we have"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мы пытаемся продолжить работу",
+   "ipa": "wir ˈtraɪɪŋ tu ɡɛt ɑn wɪð sʌm wɜrk",
+   "spell": "we’re trying to get on with some work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у тебя есть десять минут на подготовку",
+   "ipa": "ju hæv tɛn ˈmɪnəts tu priˈpɛr",
+   "spell": "you have ten minutes to prepare"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тебе это идёт",
+   "ipa": "ju lʊk ɡʊd ɪn ɪt",
+   "spell": "you look good in it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты упускаешь веселье",
+   "ipa": "jʊr ˈmɪsɪŋ aʊt ɑn ðə fʌn",
+   "spell": "you’re missing out on the fun"
+ }
+]
+}
