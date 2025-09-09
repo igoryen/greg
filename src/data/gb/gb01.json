@@ -1,0 +1,289 @@
+{
+  "student": "Greg B.",
+  "slug": "gb",
+  "period": "week",
+  "number": 36,
+  "date": "2025-09-07",
+  "words":  [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "немецкий писатель",
+   "ipa": "ə ˈджɜрмəн ˈрайтəр",
+   "spell": "a German writer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дом из дерева",
+   "ipa": "ə hаус ʌв wʊд",
+   "spell": "a house of wood"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "должность, название профессии",
+   "ipa": "ə джɑб ˈтайтəл",
+   "spell": "a job title"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "значение",
+   "ipa": "ə ˈминɪŋ",
+   "spell": "a meaning"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "медсестра",
+   "ipa": "ə нɜрс",
+   "spell": "a nurse"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пациент",
+   "ipa": "ə ˈпэйшəнт",
+   "spell": "a patient"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "техник по PDR",
+   "ipa": "ə пи-ди-ɑр тэкˈнɪшəн",
+   "spell": "a PDR technician"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "деревянный дом",
+   "ipa": "ə ˈwʊдəн hаус",
+   "spell": "a wooden house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слово",
+   "ipa": "ə wɜрд",
+   "spell": "a word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "одушевлённый предмет",
+   "ipa": "əн ˈæнəмəт ˈɑбджэкт",
+   "spell": "an animate object"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "неодушевлённый предмет",
+   "ipa": "əн ɪˈнæнəмəт ˈɑбджэкт",
+   "spell": "an inanimate object"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в пять утра",
+   "ipa": "æт файв æм",
+   "spell": "at five AM"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "художественная литература",
+   "ipa": "ˈфɪкшəн",
+   "spell": "fiction"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "последние семь лет",
+   "ipa": "фор ðə лæст ˈсэвəн йɪрз",
+   "spell": "for the last seven years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "время от времени",
+   "ipa": "фрʌм тайм ту тайм",
+   "spell": "from time to time"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ем в том ресторане",
+   "ipa": "ай ит æт ðæт ˈрэстəˌрɑнт",
+   "spell": "I eat at that restaurant"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я ложусь спать в десять вечера",
+   "ipa": "ай гоу ту бэд æт тэн ˈпиˈэм",
+   "spell": "I go to bed at ten PM"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня есть",
+   "ipa": "ай hæв",
+   "spell": "I have"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я узнал, выучил",
+   "ipa": "ай лɜрнд",
+   "spell": "I learned"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я говорю по-польски и по-чешски",
+   "ipa": "ай спик ˈпɑлɪш æнд чэк",
+   "spell": "I speak Polish and Czech"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я учусь",
+   "ipa": "ай ˈстʌди",
+   "spell": "I study"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я там родился",
+   "ipa": "ай wʌз борн ðэр",
+   "spell": "I was born there"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я работал в прошлые выходные",
+   "ipa": "ай wɜркт лæст ˈwиˌкэнд",
+   "spell": "I worked last weekend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я живу здесь последние семь лет",
+   "ipa": "айв лɪвд hир фор ðə лæст ˈсэвəн йɪрз",
+   "spell": "I've lived here for the last seven years"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "литература",
+   "ipa": "ˈлɪтəрəчəр",
+   "spell": "literature"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "текст песни",
+   "ipa": "ˈлɪрɪкс",
+   "spell": "lyrics"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "документальная литература",
+   "ipa": "нɑнˈфɪкшəн",
+   "spell": "non-fiction"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в понедельник",
+   "ipa": "ɑн ˈмʌнˌдэй",
+   "spell": "on Monday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подлежащее - сказуемое - дополнение (ПСД)",
+   "ipa": "ˈсʌбджɪкт - вɜрб - ˈɑбджэкт (эс-ви-оу)",
+   "spell": "subject - verb - object (SVO)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пропущенное слово",
+   "ipa": "ðə ˈмɪсɪŋ wɜрд",
+   "spell": "the missing word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они похожи",
+   "ipa": "ðэй ɑр ˈсɪмəлəр",
+   "spell": "they are similar"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заниматься спортом",
+   "ipa": "ту ˈэксəрˌсайз",
+   "spell": "to exercise"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "узнать тебя поближе",
+   "ipa": "ту гэт ту ноу ю",
+   "spell": "to get to know you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расти",
+   "ipa": "ту гроу",
+   "spell": "to grow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обедать",
+   "ipa": "ту hæв лʌнч",
+   "spell": "to have lunch"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отделка, обкладка",
+   "ipa": "трɪм",
+   "spell": "trim"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чем ты занимаешься?",
+   "ipa": "wɑт ду ю ду?",
+   "spell": "what do you do?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какую музыку ты слушаешь?",
+   "ipa": "wɑт кайнд ʌв ˈмъюзɪк ду ю ˈлɪсəн ту?",
+   "spell": "what kind of music do you listen to?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что это за вещь",
+   "ipa": "wɑт кайнд ʌв θɪŋ ɪз ɪт",
+   "spell": "what kind of thing is it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "с текстом (песни)",
+   "ipa": "wɪð ˈлɪрɪкс",
+   "spell": "with lyrics"
+ }
+]
+}
