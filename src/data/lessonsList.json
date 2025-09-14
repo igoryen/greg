@@ -958,5 +958,13 @@
     }
   ],
   "vk": [],
-  "yk": []
+  "yk": [],
+  "ym": [
+    {
+      "number": 37,
+      "fileNumber": 1,
+      "date": "2025-09-12",
+      "period": "week"
+    }
+  ]
 }
