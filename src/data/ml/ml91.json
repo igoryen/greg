@@ -1,0 +1,485 @@
+{
+  "student": "Maria L.",
+  "slug": "ml",
+  "period": "week",
+  "number": 37,
+  "date": "2025-09-14",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лектор-мотиватор",
+      "ipa": "ə ˌмоутəˈвэйшəнəл ˈспикəр",
+      "spell": "a motivational speaker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фотохостинг (сайт для закладок фото)",
+      "ipa": "ə ˈфоуˌтоу-ˈбʊкмɑркɪŋ ˈwэбˌсайт",
+      "spell": "a photo-bookmarking website"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "футбольный комментатор",
+      "ipa": "ə ˈсɑкəр ˈкɑмəнˌтэйтəр",
+      "spell": "a soccer commentator"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мог (в прошлом)",
+      "ipa": "кʊд",
+      "spell": "could"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мог бы (условно)",
+      "ipa": "кʊд",
+      "spell": "could"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты могла ...? (в прошлом)",
+      "ipa": "кʊд ю … ?",
+      "spell": "could you … ?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты могла бы ...? (условно)",
+      "ipa": "кʊд ю … ?",
+      "spell": "could you … ?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне близко это желание",
+      "ipa": "ай кæн айˈдэнтəˌфай wɪð ðɪс wɪш",
+      "spell": "I can identify with this wish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне это не близко",
+      "ipa": "ай кæнт рɪˈлэйт ту ðæт",
+      "spell": "I can’t relate to that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я выражаю раздражение",
+      "ipa": "ай ɪкˈспрэс əˈнойəнс",
+      "spell": "I express annoyance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я заправляю машину бензином",
+      "ipa": "ай фɪл ʌп май кɑр wɪð гæс",
+      "spell": "I fill up my car with gas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я кладу одежду в стиральную машину",
+      "ipa": "ай пʊт май клоуðз ɪн ðə ˈwɑщɪŋ мəˈщин",
+      "spell": "I put my clothes in the washing machine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне следовало/нужно было это сделать (но я не сделал)",
+      "ipa": "ай щʊд hæв дʌн ðæт",
+      "spell": "I should have done that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не даю людям садиться рядом со мной",
+      "ipa": "ай стɑп ˈпипəл фрʌм ˈсɪтɪŋ нэкст ту ми",
+      "spell": "I stop people from sitting next to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я желаю эту вещь",
+      "ipa": "ай wɪш фор ðɪс θɪŋ",
+      "spell": "I wish for this thing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы он убрал свою комнату",
+      "ipa": "ай wɪш hи wʊд клин hɪз рум",
+      "spell": "I wish he would clean his room"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "умела бы я танцевать",
+      "ipa": "ай wɪш ай кʊд дæнс",
+      "spell": "I wish I could dance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы мне уметь это делать",
+      "ipa": "ай wɪш ай кʊд ду ðæт",
+      "spell": "I wish I could do that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы я этого не имел",
+      "ipa": "ай wɪш ай дɪд нɑт hæв ðæт",
+      "spell": "I wish I did not have that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы это у меня было",
+      "ipa": "ай wɪш ай hæд ɪт",
+      "spell": "I wish I had it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "были бы у меня крылья, вот бы мне крылья",
+      "ipa": "ай wɪш ай hæд wɪŋз",
+      "spell": "I wish I had wings"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если б я знал",
+      "ipa": "ай wɪш ай ну",
+      "spell": "I wish I knew"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хотел бы я жить в Испании",
+      "ipa": "ай wɪш ай лɪвд ɪн спэйн",
+      "spell": "I wish I lived in Spain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жаль, что я не птица",
+      "ipa": "ай wɪш ай wʌз ə бɜрд",
+      "spell": "I wish I was a bird"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "был бы в лучшей форме",
+      "ipa": "ай wɪш ай wʌз/wɜр ɪн ˈбэтəр шэɪп",
+      "spell": "I wish I was/were in better shape"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы это было лучше",
+      "ipa": "ай wɪш ɪт wɜр ˈбэтəр",
+      "spell": "I wish it were better"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы это было проще",
+      "ipa": "ай wɪш ɪт wɜр ˈизиəр",
+      "spell": "I wish it were easier"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы он не делал такой шум",
+      "ipa": "ай wɪш ɪт wʊд нɑт мэйк сʌч нойз",
+      "spell": "I wish it would not make such noise"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы она не жила со мной в одной комнате",
+      "ipa": "ай wɪш щи дɪд нɑт щэр ə рум wɪð ми",
+      "spell": "I wish she did not share a room with me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы она не была мертва",
+      "ipa": "ай wɪш щи wʌз нɑт дэд",
+      "spell": "I wish she was not dead"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы они не лаяли",
+      "ipa": "ай wɪш ðэй дɪд нɑт бɑрк",
+      "spell": "I wish they did not bark"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы они были...",
+      "ipa": "ай wɪш ðэй wɜр",
+      "spell": "I wish they were"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы им запретили это делать",
+      "ipa": "ай wɪш ðэй wʊд бæн ðэм фрʌм ˈдуɪŋ ðæт",
+      "spell": "I wish they would ban them from doing that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы они были повежливее",
+      "ipa": "ай wɪш ðэй wʊд би мор пəˈлайт",
+      "spell": "I wish they would be more polite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы они не спрашивали меня об этом",
+      "ipa": "ай wɪш ðэй wʊд нɑт æск ми əˈбаут ðæт",
+      "spell": "I wish they would not ask me about that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ах если бы они этого не делали",
+      "ipa": "ай wɪш ðэй wʊд нɑт ду ðæт",
+      "spell": "I wish they would not do that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "был бы ты здесь, жаль, что тебя нет здесь",
+      "ipa": "ай wɪш ю wɜр hир",
+      "spell": "I wish you were here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот бы ты не кричал",
+      "ipa": "ай wɪш ю woул нɑт шаут",
+      "spell": "I wish you woul not shout"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если бы я мог",
+      "ipa": "ɪф ай кʊд",
+      "spell": "if I could"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если бы у меня было достаточно денег, я бы купил это",
+      "ipa": "ɪф ай hæд hæд ɪˈнʌф ˈмʌни, ай wʊд hæв бɑт ɪт",
+      "spell": "if I had had enough money, I would have bought it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если бы это у меня было, я бы сделал это",
+      "ipa": "ɪф ай hæд ɪт, ай wʊд ду ɪт",
+      "spell": "if I had it, I would do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если бы я не потерял его, он бы у меня до сих пор был",
+      "ipa": "ɪф ай hæд нɑт дʌн лɔст ɪт, ай wʊд hæв стɪл hæд ɪт",
+      "spell": "if I had not done lost it, I would have still had it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если бы ты меня не остановил, я бы это сделал",
+      "ipa": "ɪф ю hæд нɑт стɑпт ми, ай wʊд hæв дʌн ɪт",
+      "spell": "if you had not stopped me, I would have done it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маловероятно",
+      "ipa": "ɪт ɪз əнˈлайкли",
+      "spell": "it is unlikely"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мое самое большое сожаление",
+      "ipa": "май ˈбɪгəст рəˈгрэт",
+      "spell": "my biggest regret"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так бесит / раздражает",
+      "ipa": "соу əˈнойɪŋ",
+      "spell": "so annoying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хозяйка дома",
+      "ipa": "ðə ˈhоуˌмоунəр",
+      "spell": "the homeowner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фраза выражает раздражение",
+      "ipa": "ðə фрэйз ɪкˈспрэсəз əˈнойəнс",
+      "spell": "the phrase expresses annoyance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "притвориться спящим",
+      "ipa": "ту приˈтэнд ту фɔл əˈслип",
+      "spell": "to pretend to fall asleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы разделили работу между собой",
+      "ipa": "wи дɪˈвайдəд ʌп ðə wɜрк əˈмʌŋ ауəрˈсэлвз",
+      "spell": "we divided up the work among ourselves"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с большим желанием",
+      "ipa": "wɪð ə грэйт дɪˈзайəр",
+      "spell": "with a great desire"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зря ты это сделал",
+      "ipa": "ю щʊд нɑт hæв дʌн ðæт",
+      "spell": "you should not have done that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "практическое занятие",
+      "ipa": "ə hæндз-ɑн клæс",
+      "spell": "a hands-on class"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это был второй раз, когда я работала с ней",
+      "ipa": "ɪт wʌз май ˈсэкəнд тайм ˈwɜркɪŋ wɪð hɜр",
+      "spell": "it was my second time working with her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она была под чем-то",
+      "ipa": "щи wʌз hай ɑн ˈсʌмθɪŋ",
+      "spell": "she was high on something"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она спала на работе",
+      "ipa": "щи wʌз ˈслипɪŋ ɑн ðə джɑб",
+      "spell": "she was sleeping on the job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кухня все еще не была готова",
+      "ipa": "ðə ˈкɪчəн wʌз стɪл нɑт дʌн",
+      "spell": "the kitchen was still not done"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всю ночь напролет",
+      "ipa": "ɔл найт лɔŋ",
+      "spell": "all night long"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как ни в чем не бывало",
+      "ipa": "æз ɪф ˈнʌθɪŋ hæд ˈhæпəнд",
+      "spell": "as if nothing had happened"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по моему опыту",
+      "ipa": "фрʌм май ɪкˈспɪриəнс",
+      "spell": "from my experience"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я подошла к ней",
+      "ipa": "ай кэйм ʌп ту hɜр",
+      "spell": "I came up to her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне следовало это сделать",
+      "ipa": "ай щʊд hæв дʌн ɪт",
+      "spell": "I should have done it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она нам сказала",
+      "ipa": "щи тоулд ʌс",
+      "spell": "she told us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она храпела",
+      "ipa": "щи wʌз ˈснорɪŋ",
+      "spell": "she was snoring"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "им следовало хранить их в безопасном месте",
+      "ipa": "ðэй щʊд hæв кэпт ðэм ɪн ə сэйф плэйс",
+      "spell": "they should have kept them in a safe place"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "получить повышение",
+      "ipa": "ту гэт прəˈмоутəд",
+      "spell": "to get promoted"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спуститься в подвал",
+      "ipa": "ту гоу даун ту ðə ˈбэйсмəнт",
+      "spell": "to go down to the basement"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "предпочитать",
+      "ipa": "ту прəˈфɜр",
+      "spell": "to prefer"
+    }
+  ]
+}
