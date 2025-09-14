@@ -9,7 +9,7 @@ function StudentPage() {
     const studentLessons = lessons[slug] || [];
 
     const handleClick = (fileNumber) => {
-        navigate(`/student/${slug}/lesson/${fileNumber}`);
+        navigate(`/student/${slug}/p/${fileNumber}`);
     };
 
     // temporary while old pages exist (250714)

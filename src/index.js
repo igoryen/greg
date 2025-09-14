@@ -338,7 +338,7 @@ export default function App() {
           <Route index element={<Home />} />
 
           <Route path="/student/:slug" element={<StudentPage />} />
-          <Route path="/student/:slug/lesson/:number" element={<LessonPage />} />
+          <Route path="/student/:slug/p/:number" element={<LessonPage />} />
 
           <Route path="ang" element={<Ang />} />
 
