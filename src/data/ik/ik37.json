@@ -1,0 +1,856 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 37,
+  "date": "2025-09-14",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "няня (для детей)",
+   "ipa": "ə ˈбэйбиˌсɪтəр",
+   "spell": "a babysitter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красивая женщина",
+   "ipa": "ə ˈбъютəфəл ˈwʊмəн",
+   "spell": "a beautiful woman"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чернокожий человек",
+   "ipa": "ə блæк ˈпɜрсəн",
+   "spell": "a black person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "запятая",
+   "ipa": "ə ˈкɑмə",
+   "spell": "a comma"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красивый мужчина",
+   "ipa": "ə ˈhæнсəм мæн",
+   "spell": "a handsome man"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лимон",
+   "ipa": "ə ˈлэмəн",
+   "spell": "a lemon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "отметка",
+   "ipa": "ə мɑрк",
+   "spell": "a mark"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "несколько человек",
+   "ipa": "ə ˈнʌмбəр ʌв ˈпипəл",
+   "spell": "a number of people"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "номер на моём пистолете",
+   "ipa": "ə ˈнʌмбəр ɑн май гʌн",
+   "spell": "a number on my gun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "горошина",
+   "ipa": "ə пи",
+   "spell": "a pea"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "точка (пунктуация)",
+   "ipa": "ə ˈпɪриəд",
+   "spell": "a period"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пост о фотографии",
+   "ipa": "ə поуст əˈбаут ə ˈфоуˌтоу",
+   "spell": "a post about a photo"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вопрос",
+   "ipa": "ə ˈкwэсчəн",
+   "spell": "a question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вопросительный знак",
+   "ipa": "ə ˈкwэсчəн мɑрк",
+   "spell": "a question mark"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "красный флаг",
+   "ipa": "ə рэд флæг",
+   "spell": "a red flag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сотрудник охраны",
+   "ipa": "ə сɪˈкйʊрəти ˈɔфəсəр",
+   "spell": "a security officer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сын",
+   "ipa": "ə сʌн",
+   "spell": "a son"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "спортивная машина",
+   "ipa": "ə спортс кɑр",
+   "spell": "a sports car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слово",
+   "ipa": "ə wɜрд",
+   "spell": "a word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "о, про",
+   "ipa": "əˈбаут",
+   "spell": "about"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прилагательное",
+   "ipa": "əн ˈæджɪктɪв",
+   "spell": "an adjective"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уродливый цвет",
+   "ipa": "əн ˈʌгли ˈкʌлəр",
+   "spell": "an ugly color"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уродливая кружка (также рожа)",
+   "ipa": "əн ˈʌгли мʌг",
+   "spell": "an ugly mug"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "будь хорошим!",
+   "ipa": "би гʊд!",
+   "spell": "be good!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "черный",
+   "ipa": "блæк",
+   "spell": "black"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "коричневый",
+   "ipa": "браун",
+   "spell": "brown"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно посмотреть?",
+   "ipa": "кæн ай си?",
+   "spell": "can I see?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "можно (мне)?",
+   "ipa": "кæн ай?",
+   "spell": "can I?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "входи",
+   "ipa": "кʌм ɪн",
+   "spell": "come in"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пойдем со мной",
+   "ipa": "кʌм wɪð ми",
+   "spell": "come with me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "легкотня",
+   "ipa": "ˈизи ˈпизи ",
+   "spell": "easy peasy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как два пальца об асфальт",
+   "ipa": "ˈизи ˈпизи ˈлэмəн ˈскwизи",
+   "spell": "easy peasy lemon squeezy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "легко парковать",
+   "ipa": "ˈизи ту пɑрк",
+   "spell": "easy to park"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "серый",
+   "ipa": "грэй",
+   "spell": "gray"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "полмесяца",
+   "ipa": "hæф ə мʌнθ",
+   "spell": "half a month"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он отвечает",
+   "ipa": "hи ˈæнсəрз",
+   "spell": "he answers"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он отвечает на вопрос",
+   "ipa": "hи ˈæнсəрз ðə ˈкwэсчəн",
+   "spell": "he answers the question"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он мой учитель английского",
+   "ipa": "hи ɪз май ˈɪŋглɪш ˈтичəр",
+   "spell": "he is my English teacher"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу",
+   "ipa": "ай кæн",
+   "spell": "I can"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я вижу!",
+   "ipa": "ай кæн си!",
+   "spell": "I can see!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне грустно",
+   "ipa": "ай фил блу",
+   "spell": "I feel blue"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня есть сын и дочь",
+   "ipa": "ай hæв ə сʌн æнд ə ˈдɔтəр",
+   "spell": "I have a son and a daughter"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня грустное настроение",
+   "ipa": "ай hæв ðə блуз",
+   "spell": "I have the blues"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мне очень нравится",
+   "ipa": "ай лʌв ɪт",
+   "spell": "I love it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я предпочитаю",
+   "ipa": "ай прəˈфɜр",
+   "spell": "I prefer"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я помню",
+   "ipa": "ай рɪˈмэмбəр",
+   "spell": "I remember"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я думаю",
+   "ipa": "ай θɪŋк",
+   "spell": "I think"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по её мнению",
+   "ipa": "ɪн hɜр əˈпɪнйəн",
+   "spell": "in her opinion"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "по мнению её сына",
+   "ipa": "ɪн hɜр сʌнз əˈпɪнйəн",
+   "spell": "in her son's opinion"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моей машине",
+   "ipa": "ɪн май кɑр",
+   "spell": "in my car"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моём пистолете",
+   "ipa": "ɪн май гʌн",
+   "spell": "in my gun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "у меня в голове",
+   "ipa": "ɪн май hэд",
+   "spell": "in my head"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моём доме",
+   "ipa": "ɪн май hаус",
+   "spell": "in my house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моём ноутбуке",
+   "ipa": "ɪн май ˈлæпˌтɑп",
+   "spell": "in my laptop"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моём телефоне",
+   "ipa": "ɪн май фоун",
+   "spell": "in my phone"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "в моей комнате",
+   "ipa": "ɪн май рум",
+   "spell": "in my room"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это твоя сумка?",
+   "ipa": "ɪз ðɪс йʊəр бæг?",
+   "spell": "is this your bag?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это отличная книга",
+   "ipa": "ɪт ɪз ə грэйт бʊк",
+   "spell": "it is a great book"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это дорого",
+   "ipa": "ɪт ɪз ɪкˈспэнсɪв",
+   "spell": "it is expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он сложный, потому что он лёгкий",
+   "ipa": "ɪт ɪз hɑрд бɪˈкɔз ɪт ɪз ˈизи",
+   "spell": "it is hard because it is easy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это уродливо",
+   "ipa": "ɪт ɪз ˈʌгли",
+   "spell": "it is ugly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это очень медленно",
+   "ipa": "ɪт ɪз ˈвэри слоу",
+   "spell": "it is very slow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оно никогда не ломается",
+   "ipa": "ɪт ˈнэвəр брэйкс",
+   "spell": "it never breaks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давайте выпьем",
+   "ipa": "лэтс дрɪŋк",
+   "spell": "let's drink"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давайте поедим",
+   "ipa": "лэтс ит",
+   "spell": "let's eat"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пойдем",
+   "ipa": "лэтс гоу",
+   "spell": "let's go"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай закажем пиццу",
+   "ipa": "лэтс ˈордəр ˈпитсə",
+   "spell": "let's order pizza"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай посмотрим",
+   "ipa": "лэтс си",
+   "spell": "let's see"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай сядем",
+   "ipa": "лэтс сɪт",
+   "spell": "let's sit"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай поспим",
+   "ipa": "лэтс слип",
+   "spell": "let's sleep"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай поработаем",
+   "ipa": "лэтс wɜрк",
+   "spell": "let's work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "давай напишем",
+   "ipa": "лэтс райт",
+   "spell": "let's write"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "век живи - век учись",
+   "ipa": "лɪв æнд лɜрн",
+   "spell": "live and learn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мэм",
+   "ipa": "мæм",
+   "spell": "ma'am"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "может быть",
+   "ipa": "ˈмэйби",
+   "spell": "maybe"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тоже",
+   "ipa": "ми ту",
+   "spell": "me too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на",
+   "ipa": "ɑн",
+   "spell": "on"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на моей руке",
+   "ipa": "ɑн май ɑрм",
+   "spell": "on my arm"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на моей ноге",
+   "ipa": "ɑн май фʊт",
+   "spell": "on my foot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на моём пистолете",
+   "ipa": "ɑн май гʌн",
+   "spell": "on my gun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на моей голове",
+   "ipa": "ɑн май hэд",
+   "spell": "on my head"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на столе",
+   "ipa": "ɑн ðə ˈтэйбəл",
+   "spell": "on the table"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оранжевый",
+   "ipa": "ˈорəндж",
+   "spell": "orange"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "идеально",
+   "ipa": "ˈпɜрˌфɪкт",
+   "spell": "perfect"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "розовый",
+   "ipa": "пɪŋк",
+   "spell": "pink"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пунктуация",
+   "ipa": "ˌпʌŋкчуˈэйшəн",
+   "spell": "punctuation"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "читай!",
+   "ipa": "рид!",
+   "spell": "read!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сжимать",
+   "ipa": "скwиз",
+   "spell": "squeeze"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "подлежащее-сказуемое-дополнение",
+   "ipa": "ˈсʌбджɪкт-вɜрб-ˈɑбджэкт (эс-ви-оу)",
+   "spell": "subject-verb-object (SVO)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это Джош и его жена",
+   "ipa": "ðæт ɪз джɑш æнд hɪз wайф",
+   "spell": "that is Josh and his wife"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "блюз (музыка)",
+   "ipa": "ðə блуз",
+   "spell": "the blues"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грусть, хандра",
+   "ipa": "ðə блуз",
+   "spell": "the blues"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "Белый дом",
+   "ipa": "ðə wайт hаус",
+   "spell": "the White House"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это их ключи",
+   "ipa": "ðиз ɑр ðэр киз",
+   "spell": "these are their keys"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они синие",
+   "ipa": "ðэй ɑр блу",
+   "spell": "they are blue"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они у него на голове",
+   "ipa": "ðэй ɑр ɑн hɪз hэд",
+   "spell": "they are on his head"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "угадывать",
+   "ipa": "ту гэс",
+   "spell": "to guess"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заказать пиццу",
+   "ipa": "ту ˈордəр ˈпитсə",
+   "spell": "to order pizza"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "читать",
+   "ipa": "ту рид",
+   "spell": "to read"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "выжать лимон",
+   "ipa": "ту скwиз ðə ˈлэмəн",
+   "spell": "to squeeze the lemon"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "писать",
+   "ipa": "ту райт",
+   "spell": "to write"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тоже",
+   "ipa": "ту",
+   "spell": "too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "слишком много работы",
+   "ipa": "ту мʌч wɜрк",
+   "spell": "too much work"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "две недели",
+   "ipa": "ту wикс",
+   "spell": "two weeks"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ну что ж",
+   "ipa": "wэл,",
+   "spell": "well,"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какая хорошая машина!",
+   "ipa": "wɑт ə найс кɑр!",
+   "spell": "what a nice car!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какая хорошая открытка!",
+   "ipa": "wɑт ə найс кɑрд!",
+   "spell": "what a nice card!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой хороший пистолет!",
+   "ipa": "wɑт ə найс гʌн!",
+   "spell": "what a nice gun!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой хороший парень!",
+   "ipa": "wɑт ə найс гай!",
+   "spell": "what a nice guy!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой хороший дом!",
+   "ipa": "wɑт ə найс hаус!",
+   "spell": "what a nice house!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какой хороший мужчина!",
+   "ipa": "wɑт ə найс мæн!",
+   "spell": "what a nice man!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что насчет этого?",
+   "ipa": "wɑт əˈбаут ðɪс?",
+   "spell": "what about this?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "какого они цвета?",
+   "ipa": "wɑт ˈкʌлəр ɑр ðэй?",
+   "spell": "what color are they?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как он называется?",
+   "ipa": "wɑт ɪз ɪтс нэйм?",
+   "spell": "what is its name?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где мои солнечные очки?",
+   "ipa": "wэр ɑр май ˈсʌнˌглæсɪз?",
+   "spell": "where are my sunglasses?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "где наши пальто?",
+   "ipa": "wэр ɑр ˈауəр коутс?",
+   "spell": "where are our coats?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "которая из машин?",
+   "ipa": "wɪч кɑр?",
+   "spell": "which car?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "белый",
+   "ipa": "wайт",
+   "spell": "white"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чей?",
+   "ipa": "hуз?",
+   "spell": "whose?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "пиши!",
+   "ipa": "райт!",
+   "spell": "write!"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "жёлтый",
+   "ipa": "ˈйэлоу",
+   "spell": "yellow"
+ }
+]
+}
