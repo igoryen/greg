@@ -36,7 +36,7 @@ const Asti = (prop) => {
                     <b className="group">
                         <b className="there">There</b> <b className="be">are</b>
                     </b>
-                    two <b className="plur">objects</b> there.
+                    10 <b className="plur">objects</b> there.
                 </div>
                 <div className="line">
                     <b className="group"><b className="there">There</b> <b className="be">are</b> </b><b className="some">some</b>
