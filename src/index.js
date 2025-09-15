@@ -10,6 +10,7 @@ import StudentPage from "./pages/StudentPage";
 import LessonPage from "./pages/LessonPage";
 
 import Ang from "./pages/Ang";
+import Asti from "./pages/grm/Asti";
 
 import AA from "./pages/aa/AA";
 import AA01 from "./pages/aa/AA01";
@@ -341,6 +342,7 @@ export default function App() {
           <Route path="/student/:slug/p/:number" element={<LessonPage />} />
 
           <Route path="ang" element={<Ang />} />
+          <Route path="asti" element={<Asti />} />
 
           <Route path="aa" element={<AA />} />
           <Route path="aa01" element={<AA01 />} />

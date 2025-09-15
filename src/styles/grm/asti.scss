@@ -1,0 +1,86 @@
+#asti {
+    font-size: large;
+    font-family: "Noto Sans", sans-serif;
+
+    @mixin spacing {
+        margin-right: 3px;
+        padding: 3px 5px;
+    }
+
+    @mixin shape {
+        border-radius: 10px;
+    }
+
+    .line {
+        margin: 2em 0;
+    }
+
+    .be {
+        background-color: rgb(206, 152, 152);
+        color: aliceblue;
+
+        text-transform: uppercase;
+        @include spacing();
+        @include shape;
+    }
+
+    .there {
+        background-color: lightblue;
+        color: #333;
+        @include spacing();
+        @include shape;
+        text-transform: uppercase;
+    }
+
+    .not {
+        background-color: crimson;
+        color: white;
+        @include spacing();
+        @include shape;
+    }
+
+    .que {
+        background-color: rgb(31, 136, 222);
+        color: white;
+        @include spacing();
+        @include shape;
+    }
+
+    .any {
+        background-color: #333;
+        color: white;
+        @include spacing();
+        @include shape;
+    }
+
+    .some {
+        background-color: rgb(187, 132, 30);
+        color: white;
+        @include spacing();
+        @include shape;
+    }
+
+    .group {
+        border: 1px solid black;
+        @include spacing();
+        @include shape();
+    }
+
+    .sing {
+        background-color: #555;
+        color: aquamarine;
+        @include spacing();
+        @include shape;
+    }
+
+    .plur {
+        background-color: aqua;
+        color: red;
+        @include spacing();
+        @include shape;
+    }
+
+    h1 {
+        // background-color: yellow;
+    }
+}
