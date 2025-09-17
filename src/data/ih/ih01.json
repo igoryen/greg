@@ -1,0 +1,212 @@
+{
+  "student": "Illia H.",
+  "slug": "ih",
+  "period": "week",
+  "number": 37,
+  "date": "2025-09-09",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "век",
+   "ipa": "ə ˈсэнчəри",
+   "spell": "a century"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "анкета",
+   "ipa": "ə ˌкwэсчəˈнэр",
+   "spell": "a questionnaire"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женщина ~ женщины",
+   "ipa": "ə ˈwʊмəн ~ ˈwɪмəн",
+   "spell": "a woman ~ women"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "год",
+   "ipa": "ə йɪр",
+   "spell": "a year"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "приложение",
+   "ipa": "əн æп",
+   "spell": "an app"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "изменившийся",
+   "ipa": "чэйнджд",
+   "spell": "changed"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разведённый",
+   "ipa": "дɪˈворст",
+   "spell": "divorced"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "нужно ли быть смешным, чтобы быть интересным?",
+   "ipa": "ду ю нид ту би ˈфʌни ту би фʌн?",
+   "spell": "do you need to be funny to be fun?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я нахожусь",
+   "ipa": "ай æм",
+   "spell": "I am"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я являюсь",
+   "ipa": "ай æм",
+   "spell": "I am"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я происхожу из",
+   "ipa": "ай æм фрʌм",
+   "spell": "I am from"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я встаю",
+   "ipa": "ай гэт ʌп",
+   "spell": "I get up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я встаю (сейчас)",
+   "ipa": "айм ˈгэтɪŋ ʌп",
+   "spell": "I’m getting up"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "офлайн ~ онлайн",
+   "ipa": "ɔфˈлайн ~ ˈɔнˌлайн",
+   "spell": "offline ~ online"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "она говорит",
+   "ipa": "щи сэз",
+   "spell": "she says"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "они очень близки",
+   "ipa": "ðэй ɑр ˈвэри клоус",
+   "spell": "they are very close"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "закрывать",
+   "ipa": "ту клоус",
+   "spell": "to close"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "узнать",
+   "ipa": "ту гэт ту ноу",
+   "spell": "to get to know"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "начать без раскачки, с ходу впрягаться в работу",
+   "ipa": "ту hɪт ðə граунд ˈрʌнɪŋ",
+   "spell": "to hit the ground running"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "поставить слово не туда",
+   "ipa": "ту мɪсˈплэйс ə wɜрд",
+   "spell": "to misplace a word"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты смешной парень",
+   "ipa": "йʊр ə ˈфʌни гай",
+   "spell": "you’re a funny guy"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты такой интересный, веселый",
+   "ipa": "йʊр соу фʌн",
+   "spell": "you’re so fun"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "дружелюбный ~ недружелюбный",
+   "ipa": "ˈфрэндли ~ əнˈфрэндли",
+   "spell": "friendly ~ unfriendly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "разговорчивый ~ тихий",
+   "ipa": "ˈтɔкəтɪв ~ ˈкwайəт",
+   "spell": "talkative ~ quiet"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "щедрый ~ скупой",
+   "ipa": "ˈджэнəрəс ~ чип",
+   "spell": "generous ~ cheap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "добрый ~ недобрый",
+   "ipa": "кайнд ~ əнˈкайнд",
+   "spell": "kind ~ unkind"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ленивый ~ трудолюбивый",
+   "ipa": "ˈлэйзи ~ ˈhɑрˌдwɜркɪŋ",
+   "spell": "lazy ~ hardworking"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "смешной ~ серьезный",
+   "ipa": "ˈфʌни ~ ˈсɪриəс",
+   "spell": "funny ~ serious"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "застенчивый ~ экстравертный",
+   "ipa": "шай ~ ˈэкстрəˌвɜртɪд",
+   "spell": "shy ~ extroverted"
+ }
+]
+}
