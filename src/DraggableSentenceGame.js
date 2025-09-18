@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
+import "../src/styles/cnici.scss";
 
 function DraggableSentenceGame() {
     const { fileId } = useParams();
@@ -60,19 +61,17 @@ function DraggableSentenceGame() {
     if (!data.length) return <div>Loading...</div>;
 
     return (
-        <div style={{ padding: "20px" }}>
+        <div id="cnici" style={{ padding: "10px" }}>
             <h2>Lesson: {fileId}</h2>
             {data.map((row, rowIndex) => {
                 const correctness = checkCorrectness(row);
                 const correctRow = isRowCorrect(row);
+                const rowCorrect = correctRow ? "correct" : "incorrect";
                 return (
                     <div
+                        className={`row ${rowCorrect}`}
                         key={rowIndex}
-                        style={{
-                            border: correctRow ? "2px solid green" : "2px solid #ccc",
-                            marginBottom: "10px",
-                            padding: "10px",
-                        }}
+
                     >
                         <DragDropContext
                             onDragEnd={(result) => handleOnDragEnd(result, rowIndex)}
@@ -82,7 +81,7 @@ function DraggableSentenceGame() {
                                     <div
                                         ref={provided.innerRef}
                                         {...provided.droppableProps}
-                                        style={{ display: "flex", gap: "1px", flexWrap: "wrap" }}
+                                        style={{ display: "flex", gap: "3px", flexWrap: "wrap" }}
                                     >
                                         {row.map((item, i) => (
                                             <Draggable
@@ -92,16 +91,18 @@ function DraggableSentenceGame() {
                                             >
                                                 {(provided) => (
                                                     <div
+                                                        className={correctness[i] ? "linked" : "loose"}
                                                         ref={provided.innerRef}
                                                         {...provided.draggableProps}
                                                         {...provided.dragHandleProps}
                                                         style={{
                                                             padding: "10px",
-                                                            border: "1px solid #000",
-                                                            borderRadius: "5px",
-                                                            background: correctness[i]
-                                                                ? "lightgreen"
-                                                                : "lightgray",
+                                                            border: "1px solid #999",
+                                                            borderRadius: "10px",
+                                                            backgroundColor: "#dfddddff",
+                                                            // background: correctness[i]
+                                                            //     ? "lightgreen"
+                                                            //     : "lightgray",
                                                             ...provided.draggableProps.style,
                                                         }}
                                                     >
