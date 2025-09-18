@@ -61,10 +61,14 @@
 
 
         .charlie {
-            font-size: 17em;
+            font-size: 15em;
             font-weight: 600;
             letter-spacing: -20px;
             text-shadow: 20px 12px 7px rgb(0 0 0 / 10%);
+
+            &.nonR {
+                color: crimson;
+            }
         }
 
         .ernie {

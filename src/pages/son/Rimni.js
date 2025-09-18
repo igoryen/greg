@@ -98,7 +98,7 @@ const Rimni = (props) => {
                                 </div>
 
                                 <div className="sindy voiceless">
-                                    <div className="charlie">h</div>
+                                    <div className="charlie nonR">h</div>
                                     <div className="ernie"> h</div>
                                 </div>
 
@@ -117,16 +117,16 @@ const Rimni = (props) => {
                             <div className="randy">
 
                                 <div className="sindy">
-                                    <div className="charlie">w</div>
+                                    <div className="charlie nonR">w</div>
                                     <div className="ernie">ў w</div>
                                 </div>
                                 <div className="sindy">
-                                    <div className="charlie">ŋ</div>
+                                    <div className="charlie nonR">ŋ</div>
                                     <div className="ernie"> ng</div>
                                 </div>
 
                                 <div className="sindy voiceless">
-                                    <div className="charlie">θ</div>
+                                    <div className="charlie nonR">θ</div>
                                     <div className="ernie">
                                         <div>пятачок</div>
                                         <div>th</div>
@@ -134,7 +134,7 @@ const Rimni = (props) => {
                                 </div>
 
                                 <div className="sindy voiced">
-                                    <div className="charlie">ð</div>
+                                    <div className="charlie nonR">ð</div>
                                     <div className="ernie">
                                         <div>шпилька</div>
                                         <div>th</div>
@@ -186,7 +186,7 @@ const Rimni = (props) => {
                         <div className="randy">
 
                             <div className="sindy">
-                                <div className="charlie">æ</div>
+                                <div className="charlie nonR">æ</div>
                                 <div className="ernie">
                                     <div>бабочка</div>
                                     <div>п<b>я</b>ть</div>
@@ -194,7 +194,7 @@ const Rimni = (props) => {
                                 </div>
                             </div>
                             <div className="sindy">
-                                <div className="charlie">ɑ</div>
+                                <div className="charlie nonR">ɑ</div>
                                 <div className="ernie">
                                     <div>п<b>а</b>лка</div>
                                     <div>c<b>al</b>m</div>
@@ -210,7 +210,7 @@ const Rimni = (props) => {
 
 
                             <div className="sindy">
-                                <div className="charlie">ɔ</div>
+                                <div className="charlie nonR">ɔ</div>
                                 <div className="ernie">
                                     <div>разорванное кольцо</div>
                                     <div>сух<b>о</b>й *</div>
@@ -218,7 +218,7 @@ const Rimni = (props) => {
                                 </div>
                             </div>
                             <div className="sindy">
-                                <div className="charlie">ɪ</div>
+                                <div className="charlie nonR">ɪ</div>
                                 <div className="ernie">
                                     <div>подпорка</div>
                                     <div><b>э</b>тап</div>
@@ -228,7 +228,7 @@ const Rimni = (props) => {
                             </div>
 
                             <div className="sindy">
-                                <div className="charlie">ʊ</div>
+                                <div className="charlie nonR">ʊ</div>
                                 <div className="ernie">
                                     <div>подкова / horseshoe</div>
                                     <div>с<b>у</b>хой</div>
@@ -238,7 +238,7 @@ const Rimni = (props) => {
                             </div>
 
                             <div className="sindy">
-                                <div className="charlie">ʌ</div>
+                                <div className="charlie nonR">ʌ</div>
                                 <div className="ernie">
                                     <div>палатка / tent</div>
                                     <div>g<b>u</b>t</div>
@@ -247,7 +247,7 @@ const Rimni = (props) => {
                             </div>
 
                             <div className="sindy">
-                                <div className="charlie">ə</div>
+                                <div className="charlie nonR">ə</div>
                                 <div className="ernie">
                                     <div>шва / schwa</div>
                                     <div><b>a</b>ren<b>a</b></div>
@@ -295,7 +295,7 @@ const Rimni = (props) => {
                         <h2>one more</h2>
                         <div className="randy">
                             <div className="sindy">
-                                <div className="charlie">ɜ</div>
+                                <div className="charlie nonR">ɜ</div>
                                 <div className="ernie">
                                     <div>тройка</div>
                                     <div>b<b>ir</b>d</div>
