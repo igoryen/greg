@@ -2,6 +2,8 @@
     font-size: large;
     font-family: "Noto Sans", sans-serif;
 
+
+
     @mixin spacing {
         margin-right: 3px;
         padding: 3px 5px;
@@ -11,8 +13,11 @@
         border-radius: 10px;
     }
 
-    .line {
-        margin: 2em 0;
+    .any {
+        background-color: #333;
+        color: white;
+        @include spacing();
+        @include shape;
     }
 
     .be {
@@ -20,6 +25,89 @@
         color: aliceblue;
 
         text-transform: uppercase;
+        // @include spacing();
+        padding: 3px 5px;
+        margin-right: 0;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        text-shadow: 1px 1px 2px black;
+    }
+
+    .definite {
+        color: rgb(222, 187, 123);
+    }
+
+    .group {
+        border: 1px solid gray;
+        border-radius: 0.2em;
+        // @include spacing();
+        // @include shape();
+
+        padding: 0.8em 0.1em;
+        margin: 1em 0.5em 1em 0em;
+    }
+
+    .groups {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .indefinite {
+        color: lightgreen;
+    }
+
+    .line {
+        margin: 3em 0;
+    }
+
+    .no {
+        background-color: crimson;
+        color: white;
+        @include spacing();
+        @include shape;
+    }
+
+    .not {
+        background-color: crimson;
+        color: white;
+        // @include spacing();
+        // @include shape;
+        padding: 3px 5px;
+        margin-left: 0;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+
+    }
+
+    .plur {
+        background-color: rgb(11, 108, 108);
+        @include spacing();
+        @include shape;
+    }
+
+    .que {
+        background-color: rgb(31, 136, 222);
+        color: white;
+        // @include spacing();
+        // @include shape;
+        // width: 1em;
+        // padding: 0.5em 0;
+        // height: 2em;
+        width: 1em;
+        text-align: center;
+        // border-radius: 50%;
+        display: inline-block;
+    }
+
+    .sing {
+        background-color: #555;
+        @include spacing();
+        @include shape;
+    }
+
+    .some {
+        background-color: rgb(187, 132, 30);
+        color: white;
         @include spacing();
         @include shape;
     }
@@ -32,53 +120,19 @@
         text-transform: uppercase;
     }
 
-    .not {
-        background-color: crimson;
-        color: white;
-        @include spacing();
-        @include shape;
-    }
 
-    .que {
-        background-color: rgb(31, 136, 222);
-        color: white;
-        @include spacing();
-        @include shape;
-    }
 
-    .any {
-        background-color: #333;
-        color: white;
-        @include spacing();
-        @include shape;
-    }
 
-    .some {
-        background-color: rgb(187, 132, 30);
-        color: white;
-        @include spacing();
-        @include shape;
-    }
 
-    .group {
-        border: 1px solid black;
-        @include spacing();
-        @include shape();
-    }
 
-    .sing {
-        background-color: #555;
-        color: aquamarine;
-        @include spacing();
-        @include shape;
-    }
 
-    .plur {
-        background-color: aqua;
-        color: red;
-        @include spacing();
-        @include shape;
-    }
+
+
+
+
+
+
+
 
     h1 {
         // background-color: yellow;
