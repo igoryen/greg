@@ -10,7 +10,7 @@
         margin: 1em 0;
 
         &.correct {
-            background-color: lightgreen;
+            background-color: rgb(163, 240, 163);
         }
 
         &.incorrect {}
@@ -24,13 +24,15 @@
         position: relative;
 
         &::before {
-            content: ' \22B7';
+            content: ' \25E0';
             color: rgb(44, 118, 229);
             position: absolute;
-            top: -12px;
-            left: -16px;
-            font-size: 25px;
+            top: -33px;
+            left: -20px;
+            font-size: 45px;
         }
+
+
     }
 
 
