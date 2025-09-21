@@ -1,6 +1,31 @@
-.dmitry {
+#dmitry {
     font-family: "Open Sans", sans-serif;
     width: 100%;
+
+
+    .random-word-section {
+        // background-color: aqua;
+        border-radius: 10px;
+        border: 1px solid gray;
+        margin: 1em 0.1em;
+        padding: 1em;
+        // width: fit-content;
+
+        // hide card number
+        .patty {
+            .face.front {
+                p {
+                    color: transparent;
+                }
+            }
+        }
+
+
+        .pickle {
+            margin-top: 1em;
+        }
+
+    }
 
     .howard {
         display: grid;
