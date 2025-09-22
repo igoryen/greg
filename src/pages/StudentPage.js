@@ -1,6 +1,6 @@
 import "../styles/dmitry.scss";
 import { useParams, useNavigate, Link } from "react-router-dom";
-import { useEffect, useState, useMemo } from "react";
+import { useEffect, useState, useMemo, useCallback } from "react";
 import lessons from "../data/lessonsList.json";
 import Mathilda from "../components/Mathilda";
 
@@ -33,34 +33,35 @@ function StudentPage() {
     }
     //===============================================
 
-    // ✅ pick one random word from one random lesson
-    useEffect(() => {
-        const loadRandomWord = async () => {
-            try {
-                if (studentLessons.length === 0) return;
+    // ✅ function to fetch a random word
+    const loadRandomWord = useCallback(async () => {
+        try {
+            if (studentLessons.length === 0) return;
 
-                const randomLesson = studentLessons[Math.floor(Math.random() * studentLessons.length)];
-                const fileNumber = String(randomLesson.fileNumber).padStart(2, "0");
-                const lesson = await import(`../data/${slug}/${slug}${fileNumber}.json`);
+            const randomLesson = studentLessons[Math.floor(Math.random() * studentLessons.length)];
+            const fileNumber = String(randomLesson.fileNumber).padStart(2, "0");
+            const lesson = await import(`../data/${slug}/${slug}${fileNumber}.json`);
 
-                if (!lesson.words || lesson.words.length === 0) return;
+            if (!lesson.words || lesson.words.length === 0) return;
 
-                const randomWord = lesson.words[Math.floor(Math.random() * lesson.words.length)];
+            const randomWord = lesson.words[Math.floor(Math.random() * lesson.words.length)];
 
-                setRandomWord(randomWord);
-                setRandomLessonMeta({
-                    period: lesson.period || "lesson",
-                    number: lesson.number,
-                    date: lesson.date,
-                    student: lesson.slug
-                });
-            } catch (err) {
-                console.error("Failed to load random word:", err);
-            }
-        };
-
-        loadRandomWord();
+            setRandomWord(randomWord);
+            setRandomLessonMeta({
+                period: lesson.period || "lesson",
+                number: lesson.number,
+                date: lesson.date,
+                student: lesson.slug
+            });
+        } catch (err) {
+            console.error("Failed to load random word:", err);
+        }
     }, [slug, studentLessons]);
+
+    // ✅ call once on page load
+    useEffect(() => {
+        loadRandomWord();
+    }, [loadRandomWord]);
 
     return (
         <div id="dmitry">
@@ -72,10 +73,13 @@ function StudentPage() {
                 <div className="random-word-section">
                     <h2>🎲 Random Word</h2>
                     <Mathilda words={[randomWord]} lesnum={randomLessonMeta?.number} />
-                    <p className="pickle">
-                        From {randomLessonMeta?.student} {randomLessonMeta?.period} {randomLessonMeta?.number} (
-                        {randomLessonMeta?.date})
-                    </p>
+                    <div className="pickle">
+                        <button onClick={loadRandomWord} className="new-word-btn">
+                            🔄 Get Another Word
+                        </button>
+                        <p>From <b>{randomLessonMeta?.student}</b> {randomLessonMeta?.period} {randomLessonMeta?.number} (
+                            {randomLessonMeta?.date})</p>
+                    </div>
                 </div>
             )}
 

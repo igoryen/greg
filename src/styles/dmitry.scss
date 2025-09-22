@@ -2,6 +2,9 @@
     font-family: "Open Sans", sans-serif;
     width: 100%;
 
+    .spelling_switch {
+        margin-bottom: 1em;
+    }
 
     .random-word-section {
         // background-color: aqua;
@@ -23,8 +26,18 @@
 
         .pickle {
             margin-top: 1em;
+            display: flex;
+
+            p {
+                // max-width: 8em;
+            }
         }
 
+    }
+
+    .new-word-btn {
+        margin-right: 1em;
+        max-width: 8em;
     }
 
     .howard {
