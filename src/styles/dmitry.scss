@@ -28,6 +28,13 @@
             margin-top: 1em;
             display: flex;
 
+            button {
+                padding: 0 3px;
+                background-color: rgb(12, 86, 176);
+                color: aliceblue;
+                border-radius: 5px;
+            }
+
             p {
                 // max-width: 8em;
             }
