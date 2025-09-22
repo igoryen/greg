@@ -62,11 +62,12 @@ function DraggableSentenceGame() {
 
     return (
         <div id="cnici" style={{ padding: "10px" }}>
-            <h2>Lesson: {fileId}</h2>
+            <h2>Page: <span className="jason">{fileId}</span></h2>
             {data.map((row, rowIndex) => {
                 const correctness = checkCorrectness(row);
                 const correctRow = isRowCorrect(row);
                 const rowCorrect = correctRow ? "correct" : "incorrect";
+                const clsNames = "shim ";
                 return (
                     <div
                         className={`row ${rowCorrect}`}
@@ -84,6 +85,7 @@ function DraggableSentenceGame() {
                                         style={{ display: "flex", gap: "3px", flexWrap: "wrap" }}
                                     >
                                         {row.map((item, i) => (
+
                                             <Draggable
                                                 key={item.key}
                                                 draggableId={`${rowIndex}-${item.key}-${i}`}
@@ -91,22 +93,14 @@ function DraggableSentenceGame() {
                                             >
                                                 {(provided) => (
                                                     <div
-                                                        className={correctness[i] ? "linked" : "loose"}
+                                                        className={`${clsNames} ${correctness[i] ? "linked" : "loose"}`}
                                                         ref={provided.innerRef}
                                                         {...provided.draggableProps}
                                                         {...provided.dragHandleProps}
-                                                        style={{
-                                                            padding: "10px",
-                                                            border: "1px solid #999",
-                                                            borderRadius: "10px",
-                                                            backgroundColor: "#dfddddff",
-                                                            // background: correctness[i]
-                                                            //     ? "lightgreen"
-                                                            //     : "lightgray",
-                                                            ...provided.draggableProps.style,
-                                                        }}
+                                                        style={{ ...provided.draggableProps.style }}
                                                     >
                                                         {item.value}
+                                                        <span></span>
                                                     </div>
                                                 )}
                                             </Draggable>
