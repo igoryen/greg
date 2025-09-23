@@ -119,7 +119,6 @@ import IP04 from "./pages/ip/IP04";
 import IP05 from "./pages/ip/IP05";
 import IP06 from "./pages/ip/IP06";
 import IP07 from "./pages/ip/IP07";
-import IP08 from "./pages/ip/IP08";
 import IP09 from "./pages/ip/IP09";
 import IP10 from "./pages/ip/IP10";
 import IP11 from "./pages/ip/IP11";
@@ -452,7 +451,6 @@ export default function App() {
           <Route path="ip05" element={<IP05 />} />
           <Route path="ip06" element={<IP06 />} />
           <Route path="ip07" element={<IP07 />} />
-          <Route path="ip08" element={<IP08 />} />
           <Route path="ip09" element={<IP09 />} />
           <Route path="ip10" element={<IP10 />} />
           <Route path="ip11" element={<IP11 />} />
