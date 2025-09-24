@@ -1,0 +1,590 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 38,
+  "date": "2025-09-21",
+  "words": [
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "круг",
+   "ipa": "ə ˈсɜркəл",
+   "spell": "a circle"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "обычная вещь",
+   "ipa": "ə ˈкɑмəн θɪŋ",
+   "spell": "a common thing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "вилка",
+   "ipa": "ə форк",
+   "spell": "a fork"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "А - противоположность Z",
+   "ipa": "эй ɪз ðи ˈɑпəзəт ʌв зи",
+   "spell": "A is the opposite of Z"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мужчина ⇄ мужчины",
+   "ipa": "ə мæн ⇄ мэн",
+   "spell": "a man ⇄ men"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фраза",
+   "ipa": "ə фрэйз",
+   "spell": "a phrase"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "правило",
+   "ipa": "ə рул",
+   "spell": "a rule"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "высокое здание",
+   "ipa": "ə тɔл ˈбɪлдɪŋ",
+   "spell": "a tall building"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "высокий человек",
+   "ipa": "ə тɔл ˈпɜрсəн",
+   "spell": "a tall person"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "женщина ⇄ женщины",
+   "ipa": "ə ˈwʊмəн ⇄ ˈwɪмəн",
+   "spell": "a woman ⇄ women"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "почти",
+   "ipa": "ˈɔлˌмоуст",
+   "spell": "almost"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "прилагательное",
+   "ipa": "əн ˈæджɪктɪв",
+   "spell": "an adjective"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "американский друг",
+   "ipa": "əн əˈмэрəкəн фрэнд",
+   "spell": "an American friend"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "бронетранспортёр (БТР)",
+   "ipa": "əн ˈɑрмəрд ˌпɜрсəˈнэл ˈкæриəр (ˈэйˈпиˈси)",
+   "spell": "an armored personnel carrier (APC)"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уродливый дом",
+   "ipa": "əн ˈʌгли hаус",
+   "spell": "an ugly house"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "главное, чтобы ты меня видел",
+   "ipa": "æз лɔŋ æз ю кæн си ми",
+   "spell": "as long as you can see me"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "раньше",
+   "ipa": "бɪˈфор",
+   "spell": "before"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "большой ⇄ маленький",
+   "ipa": "бɪг ⇄ смɔл",
+   "spell": "big ⇄ small"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты умеешь водить машину с механической коробкой передач?",
+   "ipa": "кæн ю драйв ə стɪк щɪфт?",
+   "spell": "can you drive a stick shift?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ты умеешь водить механику?",
+   "ipa": "кæн ю драйв стɪк?",
+   "spell": "can you drive stick?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "чистый ⇄ грязный",
+   "ipa": "клин ⇄ ˈдɜрти",
+   "spell": "clean ⇄ dirty"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "грязные ботинки",
+   "ipa": "ˈдɜрти бутс",
+   "spell": "dirty boots"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "лёгкий ⇄ трудный",
+   "ipa": "ˈизи ⇄ ˈдɪфəкəлт",
+   "spell": "easy ⇄ difficult"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расходы",
+   "ipa": "ɪкˈспэнс",
+   "spell": "expense"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "фастфуд",
+   "ipa": "фæст фуд",
+   "spell": "fast food"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "быстрый ⇄ медленный",
+   "ipa": "фæст ⇄ слоу",
+   "spell": "fast ⇄ slow"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он ужасен",
+   "ipa": "hи ɪз ˈɑфəл",
+   "spell": "he is awful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как насчёт этого?",
+   "ipa": "hау əˈбаут ðɪс?",
+   "spell": "how about this?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "сколько ему лет?",
+   "ipa": "hау оулд ɪз ɪт?",
+   "spell": "how old is it?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я чуть не умер",
+   "ipa": "ай ˈɔлˌмоуст дайд",
+   "spell": "I almost died"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я высокий",
+   "ipa": "ай æм тɔл",
+   "spell": "I am tall"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу водить",
+   "ipa": "ай кæн драйв",
+   "spell": "I can drive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу водить БТР",
+   "ipa": "ай кæн драйв əн ˈэйˈпиˈси",
+   "spell": "I can drive an APC"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я могу стрелять",
+   "ipa": "ай кæн щут",
+   "spell": "I can shoot"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я не умею водить механику",
+   "ipa": "ай ˈкæнɑт драйв стɪк",
+   "spell": "I cannot drive stick"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я прихожу поздно",
+   "ipa": "ай кʌм лэйт",
+   "spell": "I come late"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я должен это сделать",
+   "ipa": "ай hæв ту ду ɪт",
+   "spell": "I have to do it"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я знаю, что ничего не знаю",
+   "ipa": "ай ноу ðæт ай ноу ˈнʌθɪŋ",
+   "spell": "I know that I know nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я предпочитаю короткие книги",
+   "ipa": "ай прəˈфɜр шорт бʊкс",
+   "spell": "I prefer short books"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я читаю",
+   "ipa": "ай рид",
+   "spell": "I read"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я говорю по-английски",
+   "ipa": "ай спик ˈɪŋглɪш",
+   "spell": "I speak English"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я говорю о тебе",
+   "ipa": "ай тɔк əˈбаут ю",
+   "spell": "I talk about you"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я немного задержусь в четверг",
+   "ipa": "ай wɪл би ə ˈлɪтəл лэйт ɑн ˈθɜрзˌдэй",
+   "spell": "I will be a little late on Thursday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я пишу",
+   "ipa": "ай райт",
+   "spell": "I write"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он абсолютно новый",
+   "ipa": "ɪт ɪз брæнд ну",
+   "spell": "it is brand new"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "на нём легко водить",
+   "ipa": "ɪт ɪз ˈизи ту драйв",
+   "spell": "it is easy to drive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "он довольно новый",
+   "ipa": "ɪт ɪз кwайт ну",
+   "spell": "it is quite new"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это ужасно",
+   "ipa": "ɪт ɪз ˈтэрəбəл",
+   "spell": "it is terrible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "как вчера",
+   "ipa": "лайк ˈйэстəрˌдэй",
+   "spell": "like yesterday"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "расходы на жизнь",
+   "ipa": "ˈлɪвɪŋ ɪкˈспэнсəз",
+   "spell": "living expenses"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "длинный ⇄ короткий",
+   "ipa": "лɔŋ ⇄ шорт",
+   "spell": "long ⇄ short"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "я тоже",
+   "ipa": "ми ту",
+   "spell": "me too"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя машина быстрая",
+   "ipa": "май кɑр ɪз фæст",
+   "spell": "my car is fast"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой город красивый",
+   "ipa": "май ˈсɪти ɪз ˈбъютəфəл",
+   "spell": "my city is beautiful"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой курс сложный",
+   "ipa": "май корс ɪз ˈдɪфəкəлт",
+   "spell": "my course is difficult"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой курс дорогой",
+   "ipa": "май корс ɪз ɪкˈспэнсɪв",
+   "spell": "my course is expensive"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой дом чистый",
+   "ipa": "май hаус ɪз клин",
+   "spell": "my house is clean"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мой ноутбук не дешёвый",
+   "ipa": "май ˈлæпˌтɑп ɪз нɑт чип",
+   "spell": "my laptop is not cheap"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "мои шорты",
+   "ipa": "май шортс",
+   "spell": "my shorts"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "моя очередь",
+   "ipa": "май тɜрн",
+   "spell": "my turn"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "ничего",
+   "ipa": "ˈнʌθɪŋ",
+   "spell": "nothing"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "больше ничего",
+   "ipa": "ˈнʌθɪŋ элс",
+   "spell": "nothing else"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "больше ничего не важно",
+   "ipa": "ˈнʌθɪŋ элс ˈмæтəрз",
+   "spell": "nothing else matters"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "старый ⇄ новый",
+   "ipa": "оулд ⇄ ну",
+   "spell": "old ⇄ new"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "противоположный",
+   "ipa": "ˈɑпəзəт",
+   "spell": "opposite"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "оппозиция",
+   "ipa": "ˌɑпəˈзɪшəн",
+   "spell": "opposition"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "порядок",
+   "ipa": "ˈордəр",
+   "spell": "order"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "множественное число",
+   "ipa": "ˈплʊрəл",
+   "spell": "plural"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "возможный ⇄ невозможный",
+   "ipa": "ˈпɑсəбəл ⇄ ɪмˈпɑсəбəл",
+   "spell": "possible ⇄ impossible"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "единственное число",
+   "ipa": "ˈсɪŋгйəлəр",
+   "spell": "singular"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "маленькие дети",
+   "ipa": "смɔл ˈчɪлдрəн",
+   "spell": "small children"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "тот же самый",
+   "ipa": "ðə сэйм",
+   "spell": "the same"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это синие ключи",
+   "ipa": "ðэй ɑр блу киз",
+   "spell": "they are blue keys"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это чистые ботинки",
+   "ipa": "ðэй ɑр клин бутс",
+   "spell": "they are clean boots"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это чёрная сумка",
+   "ipa": "ðɪс ɪз ə блæк бæг",
+   "spell": "this is a black bag"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "это старая книга",
+   "ipa": "ðɪс ɪз əн оулд бʊк",
+   "spell": "this is an old book"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "упорядочить",
+   "ipa": "ту ˈордəр",
+   "spell": "to order"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "заказать пиццу",
+   "ipa": "ту ˈордəр ˈпитсə",
+   "spell": "to order pizza"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "уродливый",
+   "ipa": "ˈʌгли",
+   "spell": "ugly"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "очень",
+   "ipa": "ˈвэри",
+   "spell": "very"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "а твоя машина?",
+   "ipa": "wɑт əˈбаут йʊəр кɑр?",
+   "spell": "what about your car?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что мне делать?",
+   "ipa": "wɑт ду ай ду?",
+   "spell": "what do I do?"
+ },
+ {
+   "cefr": "",
+   "def2": "",
+   "def1": "что противоположно чёрному?",
+   "ipa": "wɑт ɪз ðи ˈɑпəзəт ʌв блæк ?",
+   "spell": "what is the opposite of black ?"
+ }
+]
+}
