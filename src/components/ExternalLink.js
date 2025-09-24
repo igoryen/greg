@@ -4,7 +4,7 @@ import * as React from 'react';
 
 export default function ExternalLink({ children, url }) {
     return (
-        <a href={url} target="_blank" rel="noopener">
+        <a href={url} target="_blank" rel="noreferrer">
             {children}
         </a>
     );
