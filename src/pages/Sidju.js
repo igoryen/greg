@@ -13,6 +13,7 @@ const Sidju = () => {
         { label: "Gadri", path: "/gadri", desc: "articles: ə/ən, ðə/ði" },
         { label: "Jimte", path: "/jimte", desc: "Message shredder" },
         { label: "Kooi", path: "/kooi", desc: "imperatives" },
+        { label: "Linsi", path: "/linsi", desc: "bookmarks to web resources" },
         { label: "Prenu", path: "/prenu", desc: "possessive pronouns" },
         { label: "Rimni", path: "/rimni", desc: "IPA symbols" },
         { label: "Ruo", path: "/ruo", desc: "IPA to Cyrillic converter" },

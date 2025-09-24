@@ -159,6 +159,7 @@ import Jimte from "./pages/Jimte";
 import Kooi from "./pages/grm/Kooi";
 
 import Leo from "./pages/Leo";
+import Linsi from "./pages/Linsi";
 
 import MG from "./pages/mg/MG";
 import MG02 from "./pages/mg/MG02";
@@ -487,6 +488,7 @@ export default function App() {
           <Route path="jimte" element={<Jimte />} />
 
           <Route path="kooi" element={<Kooi />} />
+          <Route path="linsi" element={<Linsi />} />
 
           <Route path="mg" element={<MG />} />
           <Route path="mg02" element={<MG02 />} />
