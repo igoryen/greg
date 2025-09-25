@@ -1,0 +1,310 @@
+{
+  "student": "Olena",
+  "slug": "ot",
+  "period": "week",
+  "number": 39,
+  "date": "2025-09-23",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полоса движения",
+      "ipa": "ə кɑр лэйн",
+      "spell": "a car lane"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осенний день",
+      "ipa": "ə фɔл дэй",
+      "spell": "a fall day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скоростная трасса",
+      "ipa": "ə ˈфриˌwэй",
+      "spell": "a freeway"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "глагольная фраза",
+      "ipa": "ə вɜрб фрэйз",
+      "spell": "a verb phrase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проверь, есть ли бензин",
+      "ipa": "чэк ðæт ю hæв гæс",
+      "spell": "check that you have gas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проверь свою машину!",
+      "ipa": "чэк йʊəр кɑр!",
+      "spell": "check your car!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закрой окно",
+      "ipa": "клоус ðə ˈwɪндоу",
+      "spell": "close the window"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не опаздывай",
+      "ipa": "доунт би лэйт",
+      "spell": "don't be late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не пользуйся телефоном",
+      "ipa": "доунт юз йʊəр фоун",
+      "spell": "don't use your phone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закончи свою работу",
+      "ipa": "ˈфɪнɪш йʊəр wɜрк",
+      "spell": "finish your work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "свобода",
+      "ipa": "ˈфридəм",
+      "spell": "freedom"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хороших выходных",
+      "ipa": "hæв ə гʊд ˈwиˌкэнд",
+      "spell": "have a good weekend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "счастливого пути!",
+      "ipa": "hæв ə сэйф трɪп!",
+      "spell": "have a safe trip!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я спешу",
+      "ipa": "ай æм ɪн ə ˈhɜри",
+      "spell": "I am in a hurry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я делаю, что хочу",
+      "ipa": "ай ду wɑт ай wɑнт",
+      "spell": "I do what I want"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пью воду",
+      "ipa": "ай дрɪŋк ˈwɔтəр",
+      "spell": "I drink water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вожу машину",
+      "ipa": "ай драйв ə кɑр",
+      "spell": "I drive a car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вожу аккуратно",
+      "ipa": "ай драйв сэйф",
+      "spell": "I drive safe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ем свою еду",
+      "ipa": "ай ит май фуд",
+      "spell": "I eat my food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравятся все виды спорта",
+      "ipa": "ай лайк ɔл кайндз ʌв спортс",
+      "spell": "I like all kinds of sports"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится осенняя погода",
+      "ipa": "ай лайк ðə фɔл ˈwэðəр",
+      "spell": "I like the fall weather"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я читаю книгу",
+      "ipa": "ай рид ə бʊк",
+      "spell": "I read a book"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я читаю пост",
+      "ipa": "ай рид ə поуст",
+      "spell": "I read a post"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я говорю, что хочу",
+      "ipa": "ай сэй wɑт ай wɑнт",
+      "spell": "I say what I want"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу, что хочу",
+      "ipa": "ай wэр wɑт ай wɑнт",
+      "spell": "I wear what I want"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осенью",
+      "ipa": "ɪн ðə фɔл",
+      "spell": "in the fall"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слушай учителя",
+      "ipa": "ˈлɪсəн ту ðə ˈтичəр",
+      "spell": "listen to the teacher"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "посмотри на тот знак",
+      "ipa": "лʊк æт ðæт сайн",
+      "spell": "look at that sign"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много полос (на дороге)",
+      "ipa": "ˈмэни кɑр лэйнз",
+      "spell": "many car lanes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "планируйте вашу поездку!",
+      "ipa": "плæн йʊəр трɪп!",
+      "spell": "plan your trip!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "распишись здесь",
+      "ipa": "сайн йʊəр нэйм hир",
+      "spell": "sign your name here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "замедлись, сбавь скорость!",
+      "ipa": "слоу даун!",
+      "spell": "slow down!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "иногда идёт дождь",
+      "ipa": "сəмˈтаймз ɪт рэйнз",
+      "spell": "sometimes it rains"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "остановись на пятнадцать минут",
+      "ipa": "стɑп фор фɪфˈтин ˈмɪнəтс",
+      "spell": "stop for fifteen minutes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "возьми карту с собой!",
+      "ipa": "тэйк ə мæп wɪð ю!",
+      "spell": "take a map with you!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "США отлично подходят для фастфуда",
+      "ipa": "ðə ю.эс. ɪз грэйт фор фæст фуд",
+      "spell": "the U.S. is great for fast food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они живут вместе счастливо",
+      "ipa": "ðэй лɪв тəˈгэðəр ˈhæпəли",
+      "spell": "they live together happily"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "воин",
+      "ipa": "ə ˈwориəр",
+      "spell": "a warrior"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "посмотри видео!",
+      "ipa": "wɑч ðə ˈвɪдиоу!",
+      "spell": "watch the video!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы много ездим",
+      "ipa": "wи драйв ə лɑт",
+      "spell": "we drive a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы ездим из одного места в другое",
+      "ipa": "wи драйв фрʌм wʌн плэйс ту əˈнʌðəр",
+      "spell": "we drive from one place to another"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что мне в тебе нравится",
+      "ipa": "wɑт ай лайк əˈбаут ю",
+      "spell": "what I like about you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что им нравится в США",
+      "ipa": "wɑт ðэй лайк əˈбаут ðə ю.эс.",
+      "spell": "what they like about the U.S."
+    }
+  ]
+}
