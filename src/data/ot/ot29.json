@@ -5,250 +5,544 @@
   "number": 37,
   "date": "2025-09-09",
   "words": [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "будь осторожен!",
-   "ipa": "би ˈкэрфəл!",
-   "spell": "be careful!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "переходи дорогу сейчас",
-   "ipa": "крɔс ðə роуд нау",
-   "spell": "cross the road now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не пугайся",
-   "ipa": "доунт би ˈфрайтəнд",
-   "spell": "don't be frightened"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не езжай быстро!",
-   "ipa": "доунт драйв фæст!",
-   "spell": "don't drive fast!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не ешьте и не пейте здесь",
-   "ipa": "доунт ит ор дрɪŋк hир",
-   "spell": "don't eat or drink here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не заходите туда",
-   "ipa": "доунт гоу ɪн ðэр",
-   "spell": "don't go in there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не слушайте музыку здесь",
-   "ipa": "доунт ˈлɪсəн ту ˈмъюзɪк hир",
-   "spell": "don't listen to music here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не открывай дверь",
-   "ipa": "доунт ˈоупəн ðə дор",
-   "spell": "don't open the door"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не кури здесь",
-   "ipa": "доунт смоук hир",
-   "spell": "don't smoke here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не фотографируйте",
-   "ipa": "доунт тэйк ˈфоуˌтоуз",
-   "spell": "don't take photos"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не поворачивайте налево!",
-   "ipa": "доунт тɜрн лэфт!",
-   "spell": "don't turn left!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не смотрите его",
-   "ipa": "доунт wɑч ɪт",
-   "spell": "don't watch it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не волнуйся!",
-   "ipa": "доунт ˈwɜри!",
-   "spell": "don't worry!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "иди спать",
-   "ipa": "гоу ту бэд",
-   "spell": "go to bed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "съешь сэндвич",
-   "ipa": "hæв ə ˈсæндwɪч",
-   "spell": "have a sandwich"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай посмотрим видео",
-   "ipa": "лэтс wɑч ə ˈвɪдиоу",
-   "spell": "let's watch a video"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай сделаем это вместе",
-   "ipa": "лэтс ду ɪт тəˈгэðəр",
-   "spell": "let's do it together"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай поедим в кафе",
-   "ipa": "лэтс ит æт ə кəˈфэй",
-   "spell": "let's eat at a cafe"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай пойдём домой",
-   "ipa": "лэтс гоу hоум",
-   "spell": "let's go home"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай поедем в отпуск",
-   "ipa": "лэтс гоу ɑн вэйˈкэйшəн",
-   "spell": "let's go on vacation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пошли! поехали!",
-   "ipa": "лэтс гоу!",
-   "spell": "let's go!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай не пойдем в кино",
-   "ipa": "лэтс нɑт гоу ту ðə ˈмувиз",
-   "spell": "let's not go to the movies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай не останавливаться",
-   "ipa": "лэтс нɑт стɑп",
-   "spell": "let's not stop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай не будем брать такси",
-   "ipa": "лэтс нɑт тэйк ə ˈтæкси",
-   "spell": "let's not take a taxi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давайте откроем окно",
-   "ipa": "лэтс ˈоупəн ðə ˈwɪндоу",
-   "spell": "let's open the window"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай остановимся перекусить!",
-   "ipa": "лэтс стɑп фор сʌм фуд!",
-   "spell": "let's stop for some food!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давайте остановимся!",
-   "ipa": "лэтс стɑп!",
-   "spell": "let's stop!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давайте выключим телевизор",
-   "ipa": "лэтс тɜрн ɔф ðə ˈтиˈви",
-   "spell": "let's turn off the TV"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "найди отель!",
-   "ipa": "лʊк фор ə hоуˈтэл!",
-   "spell": "look for a hotel!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "открой окно",
-   "ipa": "ˈоупəн ðə ˈwɪндоу",
-   "spell": "open the window"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пожалуйста, не говорите по-испански",
-   "ipa": "плиз доунт спик ˈспæнɪш",
-   "spell": "please don't speak Spanish"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "возьми с собой книгу",
-   "ipa": "тэйк ə бʊк wɪð ю",
-   "spell": "take a book with you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "возьми зонт",
-   "ipa": "тэйк əн əмˈбрэлə",
-   "spell": "take an umbrella"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "выключите телефон",
-   "ipa": "тɜрн ɔф йʊəр фоун",
-   "spell": "turn off your phone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поверните направо!",
-   "ipa": "тɜрн райт!",
-   "spell": "turn right!"
- }
-]
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь осторожен!",
+      "ipa": "би ˈкэрфəл!",
+      "spell": "be careful!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "переходи дорогу сейчас",
+      "ipa": "крɔс ðə роуд нау",
+      "spell": "cross the road now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не пугайся",
+      "ipa": "доунт би ˈфрайтəнд",
+      "spell": "don't be frightened"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не езжай быстро!",
+      "ipa": "доунт драйв фæст!",
+      "spell": "don't drive fast!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не ешьте и не пейте здесь",
+      "ipa": "доунт ит ор дрɪŋк hир",
+      "spell": "don't eat or drink here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не заходите туда",
+      "ipa": "доунт гоу ɪн ðэр",
+      "spell": "don't go in there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не слушайте музыку здесь",
+      "ipa": "доунт ˈлɪсəн ту ˈмъюзɪк hир",
+      "spell": "don't listen to music here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не открывай дверь",
+      "ipa": "доунт ˈоупəн ðə дор",
+      "spell": "don't open the door"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не кури здесь",
+      "ipa": "доунт смоук hир",
+      "spell": "don't smoke here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не фотографируйте",
+      "ipa": "доунт тэйк ˈфоуˌтоуз",
+      "spell": "don't take photos"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не поворачивайте налево!",
+      "ipa": "доунт тɜрн лэфт!",
+      "spell": "don't turn left!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не смотрите его",
+      "ipa": "доунт wɑч ɪт",
+      "spell": "don't watch it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не волнуйся!",
+      "ipa": "доунт ˈwɜри!",
+      "spell": "don't worry!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "иди спать",
+      "ipa": "гоу ту бэд",
+      "spell": "go to bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "съешь сэндвич",
+      "ipa": "hæв ə ˈсæндwɪч",
+      "spell": "have a sandwich"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай посмотрим видео",
+      "ipa": "лэтс wɑч ə ˈвɪдиоу",
+      "spell": "let's watch a video"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай сделаем это вместе",
+      "ipa": "лэтс ду ɪт тəˈгэðəр",
+      "spell": "let's do it together"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай поедим в кафе",
+      "ipa": "лэтс ит æт ə кəˈфэй",
+      "spell": "let's eat at a cafe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай пойдём домой",
+      "ipa": "лэтс гоу hоум",
+      "spell": "let's go home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай поедем в отпуск",
+      "ipa": "лэтс гоу ɑн вэйˈкэйшəн",
+      "spell": "let's go on vacation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пошли! поехали!",
+      "ipa": "лэтс гоу!",
+      "spell": "let's go!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай не пойдем в кино",
+      "ipa": "лэтс нɑт гоу ту ðə ˈмувиз",
+      "spell": "let's not go to the movies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай не останавливаться",
+      "ipa": "лэтс нɑт стɑп",
+      "spell": "let's not stop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай не будем брать такси",
+      "ipa": "лэтс нɑт тэйк ə ˈтæкси",
+      "spell": "let's not take a taxi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давайте откроем окно",
+      "ipa": "лэтс ˈоупəн ðə ˈwɪндоу",
+      "spell": "let's open the window"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай остановимся перекусить!",
+      "ipa": "лэтс стɑп фор сʌм фуд!",
+      "spell": "let's stop for some food!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давайте остановимся!",
+      "ipa": "лэтс стɑп!",
+      "spell": "let's stop!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давайте выключим телевизор",
+      "ipa": "лэтс тɜрн ɔф ðə ˈтиˈви",
+      "spell": "let's turn off the TV"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "найди отель!",
+      "ipa": "лʊк фор ə hоуˈтэл!",
+      "spell": "look for a hotel!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "открой окно",
+      "ipa": "ˈоупəн ðə ˈwɪндоу",
+      "spell": "open the window"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пожалуйста, не говорите по-испански",
+      "ipa": "плиз доунт спик ˈспæнɪш",
+      "spell": "please don't speak Spanish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "возьми с собой книгу",
+      "ipa": "тэйк ə бʊк wɪð ю",
+      "spell": "take a book with you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "возьми зонт",
+      "ipa": "тэйк əн əмˈбрэлə",
+      "spell": "take an umbrella"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выключите телефон",
+      "ipa": "тɜрн ɔф йʊəр фоун",
+      "spell": "turn off your phone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поверните направо!",
+      "ipa": "тɜрн райт!",
+      "spell": "turn right!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рецепт",
+      "ipa": "ə ˈрэсəпи",
+      "spell": "a recipe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на рынке",
+      "ipa": "æт ðə ˈмɑркəт",
+      "spell": "at the market"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь тихим – не будь тихим",
+      "ipa": "би ˈкwайəт – доунт би ˈкwайəт",
+      "spell": "be quiet – don’t be quiet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "веди себя тихо! не могли бы вы вести себя потише, пожалуйста?",
+      "ipa": "би ˈкwайəт! => кæн ю би ˈкwайəт, плиз?",
+      "spell": "be quiet! => Can you be quiet, please?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "облачное небо",
+      "ipa": "ˈклауди скай",
+      "spell": "cloudy sky"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "соединённый",
+      "ipa": "кəˈнэктɪд",
+      "spell": "connected"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "связная речь",
+      "ipa": "кəˈнэктɪд спич",
+      "spell": "connected speech"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сделай это – не делай это",
+      "ipa": "ду ɪт – доунт ду ɪт",
+      "spell": "do it – don’t do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сделай это, пожалуйста!",
+      "ipa": "ду ɪт! => кæн ю ду ɪт, плиз?",
+      "spell": "do it! => can you do it, please?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не бойся!",
+      "ipa": "доунт би əˈфрэйд!",
+      "spell": "don’t be afraid!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не делай это, пожалуйста!",
+      "ipa": "доунт ду ɪт! => кæн ю нɑт ду ɪт, плиз?",
+      "spell": "don’t do it! => can you not do it, please?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не заходи сюда",
+      "ipa": "доунт гоу ɪн hир",
+      "spell": "don’t go in here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не кури!",
+      "ipa": "доунт смоук!",
+      "spell": "don’t smoke!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не фотографируй",
+      "ipa": "доунт тэйк ˈфоуˌтоуз",
+      "spell": "don’t take photos"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вставай!",
+      "ipa": "гэт ʌп!",
+      "spell": "get up!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я купил красный перец",
+      "ipa": "ай бɑт рэд ˈпэпəрз",
+      "spell": "I bought red peppers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я подвожу людей",
+      "ipa": "ай гɪв райдз ту ˈпипəл",
+      "spell": "I give rides to people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделал аджику",
+      "ipa": "ай мэйд əдˈжикə",
+      "spell": "I made adjika"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделала её слабой",
+      "ipa": "ай мэйд ɪт wик",
+      "spell": "I made it weak"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я больше так не буду",
+      "ipa": "ай wɪл нɑт ду ɪт əˈгэн",
+      "spell": "I will not do it again"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "здесь внутри",
+      "ipa": "ɪн hир",
+      "spell": "in here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там внутри",
+      "ipa": "ɪн ðэр",
+      "spell": "in there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сало",
+      "ipa": "лɑрд",
+      "spell": "lard"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давайте сделаем – давайте не будем делать",
+      "ipa": "лэтс ду ɪт – лэтс нɑт ду ɪт",
+      "spell": "let’s do it – let’s not do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мои соседи",
+      "ipa": "май ˈнэйбəрз",
+      "spell": "my neighbors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мои ближайшие соседи",
+      "ipa": "май нэкст дор ˈнэйбəрз",
+      "spell": "my next door neighbors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "после полуночи",
+      "ipa": "пæст ˈмɪдˌнайт",
+      "spell": "past midnight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яд",
+      "ipa": "ˈпойзəн",
+      "spell": "poison"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "острый перец",
+      "ipa": "ˈспайси ˈпэпəрз",
+      "spell": "spicy peppers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "намажь его на хлеб",
+      "ipa": "спрэд ɪт ɑн брэд",
+      "spell": "spread it on bread"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сильный - слабый",
+      "ipa": "стрɔŋ - wик",
+      "spell": "strong - weak"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грузинский острый суп",
+      "ipa": "ðə ˈджорджəн ˈспайси суп",
+      "spell": "the Georgian spicy soup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "светофор",
+      "ipa": "ðə ˈтрæфɪк лайтс",
+      "spell": "the traffic lights"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они отменили это",
+      "ipa": "ðэй ˈкæнсəлд ɪт",
+      "spell": "they canceled it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отменять",
+      "ipa": "ту ˈкæнсəл",
+      "spell": "to cancel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чихать",
+      "ipa": "ту сниз",
+      "spell": "to sneeze"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выключи телефон!",
+      "ipa": "тɜрн ɔф йʊəр фоун!",
+      "spell": "turn off your phone!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уксус",
+      "ipa": "ˈвɪнəгəр",
+      "spell": "vinegar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "просыпайся!",
+      "ipa": "wэйк ʌп!",
+      "spell": "wake up!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы только что встали",
+      "ipa": "wи джʌст гɑт ʌп",
+      "spell": "we just got up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы удивились",
+      "ipa": "wи wɜр сəрˈпрайзд",
+      "spell": "we were surprised"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты сделал мой день",
+      "ipa": "ю мэйд май дэй",
+      "spell": "you made my day"
+    }
+  ]
 }
