@@ -5,495 +5,495 @@
   "number": 36,
   "date": "2025-09-02",
   "words": [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "большая кастрюля",
-   "ipa": "ə бɪг пɑт",
-   "spell": "a big pot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фильм",
-   "ipa": "ə фɪлм",
-   "spell": "a film"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рыбный день",
-   "ipa": "ə фɪш дэй",
-   "spell": "a fish day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уха",
-   "ipa": "ə фɪш суп",
-   "spell": "a fish soup"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "день рыбалки",
-   "ipa": "ə ˈфɪщɪŋ дэй",
-   "spell": "a fishing day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "квартира",
-   "ipa": "ə флæт",
-   "spell": "a flat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "друг",
-   "ipa": "ə фрэнд",
-   "spell": "a friend"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "испуг",
-   "ipa": "ə фрайт",
-   "spell": "a fright"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "праздник",
-   "ipa": "ə ˈhɑлəˌдэй",
-   "spell": "a holiday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кино",
-   "ipa": "ə ˈмуви",
-   "spell": "a movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "просьба",
-   "ipa": "ə рɪˈкwэст",
-   "spell": "a request"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "предложение",
-   "ipa": "ə сəгˈджэсчəн",
-   "spell": "a suggestion"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "квартира",
-   "ipa": "əн əˈпɑртмəнт",
-   "spell": "an apartment"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приказ",
-   "ipa": "əн ˈордəр",
-   "spell": "an order"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Можешь закрыть дверь?",
-   "ipa": "кæн ю клоус ðə дор?",
-   "spell": "Can you close the door?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Можешь остановиться?",
-   "ipa": "кæн ю стɑп?",
-   "spell": "Can you stop?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приходи и посмотри",
-   "ipa": "кʌм æнд си ɪт",
-   "spell": "come and see it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приезжай в Сиэтл, чтобы посмотреть",
-   "ipa": "кʌм ту сиˈæтəл ту си ɪт",
-   "spell": "come to Seattle to see it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "опасность",
-   "ipa": "ˈдэйнджəр",
-   "spell": "danger"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "опасный",
-   "ipa": "ˈдэйнджəрəс (ˈæджɪктɪв)",
-   "spell": "dangerous (adjective)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "полчаса",
-   "ipa": "hæф əн ˈауəр",
-   "spell": "half an hour"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он запекал рыбу",
-   "ipa": "hи бэйкт фɪш",
-   "spell": "he baked fish"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он пришел домой поздно прошлой ночью",
-   "ipa": "hи кэйм hоум лэйт лæст найт",
-   "spell": "he came home late last night"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он поймал большую рыбу",
-   "ipa": "hи кɑт ə бɪг фɪш",
-   "spell": "he caught a big fish"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у него болит живот",
-   "ipa": "hи hæз ə ˈстʌмəк эйк",
-   "spell": "he has a stomach ache"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он голоден",
-   "ipa": "hи ɪз ˈhʌŋгри",
-   "spell": "he is hungry"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он в стрессе",
-   "ipa": "hи ɪз стрэст",
-   "spell": "he is stressed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он хочет пить",
-   "ipa": "hи ɪз ˈθɜрсти",
-   "spell": "he is thirsty"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как ты себя чувствуешь?",
-   "ipa": "hау ду ю фил?",
-   "spell": "how do you feel?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как чувствует себя каждый?",
-   "ipa": "hау дʌз ич ˈпɜрсəн фил?",
-   "spell": "how does each person feel?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как она себя чувствует",
-   "ipa": "hау щи филз",
-   "spell": "how she feels"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я злюсь",
-   "ipa": "ай æм ˈæŋгри",
-   "spell": "I am angry"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне холодно",
-   "ipa": "ай æм коулд",
-   "spell": "I am cold"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне страшно",
-   "ipa": "ай æм ˈфрайтəнд",
-   "spell": "I am frightened"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я голодная и злая",
-   "ipa": "ай æм ˈhæŋгри",
-   "spell": "I am hangry"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я подписан на тебя в Инстаграме",
-   "ipa": "ай ˈфɑлоу ю ɑн ˈɪнстəгрæм",
-   "spell": "I follow you on Instagram"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я отпущу тебя",
-   "ipa": "ай wɪл лэт ю гоу",
-   "spell": "I will let you go"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в духовке",
-   "ipa": "ɪн ðи ˈʌвəн",
-   "spell": "in the oven"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "инструкции",
-   "ipa": "ɪнˈстрʌкшəнз",
-   "spell": "instructions"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "здесь тоже был праздник",
-   "ipa": "ɪт wʌз ə ˈhɑлəˌдэй hир, ту",
-   "spell": "it was a holiday here, too"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай закроем дверь!",
-   "ipa": "лэтс клоус ðə дор!",
-   "spell": "let's close the door!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "собралось много людей",
-   "ipa": "ˈмэни ˈпипəл ˈгæðəрд",
-   "spell": "many people gathered"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "моему другу страшно",
-   "ipa": "май фрэнд ɪз ˈфрайтəнд",
-   "spell": "my friend is frightened"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она злится",
-   "ipa": "щи ɪз ˈæŋгри",
-   "spell": "she is angry"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ей страшно",
-   "ipa": "щи ɪз ˈфрайтəнд",
-   "spell": "she is frightened"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она в стрессе",
-   "ipa": "щи ɪз стрэст",
-   "spell": "she is stressed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она хочет пить",
-   "ipa": "щи ɪз ˈθɜрсти",
-   "spell": "she is thirsty"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она беспокоится",
-   "ipa": "щи ɪз ˈwɜрид",
-   "spell": "she is worried"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она отпустила их",
-   "ipa": "щи лэт ðэм гоу",
-   "spell": "she let them go"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сонный и уставший",
-   "ipa": "ˈслипи æнд ˈтайəрд",
-   "spell": "sleepy and tired"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стрессовый",
-   "ipa": "ˈстрэсфəл",
-   "spell": "stressful"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ребенок голоден",
-   "ipa": "ðə ˈбэйби ɪз ˈhʌŋгри",
-   "spell": "the baby is hungry"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "повелительное наклонение",
-   "ipa": "ðи ɪмˈпэрəтɪв муд",
-   "spell": "the imperative mood"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "им грустно",
-   "ipa": "ðэй ɑр сæд",
-   "spell": "they are sad"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "им хочется спать",
-   "ipa": "ðэй ɑр ˈслипи",
-   "spell": "they are sleepy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "эта рыба водится только в озере",
-   "ipa": "ðɪс фɪш лɪвз ˈоунли ɪн ðə лэйк",
-   "spell": "this fish lives only in the lake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "запекать",
-   "ipa": "ту бэйк",
-   "spell": "to bake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "собираться",
-   "ipa": "ту ˈгæðəр",
-   "spell": "to gather"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приглашать",
-   "ipa": "ту ɪнˈвайт",
-   "spell": "to invite"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пригласить кого-либо в гости",
-   "ipa": "ту ɪнˈвайт ˈсʌмˌбɑди ˈоувəр",
-   "spell": "to invite somebody over"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нам скучно",
-   "ipa": "wи ɑр борд",
-   "spell": "we are bored"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы ходим к ним в гости",
-   "ipa": "wи гоу ˈоувəр ту ðэр плэйс",
-   "spell": "we go over to their place"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у нас был рыбный день",
-   "ipa": "wи hæд ə фɪш дэй",
-   "spell": "we had a fish day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы хорошо провели время",
-   "ipa": "wи hæд ə гʊд тайм",
-   "spell": "we had a good time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вчера у нас был праздник",
-   "ipa": "wи hæд ə ˈhɑлəˌдэй ˈйэстəрˌдэй",
-   "spell": "we had a holiday yesterday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы пригласили людей в гости",
-   "ipa": "wи ɪнˈвайтɪд сʌм ˈпипəл ˈоувəр",
-   "spell": "we invited some people over"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обеспокоенный",
-   "ipa": "ˈwɜрид",
-   "spell": "worried"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе страшно",
-   "ipa": "ю ɑр ˈфрайтəнд",
-   "spell": "you are frightened"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты счастлив",
-   "ipa": "ю ɑр ˈhæпи",
-   "spell": "you are happy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе жарко",
-   "ipa": "ю ɑр hɑт",
-   "spell": "you are hot"
- }
-]
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "большая кастрюля",
+      "ipa": "ə бɪг пɑт",
+      "spell": "a big pot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фильм",
+      "ipa": "ə фɪлм",
+      "spell": "a film"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рыбный день",
+      "ipa": "ə фɪш дэй",
+      "spell": "a fish day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уха",
+      "ipa": "ə фɪш суп",
+      "spell": "a fish soup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "день рыбалки",
+      "ipa": "ə ˈфɪщɪŋ дэй",
+      "spell": "a fishing day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "квартира",
+      "ipa": "ə флæт",
+      "spell": "a flat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "друг",
+      "ipa": "ə фрэнд",
+      "spell": "a friend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "испуг",
+      "ipa": "ə фрайт",
+      "spell": "a fright"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "праздник",
+      "ipa": "ə ˈhɑлəˌдэй",
+      "spell": "a holiday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кино",
+      "ipa": "ə ˈмуви",
+      "spell": "a movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "просьба",
+      "ipa": "ə рɪˈкwэст",
+      "spell": "a request"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "предложение",
+      "ipa": "ə сəгˈджэсчəн",
+      "spell": "a suggestion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "квартира",
+      "ipa": "əн əˈпɑртмəнт",
+      "spell": "an apartment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приказ",
+      "ipa": "əн ˈордəр",
+      "spell": "an order"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Можешь закрыть дверь?",
+      "ipa": "кæн ю клоус ðə дор?",
+      "spell": "Can you close the door?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Можешь остановиться?",
+      "ipa": "кæн ю стɑп?",
+      "spell": "Can you stop?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приходи и посмотри",
+      "ipa": "кʌм æнд си ɪт",
+      "spell": "come and see it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приезжай в Сиэтл, чтобы посмотреть",
+      "ipa": "кʌм ту сиˈæтəл ту си ɪт",
+      "spell": "come to Seattle to see it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "опасность",
+      "ipa": "ˈдэйнджəр",
+      "spell": "danger"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "опасный",
+      "ipa": "ˈдэйнджəрəс (ˈæджɪктɪв)",
+      "spell": "dangerous (adjective)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полчаса",
+      "ipa": "hæф əн ˈауəр",
+      "spell": "half an hour"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он запекал рыбу",
+      "ipa": "hи бэйкт фɪш",
+      "spell": "he baked fish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он пришел домой поздно прошлой ночью",
+      "ipa": "hи кэйм hоум лэйт лæст найт",
+      "spell": "he came home late last night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он поймал большую рыбу",
+      "ipa": "hи кɑт ə бɪг фɪш",
+      "spell": "he caught a big fish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него болит живот",
+      "ipa": "hи hæз ə ˈстʌмəк эйк",
+      "spell": "he has a stomach ache"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он голоден",
+      "ipa": "hи ɪз ˈhʌŋгри",
+      "spell": "he is hungry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он в стрессе",
+      "ipa": "hи ɪз стрэст",
+      "spell": "he is stressed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он хочет пить",
+      "ipa": "hи ɪз ˈθɜрсти",
+      "spell": "he is thirsty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как ты себя чувствуешь?",
+      "ipa": "hау ду ю фил?",
+      "spell": "how do you feel?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как чувствует себя каждый?",
+      "ipa": "hау дʌз ич ˈпɜрсəн фил?",
+      "spell": "how does each person feel?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как она себя чувствует",
+      "ipa": "hау щи филз",
+      "spell": "how she feels"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я злюсь",
+      "ipa": "ай æм ˈæŋгри",
+      "spell": "I am angry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне холодно",
+      "ipa": "ай æм коулд",
+      "spell": "I am cold"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне страшно",
+      "ipa": "ай æм ˈфрайтəнд",
+      "spell": "I am frightened"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я голодная и злая",
+      "ipa": "ай æм ˈhæŋгри",
+      "spell": "I am hangry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я подписан на тебя в Инстаграме",
+      "ipa": "ай ˈфɑлоу ю ɑн ˈɪнстəгрæм",
+      "spell": "I follow you on Instagram"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я отпущу тебя",
+      "ipa": "ай wɪл лэт ю гоу",
+      "spell": "I will let you go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в духовке",
+      "ipa": "ɪн ðи ˈʌвəн",
+      "spell": "in the oven"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "инструкции",
+      "ipa": "ɪнˈстрʌкшəнз",
+      "spell": "instructions"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "здесь тоже был праздник",
+      "ipa": "ɪт wʌз ə ˈhɑлəˌдэй hир, ту",
+      "spell": "it was a holiday here, too"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай закроем дверь!",
+      "ipa": "лэтс клоус ðə дор!",
+      "spell": "let's close the door!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "собралось много людей",
+      "ipa": "ˈмэни ˈпипəл ˈгæðəрд",
+      "spell": "many people gathered"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моему другу страшно",
+      "ipa": "май фрэнд ɪз ˈфрайтəнд",
+      "spell": "my friend is frightened"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она злится",
+      "ipa": "щи ɪз ˈæŋгри",
+      "spell": "she is angry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ей страшно",
+      "ipa": "щи ɪз ˈфрайтəнд",
+      "spell": "she is frightened"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она в стрессе",
+      "ipa": "щи ɪз стрэст",
+      "spell": "she is stressed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она хочет пить",
+      "ipa": "щи ɪз ˈθɜрсти",
+      "spell": "she is thirsty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она беспокоится",
+      "ipa": "щи ɪз ˈwɜрид",
+      "spell": "she is worried"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она отпустила их",
+      "ipa": "щи лэт ðэм гоу",
+      "spell": "she let them go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сонный и уставший",
+      "ipa": "ˈслипи æнд ˈтайəрд",
+      "spell": "sleepy and tired"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стрессовый",
+      "ipa": "ˈстрэсфəл",
+      "spell": "stressful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ребенок голоден",
+      "ipa": "ðə ˈбэйби ɪз ˈhʌŋгри",
+      "spell": "the baby is hungry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повелительное наклонение",
+      "ipa": "ðи ɪмˈпэрəтɪв муд",
+      "spell": "the imperative mood"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "им грустно",
+      "ipa": "ðэй ɑр сæд",
+      "spell": "they are sad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "им хочется спать",
+      "ipa": "ðэй ɑр ˈслипи",
+      "spell": "they are sleepy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "эта рыба водится только в озере",
+      "ipa": "ðɪс фɪш лɪвз ˈоунли ɪн ðə лэйк",
+      "spell": "this fish lives only in the lake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "запекать",
+      "ipa": "ту бэйк",
+      "spell": "to bake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "собираться",
+      "ipa": "ту ˈгæðəр",
+      "spell": "to gather"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приглашать",
+      "ipa": "ту ɪнˈвайт",
+      "spell": "to invite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пригласить кого-либо в гости",
+      "ipa": "ту ɪнˈвайт ˈсʌмˌбɑди ˈоувəр",
+      "spell": "to invite somebody over"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нам скучно",
+      "ipa": "wи ɑр борд",
+      "spell": "we are bored"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы ходим к ним в гости",
+      "ipa": "wи гоу ˈоувəр ту ðэр плэйс",
+      "spell": "we go over to their place"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у нас был рыбный день",
+      "ipa": "wи hæд ə фɪш дэй",
+      "spell": "we had a fish day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы хорошо провели время",
+      "ipa": "wи hæд ə гʊд тайм",
+      "spell": "we had a good time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вчера у нас был праздник",
+      "ipa": "wи hæд ə ˈhɑлəˌдэй ˈйэстəрˌдэй",
+      "spell": "we had a holiday yesterday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы пригласили людей в гости",
+      "ipa": "wи ɪнˈвайтɪд сʌм ˈпипəл ˈоувəр",
+      "spell": "we invited some people over"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обеспокоенный",
+      "ipa": "ˈwɜрид",
+      "spell": "worried"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тебе страшно",
+      "ipa": "ю ɑр ˈфрайтəнд",
+      "spell": "you are frightened"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты счастлив",
+      "ipa": "ю ɑр ˈhæпи",
+      "spell": "you are happy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тебе жарко",
+      "ipa": "ю ɑр hɑт",
+      "spell": "you are hot"
+    }
+  ]
 }
