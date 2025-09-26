@@ -75,7 +75,7 @@ function StudentPage() {
                     <Mathilda words={[randomWord]} lesnum={randomLessonMeta?.number} />
                     <div className="pickle">
                         <button onClick={loadRandomWord} className="new-word-btn">
-                            🔄 Get Another Word
+                            🔄 Get Another Card
                         </button>
                         <p>From <b>{randomLessonMeta?.student}</b> {randomLessonMeta?.period} {randomLessonMeta?.number} (
                             {randomLessonMeta?.date})</p>
