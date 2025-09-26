@@ -1,0 +1,380 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "period": "week",
+  "number": 38,
+  "date": "2025-09-19",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "детектив, следователь, сыщик",
+      "ipa": "ə дɪˈтэктɪв",
+      "spell": "a detective"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ограбление",
+      "ipa": "ə ˈрɑбəри",
+      "spell": "a robbery"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "устойчивое выражение",
+      "ipa": "ə сэт фрэйз",
+      "spell": "a set phrase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подозреваемый",
+      "ipa": "ə ˈсʌˌспэкт",
+      "spell": "a suspect"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неделя",
+      "ipa": "ə wик",
+      "spell": "a week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выражение",
+      "ipa": "əн ɪкˈспрэшəн",
+      "spell": "an expression"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в колледже",
+      "ipa": "æт ˈкɑлɪдж",
+      "spell": "at college"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дома",
+      "ipa": "æт hоум",
+      "spell": "at home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в школе",
+      "ipa": "æт скул",
+      "spell": "at school"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на работе",
+      "ipa": "æт wɜрк",
+      "spell": "at work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заполни пропуски",
+      "ipa": "фɪл ɪн ðə блæŋкс",
+      "spell": "fill in the blanks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Фредди Меркьюри был певцом группы Queen",
+      "ipa": "ˈфрэди ˈмɜркйəри wʌз ə ˈсɪŋəр wɪð кwин",
+      "spell": "Freddie Mercury was a singer with Queen"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я слабая женщина",
+      "ipa": "ай æм ə wик ˈwʊмəн",
+      "spell": "I am a weak woman"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я подозреваю подозреваемого",
+      "ipa": "ай ˈсʌˌспэкт ə ˈсʌˌспэкт",
+      "spell": "I suspect a suspect"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я опоздал на работу сегодня утром",
+      "ipa": "ай wʌз лэйт фор wɜрк ðɪс ˈморнɪŋ",
+      "spell": "I was late for work this morning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на встрече",
+      "ipa": "ɪн ə ˈмитɪŋ",
+      "spell": "in a meeting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в музее",
+      "ipa": "ɪн ə мъюˈзиəм",
+      "spell": "in a museum"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в ресторане",
+      "ipa": "ɪн ə ˈрэстəˌрɑнт",
+      "spell": "in a restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в торговом центре",
+      "ipa": "ɪн ə ˈшɑпɪŋ мɔл",
+      "spell": "in a shopping mall"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в постели",
+      "ipa": "ɪн бэд",
+      "spell": "in bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в моей машине",
+      "ipa": "ɪн май кɑр",
+      "spell": "in my car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в Нью-Йорке",
+      "ipa": "ɪн ну йорк",
+      "spell": "in New York"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на кухне",
+      "ipa": "ɪн ðə ˈкɪчəн",
+      "spell": "in the kitchen"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в парке",
+      "ipa": "ɪн ðə пɑрк",
+      "spell": "in the park"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "здесь каждый день жарко",
+      "ipa": "ɪт ɪз hɑт hир ˈэвəри дэй",
+      "spell": "it is hot here every day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прошлой ночью",
+      "ipa": "лæст найт",
+      "spell": "last night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "внешность не так важна",
+      "ipa": "лʊкс доунт ˈмæтəр мʌч",
+      "spell": "looks don't matter much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тоже",
+      "ipa": "ми ту",
+      "spell": "me too"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нет электричества",
+      "ipa": "ноу ˈпауəр",
+      "spell": "no power"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на лодке",
+      "ipa": "ɑн ə боут",
+      "spell": "on a boat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в автобусе",
+      "ipa": "ɑн ə бʌс",
+      "spell": "on a bus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в самолёте",
+      "ipa": "ɑн ə плэйн",
+      "spell": "on a plane"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в поезде",
+      "ipa": "ɑн ə трэйн",
+      "spell": "on a train"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на улице",
+      "ipa": "ɑн ðə стрит",
+      "spell": "on the street"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шестнадцатое сентября",
+      "ipa": "сэпˈтэмбəр сɪкˈстинθ",
+      "spell": "September sixteenth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ей было семьдесят шесть",
+      "ipa": "щи wʌз ˈсэвəнти-сɪкс",
+      "spell": "she was seventy-six"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "простые рекомендации",
+      "ipa": "ˈсɪмпəл ˈгайˌдлайнз",
+      "spell": "simple guidelines"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что-то подозрительное",
+      "ipa": "ˈсʌмθɪŋ ˈфɪщи",
+      "spell": "something fishy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "волшебник страны Оз",
+      "ipa": "ðə ˈwɪзəрд ʌв ɑз",
+      "spell": "the wizard of Oz"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в банке произошло ограбление",
+      "ipa": "ðэр wʌз ə ˈрɑбəри æт ðə бæŋк",
+      "spell": "there was a robbery at the bank"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они ходят на рыбалку",
+      "ipa": "ðэй гоу ˈфɪщɪŋ",
+      "spell": "they go fishing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они были",
+      "ipa": "ðэй wɜр",
+      "spell": "they were"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они пойдут на рыбалку",
+      "ipa": "ðэй wɪл гоу ˈфɪщɪŋ",
+      "spell": "they will go fishing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подозревать",
+      "ipa": "ту сəˈспэкт",
+      "spell": "to suspect"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "очень слабый",
+      "ipa": "ˈвэри wик",
+      "spell": "very weak"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какой сегодня день?",
+      "ipa": "wɑт дэй ɪз ɪт тəˈдэй?",
+      "spell": "what day is it today?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где",
+      "ipa": "wэр",
+      "spell": "where"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где ты был во время войны?",
+      "ipa": "wэр wɜр ю ˈдʊрɪŋ ðə wор?",
+      "spell": "where were you during the war?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где ты был?",
+      "ipa": "wэр wɜр ю?",
+      "spell": "where were you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какой человек",
+      "ipa": "wɪч ˈпɜрсəн",
+      "spell": "which person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вчера днём",
+      "ipa": "ˈйэстəрˌдэй ˌæфтəрˈнун",
+      "spell": "yesterday afternoon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вчера вечером",
+      "ipa": "ˈйэстəрˌдэй ˈивнɪŋ",
+      "spell": "yesterday evening"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вчера утром",
+      "ipa": "ˈйэстəрˌдэй ˈморнɪŋ",
+      "spell": "yesterday morning"
+    }
+  ]
+}
