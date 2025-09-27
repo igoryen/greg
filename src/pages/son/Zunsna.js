@@ -3,8 +3,9 @@ import "../../styles/son/zunsna.scss";
 const Zunsna = (prop) => {
     return (
         <section id="zunsna">
-
+            <h1>the last sound is...</h1>
             <div className="blair jorge">
+                <h1>1) voiced, vibrating, buzzy:</h1>
                 <div class="pam">
                     <div className="chapelle">
                         <div className="dwight">👩</div>
@@ -30,6 +31,7 @@ const Zunsna = (prop) => {
                 </div>
 
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>məˈri<i className="voiced yes">ə</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>məˈri<i className="voiced yes">ə</i><i className="aza">z</i></div>
@@ -37,6 +39,7 @@ const Zunsna = (prop) => {
                 </div>
 
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>ˈbrʌð<i className="voiced yes">ɚ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>ˈbrʌð<i className="voiced yes">ɚ</i><i className="aza">z</i></div>
@@ -51,6 +54,7 @@ const Zunsna = (prop) => {
                 </div>
 
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>d<i className="voiced yes">eɪ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>d<i className="voiced yes">eɪ</i><i className="aza">z</i></div>
@@ -81,14 +85,17 @@ const Zunsna = (prop) => {
             </div>
 
             <div className="blair jorge">
+                <h1>2) voiceless, whispery, quiet: </h1>
                 <div className="pam">
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>dʒɪ<i className="voiced yes">m</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>dʒɪ<i className="voiced yes">m</i><i className="aza">z</i></div>
                         <div className="spell_">Jims, Jim's, Jims'</div>
                     </div>
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>mɑ<i className="voiced yes">m</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>mɑ<i className="voiced yes">m</i><i className="aza">z</i></div>
@@ -99,6 +106,7 @@ const Zunsna = (prop) => {
                 <div className="pam">
 
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>bɛ<i className="voiced yes">n</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>bɛ<i className="voiced yes">n</i><i className="aza">z</i></div>
@@ -134,6 +142,7 @@ const Zunsna = (prop) => {
                     <div className="spell_">balls, ball's </div>
                 </div>
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>dʒɑ<i className="voiced yes">b</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>dʒɑ<i className="voiced yes">b</i><i className="aza">z</i></div>
@@ -145,12 +154,14 @@ const Zunsna = (prop) => {
 
 
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>dæ<i className="voiced yes">d</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>dæ<i className="voiced yes">d</i><i className="aza">z</i></div>
                         <div className="spell_">dads, dad's, dads' </div>
                     </div>
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>kɪ<i className="voiced yes">d</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>kɪ<i className="voiced yes">d</i><i className="aza">z</i></div>
@@ -165,12 +176,14 @@ const Zunsna = (prop) => {
                     <div className="spell_">dogs, dog's, dogs' </div>
                 </div>
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>slɑ<i className="voiced yes">v</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>slɑ<i className="voiced yes">v</i><i className="aza">z</i></div>
                     <div className="spell_">Slavs, Slav's, Slavs'</div>
                 </div>
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>beɪ<i className="voiced yes">ð</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>beɪ<i className="voiced yes">ð</i><i className="aza">z</i></div>
@@ -181,6 +194,7 @@ const Zunsna = (prop) => {
             <div className="blair frisco">
                 <div className="pam">
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>dʒæ<i className="voiced non">k</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>dʒæ<i className="voiced non">k</i><i className="asa">s</i></div>
@@ -197,6 +211,7 @@ const Zunsna = (prop) => {
 
                 <div className="pam">
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>ɪ<i className="voiced non">t</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>ɪ<i className="voiced non">t</i><i className="asa">s</i></div>
@@ -220,12 +235,14 @@ const Zunsna = (prop) => {
 
 
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>kʌ<i className="voiced non">f</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>kʌ<i className="voiced non">f</i><i className="asa">s</i></div>
                     <div className="spell_">cuffs, cuff's</div>
                 </div>
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>mɪ<i className="voiced non">θ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>mɪ<i className="voiced non">θ</i><i className="asa">s</i></div>
@@ -234,6 +251,7 @@ const Zunsna = (prop) => {
             </div>
 
             <div className="blair gonzalo">
+                <h1>3) very similar to <i className="phoneme">S</i></h1>
                 <div className="chapelle">
                     <div className="dwight">⌚</div>
                     <div>wɑ<i className="voiced non">tʃ</i></div>
@@ -246,6 +264,7 @@ const Zunsna = (prop) => {
 
 
                     <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
                         <div>ˈkɑrloʊ<i className="voiced non">s</i></div>
                         <div>+<i className="phoneme">S</i>=</div>
                         <div>ˈkɑrloʊ<i className="voiced non">s</i><i className="inset">ɪ</i><i className="aza">z</i></div>
@@ -263,6 +282,7 @@ const Zunsna = (prop) => {
                 </div>
 
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>dɪ<i className="voiced non">ʃ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>dɪ<i className="voiced non">ʃ</i><i className="inset">ɪ</i><i className="aza">z</i></div>
@@ -276,6 +296,7 @@ const Zunsna = (prop) => {
                     <div className="spell_">bridges, bridge's, bridges' </div>
                 </div>
                 <div className="chapelle">
+                    <div className="dwight">&nbsp;</div>
                     <div>gəˈrɑ<i className="voiced non">ʒ</i></div>
                     <div>+<i className="phoneme">S</i>=</div>
                     <div>gəˈrɑ<i className="voiced non">ʒ</i><i className="inset">ɪ</i><i className="aza">z</i></div>
