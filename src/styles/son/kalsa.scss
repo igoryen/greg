@@ -1,0 +1,168 @@
+#kalsa {
+    font-family: "Noto Sans", serif;
+
+    .poem-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: 'Arial', sans-serif;
+        line-height: 1.6;
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+    }
+
+    .poem-line {
+        margin-bottom: 25px;
+        padding: 15px;
+        border-left: 3px solid #f0f0f0;
+        transition: all 0.3s ease;
+
+        &:hover {
+            border-left-color: #007acc;
+            background-color: #f9f9f9;
+        }
+    }
+
+    .line-section {
+        margin-bottom: 8px;
+    }
+
+    .label {
+        font-weight: bold;
+        color: #666;
+        min-width: 80px;
+        display: inline-block;
+        font-size: 0.9em;
+    }
+
+    // Text type styles
+    .ipa-text {
+        color: #e44d26;
+    }
+
+    .spell-text {
+        color: #2c3e50;
+        font-weight: 500;
+    }
+
+    .rus-text {
+        color: #27ae60;
+    }
+
+    // Word highlighting styles (consolidated)
+    .word-highlight {
+        background-color: #fff3cd;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-weight: bold;
+        transition: all 0.2s ease;
+
+        &:hover {
+            background-color: #ffeaa7;
+            transform: scale(1.05);
+        }
+    }
+
+    .word-emphasis {
+        color: #e74c3c;
+        font-weight: bold;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+        border-bottom: 2px dotted #e74c3c;
+    }
+
+    .word-accent {
+        background: linear-gradient(120deg, #a8edea 0%, #fed6e3 100%);
+        padding: 2px 6px;
+        border-radius: 12px;
+        font-weight: 600;
+    }
+
+    .word-special {
+        font-family: 'Georgia', serif;
+        color: #8e44ad;
+        font-style: italic;
+        background-color: #f8f9fa;
+        padding: 1px 4px;
+        border-left: 3px solid #8e44ad;
+    }
+
+    // Word part highlighting styles
+    .word-suffix {
+        background-color: #e8f5e8;
+        color: #2e7d32;
+        padding: 1px 2px;
+        border-radius: 2px;
+        font-weight: 600;
+    }
+
+    .word-vowel {
+        background-color: #fff3e0;
+        color: #ef6c00;
+        padding: 1px 2px;
+        border-radius: 2px;
+        font-weight: bold;
+    }
+
+    .word-consonant {
+        background-color: #f3e5f5;
+        color: #7b1fa2;
+        padding: 1px 2px;
+        border-radius: 2px;
+        font-weight: 600;
+    }
+
+    .word-stress {
+        background-color: #ffebee;
+        color: #c62828;
+        padding: 1px 2px;
+        border-radius: 2px;
+        font-weight: bold;
+        font-size: 1.1em;
+    }
+
+    .word-secondary {
+        background-color: #fff8e1;
+        color: #ff8f00;
+        padding: 1px 2px;
+        border-radius: 2px;
+        font-weight: 600;
+    }
+
+    .word-schwa {
+        background-color: #e0f2f1;
+        color: #00695c;
+        padding: 1px 2px;
+        border-radius: 2px;
+        font-style: italic;
+    }
+
+    .word-consonant-ru {
+        background-color: #e1f5fe;
+        color: #01579b;
+        padding: 1px 2px;
+        border-radius: 2px;
+        font-weight: 600;
+    }
+
+    // Responsive design
+    @media (max-width: 768px) {
+        .poem-container {
+            padding: 10px;
+        }
+
+        .label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .line-section {
+            margin-bottom: 12px;
+        }
+    }
+}

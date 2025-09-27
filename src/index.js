@@ -155,7 +155,7 @@ import IS01 from "./pages/is/IS01";
 import Jaw from "./pages/Jaw";
 
 import Jimte from "./pages/Jimte";
-
+import Kalsa from "./pages/son/Kalsa";
 import Kooi from "./pages/grm/Kooi";
 
 import Leo from "./pages/Leo";
@@ -489,7 +489,9 @@ export default function App() {
 
           <Route path="jimte" element={<Jimte />} />
 
+          <Route path="kalsa" element={<Kalsa />} />
           <Route path="kooi" element={<Kooi />} />
+
           <Route path="linsi" element={<Linsi />} />
 
           <Route path="mg" element={<MG />} />
