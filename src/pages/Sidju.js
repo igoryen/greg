@@ -26,11 +26,10 @@ const Sidju = () => {
     return (
         <div id="sidju">
             {pages.map((page, idx) => (
-                <button key={idx} onClick={() => navigate(page.path)}>
+                <button className={page.label} key={idx} onClick={() => navigate(page.path)}>
                     <div className="polly"> {page.label}</div>
                     <div className="ribbet">{page.desc}</div>
                 </button>
-
             ))}
         </div>
     );
