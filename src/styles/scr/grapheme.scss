@@ -1,0 +1,48 @@
+#grapheme {
+
+    font-family: "Noto Sans", sans-serif;
+
+    li {
+        margin-left: 2em;
+    }
+
+    // background-color: aquamarine;
+    .cox {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: baseline;
+        margin-bottom: 1.5em;
+
+    }
+
+    .cell {
+        margin-right: 1em;
+    }
+
+    .xyz {
+        font-size: 3em;
+        // font-weight: 600;
+        color: brown;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .abc {
+        background-color: pink;
+        font-size: 2em;
+        padding: 0 0.5em;
+    }
+
+    .fgh {
+        // font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 3em;
+        color: rgb(38, 85, 195);
+
+        b {
+            color: black;
+            background-color: bisque;
+            border-bottom: 1px solid red;
+
+        }
+    }
+}
