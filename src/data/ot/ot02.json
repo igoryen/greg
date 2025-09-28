@@ -1,401 +1,401 @@
 [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "(по)говори со мной",
-   "ipa": "tɔk tu mi",
-   "spell": "talk to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "апостроф",
-   "ipa": "ən əˈpɑstrəfi",
-   "spell": "an apostrophe"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "аудио",
-   "ipa": "ən ˈɑdiˌoʊ",
-   "spell": "an audio"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вещь",
-   "ipa": "ə θɪŋ",
-   "spell": "a thing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "где находится твоя машина?",
-   "ipa": "wɛr ɪz jʊər kɑr?",
-   "spell": "where is your car?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "говорить",
-   "ipa": "tu seɪ",
-   "spell": "to say"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "давай почитаем",
-   "ipa": "lɛts rid",
-   "spell": "let's read"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "другое слово для",
-   "ipa": "əˈnʌðər wɜrd fɔr",
-   "spell": "another word for"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "другой способ",
-   "ipa": "əˈnʌðər weɪ",
-   "spell": "another way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как говорить",
-   "ipa": "haʊ tu tɔk",
-   "spell": "how to talk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кожа",
-   "ipa": "skɪn",
-   "spell": "skin"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кость",
-   "ipa": "ə boʊn",
-   "spell": "a bone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "местоимение",
-   "ipa": "ə ˈproʊnaʊn",
-   "spell": "a pronoun"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится его машина",
-   "ipa": "aɪ laɪk hɪz kɑr",
-   "spell": "I like his car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится её лицо",
-   "ipa": "aɪ laɪk hɜr feɪs",
-   "spell": "I like her face"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравятся их дети",
-   "ipa": "aɪ laɪk ðɛr ˈʧɪldrən",
-   "spell": "I like their children"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мышца",
-   "ipa": "ə ˈmʌsəl",
-   "spell": "a muscle"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наше время вышло",
-   "ipa": "ˈaʊər taɪm ɪz ʌp",
-   "spell": "our time is up"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не ветрено",
-   "ipa": "ɪts nɑt ˈwɪndi",
-   "spell": "it's not windy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она здесь",
-   "ipa": "ʃiz hir",
-   "spell": "she's here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они в школе",
-   "ipa": "ðɛr æt skul",
-   "spell": "they're at school"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они здесь",
-   "ipa": "ðɛr hir",
-   "spell": "they're here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "офицер разговаривает со мной",
-   "ipa": "ði ˈɔfəsər tɔks tu mi",
-   "spell": "the officer talks to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "партнёр",
-   "ipa": "ə ˈpɑrtnər",
-   "spell": "a partner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поняла?",
-   "ipa": "ɡɑt ɪt?",
-   "spell": "got it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "после нашего занятия",
-   "ipa": "ˈæftər ˈaʊər klæs",
-   "spell": "after our class"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "представлять",
-   "ipa": "tu ˌɪntrəˈdus",
-   "spell": "to introduce"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "разговаривать",
-   "ipa": "tu tɔk",
-   "spell": "to talk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рано",
-   "ipa": "ˈɜrli",
-   "spell": "early"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "распространённые вещи",
-   "ipa": "ˈkɑmən θɪŋz",
-   "spell": "common things"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "расскажи мне",
-   "ipa": "tɛl mi",
-   "spell": "tell me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "расскажи мне историю",
-   "ipa": "tɛl mi ə ˈstɔri",
-   "spell": "tell me a story"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рассказывать",
-   "ipa": "tu tɛl",
-   "spell": "to tell"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сама",
-   "ipa": "jərˈsɛlf",
-   "spell": "yourself"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "себя",
-   "ipa": "ˌmaɪˈsɛlf",
-   "spell": "myself"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сегодня пятница",
-   "ipa": "ɪts ˈfraɪˌdeɪ",
-   "spell": "it's Friday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скажи это мне",
-   "ipa": "seɪ ɪt tu mi",
-   "spell": "say it to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скелет",
-   "ipa": "ə ˈskɛlətən",
-   "spell": "a skeleton"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сокращение",
-   "ipa": "ə kənˈtrækʃən",
-   "spell": "a contraction"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "спираль",
-   "ipa": "ə ˈspaɪrəl",
-   "spell": "a spiral"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "становиться",
-   "ipa": "tu bɪˈkʌm",
-   "spell": "to become"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тебе не обязательно это делать",
-   "ipa": "ju doʊnt hæv tu du ɪt",
-   "spell": "you don't have to do it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты в моём классе",
-   "ipa": "jʊr ɪn maɪ klæs",
-   "spell": "you're in my class"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня всё хорошо",
-   "ipa": "aɪm faɪn",
-   "spell": "I'm fine"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "увидимся послезавтра!",
-   "ipa": "si ju ðə deɪ ˈæftər təˈmɑˌroʊ!",
-   "spell": "see you the day after tomorrow!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "удалять",
-   "ipa": "tu riˈmuv",
-   "spell": "to remove"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хорошо",
-   "ipa": "faɪn",
-   "spell": "fine"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что ты скажешь?",
-   "ipa": "wɑt du ju seɪ?",
-   "spell": "what do you say?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шрам",
-   "ipa": "ə skɑr",
-   "spell": "a scar"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это машины",
-   "ipa": "ðɛr kɑrz",
-   "spell": "they're cars"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это один из способов",
-   "ipa": "ðæts wʌn weɪ",
-   "spell": "that's one way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я в порядке",
-   "ipa": "aɪm wɛl",
-   "spell": "I'm well"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я говорю",
-   "ipa": "aɪ seɪ",
-   "spell": "I say"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я здесь",
-   "ipa": "aɪm hir",
-   "spell": "I'm here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я люблю свою семью",
-   "ipa": "aɪ laɪk maɪ ˈfæməli",
-   "spell": "I like my family"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не могу это сказать",
-   "ipa": "aɪ kænt seɪ ɪt",
-   "spell": "I can't say it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я поняла",
-   "ipa": "aɪ ɡɑt ɪt",
-   "spell": "I got it"
- }
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "(по)говори со мной",
+    "ipa": "tɔk tu mi",
+    "spell": "talk to me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "апостроф",
+    "ipa": "ən əˈpɑstrəfi",
+    "spell": "an apostrophe"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "аудио",
+    "ipa": "ən ˈɑdiˌoʊ",
+    "spell": "an audio"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "вещь",
+    "ipa": "ə θɪŋ",
+    "spell": "a thing"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "где находится твоя машина?",
+    "ipa": "wɛr ɪz jʊər kɑr?",
+    "spell": "where is your car?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "говорить",
+    "ipa": "tu seɪ",
+    "spell": "to say"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "давай почитаем",
+    "ipa": "lɛts rid",
+    "spell": "let's read"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "другое слово для",
+    "ipa": "əˈnʌðər wɜrd fɔr",
+    "spell": "another word for"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "другой способ",
+    "ipa": "əˈnʌðər weɪ",
+    "spell": "another way"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "как говорить",
+    "ipa": "haʊ tu tɔk",
+    "spell": "how to talk"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кожа",
+    "ipa": "skɪn",
+    "spell": "skin"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "кость",
+    "ipa": "ə boʊn",
+    "spell": "a bone"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "местоимение",
+    "ipa": "ə ˈproʊnaʊn",
+    "spell": "a pronoun"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мне нравится его машина",
+    "ipa": "aɪ laɪk hɪz kɑr",
+    "spell": "I like his car"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мне нравится её лицо",
+    "ipa": "aɪ laɪk hɜr feɪs",
+    "spell": "I like her face"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мне нравятся их дети",
+    "ipa": "aɪ laɪk ðɛr ˈʧɪldrən",
+    "spell": "I like their children"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "мышца",
+    "ipa": "ə ˈmʌsəl",
+    "spell": "a muscle"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "наше время вышло",
+    "ipa": "ˈaʊər taɪm ɪz ʌp",
+    "spell": "our time is up"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "не ветрено",
+    "ipa": "ɪts nɑt ˈwɪndi",
+    "spell": "it's not windy"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "она здесь",
+    "ipa": "ʃiz hir",
+    "spell": "she's here"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "они в школе",
+    "ipa": "ðɛr æt skul",
+    "spell": "they're at school"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "они здесь",
+    "ipa": "ðɛr hir",
+    "spell": "they're here"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "офицер разговаривает со мной",
+    "ipa": "ði ˈɔfəsər tɔks tu mi",
+    "spell": "the officer talks to me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "партнёр",
+    "ipa": "ə ˈpɑrtnər",
+    "spell": "a partner"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "поняла?",
+    "ipa": "ɡɑt ɪt?",
+    "spell": "got it?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "после нашего занятия",
+    "ipa": "ˈæftər ˈaʊər klæs",
+    "spell": "after our class"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "представлять",
+    "ipa": "tu ˌɪntrəˈdus",
+    "spell": "to introduce"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "разговаривать",
+    "ipa": "tu tɔk",
+    "spell": "to talk"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "рано",
+    "ipa": "ˈɜrli",
+    "spell": "early"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "распространённые вещи",
+    "ipa": "ˈkɑmən θɪŋz",
+    "spell": "common things"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "расскажи мне",
+    "ipa": "tɛl mi",
+    "spell": "tell me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "расскажи мне историю",
+    "ipa": "tɛl mi ə ˈstɔri",
+    "spell": "tell me a story"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "рассказывать",
+    "ipa": "tu tɛl",
+    "spell": "to tell"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сама",
+    "ipa": "jərˈsɛlf",
+    "spell": "yourself"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "себя",
+    "ipa": "ˌmaɪˈsɛlf",
+    "spell": "myself"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сегодня пятница",
+    "ipa": "ɪts ˈfraɪˌdeɪ",
+    "spell": "it's Friday"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "скажи это мне",
+    "ipa": "seɪ ɪt tu mi",
+    "spell": "say it to me"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "скелет",
+    "ipa": "ə ˈskɛlətən",
+    "spell": "a skeleton"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "сокращение, стяжение",
+    "ipa": "ə kənˈtrækʃən",
+    "spell": "a contraction"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "спираль",
+    "ipa": "ə ˈspaɪrəl",
+    "spell": "a spiral"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "становиться",
+    "ipa": "tu bɪˈkʌm",
+    "spell": "to become"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "тебе не обязательно это делать",
+    "ipa": "ju doʊnt hæv tu du ɪt",
+    "spell": "you don't have to do it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "ты в моём классе",
+    "ipa": "jʊr ɪn maɪ klæs",
+    "spell": "you're in my class"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "у меня всё хорошо",
+    "ipa": "aɪm faɪn",
+    "spell": "I'm fine"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "увидимся послезавтра!",
+    "ipa": "si ju ðə deɪ ˈæftər təˈmɑˌroʊ!",
+    "spell": "see you the day after tomorrow!"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "удалять",
+    "ipa": "tu riˈmuv",
+    "spell": "to remove"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "хорошо",
+    "ipa": "faɪn",
+    "spell": "fine"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "что ты скажешь?",
+    "ipa": "wɑt du ju seɪ?",
+    "spell": "what do you say?"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "шрам",
+    "ipa": "ə skɑr",
+    "spell": "a scar"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это машины",
+    "ipa": "ðɛr kɑrz",
+    "spell": "they're cars"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "это один из способов",
+    "ipa": "ðæts wʌn weɪ",
+    "spell": "that's one way"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я в порядке",
+    "ipa": "aɪm wɛl",
+    "spell": "I'm well"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я говорю",
+    "ipa": "aɪ seɪ",
+    "spell": "I say"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я здесь",
+    "ipa": "aɪm hir",
+    "spell": "I'm here"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я люблю свою семью",
+    "ipa": "aɪ laɪk maɪ ˈfæməli",
+    "spell": "I like my family"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я не могу это сказать",
+    "ipa": "aɪ kænt seɪ ɪt",
+    "spell": "I can't say it"
+  },
+  {
+    "cefr": "",
+    "def2": "",
+    "def1": "я поняла",
+    "ipa": "aɪ ɡɑt ɪt",
+    "spell": "I got it"
+  }
 ]
