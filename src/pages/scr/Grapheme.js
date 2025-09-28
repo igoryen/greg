@@ -3,20 +3,20 @@ import "../../styles/scr/grapheme.scss";
 const Grapheme = (prop) => {
     return (
         <section id="grapheme">
-            <h1>Graphemes</h1>
+            <h1>Squiggles (graphemes)</h1>
             <ol>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">a</div>
                         <div className="cell abc">æ</div>
-                        <div className="cell fgh">c<b>a</b>t</div>
+                        <div className="cell fgh"><i>c</i><b>a</b><i>t</i></div>
                     </div>
                 </li>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">a_e</div>
                         <div className="cell abc">eɪ</div>
-                        <div className="cell fgh">m<b>a</b>t<b>e</b></div>
+                        <div className="cell fgh"><i>m</i><b>a</b><i>t</i><b>e</b></div>
                     </div>
                 </li>
                 <li>
@@ -44,7 +44,7 @@ const Grapheme = (prop) => {
                     <div className="cox">
                         <div className="cell xyz">air</div>
                         <div className="cell abc">ʧɛr</div>
-                        <div className="cell fgh">ch<b>air</b></div>
+                        <div className="cell fgh"><i>ch</i><b>air</b></div>
                     </div>
                 </li>
                 <li>
@@ -58,14 +58,14 @@ const Grapheme = (prop) => {
                     <div className="cox">
                         <div className="cell xyz">are</div>
                         <div className="cell abc">ɛr</div>
-                        <div className="cell fgh">d<b>are</b></div>
+                        <div className="cell fgh"><i>d</i><b>are</b></div>
                     </div>
                 </li>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">au</div>
                         <div className="cell abc">æ</div>
-                        <div className="cell fgh">l<b>au</b>gh</div>
+                        <div className="cell fgh"><i>l</i><b>au</b><i>gh</i></div>
                     </div>
                 </li>
                 <li>
@@ -128,7 +128,7 @@ const Grapheme = (prop) => {
                     <div className="cox">
                         <div className="cell xyz">ch</div>
                         <div className="cell abc">tʃ</div>
-                        <div className="cell fgh"><b>ch</b>icken</div>
+                        <div className="cell fgh"><b>ch</b><i>i</i><i>ck</i>en</div>
                     </div>
                 </li>
                 <li>
@@ -170,7 +170,7 @@ const Grapheme = (prop) => {
                     <div className="cox">
                         <div className="cell xyz">dge</div>
                         <div className="cell abc">ʤ</div>
-                        <div className="cell fgh">edge</div>
+                        <div className="cell fgh"><i>e</i><b>dge</b></div>
                     </div>
                 </li>
                 <li>
@@ -240,7 +240,7 @@ const Grapheme = (prop) => {
                     <div className="cox">
                         <div className="cell xyz">eigh</div>
                         <div className="cell abc">eɪ</div>
-                        <div className="cell fgh">weigh</div>
+                        <div className="cell fgh"><i>w</i><b>eigh</b></div>
                     </div>
                 </li>
                 <li>
