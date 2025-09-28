@@ -74,7 +74,12 @@ const Tadni = (prop) => {
         },
         {
             "slug": "is",
-            "name": "IS",
+            "name": "Inna S.",
+            "active": false
+        },
+        {
+            "slug": "jg",
+            "name": "Julia G.",
             "active": false
         },
         {
@@ -85,16 +90,26 @@ const Tadni = (prop) => {
         {
             "slug": "ml",
             "name": "Maria L.",
-            "active": true
+            "active": false
         },
         {
             "slug": "ms",
-            "name": "MS",
+            "name": "Mykola S.",
+            "active": false
+        },
+        {
+            "slug": "np",
+            "name": "Natalia P.",
+            "active": false
+        },
+        {
+            "slug": "ol",
+            "name": "Olga L.",
             "active": false
         },
         {
             "slug": "os",
-            "name": "OS",
+            "name": "Oleksii S.",
             "active": false
         },
         {
@@ -119,23 +134,28 @@ const Tadni = (prop) => {
         },
         {
             "slug": "st",
-            "name": "ST",
+            "name": "Sana T.",
             "active": false
         },
         {
             "slug": "vk",
-            "name": "Victoria K.",
+            "name": "Valeria K.",
+            "active": false
+        },
+        {
+            "slug": "vv",
+            "name": "Vitaly V.",
             "active": false
         },
         {
             "slug": "yk",
-            "name": "YK",
+            "name": "Yana K.",
             "active": false
         },
         {
             "slug": "ym",
             "name": "Yana M.",
-            "active": true
+            "active": false
         }
     ];
     // Filter active and inactive people
@@ -154,7 +174,7 @@ const Tadni = (prop) => {
                     {activePeople.map((person) => (
                         <li key={person.slug}>
                             <Link to={`/student/${person.slug}`}>
-                                {person.slug} <i>({person.name})</i>
+                                <pre>{person.slug}</pre> <i>({person.name})</i>
                             </Link>
                         </li>
                     ))}
@@ -168,7 +188,7 @@ const Tadni = (prop) => {
                     {inactivePeople.map((person) => (
                         <li key={person.slug}>
                             <Link to={`/student/${person.slug}`}>
-                                {person.slug} <i>({person.name})</i>
+                                <pre>{person.slug}</pre> <i>({person.name})</i>
                             </Link>
                         </li>
                     ))}
