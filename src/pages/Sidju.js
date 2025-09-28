@@ -11,6 +11,7 @@ const Sidju = () => {
         { label: "Cnici", path: "/cnici", desc: "order the words in a sentence (DND)" },
         { label: "Cnicro", path: "/cnicro", desc: "\"be\" in present simple" },
         { label: "Gadri", path: "/gadri", desc: "articles: ə/ən, ðə/ði" },
+        { label: "Grapheme", path: "/grapheme", desc: "Graphemes" },
         { label: "Jimte", path: "/jimte", desc: "Message shredder" },
         { label: "Kooi", path: "/kooi", desc: "imperatives" },
         { label: "Linsi", path: "/linsi", desc: "bookmarks to web resources" },
