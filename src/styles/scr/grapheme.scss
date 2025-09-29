@@ -10,33 +10,37 @@
     .cox {
         display: flex;
         flex-wrap: wrap;
-        flex-direction: row;
+        flex-direction: column;
         align-items: baseline;
-        margin-bottom: 1.5em;
+        margin-top: 1.5em;
+        font-size: 1.5em;
 
     }
 
     .cell {
-        margin-right: 1em;
+        margin-right: 0.5em;
     }
 
     .xyz {
-        font-size: 3em;
+
         // font-weight: 600;
-        color: brown;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blue;
+        // font-family: Georgia, 'Times New Roman', Times, serif;
+        font-family: "Playwrite DE Grund Guides", sans-serif;
+        font-size: 2em;
     }
 
     .abc {
-        background-color: pink;
-        font-size: 2em;
+        // background-color: pink;
+        // font-size: 2em;
         padding: 0 0.5em;
+
     }
 
     .fgh {
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-style: italic;
-        font-size: 3em;
+        // font-style: italic;
+        // font-size: 3em;
         color: rgb(38, 85, 195);
 
         b {
@@ -45,7 +49,7 @@
             border-bottom: 1px solid red;
             border-right: 1px solid rgb(229, 89, 89);
             // font-style: italic;
-            transform: translateY(-3px);
+            transform: translateY(-1px);
             display: inline-block;
             padding: 1px 2px;
             margin-right: 3px;
@@ -53,7 +57,7 @@
         }
 
         i {
-            // font-style: normal;
+            font-style: normal;
             background-color: rgb(219, 234, 246);
             border-bottom: 1px solid rgb(59, 137, 226);
             border-right: 1px solid rgb(84, 135, 197);

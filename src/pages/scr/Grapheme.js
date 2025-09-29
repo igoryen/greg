@@ -415,7 +415,7 @@ const Grapheme = (prop) => {
                     <div className="cox">
                         <div className="cell xyz">kn</div>
                         <div className="cell abc">n</div>
-                        <div className="cell fgh">know</div>
+                        <div className="cell fgh"><b>kn</b><i>ow</i></div>
                     </div>
                 </li>
                 <li>
@@ -512,8 +512,22 @@ const Grapheme = (prop) => {
                 <li>
                     <div className="cox">
                         <div className="cell xyz">o</div>
-                        <div className="cell abc">ˈoʊpən</div>
+                        <div className="cell abc">oʊ</div>
                         <div className="cell fgh">open</div>
+                    </div>
+                </li>
+                <li>
+                    <div className="cox">
+                        <div className="cell xyz">o</div>
+                        <div className="cell abc">u</div>
+                        <div className="cell fgh">wh<b>o</b>, t<b>o</b>, d<b>o</b></div>
+                    </div>
+                </li>
+                <li>
+                    <div className="cox">
+                        <div className="cell xyz">o</div>
+                        <div className="cell abc">ʌ</div>
+                        <div className="cell fgh">s<b>o</b>n, M<b>o</b>nday, c<b>o</b>mpany</div>
                     </div>
                 </li>
                 <li>
@@ -826,16 +840,16 @@ const Grapheme = (prop) => {
                 </li>
                 <li>
                     <div className="cox">
-                        <div className="cell xyz">w</div>
-                        <div className="cell abc">hu</div>
-                        <div className="cell fgh">who</div>
+                        <div className="cell xyz">wh</div>
+                        <div className="cell abc">h</div>
+                        <div className="cell fgh"><b>wh</b><i>o</i></div>
                     </div>
                 </li>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">wh</div>
-                        <div className="cell abc">waɪ</div>
-                        <div className="cell fgh">why</div>
+                        <div className="cell abc">w</div>
+                        <div className="cell fgh"><b>w</b>hy</div>
                     </div>
                 </li>
                 <li>
@@ -855,36 +869,36 @@ const Grapheme = (prop) => {
                 <li>
                     <div className="cox">
                         <div className="cell xyz">y</div>
-                        <div className="cell abc">ju</div>
-                        <div className="cell fgh">you</div>
+                        <div className="cell abc">j</div>
+                        <div className="cell fgh"><b>y</b><i>ou</i></div>
                     </div>
                 </li>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">yr</div>
-                        <div className="cell abc">ˈmɜrtəl</div>
-                        <div className="cell fgh">myrtle</div>
+                        <div className="cell abc">ɜr</div>
+                        <div className="cell fgh">m<b>yr</b>tle</div>
                     </div>
                 </li>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">z</div>
-                        <div className="cell abc">zɛd</div>
-                        <div className="cell fgh">zed</div>
+                        <div className="cell abc">z</div>
+                        <div className="cell fgh"><b>z</b>ed, cra<b>z</b>e</div>
                     </div>
                 </li>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">z</div>
-                        <div className="cell abc">kreɪz</div>
+                        <div className="cell abc">z</div>
                         <div className="cell fgh">craze</div>
                     </div>
                 </li>
                 <li>
                     <div className="cox">
                         <div className="cell xyz">zz</div>
-                        <div className="cell abc">bʌz</div>
-                        <div className="cell fgh">buzz</div>
+                        <div className="cell abc">z</div>
+                        <div className="cell fgh">bu<b>zz</b></div>
                     </div>
                 </li>
             </ol>
