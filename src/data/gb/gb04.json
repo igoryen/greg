@@ -1,0 +1,786 @@
+{
+  "student": "Greg B.",
+  "slug": "gb",
+  "period": "week",
+  "number": 39,
+  "date": "2025-09-26",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "британська компанія",
+      "ipa": "ə ˈбритиш ˈкʌмпəні",
+      "spell": "a British company"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спільнота",
+      "ipa": "ə кəмˈюнəті",
+      "spell": "a community"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дочка",
+      "ipa": "ə ˈдɔтəр",
+      "spell": "a daughter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Форд",
+      "ipa": "ə форд",
+      "spell": "a Ford"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "готель",
+      "ipa": "ə hоуˈтел",
+      "spell": "a hotel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сусід",
+      "ipa": "ə ˈнейбəр",
+      "spell": "a neighbor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "комп'ютерна гра",
+      "ipa": "ə ˈпіˈсі ґейм",
+      "spell": "a PC game"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "продавець",
+      "ipa": "ə ˈсейлзˌпɜрсəн",
+      "spell": "a salesperson"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приказка",
+      "ipa": "ə ˈсейиŋ",
+      "spell": "a saying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зустріч випускників",
+      "ipa": "ə скул ріˈунйəн",
+      "spell": "a school reunion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гвинт",
+      "ipa": "ə скру",
+      "spell": "a screw"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гвинтівка",
+      "ipa": "ə скру ˈдрайvəр",
+      "spell": "a screw driver"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "туристичне місто",
+      "ipa": "ə ˈтʊрəст ˈситі",
+      "spell": "a tourist city"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дієслівна фраза",
+      "ipa": "ə vɜрб фрейз",
+      "spell": "a verb phrase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у магазині працює дуже хороний менеджер",
+      "ipa": "ə ˈvері ґʊд ˈмæнəджəр wɜркс ин ðə шɑп",
+      "spell": "a very good manager works in the shop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дуже малий відсоток людей",
+      "ipa": "ə ˈvері смɔл пəрˈсентəдж ʌv ˈпіпəл",
+      "spell": "a very small percentage of people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дуже малий відсоток людей це знає",
+      "ipa": "ə ˈvері смɔл пəрˈсентəдж ʌv ˈпіпəл ноу ит",
+      "spell": "a very small percentage of people know it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "американська компанія",
+      "ipa": "əн əˈмерəкəн ˈкʌмпəні",
+      "spell": "an American company"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще один?",
+      "ipa": "əˈнʌðəр wʌн?",
+      "spell": "another one?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на зустрічі випускників",
+      "ipa": "æт ə скул ріˈунйəн",
+      "spell": "at a school reunion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нарешті",
+      "ipa": "æт лæст",
+      "spell": "at last"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перед тим, як",
+      "ipa": "биˈфор",
+      "spell": "before"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перш ніж я зможу розширитися",
+      "ipa": "биˈфор ай кæн икˈспæнд",
+      "spell": "before I can expand"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "міста та села",
+      "ipa": "ˈситіз æнд ˈvилəджəз",
+      "spell": "cities and villages"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поширені речі",
+      "ipa": "ˈкɑмəн θиŋз",
+      "spell": "common things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я прийшов?",
+      "ipa": "ду ю wɑнт мі ту кʌм?",
+      "spell": "do you want me to come?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я готував?",
+      "ipa": "ду ю wɑнт мі ту кʊк?",
+      "spell": "do you want me to cook?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я керував?",
+      "ipa": "ду ю wɑнт мі ту драйv?",
+      "spell": "do you want me to drive?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я це полагодив?",
+      "ipa": "ду ю wɑнт мі ту фикс ðис?",
+      "spell": "do you want me to fix this?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я пішов додому?",
+      "ipa": "ду ю wɑнт мі ту ґоу hоум?",
+      "spell": "do you want me to go home?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я пішов?",
+      "ipa": "ду ю wɑнт мі ту ґоу?",
+      "spell": "do you want me to go?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я тобі допоміг?",
+      "ipa": "ду ю wɑнт мі ту hелп ю?",
+      "spell": "do you want me to help you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я поклав це туди?",
+      "ipa": "ду ю wɑнт мі ту пʊт ит ðер?",
+      "spell": "do you want me to put it there?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я залишився?",
+      "ipa": "ду ю wɑнт мі ту стей?",
+      "spell": "do you want me to stay?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я працював у неділю?",
+      "ipa": "ду ю wɑнт мі ту wɜрк ɑн ˈсʌнˌдей?",
+      "spell": "do you want me to work on Sunday?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я працював?",
+      "ipa": "ду ю wɑнт мі ту wɜрк?",
+      "spell": "do you want me to work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кожен у Швеції дуже добре говорить англійською",
+      "ipa": "ˈеvріˌбɑді ин ˈсwідəн спікс ˈиŋґлиш ˈvері wел",
+      "spell": "everybody in Sweden speaks English very well"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їдь автобусом!",
+      "ipa": "ґет ə бʌс!",
+      "spell": "get a bus!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їдь таксі!",
+      "ipa": "ґет ə ˈтæксі!",
+      "spell": "get a taxi!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їдь потягом!",
+      "ipa": "ґет ə трейн!",
+      "spell": "get a train!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "важка праця окупається",
+      "ipa": "hɑрд wɜрк пейз ɔф",
+      "spell": "hard work pays off"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він робить домашню роботу",
+      "ipa": "hіз ˈдуиŋ ˈhауˌсwɜрк",
+      "spell": "he's doing housework"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він п'є пиво",
+      "ipa": "hіз ˈдриŋкиŋ бир",
+      "spell": "he's drinking beer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він грає в гру",
+      "ipa": "hіз ˈплейиŋ ə ґейм",
+      "spell": "he's playing a game"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він дивиться футбол по телевізору",
+      "ipa": "hіз ˈwɑчиŋ ˈсɑкəр ɑн ˈтіˈvі",
+      "spell": "he’s watching soccer on TV"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він дивиться телевізор",
+      "ipa": "hіз ˈwɑчиŋ ˈтіˈvі",
+      "spell": "he’s watching TV"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "домашня робота",
+      "ipa": "ˈhауˌсwɜрк",
+      "spell": "housework"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "як справи?",
+      "ipa": "hау ɑр ю?",
+      "spell": "how are you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "як ти?",
+      "ipa": "hау hæv ю бин?",
+      "spell": "how have you been?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я прибуваю до кінотеатру",
+      "ipa": "ай æм əˈрайvиŋ æт ðə ˈмуvі ˈθіəтəр",
+      "spell": "I am arriving at the movie theater"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я саме виходжу з дому",
+      "ipa": "ай æм джʌст ˈліvиŋ ðə hаус",
+      "spell": "I am just leaving the house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я їду автобусом",
+      "ipa": "ай æм ˈтейкиŋ ðə бʌс",
+      "spell": "I am taking the bus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чекаю на вулиці",
+      "ipa": "ай æм ˈwейтиŋ ˈаутˈсайд",
+      "spell": "I am waiting outside"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я йду до тебе",
+      "ipa": "ай æм ˈwɔкиŋ тəˈwорд ю",
+      "spell": "I am walking toward you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу чорну куртку",
+      "ipa": "ай æм ˈwериŋ ə блæк ˈджæкəт",
+      "spell": "I am wearing a black jacket"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сьогодні я працюю понаднормово",
+      "ipa": "ай æм ˈwɜркиŋ ˈоуvəрˌтайм тəˈдей",
+      "spell": "I am working overtime today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я прибув!",
+      "ipa": "ай əˈрайvд !",
+      "spell": "I arrived !"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я несу валізу",
+      "ipa": "ай ˈкæрі ə ˈсутˌкейс",
+      "spell": "I carry a suitcase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я звільняю людей",
+      "ipa": "ай ˈфайəр ˈпіпəл",
+      "spell": "I fire people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я дивлюся",
+      "ipa": "ай лʊк",
+      "spell": "I look"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я бачу",
+      "ipa": "ай сі",
+      "spell": "I see"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вільно розмовляю англійською",
+      "ipa": "ай спік ˈиŋґлиш ˈфлуəнтлі",
+      "spell": "I speak English fluently"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я добре розмовляю англійською",
+      "ipa": "ай спік ˈиŋґлиш wел",
+      "spell": "I speak English well"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я зазвичай закінчую роботу о п'ятій вечора",
+      "ipa": "ай ˈюжəwəлі ˈфиниш wɜрк æт файv пі.ем.",
+      "spell": "I usually finish work at five p.m."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чекаю на автобус",
+      "ipa": "ай wейт фор ə бʌс",
+      "spell": "I wait for a bus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я був у Іспанії",
+      "ipa": "ай wʌз ин спейн",
+      "spell": "I was in Spain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я спостерігаю",
+      "ipa": "ай wɑч",
+      "spell": "I watch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я закінчу роботу о сьомій вечора",
+      "ipa": "ай wил ˈфиниш wɜрк æт ˈсеvəн пі.ем.",
+      "spell": "I will finish work at seven p.m."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я відпущу тебе",
+      "ipa": "ай wил лет ю ґоу",
+      "spell": "I will let you go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я працював в Анапі",
+      "ipa": "ай wɜркт ин əˈnæpə",
+      "spell": "I worked in Anapa"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хвилююся",
+      "ipa": "ай ˈwɜрі",
+      "spell": "I worry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у моєму рідному місті",
+      "ipa": "ин май hоум таун",
+      "spell": "in my home town"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в дужках",
+      "ipa": "ин пəˈренθəˌсіз",
+      "spell": "in parentheses"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це компактно",
+      "ipa": "ит из ˈкɑмпæкт",
+      "spell": "it is compact"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на вулиці дуже холодно",
+      "ipa": "ит из ˈрилі коулд ˈаутˈсайд",
+      "spell": "it is really cold outside"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це працює",
+      "ipa": "ит wɜркс",
+      "spell": "it works"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Іванів",
+      "ipa": "ˈайvəнз",
+      "spell": "Ivan's"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Іван тут",
+      "ipa": "ˈайvəнз hір",
+      "spell": "Ivan's here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Джессіка тут",
+      "ipa": "ˈджесикəз hір",
+      "spell": "Jessica’s here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кімната Джессіки",
+      "ipa": "ˈджесикəз рум",
+      "spell": "Jessica’s room"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "багато мов",
+      "ipa": "ˈмені ˈлæŋґwəджəз",
+      "spell": "many languages"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сильніше",
+      "ipa": "мор ˈстрɔŋлі",
+      "spell": "more strongly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мій бос чекає",
+      "ipa": "май бɑс wейтс",
+      "spell": "my boss waits"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя команда",
+      "ipa": "май кру",
+      "spell": "my crew"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя точка зору",
+      "ipa": "май пойнт ʌv в’ю",
+      "spell": "my point of view"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя команда",
+      "ipa": "май тім",
+      "spell": "my team"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя дружина зараз спить",
+      "ipa": "май wайф из ˈсліпиŋ нау",
+      "spell": "my wife is sleeping now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мої робочі друзі тут зі мною",
+      "ipa": "май wɜрк френдз ɑр hір wиð мі",
+      "spell": "my work friends are here with me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у великому масштабі",
+      "ipa": "ɑн ə лɑрдж скейл",
+      "spell": "on a large scale"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у невеликому масштабі",
+      "ipa": "ɑн ə смɔл скейл",
+      "spell": "on a small scale"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колись давно",
+      "ipa": "wʌнс əˈпɑн ə тайм",
+      "spell": "once upon a time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "замов таксі!",
+      "ipa": "ˈордəр ə ˈтæксі!",
+      "spell": "order a taxi!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "практика робить майстра",
+      "ipa": "ˈпрæктəс мейкс ˈпɜрˌфикт",
+      "spell": "practice makes perfect"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "побачимося тоді",
+      "ipa": "сі ю ðен",
+      "spell": "see you then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона живе там",
+      "ipa": "ші лиvз ðер",
+      "spell": "she lives there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сини та дочки",
+      "ipa": "сʌнз æнд ˈдɔтəрз",
+      "spell": "sons and daughters"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "телебачення вмирає",
+      "ipa": "ˈтелəˌvижəн из ˈдайиŋ",
+      "spell": "television is dying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ось чому",
+      "ipa": "ðæтс wай",
+      "spell": "that’s why"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поліція чекає на мене",
+      "ipa": "ðə пəˈліс ɑр ˈwейтиŋ фор мі",
+      "spell": "the police are waiting for me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "було багато граду",
+      "ipa": "ðер wʌз ə лɑт ʌv hейл",
+      "spell": "there was a lot of hail"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ці люди",
+      "ipa": "ðіз ˈпіпəл",
+      "spell": "these people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони займаються бізнесом",
+      "ipa": "ðей ду ˈбизнəс",
+      "spell": "they do business"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "час не чекає",
+      "ipa": "тайм дʌз нɑт wейт",
+      "spell": "time does not wait"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "час летить",
+      "ipa": "тайм флайз",
+      "spell": "time flies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми в пробці",
+      "ipa": "wі ɑр ин ə лɑт ʌv ˈтрæфик",
+      "spell": "we are in a lot of traffic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми працювали весь день",
+      "ipa": "wі wɜр ˈwɜркиŋ ɔл дей",
+      "spell": "we were working all day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що ти маєш на увазі?",
+      "ipa": "wɑт ду ю мін?",
+      "spell": "what do you mean?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коли вони працюють",
+      "ipa": "wен ðей wɜрк",
+      "spell": "when they work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чий?",
+      "ipa": "hуз?",
+      "spell": "whose?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "праця приносить результати",
+      "ipa": "wɜрк бриŋз риˈзʌлтс",
+      "spell": "work brings results"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "робітники чекають на мене",
+      "ipa": "ˈwɜркəрз wейт фор мі",
+      "spell": "workers wait for me"
+    }
+  ]
+}
