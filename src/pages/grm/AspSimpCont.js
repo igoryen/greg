@@ -2,7 +2,7 @@ import AspectContinuous from "../../components/AspectContinuous";
 import AspectSimple from "../../components/AspectSimple";
 const AspSimpCont = () => {
     return (
-        <section className="aspsimpcont">
+        <section id="aspect" className="aspsimpcont">
             <AspectSimple></AspectSimple>
             <AspectContinuous></AspectContinuous>
         </section>

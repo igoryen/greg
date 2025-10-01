@@ -1,6 +1,6 @@
 $brd_thx: 4px;
 
-.aspect {
+#aspect {
     font-family: "Noto Sans" sans-serif;
     font-weight: 100;
     font-size: large;
@@ -13,118 +13,119 @@ $brd_thx: 4px;
             margin-right: 0.2em;
         }
     }
-}
-
-.plural {
-    border: 1px solid #dc143c3d;
-    border-radius: 10px;
-    margin-top: 0.5em;
-}
-
-.singular {
-    border: 1px solid #1e5ae842;
-    border-radius: 10px;
-    margin-top: 0.5em;
-}
 
 
-
-.pron {
-    position: relative;
-    border: $brd_thx solid gray;
-
-    &.plur {
-        background-color: crimson;
-        color: white;
+    .plural {
+        border: 1px solid #dc143c3d;
+        border-radius: 10px;
+        margin-top: 0.5em;
     }
 
-    &.sing {
-        background-color: #1e5ae8;
-        color: white;
+    .singular {
+        border: 1px solid #1e5ae842;
+        border-radius: 10px;
+        margin-top: 0.5em;
     }
 
-    // &::after {
-    //     content: "S";
-    //     color: #333;
-    //     position: absolute;
-    //     top: -14px;
-    //     right: -4px;
-    //     background-color: antiquewhite;
-    //     border-radius: 10px;
-    //     border: 1px solid #333;
-    // }
-}
-
-.main {
-    text-transform: uppercase;
-    font-weight: 700;
-}
-
-.sfx {
-
-    border-top-right-radius: 50%;
-    border-bottom-right-radius: 50%;
-    margin-left: -4px;
-    // font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-
-    &.ing {
-        // background-color: purple;
-        // color: antiquewhite;
-        color: purple;
-        border: $brd_thx solid purple;
 
 
+    .pron {
+        position: relative;
+        border: $brd_thx solid gray;
+
+        &.plur {
+            background-color: crimson;
+            color: white;
+        }
+
+        &.sing {
+            background-color: #1e5ae8;
+            color: white;
+        }
+
+        // &::after {
+        //     content: "S";
+        //     color: #333;
+        //     position: absolute;
+        //     top: -14px;
+        //     right: -4px;
+        //     background-color: antiquewhite;
+        //     border-radius: 10px;
+        //     border: 1px solid #333;
+        // }
     }
 
-    &.es {
-        // background-color: brown;
+    .main {
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+
+    .sfx {
+
+        border-top-right-radius: 50%;
+        border-bottom-right-radius: 50%;
+        margin-left: -4px;
+        // font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+
+        &.ing {
+            // background-color: purple;
+            // color: antiquewhite;
+            color: purple;
+            border: $brd_thx solid purple;
+
+
+        }
+
+        &.es {
+            // background-color: brown;
+            // color: white;
+            color: brown;
+            border: $brd_thx solid brown;
+            font-weight: 600;
+        }
+    }
+
+    .verb {
+        background-color: black;
+        color: aliceblue;
+        border: $brd_thx solid #333;
+    }
+
+    .aux {
+        //background-color: green;
+        //color: white;
+        color: #333;
+        border: $brd_thx solid #333;
+        // border-radius: 50%;
+        border-bottom-left-radius: 50%;
+        border-top-left-radius: 50%;
+    }
+
+    .not {
+        // background-color: crimson;
         // color: white;
-        color: brown;
-        border: $brd_thx solid brown;
+
+        margin-left: -9px;
+        color: crimson;
+        border: $brd_thx solid crimson;
+        background-color: rgba(220, 20, 60, 0.2);
         font-weight: 600;
+        // border-radius: 10px;
+        border-top-right-radius: 40%;
+        border-bottom-right-radius: 40%;
+
+        position: relative;
+        // border-radius: 50%;
+
+        // margin-left: 1px !important;
+        // &::before {
+        //     content: "•";
+        //     color: blue;
+        //     position: absolute;
+        //     top: 0.5em;
+        //     left: -8px;
+        //     font-size: 20px;
+        // }
     }
-}
-
-.verb {
-    background-color: black;
-    color: aliceblue;
-    border: $brd_thx solid #333;
-}
-
-.aux {
-    //background-color: green;
-    //color: white;
-    color: #333;
-    border: $brd_thx solid #333;
-    // border-radius: 50%;
-    border-bottom-left-radius: 50%;
-    border-top-left-radius: 50%;
-}
-
-.not {
-    // background-color: crimson;
-    // color: white;
-
-    margin-left: -9px;
-    color: crimson;
-    border: $brd_thx solid crimson;
-    background-color: rgba(220, 20, 60, 0.2);
-    font-weight: 600;
-    // border-radius: 10px;
-    border-top-right-radius: 40%;
-    border-bottom-right-radius: 40%;
-
-    position: relative;
-    // border-radius: 50%;
-
-    // margin-left: 1px !important;
-    // &::before {
-    //     content: "•";
-    //     color: blue;
-    //     position: absolute;
-    //     top: 0.5em;
-    //     left: -8px;
-    //     font-size: 20px;
-    // }
 }
