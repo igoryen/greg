@@ -1,0 +1,891 @@
+{
+  "student": "Dima C.",
+  "slug": "dc",
+  "period": "week",
+  "number": 39,
+  "date": "2025-09-25",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "причина",
+      "ipa": "ə кɑз",
+      "spell": "a cause"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грамматическая ошибка",
+      "ipa": "ə грəˈмæтəкəл мɪсˈтэйк",
+      "spell": "a grammatical mistake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "очень осуждающий человек",
+      "ipa": "ə ˈвэри джəджˈмэнтəл ˈпɜрсəн",
+      "spell": "a very judgemental person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я в правильном месте?",
+      "ipa": "æм ай ɪн ðə райт плэйс?",
+      "spell": "am I in the right place?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я первый?",
+      "ipa": "æм ай ðə фɜрст ˈпɜрсəн?",
+      "spell": "am I the first person?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не прав?",
+      "ipa": "æм ай рɔŋ?",
+      "spell": "am I wrong?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "апостроф",
+      "ipa": "əн əˈпɑстрəфи",
+      "spell": "an apostrophe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сотрудник - работодатель",
+      "ipa": "əн эмˈплойи - əн эмˈплойəр",
+      "spell": "an employee - an employer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мои ключи в ящике (стола)?",
+      "ipa": "ɑр май киз ɪн ðə дрор?",
+      "spell": "are my keys in the drawer?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дети в спальне?",
+      "ipa": "ɑр ðə ˈчɪлдрəн ɪн ðə ˈбэˌдрум?",
+      "spell": "are the children in the bedroom?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "магазины открыты в воскресенье?",
+      "ipa": "ɑр ðə шɑпс ˈоупəн ɑн ˈсʌнˌдэй?",
+      "spell": "are the shops open on Sunday?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они часто шумят?",
+      "ipa": "ɑр ðэй ˈɔфəн ˈнойзи?",
+      "spell": "are they often noisy?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Вы можете сказать мне, где вокзал?",
+      "ipa": "кæн ю тэл ми wэр ðə ˈстэйшəн ɪз?",
+      "spell": "Can you tell me where the station is?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ужин в восемь",
+      "ipa": "ˈдɪнəр ɪз æт эйт",
+      "spell": "dinner is at eight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ужин не сейчас",
+      "ipa": "ˈдɪнəр ɪз нɑт нау",
+      "spell": "dinner is not now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не пудри мозги этой девочке",
+      "ipa": "доунт мэс wɪð ðɪс гɜрлз hэд",
+      "spell": "don't mess with this girl's head"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё, что связано с негативом",
+      "ipa": "ˈэвриˌθɪŋ кəˈнэктɪд ту ˌнэгəˈтɪвəти",
+      "spell": "everything connected to negativity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он всегда подходит ко мне",
+      "ipa": "hи ˈɔлˌwэйз кʌмз ʌп ту ми",
+      "spell": "he always comes up to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он смошенничал",
+      "ipa": "hи ˈчитɪд",
+      "spell": "he cheated"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он не имеет на меня влияния",
+      "ipa": "hи hæз ноу ˈɪнфлуəнс ˈоувəр ми",
+      "spell": "he has no influence over me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ему приходится много путешествовать по работе",
+      "ipa": "hи hæз ту ˈтрæвəл ə лɑт фор hɪз джɑб",
+      "spell": "he has to travel a lot for his job"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он студент-физик",
+      "ipa": "hи ɪз ə ˈфɪзɪкс ˈстудəнт",
+      "spell": "he is a physics student"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он высокий худой мужчина",
+      "ipa": "hи ɪз ə тɔл θɪн мæн",
+      "spell": "he is a tall thin man"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он всегда добрый",
+      "ipa": "hи ɪз ˈɔлˌwэйз кайнд",
+      "spell": "he is always kind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он довольно молод",
+      "ipa": "hи ɪз ˈфэрли йʌŋ",
+      "spell": "he is fairly young"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он просто ведёт себя грубо",
+      "ipa": "hи ɪз джʌст ˈбиɪŋ руд",
+      "spell": "he is just being rude"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он не часто бывает серьёзным",
+      "ipa": "hи ɪз нɑт ˈɔфəн ˈсɪриəс",
+      "spell": "he is not often serious"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он трезвый",
+      "ipa": "hи ɪз ˈсоубəр",
+      "spell": "he is sober"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ему двадцать лет",
+      "ipa": "hи ɪз ˈтwэнти йɪрз оулд",
+      "spell": "he is twenty years old"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он хуже, чем мои родители",
+      "ipa": "hи ɪз wɜрс ðæн май ˈпэрəнтс",
+      "spell": "he is worse than my parents"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он подводит меня",
+      "ipa": "hи лэтс ми даун",
+      "spell": "he lets me down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он принижает меня",
+      "ipa": "hи пʊтс ми даун",
+      "spell": "he puts me down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он душит меня своей добротой",
+      "ipa": "hи ˈсмʌðəрз ми wɪð hɪз ˈгʊднəс",
+      "spell": "he smothers me with his goodness"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он думает",
+      "ipa": "hи θɪŋкс",
+      "spell": "he thinks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он был дальтоником",
+      "ipa": "hи wʌз ˈкʌлəр блайнд",
+      "spell": "he was color blind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он такой хороший, что меня тошнит",
+      "ipa": "hиз соу гʊд ай wɑнт ту ˈвɑмəт",
+      "spell": "he's so good I want to vomit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "её платье из чистого шёлка",
+      "ipa": "hɜр дрэс ɪз пйʊр сɪлк",
+      "spell": "her dress is pure silk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лошади - животные",
+      "ipa": "ˈhорсəз ɑр ˈæнəмəлз",
+      "spell": "horses are animals"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как это сказать?",
+      "ipa": "hау ду ю сэй ðæт?",
+      "spell": "how do you say that?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почём дыни?",
+      "ipa": "hау мʌч ɑр ðə ˈмэлəнз?",
+      "spell": "how much are the melons?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я совсем один",
+      "ipa": "ай æм ɔл бай ˌмайˈсэлф",
+      "spell": "I am all by myself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я осторожен",
+      "ipa": "ай æм ˈкэрфəл",
+      "spell": "I am careful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я происхожу из России",
+      "ipa": "ай æм фрʌм ˈрʌшə",
+      "spell": "I am from Russia"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я нахожусь здесь",
+      "ipa": "ай æм hир",
+      "spell": "I am here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не пятнадцать лет",
+      "ipa": "ай æм нɑт фɪфˈтин йɪрз оулд",
+      "spell": "I am not fifteen years old"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не рядом с окном",
+      "ipa": "ай æм нɑт нɪр ðə ˈwɪндоу",
+      "spell": "I am not near the window"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ещё не готов",
+      "ipa": "ай æм нɑт ˈрэди йэт",
+      "spell": "I am not ready yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не глупый",
+      "ipa": "ай æм нɑт ˈсɪли",
+      "spell": "I am not silly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не менеджер",
+      "ipa": "ай æм нɑт ðə ˈмæнəджəр",
+      "spell": "I am not the manager"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне тридцать",
+      "ipa": "ай æм ˈθɜрди",
+      "spell": "I am thirty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я навеселе",
+      "ipa": "ай æм ˈтɪпси",
+      "spell": "I am tipsy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я спросил её",
+      "ipa": "ай æскт hɜр",
+      "spell": "I asked her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я спросил их",
+      "ipa": "ай æскт ðэм",
+      "spell": "I asked them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я могу быть серьёзным",
+      "ipa": "ай кæн би ˈсɪриəс",
+      "spell": "I can be serious"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пишу своё имя с заглавной буквы",
+      "ipa": "ай ˈкæпəтəˌлайз май нэйм",
+      "spell": "I capitalize my name"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не услышал будильник",
+      "ipa": "ай ˈдɪдəнт hир май əˈлɑрм клɑк",
+      "spell": "I didn’t hear my alarm clock"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня не так много свободного времени",
+      "ipa": "ай доунт hæв мʌч фри тайм",
+      "spell": "I don’t have much free time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я плыву по течению",
+      "ipa": "ай гоу wɪð ðə флоу",
+      "spell": "I go with the flow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне ночь нравится больше, чем день",
+      "ipa": "ай лайк ðə найт мор ðæн ðə дэй",
+      "spell": "I like the night more than the day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится быть одному",
+      "ipa": "ай лайк ту би бай ˌмайˈсэлф",
+      "spell": "I like to be by myself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравилось работать ночью",
+      "ipa": "ай лайкт ˈwɜркɪŋ æт найт",
+      "spell": "I liked working at night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нужно опохмелиться",
+      "ipa": "ай нид ə ˈhæŋˌоувəр кйʊр",
+      "spell": "I need a hangover cure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сказал ей",
+      "ipa": "ай сэд ту hɜр",
+      "spell": "I said to her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я до сих пор не перезвонил ему",
+      "ipa": "ай стɪл ˈhæвəнт кɔлд hɪм бæк",
+      "spell": "I still haven’t called him back"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я выпиваю, чтобы опохмелиться",
+      "ipa": "ай тэйк ə дрɪŋк ту кйʊр ə ˈhæŋˌоувəр",
+      "spell": "I take a drink to cure a hangover"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по-моему оно стоит примерно сорок долларов",
+      "ipa": "ай θɪŋк ɪт ɪз əˈраунд ˈфорти ˈдɑлəрз",
+      "spell": "I think it is around forty dollars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ему перезвоню",
+      "ipa": "ай wɪл кɔл hɪм бæк",
+      "spell": "I will call him back"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я веду себя хорошо",
+      "ipa": "айм бɪˈhэйвɪŋ wэл",
+      "spell": "I'm behaving well"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если нет работы",
+      "ipa": "ɪф ðэр ɪз ноу wɜрк",
+      "spell": "if there is no work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он всегда такой смешной?",
+      "ipa": "ɪз hи ˈɔлˌwэйз соу ˈфʌни?",
+      "spell": "is he always so funny?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она шеф-повар?",
+      "ipa": "ɪз щи ðə щэф?",
+      "spell": "is she the chef?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она обычно спокойна?",
+      "ipa": "ɪз щи ˈюжəwəли кɑм?",
+      "spell": "is she usually calm?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "запись/приём в понедельник?",
+      "ipa": "ɪз ðи əˈпойнтмəнт ɑн ˈмʌнˌдэй?",
+      "spell": "is the appointment on Monday?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отпуск летом?",
+      "ipa": "ɪз ðə ˈhɑлəˌдэй ɪн ˈсʌмəр?",
+      "spell": "is the holiday in summer?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фильм в шесть часов?",
+      "ipa": "ɪз ðə ˈмуви æт сɪкс əˈклɑк?",
+      "spell": "is the movie at six o'clock?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "супермаркет рядом?",
+      "ipa": "ɪз ðə ˈсупəрˌмɑркɪт нɪр hир?",
+      "spell": "is the supermarket near here?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это тот ключ?",
+      "ipa": "ɪз ðɪс ðə ки?",
+      "spell": "is this the key?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя завтра занятия?",
+      "ipa": "ɪз йʊəр клæс тəˈмɑˌроу?",
+      "spell": "is your class tomorrow?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твой отец дома?",
+      "ipa": "ɪз йʊəр ˈфɑðəр æт hоум?",
+      "spell": "is your father at home?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "было лучше, чем когда мы впервые встретились",
+      "ipa": "ɪт wʌз ˈбэтəр ðæн wэн wи фɜрст ˈмитɪŋ",
+      "spell": "it was better than when we first meeting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это как смотреть как трава растёт",
+      "ipa": "ɪтс лайк ˈwɑчɪŋ ðə грæс гроу",
+      "spell": "it's like watching the grass grow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это как смотреть как краска сохнет",
+      "ipa": "ɪтс лайк ˈwɑчɪŋ ðə пэйнт драй",
+      "spell": "it's like watching the paint dry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "этого нет в списке",
+      "ipa": "ɪтс нɑт ɑн ðə лɪст",
+      "spell": "it’s not on the list"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сегодня у них Новый год",
+      "ipa": "ɪтс ðэр ну йɪрз дэй тəˈдэй",
+      "spell": "it’s their New Year’s day today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это бесполезно",
+      "ipa": "ɪтс ˈюслəс",
+      "spell": "it’s useless"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оставь эту девочку в покое",
+      "ipa": "лив ðɪс гɜрл əˈлоун",
+      "spell": "leave this girl alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наши начальники не такие, что «если у тебя нет работы, мы тебе её найдём»",
+      "ipa": "ˈауəр ˈбɔсɪз ɑр нɑт лайк “ɪф ю hæв ноу wɜрк wил гэт ю сʌм”",
+      "spell": "our bosses are not like “if you have no work  we’ll get you some”"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она обычно не опаздывает",
+      "ipa": "щи ɪз нɑт ˈюжəwəли лэйт",
+      "spell": "she is not usually late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она очень терпелива с детьми",
+      "ipa": "щи ɪз соу ˈпэйшəнт wɪð ðə ˈчɪлдрəн",
+      "spell": "she is so patient with the children"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она хочет быть доктором, когда покинет школу",
+      "ipa": "щи wɑнтс ту би ə ˈдɑктəр wэн щи ливз скул",
+      "spell": "she wants to be a doctor when she leaves school"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чтобы они не уставали",
+      "ipa": "соу ðэй ɑр нɑт ˈтайəрд",
+      "spell": "so they are not tired"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пауки не совсем насекомые",
+      "ipa": "ˈспайдəрз ɑр нɑт ˈрɪли ˈɪнˌсэктс",
+      "spell": "spiders are not really insects"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "учёба, ученье",
+      "ipa": "ˈстʌдиɪŋ",
+      "spell": "studying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спасибо, что напомнил (мне)",
+      "ipa": "θæŋкс фор риˈмайндɪŋ ми",
+      "spell": "thanks for reminding me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "большие по два доллара за штуку",
+      "ipa": "ðə бɪг wʌнз ɑр ту ˈдɑлəрз ич",
+      "spell": "the big ones are two dollars each"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "концерт в субботу",
+      "ipa": "ðə ˈкɑнсɜрт ɪз ɑн ˈсæтəрˌдэй",
+      "spell": "the concert is on Saturday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "концерт был прошлой ночью",
+      "ipa": "ðə ˈкɑнсɜрт wʌз лæст найт",
+      "spell": "the concert was last night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рейс утром",
+      "ipa": "ðə флайт ɪз ɪн ðə ˈморнɪŋ",
+      "spell": "the flight is in the morning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "игра не сегодня",
+      "ipa": "ðə гэйм ɪз нɑт тəˈдэй",
+      "spell": "the game is not today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "последние пару дней были тяжёлыми",
+      "ipa": "ðə лæст ˈкʌпəл ʌв дэйз wɜр hɑрд",
+      "spell": "the last couple of days were hard"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "руководство этого не разрешило",
+      "ipa": "ðə ˈмæнəджмəнт дɪд нɑт əˈлау ðæт",
+      "spell": "the management did not allow that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проблема в том, чтобы найти время на дела",
+      "ipa": "ðə ˈпрɑблəм ɪз ˈфайндɪŋ ðə тайм ту гэт θɪŋз дʌн",
+      "spell": "the problem is finding the time to get things done"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "небо серое",
+      "ipa": "ðə скай ɪз грэй",
+      "spell": "the sky is grey"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "во мне есть вещи, которые ему не нравятся",
+      "ipa": "ðэр ɑр θɪŋз əˈбаут ми hи ˈдʌзəнт лайк",
+      "spell": "there are things about me he doesn't like"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они в школе",
+      "ipa": "ðэй ɑр æт скул",
+      "spell": "they are at school"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они не из Лондона",
+      "ipa": "ðэй ɑр нɑт фрʌм ˈлʌндəн",
+      "spell": "they are not from London"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они очень полезны",
+      "ipa": "ðэй ɑр ˈвэри ˈhэлпфəл",
+      "spell": "they are very helpful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "каждый из них может дать мне разные советы",
+      "ipa": "ðэй кæн ич гɪв ми сʌм ˈдɪфəрəнт æдˈвайс",
+      "spell": "they can each give me some different advice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они нас не беспокоят",
+      "ipa": "ðэй доунт ˈбɑðəр ʌс",
+      "spell": "they don’t bother us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они не мешают нам слушать музыку",
+      "ipa": "ðэй доунт стɑп ʌс фрʌм ˈлɪсəнɪŋ ту ˈмъюзɪк",
+      "spell": "they don’t stop us from listening to music"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они знали друг друга до того",
+      "ipa": "ðэй ну ич ˈʌðəр бɪˈфор ðæт",
+      "spell": "they knew each other before that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они любят гулянки",
+      "ipa": "ðэй лʌв caрoусaлс",
+      "spell": "they love carousals"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они сегодня празднуют свой новый год",
+      "ipa": "ðэр ˈсэлəˌбрэйтɪŋ ðэр ну йɪр тəˈдэй",
+      "spell": "they're celebrating their New Year today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "три смены: утренняя, дневная, ночная",
+      "ipa": "θри щɪфтс: ˈморнɪŋ, ˌæфтəрˈнун, найт",
+      "spell": "three shifts: morning, afternoon, night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тугой",
+      "ipa": "тайт",
+      "spell": "tight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быть в возрасте тридцати лет",
+      "ipa": "ту би ˈθɜрди йɪрз оулд",
+      "spell": "to be thirty years old"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы победители",
+      "ipa": "wи ɑр ðə ˈwɪнəрз",
+      "spell": "we are the winners"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы хорошо делаем свою работу",
+      "ipa": "wи ду ˈауəр wɜрк wэл",
+      "spell": "we do our work well"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы разговариваем",
+      "ipa": "wи тɔк",
+      "spell": "we talk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда он видит меня, он смеётся",
+      "ipa": "wэн hи сиз ми hи лæфс",
+      "spell": "when he sees me he laughs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда мы видим друг друга",
+      "ipa": "wэн wи си ич ˈʌðəр",
+      "spell": "when we see each other"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты ведёшь себя грубо",
+      "ipa": "ю ɑр ˈбиɪŋ руд",
+      "spell": "you are being rude"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты ведёшь себя глупо",
+      "ipa": "ю ɑр ˈбиɪŋ ˈсɪли",
+      "spell": "you are being silly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты не тихий",
+      "ipa": "ю ɑр нɑт ˈкwайəт",
+      "spell": "you are not quiet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты грубый",
+      "ipa": "ю ɑр руд",
+      "spell": "you are rude"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты иногда грубишь",
+      "ipa": "ю ɑр руд сəмˈтаймз",
+      "spell": "you are rude sometimes"
+    }
+  ]
+}
