@@ -10,6 +10,8 @@ import StudentPage from "./pages/StudentPage";
 import LessonPage from "./pages/LessonPage";
 
 import Ang from "./pages/Ang";
+import AspSimp from "./pages/grm/AspSimp";
+import AspSimpCont from "./pages/grm/AspSimpCont";
 import Asti from "./pages/grm/Asti";
 
 import AA from "./pages/aa/AA";
@@ -390,6 +392,9 @@ export default function App() {
           <Route path="as03" element={<AS03 />} />
           <Route path="as06" element={<AS06 />} />
           <Route path="as07" element={<AS07 />} />
+
+          <Route path="aspsimp" element={<AspSimp />} />
+          <Route path="aspsc" element={<AspSimpCont />} />
 
           <Route path="/cnici" element={<LessonList />} />
           <Route path="/cnici/:fileId" element={<DraggableSentenceGame />} />
