@@ -1,0 +1,422 @@
+{
+  "student": "Ruslan P.",
+  "slug": "rp",
+  "period": "week",
+  "number": 39,
+  "date": "2025-09-27",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полный комплект",
+      "ipa": "ə кəмˈплит сэт",
+      "spell": "a complete set"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сокращение, стяжение",
+      "ipa": "ə кəнˈтрæкшəн",
+      "spell": "a contraction"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гитара",
+      "ipa": "ə гɪˈтɑр",
+      "spell": "a guitar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гостиница",
+      "ipa": "ə hоуˈтэл",
+      "spell": "a hotel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "этикетка, ярлык, бирка",
+      "ipa": "ə ˈлэйбəл",
+      "spell": "a label"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пропавший человек",
+      "ipa": "ə ˈмɪсɪŋ ˈпɜрсəн",
+      "spell": "a missing person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пропущенное слово",
+      "ipa": "ə ˈмɪсɪŋ wɜрд",
+      "spell": "a missing word"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гласная",
+      "ipa": "ə ˈвауəл",
+      "spell": "a vowel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "апостроф",
+      "ipa": "əн əˈпɑстрəфи",
+      "spell": "an apostrophe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "апостроф похож на шрам",
+      "ipa": "əн əˈпɑстрəфи ɪз лайк ə скɑр",
+      "spell": "an apostrophe is like a scar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сочетания",
+      "ipa": "ˌкɑмбəˈнэйшəнз",
+      "spell": "combinations"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дифтонги",
+      "ipa": "ˈдɪфˌθɔŋз",
+      "spell": "diphthongs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "равняется ()",
+      "ipa": "ˈикwəлз",
+      "spell": "equals"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "например",
+      "ipa": "фор ɪгˈзæмпəл (и.джи.)",
+      "spell": "for example (e.g.)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы раньше встречались?",
+      "ipa": "hæв wи мэт бɪˈфор?",
+      "spell": "have we met before?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он ест",
+      "ipa": "hи итс",
+      "spell": "he eats"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "часы езды",
+      "ipa": "ˈауəрз əˈwэй",
+      "spell": "hours away"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я нахожусь",
+      "ipa": "ай æм",
+      "spell": "I am"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я являюсь",
+      "ipa": "ай æм",
+      "spell": "I am"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я нахожусь в такси",
+      "ipa": "ай æм ɪн ə ˈтæкси",
+      "spell": "I am in a taxi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неполный",
+      "ipa": "ɪнкəмˈплит",
+      "spell": "incomplete"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно ест свою свёклу",
+      "ipa": "ɪт итс ɪтс битс",
+      "spell": "it eats its beets"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно находится",
+      "ipa": "ɪт ɪз",
+      "spell": "it is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно является",
+      "ipa": "ɪт ɪз",
+      "spell": "it is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно является отелем",
+      "ipa": "ɪт ɪз ə hоуˈтэл",
+      "spell": "it is a hotel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это его хвост",
+      "ipa": "ɪтс ɪтс тэйл",
+      "spell": "it's its tail"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это произносится",
+      "ipa": "ɪтс прəˈнаунст",
+      "spell": "it's pronounced"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не совсем",
+      "ipa": "нɑт кwайт",
+      "spell": "not quite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "простите?",
+      "ipa": "ˈпɑрдəн?",
+      "spell": "pardon?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полиция",
+      "ipa": "пəˈлис",
+      "spell": "police"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подлежащее",
+      "ipa": "ˈсʌбджɪкт",
+      "spell": "subject"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подлежащее-сказуемое-дополнение",
+      "ipa": "ˈсʌбджɪкт-вɜрб-ˈɑбджэкт (эс-ви-оу)",
+      "spell": "subject-verb-object (SVO)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "основное ударение",
+      "ipa": "ðə ˈпрайˌмэри стрэс",
+      "spell": "the primary stress"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "второстепенное ударение",
+      "ipa": "ðə ˈсэкəнˌдэри стрэс",
+      "spell": "the secondary stress"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там",
+      "ipa": "ðэр",
+      "spell": "there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ну-ну! тише, тише. успокойся.",
+      "ipa": "ðэр, ðэр!",
+      "spell": "there, there!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это коробки",
+      "ipa": "ðиз ɑр ˈбɑксəз",
+      "spell": "these are boxes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это машины",
+      "ipa": "ðиз ɑр кɑрз",
+      "spell": "these are cars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это дети",
+      "ipa": "ðиз ɑр ˈчɪлдрəн",
+      "spell": "these are children"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это двери",
+      "ipa": "ðиз ɑр дорз",
+      "spell": "these are doors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это люди",
+      "ipa": "ðиз ɑр ˈпипəл",
+      "spell": "these are people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это арбузы",
+      "ipa": "ðиз ɑр ˈwɔтəрˌмэлəнз",
+      "spell": "these are watermelons"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они являются учителями",
+      "ipa": "ðэй ɑр ˈтичəрз",
+      "spell": "they are teachers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они находятся там",
+      "ipa": "ðэр ðэр",
+      "spell": "they’re there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это",
+      "ipa": "ðɪс ˈсɪŋгйəлəр",
+      "spell": "this  singular"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "время летит",
+      "ipa": "тайм флайз",
+      "spell": "time flies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быть",
+      "ipa": "ту би",
+      "spell": "to be"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "находиться",
+      "ipa": "ту би",
+      "spell": "to be"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "наклеить этикетку на что-либо",
+      "ipa": "ту ˈлэйбəл ˈсʌмθɪŋ",
+      "spell": "to label something"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "встретить кого-либо",
+      "ipa": "ту мит ˈсʌмˌбɑди",
+      "spell": "to meet somebody"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "два в одном",
+      "ipa": "ту ɪн wʌн",
+      "spell": "two in one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы происходим из Канады",
+      "ipa": "wи ɑр фрʌм ˈкæнəдə",
+      "spell": "we are from Canada"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у нас закончилось время",
+      "ipa": "wи hæв рʌн аут ʌв тайм",
+      "spell": "we have run out of time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы странные",
+      "ipa": "wир wɪрд",
+      "spell": "we’re weird"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слово в слово",
+      "ipa": "wɜрд фор wɜрд",
+      "spell": "word for word"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты находишься",
+      "ipa": "ю ɑр",
+      "spell": "you are"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты являешься",
+      "ipa": "ю ɑр",
+      "spell": "you are"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вы находитесь в Канаде",
+      "ipa": "ю ɑр ɪн ˈкæнəдə",
+      "spell": "you are in Canada"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты - твой учитель",
+      "ipa": "йʊр йʊəр ˈтичəр",
+      "spell": "you’re your teacher"
+    }
+  ]
+}
