@@ -1,0 +1,562 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "period": "week",
+  "number": 39,
+  "date": "12025-09-23",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "доброкачественная опухоль",
+      "ipa": "ə бɪˈнайн ˈтумəр",
+      "spell": "a benign tumor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "большой бык",
+      "ipa": "ə бɪг бʊл",
+      "spell": "a big bull"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "злокачественная опухоль",
+      "ipa": "ə мəˈлайн ˈтумəр",
+      "spell": "a malign tumor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приемный покой",
+      "ipa": "ə рəˈсивɪŋ-рум",
+      "spell": "a receiving-room"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "певец",
+      "ipa": "ə ˈсɪŋəр",
+      "spell": "a singer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сильный парень",
+      "ipa": "ə стрɔŋ гай",
+      "spell": "a strong guy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сова",
+      "ipa": "əн аул",
+      "spell": "an owl"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "и дай мне знать",
+      "ipa": "æнд лэт ми ноу",
+      "spell": "and let me know"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты беспокоишься о ее безопасности?",
+      "ipa": "ɑр ю ˈwɜрид əˈбаут hɜр ˈсэйфти?",
+      "spell": "are you worried about her safety?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как можно скорее",
+      "ipa": "æз сун æз ˈпɑсəбəл",
+      "spell": "as soon as possible"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в то же время",
+      "ipa": "æт ðə сэйм тайм",
+      "spell": "at the same time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потому что",
+      "ipa": "бɪˈкɔз",
+      "spell": "because"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "могу я заплатить кредитной картой?",
+      "ipa": "кæн ай пэй бай ˈкрэдəт кɑрд?",
+      "spell": "can I pay by credit card?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могли бы вы проверить?",
+      "ipa": "кʊд ю плиз чэк?",
+      "spell": "could you please check?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя сегодня школа?",
+      "ipa": "ду ю hæв скул тəˈдэй?",
+      "spell": "do you have school today?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "английская орфография — это преступление",
+      "ipa": "ˈɪŋглɪш ˈспэлɪŋ ɪз ə крайм",
+      "spell": "English spelling is a crime"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дай мне причину не убивать тебя",
+      "ipa": "гɪв ми ðə ˈризəн нɑт ту кɪл ю",
+      "spell": "give me the reason not to kill you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты бывал в приемном покое там?",
+      "ipa": "hæв ю бɪн ɪн əн ɪˈмɜрджəнси рум ðэр?",
+      "spell": "have you been in an emergency room there?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "инфаркт",
+      "ipa": "hи hæд ə hɑрт əˈтæк",
+      "spell": "he had a heart attack"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у него был инсульт",
+      "ipa": "hи hæд ə строук",
+      "spell": "he had a stroke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ее папа отвез ее",
+      "ipa": "hɜр дæд дрɑпт hɜр ɔф",
+      "spell": "her dad dropped her off"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ее игрушка",
+      "ipa": "hɜр той",
+      "spell": "her toy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ее игрушки",
+      "ipa": "hɜр тойз",
+      "spell": "her toys"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько это стоило?",
+      "ipa": "hау мʌч wʌз ɪт?",
+      "spell": "how much was it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "торопись!",
+      "ipa": "ˈhɜри ʌп!",
+      "spell": "hurry up!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я родитель ученика",
+      "ipa": "ай æм ə ˈпэрəнт ʌв ə ˈстудəнт",
+      "spell": "I am a parent of a student"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я купил",
+      "ipa": "ай бɑт",
+      "spell": "I bought"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я могу быть напористым",
+      "ipa": "ай кæн би əˈсɜртɪв",
+      "spell": "I can be assertive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я могу быть настойчивым",
+      "ipa": "ай кæн би ˈпʊщи",
+      "spell": "I can be pushy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я умею кататься на лыжах",
+      "ipa": "ай кæн ски",
+      "spell": "I can ski"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я много занимаюсь йогой",
+      "ipa": "ай ду ə лɑт ʌв ˈйоугə",
+      "spell": "I do a lot of yoga"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне все равно",
+      "ipa": "ай доунт кэр ˈэни мор",
+      "spell": "I don’t care any more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ненавижу это делать",
+      "ipa": "ай hэйт ˈдуɪŋ ðɪс",
+      "spell": "I hate doing this"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится это делать",
+      "ipa": "ай лайк ˈдуɪŋ ðɪс",
+      "spell": "I like doing this"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я обожаю это делать",
+      "ipa": "ай лʌв ˈдуɪŋ ðɪс",
+      "spell": "I love doing this"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я наношу макияж",
+      "ipa": "ай пʊт ɑн май ˈмэйˌкʌп",
+      "spell": "I put on my makeup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я думал",
+      "ipa": "ай θɔт",
+      "spell": "I thought"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я думал, что купил это",
+      "ipa": "ай θɔт ай бɑт ɪт",
+      "spell": "I thought I bought it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу убедиться, что моя дочь в безопасности в школе",
+      "ipa": "ай wɑнт ту мэйк щʊр май ˈдɔтəр ɪз ɪн скул ˈсэйфли",
+      "spell": "I want to make sure my daughter is in school safely"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу сказать тебе ...",
+      "ipa": "ай wɑнт ту тэл ю ...",
+      "spell": "I want to tell you ..."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пойду кататься на лыжах",
+      "ipa": "ай wɪл гоу ˈскиɪŋ",
+      "spell": "I will go skiing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я буду кататься на лыжах",
+      "ipa": "ай wɪл ски",
+      "spell": "I will ski"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я напишу тебе",
+      "ipa": "ай wɪл тэкст ю",
+      "spell": "I will text you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это зависит от многих вещей",
+      "ipa": "ɪт дɪˈпэндз ɑн ˈмэни θɪŋз",
+      "spell": "it depends on many things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это от этого не зависит",
+      "ipa": "ɪт ˈдʌзəнт дɪˈпэнд ɑн ðæт",
+      "spell": "it doesn’t depend on that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "просто убедись, что она там, и дай мне знать",
+      "ipa": "джʌст мэйк щʊр щи ɪз ðэр æнд лэт ми ноу",
+      "spell": "just make sure she is there and let me know"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давай понаблюдаем",
+      "ipa": "лэтс əбˈзɜрв",
+      "spell": "let’s observe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "живи и учись",
+      "ipa": "лɪв æнд лɜрн",
+      "spell": "live and learn"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "свести риск к минимуму",
+      "ipa": "ˈмɪнəˌмайз ðə рɪск",
+      "spell": "minimize the risk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя кровь",
+      "ipa": "май блʌд",
+      "spell": "my blood"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой ботинок",
+      "ipa": "май бут",
+      "spell": "my boot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой желчный пузырь",
+      "ipa": "май гɔл ˈблæдəр",
+      "spell": "my gall bladder"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя мама отвезла меня",
+      "ipa": "май мɑм дрɑпт ми ɔф",
+      "spell": "my mom dropped me off"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя поджелудочная железа",
+      "ipa": "май ˈпæнкриəс",
+      "spell": "my pancreas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мои лыжи",
+      "ipa": "май скиз",
+      "spell": "my skis"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мое горло",
+      "ipa": "май θроут",
+      "spell": "my throat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой большой палец на руке",
+      "ipa": "май θʌм",
+      "spell": "my thumb"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой палец на ноге",
+      "ipa": "май тоу",
+      "spell": "my toe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мои пальцы на ногах",
+      "ipa": "май тоуз",
+      "spell": "my toes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одна из моих лыж",
+      "ipa": "wʌн ʌв май скиз",
+      "spell": "one of my skis"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "однажды я это видел",
+      "ipa": "wʌн тайм ай сɔ ɪт",
+      "spell": "one time I saw it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так что, поэтому",
+      "ipa": "соу",
+      "spell": "so"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какое-то время",
+      "ipa": "сʌм тайм",
+      "spell": "some time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот почему",
+      "ipa": "ðæтс wай",
+      "spell": "that’s why"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "причина",
+      "ipa": "ðə кɑз",
+      "spell": "the cause"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "конец моей истории",
+      "ipa": "ðи энд ʌв май ˈстори",
+      "spell": "the end of my story"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они хотят посмотреть, как быстро он растет",
+      "ipa": "ðэй wɑнт ту си hау ˈкwɪкли ɪт гроуз",
+      "spell": "they want to see how quickly it grows"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вам вышлют счет позже",
+      "ipa": "ðэй wɪл бɪл ю ˈлэйтəр",
+      "spell": "they will bill you later"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они спасут тебе жизнь",
+      "ipa": "ðэй wɪл сэйв йʊəр лайф",
+      "spell": "they will save your life"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кататься на лыжах",
+      "ipa": "ту ски",
+      "spell": "to ski"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сегодня день зарплаты",
+      "ipa": "тəˈдэй ɪз ˈпэйˌдэй",
+      "spell": "today is payday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы разбиваем лагерь в горах",
+      "ipa": "wи кæмп ɪн ðə ˈмаунтəнз",
+      "spell": "we camp in the mountains"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы должны что-то сделать",
+      "ipa": "wи hæв ту ду ˈсʌмθɪŋ",
+      "spell": "we have to do something"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы катаемся на лыжах",
+      "ipa": "wи ски",
+      "spell": "we ski"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там было много людей?",
+      "ipa": "wɜр ðэр ə лɑт ʌв ˈпипəл?",
+      "spell": "were there a lot of people?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "о чём?",
+      "ipa": "wɑт əˈбаут?",
+      "spell": "what about?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какая разница?",
+      "ipa": "wɑт ɪз ðə ˈдɪфəрəнс?",
+      "spell": "what is the difference?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в чем причина, фактор, условия?",
+      "ipa": "wʌтс ðə кɑз?",
+      "spell": "what’s the cause?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какая причина, резон, мотив?",
+      "ipa": "wʌтс ðə ˈризəн?",
+      "spell": "what’s the reason?"
+    }
+  ]
+}
