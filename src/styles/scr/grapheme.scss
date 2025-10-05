@@ -1,3 +1,11 @@
+@mixin eng-font {
+    // font-family: Georgia, 'Times New Roman', Times, serif;
+    // font-family: "Playwrite DE Grund Guides", sans-serif;
+    font-family: "EB Garamond", serif;
+    color: #a84822;
+    text-shadow: 1px 1px 2px #000000a6;
+}
+
 #grapheme {
 
     font-family: "Noto Sans", sans-serif;
@@ -21,48 +29,81 @@
         margin-right: 0.5em;
     }
 
+    .opr {
+
+        align-items: baseline;
+        display: flex;
+        line-height: 1;
+        margin-bottom: 0.5em;
+    }
+
     .xyz {
 
         // font-weight: 600;
         color: blue;
-        // font-family: Georgia, 'Times New Roman', Times, serif;
-        font-family: "Playwrite DE Grund Guides", sans-serif;
-        font-size: 2em;
+        font-size: 3em;
+
+
+        @include eng-font();
     }
+
+
 
     .abc {
         // background-color: pink;
-        // font-size: 2em;
-        padding: 0 0.5em;
+        font-size: 2em;
+
+        // padding: 0 0.5em;
+        &::before {
+            content: "/";
+            color: #db54d2;
+            ;
+        }
+
+        &::after {
+            content: "/";
+            color: #db54d2;
+        }
 
     }
 
     .fgh {
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        // font-style: italic;
-        // font-size: 3em;
+        font-family: "EB Garamond", serif;
+        font-style: italic;
+        font-size: 1.5em;
         color: rgb(38, 85, 195);
 
+        p {
+            line-height: 1;
+
+
+        }
+
         b {
-            color: black;
-            background-color: rgb(250, 236, 219);
-            border-bottom: 1px solid red;
-            border-right: 1px solid rgb(229, 89, 89);
-            // font-style: italic;
-            transform: translateY(-1px);
+
+            // border-bottom: 1px solid red;
+            // border-right: 1px solid rgb(229, 89, 89);
+            // background-color: rgb(250, 236, 219);
+            // color: #a84822;
+            color: crimson;
             display: inline-block;
-            padding: 1px 2px;
-            margin-right: 3px;
-            font-weight: 500;
+            font-style: normal;
+            // font-style: italic;
+            font-weight: 600;
+            line-height: 0.7;
+            // margin-right: 3px;
+            // padding: 1px 2px;
+            // transform: translateY(-1px);
         }
 
         i {
-            font-style: normal;
-            background-color: rgb(219, 234, 246);
-            border-bottom: 1px solid rgb(59, 137, 226);
-            border-right: 1px solid rgb(84, 135, 197);
-            padding: 1px 2px;
-            margin-right: 3px;
+            // border-bottom: 1px solid rgb(59, 137, 226);
+            // border-right: 1px solid rgb(84, 135, 197);
+            // font-style: normal;
+            // background-color: rgb(219, 234, 246);
+            // line-height: 0.7;
+            // margin-right: 3px;
+            // padding: 1px 2px;
         }
     }
 }

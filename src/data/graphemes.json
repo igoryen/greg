@@ -1,0 +1,932 @@
+{
+    "graphemes": [
+        {
+            "grapheme": "a",
+            "pronunciation": "æ",
+            "examples": [
+                "cat"
+            ]
+        },
+        {
+            "grapheme": "a_e",
+            "pronunciation": "eɪ",
+            "examples": [
+                "mate"
+            ]
+        },
+        {
+            "grapheme": "ae",
+            "pronunciation": "ɛ",
+            "examples": [
+                "aesthetic"
+            ]
+        },
+        {
+            "grapheme": "ai",
+            "pronunciation": "ɛ",
+            "examples": [
+                "said"
+            ]
+        },
+        {
+            "grapheme": "aigh",
+            "pronunciation": "eɪ",
+            "examples": [
+                "straight"
+            ]
+        },
+        {
+            "grapheme": "air",
+            "pronunciation": "ʧɛr",
+            "examples": [
+                "chair"
+            ]
+        },
+        {
+            "grapheme": "ar",
+            "pronunciation": "ər",
+            "examples": [
+                "dollar"
+            ]
+        },
+        {
+            "grapheme": "are",
+            "pronunciation": "ɛr",
+            "examples": [
+                "dare"
+            ]
+        },
+        {
+            "grapheme": "au",
+            "pronunciation": "æ",
+            "examples": [
+                "laugh"
+            ]
+        },
+        {
+            "grapheme": "a_ue",
+            "pronunciation": "eɪ",
+            "examples": [
+                "plague"
+            ]
+        },
+        {
+            "grapheme": "aw",
+            "pronunciation": "ɔ",
+            "examples": [
+                "slaw"
+            ]
+        },
+        {
+            "grapheme": "ay",
+            "pronunciation": "eɪ",
+            "examples": [
+                "pay"
+            ]
+        },
+        {
+            "grapheme": "ayer",
+            "pronunciation": "ɛr",
+            "examples": [
+                "prayer"
+            ]
+        },
+        {
+            "grapheme": "b",
+            "pronunciation": "b",
+            "examples": [
+                "bug"
+            ]
+        },
+        {
+            "grapheme": "bb",
+            "pronunciation": "b",
+            "examples": [
+                "bubble"
+            ]
+        },
+        {
+            "grapheme": "c",
+            "pronunciation": "k",
+            "examples": [
+                "cat"
+            ]
+        },
+        {
+            "grapheme": "cc",
+            "pronunciation": "ks",
+            "examples": [
+                "accent"
+            ]
+        },
+        {
+            "grapheme": "ce",
+            "pronunciation": "s",
+            "examples": [
+                "peace"
+            ]
+        },
+        {
+            "grapheme": "ch",
+            "pronunciation": "tʃ",
+            "examples": [
+                "chicken"
+            ]
+        },
+        {
+            "grapheme": "ch",
+            "pronunciation": "k",
+            "examples": [
+                "Chris"
+            ]
+        },
+        {
+            "grapheme": "ci",
+            "pronunciation": "ʃ",
+            "examples": [
+                "special"
+            ]
+        },
+        {
+            "grapheme": "ck",
+            "pronunciation": "k",
+            "examples": [
+                "rack"
+            ]
+        },
+        {
+            "grapheme": "d",
+            "pronunciation": "d",
+            "examples": [
+                "dad"
+            ]
+        },
+        {
+            "grapheme": "dd",
+            "pronunciation": "d",
+            "examples": [
+                "add"
+            ]
+        },
+        {
+            "grapheme": "dge",
+            "pronunciation": "ʤ",
+            "examples": [
+                "edge"
+            ]
+        },
+        {
+            "grapheme": "di",
+            "pronunciation": "ʤ",
+            "examples": [
+                "soldier"
+            ]
+        },
+        {
+            "grapheme": "e",
+            "pronunciation": "ɛ",
+            "examples": [
+                "end"
+            ]
+        },
+        {
+            "grapheme": "ea",
+            "pronunciation": "eɪ",
+            "examples": [
+                "break"
+            ]
+        },
+        {
+            "grapheme": "ea",
+            "pronunciation": "i",
+            "examples": [
+                "beat"
+            ]
+        },
+        {
+            "grapheme": "ea",
+            "pronunciation": "ɛ",
+            "examples": [
+                "bread"
+            ]
+        },
+        {
+            "grapheme": "ear",
+            "pronunciation": "pɛr",
+            "examples": [
+                "pear"
+            ]
+        },
+        {
+            "grapheme": "ed",
+            "pronunciation": "d",
+            "examples": [
+                "milled"
+            ]
+        },
+        {
+            "grapheme": "eer",
+            "pronunciation": "ɪr",
+            "examples": [
+                "steer"
+            ]
+        },
+        {
+            "grapheme": "ei",
+            "pronunciation": "ɛ",
+            "examples": [
+                "heifer"
+            ]
+        },
+        {
+            "grapheme": "eigh",
+            "pronunciation": "eɪ",
+            "examples": [
+                "weigh"
+            ]
+        },
+        {
+            "grapheme": "eir",
+            "pronunciation": "ɛr",
+            "examples": [
+                "their"
+            ]
+        },
+        {
+            "grapheme": "eo",
+            "pronunciation": "i",
+            "examples": [
+                "people"
+            ]
+        },
+        {
+            "grapheme": "er",
+            "pronunciation": "ər",
+            "examples": [
+                "foyer"
+            ]
+        },
+        {
+            "grapheme": "ere",
+            "pronunciation": "ɛr",
+            "examples": [
+                "where"
+            ]
+        },
+        {
+            "grapheme": "et",
+            "pronunciation": "eɪ",
+            "examples": [
+                "filet"
+            ]
+        },
+        {
+            "grapheme": "ew",
+            "pronunciation": "u",
+            "examples": [
+                "dew"
+            ]
+        },
+        {
+            "grapheme": "ey",
+            "pronunciation": "i",
+            "examples": [
+                "key"
+            ]
+        },
+        {
+            "grapheme": "f",
+            "pronunciation": "f",
+            "examples": [
+                "fat"
+            ]
+        },
+        {
+            "grapheme": "ff",
+            "pronunciation": "f",
+            "examples": [
+                "cliff"
+            ]
+        },
+        {
+            "grapheme": "ft",
+            "pronunciation": "f",
+            "examples": [
+                "often"
+            ]
+        },
+        {
+            "grapheme": "g",
+            "pronunciation": "g",
+            "examples": [
+                "gun"
+            ]
+        },
+        {
+            "grapheme": "ge",
+            "pronunciation": "ʤ",
+            "examples": [
+                "wage"
+            ]
+        },
+        {
+            "grapheme": "gg",
+            "pronunciation": "ɡ",
+            "examples": [
+                "egg"
+            ]
+        },
+        {
+            "grapheme": "gh",
+            "pronunciation": "ɡ",
+            "examples": [
+                "ghost"
+            ]
+        },
+        {
+            "grapheme": "gn",
+            "pronunciation": "n",
+            "examples": [
+                "gnat"
+            ]
+        },
+        {
+            "grapheme": "gu",
+            "pronunciation": "ɡ",
+            "examples": [
+                "guest"
+            ]
+        },
+        {
+            "grapheme": "gue",
+            "pronunciation": "ɡ",
+            "examples": [
+                "prologue"
+            ]
+        },
+        {
+            "grapheme": "h",
+            "pronunciation": "h",
+            "examples": [
+                "hope"
+            ]
+        },
+        {
+            "grapheme": "i",
+            "pronunciation": "ɪ",
+            "examples": [
+                "it"
+            ]
+        },
+        {
+            "grapheme": "ie",
+            "pronunciation": "i",
+            "examples": [
+                "grief"
+            ]
+        },
+        {
+            "grapheme": "ier",
+            "pronunciation": "ir",
+            "examples": [
+                "tier"
+            ]
+        },
+        {
+            "grapheme": "ir",
+            "pronunciation": "ɜr",
+            "examples": [
+                "bird"
+            ]
+        },
+        {
+            "grapheme": "j",
+            "pronunciation": "ʤ",
+            "examples": [
+                "jam"
+            ]
+        },
+        {
+            "grapheme": "k",
+            "pronunciation": "k",
+            "examples": [
+                "kit"
+            ]
+        },
+        {
+            "grapheme": "kn",
+            "pronunciation": "n",
+            "examples": [
+                "know"
+            ]
+        },
+        {
+            "grapheme": "l",
+            "pronunciation": "l",
+            "examples": [
+                "live"
+            ]
+        },
+        {
+            "grapheme": "lf",
+            "pronunciation": "f",
+            "examples": [
+                "half"
+            ]
+        },
+        {
+            "grapheme": "lk",
+            "pronunciation": "k",
+            "examples": [
+                "folk"
+            ]
+        },
+        {
+            "grapheme": "ll",
+            "pronunciation": "l",
+            "examples": [
+                "well"
+            ]
+        },
+        {
+            "grapheme": "lm",
+            "pronunciation": "m",
+            "examples": [
+                "palm"
+            ]
+        },
+        {
+            "grapheme": "m",
+            "pronunciation": "m",
+            "examples": [
+                "man"
+            ]
+        },
+        {
+            "grapheme": "mb",
+            "pronunciation": "m",
+            "examples": [
+                "comb"
+            ]
+        },
+        {
+            "grapheme": "mm",
+            "pronunciation": "m",
+            "examples": [
+                "summer"
+            ]
+        },
+        {
+            "grapheme": "mn",
+            "pronunciation": "m",
+            "examples": [
+                "column"
+            ]
+        },
+        {
+            "grapheme": "n",
+            "pronunciation": "n",
+            "examples": [
+                "net"
+            ]
+        },
+        {
+            "grapheme": "ng",
+            "pronunciation": "ŋ",
+            "examples": [
+                "ring"
+            ]
+        },
+        {
+            "grapheme": "ngue",
+            "pronunciation": "ŋ",
+            "examples": [
+                "tongue"
+            ]
+        },
+        {
+            "grapheme": "nn",
+            "pronunciation": "n",
+            "examples": [
+                "funny"
+            ]
+        },
+        {
+            "grapheme": "o",
+            "pronunciation": "oʊ",
+            "examples": [
+                "open"
+            ]
+        },
+        {
+            "grapheme": "o",
+            "pronunciation": "u",
+            "examples": [
+                "who",
+                "to",
+                "do"
+            ]
+        },
+        {
+            "grapheme": "o",
+            "pronunciation": "ʌ",
+            "examples": [
+                "son",
+                "Monday",
+                "company",
+                "love",
+                "glove"
+            ]
+        },
+        {
+            "grapheme": "oa",
+            "pronunciation": "oʊ",
+            "examples": [
+                "moat",
+                "boat",
+                "coat"
+            ]
+        },
+        {
+            "grapheme": "oar",
+            "pronunciation": "ɔr",
+            "examples": [
+                "board"
+            ]
+        },
+        {
+            "grapheme": "oe",
+            "pronunciation": "oʊ",
+            "examples": [
+                "toe"
+            ]
+        },
+        {
+            "grapheme": "oi",
+            "pronunciation": "ɔɪ",
+            "examples": [
+                "join"
+            ]
+        },
+        {
+            "grapheme": "oo",
+            "pronunciation": "u",
+            "examples": [
+                "brooch"
+            ]
+        },
+        {
+            "grapheme": "oor",
+            "pronunciation": "ʊr",
+            "examples": [
+                "poor"
+            ]
+        },
+        {
+            "grapheme": "or",
+            "pronunciation": "ɔr",
+            "examples": [
+                "fork"
+            ]
+        },
+        {
+            "grapheme": "ore",
+            "pronunciation": "ɔr",
+            "examples": [
+                "fore"
+            ]
+        },
+        {
+            "grapheme": "ou",
+            "pronunciation": "aʊ",
+            "examples": [
+                "shout"
+            ]
+        },
+        {
+            "grapheme": "o_ue",
+            "pronunciation": "oʊ",
+            "examples": [
+                "rogue",
+                "vogue",
+                "brogue"
+            ]
+        },
+        {
+            "grapheme": "ough",
+            "pronunciation": "aʊ",
+            "examples": [
+                "bough"
+            ]
+        },
+        {
+            "grapheme": "ough",
+            "pronunciation": "ʌf",
+            "examples": [
+                "tough"
+            ]
+        },
+        {
+            "grapheme": "our",
+            "pronunciation": "ʊr",
+            "examples": [
+                "tourist"
+            ]
+        },
+        {
+            "grapheme": "ow",
+            "pronunciation": "aʊ",
+            "examples": [
+                "owl"
+            ]
+        },
+        {
+            "grapheme": "ow",
+            "pronunciation": "oʊ",
+            "examples": [
+                "sow"
+            ]
+        },
+        {
+            "grapheme": "oy",
+            "pronunciation": "ɔɪ",
+            "examples": [
+                "boy"
+            ]
+        },
+        {
+            "grapheme": "p",
+            "pronunciation": "p",
+            "examples": [
+                "pin"
+            ]
+        },
+        {
+            "grapheme": "ph",
+            "pronunciation": "f",
+            "examples": [
+                "phone"
+            ]
+        },
+        {
+            "grapheme": "pn",
+            "pronunciation": "n",
+            "examples": [
+                "pneumonia"
+            ]
+        },
+        {
+            "grapheme": "pp",
+            "pronunciation": "p",
+            "examples": [
+                "dippy"
+            ]
+        },
+        {
+            "grapheme": "ps",
+            "pronunciation": "s",
+            "examples": [
+                "psycho"
+            ]
+        },
+        {
+            "grapheme": "qu",
+            "pronunciation": "k",
+            "examples": [
+                "bouquet"
+            ]
+        },
+        {
+            "grapheme": "r",
+            "pronunciation": "r",
+            "examples": [
+                "run"
+            ]
+        },
+        {
+            "grapheme": "rh",
+            "pronunciation": "r",
+            "examples": [
+                "rhyme"
+            ]
+        },
+        {
+            "grapheme": "rr",
+            "pronunciation": "r",
+            "examples": [
+                "carrot"
+            ]
+        },
+        {
+            "grapheme": "s",
+            "pronunciation": "sɪt",
+            "examples": [
+                "sit"
+            ]
+        },
+        {
+            "grapheme": "sc",
+            "pronunciation": "s",
+            "examples": [
+                "sense"
+            ]
+        },
+        {
+            "grapheme": "sci",
+            "pronunciation": "ʃ",
+            "examples": [
+                "conscience"
+            ]
+        },
+        {
+            "grapheme": "se",
+            "pronunciation": "s",
+            "examples": [
+                "course"
+            ]
+        },
+        {
+            "grapheme": "sh",
+            "pronunciation": "ʃ",
+            "examples": [
+                "sham"
+            ]
+        },
+        {
+            "grapheme": "si",
+            "pronunciation": "ʃ",
+            "examples": [
+                "pension"
+            ]
+        },
+        {
+            "grapheme": "ss",
+            "pronunciation": "s",
+            "examples": [
+                "less"
+            ]
+        },
+        {
+            "grapheme": "st",
+            "pronunciation": "s",
+            "examples": [
+                "listen"
+            ]
+        },
+        {
+            "grapheme": "t",
+            "pronunciation": "t",
+            "examples": [
+                "tip"
+            ]
+        },
+        {
+            "grapheme": "th",
+            "pronunciation": "t",
+            "examples": [
+                "thomas"
+            ]
+        },
+        {
+            "grapheme": "ti",
+            "pronunciation": "ʃ",
+            "examples": [
+                "station"
+            ]
+        },
+        {
+            "grapheme": "tt",
+            "pronunciation": "t",
+            "examples": [
+                "matter"
+            ]
+        },
+        {
+            "grapheme": "u",
+            "pronunciation": "ɪ",
+            "examples": [
+                "busy"
+            ]
+        },
+        {
+            "grapheme": "u_e",
+            "pronunciation": "u",
+            "examples": [
+                "flute"
+            ]
+        },
+        {
+            "grapheme": "ue",
+            "pronunciation": "blu",
+            "examples": [
+                "blue"
+            ]
+        },
+        {
+            "grapheme": "ui",
+            "pronunciation": "frut",
+            "examples": [
+                "fruit"
+            ]
+        },
+        {
+            "grapheme": "uoy",
+            "pronunciation": "ˈbui",
+            "examples": [
+                "buoy"
+            ]
+        },
+        {
+            "grapheme": "ur",
+            "pronunciation": "bɜrn",
+            "examples": [
+                "burn"
+            ]
+        },
+        {
+            "grapheme": "ure",
+            "pronunciation": "kjʊr",
+            "examples": [
+                "cure"
+            ]
+        },
+        {
+            "grapheme": "v",
+            "pronunciation": "vaɪn",
+            "examples": [
+                "vine"
+            ]
+        },
+        {
+            "grapheme": "ve",
+            "pronunciation": "faɪv",
+            "examples": [
+                "five"
+            ]
+        },
+        {
+            "grapheme": "wh",
+            "pronunciation": "h",
+            "examples": [
+                "who"
+            ]
+        },
+        {
+            "grapheme": "wh",
+            "pronunciation": "w",
+            "examples": [
+                "why"
+            ]
+        },
+        {
+            "grapheme": "wr",
+            "pronunciation": "r",
+            "examples": [
+                "wrench"
+            ]
+        },
+        {
+            "grapheme": "x",
+            "pronunciation": "z",
+            "examples": [
+                "xylophone"
+            ]
+        },
+        {
+            "grapheme": "y",
+            "pronunciation": "j",
+            "examples": [
+                "you"
+            ]
+        },
+        {
+            "grapheme": "yr",
+            "pronunciation": "ɜr",
+            "examples": [
+                "myrtle"
+            ]
+        },
+        {
+            "grapheme": "z",
+            "pronunciation": "z",
+            "examples": [
+                "zed",
+                "craze"
+            ]
+        },
+        {
+            "grapheme": "z",
+            "pronunciation": "z",
+            "examples": [
+                "craze"
+            ]
+        },
+        {
+            "grapheme": "zz",
+            "pronunciation": "z",
+            "examples": [
+                "buzz"
+            ]
+        }
+    ]
+}
