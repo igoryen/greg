@@ -1,0 +1,387 @@
+{
+  "student": "Galja P.",
+  "slug": "gp",
+  "period": "week",
+  "number": 39,
+  "date": "2025-09-24",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "брауні",
+      "ipa": "ə ˈбрауні",
+      "spell": "a brownie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сирний сендвіч",
+      "ipa": "ə чіз ˈсæндwич",
+      "spell": "a cheese sandwich"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "безбарвний звук",
+      "ipa": "ə ˈкʌлəрлəс саунд",
+      "spell": "a colorless sound"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дідусь",
+      "ipa": "ə ˈґрæндˌфɑðəр",
+      "spell": "a grandfather"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бабуся",
+      "ipa": "ə ˈґрæндˌмʌðəр",
+      "spell": "a grandmother"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мінеральна вода",
+      "ipa": "ə ˈминəрəл ˈwɔтəр",
+      "spell": "a mineral water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "випічка",
+      "ipa": "ə ˈпейстрі",
+      "spell": "a pastry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дивовижна дочка",
+      "ipa": "əн ˈɑсəм ˈдɔтəр",
+      "spell": "an awesome daughter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ненаголошений склад",
+      "ipa": "əн ʌнˈстрест ˈсилəбəл",
+      "spell": "an unstressed syllable"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Чудово!",
+      "ipa": "ˈɑсəм!",
+      "spell": "awesome!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хлопчик – хлопчики",
+      "ipa": "бой – бойз",
+      "spell": "boy – boys"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дівчинка – дівчинки",
+      "ipa": "ґɜрл – ґɜрлз",
+      "spell": "girl – girls"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Чудова ідея!",
+      "ipa": "ґрейт айˈдіə!",
+      "spell": "Great idea!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Чудово!",
+      "ipa": "ґрейт!",
+      "spell": "Great!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він буде злий",
+      "ipa": "hіз ˈґɑнə бі мæд",
+      "spell": "he's gonna be mad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він не буде щасливий",
+      "ipa": "hіз нɑт ˈґɑнə бі ˈhæпі",
+      "spell": "he's not gonna be happy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я внизу",
+      "ipa": "ай æм ˈдаунˈстерз",
+      "spell": "I am downstairs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я буду вдома",
+      "ipa": "ай æм ˈґɑнə бі hоум",
+      "spell": "I am gonna be home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я нагорі",
+      "ipa": "ай æм əпˈстерз",
+      "spell": "I am upstairs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я піднімаюся",
+      "ipa": "ай ґоу ʌп",
+      "spell": "I go up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я піднімаюся нагору",
+      "ipa": "ай ґоу əпˈстерз",
+      "spell": "I go upstairs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я п'ю капучіно",
+      "ipa": "ай hæv ə ˌкæˌпуˈчіноу",
+      "spell": "I have a cappuccino"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я буду вдома",
+      "ipa": "ай wил бі hоум",
+      "spell": "I will be home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я піднімуся нагору",
+      "ipa": "ай wил ґоу əпˈстерз",
+      "spell": "I will go upstairs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я це пам'ятатиму",
+      "ipa": "ай wил hæv ðæт ин майнд",
+      "spell": "I will have that in mind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я буду там",
+      "ipa": "айм ˈґɑнə бі ðер",
+      "spell": "I'm gonna be there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я це зроблю",
+      "ipa": "айм ˈґɑнə ду ит",
+      "spell": "I'm gonna do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я це зроблю",
+      "ipa": "айм ˈґɑнə ду ит",
+      "spell": "I'm gonna do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я повинен це зробити",
+      "ipa": "айv ˈґɑтə ду ит",
+      "spell": "I've gotta do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в найближчому майбутньому",
+      "ipa": "ин ðə нир ˈф’ючəр",
+      "spell": "in the near future"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це коштує п'ять доларів",
+      "ipa": "ит из файv ˈдɑлəрз",
+      "spell": "it is five dollars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це дуже поширено",
+      "ipa": "ит из ˈvері ˈкɑмəн",
+      "spell": "it is very common"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це буде огляд",
+      "ipa": "итс ˈґɑнə бі ə ˌріˈв’ю",
+      "spell": "it's gonna be a review"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це буде чудово",
+      "ipa": "итс ˈґɑнə бі ґрейт",
+      "spell": "it's gonna be great"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мінеральна вода",
+      "ipa": "ˈминəрəл ˈwɔтəр",
+      "spell": "mineral water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мати, син, брат",
+      "ipa": "ˈмʌðəр, сʌн, ˈбрʌðəр",
+      "spell": "mother, son, brother"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя мати і батько",
+      "ipa": "май ˈмʌðəр æнд ˈфɑðəр",
+      "spell": "my mother and father"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у великому масштабі",
+      "ipa": "ɑн ə лɑрдж скейл",
+      "spell": "on a large scale"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сестра",
+      "ipa": "ˈсистəр",
+      "spell": "sister"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Звісно!",
+      "ipa": "шʊр!",
+      "spell": "Sure!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дівчина зліва",
+      "ipa": "ðə ґɜрл ɑн ðə лефт",
+      "spell": "the girl on the left"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дівчина справа",
+      "ipa": "ðə ґɜрл ɑн ðə райт",
+      "spell": "the girl on the right"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "загальна сума - десять доларів",
+      "ipa": "ðə ˈтоутəл из тен ˈдɑлəрз",
+      "spell": "the total is ten dollars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони будуть тут",
+      "ipa": "ðер ˈґɑнə бі hір",
+      "spell": "they're gonna be here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "салат з тунцем",
+      "ipa": "ˈтунə ˈсæлəд",
+      "spell": "tuna salad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми будемо працювати разом",
+      "ipa": "wір ˈґɑнə wɜрк тəˈґеðəр",
+      "spell": "we're gonna work together"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "а як щодо Емі?",
+      "ipa": "wɑт əˈбаут ˈеймі?",
+      "spell": "what about Amy?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що у них є?",
+      "ipa": "wɑт ду ðей hæv?",
+      "spell": "what do they have?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коли вона буде вдома?",
+      "ipa": "wен из ші ˈґɑнə бі hоум?",
+      "spell": "when is she gonna be home?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де твої батьки?",
+      "ipa": "wер ɑр йʊəр ˈперəнтс?",
+      "spell": "where are your parents?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жінка - жінки",
+      "ipa": "ˈwʊмəн - ˈwимəн",
+      "spell": "woman - women"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти чудовий!",
+      "ipa": "ю ɑр ˈɑсəм!",
+      "spell": "you are awesome!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти молодець!",
+      "ipa": "ю ɑр ґʊд!",
+      "spell": "you are good!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з тобою все буде добре",
+      "ipa": "йʊр ˈґɑнə бі ˈоуˈкей",
+      "spell": "you're gonna be ok"
+    }
+  ]
+}
