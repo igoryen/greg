@@ -1,0 +1,457 @@
+{
+  "student": "Ruslan P.",
+  "slug": "rp",
+  "period": "week",
+  "number": 40,
+  "date": "2025-10-05",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "таблица, диаграмма",
+      "ipa": "ə чɑрт",
+      "spell": "a chart"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колонка, столбец",
+      "ipa": "ə ˈкɑлəм",
+      "spell": "a column"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "компьютер",
+      "ipa": "ə кəмˈпъютəр",
+      "spell": "a computer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "согласный (звук)",
+      "ipa": "ə ˈкɑнсəнəнт",
+      "spell": "a consonant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "буква",
+      "ipa": "ə ˈлэтəр",
+      "spell": "a letter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "немножко",
+      "ipa": "ə ˈлɪтəл бɪт",
+      "spell": "a little bit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "звук",
+      "ipa": "ə саунд",
+      "spell": "a sound"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "третья машина",
+      "ipa": "ə θɜрд кɑр",
+      "spell": "a third car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гласный (звук)",
+      "ipa": "ə ˈвауəл",
+      "spell": "a vowel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Африка",
+      "ipa": "ˈæфрəкə",
+      "spell": "Africa"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня показывают по телевизору?",
+      "ipa": "æм ай ɑн ˈтиˈви?",
+      "spell": "am I on TV?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "интервью",
+      "ipa": "əн ˈɪнтəрˌвъю",
+      "spell": "an interview"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "находимся ли мы в Канаде?",
+      "ipa": "ɑр wи ɪн ˈкæнəдə?",
+      "spell": "are we in Canada?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "находимся ли мы в Северной Америке",
+      "ipa": "ɑр wи ɪн норθ əˈмэрəкə?",
+      "spell": "are we in North America?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "находимся ли мы в Торонто?",
+      "ipa": "ɑр wи ɪн тəˈрɑнтоу?",
+      "spell": "are we in Toronto?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "аргентинский",
+      "ipa": "ˌɑрджəнˈтɪниəн",
+      "spell": "Argentinian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Азия",
+      "ipa": "ˈэйжə",
+      "spell": "Asia"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "азиатский",
+      "ipa": "ˈэйжəн",
+      "spell": "Asian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на Олимпиаде",
+      "ipa": "æт ðи оуˈлɪмпɪкс",
+      "spell": "at the Olympics"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Австралия",
+      "ipa": "ɔˈстрэйлйə",
+      "spell": "Australia"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "австралийский",
+      "ipa": "ɔˈстрэйлйəн",
+      "spell": "Australian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бразильский",
+      "ipa": "брəˈзɪлйəн",
+      "spell": "Brazilian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Китай",
+      "ipa": "ˈчайнə",
+      "spell": "China"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "китайский",
+      "ipa": "чайˈниз",
+      "spell": "Chinese"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чешский",
+      "ipa": "чэк",
+      "spell": "Czech"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "египетский",
+      "ipa": "ɪˈджɪпшəн",
+      "spell": "Egyptian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Европа",
+      "ipa": "ˈйʊрəп",
+      "spell": "Europe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "европейский",
+      "ipa": "ˌйʊрəˈпиəн",
+      "spell": "European"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "французский",
+      "ipa": "фрэнч",
+      "spell": "French"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "немецкий",
+      "ipa": "ˈджɜрмəн",
+      "spell": "German"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "удачи вашей команде!",
+      "ipa": "гʊд лʌк ту йʊəр тим!",
+      "spell": "good luck to your team!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он находится в комнате",
+      "ipa": "hи ɪз ɪн ðə рум",
+      "spell": "he is in the room"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он таиландец",
+      "ipa": "hи ɪз тай",
+      "spell": "he is Thai"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он разыскивает шестёрку",
+      "ipa": "hи сикс ə сɪкс",
+      "spell": "he seeks a six"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я являюсь канадским",
+      "ipa": "ай æм кəˈнэйдиəн",
+      "spell": "I am Canadian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я умею говорить по-чешски",
+      "ipa": "ай кæн спик чэк",
+      "spell": "I can speak Czech"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я знаю не всех их",
+      "ipa": "ай доунт ноу ɔл ʌв ðэм",
+      "spell": "I don’t know all of them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я мало что помню",
+      "ipa": "ай доунт рɪˈмэмбəр мʌч",
+      "spell": "I don’t remember much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я называю континенты",
+      "ipa": "ай нэйм ðə ˈкɑнтəнəнтс",
+      "spell": "I name the continents"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я играю в баскетбол",
+      "ipa": "ай плэй ˈбæскəтˌбɔл",
+      "spell": "I play basketball"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу это дома",
+      "ipa": "ай wэр ɪт æт hоум",
+      "spell": "I wear it at home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в Северной Америке",
+      "ipa": "ɪн норθ əˈмэрəкə",
+      "spell": "in North America"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в Южной Америке",
+      "ipa": "ɪн сауθ əˈмэрəкə",
+      "spell": "in South America"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на юге",
+      "ipa": "ɪн ðə сауθ",
+      "spell": "in the south"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ирландия",
+      "ipa": "ˈайəрлəнд",
+      "spell": "Ireland"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ирландский",
+      "ipa": "ˈайрɪш",
+      "spell": "Irish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это рядом с Торонто?",
+      "ipa": "ɪз ɪт нɪр тəˈрɑнтоу?",
+      "spell": "is it near Toronto?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно находится на севере",
+      "ipa": "ɪтс норθ",
+      "spell": "it's north"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "японский",
+      "ipa": "ˌджæпəˈниз",
+      "spell": "Japanese"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мексиканский",
+      "ipa": "ˈмэксəкəн",
+      "spell": "Mexican"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Мексика",
+      "ipa": "ˈмэксəˌкоу",
+      "spell": "Mexico"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перуанский",
+      "ipa": "пəˈрувиəн",
+      "spell": "Peruvian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Испания",
+      "ipa": "спэйн",
+      "spell": "Spain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "испанский",
+      "ipa": "ˈспæнɪш",
+      "spell": "Spanish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "правописание",
+      "ipa": "ˈспэлɪŋ",
+      "spell": "spelling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "технологии",
+      "ipa": "тэкˈнɑлəджи",
+      "spell": "technology"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Таиланд",
+      "ipa": "ˈтайˌлæнд",
+      "spell": "Thailand"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спасибо!",
+      "ipa": "θæŋкс!",
+      "spell": "thanks!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "четверг",
+      "ipa": "ˈθɜрзˌдэй",
+      "spell": "Thursday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Турция",
+      "ipa": "ˈтɜрки",
+      "spell": "Turkey"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "турецкий",
+      "ipa": "ˈтɜркɪш",
+      "spell": "Turkish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вьетнамский",
+      "ipa": "вьетнɑˈмиз",
+      "spell": "Vietnamese"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как называется эта страна по-английски?",
+      "ipa": "wɑт ɪз ðɪс ˈкʌнтри ɪн ˈɪŋглɪш?",
+      "spell": "what is this country in English?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какой национальности этот флаг?",
+      "ipa": "wɑт ˌнæшəˈнæлəти ɪз ðɪс флæг?",
+      "spell": "what nationality is this flag?"
+    }
+  ]
+}
