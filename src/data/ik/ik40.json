@@ -1,0 +1,828 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 40,
+  "date": "2025-10-05",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "завтрак",
+      "ipa": "ə ˈбрэкфəст",
+      "spell": "a breakfast"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цирк",
+      "ipa": "ə ˈсɜркəс",
+      "spell": "a circus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "круассан, французский рогалик",
+      "ipa": "ə ˌкwɑˈсɑнт",
+      "spell": "a croissant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ужин",
+      "ipa": "ə ˈдɪнəр",
+      "spell": "a dinner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зелёная галочка",
+      "ipa": "ə грин чэк мɑрк",
+      "spell": "a green check mark"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спортзал",
+      "ipa": "ə джɪм",
+      "spell": "a gym"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "привычка",
+      "ipa": "ə ˈhæбəт",
+      "spell": "a habit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "долгое время",
+      "ipa": "ə лɔŋ тайм",
+      "spell": "a long time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много",
+      "ipa": "ə лɑт ʌв",
+      "spell": "a lot of"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много фруктов",
+      "ipa": "ə лɑт ʌв фрут",
+      "spell": "a lot of fruit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "много денег",
+      "ipa": "ə лɑт ʌв ˈмʌни",
+      "spell": "a lot of money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обед",
+      "ipa": "ə лʌнч",
+      "spell": "a lunch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приём пищи",
+      "ipa": "ə мил",
+      "spell": "a meal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кусок тоста",
+      "ipa": "ə пис ʌв тоуст",
+      "spell": "a piece of toast"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нынешняя привычка",
+      "ipa": "ə ˈпрэзəнт ˈhæбəт",
+      "spell": "a present habit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "красный крест",
+      "ipa": "ə рэд крɔс",
+      "spell": "a red cross"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "овощ",
+      "ipa": "ə ˈвэджтəбəл",
+      "spell": "a vegetable"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "после обеда",
+      "ipa": "ˈæфтəр лʌнч",
+      "spell": "after lunch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё, что у меня есть в холодильнике",
+      "ipa": "ɔл ай hæв ɪн ðə фрɪдж",
+      "spell": "all I have in the fridge"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всегда",
+      "ipa": "ˈɔлˌwэйз",
+      "spell": "always"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "американцы",
+      "ipa": "əˈмэрəкəн ˈпипəл",
+      "spell": "American people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в столовой",
+      "ipa": "æт ə ˌкæфəˈтɪриə",
+      "spell": "at a cafeteria"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в ресторане",
+      "ipa": "æт ə ˈрэстəˌрɑнт",
+      "spell": "at a restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "примерно в десять утра",
+      "ipa": "æт əˈбаут тэн эй.эм.",
+      "spell": "at about ten a.m."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дома",
+      "ipa": "æт hоум",
+      "spell": "at home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "во время обеда",
+      "ipa": "æт лʌнч тайм",
+      "spell": "at lunch time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в начале дня",
+      "ipa": "æт ðə бɪˈгɪнɪŋ ʌв ðə дэй",
+      "spell": "at the beginning of the day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хлеб с маслом",
+      "ipa": "брэд æнд ˈбʌтəр",
+      "spell": "bread and butter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "разные вещи",
+      "ipa": "ˈдɪфəрəнт θɪŋз",
+      "spell": "different things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тебе оно нравится?",
+      "ipa": "ду ю лайк ɪт?",
+      "spell": "do you like it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в течение дня",
+      "ipa": "ˈдʊрɪŋ ðə дэй",
+      "spell": "during the day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "молодец!",
+      "ipa": "гʊд фор ю!",
+      "spell": "good for you!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "здоровая еда",
+      "ipa": "ˈhэлθи фуд",
+      "spell": "healthy food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "честно",
+      "ipa": "ˈɑнəстли",
+      "spell": "honestly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "горячее молоко",
+      "ipa": "hɑт мɪлк",
+      "spell": "hot milk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько приёмов пищи у нас бывает?",
+      "ipa": "hау ˈмэни милз ду wи hæв?",
+      "spell": "how many meals do we have?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как?",
+      "ipa": "hау?",
+      "spell": "how?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тогда всегда голоден",
+      "ipa": "ай æм ˈɔлˌwэйз ˈhʌŋгри ðэн",
+      "spell": "I am always hungry then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я здоровый",
+      "ipa": "ай æм ˈhэлθи",
+      "spell": "I am healthy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не голоден",
+      "ipa": "ай æм нɑт ˈhʌŋгри",
+      "spell": "I am not hungry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не ем по утрам",
+      "ipa": "ай доунт ит ɪн ðə ˈморнɪŋ",
+      "spell": "I don't eat in the morning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не ем мясо",
+      "ipa": "ай доунт ит мит",
+      "spell": "I don't eat meat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не хожу в рестораны",
+      "ipa": "ай доунт гоу ту ˈрэстəˌрɑнтс",
+      "spell": "I don't go to restaurants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня нет денег",
+      "ipa": "ай доунт hæв ˈмʌни",
+      "spell": "I don't have money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня нет времени",
+      "ipa": "ай доунт hæв тайм",
+      "spell": "I don't have time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не люблю колу",
+      "ipa": "ай доунт лайк коук",
+      "spell": "I don't like coke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне оно не нравится",
+      "ipa": "ай доунт лайк ɪт",
+      "spell": "I don’t like it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ем",
+      "ipa": "ай ит",
+      "spell": "I eat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ем меньше",
+      "ipa": "ай ит лэс",
+      "spell": "I eat less"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю круассан",
+      "ipa": "ай hæв ə ˌкwɑˈсɑнт",
+      "spell": "I have a croissant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю яйцо",
+      "ipa": "ай hæв əн эг",
+      "spell": "I have an egg"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю свекольник",
+      "ipa": "ай hæв бит суп",
+      "spell": "I have beet soup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю борщ",
+      "ipa": "ай hæв бɔршт",
+      "spell": "I have borscht"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я завтракаю дома",
+      "ipa": "ай hæв ˈбрэкфəст æт hоум",
+      "spell": "I have breakfast at home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я выпиваю кофе",
+      "ipa": "ай hæв ˈкɑфи",
+      "spell": "I have coffee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю рыбу",
+      "ipa": "ай hæв фɪш",
+      "spell": "I have fish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю фрукты",
+      "ipa": "ай hæв фрут",
+      "spell": "I have fruit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я выпиваю горячий шоколад",
+      "ipa": "ай hæв hɑт ˈчɔклəт",
+      "spell": "I have hot chocolate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я обедаю рано",
+      "ipa": "ай hæв лʌнч ˈɜрли",
+      "spell": "I have lunch early"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю тост",
+      "ipa": "ай hæв тоуст",
+      "spell": "I have toast"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я съедаю йогурт",
+      "ipa": "ай hæв ˈйоугəрт",
+      "spell": "I have yogurt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится",
+      "ipa": "ай лайк ɪт",
+      "spell": "I like it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне очень нравится борщ",
+      "ipa": "ай ˈрɪли лайк боршт",
+      "spell": "I really like borscht"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сплю",
+      "ipa": "ай слип",
+      "spell": "I sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я обычно обедаю с друзьями",
+      "ipa": "ай ˈюжəwəли hæв лʌнч wɪð май фрэндз",
+      "spell": "I usually have lunch with my friends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я работаю",
+      "ipa": "ай wɜрк",
+      "spell": "I work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я работаю из дома",
+      "ipa": "ай wɜрк фрʌм hоум",
+      "spell": "I work from home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если",
+      "ipa": "ɪф",
+      "spell": "if"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если я в ресторане",
+      "ipa": "ɪф айм æт ə ˈрэстəˌрɑнт",
+      "spell": "if I'm at a restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "важный",
+      "ipa": "ɪмˈпортəнт",
+      "spell": "important"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вечером",
+      "ipa": "ɪн ðи ˈивнɪŋ",
+      "spell": "in the evening"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно полезно для тебя",
+      "ipa": "ɪт ɪз гʊд фор ю",
+      "spell": "it is good for you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно полезное",
+      "ipa": "ɪт ɪз ˈhэлθи",
+      "spell": "it is healthy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно важное",
+      "ipa": "ɪт ɪз ɪмˈпортəнт",
+      "spell": "it is important"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно не горячее",
+      "ipa": "ɪт ɪз нɑт hɑт",
+      "spell": "it is not hot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно совсем не горячее",
+      "ipa": "ɪт ɪз нɑт hɑт æт ɔл",
+      "spell": "it is not hot at all"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не важно",
+      "ipa": "ɪт ɪз нɑт ɪмˈпортəнт",
+      "spell": "it is not important"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это совсем не важно",
+      "ipa": "ɪт ɪз нɑт ɪмˈпортəнт æт ɔл",
+      "spell": "it is not important at all"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это очень важно",
+      "ipa": "ɪт ɪз ˈвэри ɪмˈпортəнт",
+      "spell": "it is very important"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не полезно для меня",
+      "ipa": "ɪт ˈɪзəнт гʊд фор ми",
+      "spell": "it isn't good for me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "японцы",
+      "ipa": "ˌджæпəˈниз ˈпипəл",
+      "spell": "Japanese people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прямо как ты",
+      "ipa": "джʌст лайк ю",
+      "spell": "just like you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя любимая машина",
+      "ipa": "май ˈфэйвəрɪт кɑр",
+      "spell": "my favorite car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя любимая еда",
+      "ipa": "май ˈфэйвəрɪт мил",
+      "spell": "my favorite meal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой любимый приём пищи за день",
+      "ipa": "май ˈфэйвəрɪт мил ʌв ðə дэй",
+      "spell": "my favorite meal of the day"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы с друзьями",
+      "ipa": "май фрэндз æнд ай",
+      "spell": "my friends and I"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рядом с моим домом",
+      "ipa": "нɪр май hаус",
+      "spell": "near my house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там рядом",
+      "ipa": "нɪр ðэр",
+      "spell": "near there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "капец!",
+      "ipa": "оу, крæп!",
+      "spell": "oh, crap!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "другие говорят",
+      "ipa": "ˈʌðəрз сэй",
+      "spell": "others say"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плюс и минус",
+      "ipa": "плʌс æнд ˈмайнəс",
+      "spell": "plus and minus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "русские",
+      "ipa": "ˈрʌшəн ˈпипəл",
+      "spell": "Russian people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "некоторые думают",
+      "ipa": "сʌм θɪŋк",
+      "spell": "some think"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сахар",
+      "ipa": "ˈщʊгəр",
+      "spell": "sugar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "десять лет",
+      "ipa": "тэн йɪрз",
+      "spell": "ten years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отстой",
+      "ipa": "ðæт сʌкс",
+      "spell": "that sucks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это хорошо",
+      "ipa": "ðæтс ə гʊд θɪŋ",
+      "spell": "that's a good thing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "центр",
+      "ipa": "ðə ˈсэнтəр",
+      "spell": "the center"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "послезавтра",
+      "ipa": "ðə дэй ˈæфтəр тəˈмɑˌроу",
+      "spell": "the day after tomorrow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "погода хорошая",
+      "ipa": "ðə ˈwэðəр ɪз найс",
+      "spell": "the weather is nice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там",
+      "ipa": "ðэр",
+      "spell": "there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они очень дорогие",
+      "ipa": "ðэй ɑр ˈвэри ɪкˈспэнсɪв",
+      "spell": "they are very expensive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они едят много рыбы",
+      "ipa": "ðэй hæв ə лɑт ʌв фɪш",
+      "spell": "they have a lot of fish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они любят шоколад",
+      "ipa": "ðэй лайк ˈчɔклəт",
+      "spell": "they like chocolate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вещи, которые мы обычно делаем",
+      "ipa": "θɪŋз wи ˈюжəли ду",
+      "spell": "things we usually do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обычно",
+      "ipa": "ˈюжəwəли",
+      "spell": "usually"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы съедаем рыбу",
+      "ipa": "wи hæв фɪш",
+      "spell": "we have fish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы съедаем рис",
+      "ipa": "wи hæв райс",
+      "spell": "we have rice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы съедаем суп",
+      "ipa": "wи hæв суп",
+      "spell": "we have soup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы говорим о тебе",
+      "ipa": "wи тɔк əˈбаут ю",
+      "spell": "we talk about you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что ещё?",
+      "ipa": "wɑт элс?",
+      "spell": "what else?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что?",
+      "ipa": "wɑт?",
+      "spell": "what?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда?",
+      "ipa": "wэн?",
+      "spell": "when?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где?",
+      "ipa": "wэр?",
+      "spell": "where?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почему?",
+      "ipa": "wай?",
+      "spell": "why?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с горячим молоком",
+      "ipa": "wɪð hɑт мɪлк",
+      "spell": "with hot milk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты ешь мясо",
+      "ipa": "ю ит мит",
+      "spell": "you eat meat"
+    }
+  ]
+}
