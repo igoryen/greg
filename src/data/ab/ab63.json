@@ -5,985 +5,985 @@
   "number": 38,
   "date": "2025-09-21",
   "words": [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "база, основа",
-   "ipa": "ə ˈбэйсəс",
-   "spell": "a basis"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "лагерь",
-   "ipa": "ə кæмп",
-   "spell": "a camp"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "незнакомец",
-   "ipa": "ə ˈстрэйнджəр",
-   "spell": "a stranger"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "одна, сама по себе",
-   "ipa": "əˈлоун",
-   "spell": "alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хотя",
-   "ipa": "ˌɔлˈðоу",
-   "spell": "although"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на вечеринках",
-   "ipa": "æт ˈпɑртиз",
-   "spell": "at parties"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "основной, самый существенный",
-   "ipa": "ˈбэйсɪк",
-   "spell": "basic"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в основном, ты права",
-   "ipa": "ˈбэйсɪкли, йʊр райт",
-   "spell": "basically, you’re right"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "потому что",
-   "ipa": "бɪˈкɔз",
-   "spell": "because"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "потому что он не осуждает",
-   "ipa": "бɪˈкɔз hи ˈдʌзəнт джʌдж",
-   "spell": "because he doesn’t judge"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "но ты это сделала",
-   "ipa": "бʌт ю дɪд ɪт",
-   "spell": "but you did it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты можешь прийти на ужин завтра?",
-   "ipa": "кæн ю кʌм ту ˈдɪнəр тəˈмɑˌроу?",
-   "spell": "can you come to dinner tomorrow?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "закрытое пространство",
-   "ipa": "клоузд спэйс",
-   "spell": "closed space"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты хорошо провёл время в парке?",
-   "ipa": "дɪд ю hæв ə гʊд тайм æт ðə пɑрк?",
-   "spell": "did you have a good time at the park?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты ешь мясо?",
-   "ipa": "ду ю ит мит?",
-   "spell": "do you eat meat?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты когда-нибудь ходишь в походы?",
-   "ipa": "ду ю ˈэвəр гоу ˈкæмпɪŋ?",
-   "spell": "do you ever go camping?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты занимаешься спортом?",
-   "ipa": "ду ю ˈэксəрˌсайз?",
-   "spell": "do you exercise?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты занимаешься какими-нибудь видами спорта?",
-   "ipa": "ду ю плэй ˈэни спортс?",
-   "spell": "do you play any sports?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не опаздывай",
-   "ipa": "доунт би лэйт",
-   "spell": "don't be late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не будь так строга к себе",
-   "ipa": "доунт би соу hɑрд ɑн йəрˈсэлф",
-   "spell": "don't be so hard on yourself"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не основывай свою самооценку на уровне английского",
-   "ipa": "доунт бэйс йʊəр сэлф-wɜрθ ɑн йʊəр ˈɪŋглɪш ˈлэвəл",
-   "spell": "don’t base your self-worth on your English level"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "смерть во время полёта",
-   "ipa": "ˈдайɪŋ wайл ˈфлайɪŋ",
-   "spell": "dying while flying"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он ужасен",
-   "ipa": "hи ɪз ˈhорəбəл",
-   "spell": "he is horrible"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он в ужасе",
-   "ipa": "hи ɪз ˈhорəˌфайд",
-   "spell": "he is horrified"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ужас",
-   "ipa": "ˈhорəр",
-   "spell": "horror"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сколько живут собаки?",
-   "ipa": "hау лɔŋ ду дɑгз лɪв?",
-   "spell": "how long do dogs live?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как прошли твои выходные?",
-   "ipa": "hау wʌз йʊəр ˈwиˌкэнд?",
-   "spell": "how was your weekend?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ужасно танцую",
-   "ipa": "ай æм ə ˈтэрəбəл ˈдæнсəр",
-   "spell": "I am a terrible dancer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ужасно пою",
-   "ipa": "ай æм ə ˈтэрəбəл ˈсɪŋəр",
-   "spell": "I am a terrible singer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я боюсь тесных пространств",
-   "ipa": "ай æм əˈфрэйд ʌв тайт ˈспэйсəз",
-   "spell": "I am afraid of tight spaces"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я боюсь летать",
-   "ipa": "ай æм əˈфрэйд ʌв ˈфлайɪŋ",
-   "spell": "I am afraid of flying"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня аллергия на острую пищу",
-   "ipa": "ай æм əˈлɜрджɪк ту ˈспайси фуд",
-   "spell": "I am allergic to spicy food"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне страшно",
-   "ipa": "ай æм ˈфрайтəнд",
-   "spell": "I am frightened"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я в ужасе",
-   "ipa": "ай æм ˈhорəˌфайд",
-   "spell": "I am horrified"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я нравлюсь",
-   "ipa": "ай æм лайкт",
-   "spell": "I am liked"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "меня любят",
-   "ipa": "ай æм лʌвд",
-   "spell": "I am loved"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне страшно",
-   "ipa": "ай æм скэрд",
-   "spell": "I am scared"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я могу, но не буду",
-   "ipa": "ай кæн бʌт ай wɪл нɑт",
-   "spell": "I can but I will not"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ещё не вижу тебя",
-   "ipa": "ай кæнт си ю йэт",
-   "spell": "I can't see you yet"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не могу",
-   "ipa": "ай кæнт, ай ˈкæнɑт",
-   "spell": "I can't, I cannot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не могу жаловаться",
-   "ipa": "ай кæнт кəмˈплэйн",
-   "spell": "I can’t complain"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не умею готовить вкусную еду",
-   "ipa": "ай кæнт кʊк ˈтэйсти фуд",
-   "spell": "I can’t cook tasty food"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я концентрируюсь",
-   "ipa": "ай ˈкɑнсəнˌтрэйт",
-   "spell": "I concentrate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я мало спала",
-   "ipa": "ай ˈдɪдəнт гэт мʌч слип",
-   "spell": "I didn't get much sleep"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне не нравится быть одной",
-   "ipa": "ай доунт лайк ˈбиɪŋ əˈлоун",
-   "spell": "I don't like being alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне не нравится рано вставать",
-   "ipa": "ай доунт лайк ˈгэтɪŋ ʌп ˈɜрли",
-   "spell": "I don't like getting up early"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не люблю острую еду",
-   "ipa": "ай доунт лайк ˈспайси фуд",
-   "spell": "I don't like spicy food"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне не нравится путешествовать одной",
-   "ipa": "ай доунт лайк ˈтрæвəлɪŋ əˈлоун",
-   "spell": "I don't like traveling alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не хожу к нему",
-   "ipa": "ай доунт гоу ту hɪм",
-   "spell": "I don’t go to him"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я чувствую",
-   "ipa": "ай фил",
-   "spell": "I feel"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я чувствую себя спокойно, когда разговариваю с Джошем",
-   "ipa": "ай фил æт из wэн ай спик wɪð джɑш",
-   "spell": "I feel at ease when I speak with Josh"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я чувствую себя неадекватно",
-   "ipa": "ай фил ɪˈнæдəкwəт",
-   "spell": "I feel inadequate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я пугаю их",
-   "ipa": "ай ˈфрайтəн ðэм",
-   "spell": "I frighten them"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я проверяю зрение",
-   "ipa": "ай hæв май айз чэкт",
-   "spell": "I have my eyes checked"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я осуждаю",
-   "ipa": "ай джʌдж",
-   "spell": "I judge"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится быть одной",
-   "ipa": "ай лайк ˈбиɪŋ əˈлоун",
-   "spell": "I like being alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится готовить одной",
-   "ipa": "ай лайк ˈкʊкɪŋ əˈлоун",
-   "spell": "I like cooking alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится водить машину одной",
-   "ipa": "ай лайк ˈдрайвɪŋ əˈлоун",
-   "spell": "I like driving alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится есть с друзьями",
-   "ipa": "ай лайк ˈитɪŋ wɪð фрэндз",
-   "spell": "I like eating with friends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится, когда со мной кто-то есть",
-   "ipa": "ай лайк ˈhæвɪŋ ˈсʌмˌwʌн wɪð ми",
-   "spell": "I like having someone with me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится читать одной",
-   "ipa": "ай лайк ˈрэдɪŋ əˈлоун",
-   "spell": "I like reading alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится ходить по магазинам",
-   "ipa": "ай лайк ˈшɑпɪŋ",
-   "spell": "I like shopping"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится очень громко петь",
-   "ipa": "ай лайк ˈсɪŋɪŋ ˈвэри ˈлаудли",
-   "spell": "I like singing very loudly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится гулять и разговаривать",
-   "ipa": "ай лайк ˈwɔкɪŋ æнд ˈтɔкɪŋ",
-   "spell": "I like walking and talking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится смотреть фильмы с друзьями",
-   "ipa": "ай лайк ˈwɑчɪŋ ˈмувиз wɪð фрэндз",
-   "spell": "I like watching movies with friends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне (по)нравилось",
-   "ipa": "ай лайкт",
-   "spell": "I liked"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я живу, чтобы плавать",
-   "ipa": "ай лɪв ту сwɪм",
-   "spell": "I live to swim"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я люблю, когда я кому-нибудь нравлюсь",
-   "ipa": "ай лʌв ˈбиɪŋ лайкт",
-   "spell": "I love being liked"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я обожаю танцевать одной",
-   "ipa": "ай лʌв ˈдæнсɪŋ əˈлоун",
-   "spell": "I love dancing alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится, когда мне нравится",
-   "ipa": "ай лʌв ˈлайкɪŋ",
-   "spell": "I love liking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я любила плавать",
-   "ipa": "ай лʌвд ˈсwɪмɪŋ",
-   "spell": "I loved swimming"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я имею значение",
-   "ipa": "ай ˈмæтəр",
-   "spell": "I matter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нужно второе мнение",
-   "ipa": "ай нид ə ˈсэкəнд əˈпɪнйəн",
-   "spell": "I need a second opinion"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я предпочитаю ходить по магазинам",
-   "ipa": "ай прəˈфɜр ˈшɑпɪŋ",
-   "spell": "I prefer shopping"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я видела, но забыла",
-   "ipa": "ай сɔ бʌт ай фəрˈгɑт",
-   "spell": "I saw but I forgot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я говорю всё, что говорю",
-   "ipa": "ай сэй ˈэвриˌθɪŋ ай сэй",
-   "spell": "I say everything I say"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я кричу от ужаса",
-   "ipa": "ай скрим ɪн ˈтэрəр",
-   "spell": "I scream in terror"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я пою громко",
-   "ipa": "ай сɪŋ ˈлаудли",
-   "spell": "I sing loudly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я пропустила вчера",
-   "ipa": "ай скɪпт ˈйэстəрˌдэй",
-   "spell": "I skipped yesterday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я разговаривала с женщиной",
-   "ipa": "ай тɔкт wɪð ə ˈwʊмəн",
-   "spell": "I talked with a woman"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я думала, что это невозможно",
-   "ipa": "ай θɔт ɪт wʌз ɪмˈпɑсəбəл",
-   "spell": "I thought it was impossible"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я доверяю себе",
-   "ipa": "ай трʌст ˌмайˈсэлф",
-   "spell": "I trust myself"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне раньше нравилось плавать",
-   "ipa": "ай юзд ту лайк ˈсwɪмɪŋ",
-   "spell": "I used to like swimming"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня был лишний вес",
-   "ipa": "ай wʌз ˈоувəрˌwэйт",
-   "spell": "I was overweight"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я болела неделю",
-   "ipa": "ай wʌз wик фор ə wик",
-   "spell": "I was weak for a week"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я весила ...",
-   "ipa": "ай wэйд ...",
-   "spell": "I weighed ..."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я поздно легла спать",
-   "ipa": "ай wэнт ту бэд лэйт",
-   "spell": "I went to bed late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне нравится",
-   "ipa": "ай wɪл лайк ɪт",
-   "spell": "I will like it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня клаустрофобия",
-   "ipa": "айм ˌклɔстрəˈфоубɪк",
-   "spell": "I'm claustrophobic"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "если твоему компьютеру семь лет, он довольно старый.",
-   "ipa": "ɪф йʊəр кəмˈпъютəр ɪз ˈсэвəн йɪрз оулд, ɪт ɪз ˈпрɪти оулд.",
-   "spell": "if your computer is seven years old, it is pretty old."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "намерение",
-   "ipa": "ɪнˈтэнчəн",
-   "spell": "intention"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это зависит от того, кто со мной разговаривает",
-   "ipa": "ɪт дɪˈпэндз ɑн hу тɔкс wɪð ми",
-   "spell": "it depends on who talks with me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это не важно",
-   "ipa": "ɪт ˈдʌзəнт ˈмæтəр",
-   "spell": "it doesn’t matter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на мне это выглядит ужасно",
-   "ipa": "ɪт лʊкс ˈhорəбəл ɑн ми",
-   "spell": "it looks horrible on me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это имеет значение",
-   "ipa": "ɪт ˈмæтəрз",
-   "spell": "it matters"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мне кажется",
-   "ipa": "ɪт симз ту ми",
-   "spell": "It seems to me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это было два года назад",
-   "ipa": "ɪт wʌз ту йɪрз əˈгоу",
-   "spell": "it was two years ago"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он работал до полуночи",
-   "ipa": "ɪт wɜркт əнˈтɪл ˈмɪдˌнайт",
-   "spell": "it worked until midnight"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "только мы вдвоём",
-   "ipa": "джʌст ðə ту ʌв ʌс",
-   "spell": "just the two of us"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "расслабься!",
-   "ipa": "кɪк бæк, рɪˈлæкс!",
-   "spell": "kick back, relax!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я тоже!",
-   "ipa": "ми ту!",
-   "spell": "me too!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "моему компьютеру пять лет",
-   "ipa": "май кəмˈпъютəр ɪз файв йɪрз оулд",
-   "spell": "my computer is five years old"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мои знания английского — это не мой IQ",
-   "ipa": "май ˈɪŋглɪш скɪлз ɑр нɑт май ай-къю",
-   "spell": "my English skills are not my IQ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы с семьёй ходили в парк",
-   "ipa": "май ˈфæмəли æнд ай wэнт ту ðə пɑрк",
-   "spell": "my family and I went to the park"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неплохо",
-   "ipa": "нɑт бæд",
-   "spell": "not bad"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ещё нет",
-   "ipa": "нɑт йэт",
-   "spell": "not yet"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на Хэллоуин",
-   "ipa": "ɑн ˌhæлəˈwин",
-   "spell": "on Halloween"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мир",
-   "ipa": "пис",
-   "spell": "peace"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мирный",
-   "ipa": "ˈписфəл",
-   "spell": "peaceful"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чтение помогает мне сосредоточиться",
-   "ipa": "ˈрэдɪŋ hэлпс ми ту ˈкɑнсəнˌтрэйт",
-   "spell": "reading helps me to concentrate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чтение очень умиротворяет",
-   "ipa": "ˈрэдɪŋ ɪз ˈвэри ˈписфəл",
-   "spell": "reading is very peaceful"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кто-то",
-   "ipa": "ˈсʌмˌwʌн",
-   "spell": "someone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "говорите настолько хорошо, как можете",
-   "ipa": "спик æз wэл æз ю кæн",
-   "spell": "speak as well as you can"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это время не было потрачено зря",
-   "ipa": "ðæт тайм ˈwɑзəнт ˈwэйстɪд",
-   "spell": "that time wasn’t wasted"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вот почему мы вернулись домой очень поздно",
-   "ipa": "ðæтс wай wи кэйм hоум ˈвэри лэйт",
-   "spell": "that’s why we came home very late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "эти очки больше не подходят",
-   "ipa": "ðиз ˈглæсəз ɑр нɑт райт ˈэни мор",
-   "spell": "these glasses are not right any more"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это красивая обувь",
-   "ipa": "ðэй ɑр ˈбъютəфəл щуз",
-   "spell": "they are beautiful shoes"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они могут (о)судить вас",
-   "ipa": "ðэй кæн джʌдж ю",
-   "spell": "they can judge you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на мне это выглядит ужасно",
-   "ipa": "ðɪс лʊкс ˈhорəбəл ɑн ми",
-   "spell": "this looks horrible on me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "разбивать лагерь",
-   "ipa": "ту кæмп",
-   "spell": "to camp"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ходить в походы",
-   "ipa": "ту кæмп",
-   "spell": "to camp"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вместе с другими людьми",
-   "ipa": "тəˈгэðəр wɪð ˈʌðəр ˈпипəл",
-   "spell": "together with other people"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы ели",
-   "ipa": "wи эйт",
-   "spell": "we ate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы называем его мистер Дерек",
-   "ipa": "wи кɔл hɪм ˈмɪстəр ˈдэрɪк",
-   "spell": "we call him Mr Derek"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы можем быть счастливы вместе",
-   "ipa": "wи кæн би ˈhæпи тəˈгэðəр",
-   "spell": "we can be happy together"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы ужинали",
-   "ipa": "wи hæд ˈдɪнəр",
-   "spell": "we had dinner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы поздно легли спать",
-   "ipa": "wи wэнт ту бэд лэйт",
-   "spell": "we went to bed late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "а ты?",
-   "ipa": "wɑт əˈбаут ю?",
-   "spell": "what about you?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что ты имеешь в виду?",
-   "ipa": "wɑт ду ю мин?",
-   "spell": "what do you mean?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что это значит?",
-   "ipa": "wɑт дʌз ðɪс мин?",
-   "spell": "what does this mean?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что означает «stiff»?",
-   "ipa": "wɑт дʌз “стɪф” мин?",
-   "spell": "what does “stiff” mean?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "какую музыку ты любишь?",
-   "ipa": "wɑт ˈмъюзɪк ду ю лайк?",
-   "spell": "what music do you like?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что мне сказать?",
-   "ipa": "wɑт щʊд ай сэй?",
-   "spell": "what should I say?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда я иду одна",
-   "ipa": "wэн ай гоу əˈлоун",
-   "spell": "when I go alone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда я читаю",
-   "ipa": "wэн ай рид",
-   "spell": "when I read"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда я ухожу из дома",
-   "ipa": "wэн айм аут",
-   "spell": "when I'm out"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда фильм заканчивается",
-   "ipa": "wэн ðə ˈмуви эндз",
-   "spell": "when the movie ends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "которая ведьма была слаба неделю?",
-   "ipa": "wɪч wɪч wʌз wик фор ə wик?",
-   "spell": "which witch was weak for a week?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "с закрытыми окнами",
-   "ipa": "wɪð ðə ˈwɪндоуз клоузд",
-   "spell": "with the windows closed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "их можно отличить только по написанию",
-   "ipa": "ю кæн ˈоунли тэл ðэм əˈпɑрт бай ðэр ˈспэлɪŋ",
-   "spell": "you can only tell them apart by their spelling"
- }
-]
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "база, основа",
+      "ipa": "ə ˈбэйсəс",
+      "spell": "a basis"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лагерь",
+      "ipa": "ə кæмп",
+      "spell": "a camp"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "незнакомец",
+      "ipa": "ə ˈстрэйнджəр",
+      "spell": "a stranger"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одна, сама по себе",
+      "ipa": "əˈлоун",
+      "spell": "alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хотя",
+      "ipa": "ˌɔлˈðоу",
+      "spell": "although"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на вечеринках",
+      "ipa": "æт ˈпɑртиз",
+      "spell": "at parties"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "основной, самый существенный",
+      "ipa": "ˈбэйсɪк",
+      "spell": "basic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в основном, ты права",
+      "ipa": "ˈбэйсɪкли, йʊр райт",
+      "spell": "basically, you’re right"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потому что",
+      "ipa": "бɪˈкɔз",
+      "spell": "because"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потому что он не осуждает",
+      "ipa": "бɪˈкɔз hи ˈдʌзəнт джʌдж",
+      "spell": "because he doesn’t judge"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "но ты это сделала",
+      "ipa": "бʌт ю дɪд ɪт",
+      "spell": "but you did it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты можешь прийти на ужин завтра?",
+      "ipa": "кəн ю кʌм ту ˈдɪнəр тəˈмɑˌроу?",
+      "spell": "can you come to dinner tomorrow?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закрытое пространство",
+      "ipa": "клоузд спэйс",
+      "spell": "closed space"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты хорошо провёл время в парке?",
+      "ipa": "дɪд ю hæв ə гʊд тайм æт ðə пɑрк?",
+      "spell": "did you have a good time at the park?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты ешь мясо?",
+      "ipa": "ду ю ит мит?",
+      "spell": "do you eat meat?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты когда-нибудь ходишь в походы?",
+      "ipa": "ду ю ˈэвəр гоу ˈкæмпɪŋ?",
+      "spell": "do you ever go camping?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты занимаешься спортом?",
+      "ipa": "ду ю ˈэксəрˌсайз?",
+      "spell": "do you exercise?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты занимаешься какими-нибудь видами спорта?",
+      "ipa": "ду ю плэй ˈэни спортс?",
+      "spell": "do you play any sports?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не опаздывай",
+      "ipa": "доунт би лэйт",
+      "spell": "don't be late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не будь так строга к себе",
+      "ipa": "доунт би соу hɑрд ɑн йəрˈсэлф",
+      "spell": "don't be so hard on yourself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не основывай свою самооценку на уровне английского",
+      "ipa": "доунт бэйс йʊəр сэлф-wɜрθ ɑн йʊəр ˈɪŋглɪш ˈлэвəл",
+      "spell": "don’t base your self-worth on your English level"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смерть во время полёта",
+      "ipa": "ˈдайɪŋ wайл ˈфлайɪŋ",
+      "spell": "dying while flying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он ужасен",
+      "ipa": "hи ɪз ˈhорəбəл",
+      "spell": "he is horrible"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он в ужасе",
+      "ipa": "hи ɪз ˈhорəˌфайд",
+      "spell": "he is horrified"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ужас",
+      "ipa": "ˈhорəр",
+      "spell": "horror"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько живут собаки?",
+      "ipa": "hау лɔŋ ду дɑгз лɪв?",
+      "spell": "how long do dogs live?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как прошли твои выходные?",
+      "ipa": "hау wʌз йʊəр ˈwиˌкэнд?",
+      "spell": "how was your weekend?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ужасно танцую",
+      "ipa": "ай æм ə ˈтэрəбəл ˈдæнсəр",
+      "spell": "I am a terrible dancer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ужасно пою",
+      "ipa": "ай æм ə ˈтэрəбəл ˈсɪŋəр",
+      "spell": "I am a terrible singer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я боюсь тесных пространств",
+      "ipa": "ай æм əˈфрэйд ʌв тайт ˈспэйсəз",
+      "spell": "I am afraid of tight spaces"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я боюсь летать",
+      "ipa": "ай æм əˈфрэйд ʌв ˈфлайɪŋ",
+      "spell": "I am afraid of flying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня аллергия на острую пищу",
+      "ipa": "ай æм əˈлɜрджɪк ту ˈспайси фуд",
+      "spell": "I am allergic to spicy food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне страшно",
+      "ipa": "ай æм ˈфрайтəнд",
+      "spell": "I am frightened"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я в ужасе",
+      "ipa": "ай æм ˈhорəˌфайд",
+      "spell": "I am horrified"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я нравлюсь",
+      "ipa": "ай æм лайкт",
+      "spell": "I am liked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня любят",
+      "ipa": "ай æм лʌвд",
+      "spell": "I am loved"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне страшно",
+      "ipa": "ай æм скэрд",
+      "spell": "I am scared"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я могу, но не буду",
+      "ipa": "ай кæн бʌт ай wɪл нɑт",
+      "spell": "I can but I will not"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ещё не вижу тебя",
+      "ipa": "ай кæнт си ю йэт",
+      "spell": "I can't see you yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могу",
+      "ipa": "ай кæнт, ай ˈкæнɑт",
+      "spell": "I can't, I cannot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не могу жаловаться",
+      "ipa": "ай кæнт кəмˈплэйн",
+      "spell": "I can’t complain"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не умею готовить вкусную еду",
+      "ipa": "ай кæнт кʊк ˈтэйсти фуд",
+      "spell": "I can’t cook tasty food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я концентрируюсь",
+      "ipa": "ай ˈкɑнсəнˌтрэйт",
+      "spell": "I concentrate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я мало спала",
+      "ipa": "ай ˈдɪдəнт гэт мʌч слип",
+      "spell": "I didn't get much sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не нравится быть одной",
+      "ipa": "ай доунт лайк ˈбиɪŋ əˈлоун",
+      "spell": "I don't like being alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не нравится рано вставать",
+      "ipa": "ай доунт лайк ˈгэтɪŋ ʌп ˈɜрли",
+      "spell": "I don't like getting up early"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не люблю острую еду",
+      "ipa": "ай доунт лайк ˈспайси фуд",
+      "spell": "I don't like spicy food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не нравится путешествовать одной",
+      "ipa": "ай доунт лайк ˈтрæвəлɪŋ əˈлоун",
+      "spell": "I don't like traveling alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не хожу к нему",
+      "ipa": "ай доунт гоу ту hɪм",
+      "spell": "I don’t go to him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чувствую",
+      "ipa": "ай фил",
+      "spell": "I feel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чувствую себя спокойно, когда разговариваю с Джошем",
+      "ipa": "ай фил æт из wэн ай спик wɪð джɑш",
+      "spell": "I feel at ease when I speak with Josh"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я чувствую себя неадекватно",
+      "ipa": "ай фил ɪˈнæдəкwəт",
+      "spell": "I feel inadequate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пугаю их",
+      "ipa": "ай ˈфрайтəн ðэм",
+      "spell": "I frighten them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я проверяю зрение",
+      "ipa": "ай hæв май айз чэкт",
+      "spell": "I have my eyes checked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я осуждаю",
+      "ipa": "ай джʌдж",
+      "spell": "I judge"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится быть одной",
+      "ipa": "ай лайк ˈбиɪŋ əˈлоун",
+      "spell": "I like being alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится готовить одной",
+      "ipa": "ай лайк ˈкʊкɪŋ əˈлоун",
+      "spell": "I like cooking alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится водить машину одной",
+      "ipa": "ай лайк ˈдрайвɪŋ əˈлоун",
+      "spell": "I like driving alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится есть с друзьями",
+      "ipa": "ай лайк ˈитɪŋ wɪð фрэндз",
+      "spell": "I like eating with friends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится, когда со мной кто-то есть",
+      "ipa": "ай лайк ˈhæвɪŋ ˈсʌмˌwʌн wɪð ми",
+      "spell": "I like having someone with me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится читать одной",
+      "ipa": "ай лайк ˈрэдɪŋ əˈлоун",
+      "spell": "I like reading alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится ходить по магазинам",
+      "ipa": "ай лайк ˈшɑпɪŋ",
+      "spell": "I like shopping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится очень громко петь",
+      "ipa": "ай лайк ˈсɪŋɪŋ ˈвэри ˈлаудли",
+      "spell": "I like singing very loudly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится гулять и разговаривать",
+      "ipa": "ай лайк ˈwɔкɪŋ æнд ˈтɔкɪŋ",
+      "spell": "I like walking and talking"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится смотреть фильмы с друзьями",
+      "ipa": "ай лайк ˈwɑчɪŋ ˈмувиз wɪð фрэндз",
+      "spell": "I like watching movies with friends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне (по)нравилось",
+      "ipa": "ай лайкт",
+      "spell": "I liked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я живу, чтобы плавать",
+      "ipa": "ай лɪв ту сwɪм",
+      "spell": "I live to swim"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я люблю, когда я кому-нибудь нравлюсь",
+      "ipa": "ай лʌв ˈбиɪŋ лайкт",
+      "spell": "I love being liked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я обожаю танцевать одной",
+      "ipa": "ай лʌв ˈдæнсɪŋ əˈлоун",
+      "spell": "I love dancing alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится, когда мне нравится",
+      "ipa": "ай лʌв ˈлайкɪŋ",
+      "spell": "I love liking"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я любила плавать",
+      "ipa": "ай лʌвд ˈсwɪмɪŋ",
+      "spell": "I loved swimming"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я имею значение",
+      "ipa": "ай ˈмæтəр",
+      "spell": "I matter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нужно второе мнение",
+      "ipa": "ай нид ə ˈсэкəнд əˈпɪнйəн",
+      "spell": "I need a second opinion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я предпочитаю ходить по магазинам",
+      "ipa": "ай прəˈфɜр ˈшɑпɪŋ",
+      "spell": "I prefer shopping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я видела, но забыла",
+      "ipa": "ай сɔ бʌт ай фəрˈгɑт",
+      "spell": "I saw but I forgot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я говорю всё, что говорю",
+      "ipa": "ай сэй ˈэвриˌθɪŋ ай сэй",
+      "spell": "I say everything I say"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я кричу от ужаса",
+      "ipa": "ай скрим ɪн ˈтэрəр",
+      "spell": "I scream in terror"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пою громко",
+      "ipa": "ай сɪŋ ˈлаудли",
+      "spell": "I sing loudly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пропустила вчера",
+      "ipa": "ай скɪпт ˈйэстəрˌдэй",
+      "spell": "I skipped yesterday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я разговаривала с женщиной",
+      "ipa": "ай тɔкт wɪð ə ˈwʊмəн",
+      "spell": "I talked with a woman"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я думала, что это невозможно",
+      "ipa": "ай θɔт ɪт wʌз ɪмˈпɑсəбəл",
+      "spell": "I thought it was impossible"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я доверяю себе",
+      "ipa": "ай трʌст ˌмайˈсэлф",
+      "spell": "I trust myself"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне раньше нравилось плавать",
+      "ipa": "ай юзд ту лайк ˈсwɪмɪŋ",
+      "spell": "I used to like swimming"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня был лишний вес",
+      "ipa": "ай wʌз ˈоувəрˌwэйт",
+      "spell": "I was overweight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я болела неделю",
+      "ipa": "ай wʌз wик фор ə wик",
+      "spell": "I was weak for a week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я весила ...",
+      "ipa": "ай wэйд ...",
+      "spell": "I weighed ..."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я поздно легла спать",
+      "ipa": "ай wэнт ту бэд лэйт",
+      "spell": "I went to bed late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится",
+      "ipa": "ай wɪл лайк ɪт",
+      "spell": "I will like it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня клаустрофобия",
+      "ipa": "айм ˌклɔстрəˈфоубɪк",
+      "spell": "I'm claustrophobic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если твоему компьютеру семь лет, он довольно старый.",
+      "ipa": "ɪф йʊəр кəмˈпъютəр ɪз ˈсэвəн йɪрз оулд, ɪт ɪз ˈпрɪти оулд.",
+      "spell": "if your computer is seven years old, it is pretty old."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "намерение",
+      "ipa": "ɪнˈтэнчəн",
+      "spell": "intention"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это зависит от того, кто со мной разговаривает",
+      "ipa": "ɪт дɪˈпэндз ɑн hу тɔкс wɪð ми",
+      "spell": "it depends on who talks with me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не важно",
+      "ipa": "ɪт ˈдʌзəнт ˈмæтəр",
+      "spell": "it doesn’t matter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на мне это выглядит ужасно",
+      "ipa": "ɪт лʊкс ˈhорəбəл ɑн ми",
+      "spell": "it looks horrible on me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это имеет значение",
+      "ipa": "ɪт ˈмæтəрз",
+      "spell": "it matters"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне кажется",
+      "ipa": "ɪт симз ту ми",
+      "spell": "It seems to me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это было два года назад",
+      "ipa": "ɪт wʌз ту йɪрз əˈгоу",
+      "spell": "it was two years ago"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он работал до полуночи",
+      "ipa": "ɪт wɜркт əнˈтɪл ˈмɪдˌнайт",
+      "spell": "it worked until midnight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "только мы вдвоём",
+      "ipa": "джʌст ðə ту ʌв ʌс",
+      "spell": "just the two of us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "расслабься!",
+      "ipa": "кɪк бæк, рɪˈлæкс!",
+      "spell": "kick back, relax!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тоже!",
+      "ipa": "ми ту!",
+      "spell": "me too!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моему компьютеру пять лет",
+      "ipa": "май кəмˈпъютəр ɪз файв йɪрз оулд",
+      "spell": "my computer is five years old"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мои знания английского — это не мой IQ",
+      "ipa": "май ˈɪŋглɪш скɪлз ɑр нɑт май ай-къю",
+      "spell": "my English skills are not my IQ"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы с семьёй ходили в парк",
+      "ipa": "май ˈфæмəли æнд ай wэнт ту ðə пɑрк",
+      "spell": "my family and I went to the park"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неплохо",
+      "ipa": "нɑт бæд",
+      "spell": "not bad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ещё нет",
+      "ipa": "нɑт йэт",
+      "spell": "not yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на Хэллоуин",
+      "ipa": "ɑн ˌhæлəˈwин",
+      "spell": "on Halloween"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мир",
+      "ipa": "пис",
+      "spell": "peace"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мирный",
+      "ipa": "ˈписфəл",
+      "spell": "peaceful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чтение помогает мне сосредоточиться",
+      "ipa": "ˈрэдɪŋ hэлпс ми ту ˈкɑнсəнˌтрэйт",
+      "spell": "reading helps me to concentrate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чтение очень умиротворяет",
+      "ipa": "ˈрэдɪŋ ɪз ˈвэри ˈписфəл",
+      "spell": "reading is very peaceful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кто-то",
+      "ipa": "ˈсʌмˌwʌн",
+      "spell": "someone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "говорите настолько хорошо, как можете",
+      "ipa": "спик æз wэл æз ю кæн",
+      "spell": "speak as well as you can"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это время не было потрачено зря",
+      "ipa": "ðæт тайм ˈwɑзəнт ˈwэйстɪд",
+      "spell": "that time wasn’t wasted"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вот почему мы вернулись домой очень поздно",
+      "ipa": "ðæтс wай wи кэйм hоум ˈвэри лэйт",
+      "spell": "that’s why we came home very late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "эти очки больше не подходят",
+      "ipa": "ðиз ˈглæсəз ɑр нɑт райт ˈэни мор",
+      "spell": "these glasses are not right any more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это красивая обувь",
+      "ipa": "ðэй ɑр ˈбъютəфəл щуз",
+      "spell": "they are beautiful shoes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они могут (о)судить вас",
+      "ipa": "ðэй кəн джʌдж ю",
+      "spell": "they can judge you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на мне это выглядит ужасно",
+      "ipa": "ðɪс лʊкс ˈhорəбəл ɑн ми",
+      "spell": "this looks horrible on me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "разбивать лагерь",
+      "ipa": "ту кæмп",
+      "spell": "to camp"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ходить в походы",
+      "ipa": "ту кæмп",
+      "spell": "to camp"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вместе с другими людьми",
+      "ipa": "тəˈгэðəр wɪð ˈʌðəр ˈпипəл",
+      "spell": "together with other people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы ели",
+      "ipa": "wи эйт",
+      "spell": "we ate"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы называем его мистер Дерек",
+      "ipa": "wи кɔл hɪм ˈмɪстəр ˈдэрɪк",
+      "spell": "we call him Mr Derek"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы можем быть счастливы вместе",
+      "ipa": "wи кəн би ˈhæпи тəˈгэðəр",
+      "spell": "we can be happy together"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы ужинали",
+      "ipa": "wи hæд ˈдɪнəр",
+      "spell": "we had dinner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы поздно легли спать",
+      "ipa": "wи wэнт ту бэд лэйт",
+      "spell": "we went to bed late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "а ты?",
+      "ipa": "wɑт əˈбаут ю?",
+      "spell": "what about you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что ты имеешь в виду?",
+      "ipa": "wɑт ду ю мин?",
+      "spell": "what do you mean?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что это значит?",
+      "ipa": "wɑт дʌз ðɪс мин?",
+      "spell": "what does this mean?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что означает «stiff»?",
+      "ipa": "wɑт дʌз “стɪф” мин?",
+      "spell": "what does “stiff” mean?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какую музыку ты любишь?",
+      "ipa": "wɑт ˈмъюзɪк ду ю лайк?",
+      "spell": "what music do you like?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что мне сказать?",
+      "ipa": "wɑт щʊд ай сэй?",
+      "spell": "what should I say?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я иду одна",
+      "ipa": "wэн ай гоу əˈлоун",
+      "spell": "when I go alone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я читаю",
+      "ipa": "wэн ай рид",
+      "spell": "when I read"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я ухожу из дома",
+      "ipa": "wэн айм аут",
+      "spell": "when I'm out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда фильм заканчивается",
+      "ipa": "wэн ðə ˈмуви эндз",
+      "spell": "when the movie ends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "которая ведьма была слаба неделю?",
+      "ipa": "wɪч wɪч wʌз wик фор ə wик?",
+      "spell": "which witch was weak for a week?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "с закрытыми окнами",
+      "ipa": "wɪð ðə ˈwɪндоуз клоузд",
+      "spell": "with the windows closed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "их можно отличить только по написанию",
+      "ipa": "ю кəн ˈоунли тэл ðэм əˈпɑрт бай ðэр ˈспэлɪŋ",
+      "spell": "you can only tell them apart by their spelling"
+    }
+  ]
 }
