@@ -1,0 +1,681 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "week",
+  "number": 40,
+  "date": "2025-10-03",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ліжко",
+      "ipa": "ə бед",
+      "spell": "a bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "страва в канаві",
+      "ipa": "ə диш ин ə дич",
+      "spell": "a dish in a ditch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стажер у сфері моди",
+      "ipa": "ə ˈфæшəн ˈинтɜрн",
+      "spell": "a fashion intern"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "невдаха",
+      "ipa": "ə ˈлузəр",
+      "spell": "a loser"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дощовик",
+      "ipa": "ə рейн коут",
+      "spell": "a rain coat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "україномовний",
+      "ipa": "ə юˈкрейніəн ˈспікəр",
+      "spell": "a Ukrainian speaker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дуже незвичайна нація",
+      "ipa": "ə ˈvері əнˈюжˌуəл ˈнейшəн",
+      "spell": "a very unusual nation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пральна машина",
+      "ipa": "ə ˈwɑшиŋ мəˈшін",
+      "spell": "a washing machine"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "туалет",
+      "ipa": "ə ˈwɑˌшрум",
+      "spell": "a washroom"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "переможець",
+      "ipa": "ə ˈwинəр",
+      "spell": "a winner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "все одно",
+      "ipa": "ɔл ðə сейм",
+      "spell": "all the same"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "англомовний",
+      "ipa": "əн ˈиŋґлиш ˈспікəр",
+      "spell": "an English speaker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти працюєш?",
+      "ipa": "ɑр ю ˈwɜркиŋ?",
+      "spell": "are you working?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в магазині одягу",
+      "ipa": "æт ə ˈклоуðиŋ стор",
+      "spell": "at a clothing store"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повсякденний одяг",
+      "ipa": "ˈкæжəwəл клоуðз",
+      "spell": "casual clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "студенти коледжу",
+      "ipa": "ˈкɑлидж ˈстудəнтс",
+      "spell": "college students"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тато помер",
+      "ipa": "дæд из дед",
+      "spell": "Dad is dead"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мертвий",
+      "ipa": "дед",
+      "spell": "dead"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мертвий тато",
+      "ipa": "дед дæд",
+      "spell": "dead dad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони проходять стажування у твоїй країні?",
+      "ipa": "ду ðей ду ˈинтəрнˌшип ин йʊəр ˈкʌнтрі?",
+      "spell": "do they do internship in your country?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони роблять це у твоїй країні?",
+      "ipa": "ду ðей ду ит ин йʊəр ˈкʌнтрі?",
+      "spell": "do they do it in your country?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти працюєш?",
+      "ipa": "ду ю wɜрк",
+      "spell": "do you work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він працює?",
+      "ipa": "дʌз hі wɜрк?",
+      "spell": "does he work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "все дуже незвично",
+      "ipa": "ˈеvріˌθиŋ из ˈvері əнˈюжˌуəл",
+      "spell": "everything is very unusual"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цілий тиждень",
+      "ipa": "фор ðə hоул wік",
+      "spell": "for the whole week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він не працює",
+      "ipa": "hі дʌз нɑт wɜрк",
+      "spell": "he does not work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він працює",
+      "ipa": "hі wɜркс",
+      "spell": "he works"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "учні старших класів",
+      "ipa": "hай скул ˈстудəнтс",
+      "spell": "high school students"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я у відпустці цього тижня",
+      "ipa": "ай æм ɑн vейˈкейшəн ðис wік",
+      "spell": "I am on vacation this week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я роблю цю роботу, щоб отримати досвід",
+      "ipa": "ай ду ðис джɑб ту ґейн икˈспиріəнс",
+      "spell": "I do this job to gain experience"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я набуваю робочий досвід",
+      "ipa": "ай ґейн wɜрк икˈспиріəнс",
+      "spell": "I gain work experience"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я добре дрімаю",
+      "ipa": "ай hæv ə ґʊд нæп",
+      "spell": "I have a good nap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене є ще дещо",
+      "ipa": "ай hæv ˈсʌмθиŋ елс",
+      "spell": "I have something else"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я давно цього не робив",
+      "ipa": "ай ˈhævəнт дʌн ит ин ə лɔŋ тайм",
+      "spell": "I haven't done it in a long time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я роблю запрошення",
+      "ipa": "ай мейк əн ˌинvиˈтейшəн",
+      "spell": "I make an invitation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я роблю пропозицію",
+      "ipa": "ай мейк əн ˈɔфəр",
+      "spell": "I make an offer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вношу зміни",
+      "ipa": "ай мейк ˈчейнджəз",
+      "spell": "I make changes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я подаю сніданок у ліжко",
+      "ipa": "ай сɜрv ˈбрекфəст ин бед",
+      "spell": "I serve breakfast in bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу ще",
+      "ipa": "ай wɑнт мор",
+      "spell": "I want more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я мию руки",
+      "ipa": "ай wɑш май hæндз",
+      "spell": "I wash my hands"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я мию посуд",
+      "ipa": "ай wɑш ðə ˈдишəз",
+      "spell": "I wash the dishes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я мию канави",
+      "ipa": "ай wɑш ðə ˈдичəз",
+      "spell": "I wash the ditches"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я працюю стажером",
+      "ipa": "ай wɜрк æз əн ˈинтɜрн",
+      "spell": "I work as an intern"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хотів би це зробити",
+      "ipa": "ай wʊд лайк ту ду ит",
+      "spell": "I would like to do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хотів би випити кави",
+      "ipa": "ай wʊд лайк ту hæv ə ˈкɑфі",
+      "spell": "I would like to have a coffee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я з великим задоволенням це зроблю",
+      "ipa": "ай wʊд лʌv ту ду ит",
+      "spell": "I would love to do it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "воно",
+      "ipa": "ит",
+      "spell": "it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це називається холод",
+      "ipa": "ит из кɔлд коулд",
+      "spell": "it is called cold"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це називається Honda",
+      "ipa": "ит из кɔлд ˈhɔндə",
+      "spell": "it is called Honda"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тут не дощить",
+      "ipa": "ит из нɑт ˈрейниŋ hір",
+      "spell": "it is not raining here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дощитиме цілий тиждень",
+      "ipa": "ит wил рейн фор ðə hоул wік",
+      "spell": "it will rain for the whole week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це виграш-виграш",
+      "ipa": "итс ə wин-wин",
+      "spell": "it's a win-win"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "японські автомобілі",
+      "ipa": "ˌджæпəˈніз кɑрз",
+      "spell": "Japanese cars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мій онук",
+      "ipa": "май ˈґрæндˌсʌн",
+      "spell": "my grandson"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "більше нічого",
+      "ipa": "ˈнʌθиŋ елс",
+      "spell": "nothing else"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще один",
+      "ipa": "wʌн мор",
+      "spell": "one more"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "трусики",
+      "ipa": "ˈпæнтіз",
+      "spell": "panties"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надякни шапку",
+      "ipa": "пʊт ɑн йʊəр hæт",
+      "spell": "put on your hat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надякни куртку",
+      "ipa": "пʊт ɑн йʊəр ˈджæкəт",
+      "spell": "put on your jacket"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надякни штани",
+      "ipa": "пʊт ɑн йʊəр пæнтс",
+      "spell": "put on your pants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "взуйся",
+      "ipa": "пʊт ɑн йʊəр шуз",
+      "spell": "put on your shoes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надякни шорти",
+      "ipa": "пʊт ɑн йʊəр шортс",
+      "spell": "put on your shorts"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "взуй тапочки",
+      "ipa": "пʊт ɑн йʊəр ˈслипəрз",
+      "spell": "put on your slippers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надякни нижню білизну",
+      "ipa": "пʊт ɑн йʊəр ˈʌндəрˌпæнтс",
+      "spell": "put on your underpants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надякни нижню білизну",
+      "ipa": "пʊт ɑн йʊəр ˈʌндəрˌwер",
+      "spell": "put on your underwear"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "короткий",
+      "ipa": "шорт",
+      "spell": "short"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так званий",
+      "ipa": "соу кɔлд",
+      "spell": "so called"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "деякі люди кажуть",
+      "ipa": "сʌм ˈпіпəл сей",
+      "spell": "some people say"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "студенти проходять стажування",
+      "ipa": "ˈстудəнтс ду ˈинтəрнˌшипс",
+      "spell": "students do internships"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "який",
+      "ipa": "ðæт",
+      "spell": "that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "те",
+      "ipa": "ðæт",
+      "spell": "that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це вражає",
+      "ipa": "ðæтс имˈпресиv",
+      "spell": "that's impressive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цілий тиждень",
+      "ipa": "ðə hоул wік",
+      "spell": "the whole week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там багато порядку",
+      "ipa": "ðер из ə лɑт ʌv ˈордəр ðер",
+      "spell": "there is a lot of order there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони завжди у відпустці цього тижня року",
+      "ipa": "ðей ɑр ˈɔлˌwейз ɑн vейˈкейшəн ðис wік ʌv ðə йир",
+      "spell": "they are always on vacation this week of the year"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони зазвичай у відпустці цього тижня року",
+      "ipa": "ðей ɑр ˈюжəwəлі ɑн vейˈкейшəн ðис wік ʌv ðə йир",
+      "spell": "they are usually on vacation this week of the year"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони нікого не пограбували",
+      "ipa": "ðей дид нɑт рɑб ˈеніˌwʌн",
+      "spell": "they did not rob anyone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони нічого не вкрали",
+      "ipa": "ðей дид нɑт стіл ˈеніˌθиŋ",
+      "spell": "they did not steal anything"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони проходять стажування",
+      "ipa": "ðей ду ˈинтəрнˌшипс",
+      "spell": "they do internships"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у них багато дисципліни",
+      "ipa": "ðей hæv ə лɑт ʌv ˈдисəплəн",
+      "spell": "they have a lot of discipline"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони підкрадаються до людей",
+      "ipa": "ðей снік ʌп ɑн ˈпіпəл",
+      "spell": "they sneak up on people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це",
+      "ipa": "ðис",
+      "spell": "this"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ця робота триває недовго",
+      "ipa": "ðис джɑб лæстс фор ə шорт тайм",
+      "spell": "this job lasts for a short time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отримувати досвід",
+      "ipa": "ту ґейн икˈспиріəнс",
+      "spell": "to gain experience"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "взуйся",
+      "ipa": "wер йʊəр шуз",
+      "spell": "wear your shoes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "взуй тапочки",
+      "ipa": "wер йʊəр ˈслипəрз",
+      "spell": "wear your slippers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що ще?",
+      "ipa": "wɑт елс?",
+      "spell": "what else?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "би",
+      "ipa": "wʊд",
+      "spell": "would"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ви хотіли б випити кави?",
+      "ipa": "wʊд ю лайк ту hæv ə ˈкɑфі?",
+      "spell": "would you like to have a coffee?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ви хотіли б …",
+      "ipa": "wʊд ю лайк ту …",
+      "spell": "would you like to …"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти не працюєш",
+      "ipa": "ю ɑр нɑт ˈwɜркиŋ",
+      "spell": "you are not working"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти працюєш",
+      "ipa": "ю ɑр ˈwɜркиŋ",
+      "spell": "you are working"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти не працюєш",
+      "ipa": "ю ду нɑт wɜрк",
+      "spell": "you do not work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти працюєш",
+      "ipa": "ю wɜрк",
+      "spell": "you work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебе болить тіло",
+      "ipa": "йʊəр ˈбɑді из сор",
+      "spell": "your body is sore"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твій тато помер",
+      "ipa": "йʊəр дæд из дед",
+      "spell": "your dad is dead"
+    }
+  ]
+}
