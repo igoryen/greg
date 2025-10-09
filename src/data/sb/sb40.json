@@ -1,0 +1,1220 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "period": "week",
+  "number": 37,
+  "date": "2025-09-11",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лук",
+      "ipa": "ə boʊ",
+      "spell": "a bow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пушка",
+      "ipa": "ə ˈkænən",
+      "spell": "a cannon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прекращение огня",
+      "ipa": "ə ˈsiˈsfaɪər",
+      "spell": "a ceasefire"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гражданская война",
+      "ipa": "ə ˈsɪvəl wɔr",
+      "spell": "a civil war"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "переворот",
+      "ipa": "ə ku",
+      "spell": "a coup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "формальное соглашение между странами",
+      "ipa": "ə ˈfɔrməl əˈɡrimənt bɪˈtwin ˈkʌntriz",
+      "spell": "a formal agreement between countries"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "захватывающая сцена",
+      "ipa": "ə ˈɡrɪpɪŋ sin",
+      "spell": "a gripping scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "исторический фильм",
+      "ipa": "ə hɪˈstɔrɪkəl ˈmuvi",
+      "spell": "a historical movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мемуары",
+      "ipa": "ə ˈmɛmˌwɑr",
+      "spell": "a memoir"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "запоминающаяся сцена",
+      "ipa": "ə ˈmɛmərəbəl sin",
+      "spell": "a memorable scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "девушка-модель",
+      "ipa": "ə ˈmɑdəl ɡɜrl",
+      "spell": "a model girl"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "военнопленный",
+      "ipa": "ə ˈprɪzənər-ʌv-wɔr (paʊ)",
+      "spell": "a prisoner-of-war (POW)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лагерь для военнопленных",
+      "ipa": "ə ˈprɪzənər-ʌv-wɔr kæmp",
+      "spell": "a prisoner-of-war camp"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "восстание",
+      "ipa": "ə rɪˈbɛljən",
+      "spell": "a rebellion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "беженец",
+      "ipa": "ə ˈrɛfjuʤi",
+      "spell": "a refugee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "щит",
+      "ipa": "ə ʃild",
+      "spell": "a shield"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осада",
+      "ipa": "ə siʤ",
+      "spell": "a siege"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "снайпер",
+      "ipa": "ə ˈsnaɪpər",
+      "spell": "a sniper"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "копьё",
+      "ipa": "ə spɪr",
+      "spell": "a spear"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кадр из фильма",
+      "ipa": "ə stɪl frʌm ə ˈmuvi",
+      "spell": "a still from a movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "выживший",
+      "ipa": "ə sərˈvaɪvər",
+      "spell": "a survivor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меч",
+      "ipa": "ə sɔrd",
+      "spell": "a sword"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "договор",
+      "ipa": "ə ˈtriti",
+      "spell": "a treaty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "украинская девушка",
+      "ipa": "ə juˈkreɪniən ɡɜrl",
+      "spell": "a Ukrainian girl"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "насильственное изменение",
+      "ipa": "ə ˈvaɪələnt ʧeɪnʤ",
+      "spell": "a violent change"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отмена рабства",
+      "ipa": "ˌæbəˈlɪʃən ʌv ˈsleɪvəri",
+      "spell": "abolition of slavery"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "против превосходящих сил",
+      "ipa": "əˈɡɛnst ˌoʊvərˈwɛlmɪŋ ɑdz",
+      "spell": "against overwhelming odds"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "среди жертв",
+      "ipa": "əˈmʌŋ ðə ˈkæʒəwəltiz",
+      "spell": "among the casualties"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "взлётно-посадочная полоса",
+      "ipa": "ən ˈɛrˌpɔrt ˈrʌnˌweɪ",
+      "spell": "an airport runway"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "союзник",
+      "ipa": "ən ˈælaɪ",
+      "spell": "an ally"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "арена",
+      "ipa": "ən əˈrinə",
+      "spell": "an arena"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стрела",
+      "ipa": "ən ˈæroʊ",
+      "spell": "an arrow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "послушный ребёнок",
+      "ipa": "ən oʊˈbidiənt ʧaɪld",
+      "spell": "an obedient child"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "случай",
+      "ipa": "ən əˈkeɪʒən",
+      "spell": "an occasion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "необычный подарок",
+      "ipa": "ən ənˈjuʒˌuəl ɡɪft",
+      "spell": "an unusual gift"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кроме крика",
+      "ipa": "əˈpɑrt frʌm ˈʃaʊtɪŋ",
+      "spell": "apart from shouting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вооружённые силы",
+      "ipa": "ɑrmd ˈfɔrsɪz",
+      "spell": "armed forces"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "свечи с разными ароматами",
+      "ipa": "ˈkændəlz ɪn ˈdɪfərənt sɛnts",
+      "spell": "candles in different scents"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "конфликт и война/вражда",
+      "ipa": "ˈkɑnflɪkt ænd ˈwɔrˌfɛr",
+      "spell": "conflict and warfare"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "преступления очень редки",
+      "ipa": "kraɪmz ɑr ˈvɛri ənˈkɑmən",
+      "spell": "crimes are very uncommon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "текущие новости",
+      "ipa": "ˈkɜrənt nuz ˈstɔriz",
+      "spell": "current news stories"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты не знаешь, где тут поблизости можно купить газету?",
+      "ipa": "du ju noʊ ˈɛniˌwɛr nɪr hir wɛr aɪ kæn ɡɛt ə ˈnuzˌpeɪpər?",
+      "spell": "do you know anywhere near here where I can get a newspaper?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вражеские войска",
+      "ipa": "ˈɛnəmi trups",
+      "spell": "enemy troops"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "даже я хотела бы это иметь",
+      "ipa": "ˈivɪn aɪ wʊd laɪk tu hæv ɪt",
+      "spell": "even I would like to have it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "всё, что мне нравится",
+      "ipa": "ˈɛvriˌθɪŋ aɪ laɪk",
+      "spell": "everything I like"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "начинаются бои",
+      "ipa": "ˈfaɪtɪŋ breɪks aʊt",
+      "spell": "fighting breaks out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по политическим или религиозным причинам",
+      "ipa": "fɔr pəˈlɪtəkəl ɔr rɪˈlɪʤəs ˈrizənz",
+      "spell": "for political or religious reasons"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "из укрытия",
+      "ipa": "frʌm ə ˈhɪdən pəˈzɪʃən",
+      "spell": "from a hidden position"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поменяй все замки",
+      "ipa": "ɡɛt ɔl ðə lɑks ʧeɪnʤd",
+      "spell": "get all the locks changed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "принеси мне мою куртку",
+      "ipa": "ɡɛt mi maɪ ˈʤækət",
+      "spell": "get me my jacket"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "проверь себе глаза",
+      "ipa": "ɡɛt jʊər aɪz ˈtɛstɪd",
+      "spell": "get your eyes tested"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "уговори свою сестру посидеть с ребёнком завтра",
+      "ipa": "ɡɛt jʊər ˈsɪstər tu ˈbeɪbisɪt təˈmɑˌroʊ",
+      "spell": "get your sister to babysit tomorrow"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он агрессивно соревнуется со мной",
+      "ipa": "hi kəmˈpits ɪn ən əˈɡrɛsɪv weɪ wɪð mi",
+      "spell": "he competes in an aggressive way with me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он повесил пленного",
+      "ipa": "hi hæŋd ðə ˈprɪzənər",
+      "spell": "he hanged the prisoner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он повесил своё пальто за дверью",
+      "ipa": "hi hʌŋ hɪz koʊt bɪˈhaɪnd ðə dɔr",
+      "spell": "he hung his coat behind the door"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он послушный, сговорчивый",
+      "ipa": "hi ɪz ˈdɑsəl",
+      "spell": "he is docile"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он становится всё более забывчивым",
+      "ipa": "hi ɪz ˈɡɛtɪŋ ɪnˈkrisɪŋli fɔrˈɡɛtfəl",
+      "spell": "he is getting increasingly forgetful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "его похищают",
+      "ipa": "hi ɪz ˈkɪdˌnæpt",
+      "spell": "he is kidnapped"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он император",
+      "ipa": "hi ɪz ði ˈɛmpərər",
+      "spell": "he is the Emperor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он стреляет в других из укрытия",
+      "ipa": "hi ʃuts æt ˈʌðərz frʌm ə ˈhɪdən pəˈzɪʃən",
+      "spell": "he shoots at others from a hidden position"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "историческая точность",
+      "ipa": "hɪˈstɔrɪkəl ˈækjərəsi",
+      "spell": "historical accuracy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "история в процессе создания",
+      "ipa": "ˈhɪstəri ɪn ðə ˈmeɪkɪŋ",
+      "spell": "history in the making"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько бы раз я ни видела это",
+      "ipa": "ˌhaʊˈɛvər ˈmɛni taɪmz aɪ hæv sin ɪt",
+      "spell": "however many times I have seen it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня чуть не убило в автокатастрофе",
+      "ipa": "aɪ ˈɔlˌmoʊst ɡɑt kɪld ɪn ə kɑr kræʃ",
+      "spell": "I almost got killed in a car crash"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я командир",
+      "ipa": "aɪ æm ə kəˈmændər",
+      "spell": "I am a commander"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня захватили в плен",
+      "ipa": "aɪ æm ˈkæpʧərd",
+      "spell": "I am captured"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я полна решимости выбраться",
+      "ipa": "aɪ æm dɪˈtɜrmənd tu ɡɛt aʊt",
+      "spell": "I am determined to get out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня вынуждают покинуть мою страну или дом",
+      "ipa": "aɪ æm fɔrst tu liv maɪ ˈkʌntri ɔr hoʊm",
+      "spell": "I am forced to leave my country or home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я свободнорождённая",
+      "ipa": "aɪ æm ˈfribərn",
+      "spell": "I am freeborn"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вовлечена в серьёзный спор",
+      "ipa": "aɪ æm ɪnˈvɑlvd ɪn ə ˈsɪriəs ˈɑrɡjəmənt",
+      "spell": "I am involved in a serious argument"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вовлечена в серьёзный конфликт",
+      "ipa": "aɪ æm ɪnˈvɑlvd ɪn ə ˈsɪriəs dɪsəˈɡrimənt",
+      "spell": "I am involved in a serious disagreement"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не предатель",
+      "ipa": "aɪ æm nɑt ˈtrɛʧərəs",
+      "spell": "I am not treacherous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня быстро повторно захватывают",
+      "ipa": "aɪ æm ˈkwɪkli riˈkæpʧərd",
+      "spell": "I am quickly recaptured"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вполне довольна",
+      "ipa": "aɪ æm kwaɪt ˈkɑntɛnt",
+      "spell": "I am quite content"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в меня стреляют",
+      "ipa": "aɪ æm ʃɑt æt",
+      "spell": "I am shot at"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я твой преемник",
+      "ipa": "aɪ æm jʊər səkˈsɛsər",
+      "spell": "I am your successor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я организую, чтобы это было сделано",
+      "ipa": "aɪ əˈreɪnʤ fɔr ðɪs tu bi dʌn",
+      "spell": "I arrange for this to be done"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я победила их",
+      "ipa": "aɪ bit ðɛm",
+      "spell": "I beat them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я подъезжаю к контрольно-пропускному пункту",
+      "ipa": "aɪ kʌm tu ə ˈroʊdˌblɑk",
+      "spell": "I come to a roadblock"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сталкиваюсь с ним",
+      "ipa": "aɪ kənˈfrʌnt hɪm",
+      "spell": "I confront him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделала всё, что мне сказала мама",
+      "ipa": "aɪ dɪd ˈɛvriˌθɪŋ maɪ mɑm toʊld mi",
+      "spell": "I did everything my mom told me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне не понравилось, как она это сделала",
+      "ipa": "aɪ ˈdɪdənt laɪk ðə weɪ ʃi dɪd ɪt",
+      "spell": "I didn’t like the way she did it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я организую впечатляющую победу",
+      "ipa": "aɪ ˈɛnʤəˈnɪr ə spɛkˈtækjələr ˈvɪktəri",
+      "spell": "I engineer a spectacular victory"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пересекаю границу",
+      "ipa": "aɪ ɡɛt ˈoʊvər ðə ˈbɔrdər",
+      "spell": "I get over the border"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я села на автобус до города",
+      "ipa": "aɪ ɡɑt ə bʌs ˈɪntu taʊn",
+      "spell": "I got a bus into town"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я неожиданно получила от него email",
+      "ipa": "aɪ ɡɑt ən iˈmeɪl aʊt ʌv ðə blu frʌm hɪm",
+      "spell": "I got an email out of the blue from him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня укусила змея",
+      "ipa": "aɪ ɡɑt ˈbɪtən baɪ ə sneɪk",
+      "spell": "I got bitten by a snake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обвинили в этом меня",
+      "ipa": "aɪ ɡɑt bleɪmd fɔr ðæt",
+      "spell": "I got blamed for that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня поймали",
+      "ipa": "aɪ ɡɑt kɑt",
+      "spell": "I got caught"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я уговорила его одолжить мне денег",
+      "ipa": "aɪ ɡɑt hɪm tu lɛnd mi sʌm ˈmʌni",
+      "spell": "I got him to lend me some money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я починила это",
+      "ipa": "aɪ ɡɑt ɪt rɪˈpɛrd",
+      "spell": "I got it repaired"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я вовремя продлила паспорт",
+      "ipa": "aɪ ɡɑt maɪ ˈpæˌspɔrt rɪˈnud ɪn taɪm",
+      "spell": "I got my passport renewed in time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня отправили в Канаду",
+      "ipa": "aɪ ɡɑt sɛnt tu ˈkænədə",
+      "spell": "I got sent to Canada"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "меня остановила полиция",
+      "ipa": "aɪ ɡɑt stɑpt baɪ ðə pəˈlis",
+      "spell": "I got stopped by the police"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я успела на утренний поезд",
+      "ipa": "aɪ ɡɑt ðə ˈmɔrnɪŋ treɪn",
+      "spell": "I got the morning train"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я купила тебе подарок!",
+      "ipa": "aɪ ɡɑt ju ə ˈprɛzənt!",
+      "spell": "I got you a present!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я убедила тебя передумать",
+      "ipa": "aɪ ɡɑt ju tu ʧeɪnʤ jʊər maɪnd",
+      "spell": "I got you to change your mind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я живу здесь девять лет",
+      "ipa": "aɪ hæv lɪvd hir fɔr naɪn jɪrz",
+      "spell": "I have lived here for nine years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне удалось выжить на войне",
+      "ipa": "aɪ hæv ˈmænəʤd tu steɪ əˈlaɪv ɪn ə wɔr",
+      "spell": "I have managed to stay alive in a war"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я перепрыгиваю через забор",
+      "ipa": "aɪ ʤʌmp ə fɛns",
+      "spell": "I jump a fence"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я просто не могу привыкнуть к вождению слева",
+      "ipa": "aɪ ʤʌst kænt ɡɛt juzd tu ˈdraɪvɪŋ ɑn ðə lɛft",
+      "spell": "I just can't get used to driving on the left"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я изучаю материал для фильма",
+      "ipa": "aɪ riˈsɜrʧ ə ˈmuvi",
+      "spell": "I research a movie"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я еду по открытой местности",
+      "ipa": "aɪ raɪd əˈkrɔs ˈoʊpən ˈkʌntriˌsaɪd",
+      "spell": "I ride across open countryside"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сменяю его",
+      "ipa": "aɪ səkˈsid hɪm",
+      "spell": "I succeed him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я была ранена на войне",
+      "ipa": "aɪ wʌz ˈɪnʤərd ɪn ə wɔr",
+      "spell": "I was injured in a war"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу шлем",
+      "ipa": "aɪ wɛr ə ˈhɛlmət",
+      "spell": "I wear a helmet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я приду домой к обеду",
+      "ipa": "aɪ wɪl ɡɛt hoʊm ɪn taɪm fɔr lʌnʧ",
+      "spell": "I will get home in time for lunch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я выиграла приз",
+      "ipa": "aɪ wʌn ə praɪz",
+      "spell": "I won a prize"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в отчаянной попытке добраться до безопасного места",
+      "ipa": "ɪn ə ˈdɛsprɪt bɪd tu riʧ ˈseɪfti",
+      "spell": "in a desperate bid to reach safety"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в старости",
+      "ipa": "ɪn hɪz oʊld eɪʤ",
+      "spell": "in his old age"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в форме цветов",
+      "ipa": "ɪn ðə ʃeɪp ʌv ˈflaʊərz",
+      "spell": "in the shape of flowers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в военное время",
+      "ipa": "ɪn taɪm ʌv wɔr",
+      "spell": "in time of war"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно якобы безотказное",
+      "ipa": "ɪt ɪz səˈpoʊzədli feɪl-pruf",
+      "spell": "it is supposedly fail-proof"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оно якобы безопасное",
+      "ipa": "ɪt ɪz səˈpoʊzədli seɪf",
+      "spell": "it is supposedly safe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне от этого грустно",
+      "ipa": "ɪt meɪks mi fil sæd",
+      "spell": "it makes me feel sad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "темнеет",
+      "ipa": "ɪts ˈɡɛtɪŋ dɑrk",
+      "spell": "it's getting dark"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "храни это дома",
+      "ipa": "kip ɪt æt hoʊm",
+      "spell": "keep it at home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "оставь это на столе",
+      "ipa": "lɛt ɪt sɪt ɑn ðə ˈteɪbəl",
+      "spell": "let it sit on the table"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Луизиана",
+      "ipa": "luːˌiːziˈænə",
+      "spell": "Lousiana"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бабушка по материнской линии",
+      "ipa": "məˈtɜrnəl ˈɡrændˌmʌðər",
+      "spell": "maternal grandmother"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моё решение повлияло на это",
+      "ipa": "maɪ dɪˈsɪʒən əˈfɛktɪd ðæt",
+      "spell": "my decision affected that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "семья моего мужа",
+      "ipa": "maɪ ˈhʌzbəndz ˈfæməli",
+      "spell": "my husband’s family"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мой паспорт скоро истечёт",
+      "ipa": "maɪ ˈpæˌspɔrt ɪz əˈbaʊt tu rʌn aʊt",
+      "spell": "my passport is about to run out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя настоящая личность",
+      "ipa": "maɪ tru aɪˈdɛntəti",
+      "spell": "my true identity"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так много вещей",
+      "ipa": "soʊ ˈmɛni θɪŋz",
+      "spell": "so many things"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что-то неприятное",
+      "ipa": "ˈsʌmθɪŋ ðæt ɪz nɑt ˈplɛzənt",
+      "spell": "something that is not pleasant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "армия обстреливает вражеские позиции",
+      "ipa": "ði ˈɑrmi ʃɛlz ði ˈɛnəmi pəˈzɪʃənz",
+      "spell": "the army shells the enemy positions"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "свеча пахнет вишней",
+      "ipa": "ðə ˈkændəl hæz ə ˈʧɛri sɛnt",
+      "spell": "the candle has a cherry scent"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ребенок идёт в туалет",
+      "ipa": "ðə ʧaɪld ɡoʊz tu ðə ˈbæˌθrum",
+      "spell": "the child goes to the bathroom"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "описание создало яркий образ в моей голове",
+      "ipa": "ðə dɪˈskrɪpʃən kriˈeɪtɪd ə ˈvɪvɪd ˈɪməʤ ɪn maɪ maɪnd",
+      "spell": "the description created a vivid image in my mind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "главного героя играю я",
+      "ipa": "ðə meɪn ˈkɛrɪktər ɪz pleɪd baɪ mi",
+      "spell": "the main character is played by me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "самая запоминающаяся сцена",
+      "ipa": "ðə moʊst ˈmɛmərəbəl sin",
+      "spell": "the most memorable scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фильм основан на книге",
+      "ipa": "ðə ˈmuvi ɪz beɪst ɑn ə bʊk",
+      "spell": "the movie is based on a book"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "действие фильма происходит в прошлом веке",
+      "ipa": "ðə ˈmuvi ɪz sɛt ɪn ðə læst ˈsɛnʧəri",
+      "spell": "the movie is set in the last century"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фильм рассказывает историю женщины",
+      "ipa": "ðə ˈmuvi tɛlz ðə ˈstɔri ʌv ə ˈwʊmən",
+      "spell": "the movie tells the story of a woman"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "портрет — подделка",
+      "ipa": "ðə ˈpɔrtrət ɪz ə ˈfɔrʤəri",
+      "spell": "the portrait is a forgery"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повстанцы свергают правительство",
+      "ipa": "ðə ˈrɛbəlz ˈoʊvərˌθroʊ ðə ˈɡʌvərmənt",
+      "spell": "the rebels overthrow the government"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "две армии договорились временно прекратить боевые действия",
+      "ipa": "ðə tu ˈɑrmiz əˈɡrid tu stɑp ˈfaɪtɪŋ ˌtɛmpəˈrɛrəli",
+      "spell": "the two armies agreed to stop fighting temporarily"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "раненые",
+      "ipa": "ðə ˈwundɪd",
+      "spell": "the wounded"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они объявляют о своём намерении",
+      "ipa": "ðeɪ əˈnaʊns ðɛr ɪnˈtɛnʧən",
+      "spell": "they announce their intention"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "их вешают",
+      "ipa": "ðeɪ ɑr hæŋd",
+      "spell": "they are hanged"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они взрывают здание",
+      "ipa": "ðeɪ bloʊ ʌp ðə ˈbɪldɪŋ",
+      "spell": "they blow up the building"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они захватывают их",
+      "ipa": "ðeɪ ˈkæpʧər ðɛm",
+      "spell": "they capture them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они объявляют им войну",
+      "ipa": "ðeɪ dɪˈklɛr wɔr ɑn ðɛm",
+      "spell": "they declare war on them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они делают это с применением силы",
+      "ipa": "ðeɪ du ɪt ˈjuzɪŋ fɔrs",
+      "spell": "they do it using force"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они казнят его",
+      "ipa": "ðeɪ ˈɛksəˌkjut hɪm",
+      "spell": "they execute him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они наконец побеждают их",
+      "ipa": "ðeɪ ˈfaɪnəli dɪˈfit ðɛm",
+      "spell": "they finally defeat them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они выпускают по ним ракеты",
+      "ipa": "ðeɪ ˈfaɪər ˈmɪsəlz æt ðɛm",
+      "spell": "they fire missiles at them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они подделывают удостоверения личности",
+      "ipa": "ðeɪ fɔrʤ aɪˈdɛntəti ˈdɑkjəmənts",
+      "spell": "they forge identity documents"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они вступают с ними в войну",
+      "ipa": "ðeɪ ɡoʊ tu wɔr wɪð ðɛm",
+      "spell": "they go to war with them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они грабят город",
+      "ipa": "ðeɪ lut ə ˈsɪti",
+      "spell": "they loot a city"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они освобождают большинство из них",
+      "ipa": "ðeɪ riˈlis moʊst ʌv ðɛm",
+      "spell": "they release most of them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они смещают их с власти",
+      "ipa": "ðeɪ riˈmuv ðɛm frʌm ˈpaʊər",
+      "spell": "they remove them from power"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они отступают",
+      "ipa": "ðeɪ riˈtrit",
+      "spell": "they retreat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они останавливают поставки продовольствия",
+      "ipa": "ðeɪ stɑp ðə fud səˈplaɪ",
+      "spell": "they stop the food supply"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они сдаются",
+      "ipa": "ðeɪ səˈrɛndər",
+      "spell": "they surrender"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они взяли их в плен",
+      "ipa": "ðeɪ tʊk ðɛm ˈprɪzənər",
+      "spell": "they took them prisoner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что-то поломалось",
+      "ipa": "θɪŋz ɡɑt ˈbroʊkən",
+      "spell": "things got broken"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это бесчеловечно",
+      "ipa": "ðɪs ɪz ɪnhjuˈmeɪn",
+      "spell": "this is inhumane"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это слово связано с конфликтом и войной",
+      "ipa": "ðɪs wɜrd ɪz rɪˈleɪtɪd tu kənˈflɪkt ænd ˈwɔrˌfɛr",
+      "spell": "this word is related to conflict and warfare"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на протяжении всего урока",
+      "ipa": "θruˈaʊt ðə ˈlɛsən",
+      "spell": "throughout the lesson"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "позволить им",
+      "ipa": "tu əˈlaʊ ðɛm",
+      "spell": "to allow them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "казнить",
+      "ipa": "tu kɪl æz ə ˈpʌnɪʃmənt",
+      "spell": "to kill as a punishment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зажечь свечу",
+      "ipa": "tu laɪt ə ˈkændəl",
+      "spell": "to light a candle"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы не часто общаемся",
+      "ipa": "wi ˈɑrənt ɪn tʌʧ mʌʧ",
+      "spell": "we aren't in touch much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я это слышу, я расстраиваюсь",
+      "ipa": "wɛn aɪ hir ɪt aɪ ɡɛt əpˈsɛt",
+      "spell": "when I hear it I get upset"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты военнопленный",
+      "ipa": "ju ɑr ə paʊ",
+      "spell": "you are a POW"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты в своей лучшей форме",
+      "ipa": "ju ɑr æt jʊər bɛst",
+      "spell": "you are at your best"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты главный",
+      "ipa": "ju ɑr ɪn ʧɑrʤ",
+      "spell": "you are in charge"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты упускаешь так много веселья",
+      "ipa": "ju hæv bɪn ˈmɪsɪŋ aʊt ɑn soʊ mʌʧ fʌn",
+      "spell": "you have been missing out on so much fun"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты отводишь взгляд",
+      "ipa": "ju lʊk əˈweɪ",
+      "spell": "you look away"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты понимаешь",
+      "ipa": "ju ˈriəˌlaɪz",
+      "spell": "you realize"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты сдаёшься",
+      "ipa": "ju səˈrɛndər",
+      "spell": "you surrender"
+    }
+  ]
+}
