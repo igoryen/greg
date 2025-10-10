@@ -2,6 +2,7 @@
   "student": "Ivan K.",
   "slug": "ik",
   "number": 22,
+  "period": "lesson",
   "date": "2025-07-16",
   "words": [
     {
@@ -113,8 +114,8 @@
       "cefr": "",
       "def2": "",
       "def1": "проводить время в спортзале",
-      "ipa": "tu spɛnd æt ðə ʤɪm",
-      "spell": "to spend at the gym"
+      "ipa": "tu spɛnd taɪm æt ðə ʤɪm",
+      "spell": "to spend time at the gym"
     },
     {
       "cefr": "",
