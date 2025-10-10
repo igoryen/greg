@@ -112,6 +112,12 @@
   ],
   "af": [
     {
+      "number": 40,
+      "fileNumber": 12,
+      "date": "2025-10-02",
+      "period": "week"
+    },
+    {
       "number": 39,
       "fileNumber": 11,
       "date": "2025-09-25",
