@@ -43,11 +43,11 @@ const Kalsa = () => {
 
         // WORD PARTS - syllables, prefixes, suffixes, etc.
         // English word parts
-        "tion": "word-suffix", // pronunciation, creation, etc.
-        "ing": "word-suffix",  // studying, keeping, etc.
-        "ea": "word-vowel",    // teach, creature, etc.
-        "ou": "word-vowel",    // sounds, etc.
-        "or": "word-vowel",    // horse, corps, etc.
+        // "tion": "word-suffix", // pronunciation, creation, etc.
+        // "ing": "word-suffix",  // studying, keeping, etc.
+        // "ea": "word-vowel",    // teach, creature, etc.
+        // "ou": "word-vowel",    // sounds, etc.
+        // "or": "word-vowel",    // horse, corps, etc.
 
         // IPA word parts - phonetic elements
         "ˈ": "word-stress",    // primary stress marker
@@ -57,10 +57,15 @@ const Kalsa = () => {
         "æ": "word-vowel",
         "ɑ": "word-vowel",
         "ɜ": "word-vowel",
+        "ʊ": "word-vowel",
+        "ʌ": "word-vowel",
+        "ɝ": "word-vowel",
+        "ɔ": "word-vowel",
         //"ʧ": "word-consonant", // ch sound
         //"ʃ": "word-consonant", // sh sound
         "θ": "word-consonant", // th sound
         "ð": "word-consonant", // th sound
+        "ŋ": "word-consonant",
 
         // Russian word parts - using different class names to avoid duplicates
         // "й": "word-consonant-ru", // y sound
@@ -68,6 +73,7 @@ const Kalsa = () => {
         // "ш": "word-consonant-ru", // sh sound
         "h": "word-consonant-ru",
         "w": "word-consonant-ru", // sh sound
+        "ɪŋ": "word-suffix",
     };
 
     const wrapSelectedWords = (text) => {
@@ -187,16 +193,16 @@ const Kalsa = () => {
                     </div>
 
                     <div className="line-section">
-                        {/* <span className="label">IPA:</span> */}
-                        <span className="ipa-text">
-                            {wrapSelectedWords(line.ipa)}
+                        {/* <span className="label">Original:</span> */}
+                        <span className="spell-text">
+                            {wrapSelectedWords(line.spell)}
                         </span>
                     </div>
 
                     <div className="line-section">
-                        {/* <span className="label">Original:</span> */}
-                        <span className="spell-text">
-                            {wrapSelectedWords(line.spell)}
+                        {/* <span className="label">IPA:</span> */}
+                        <span className="ipa-text">
+                            {wrapSelectedWords(line.ipa)}
                         </span>
                     </div>
 

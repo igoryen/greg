@@ -6,6 +6,7 @@ const Sidju = () => {
 
     const pages = [
         { label: "Alfabeta", path: "/alfabeta", desc: "the names of the letters" },
+        { label: "AspSC", path: "/aspsc", desc: "Aspects: simple vs continuous" },
         { label: "Asti", path: "/asti", desc: "the existential THERE" },
         { label: "Clani", path: "/clani", desc: "vowels: long, short" },
         { label: "Cnici", path: "/cnici", desc: "order the words in a sentence (DND)" },
@@ -13,6 +14,7 @@ const Sidju = () => {
         { label: "Gadri", path: "/gadri", desc: "articles: ə/ən, ðə/ði" },
         { label: "Grapheme", path: "/grapheme", desc: "Graphemes" },
         { label: "Jimte", path: "/jimte", desc: "Message shredder" },
+        { label: "Kalsa", path: "/kalsa", desc: "The Chaos (1922)" },
         { label: "Kooi", path: "/kooi", desc: "imperatives" },
         { label: "Linsi", path: "/linsi", desc: "bookmarks to web resources" },
         { label: "Prenu", path: "/prenu", desc: "possessive pronouns" },
