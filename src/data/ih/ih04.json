@@ -1,0 +1,660 @@
+{
+  "student": "Illia H.",
+  "slug": "ih",
+  "period": "week",
+  "number": 40,
+  "date": "2025-09-30",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "синий фартук",
+      "ipa": "ə блу ˈэйпрəн",
+      "spell": "a blue apron"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кардига́н",
+      "ipa": "ə ˈкɑрдɪгəн",
+      "spell": "a cardigan"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "привычное действие",
+      "ipa": "ə həˈбɪчуəл ˈæкшəн",
+      "spell": "a habitual action"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "палач, вешатель",
+      "ipa": "ə ˈhæŋмəн",
+      "spell": "a hangman"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "доярка",
+      "ipa": "ə ˈмɪлкмэйд",
+      "spell": "a milkmaid"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "девиз",
+      "ipa": "ə ˈмɑтоу",
+      "spell": "a motto"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пара брюк",
+      "ipa": "ə пэр ʌв пæнтс",
+      "spell": "a pair of pants"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пара кроссовок",
+      "ipa": "ə пэр ʌв ˈсникəрз",
+      "spell": "a pair of sneakers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фотограф воссоздаёт картину",
+      "ipa": "ə фəˈтɑгрəфəр ˈрэкриˌэйтс ə ˈпэйнтɪŋ",
+      "spell": "a photographer recreates a painting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "римейк",
+      "ipa": "ə ˈриˈмэйк",
+      "spell": "a remake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спортивный костюм",
+      "ipa": "ə ˈтрæксут",
+      "spell": "a tracksuit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жёлто-зелёная блузка",
+      "ipa": "ə ˈйэлоу æнд грин блаус",
+      "spell": "a yellow and green blouse"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "аксессуар",
+      "ipa": "əн æкˈсэсəри",
+      "spell": "an accessory"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "огромная сумма денег",
+      "ipa": "əн ɪˈнормəс əˈмаунт ʌв ˈмʌни",
+      "spell": "an enormous amount of money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "предмет одежды",
+      "ipa": "əн ˈайтəм ʌв ˈклоуðɪŋ",
+      "spell": "an item of clothing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "безударный слог",
+      "ipa": "əн ʌнˈстрэст ˈсɪлəбəл",
+      "spell": "an unstressed syllable"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя одежда",
+      "ipa": "май клоуðз",
+      "spell": "my clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "одетый в джинсу",
+      "ipa": "дрэст ɪн ˈдэнəм",
+      "spell": "dressed in denim"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не подкрадывайся ко мне",
+      "ipa": "доунт сник ʌп ɑн ми",
+      "spell": "don’t sneak up on me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "практичная обувь",
+      "ipa": "ˈпрæктəкəл ˈфʊˌтwэр",
+      "spell": "practical footwear"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он спросил",
+      "ipa": "hи æскт",
+      "spell": "he asked"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он любит свои перчатки",
+      "ipa": "hи лʌвз hɪз глʌвз",
+      "spell": "he loves his gloves"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он в основном пишет людей",
+      "ipa": "hи ˈмэйнли пэйнтс ˈпипəл",
+      "spell": "he mainly paints people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он пишет людей",
+      "ipa": "hи пэйнтс ˈпипəл",
+      "spell": "he paints people"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он воссоздаёт известное произведение искусства в виде фото",
+      "ipa": "hи ˈриˈмэйкс ə ˈфэймəс wɜрк ʌв ɑрт æз ə ˈфоуˌтоу",
+      "spell": "he remakes a famous work of art as a photo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он никогда не был богат",
+      "ipa": "hи wʌз ˈнэвəр рɪч",
+      "spell": "he was never rich"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "его отношения с его служанкой",
+      "ipa": "hɪз риˈлэйшəнˌщɪп wɪð hɪз ˈсɜрвəнт",
+      "spell": "his relationship with his servant"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько их существует сегодня?",
+      "ipa": "hау ˈмэни ʌв ðэм ɪгˈзɪст тəˈдэй?",
+      "spell": "how many of them exist today?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я всегда одеваюсь в чёрное",
+      "ipa": "ай ˈɔлˌwэйз дрэс ɪн блæк",
+      "spell": "I always dress in black"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я несу сумку",
+      "ipa": "ай æм ˈкæриɪŋ ə бæг",
+      "spell": "I am carrying a bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я проверяю свои сообщения",
+      "ipa": "ай æм ˈчэкɪŋ май ˈмэсəджəз",
+      "spell": "I am checking my messages"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я особенно хорошо умею это делать",
+      "ipa": "ай æм əˈспэшли гʊд æт ˈдуɪŋ ðɪс",
+      "spell": "I am especially good at doing this"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на мне шляпа",
+      "ipa": "ай æм ˈwэрɪŋ ə hæт",
+      "spell": "I am wearing a hat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу солнечные очки",
+      "ipa": "ай æм ˈwэрɪŋ ˈсʌнˌглæсɪз",
+      "spell": "I am wearing sunglasses"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я купил предмет одежды",
+      "ipa": "ай бɑт əн ˈайтəм ʌв ˈклоуðɪŋ",
+      "spell": "I bought an item of clothing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я купил пижаму",
+      "ipa": "ай бɑт сʌм пəˈджɑмəз",
+      "spell": "I bought some pajamas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я купил туфли",
+      "ipa": "ай бɑт сʌм щуз",
+      "spell": "I bought some shoes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не могу нести этот чемодан",
+      "ipa": "ай кæнт ˈкæри ðɪс ˈсутˌкэйс",
+      "spell": "I can't carry this suitcase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я рисую",
+      "ipa": "ай дрɔ",
+      "spell": "I draw"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я очень хорошо одеваюсь",
+      "ipa": "ай дрэс ˈвэри wэл",
+      "spell": "I dress very well"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я узнаю об этом больше",
+      "ipa": "ай файнд аут мор əˈбаут ɪт",
+      "spell": "I find out more about it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у меня на стене постер",
+      "ipa": "ай hæв ə ˈпоустəр ɑн ðə wɔл",
+      "spell": "I have a poster on the wall"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пишу красками",
+      "ipa": "ай пэйнт",
+      "spell": "I paint"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я наливаю",
+      "ipa": "ай пор",
+      "spell": "I pour"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я надеваю одежду",
+      "ipa": "ай пʊт ɑн май клоуðз",
+      "spell": "I put on my clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я обращаюсь к тебе по имени",
+      "ipa": "ай рəˈфɜр ту ю бай нэйм",
+      "spell": "I refer to you by name"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я снимаю одежду",
+      "ipa": "ай тэйк ɔф май клоуðз",
+      "spell": "I take off my clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я примеряю одежду",
+      "ipa": "ай трай ɑн ðə клоуðз",
+      "spell": "I try on the clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу одежду",
+      "ipa": "ай wэр клоуðз",
+      "spell": "I wear clothes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу это для особого случая",
+      "ipa": "ай wэр ðɪс фор ə ˈспэшəл əˈкэйжəн",
+      "spell": "I wear this for a special occasion"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу это для колледжа",
+      "ipa": "ай wэр ðɪс фор ˈкɑлɪдж",
+      "spell": "I wear this for college"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу это для школы",
+      "ipa": "ай wэр ðɪс фор скул",
+      "spell": "I wear this for school"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу это для работы",
+      "ipa": "ай wэр ðɪс фор wɜрк",
+      "spell": "I wear this for work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я наливаю молоко в миску",
+      "ipa": "айм ˈпорɪŋ мɪлк ˈɪнту ə боул",
+      "spell": "I'm pouring milk into a bowl"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я беру отпуск на два месяца",
+      "ipa": "айм ˈтэйкɪŋ ə ту-мʌнθ вэйˈкэйшəн",
+      "spell": "I'm taking a two-month vacation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на заднем плане",
+      "ipa": "ɪн ðə ˈбæкˌграунд",
+      "spell": "in the background"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на переднем плане",
+      "ipa": "ɪн ðə ˈфорˌграунд",
+      "spell": "in the foreground"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она нанесла макияж?",
+      "ipa": "ɪз щи ˈwэрɪŋ ˈмэйˌкʌп?",
+      "spell": "is she wearing makeup?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы как бы смотрим на сцену через окно",
+      "ipa": "ɪт ɪз æз ɪф wи wɜр ˈлʊкɪŋ æт ə син θру ə ˈwɪндоу",
+      "spell": "it is as if we were looking at a scene through a window"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "украшения",
+      "ipa": "ˈджуəлри",
+      "spell": "jewelry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "леггинсы",
+      "ipa": "ˈлэгɪŋз",
+      "spell": "leggings"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "свет проникает в комнату через окно",
+      "ipa": "лайт кʌмз ˈɪнту ðə рум θру ðə ˈwɪндоу",
+      "spell": "light comes into the room through the window"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "посмотри на картину и фото",
+      "ipa": "лʊк æт ðə ˈпэйнтɪŋ æнд ˈфоуˌтоу",
+      "spell": "look at the painting and photo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так думает большинство людей",
+      "ipa": "моуст ˈпипəл θɪŋк ðæт",
+      "spell": "most people think that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя собака не кусается",
+      "ipa": "май дɔг ˈдʌзəнт байт",
+      "spell": "my dog doesn't bite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "отчасти по этой причине",
+      "ipa": "ˈпɑртли фор ðɪс ˈризəн",
+      "spell": "partly for this reason"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "люди очень ими восхищаются",
+      "ipa": "ˈпипəл æдˈмайр ðэм ə лɑт",
+      "spell": "people admire them a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это самый распространённый звук",
+      "ipa": "ðɪс ɪз ðə моуст ˈкɑмəн саунд",
+      "spell": "this is the most common sound"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "есть причина для этого",
+      "ipa": "ðэр ɪз ə ˈризəн фор ðɪс",
+      "spell": "there is a reason for this"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сейчас они не очень хорошо ладят",
+      "ipa": "ðэй ɑр нɑт ˈгэтɪŋ əˈлɔŋ wэл райт нау",
+      "spell": "they are not getting along well right now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "они не поймут их",
+      "ipa": "ðэй wɪл нɑт ˌʌндəрˈстæнд ðэм",
+      "spell": "they will not understand them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это происходит часто",
+      "ipa": "ðɪс ˈhæпəнз ˈфрикwəнтли",
+      "spell": "this happens frequently"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это происходит регулярно",
+      "ipa": "ðɪс ˈhæпəнз həˈбɪчуəли",
+      "spell": "this happens habitually"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это вообще верно",
+      "ipa": "ðɪс ɪз ˈджэнəрəли тру",
+      "spell": "this is generally true"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "эта картина его работы",
+      "ipa": "ðɪс ˈпэйнтɪŋ ɪз бай hɪм",
+      "spell": "this painting is by him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это всегда происходит",
+      "ipa": "ðɪс θɪŋ ˈɔлˌwэйз ˈhæпəнз",
+      "spell": "this thing always happens"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "этот глагол описывает чувство",
+      "ipa": "ðɪс вɜрб дɪˈскрайбз ə ˈфилɪŋ",
+      "spell": "this verb describes a feeling"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "этот глагол описывает состояние",
+      "ipa": "ðɪс вɜрб дɪˈскрайбз ə стэйт",
+      "spell": "this verb describes a state"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы обычно едим не дома",
+      "ipa": "wи ˈнормəли ит аут",
+      "spell": "we normally eat out"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что ты здесь делаешь?",
+      "ipa": "wɑт ɑр ю ˈдуɪŋ hир?",
+      "spell": "what are you doing here?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в каком веке он жил?",
+      "ipa": "wɑт ˈсэнчəри дɪд hи лɪв ɪн?",
+      "spell": "what century did he live in?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что она, вероятно, готовит?",
+      "ipa": "wɑт ɪз щи ˈпрɑбəбли ˈмэйкɪŋ?",
+      "spell": "what is she probably making?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что он обычно пишет?",
+      "ipa": "wɑт кайнд ʌв θɪŋз дʌз hи ˈюжəwəли пэйнт?",
+      "spell": "what kind of things does he usually paint?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что на картинке?",
+      "ipa": "wʌтс ɪн ðə ˈпɪкчəр?",
+      "spell": "what's in the picture?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какой повод?",
+      "ipa": "wʌтс ðи əˈкэйжəн?",
+      "spell": "what’s the occasion?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я выхожу ночью",
+      "ipa": "wэн ай гоу аут æт найт",
+      "spell": "when I go out at night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я хочу расслабиться на выходных",
+      "ipa": "wэн ай wɑнт ту рɪˈлæкс ɑн ðə ˈwиˌкэнд",
+      "spell": "when I want to relax on the weekend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "откуда он был?",
+      "ipa": "wэр wʌз hи фрʌм?",
+      "spell": "where was he from?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какой из них, по-твоему, лучший?",
+      "ipa": "wɪч ʌв ðэм ду ю θɪŋк ɪз бэст?",
+      "spell": "which of them do you think is best?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "который говорит по-украински",
+      "ipa": "hу спикс юˈкрэйниəн",
+      "spell": "who speaks Ukrainian"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почему на тебе пальто?",
+      "ipa": "wай ɑр ю ˈwэрɪŋ ə коут?",
+      "spell": "why are you wearing a coat?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почему на тебе солнечные очки?",
+      "ipa": "wай ɑр ю ˈwэрɪŋ ˈсʌнˌглæсɪз?",
+      "spell": "why are you wearing sunglasses?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты стоишь на моей ноге",
+      "ipa": "ю ɑр ˈстæндɪŋ ɑн май фʊт",
+      "spell": "you are standing on my foot"
+    }
+  ]
+}
