@@ -21,16 +21,6 @@ const HomePage = () => {
                                 <div className="line1">English Lessons from Toronto</div>
                                 <div className="line2">For all levels – Life, Work & Everything Between</div>
                             </div>
-
-                            <div className="matt">
-                                <div className="line1">Clases de Inglés desde Toronto</div>
-                                <div className="line2">Para todos los niveles – Vida, Trabajo y Todo lo Demás</div>
-                            </div>
-
-                            <div className="matt">
-                                <div className="line1">Английский из Торонто</div>
-                                <div className="line2">Для любого уровня — для жизни, работы и всего остального</div>
-                            </div>
                         </div>
 
                         <div className="mike">

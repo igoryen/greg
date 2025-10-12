@@ -185,6 +185,13 @@
         }
 
         .jimmy {
+            display: grid;
+            place-items: center;
+            /* Centers both vertically and horizontally */
+            height: 30vh;
+            /* Example: full viewport height */
+
+
             &>div:nth-of-type(1) {
                 // background-color: #cbe6ef;
             }
@@ -199,10 +206,11 @@
         }
 
         .matt {
-            padding: 0.5em;
-
-            margin-bottom: 0.3em;
             font-size: large;
+            height: fit-content;
+            margin-bottom: 0.3em;
+            padding: 0.5em;
+            text-align: center;
 
             .line1 {
                 font-weight: bold;
