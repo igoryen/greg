@@ -1,0 +1,492 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "period": "week",
+  "number": 40,
+  "date": "2025-10-05",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знаменитая сцена из фильма",
+      "ipa": "ə ˈфэймəс ˈмуви син",
+      "spell": "a famous movie scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "музей искусств",
+      "ipa": "ə мъюˈзиəм ʌв ɑрт",
+      "spell": "a museum of art"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "системная ошибка",
+      "ipa": "ə ˈсɪстəм ˈэрəр",
+      "spell": "a system error"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "замечательный продукт",
+      "ipa": "ə ˈwʌндəрфəл ˈпрɑдəкт",
+      "spell": "a wonderful product"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неправильная дата",
+      "ipa": "ə рɔŋ дэйт",
+      "spell": "a wrong date"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "орёл",
+      "ipa": "əн ˈигəл",
+      "spell": "an eagle"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "по правилам",
+      "ipa": "бай ðə рулз",
+      "spell": "by the rules"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты понял?",
+      "ipa": "дɪд ю гэт ɪт?",
+      "spell": "did you get it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты понимаешь?",
+      "ipa": "ду ю гэт ɪт?",
+      "spell": "do you get it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "каждый день, кроме праздников США",
+      "ipa": "ˈэвəри дэй ɪкˈсэпт ɑн ʌс ˈhɑлəˌдэйз",
+      "spell": "every day except on US holidays"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ходить в поход (с палаткой)",
+      "ipa": "гоу ˈкæмпɪŋ",
+      "spell": "go camping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ходить по магазинам",
+      "ipa": "гоу ˈшɑпɪŋ",
+      "spell": "go shopping"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он может меня заменить",
+      "ipa": "hи кæн ˌриˈплэйс ми",
+      "spell": "he can replace me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как и когда мне это исправить?",
+      "ipa": "hау æнд wэн щʊд ай фɪкс ɪт?",
+      "spell": "how and when should I fix it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько времени это может занять?",
+      "ipa": "hау лɔŋ кæн ɪт тэйк?",
+      "spell": "how long can it take?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нужно, надо",
+      "ipa": "hæв ту",
+      "spell": "have to"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тоже устала",
+      "ipa": "ай æм ˈɔлсоу ˈтайəрд",
+      "spell": "I am also tired"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я рад за тебя",
+      "ipa": "ай æм ˈhæпи фор ю",
+      "spell": "I am happy for you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сейчас не могу говорить, я за рулём",
+      "ipa": "ай кæнт тɔк нау. айм ˈдрайвɪŋ",
+      "spell": "I can't talk now. I'm driving"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не могу сказать того же",
+      "ipa": "ай кæнт сэй ðə сэйм",
+      "spell": "I can’t say the same"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я тебя понимаю, я тебе сопереживаю",
+      "ipa": "ай фил фор ю",
+      "spell": "I feel for you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я нахожу ошибки",
+      "ipa": "ай файнд мɪсˈтэйкс",
+      "spell": "I find mistakes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я понимаю",
+      "ipa": "ай гэт ɪт",
+      "spell": "I get it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я побеседовала с ней",
+      "ipa": "ай hæд ə ˌкɑнвəрˈсэйшəн wɪð hɜр",
+      "spell": "I had a conversation with her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ненавижу это делать",
+      "ipa": "ай hэйт ˈдуɪŋ ɪт",
+      "spell": "I hate doing it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мне нравится это делать",
+      "ipa": "ай лайк ˈдуɪŋ ɪт",
+      "spell": "I like doing it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я люблю смотреть драмы",
+      "ipa": "ай лайк ˈwɑчɪŋ ˈдрɑмəз",
+      "spell": "I like watching dramas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я обожаю это делать",
+      "ipa": "ай лʌв ˈдуɪŋ ɪт",
+      "spell": "I love doing it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я даже не обиделась",
+      "ipa": "ай ˈwɑзəнт ˈивɪн əˈфэндɪд",
+      "spell": "I wasn’t even offended"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сделаю педикюр",
+      "ipa": "ай wɪл hæв / ду ə ˈпэдɪкйəр",
+      "spell": "I will have / do a pedicure"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хоккей",
+      "ipa": "айс ˈhɑки",
+      "spell": "ice hockey"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если я много выпью",
+      "ipa": "ɪф ай дрɪŋк ə лɑт",
+      "spell": "if I drink a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "если я выйду, будет только лучше",
+      "ipa": "ɪф ай гэт аут ɪт wɪл ˈоунли би ˈбэтəр",
+      "spell": "if I get out it will only be better"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это на компьютере?",
+      "ipa": "ɪз ɪт ɑн ðə кəмˈпъютəр?",
+      "spell": "is it on the computer?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это твоя работа?",
+      "ipa": "ɪз ɪт йʊəр джɑб?",
+      "spell": "is it your job?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это опечатка",
+      "ipa": "ɪт ɪз ə ˈтайпоу",
+      "spell": "it is a typo"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это упущение",
+      "ipa": "ɪт ɪз əн ˈоувəрˌсайт",
+      "spell": "it is an oversight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "требуется много людей чтобы исправить это",
+      "ipa": "ɪт тэйкс ə лɑт ʌв ˈпипəл ту фɪкс ɪт",
+      "spell": "it takes a lot of people to fix it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это не как торт испечь",
+      "ipa": "ɪтс нɑт лайк ˈбэйкɪŋ ə кэйк",
+      "spell": "it’s not like baking a cake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поживи немного!",
+      "ipa": "лɪв ə ˈлɪтəл!",
+      "spell": "live a little!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "живая музыка",
+      "ipa": "лɪв ˈмъюзɪк",
+      "spell": "live music"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "давно не виделись",
+      "ipa": "лɔŋ тайм ноу си",
+      "spell": "long time no see"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смотри, он играет в футбол",
+      "ipa": "лʊк, hиз ˈплэйɪŋ ˈсɑкəр",
+      "spell": "look, he's playing soccer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "смотри, они купаются в реке",
+      "ipa": "лʊк, ðэй ɑр ˈсwɪмɪŋ ɪн ðə ˈрɪвəр",
+      "spell": "look, they are swimming in the river"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "психология",
+      "ipa": "сайˈкɑлəджи",
+      "spell": "psychology"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она деспотична",
+      "ipa": "щи ɪз дɪˈспɑтɪк",
+      "spell": "she is despotic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она некомпетентна",
+      "ipa": "щи ɪз ɪнˈкɑмпəтəнт",
+      "spell": "she is incompetent"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она не деспотична",
+      "ipa": "щи ɪз нɑт дɪˈспɑтɪк",
+      "spell": "she is not despotic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она токсична",
+      "ipa": "щи ɪз ˈтɑксɪк",
+      "spell": "she is toxic"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сегодня она работает из дома",
+      "ipa": "щиз ˈwɜркɪŋ фрʌм hоум тəˈдэй",
+      "spell": "she's working from home today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "статуя Рокки",
+      "ipa": "ðə ˈрɑки ˈстæˌчу",
+      "spell": "the Rocky Statue"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя беспорядок в файлах",
+      "ipa": "ðэр ɪз ə мэс ɪн йʊəр файлз",
+      "spell": "there is a mess in your files"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "привести файлы в порядок",
+      "ipa": "ту клин ʌп ðə файлз",
+      "spell": "to clean up the files"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "убрать свой бардак / беспорядок",
+      "ipa": "ту клин ʌп йʊəр мэс",
+      "spell": "to clean up your mess"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "согласовывать с ней всё",
+      "ipa": "ту рʌн ˈэвриˌθɪŋ бай hɜр",
+      "spell": "to run everything by her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сегодня 30 сентября",
+      "ipa": "тəˈдэй ɪз сэпˈтэмбəр ˈθɜртиəθ",
+      "spell": "today is September thirtieth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сегодня вторник",
+      "ipa": "тəˈдэй ɪз ˈтузˌдэй",
+      "spell": "today is Tuesday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подождите здесь, пожалуйста!",
+      "ipa": "wэйт hир, плиз!",
+      "spell": "wait here, please!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "это была моя работа?",
+      "ipa": "wʌз ɪт май джɑб?",
+      "spell": "was it my job?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы готовимся к экзамену",
+      "ipa": "wи ɑр ˈстʌдиɪŋ фор əн ɪгˈзæм",
+      "spell": "we are studying for an exam"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какой беспорядок!",
+      "ipa": "wɑт ə мэс!",
+      "spell": "what a mess!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что ты хочешь, чтобы я сделал?",
+      "ipa": "wɑт ду ю wɑнт ми ту ду?",
+      "spell": "what do you want me to do?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "какие ещё есть ошибки?",
+      "ipa": "wɑт ˈʌðəр мɪсˈтэйкс ɑр ðэр?",
+      "spell": "what other mistakes are there?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "где ты была?",
+      "ipa": "wэр wɜр ю?",
+      "spell": "where were you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вы можете посидеть здесь и подождать",
+      "ipa": "ю кæн сɪт hир æнд wэйт",
+      "spell": "you can sit here and wait"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "после распития нельзя за руль",
+      "ipa": "ю кæнт драйв ˈæфтəр ˈдрɪŋкɪŋ",
+      "spell": "you can’t drive after drinking"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нельзя ездить быстро",
+      "ipa": "ю кæнт драйв фæст",
+      "spell": "you can’t drive fast"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вам нужно подождать его",
+      "ipa": "ю hæв ту wэйт фор hɪм",
+      "spell": "you have to wait for him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты делаешь не то",
+      "ipa": "йʊр ˈдуɪŋ ðə рɔŋ θɪŋ",
+      "spell": "you're doing the wrong thing"
+    }
+  ]
+}
