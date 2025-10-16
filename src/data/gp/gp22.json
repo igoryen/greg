@@ -1,0 +1,499 @@
+{
+  "student": "Galja P.",
+  "slug": "gp",
+  "period": "week",
+  "number": 41,
+  "date": "2025-10-08",
+  "words": [
+    {
+      "def1": "родинний друг",
+      "ipa": "ə френд ʌv ðə ˈфæмəлі",
+      "spell": "a friend of the family"
+    },
+    {
+      "def1": "багато речей",
+      "ipa": "ə лɑт ʌv θиŋз",
+      "spell": "a lot of things"
+    },
+    {
+      "def1": "маса",
+      "ipa": "ə мæс",
+      "spell": "a mass"
+    },
+    {
+      "def1": "присвійний займенник",
+      "ipa": "ə пəˈзесиv ˈпроунаун",
+      "spell": "a possessive pronoun"
+    },
+    {
+      "def1": "родич",
+      "ipa": "ə ˈрелəтиv",
+      "spell": "a relative"
+    },
+    {
+      "def1": "Андрієве",
+      "ipa": "Aндрійз",
+      "spell": "Andriy's"
+    },
+    {
+      "def1": "Аннине",
+      "ipa": "ˈæнəз",
+      "spell": "Anna's"
+    },
+    {
+      "def1": "це келихи?",
+      "ipa": "ɑр ðіз мʌґз?",
+      "spell": "are these mugs?"
+    },
+    {
+      "def1": "Артемове",
+      "ipa": "Aртeмз",
+      "spell": "Artem's"
+    },
+    {
+      "def1": "що до мене",
+      "ipa": "æз фор мі",
+      "spell": "as for me"
+    },
+    {
+      "def1": "Богданове",
+      "ipa": "Бohдaнз",
+      "spell": "Bohdan's"
+    },
+    {
+      "def1": "холодно",
+      "ipa": "коулд",
+      "spell": "cold"
+    },
+    {
+      "def1": "лічильний",
+      "ipa": "ˈкаунтəбəл",
+      "spell": "countable"
+    },
+    {
+      "def1": "Данилове",
+      "ipa": "Дaнилoуз",
+      "spell": "Danylo's"
+    },
+    {
+      "def1": "Даринине",
+      "ipa": "дaринaз",
+      "spell": "Daryna's"
+    },
+    {
+      "def1": "Денисове",
+      "ipa": "ˈденисиз",
+      "spell": "Denys's"
+    },
+    {
+      "def1": "Дмитрове",
+      "ipa": "Дмитрoуз",
+      "spell": "Dmytro's"
+    },
+    {
+      "def1": "галино",
+      "ipa": "Галиаз",
+      "spell": "Galja’s"
+    },
+    {
+      "def1": "її будинок",
+      "ipa": "hɜр hаус",
+      "spell": "her house"
+    },
+    {
+      "def1": "її гроші",
+      "ipa": "hɜр ˈмʌні",
+      "spell": "her money"
+    },
+    {
+      "def1": "його будинок",
+      "ipa": "hиз hаус",
+      "spell": "his house"
+    },
+    {
+      "def1": "його гроші",
+      "ipa": "hиз ˈмʌні",
+      "spell": "his money"
+    },
+    {
+      "def1": "скільки машин?",
+      "ipa": "hау ˈмені кɑрз?",
+      "spell": "how many cars?"
+    },
+    {
+      "def1": "скільки дверей?",
+      "ipa": "hау ˈмені дорз?",
+      "spell": "how many doors?"
+    },
+    {
+      "def1": "скільки будинків?",
+      "ipa": "hау ˈмені ˈhаузиз?",
+      "spell": "how many houses?"
+    },
+    {
+      "def1": "скільки ручок?",
+      "ipa": "hау ˈмені пенз?",
+      "spell": "how many pens?"
+    },
+    {
+      "def1": "скільки вікон?",
+      "ipa": "hау ˈмені ˈwиндоуз?",
+      "spell": "how many windows?"
+    },
+    {
+      "def1": "скільки коштують ці футболки?",
+      "ipa": "hау мʌч ɑр ðіз ті-шɜртс?",
+      "spell": "how much are these T-shirts?"
+    },
+    {
+      "def1": "скільки коштують ці іграшки?",
+      "ipa": "hау мʌч ɑр ðіз тойз?",
+      "spell": "how much are these toys?"
+    },
+    {
+      "def1": "скільки коштує та кепка?",
+      "ipa": "hау мʌч из ðæт кæп?",
+      "spell": "how much is that cap?"
+    },
+    {
+      "def1": "скільки коштує цей келих?",
+      "ipa": "hау мʌч из ðис мʌґ?",
+      "spell": "how much is this mug?"
+    },
+    {
+      "def1": "скільки молока?",
+      "ipa": "hау мʌч милк?",
+      "spell": "how much milk?"
+    },
+    {
+      "def1": "скільки грошей?",
+      "ipa": "hау мʌч ˈмʌні?",
+      "spell": "how much money?"
+    },
+    {
+      "def1": "скільки часу в мене є?",
+      "ipa": "hау мʌч тайм ду ай hæv?",
+      "spell": "how much time do I have?"
+    },
+    {
+      "def1": "скільки води?",
+      "ipa": "hау мʌч ˈwɔтəр?",
+      "spell": "how much water?"
+    },
+    {
+      "def1": "чоловікове",
+      "ipa": "ˈhʌзбəндз",
+      "spell": "husband's"
+    },
+    {
+      "def1": "я найстарший",
+      "ipa": "ай æм ðі ˈоулдəст",
+      "spell": "I am the oldest"
+    },
+    {
+      "def1": "я не п'ю багато коли",
+      "ipa": "ай доунт дриŋк мʌч коук",
+      "spell": "I don't drink much coke"
+    },
+    {
+      "def1": "я не їм багато фастфуду",
+      "ipa": "ай доунт іт мʌч фæст фуд",
+      "spell": "I don't eat much fast food"
+    },
+    {
+      "def1": "я використовую багато клороксу",
+      "ipa": "ай юз ə лɑт ʌv ˈклорɑкс",
+      "spell": "I use a lot of Clorox"
+    },
+    {
+      "def1": "игорево",
+      "ipa": "иˈґорз",
+      "spell": "Igor’s"
+    },
+    {
+      "def1": "Іринине",
+      "ipa": "Iринaз",
+      "spell": "Iryna's"
+    },
+    {
+      "def1": "сонячно?",
+      "ipa": "из ит ˈсʌні?",
+      "spell": "is it sunny?"
+    },
+    {
+      "def1": "це належить мені",
+      "ipa": "ит биˈлɔŋз ту мі",
+      "spell": "it belongs to me"
+    },
+    {
+      "def1": "це фантастично",
+      "ipa": "ит из фæнˈтæстик",
+      "spell": "it is fantastic"
+    },
+    {
+      "def1": "це означає \"it means\"",
+      "ipa": "ит мінз \"ит мінз\"",
+      "spell": "it means \"it means\""
+    },
+    {
+      "def1": "це брелок",
+      "ipa": "итс ə кі чейн",
+      "spell": "it's a key chain"
+    },
+    {
+      "def1": "сьогодні холодно",
+      "ipa": "итс коулд тəˈдей",
+      "spell": "it's cold today"
+    },
+    {
+      "def1": "сонячно, але холодно",
+      "ipa": "итс ˈсʌні бʌт коулд",
+      "spell": "it's sunny but cold"
+    },
+    {
+      "def1": "його гроші",
+      "ipa": "итс ˈмʌні",
+      "spell": "its money"
+    },
+    {
+      "def1": "його ресторан фантастичний",
+      "ipa": "итс ˈрестəˌрɑнт из фæнˈтæстик",
+      "spell": "its restaurant is fantastic"
+    },
+    {
+      "def1": "Джек і Джил американці",
+      "ipa": "джæк æнд джил ɑр əˈмерəкəн",
+      "spell": "Jack and Jill are American"
+    },
+    {
+      "def1": "Христинине",
+      "ipa": "христинaз",
+      "spell": "Khrystyna's"
+    },
+    {
+      "def1": "Макарове",
+      "ipa": "ˈмæкəрз",
+      "spell": "Makar's"
+    },
+    {
+      "def1": "Максимове",
+      "ipa": "мaксимз",
+      "spell": "Maksym's"
+    },
+    {
+      "def1": "Маріїне",
+      "ipa": "мəˈріəз",
+      "spell": "Maria's"
+    },
+    {
+      "def1": "Маркове",
+      "ipa": "мɑркс",
+      "spell": "Mark's"
+    },
+    {
+      "def1": "автомобіль мого брата",
+      "ipa": "май ˈбрʌðəрз кɑр",
+      "spell": "my brother's car"
+    },
+    {
+      "def1": "автомобілі моїх братів",
+      "ipa": "май ˈбрʌðəрз кɑрз",
+      "spell": "my brothers' cars"
+    },
+    {
+      "def1": "мій будинок",
+      "ipa": "май hаус",
+      "spell": "my house"
+    },
+    {
+      "def1": "мої гроші",
+      "ipa": "май ˈмʌні",
+      "spell": "my money"
+    },
+    {
+      "def1": "мій молодший брат народився в ...",
+      "ipa": "май ˈйʌŋґəст ˈбрʌðəр wʌз борн ин ...",
+      "spell": "my youngest brother was born in ..."
+    },
+    {
+      "def1": "моя молодша сестра народилася в ...",
+      "ipa": "май ˈйʌŋґəст ˈсистəр wʌз борн ин ...",
+      "spell": "my youngest sister was born in ..."
+    },
+    {
+      "def1": "Михайлове",
+      "ipa": "михaілoуз",
+      "spell": "Mykhailo's"
+    },
+    {
+      "def1": "ні добрий, ні поганий",
+      "ipa": "ˈніðəр ґʊд, нор бæд",
+      "spell": "neither good, nor bad"
+    },
+    {
+      "def1": "приємно познайомитися",
+      "ipa": "найс ту міт ю",
+      "spell": "nice to meet you"
+    },
+    {
+      "def1": "Оленине",
+      "ipa": "олeнaз",
+      "spell": "Olena's"
+    },
+    {
+      "def1": "наші діти он там",
+      "ipa": "ˈауəр ˈчилдрəн ɑр ˈоуvəр ðер",
+      "spell": "our children are over there"
+    },
+    {
+      "def1": "наш будинок",
+      "ipa": "ˈауəр hаус",
+      "spell": "our house"
+    },
+    {
+      "def1": "наші гроші",
+      "ipa": "ˈауəр ˈмʌні",
+      "spell": "our money"
+    },
+    {
+      "def1": "так собі",
+      "ipa": "соу соу",
+      "spell": "so so"
+    },
+    {
+      "def1": "Софійне",
+      "ipa": "соуˈфіəз",
+      "spell": "Sofia's"
+    },
+    {
+      "def1": "Тетянине",
+      "ipa": "тeтіaнaз",
+      "spell": "Tetiana's"
+    },
+    {
+      "def1": "важливо, що ти пам'ятаєш",
+      "ipa": "ðі имˈпортəнт θиŋ из ðæт ю риˈмембəр",
+      "spell": "the important thing is that you remember"
+    },
+    {
+      "def1": "їхній будинок",
+      "ipa": "ðер hаус",
+      "spell": "their house"
+    },
+    {
+      "def1": "їхні чоловіки британці",
+      "ipa": "ðер ˈhʌзбəндз ɑр ˈбритиш",
+      "spell": "their husbands are British"
+    },
+    {
+      "def1": "їхні гроші",
+      "ipa": "ðер ˈмʌні",
+      "spell": "their money"
+    },
+    {
+      "def1": "їх звати Джек і Джил",
+      "ipa": "ðер неймз ɑр джæк æнд джил",
+      "spell": "their names are Jack and Jill"
+    },
+    {
+      "def1": "їх звуть...",
+      "ipa": "ðер неймз ɑр...",
+      "spell": "their names are..."
+    },
+    {
+      "def1": "це сонцезахисні окуляри",
+      "ipa": "ðіз ɑр ˈсʌнˌґлæсиз",
+      "spell": "these are sunglasses"
+    },
+    {
+      "def1": "це кепки",
+      "ipa": "ðей ɑр кæпс",
+      "spell": "they are caps"
+    },
+    {
+      "def1": "вони звучать однаково",
+      "ipa": "ðей саунд ðə сейм",
+      "spell": "they sound the same"
+    },
+    {
+      "def1": "Тимофієве",
+      "ipa": "тимoфійз",
+      "spell": "Tymofiy's"
+    },
+    {
+      "def1": "нелічильний",
+      "ipa": "ʌнˈкаунтəбəл",
+      "spell": "uncountable"
+    },
+    {
+      "def1": "Вікторинине",
+      "ipa": "віктoріяз",
+      "spell": "Viktoriya's"
+    },
+    {
+      "def1": "у нас є бронювання",
+      "ipa": "wі hæv ə ˌрезəрˈvейшəн",
+      "spell": "we have a reservation"
+    },
+    {
+      "def1": "як їх звати?",
+      "ipa": "wɑт ɑр ðер неймз?",
+      "spell": "what are their names?"
+    },
+    {
+      "def1": "що це означає?",
+      "ipa": "wɑт дʌз ðис мін?",
+      "spell": "what does this mean?"
+    },
+    {
+      "def1": "як його звати?",
+      "ipa": "wɑт из итс нейм?",
+      "spell": "what is its name?"
+    },
+    {
+      "def1": "що це означає",
+      "ipa": "wɑт ит мінз",
+      "spell": "what it means"
+    },
+    {
+      "def1": "чий?",
+      "ipa": "hуз?",
+      "spell": "whose?"
+    },
+    {
+      "def1": "дружинине",
+      "ipa": "wайфс",
+      "spell": "wife's"
+    },
+    {
+      "def1": "вітряно",
+      "ipa": "ˈwинді",
+      "spell": "windy"
+    },
+    {
+      "def1": "Євгеніїне",
+      "ipa": "йevheніяз",
+      "spell": "Yevheniia's"
+    },
+    {
+      "def1": "ваш будинок",
+      "ipa": "йʊəр hаус",
+      "spell": "your house"
+    },
+    {
+      "def1": "твій будинок",
+      "ipa": "йʊəр hаус",
+      "spell": "your house"
+    },
+    {
+      "def1": "ваші гроші",
+      "ipa": "йʊəр ˈмʌні",
+      "spell": "your money"
+    },
+    {
+      "def1": "твої гроші",
+      "ipa": "йʊəр ˈмʌні",
+      "spell": "your money"
+    }
+  ]
+}
