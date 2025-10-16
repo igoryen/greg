@@ -1,0 +1,284 @@
+{
+  "student": "Olena T.",
+  "slug": "ot",
+  "period": "week",
+  "number": 40,
+  "date": "2025-09-30",
+  "words": [
+    {
+      "def1": "городская причёска",
+      "ipa": "ə ˈсɪти ˈhэрˌстайл",
+      "spell": "a city hairstyle"
+    },
+    {
+      "def1": "повар готовит еду",
+      "ipa": "ə кʊк кʊкс фуд",
+      "spell": "a cook cooks food"
+    },
+    {
+      "def1": "все клиенты — англоговорящие",
+      "ipa": "ɔл ðə ˈкʌстəмəрз ɑр ˈɪŋглɪш ˈспикəрз",
+      "spell": "all the customers are English speakers"
+    },
+    {
+      "def1": "ответь на звонок, пожалуйста",
+      "ipa": "ˈæнсəр ðə фоун, плиз",
+      "spell": "answer the phone, please"
+    },
+    {
+      "def1": "у вас есть запись (условленная встреча)?",
+      "ipa": "ду ю hæв əн əˈпойнтмəнт?",
+      "spell": "do you have an appointment?"
+    },
+    {
+      "def1": "вам нужно записаться?",
+      "ipa": "ду ю нид ту мэйк əн əˈпойнтмəнт?",
+      "spell": "do you need to make an appointment?"
+    },
+    {
+      "def1": "ты всё время говоришь?",
+      "ipa": "ду ю тɔк ɔл ðə тайм?",
+      "spell": "do you talk all the time?"
+    },
+    {
+      "def1": "он делает это постоянно",
+      "ipa": "hи дʌз ɪт ɔл ðə тайм",
+      "spell": "he does it all the time"
+    },
+    {
+      "def1": "он не пьёт",
+      "ipa": "hи дʌз нɑт дрɪŋк",
+      "spell": "he does not drink"
+    },
+    {
+      "def1": "ему не нравится холодная погода",
+      "ipa": "hи ˈдʌзəнт лайк коулд ˈwэðəр",
+      "spell": "he doesn't like cold weather"
+    },
+    {
+      "def1": "он не работает по субботам",
+      "ipa": "hи ˈдʌзəнт wɜрк ɑн ˈсæтəрдиз",
+      "spell": "he doesn't work on Saturdays"
+    },
+    {
+      "def1": "они у него есть",
+      "ipa": "hи hæз ðэм",
+      "spell": "he has them"
+    },
+    {
+      "def1": "он живёт в доме",
+      "ipa": "hи лɪвз ɪн ə hаус",
+      "spell": "he lives in a house"
+    },
+    {
+      "def1": "он хочет гитару",
+      "ipa": "hи wɑнтс ə гɪˈтɑр",
+      "spell": "he wants a guitar"
+    },
+    {
+      "def1": "у меня сегодня выходной",
+      "ipa": "ай æм ɔф тəˈдэй",
+      "spell": "I am off today"
+    },
+    {
+      "def1": "я стригу людей",
+      "ipa": "ай кʌт ˈпипəлз hэр",
+      "spell": "I cut people’s hair"
+    },
+    {
+      "def1": "я делаю работу по дому",
+      "ipa": "ай ду ˈhауˌсwɜрк",
+      "spell": "I do housework"
+    },
+    {
+      "def1": "я всё время делаю это",
+      "ipa": "ай ду ɪт ɔл ðə тайм",
+      "spell": "I do it all the time"
+    },
+    {
+      "def1": "я не пью",
+      "ipa": "ай ду нɑт дрɪŋк",
+      "spell": "I do not drink"
+    },
+    {
+      "def1": "у меня нет денег",
+      "ipa": "ай доунт hæв ˈэни ˈмʌни",
+      "spell": "I don't have any money"
+    },
+    {
+      "def1": "мне не нравится холодная погода",
+      "ipa": "ай доунт лайк коулд ˈwэðəр",
+      "spell": "I don't like cold weather"
+    },
+    {
+      "def1": "у меня много дел по дому",
+      "ipa": "ай hæв ˈмэни θɪŋз ту ду əˈраунд ðə hаус",
+      "spell": "I have many things to do around the house"
+    },
+    {
+      "def1": "у меня есть деньги",
+      "ipa": "ай hæв ˈмʌни",
+      "spell": "I have money"
+    },
+    {
+      "def1": "они у меня есть",
+      "ipa": "ай hæв ðэм",
+      "spell": "I have them"
+    },
+    {
+      "def1": "я перестанавливаю стулья",
+      "ipa": "ай ˌриəˈрэйндж ðə чэрз",
+      "spell": "I rearrange the chairs"
+    },
+    {
+      "def1": "я подметаю волосы",
+      "ipa": "ай сwип ʌп ðə hэр",
+      "spell": "I sweep up the hair"
+    },
+    {
+      "def1": "я говорю",
+      "ipa": "ай тɔк",
+      "spell": "I talk"
+    },
+    {
+      "def1": "я договорюсь",
+      "ipa": "ай wɪл мэйк əˈрэйнджмəнтс",
+      "spell": "I will make arrangements"
+    },
+    {
+      "def1": "если он уйдёт, я уйду",
+      "ipa": "ɪф hи гоуз, ай гоу",
+      "spell": "if he goes, I go"
+    },
+    {
+      "def1": "всегда идёт дождь",
+      "ipa": "ɪт ˈɔлˌwэйз рэйнз",
+      "spell": "it always rains"
+    },
+    {
+      "def1": "дождь не идёт",
+      "ipa": "ɪт ˈдʌзəнт рэйн",
+      "spell": "it doesn't rain"
+    },
+    {
+      "def1": "идёт дождь",
+      "ipa": "ɪт рэйнз",
+      "spell": "it rains"
+    },
+    {
+      "def1": "будет дождь",
+      "ipa": "ɪт wɪл рэйн",
+      "spell": "it will rain"
+    },
+    {
+      "def1": "давай договоримся об этом",
+      "ipa": "лэтс əˈрэйндж ɪт",
+      "spell": "let's arrange it"
+    },
+    {
+      "def1": "давай переставим,  это",
+      "ipa": "лэтс ˌриəˈрэйндж ɪт",
+      "spell": "let's rearrange it"
+    },
+    {
+      "def1": "мой муж делает работу по дому",
+      "ipa": "май ˈhʌзбəнд дʌз ˈhауˌсwɜрк",
+      "spell": "my husband does housework"
+    },
+    {
+      "def1": "наши занятия заканчиваются в два",
+      "ipa": "ˈауəр ˈклæсəз ˈфɪнɪш æт ту",
+      "spell": "our classes finish at two"
+    },
+    {
+      "def1": "наш сосед",
+      "ipa": "ˈауəр ˈнэйбəр",
+      "spell": "our neighbor"
+    },
+    {
+      "def1": "пристегни ремень безопасности, пожалуйста",
+      "ipa": "плиз пʊт ðə ˈситˌбэлт ɑн",
+      "spell": "please put the seatbelt on"
+    },
+    {
+      "def1": "надень шляпу",
+      "ipa": "пʊт йʊəр hæт ɑн",
+      "spell": "put your hat on"
+    },
+    {
+      "def1": "надень штаны",
+      "ipa": "пʊт йʊəр пæнтс ɑн",
+      "spell": "put your pants on"
+    },
+    {
+      "def1": "она не учит английский",
+      "ipa": "щи ˈдʌзəнт ˈстʌди ˈɪŋглɪш",
+      "spell": "she doesn't study English"
+    },
+    {
+      "def1": "она пьёт чай",
+      "ipa": "щи дрɪŋкс ти",
+      "spell": "she drinks tea"
+    },
+    {
+      "def1": "она ходит в кино",
+      "ipa": "щи гоуз ту ðə ˈмувиз",
+      "spell": "she goes to the movies"
+    },
+    {
+      "def1": "у неё двое детей",
+      "ipa": "щи hæз ту ˈчɪлдрəн",
+      "spell": "she has two children"
+    },
+    {
+      "def1": "она подметает",
+      "ipa": "щи сwипс",
+      "spell": "she sweeps"
+    },
+    {
+      "def1": "подмети волосы, пожалуйста",
+      "ipa": "сwип ʌп ðə hэр, плиз",
+      "spell": "sweep up the hair, please"
+    },
+    {
+      "def1": "стулья расставлены",
+      "ipa": "ðə чэрз ɑр əˈрэйнджд",
+      "spell": "the chairs are arranged"
+    },
+    {
+      "def1": "фильм закончился в десять",
+      "ipa": "ðə ˈмуви ˈфɪнɪшт æт тэн",
+      "spell": "the movie finished at ten"
+    },
+    {
+      "def1": "магазины закрываются в девять",
+      "ipa": "ðə сторз клоус æт найн",
+      "spell": "the stores close at nine"
+    },
+    {
+      "def1": "супермаркет закрывается в девять",
+      "ipa": "ðə ˈсупəрˌмɑркɪт ˈклоузɪз æт найн",
+      "spell": "the supermarket closes at nine"
+    },
+    {
+      "def1": "все они говорят по-английски",
+      "ipa": "ðэй ɔл спик ˈɪŋглɪш",
+      "spell": "they all speak English"
+    },
+    {
+      "def1": "у них трое детей",
+      "ipa": "ðэй hæв θри ˈчɪлдрəн",
+      "spell": "they have three children"
+    },
+    {
+      "def1": "они живут",
+      "ipa": "ðэй лɪв",
+      "spell": "they live"
+    },
+    {
+      "def1": "ты говоришь",
+      "ipa": "ю спик",
+      "spell": "you speak"
+    }
+  ]
+}
