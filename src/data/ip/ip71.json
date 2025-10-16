@@ -4,923 +4,923 @@
   "period": "week",
   "number": 38,
   "date": "2025-09-19",
-  "words":  [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "банка газування",
-   "ipa": "ə кæн ʌv ˈсоудə",
-   "spell": "a can of soda"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "футляр",
-   "ipa": "ə кейс",
-   "spell": "a case"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "політ",
-   "ipa": "ə флайт",
-   "spell": "a flight"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чудова ідея",
-   "ipa": "ə ґрейт айˈдіə",
-   "spell": "a great idea"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "перукарня",
-   "ipa": "ə hер сəˈлɑн",
-   "spell": "a hair salon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "важка валіза",
-   "ipa": "ə ˈhеvі ˈсутˌкейс",
-   "spell": "a heavy suitcase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сторінка",
-   "ipa": "ə пейдж",
-   "spell": "a page"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "басейн",
-   "ipa": "ə пул",
-   "spell": "a pool"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "футбольна футболка",
-   "ipa": "ə ˈсɑкəр шɜрт",
-   "spell": "a soccer shirt"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "костюм",
-   "ipa": "ə сут",
-   "spell": "a suit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "валіза",
-   "ipa": "ə ˈсутˌкейс",
-   "spell": "a suitcase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "басейн",
-   "ipa": "ə ˈсwимиŋ пул",
-   "spell": "a swimming pool"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "робоча людина",
-   "ipa": "ə ˈwɜркиŋ мæн",
-   "spell": "a working man"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знову",
-   "ipa": "əˈґен",
-   "spell": "again"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "аспект",
-   "ipa": "əн ˈæˌспект",
-   "spell": "an aspect"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "людина, яка їсть",
-   "ipa": "əн ˈітиŋ мæн",
-   "spell": "an eating man"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ще одна пляшка",
-   "ipa": "əˈнʌðəр ˈбɑтəл",
-   "spell": "another bottle"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "інший автобус",
-   "ipa": "əˈнʌðəр бʌс",
-   "spell": "another bus"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ще одна чашка",
-   "ipa": "əˈнʌðəр кʌп",
-   "spell": "another cup"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ще один їде зараз",
-   "ipa": "əˈнʌðəр wʌн из ˈкʌмиŋ нау",
-   "spell": "another one is coming now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "інша людина",
-   "ipa": "əˈнʌðəр ˈпɜрсəн",
-   "spell": "another person"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нарешті",
-   "ipa": "æт лæст",
-   "spell": "at last"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на даний момент",
-   "ipa": "æт ðə ˈмоумəнт",
-   "spell": "at the moment"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "але не набагато",
-   "ipa": "бʌт нɑт бай мʌч",
-   "spell": "but not by much"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона пройшла курс?",
-   "ipa": "дид ші тейк ə корс?",
-   "spell": "did she take a course?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти власник чи орендар?",
-   "ipa": "ду ю оун ор рент?",
-   "spell": "do you own or rent?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти хочеш, щоб я тобі допоміг?",
-   "ipa": "ду ю wɑнт мі ту hелп ю?",
-   "spell": "do you want me to help you?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти хочеш, щоб я відчинив вікно?",
-   "ipa": "ду ю wɑнт мі ту ˈоупəн ðə ˈwиндоу?",
-   "spell": "do you want me to open the window?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти хочеш, щоб я поклав це туди?",
-   "ipa": "ду ю wɑнт мі ту пʊт ит ðер?",
-   "spell": "do you want me to put it there?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона вміє стригти?",
-   "ipa": "дʌз ші ноу hау ту кʌт hер?",
-   "spell": "does she know how to cut hair?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "точно!",
-   "ipa": "иґˈзæктлі!",
-   "spell": "exactly!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "перепрошую",
-   "ipa": "икˈск’юс мі",
-   "spell": "excuse me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "з 8 ранку до 9 вечора",
-   "ipa": "фрʌм ейт ей.ем. ту найн пі.ем.",
-   "spell": "from eight a.m. to nine p.m."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він несе валізу",
-   "ipa": "hі из ˈкеріиŋ ðə ˈсутˌкейс",
-   "spell": "he is carying the suitcase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він робить домашню роботу",
-   "ipa": "hі из ˈдуиŋ ˈhауˌсwɜрк",
-   "spell": "he is doing housework"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він йде спати",
-   "ipa": "hі из ˈґоуиŋ ту бед",
-   "spell": "he is going to bed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він відчиняє банку газування",
-   "ipa": "hі из ˈоупəниŋ ə кæн ʌv ˈсоудə",
-   "spell": "he is opening a can of soda"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він грає у відеогру",
-   "ipa": "hі из ˈплейиŋ ə ˈvидіоу ґейм",
-   "spell": "he is playing a video game"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він наливає газовану воду у склянку",
-   "ipa": "hі из ˈпориŋ ˈсоудə ˈинту ə ґлæс",
-   "spell": "he is pouring soda into a glass"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він приймає душ",
-   "ipa": "hі из ˈтейкиŋ ə ˈшауəр",
-   "spell": "he is taking a shower"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він дивиться футбол по телевізору",
-   "ipa": "hі из ˈwɑчиŋ ˈсɑкəр ɑн ˈтіˈvі",
-   "spell": "he is watching soccer on TV"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він хоче, щоб я пішов",
-   "ipa": "hі wɑнтс мі ту ґоу",
-   "spell": "he wants me to go"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він хоче, щоб я зупинився",
-   "ipa": "hі wɑнтс мі ту стɑп",
-   "spell": "he wants me to stop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він народився у (році) 2000",
-   "ipa": "hі wʌз борн ин (ðə йир) ту ˈθаузəнд",
-   "spell": "he was born in (the year) two thousand"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "йому буде 24",
-   "ipa": "hі wил бі ˈтwенті фор",
-   "spell": "he will be twenty four"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "її день народження другого листопада",
-   "ipa": "hɜр ˈбɜрθˌдей из ɑн ноуˈvембəр ˈсекəнд",
-   "spell": "her birthday is on November second"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ось, будь ласка",
-   "ipa": "hір ю ɑр",
-   "spell": "here you are"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "його день народження 24 вересня",
-   "ipa": "hиз ˈбɜрθˌдей из ɑн сепˈтембəр ˈтwенті форθ",
-   "spell": "his birthday is on September twenty fourth"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мені 50",
-   "ipa": "ай æм ˈфифті",
-   "spell": "I am fifty"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я з уроку англійської",
-   "ipa": "ай æм фрʌм ˈиŋґлиш клæс",
-   "spell": "I am from English class"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я молодший за тебе",
-   "ipa": "ай æм ˈйʌŋґəр ðæн ю",
-   "spell": "I am younger than you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я прибуваю в готель",
-   "ipa": "ай əˈрайv æт ə hоуˈтел",
-   "spell": "I arrive at a hotel"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я прибуваю в аеропорт",
-   "ipa": "ай əˈрайv æт ðі ˈерˌпорт",
-   "spell": "I arrive at the airport"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я дзвоню додому",
-   "ipa": "ай кɔл hоум",
-   "spell": "I call home"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не можу повірити",
-   "ipa": "ай кæнт биˈліv ит",
-   "spell": "I can’t believe it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я несу валізу",
-   "ipa": "ай ˈкæрі ə ˈсутˌкейс",
-   "spell": "I carry a suitcase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я приходжу додому",
-   "ipa": "ай кʌм hоум",
-   "spell": "I come home"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я приходжу, я прибуваю",
-   "ipa": "ай кʌм, ай əˈрайv",
-   "spell": "I come, I arrive"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я йду додому",
-   "ipa": "ай ґоу hоум",
-   "spell": "I go home"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я дрімаю",
-   "ipa": "ай hæv ə нæп",
-   "spell": "I have a nap"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я йду, я виїжджаю",
-   "ipa": "ай ліv, ай диˈпɑрт",
-   "spell": "I leave, I depart"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я наливаю",
-   "ipa": "ай пор",
-   "spell": "I pour"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я опускаю вікна",
-   "ipa": "ай роул ðə ˈwиндоуз даун",
-   "spell": "I roll the windows down"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я відвіз її на роботу",
-   "ipa": "ай тʊк hɜр ту wɜрк",
-   "spell": "I took her to work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти прийшов",
-   "ipa": "ай wɑнт ю ту кʌм",
-   "spell": "I want you to come"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти їв",
-   "ipa": "ай wɑнт ю ту іт",
-   "spell": "I want you to eat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти пішов",
-   "ipa": "ай wɑнт ю ту ґоу",
-   "spell": "I want you to go"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти чудово провів вихідні",
-   "ipa": "ай wɑнт ю ту hæv ə ґрейт ˈwіˌкенд",
-   "spell": "I want you to have a great weekend"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти мені допоміг",
-   "ipa": "ай wɑнт ю ту hелп мі",
-   "spell": "I want you to help me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти заплатив",
-   "ipa": "ай wɑнт ю ту пей",
-   "spell": "I want you to pay"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти підняв руки",
-   "ipa": "ай wɑнт ю ту пʊт йʊəр hæндз ʌп",
-   "spell": "I want you to put your hands up"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти сів",
-   "ipa": "ай wɑнт ю ту сит",
-   "spell": "I want you to sit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти спав",
-   "ipa": "ай wɑнт ю ту сліп",
-   "spell": "I want you to sleep"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу, щоб ти встав",
-   "ipa": "ай wɑнт ю ту стæнд ʌп",
-   "spell": "I want you to stand up"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ношу рукавички",
-   "ipa": "ай wер ґлʌvз",
-   "spell": "I wear gloves"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ношу сонцезахисні окуляри",
-   "ipa": "ай wер ˈсʌнˌґлæсиз",
-   "spell": "I wear sunglasses"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я подрімаю",
-   "ipa": "ай wил hæv ə нæп",
-   "spell": "I will have a nap"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це двадцять третій",
-   "ipa": "ит из ə ˈтwенті θрі",
-   "spell": "it is a twenty three"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це небезпечно",
-   "ipa": "ит из ˈдейнджəрəс",
-   "spell": "it is dangerous"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "залиш це біля дверей!",
-   "ipa": "ліv ит нир ðə дор!",
-   "spell": "leave it near the door!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "залиш будинок!",
-   "ipa": "ліv ðə hаус!",
-   "spell": "leave the house!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "залиш кімнату!",
-   "ipa": "ліv ðə рум!",
-   "spell": "leave the room!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "подивимося",
-   "ipa": "летс сі",
-   "spell": "let's see"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "так само",
-   "ipa": "ˈлайˌкwайз",
-   "spell": "likewise"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я також",
-   "ipa": "мі ту",
-   "spell": "me too"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мій день народження 27 травня",
-   "ipa": "май ˈбɜрθˌдей из мей ˈтwенті ˈсеvəнθ",
-   "spell": "my birthday is May twenty seventh"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "колись давно",
-   "ipa": "wʌнс əˈпɑн ə тайм",
-   "spell": "once upon a time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неповний або повний робочий день",
-   "ipa": "пɑрт тайм ор фʊл тайм",
-   "spell": "part time or full time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона бронює квитки",
-   "ipa": "ші из ˈбʊкиŋ ˈтикəтс",
-   "spell": "she is booking tickets"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона зараз стриже",
-   "ipa": "ші из ˈкʌтиŋ hер нау",
-   "spell": "she is cutting hair now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона п'є воду",
-   "ipa": "ші из ˈдриŋкиŋ ˈwɔтəр",
-   "spell": "she is drinking water"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона обідає",
-   "ipa": "ші из ˈhævиŋ лʌнч",
-   "spell": "she is having lunch"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона виходить з дому",
-   "ipa": "ші из ˈліvиŋ ðə hаус",
-   "spell": "she is leaving the house"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона зараз стоїть",
-   "ipa": "ші из ˈстæндиŋ нау",
-   "spell": "she is standing now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона зараз працює",
-   "ipa": "ші из ˈwɜркиŋ нау",
-   "spell": "she is working now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона сьогодні працює",
-   "ipa": "ші из ˈwɜркиŋ тəˈдей",
-   "spell": "she is working today"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їй потрібна допомога",
-   "ipa": "ші нідз hелп",
-   "spell": "she needs help"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона наносить макіяж",
-   "ipa": "ші wерз ˈмейˌкʌп",
-   "spell": "she wears makeup"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона працює на повну ставку",
-   "ipa": "ші wɜркс фʊл тайм",
-   "spell": "she works full time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона викликає таксі",
-   "ipa": "шіз ˈґетиŋ ə ˈтæксі",
-   "spell": "she's getting a taxi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "плавання",
-   "ipa": "ˈсwимиŋ",
-   "spell": "swimming"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це тринадцятий",
-   "ipa": "ðæтс ə ˈθɜрˈтін",
-   "spell": "that's a thirteen"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це третій",
-   "ipa": "ðæтс ðə θɜрд wʌн",
-   "spell": "that's the third one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "великий",
-   "ipa": "ðə биґ wʌн",
-   "spell": "the big one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "синій",
-   "ipa": "ðə блу wʌн",
-   "spell": "the blue one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "маленька машина",
-   "ipa": "ðə ˈлитəл кɑр",
-   "spell": "the little car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "червоний",
-   "ipa": "ðə ред wʌн",
-   "spell": "the red one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони готують вечерю",
-   "ipa": "ðей ɑр ˈмейкиŋ ˈдинəр",
-   "spell": "they are making dinner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони орендують машину",
-   "ipa": "ðей ɑр ˈрентиŋ ə кɑр",
-   "spell": "they are renting a car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стригти",
-   "ipa": "ту кʌт hер",
-   "spell": "to cut hair"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "добре провести час",
-   "ipa": "ту hæv ə ґʊд тайм",
-   "spell": "to have a good time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дрімати",
-   "ipa": "ту hæv ə нæп",
-   "spell": "to have a nap"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стояти",
-   "ipa": "ту стæнд",
-   "spell": "to stand"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "залишатися",
-   "ipa": "ту стей",
-   "spell": "to stay"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "домашнє завдання на сьогодні",
-   "ipa": "тəˈнайтс ˈhоумˌwɜрк",
-   "spell": "tonight's homework"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у нас так багато спільного",
-   "ipa": "wі hæv соу мʌч ин ˈкɑмəн",
-   "spell": "we have so much in common"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми зупиняємося в готелі",
-   "ipa": "wі стей ин ə hоуˈтел",
-   "spell": "we stay in a hotel"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми хочемо залишитися довше",
-   "ipa": "wі wɑнт ту стей ˈлɔŋґəр",
-   "spell": "we want to stay longer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми хочемо, щоб ти заплатив",
-   "ipa": "wі wɑнт ю ту пей",
-   "spell": "we want you to pay"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що на рахунок цієї сумки?",
-   "ipa": "wɑт əˈбаут ðис бæґ",
-   "spell": "what about this bag"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що він робить?",
-   "ipa": "wɑт из hі ˈдуиŋ?",
-   "spell": "what is he doing?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "де живе твій син?",
-   "ipa": "wер дʌз йʊəр сʌн лиv?",
-   "spell": "where does your son live?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "робота",
-   "ipa": "ˈwɜркиŋ",
-   "spell": "working"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "працюючий",
-   "ipa": "ˈwɜркиŋ",
-   "spell": "working"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти запізнився до школи",
-   "ipa": "ю ɑр лейт фор скул",
-   "spell": "you are late for school"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти можеш подивитися це потім",
-   "ipa": "ю кæн wɑч ит ðен",
-   "spell": "you can watch it then"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти підходиш до неї",
-   "ipa": "ю ґоу ʌп ту hɜр",
-   "spell": "you go up to her"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти хочеш, щоб я потанцював",
-   "ipa": "ю wɑнт мі ту дæнс",
-   "spell": "you want me to dance"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти хочеш, щоб я розслабився",
-   "ipa": "ю wɑнт мі ту риˈлæкс",
-   "spell": "you want me to relax"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти хочеш багато писати",
-   "ipa": "ю wɑнт ту пі ə лɑт",
-   "spell": "you want to pee a lot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "твій син молодший за мого сина",
-   "ipa": "йʊəр сʌн из ˈйʌŋґəр ðæн май сʌн",
-   "spell": "your son is younger than my son"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "банка газування",
+      "ipa": "ə кæн ʌv ˈсоудə",
+      "spell": "a can of soda"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "футляр",
+      "ipa": "ə кейс",
+      "spell": "a case"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "політ",
+      "ipa": "ə флайт",
+      "spell": "a flight"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чудова ідея",
+      "ipa": "ə ґрейт айˈдіə",
+      "spell": "a great idea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перукарня",
+      "ipa": "ə hер сəˈлɑн",
+      "spell": "a hair salon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "важка валіза",
+      "ipa": "ə ˈhеvі ˈсутˌкейс",
+      "spell": "a heavy suitcase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сторінка",
+      "ipa": "ə пейдж",
+      "spell": "a page"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "басейн",
+      "ipa": "ə пул",
+      "spell": "a pool"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "футбольна футболка",
+      "ipa": "ə ˈсɑкəр шɜрт",
+      "spell": "a soccer shirt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "костюм",
+      "ipa": "ə сут",
+      "spell": "a suit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "валіза",
+      "ipa": "ə ˈсутˌкейс",
+      "spell": "a suitcase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "басейн",
+      "ipa": "ə ˈсwимиŋ пул",
+      "spell": "a swimming pool"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "робоча людина",
+      "ipa": "ə ˈwɜркиŋ мæн",
+      "spell": "a working man"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знову",
+      "ipa": "əˈґен",
+      "spell": "again"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "аспект",
+      "ipa": "əн ˈæˌспект",
+      "spell": "an aspect"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "людина, яка їсть",
+      "ipa": "əн ˈітиŋ мæн",
+      "spell": "an eating man"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще одна пляшка",
+      "ipa": "əˈнʌðəр ˈбɑтəл",
+      "spell": "another bottle"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "інший автобус",
+      "ipa": "əˈнʌðəр бʌс",
+      "spell": "another bus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще одна чашка",
+      "ipa": "əˈнʌðəр кʌп",
+      "spell": "another cup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ще один їде зараз",
+      "ipa": "əˈнʌðəр wʌн из ˈкʌмиŋ нау",
+      "spell": "another one is coming now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "інша людина",
+      "ipa": "əˈнʌðəр ˈпɜрсəн",
+      "spell": "another person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нарешті",
+      "ipa": "æт лæст",
+      "spell": "at last"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на даний момент",
+      "ipa": "æт ðə ˈмоумəнт",
+      "spell": "at the moment"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "але не набагато",
+      "ipa": "бʌт нɑт бай мʌч",
+      "spell": "but not by much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона пройшла курс?",
+      "ipa": "дид ші тейк ə корс?",
+      "spell": "did she take a course?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти власник чи орендар?",
+      "ipa": "ду ю оун ор рент?",
+      "spell": "do you own or rent?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я тобі допоміг?",
+      "ipa": "ду ю wɑнт мі ту hелп ю?",
+      "spell": "do you want me to help you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я відчинив вікно?",
+      "ipa": "ду ю wɑнт мі ту ˈоупəн ðə ˈwиндоу?",
+      "spell": "do you want me to open the window?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я поклав це туди?",
+      "ipa": "ду ю wɑнт мі ту пʊт ит ðер?",
+      "spell": "do you want me to put it there?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона вміє стригти?",
+      "ipa": "дʌз ші ноу hау ту кʌт hер?",
+      "spell": "does she know how to cut hair?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "точно!",
+      "ipa": "иґˈзæктлі!",
+      "spell": "exactly!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "перепрошую",
+      "ipa": "икˈск’юс мі",
+      "spell": "excuse me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з 8 ранку до 9 вечора",
+      "ipa": "фрʌм ейт ей.ем. ту найн пі.ем.",
+      "spell": "from eight a.m. to nine p.m."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він несе валізу",
+      "ipa": "hі из ˈкеріиŋ ðə ˈсутˌкейс",
+      "spell": "he is carying the suitcase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він робить домашню роботу",
+      "ipa": "hі из ˈдуиŋ ˈhауˌсwɜрк",
+      "spell": "he is doing housework"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він йде спати",
+      "ipa": "hі из ˈґоуиŋ ту бед",
+      "spell": "he is going to bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він відчиняє банку газування",
+      "ipa": "hі из ˈоупəниŋ ə кæн ʌv ˈсоудə",
+      "spell": "he is opening a can of soda"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він грає у відеогру",
+      "ipa": "hі из ˈплейиŋ ə ˈvидіоу ґейм",
+      "spell": "he is playing a video game"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він наливає газовану воду у склянку",
+      "ipa": "hі из ˈпориŋ ˈсоудə ˈинту ə ґлæс",
+      "spell": "he is pouring soda into a glass"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він приймає душ",
+      "ipa": "hі из ˈтейкиŋ ə ˈшауəр",
+      "spell": "he is taking a shower"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він дивиться футбол по телевізору",
+      "ipa": "hі из ˈwɑчиŋ ˈсɑкəр ɑн ˈтіˈvі",
+      "spell": "he is watching soccer on TV"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він хоче, щоб я пішов",
+      "ipa": "hі wɑнтс мі ту ґоу",
+      "spell": "he wants me to go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він хоче, щоб я зупинився",
+      "ipa": "hі wɑнтс мі ту стɑп",
+      "spell": "he wants me to stop"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він народився у (році) 2000",
+      "ipa": "hі wʌз борн ин (ðə йир) ту ˈθаузəнд",
+      "spell": "he was born in (the year) two thousand"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "йому буде 24",
+      "ipa": "hі wил бі ˈтwенті фор",
+      "spell": "he will be twenty four"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "її день народження другого листопада",
+      "ipa": "hɜр ˈбɜрθˌдей из ɑн ноуˈvембəр ˈсекəнд",
+      "spell": "her birthday is on November second"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ось, будь ласка",
+      "ipa": "hір ю ɑр",
+      "spell": "here you are"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "його день народження 24 вересня",
+      "ipa": "hиз ˈбɜрθˌдей из ɑн сепˈтембəр ˈтwенті форθ",
+      "spell": "his birthday is on September twenty fourth"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мені 50",
+      "ipa": "ай æм ˈфифті",
+      "spell": "I am fifty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я з уроку англійської",
+      "ipa": "ай æм фрʌм ˈиŋґлиш клæс",
+      "spell": "I am from English class"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я молодший за тебе",
+      "ipa": "ай æм ˈйʌŋґəр ðæн ю",
+      "spell": "I am younger than you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я прибуваю в готель",
+      "ipa": "ай əˈрайv æт ə hоуˈтел",
+      "spell": "I arrive at a hotel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я прибуваю в аеропорт",
+      "ipa": "ай əˈрайv æт ðі ˈерˌпорт",
+      "spell": "I arrive at the airport"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я дзвоню додому",
+      "ipa": "ай кɔл hоум",
+      "spell": "I call home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не можу повірити",
+      "ipa": "ай кæнт биˈліv ит",
+      "spell": "I can’t believe it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я несу валізу",
+      "ipa": "ай ˈкæрі ə ˈсутˌкейс",
+      "spell": "I carry a suitcase"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я приходжу додому",
+      "ipa": "ай кʌм hоум",
+      "spell": "I come home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я приходжу, я прибуваю",
+      "ipa": "ай кʌм, ай əˈрайv",
+      "spell": "I come, I arrive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я йду додому",
+      "ipa": "ай ґоу hоум",
+      "spell": "I go home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я дрімаю",
+      "ipa": "ай hæv ə нæп",
+      "spell": "I have a nap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я йду, я виїжджаю",
+      "ipa": "ай ліv, ай диˈпɑрт",
+      "spell": "I leave, I depart"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я наливаю",
+      "ipa": "ай пор",
+      "spell": "I pour"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я опускаю вікна",
+      "ipa": "ай роул ðə ˈwиндоуз даун",
+      "spell": "I roll the windows down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я відвіз її на роботу",
+      "ipa": "ай тʊк hɜр ту wɜрк",
+      "spell": "I took her to work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти прийшов",
+      "ipa": "ай wɑнт ю ту кʌм",
+      "spell": "I want you to come"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти їв",
+      "ipa": "ай wɑнт ю ту іт",
+      "spell": "I want you to eat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти пішов",
+      "ipa": "ай wɑнт ю ту ґоу",
+      "spell": "I want you to go"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти чудово провів вихідні",
+      "ipa": "ай wɑнт ю ту hæv ə ґрейт ˈwіˌкенд",
+      "spell": "I want you to have a great weekend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти мені допоміг",
+      "ipa": "ай wɑнт ю ту hелп мі",
+      "spell": "I want you to help me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти заплатив",
+      "ipa": "ай wɑнт ю ту пей",
+      "spell": "I want you to pay"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти підняв руки",
+      "ipa": "ай wɑнт ю ту пʊт йʊəр hæндз ʌп",
+      "spell": "I want you to put your hands up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти сів",
+      "ipa": "ай wɑнт ю ту сит",
+      "spell": "I want you to sit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти спав",
+      "ipa": "ай wɑнт ю ту сліп",
+      "spell": "I want you to sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я хочу, щоб ти встав",
+      "ipa": "ай wɑнт ю ту стæнд ʌп",
+      "spell": "I want you to stand up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу рукавички",
+      "ipa": "ай wер ґлʌvз",
+      "spell": "I wear gloves"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я ношу сонцезахисні окуляри",
+      "ipa": "ай wер ˈсʌнˌґлæсиз",
+      "spell": "I wear sunglasses"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я подрімаю",
+      "ipa": "ай wил hæv ə нæп",
+      "spell": "I will have a nap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це двадцять третій",
+      "ipa": "ит из ə ˈтwенті θрі",
+      "spell": "it is a twenty three"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це небезпечно",
+      "ipa": "ит из ˈдейнджəрəс",
+      "spell": "it is dangerous"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "залиш це біля дверей!",
+      "ipa": "ліv ит нир ðə дор!",
+      "spell": "leave it near the door!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "залиш будинок!",
+      "ipa": "ліv ðə hаус!",
+      "spell": "leave the house!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "залиш кімнату!",
+      "ipa": "ліv ðə рум!",
+      "spell": "leave the room!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подивимося",
+      "ipa": "летс сі",
+      "spell": "let's see"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "так само",
+      "ipa": "ˈлайˌкwайз",
+      "spell": "likewise"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я також",
+      "ipa": "мі ту",
+      "spell": "me too"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мій день народження 27 травня",
+      "ipa": "май ˈбɜрθˌдей из мей ˈтwенті ˈсеvəнθ",
+      "spell": "my birthday is May twenty seventh"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колись давно",
+      "ipa": "wʌнс əˈпɑн ə тайм",
+      "spell": "once upon a time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неповний або повний робочий день",
+      "ipa": "пɑрт тайм ор фʊл тайм",
+      "spell": "part time or full time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона бронює квитки",
+      "ipa": "ші из ˈбʊкиŋ ˈтикəтс",
+      "spell": "she is booking tickets"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона зараз стриже",
+      "ipa": "ші из ˈкʌтиŋ hер нау",
+      "spell": "she is cutting hair now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона п'є воду",
+      "ipa": "ші из ˈдриŋкиŋ ˈwɔтəр",
+      "spell": "she is drinking water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона обідає",
+      "ipa": "ші из ˈhævиŋ лʌнч",
+      "spell": "she is having lunch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона виходить з дому",
+      "ipa": "ші из ˈліvиŋ ðə hаус",
+      "spell": "she is leaving the house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона зараз стоїть",
+      "ipa": "ші из ˈстæндиŋ нау",
+      "spell": "she is standing now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона зараз працює",
+      "ipa": "ші из ˈwɜркиŋ нау",
+      "spell": "she is working now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона сьогодні працює",
+      "ipa": "ші из ˈwɜркиŋ тəˈдей",
+      "spell": "she is working today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їй потрібна допомога",
+      "ipa": "ші нідз hелп",
+      "spell": "she needs help"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона наносить макіяж",
+      "ipa": "ші wерз ˈмейˌкʌп",
+      "spell": "she wears makeup"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона працює на повну ставку",
+      "ipa": "ші wɜркс фʊл тайм",
+      "spell": "she works full time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона викликає таксі",
+      "ipa": "шіз ˈґетиŋ ə ˈтæксі",
+      "spell": "she's getting a taxi"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плавання",
+      "ipa": "ˈсwимиŋ",
+      "spell": "swimming"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це тринадцятий",
+      "ipa": "ðæтс ə ˈθɜрˈтін",
+      "spell": "that's a thirteen"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це третій",
+      "ipa": "ðæтс ðə θɜрд wʌн",
+      "spell": "that's the third one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "великий",
+      "ipa": "ðə биґ wʌн",
+      "spell": "the big one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "синій",
+      "ipa": "ðə блу wʌн",
+      "spell": "the blue one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "маленька машина",
+      "ipa": "ðə ˈлитəл кɑр",
+      "spell": "the little car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "червоний",
+      "ipa": "ðə ред wʌн",
+      "spell": "the red one"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони готують вечерю",
+      "ipa": "ðей ɑр ˈмейкиŋ ˈдинəр",
+      "spell": "they are making dinner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони орендують машину",
+      "ipa": "ðей ɑр ˈрентиŋ ə кɑр",
+      "spell": "they are renting a car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стригти",
+      "ipa": "ту кʌт hер",
+      "spell": "to cut hair"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "добре провести час",
+      "ipa": "ту hæv ə ґʊд тайм",
+      "spell": "to have a good time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дрімати",
+      "ipa": "ту hæv ə нæп",
+      "spell": "to have a nap"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стояти",
+      "ipa": "ту стæнд",
+      "spell": "to stand"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "залишатися",
+      "ipa": "ту стей",
+      "spell": "to stay"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "домашнє завдання на сьогодні",
+      "ipa": "тəˈнайтс ˈhоумˌwɜрк",
+      "spell": "tonight's homework"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у нас так багато спільного",
+      "ipa": "wі hæv соу мʌч ин ˈкɑмəн",
+      "spell": "we have so much in common"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми зупиняємося в готелі",
+      "ipa": "wі стей ин ə hоуˈтел",
+      "spell": "we stay in a hotel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми хочемо залишитися довше",
+      "ipa": "wі wɑнт ту стей ˈлɔŋґəр",
+      "spell": "we want to stay longer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ми хочемо, щоб ти заплатив",
+      "ipa": "wі wɑнт ю ту пей",
+      "spell": "we want you to pay"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що на рахунок цієї сумки?",
+      "ipa": "wɑт əˈбаут ðис бæґ",
+      "spell": "what about this bag"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що він робить?",
+      "ipa": "wɑт из hі ˈдуиŋ?",
+      "spell": "what is he doing?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де живе твій син?",
+      "ipa": "wер дʌз йʊəр сʌн лиv?",
+      "spell": "where does your son live?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "робота",
+      "ipa": "ˈwɜркиŋ",
+      "spell": "working"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "працюючий",
+      "ipa": "ˈwɜркиŋ",
+      "spell": "working"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти запізнився до школи",
+      "ipa": "ю ɑр лейт фор скул",
+      "spell": "you are late for school"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти можеш подивитися це потім",
+      "ipa": "ю кəн wɑч ит ðен",
+      "spell": "you can watch it then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти підходиш до неї",
+      "ipa": "ю ґоу ʌп ту hɜр",
+      "spell": "you go up to her"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я потанцював",
+      "ipa": "ю wɑнт мі ту дæнс",
+      "spell": "you want me to dance"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш, щоб я розслабився",
+      "ipa": "ю wɑнт мі ту риˈлæкс",
+      "spell": "you want me to relax"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти хочеш багато писати",
+      "ipa": "ю wɑнт ту пі ə лɑт",
+      "spell": "you want to pee a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твій син молодший за мого сина",
+      "ipa": "йʊəр сʌн из ˈйʌŋґəр ðæн май сʌн",
+      "spell": "your son is younger than my son"
+    }
+  ]
 }

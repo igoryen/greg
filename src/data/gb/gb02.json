@@ -5,383 +5,383 @@
   "number": 37,
   "date": "2025-09-14",
   "words": [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ванна",
-   "ipa": "ə ˈбæθтəб",
-   "spell": "a bathtub"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шафа",
-   "ipa": "ə ˈклɑзəт",
-   "spell": "a closet"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пульт дистанційного керування",
-   "ipa": "ə риˈмоут кəнˈтроул",
-   "spell": "a remote control"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "душ",
-   "ipa": "ə ˈшауəр",
-   "spell": "a shower"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "співак",
-   "ipa": "ə ˈсиŋəр",
-   "spell": "a singer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "грішник",
-   "ipa": "ə ˈсинəр",
-   "spell": "a sinner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ванна",
-   "ipa": "ə тʌб",
-   "spell": "a tub"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "слово",
-   "ipa": "ə wɜрд",
-   "spell": "a word"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "порядок слів",
-   "ipa": "ə wɜрд ˈордəр",
-   "spell": "a word order"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "народжений",
-   "ipa": "борн",
-   "spell": "born"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "можна кави?",
-   "ipa": "кæн ай hæv сʌм ˈкɑфі?",
-   "spell": "can I have some coffee?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти їси крупи на сніданок?",
-   "ipa": "ду ю hæv ˈсиріəл фор ˈбрекфəст?",
-   "spell": "do you have cereal for breakfast?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їжа",
-   "ipa": "фуд",
-   "spell": "food"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я в дорозі",
-   "ipa": "ай æм ɑн май wей",
-   "spell": "I am on my way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я пошкодив великий палець",
-   "ipa": "ай hɜрт май θʌм",
-   "spell": "I hurt my thumb"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я розслабився",
-   "ipa": "ай риˈлæкст",
-   "spell": "I relaxed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я був",
-   "ipa": "ай wʌз",
-   "spell": "I was"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сьогодні я був на роботі",
-   "ipa": "ай wʌз æт wɜрк тəˈдей",
-   "spell": "I was at work today"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я всю ніч був у дорозі",
-   "ipa": "ай wʌз ɑн ðə роуд ɔл найт",
-   "spell": "I was on the road all night"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в порядку",
-   "ipa": "ин ˈордəр",
-   "spell": "in order"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це поруч із Канадою",
-   "ipa": "итс некст ту ˈкæнəдə",
-   "spell": "it's next to Canada"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це типова помилка",
-   "ipa": "итс ə ˈтипəкəл мисˈтейк",
-   "spell": "it’s a typical mistake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "минулого року",
-   "ipa": "лæст йир",
-   "spell": "last year"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неподалік",
-   "ipa": "нир hір",
-   "spell": "near here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заперечення ↔ ствердження",
-   "ipa": "ˈнеґəтиv ↔ əˈфɜрмəтиv",
-   "spell": "negative ↔ affirmative"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "множина ↔ однина",
-   "ipa": "ˈплʊрəл ↔ ˈсиŋґйəлəр",
-   "spell": "plural ↔ singular"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "базова форма дієслова",
-   "ipa": "ðə бейс форм ʌv ðə vɜрб",
-   "spell": "the base form of the verb"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "прийменник ставиться в кінці питання",
-   "ipa": "ðə ˌпрепəˈзишəн ґоуз æт ðі енд ʌv ðə ˈкwесчəн",
-   "spell": "the preposition goes at the end of the question"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "присутні",
-   "ipa": "ðер ɑр",
-   "spell": "there are"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "присутній",
-   "ipa": "ðер из",
-   "spell": "there is"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони бачать щось",
-   "ipa": "ðей сі ˈсʌмθиŋ",
-   "spell": "they see something"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони роблять фото своїм телефоном",
-   "ipa": "ðей тейк ˈпикчəрз wиð ðер фоун",
-   "spell": "they take pictures with their phone"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "цей співак - грішник",
-   "ipa": "ðис ˈсиŋəр из ə ˈсинəр",
-   "spell": "this singer is a sinner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знаходитися",
-   "ipa": "ту бі",
-   "spell": "to be"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "коштувати",
-   "ipa": "ту бі",
-   "spell": "to be"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бути",
-   "ipa": "ту бі",
-   "spell": "to be"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "походити з",
-   "ipa": "ту бі фрʌм",
-   "spell": "to be from"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "горіти",
-   "ipa": "ту бɜрн",
-   "spell": "to burn"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "правильно розташувати порядок слів",
-   "ipa": "ту ґет ðə wɜрд ˈордəр райт",
-   "spell": "to get the word order right"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "інвертувати підмет і дієслово",
-   "ipa": "ту инˈvɜрт ðə ˈсʌбджикт æнд vɜрб",
-   "spell": "to invert the subject and verb"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "переписати",
-   "ipa": "ту ріˈрайт",
-   "spell": "to rewrite"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "грішити",
-   "ipa": "ту син",
-   "spell": "to sin"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "співати",
-   "ipa": "ту сиŋ",
-   "spell": "to sing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "потворний",
-   "ipa": "ˈʌґлі",
-   "spell": "ugly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зрозумілий",
-   "ipa": "ˌʌндəрˈстæндəбəл",
-   "spell": "understandable"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "був ↔ були",
-   "ipa": "wʌз ↔ wɜр",
-   "spell": "was ↔ were"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти був там?",
-   "ipa": "wɜр ю ðер?",
-   "spell": "were you there?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "про що ти думаєш?",
-   "ipa": "wɑт ɑр ю ˈθиŋкиŋ əˈбаут?",
-   "spell": "what are you thinking about?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "звідки ти?",
-   "ipa": "wер ɑр ˈкʌмиŋ фрʌм?",
-   "spell": "where are coming from?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "куди ти їздив у минулу відпустку?",
-   "ipa": "wер дид ю ґоу фор йʊəр лæст vейˈкейшəн?",
-   "spell": "where did you go for your last vacation?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "де працює твій батько?",
-   "ipa": "wер дʌз йʊəр ˈфɑðəр wɜрк?",
-   "spell": "where does your father work?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "з ким ти розмовляєш?",
-   "ipa": "hу ɑр ю ˈтɔкиŋ ту?",
-   "spell": "who are you talking to?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чому ти не подзвонив мені вчора?",
-   "ipa": "wай ˈдидəнт ю кɔл мі ˈйестəрˌдей?",
-   "spell": "why didn’t you call me yesterday?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "твій батько там працює",
-   "ipa": "йʊəр ˈфɑðəр wɜркс ðер",
-   "spell": "your father works there"
- }
-]
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ванна",
+      "ipa": "ə ˈбæθтəб",
+      "spell": "a bathtub"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "шафа",
+      "ipa": "ə ˈклɑзəт",
+      "spell": "a closet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пульт дистанційного керування",
+      "ipa": "ə риˈмоут кəнˈтроул",
+      "spell": "a remote control"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "душ",
+      "ipa": "ə ˈшауəр",
+      "spell": "a shower"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "співак",
+      "ipa": "ə ˈсиŋəр",
+      "spell": "a singer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грішник",
+      "ipa": "ə ˈсинəр",
+      "spell": "a sinner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ванна",
+      "ipa": "ə тʌб",
+      "spell": "a tub"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "слово",
+      "ipa": "ə wɜрд",
+      "spell": "a word"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "порядок слів",
+      "ipa": "ə wɜрд ˈордəр",
+      "spell": "a word order"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "народжений",
+      "ipa": "борн",
+      "spell": "born"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можна кави?",
+      "ipa": "кəн ай hæv сʌм ˈкɑфі?",
+      "spell": "can I have some coffee?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти їси крупи на сніданок?",
+      "ipa": "ду ю hæv ˈсиріəл фор ˈбрекфəст?",
+      "spell": "do you have cereal for breakfast?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їжа",
+      "ipa": "фуд",
+      "spell": "food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я в дорозі",
+      "ipa": "ай æм ɑн май wей",
+      "spell": "I am on my way"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я пошкодив великий палець",
+      "ipa": "ай hɜрт май θʌм",
+      "spell": "I hurt my thumb"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я розслабився",
+      "ipa": "ай риˈлæкст",
+      "spell": "I relaxed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я був",
+      "ipa": "ай wʌз",
+      "spell": "I was"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сьогодні я був на роботі",
+      "ipa": "ай wʌз æт wɜрк тəˈдей",
+      "spell": "I was at work today"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я всю ніч був у дорозі",
+      "ipa": "ай wʌз ɑн ðə роуд ɔл найт",
+      "spell": "I was on the road all night"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в порядку",
+      "ipa": "ин ˈордəр",
+      "spell": "in order"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це поруч із Канадою",
+      "ipa": "итс некст ту ˈкæнəдə",
+      "spell": "it's next to Canada"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це типова помилка",
+      "ipa": "итс ə ˈтипəкəл мисˈтейк",
+      "spell": "it’s a typical mistake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "минулого року",
+      "ipa": "лæст йир",
+      "spell": "last year"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "неподалік",
+      "ipa": "нир hір",
+      "spell": "near here"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заперечення ↔ ствердження",
+      "ipa": "ˈнеґəтиv ↔ əˈфɜрмəтиv",
+      "spell": "negative ↔ affirmative"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "множина ↔ однина",
+      "ipa": "ˈплʊрəл ↔ ˈсиŋґйəлəр",
+      "spell": "plural ↔ singular"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "базова форма дієслова",
+      "ipa": "ðə бейс форм ʌv ðə vɜрб",
+      "spell": "the base form of the verb"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "прийменник ставиться в кінці питання",
+      "ipa": "ðə ˌпрепəˈзишəн ґоуз æт ðі енд ʌv ðə ˈкwесчəн",
+      "spell": "the preposition goes at the end of the question"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "присутні",
+      "ipa": "ðер ɑр",
+      "spell": "there are"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "присутній",
+      "ipa": "ðер из",
+      "spell": "there is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони бачать щось",
+      "ipa": "ðей сі ˈсʌмθиŋ",
+      "spell": "they see something"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони роблять фото своїм телефоном",
+      "ipa": "ðей тейк ˈпикчəрз wиð ðер фоун",
+      "spell": "they take pictures with their phone"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "цей співак - грішник",
+      "ipa": "ðис ˈсиŋəр из ə ˈсинəр",
+      "spell": "this singer is a sinner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "знаходитися",
+      "ipa": "ту бі",
+      "spell": "to be"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коштувати",
+      "ipa": "ту бі",
+      "spell": "to be"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бути",
+      "ipa": "ту бі",
+      "spell": "to be"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "походити з",
+      "ipa": "ту бі фрʌм",
+      "spell": "to be from"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "горіти",
+      "ipa": "ту бɜрн",
+      "spell": "to burn"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "правильно розташувати порядок слів",
+      "ipa": "ту ґет ðə wɜрд ˈордəр райт",
+      "spell": "to get the word order right"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "інвертувати підмет і дієслово",
+      "ipa": "ту инˈvɜрт ðə ˈсʌбджикт æнд vɜрб",
+      "spell": "to invert the subject and verb"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "переписати",
+      "ipa": "ту ріˈрайт",
+      "spell": "to rewrite"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грішити",
+      "ipa": "ту син",
+      "spell": "to sin"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "співати",
+      "ipa": "ту сиŋ",
+      "spell": "to sing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потворний",
+      "ipa": "ˈʌґлі",
+      "spell": "ugly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зрозумілий",
+      "ipa": "ˌʌндəрˈстæндəбəл",
+      "spell": "understandable"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "був ↔ були",
+      "ipa": "wʌз ↔ wɜр",
+      "spell": "was ↔ were"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти був там?",
+      "ipa": "wɜр ю ðер?",
+      "spell": "were you there?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "про що ти думаєш?",
+      "ipa": "wɑт ɑр ю ˈθиŋкиŋ əˈбаут?",
+      "spell": "what are you thinking about?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "звідки ти?",
+      "ipa": "wер ɑр ˈкʌмиŋ фрʌм?",
+      "spell": "where are coming from?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "куди ти їздив у минулу відпустку?",
+      "ipa": "wер дид ю ґоу фор йʊəр лæст vейˈкейшəн?",
+      "spell": "where did you go for your last vacation?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де працює твій батько?",
+      "ipa": "wер дʌз йʊəр ˈфɑðəр wɜрк?",
+      "spell": "where does your father work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "з ким ти розмовляєш?",
+      "ipa": "hу ɑр ю ˈтɔкиŋ ту?",
+      "spell": "who are you talking to?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чому ти не подзвонив мені вчора?",
+      "ipa": "wай ˈдидəнт ю кɔл мі ˈйестəрˌдей?",
+      "spell": "why didn’t you call me yesterday?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твій батько там працює",
+      "ipa": "йʊəр ˈфɑðəр wɜркс ðер",
+      "spell": "your father works there"
+    }
+  ]
 }
