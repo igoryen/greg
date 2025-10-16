@@ -1,0 +1,814 @@
+{
+  "student": "Andrew S.",
+  "slug": "as",
+  "period": "week",
+  "number": 41,
+  "date": "2025-10-09",
+  "words": [
+    {
+      "def1": "-ание, -ение",
+      "ipa": "-ɪŋ",
+      "spell": "-ing"
+    },
+    {
+      "def1": "-ущ-, -ющ-, -ащ-, -ящ-",
+      "ipa": "-ɪŋ",
+      "spell": "-ing"
+    },
+    {
+      "def1": "-s",
+      "ipa": "-с, -з",
+      "spell": "-ет"
+    },
+    {
+      "def1": "начальник",
+      "ipa": "ə бɑс",
+      "spell": "a boss"
+    },
+    {
+      "def1": "девушка снимает студию",
+      "ipa": "ə гɜрл ɪз ˈрэнтɪŋ ə ˈстудиˌоу",
+      "spell": "a girl is renting a studio"
+    },
+    {
+      "def1": "куртка",
+      "ipa": "ə ˈджæкəт",
+      "spell": "a jacket"
+    },
+    {
+      "def1": "отельчик",
+      "ipa": "ə ˈлɪтəл hоуˈтэл",
+      "spell": "a little hotel"
+    },
+    {
+      "def1": "модальный глагол",
+      "ipa": "ə ˈмоудəл вɜрб",
+      "spell": "a modal verb"
+    },
+    {
+      "def1": "существительное",
+      "ipa": "ə наун",
+      "spell": "a noun"
+    },
+    {
+      "def1": "местоимение",
+      "ipa": "ə ˈпроунаун",
+      "spell": "a pronoun"
+    },
+    {
+      "def1": "ремонтник, мастер по ремонту",
+      "ipa": "ə рɪˈпэрˌмæн",
+      "spell": "a repairman"
+    },
+    {
+      "def1": "правило",
+      "ipa": "ə рул",
+      "spell": "a rule"
+    },
+    {
+      "def1": "история, сказка, байка",
+      "ipa": "ə ˈстори",
+      "spell": "a story"
+    },
+    {
+      "def1": "высокое, высотное здание, высотка",
+      "ipa": "ə тɔл ˈбɪлдɪŋ",
+      "spell": "a tall building"
+    },
+    {
+      "def1": "вещь",
+      "ipa": "ə θɪŋ",
+      "spell": "a thing"
+    },
+    {
+      "def1": "двухэтажный дом",
+      "ipa": "ə ту-ˈстори hаус",
+      "spell": "a two-story house"
+    },
+    {
+      "def1": "способ раскрыть",
+      "ipa": "ə wэй ту дɪˈскʌвəр",
+      "spell": "a way to discover"
+    },
+    {
+      "def1": "белый пиджак",
+      "ipa": "ə wайт ˈджæкəт",
+      "spell": "a white jacket"
+    },
+    {
+      "def1": "работодатель",
+      "ipa": "əн эмˈплойəр",
+      "spell": "an employer"
+    },
+    {
+      "def1": "печь, духовка",
+      "ipa": "əн ˈʌвəн",
+      "spell": "an oven"
+    },
+    {
+      "def1": "ты снова пьёшь?",
+      "ipa": "ɑр ю ˈдрɪŋкɪŋ əˈгэн?",
+      "spell": "are you drinking again?"
+    },
+    {
+      "def1": "ты за рулём?",
+      "ipa": "ɑр ю ˈдрайвɪŋ?",
+      "spell": "are you driving?"
+    },
+    {
+      "def1": "играешь ли ты в футбол (сейчас)?",
+      "ipa": "ɑр ю ˈплэйɪŋ ˈсɑкəр?",
+      "spell": "are you playing soccer?"
+    },
+    {
+      "def1": "ты куришь (сейчас)?",
+      "ipa": "ɑр ю ˈсмоукɪŋ?",
+      "spell": "are you smoking?"
+    },
+    {
+      "def1": "под другим углом",
+      "ipa": "æт ə ˈдɪфəрəнт ˈæŋгəл",
+      "spell": "at a different angle"
+    },
+    {
+      "def1": "примерно в 11:30",
+      "ipa": "æт əˈбаут ɪˈлэвəн ˈθɜрди",
+      "spell": "at about eleven thirty"
+    },
+    {
+      "def1": "в конце дня",
+      "ipa": "æт ðи энд ʌв ðə дэй",
+      "spell": "at the end of the day"
+    },
+    {
+      "def1": "в конце месяца",
+      "ipa": "æт ðи энд ʌв ðə мʌнθ",
+      "spell": "at the end of the month"
+    },
+    {
+      "def1": "в конце недели",
+      "ipa": "æт ðи энд ʌв ðə wик",
+      "spell": "at the end of the week"
+    },
+    {
+      "def1": "в конце года",
+      "ipa": "æт ðи энд ʌв ðə йɪр",
+      "spell": "at the end of the year"
+    },
+    {
+      "def1": "плохие",
+      "ipa": "бæд wʌнз",
+      "spell": "bad ones"
+    },
+    {
+      "def1": "сломанный",
+      "ipa": "ˈброукəн",
+      "spell": "broken"
+    },
+    {
+      "def1": "сломанные вещи",
+      "ipa": "ˈброукəн θɪŋз",
+      "spell": "broken things"
+    },
+    {
+      "def1": "но сегодня он учится дома",
+      "ipa": "бʌт тəˈдэй hи ɪз ˈстʌдиɪŋ æт hоум",
+      "spell": "but today he is studying at home"
+    },
+    {
+      "def1": "но сегодня я ем хлопья",
+      "ipa": "бʌт тəˈдэй ай æм ˈhæвɪŋ ˈсɪриəл",
+      "spell": "but today I am having cereal"
+    },
+    {
+      "def1": "но сегодня она едет на автобусе",
+      "ipa": "бʌт тəˈдэй щи ɪз ˈтэйкɪŋ ə бʌс",
+      "spell": "but today she is taking a bus"
+    },
+    {
+      "def1": "китайский",
+      "ipa": "чайˈниз",
+      "spell": "Chinese"
+    },
+    {
+      "def1": "убирать комнаты непросто",
+      "ipa": "ˈклинɪŋ румз ɪз нɑт ˈизи",
+      "spell": "cleaning rooms is not easy"
+    },
+    {
+      "def1": "кола",
+      "ipa": "коук",
+      "spell": "coke"
+    },
+    {
+      "def1": "ты танцуешь (вообще)?",
+      "ipa": "ду ю дæнс?",
+      "spell": "do you dance?"
+    },
+    {
+      "def1": "ты играешь в футбол (вообще)?",
+      "ipa": "ду ю плэй ˈсɑкəр?",
+      "spell": "do you play soccer?"
+    },
+    {
+      "def1": "куришь?",
+      "ipa": "ду ю смоук?",
+      "spell": "do you smoke?"
+    },
+    {
+      "def1": "есть здоровую пищу очень полезно",
+      "ipa": "ˈитɪŋ ˈhэлθи фуд ɪз ˈвэри гʊд",
+      "spell": "eating healthy food is very good"
+    },
+    {
+      "def1": "(наёмные) сотрудники",
+      "ipa": "эмˈплойиз",
+      "spell": "employees"
+    },
+    {
+      "def1": "уход под прикрытие, работа под прикрытием",
+      "ipa": "ˈгоуɪŋ ˌʌндəрˈкʌвəр",
+      "spell": "going undercover"
+    },
+    {
+      "def1": "хорошие",
+      "ipa": "гʊд wʌнз",
+      "spell": "good ones"
+    },
+    {
+      "def1": "он просит их сделать некоторые изменения",
+      "ipa": "hи æскс ðэм ту мэйк сʌм ˈчэйнджəз",
+      "spell": "he asks them to make some changes"
+    },
+    {
+      "def1": "он проверяет",
+      "ipa": "hи чэкс",
+      "spell": "he checks"
+    },
+    {
+      "def1": "он выполняет другую работу",
+      "ipa": "hи дʌз ˈʌðəр джɑбз",
+      "spell": "he does other jobs"
+    },
+    {
+      "def1": "он не работает в пятницу",
+      "ipa": "hи ˈдʌзəнт wɜрк ɑн ˈфрайˌдэй",
+      "spell": "he doesn't work on Friday"
+    },
+    {
+      "def1": "у него выходной в пятницу",
+      "ipa": "hи hæз ə дэй ɔф ɑн ˈфрайˌдэй",
+      "spell": "he has a day off on Friday"
+    },
+    {
+      "def1": "он свободен в пятницу",
+      "ipa": "hи ɪз фри ɑн ˈфрайˌдэй",
+      "spell": "he is free on Friday"
+    },
+    {
+      "def1": "он доволен",
+      "ipa": "hи ɪз ˈhæпи",
+      "spell": "he is happy"
+    },
+    {
+      "def1": "он доволен этим",
+      "ipa": "hи ɪз ˈhæпи əˈбаут ðɪс",
+      "spell": "he is happy about this"
+    },
+    {
+      "def1": "у него выходной в пятницу",
+      "ipa": "hи ɪз ɔф ɑн ˈфрайˌдэй",
+      "spell": "he is off on Friday"
+    },
+    {
+      "def1": "он их начальник",
+      "ipa": "hи ɪз ðэр бɑс",
+      "spell": "he is their boss"
+    },
+    {
+      "def1": "он очень устал",
+      "ipa": "hи ɪз ˈвэри ˈтайəрд",
+      "spell": "he is very tired"
+    },
+    {
+      "def1": "на нём синяя шляпа",
+      "ipa": "hи ɪз ˈwэрɪŋ ə блу hæт",
+      "spell": "he is wearing a blue hat"
+    },
+    {
+      "def1": "он не доволен",
+      "ipa": "hи ˈɪзəнт ˈhæпи",
+      "spell": "he isn't happy"
+    },
+    {
+      "def1": "он недоволен этим",
+      "ipa": "hи ˈɪзəнт ˈhæпи əˈбаут ðɪс",
+      "spell": "he isn't happy about this"
+    },
+    {
+      "def1": "он не работает в пятницу",
+      "ipa": "hи ˈɪзəнт ˈwɜркɪŋ ɑн ˈфрайˌдэй",
+      "spell": "he isn't working on Friday"
+    },
+    {
+      "def1": "он должен работать под прикрытием",
+      "ipa": "hи мʌст wɜрк ˌʌндəрˈкʌвəр",
+      "spell": "he must work undercover"
+    },
+    {
+      "def1": "он говорит это рабочим",
+      "ipa": "hи сэз ðɪс ту ðə ˈwɜркəрз",
+      "spell": "he says this to the workers"
+    },
+    {
+      "def1": "он берёт в пятницу выходной",
+      "ipa": "hи тэйкс ˈфрайˌдэй ɔф",
+      "spell": "he takes Friday off"
+    },
+    {
+      "def1": "он рассказывает им о своём опыте",
+      "ipa": "hи тэлз ðэм əˈбаут hɪз ɪкˈспɪриəнс",
+      "spell": "he tells them about his experience"
+    },
+    {
+      "def1": "он рассказывает им об этом",
+      "ipa": "hи тэлз ðэм əˈбаут ɪт",
+      "spell": "he tells them about it"
+    },
+    {
+      "def1": "он обычно носит костюм",
+      "ipa": "hи ˈюжəwəли wэрз ə сут",
+      "spell": "he usually wears a suit"
+    },
+    {
+      "def1": "он обычно работает в офисе",
+      "ipa": "hи ˈюжəwəли wɜркс ɪн əн ˈɔфəс",
+      "spell": "he usually works in an office"
+    },
+    {
+      "def1": "он работает юристом",
+      "ipa": "hи wɜркс æз ə ˈлɔйəр",
+      "spell": "he works as a lawyer"
+    },
+    {
+      "def1": "здоровая пища очень полезна для вас",
+      "ipa": "ˈhэлθи фудз ɑр ˈвэри гʊд фор ю",
+      "spell": "healthy foods are very good for you"
+    },
+    {
+      "def1": "его опыт, переживание",
+      "ipa": "hɪз ɪкˈспɪриəнс",
+      "spell": "his experience"
+    },
+    {
+      "def1": "я всегда встаю поздно",
+      "ipa": "ай ˈɔлˌwэйз гэт ʌп лэйт",
+      "spell": "I always get up late"
+    },
+    {
+      "def1": "я обедаю (сейчас)",
+      "ipa": "ай æм ˈhæвɪŋ лʌнч",
+      "spell": "I am having lunch"
+    },
+    {
+      "def1": "я не пью, потому что я не пью (вообще)",
+      "ipa": "ай æм нɑт ˈдрɪŋкɪŋ бɪˈкɔз ай доунт дрɪŋк (æт ɔл)",
+      "spell": "I am not drinking because I don’t drink (at all)"
+    },
+    {
+      "def1": "я не курю. я вообще не курю.",
+      "ipa": "ай æм нɑт ˈсмоукɪŋ. ай доунт смоук.",
+      "spell": "I am not smoking. I don't smoke."
+    },
+    {
+      "def1": "я сегодня работаю из дома",
+      "ipa": "ай æм ˈwɜркɪŋ фрʌм hоум тəˈдэй",
+      "spell": "I am working from home today"
+    },
+    {
+      "def1": "могу",
+      "ipa": "ай кæн",
+      "spell": "I can"
+    },
+    {
+      "def1": "я решаю это сделать",
+      "ipa": "ай ˌдɪˈсайд ту ду ɪт",
+      "spell": "I decide to do it"
+    },
+    {
+      "def1": "я выполняю эту работу",
+      "ipa": "ай ду ðɪс джɑб",
+      "spell": "I do this job"
+    },
+    {
+      "def1": "я не имею с собой моего зонта",
+      "ipa": "ай доунт hæв май əмˈбрэлə",
+      "spell": "I don't have my umbrella"
+    },
+    {
+      "def1": "я ничего не помню",
+      "ipa": "ай доунт рɪˈмэмбəр ˈэниˌθɪŋ",
+      "spell": "I don't remember anything"
+    },
+    {
+      "def1": "я не пью",
+      "ipa": "ай доунт дрɪŋк",
+      "spell": "I don’t drink"
+    },
+    {
+      "def1": "я вожу машину",
+      "ipa": "ай драйв",
+      "spell": "I drive"
+    },
+    {
+      "def1": "у меня вид на мост",
+      "ipa": "ай hæв ə въю ʌв ðə брɪдж",
+      "spell": "I have a view of the bridge"
+    },
+    {
+      "def1": "я живу в доме",
+      "ipa": "ай лɪв ɪн ə hаус",
+      "spell": "I live in a house"
+    },
+    {
+      "def1": "я жил в Украине",
+      "ipa": "ай лɪвд ɪн юˈкрэйн",
+      "spell": "I lived in Ukraine"
+    },
+    {
+      "def1": "я должен",
+      "ipa": "ай мʌст",
+      "spell": "I must"
+    },
+    {
+      "def1": "я никогда не встаю рано в субботу",
+      "ipa": "ай ˈнэвəр гэт ʌп ˈɜрли ɑн ˈсæтəрˌдэй",
+      "spell": "I never get up early on Saturday"
+    },
+    {
+      "def1": "у меня никогда нет времени на завтрак",
+      "ipa": "ай ˈнэвəр hæв тайм фор ˈбрэкфəст",
+      "spell": "I never have time for breakfast"
+    },
+    {
+      "def1": "я курю (вообще)",
+      "ipa": "ай смоук",
+      "spell": "I smoke"
+    },
+    {
+      "def1": "я думаю, пить кофе вредно для тебя",
+      "ipa": "ай θɪŋк ˈдрɪŋкɪŋ ˈкɑфи ɪз нɑт гʊд фор ю",
+      "spell": "I think drinking coffee is not good for you"
+    },
+    {
+      "def1": "я думаю, курить вредно для тебя",
+      "ipa": "ай θɪŋк ˈсмоукɪŋ ɪз бæд фор ю",
+      "spell": "I think smoking is bad for you"
+    },
+    {
+      "def1": "я думаю, плавать полезно для тебя",
+      "ipa": "ай θɪŋк ˈсwɪмɪŋ ɪз гʊд фор ю",
+      "spell": "I think swimming is good for you"
+    },
+    {
+      "def1": "я пытаюсь",
+      "ipa": "ай трай",
+      "spell": "I try"
+    },
+    {
+      "def1": "я обычно никогда не ругаюсь, но сегодня я много ругаюсь",
+      "ipa": "ай ˈюжəwəли ˈнэвəр сwэр, бʌт тəˈдэй ай æм ˈсwэрɪŋ ə лɑт",
+      "spell": "I usually never swear, but today I am swearing a lot"
+    },
+    {
+      "def1": "я обычно хожу на работу пешком",
+      "ipa": "ай ˈюжəwəли wɔк ту wɜрк",
+      "spell": "I usually walk to work"
+    },
+    {
+      "def1": "я обычно отвожу её на работу",
+      "ipa": "ай ˈюжəwəли драйв hɜр ту wɜрк",
+      "spell": "I usually drive her to work"
+    },
+    {
+      "def1": "я хочу научиться",
+      "ipa": "ай wɑнт ту лɜрн",
+      "spell": "I want to learn"
+    },
+    {
+      "def1": "я развёлся два года назад",
+      "ipa": "ай wʌз дɪˈворст ту йɪрз əˈгоу",
+      "spell": "I was divorced two years ago"
+    },
+    {
+      "def1": "я работаю долгие часы",
+      "ipa": "ай wɜрк лɔŋ ˈауəрз",
+      "spell": "I work long hours"
+    },
+    {
+      "def1": "зимой",
+      "ipa": "ɪн ðə ˈwɪнтəр",
+      "spell": "in the winter"
+    },
+    {
+      "def1": "индивидуальные работники",
+      "ipa": "ˌɪндəˈвɪджəwəл ˈwɜркəрз",
+      "spell": "individual workers"
+    },
+    {
+      "def1": "зимой здесь всегда много дождей",
+      "ipa": "ɪт ˈɔлˌwэйз рэйнз ə лɑт hир ɪн ðə ˈwɪнтəр",
+      "spell": "it always rains a lot here in the winter"
+    },
+    {
+      "def1": "так лучше для меня",
+      "ipa": "ɪт ɪз ˈбэтəр фор ми",
+      "spell": "it is better for me"
+    },
+    {
+      "def1": "это единственный способ",
+      "ipa": "ɪт ɪз ðи ˈоунли wэй",
+      "spell": "it is the only way"
+    },
+    {
+      "def1": "хорошая погода",
+      "ipa": "ɪтс файн ˈwэðəр",
+      "spell": "it's fine weather"
+    },
+    {
+      "def1": "отсутствие действия",
+      "ipa": "нɑн-ˈæкшəн",
+      "spell": "non-action"
+    },
+    {
+      "def1": "о нет, идёт дождь!",
+      "ipa": "оу ноу, ɪтс ˈрэйнɪŋ",
+      "spell": "oh no, it's raining!"
+    },
+    {
+      "def1": "в большом масштабе",
+      "ipa": "ɑн ə лɑрдж скэйл",
+      "spell": "on a large scale"
+    },
+    {
+      "def1": "в малом масштабе",
+      "ipa": "ɑн ə смɔл скэйл",
+      "spell": "on a small scale"
+    },
+    {
+      "def1": "на носилках",
+      "ipa": "ɑн ə ˈстрэчəр",
+      "spell": "on a stretcher"
+    },
+    {
+      "def1": "в понедельник он готовит на кухне",
+      "ipa": "ɑн ˈмʌнˌдэй, hи ɪз ˈкʊкɪŋ ɪн ðə ˈкɪчəн",
+      "spell": "on Monday, he is cooking in the kitchen"
+    },
+    {
+      "def1": "во вторник они ремонтируют вещи",
+      "ipa": "ɑн ˈтузˌдэй, ðэй ɑр рɪˈпэрɪŋ θɪŋз",
+      "spell": "on Tuesday, they are repairing things"
+    },
+    {
+      "def1": "в среду он готовит завтрак",
+      "ipa": "ɑн ˈwэнзˌдэй, hи ɪз ˈмэйкɪŋ ˈбрэкфəст",
+      "spell": "on Wednesday, he is making breakfast"
+    },
+    {
+      "def1": "несколько дней",
+      "ipa": "ˈсэврəл дэйз",
+      "spell": "several days"
+    },
+    {
+      "def1": "она может работать",
+      "ipa": "щи кæн wɜрк",
+      "spell": "she can work"
+    },
+    {
+      "def1": "прямо сейчас она путешествует",
+      "ipa": "щи ɪз ˈтрæвəлɪŋ райт нау",
+      "spell": "she is traveling right now"
+    },
+    {
+      "def1": "она должна пойти спать",
+      "ipa": "щи мʌст гоу ту слип",
+      "spell": "she must go to sleep"
+    },
+    {
+      "def1": "она должна спать",
+      "ipa": "щи мʌст слип",
+      "spell": "she must sleep"
+    },
+    {
+      "def1": "она должна работать",
+      "ipa": "щи мʌст wɜрк",
+      "spell": "she must work"
+    },
+    {
+      "def1": "она должна",
+      "ipa": "щи щʊд",
+      "spell": "she should"
+    },
+    {
+      "def1": "ей следует работать",
+      "ipa": "щи щʊд wɜрк",
+      "spell": "she should work"
+    },
+    {
+      "def1": "она обычно работает до трёх, но сегодня работает допоздна",
+      "ipa": "щи ˈюжəwəли wɜркс əнˈтɪл θри бʌт тəˈнайт щи ɪз ˈwɜркɪŋ лэйт",
+      "spell": "she usually works until three but tonight she is working late"
+    },
+    {
+      "def1": "она работает",
+      "ipa": "щи wɜркс",
+      "spell": "she works"
+    },
+    {
+      "def1": "кое-какие перемены",
+      "ipa": "сʌм ˈчэйнджəз",
+      "spell": "some changes"
+    },
+    {
+      "def1": "состояние",
+      "ipa": "стэйт",
+      "spell": "state"
+    },
+    {
+      "def1": "перестань ругаться",
+      "ipa": "стɑп ˈсwэрɪŋ",
+      "spell": "stop swearing"
+    },
+    {
+      "def1": "вон мой брат",
+      "ipa": "ðæтс май ˈбрʌðəр ˈоувəр ðэр",
+      "spell": "that's my brother over there"
+    },
+    {
+      "def1": "начальник иногда работает под прикрытием",
+      "ipa": "ðə бɑс сəмˈтаймз гоуз ˌʌндəрˈкʌвəр",
+      "spell": "the boss sometimes goes undercover"
+    },
+    {
+      "def1": "множественное число",
+      "ipa": "ðə ˈплʊрəл",
+      "spell": "the plural"
+    },
+    {
+      "def1": "масштаб проблемы",
+      "ipa": "ðə скэйл ʌв ðə ˈпрɑблəм",
+      "spell": "the scale of the problem"
+    },
+    {
+      "def1": "единственное число",
+      "ipa": "ðə ˈсɪŋгйəлəр",
+      "spell": "the singular"
+    },
+    {
+      "def1": "погода хорошая",
+      "ipa": "ðə ˈwэðəр ɪз найс",
+      "spell": "the weather is nice"
+    },
+    {
+      "def1": "хорошая погода",
+      "ipa": "ðə ˈwэðəр ɪз найс",
+      "spell": "the weather is nice"
+    },
+    {
+      "def1": "происходит гостиничная инспекция",
+      "ipa": "ðэр ɪз ə hоуˈтэл ɪнˈспэкшəн",
+      "spell": "there is a hotel inspection"
+    },
+    {
+      "def1": "в эти дни",
+      "ipa": "ðиз дэйз",
+      "spell": "these days"
+    },
+    {
+      "def1": "на этой неделе они в отпуске",
+      "ipa": "ðэй ɑр ɑн вэйˈкэйшəн ðɪс wик",
+      "spell": "they are on vacation this week"
+    },
+    {
+      "def1": "они удивлены",
+      "ipa": "ðэй ɑр сəрˈпрайзд",
+      "spell": "they are surprised"
+    },
+    {
+      "def1": "они очень удивлены",
+      "ipa": "ðэй ɑр ˈвэри сəрˈпрайзд",
+      "spell": "they are very surprised"
+    },
+    {
+      "def1": "они не знают, кто он на самом деле",
+      "ipa": "ðэй доунт ноу hу hи ˈрɪли ɪз",
+      "spell": "they don't know who he really is"
+    },
+    {
+      "def1": "у них должно быть много секретов",
+      "ipa": "ðэй мʌст hæв ə лɑт ʌв ˈсикрəтс",
+      "spell": "they must have a lot of secrets"
+    },
+    {
+      "def1": "у них есть всего тридцать минут",
+      "ipa": "ðэй ˈоунли hæв ˈθɜрди ˈмɪнəтс",
+      "spell": "they only have thirty minutes"
+    },
+    {
+      "def1": "у них есть всего тридцать минут чтобы убрать комнаты",
+      "ipa": "ðэй ˈоунли hæв ˈθɜрди ˈмɪнəтс ту клин румз",
+      "spell": "they only have thirty minutes to clean rooms"
+    },
+    {
+      "def1": "вещи, которые сломаны",
+      "ipa": "θɪŋз ðæт ɑр ˈброукəн",
+      "spell": "things that are broken"
+    },
+    {
+      "def1": "тридцать минут на уборку комнат",
+      "ipa": "ˈθɜрди ˈмɪнəтс ту клин румз",
+      "spell": "thirty minutes to clean rooms"
+    },
+    {
+      "def1": "-ть, -ти",
+      "ipa": "ту",
+      "spell": "to"
+    },
+    {
+      "def1": "описать это",
+      "ipa": "ту дɪˈскрайб ɪт",
+      "spell": "to describe it"
+    },
+    {
+      "def1": "идти, ехать, двигаться",
+      "ipa": "ту гоу",
+      "spell": "to go"
+    },
+    {
+      "def1": "работать под прикрытием",
+      "ipa": "ту гоу ˌʌндəрˈкʌвəр",
+      "spell": "to go undercover"
+    },
+    {
+      "def1": "честно говоря",
+      "ipa": "ту тэл ю ðə труθ",
+      "spell": "to tell you the truth"
+    },
+    {
+      "def1": "сегодня на нём джинсы",
+      "ipa": "тəˈдэй hи ɪз ˈwэрɪŋ джинз",
+      "spell": "today he is wearing jeans"
+    },
+    {
+      "def1": "по правде говоря",
+      "ipa": "труθ би тоулд",
+      "spell": "truth be told"
+    },
+    {
+      "def1": "под прикрытием",
+      "ipa": "ˌʌндəрˈкʌвəр",
+      "spell": "undercover"
+    },
+    {
+      "def1": "обычно",
+      "ipa": "ˈюжəwəли",
+      "spell": "usually"
+    },
+    {
+      "def1": "мы в отпуске",
+      "ipa": "wир ɑн вэйˈкэйшəн",
+      "spell": "we're on vacation"
+    },
+    {
+      "def1": "мы живём в отеле",
+      "ipa": "wир ˈстэйɪŋ ɪн ə hоуˈтэл",
+      "spell": "we're staying in a hotel"
+    },
+    {
+      "def1": "что происходит (сейчас)?",
+      "ipa": "wɑт ɪз ˈhæпəнɪŋ?",
+      "spell": "what is happening?"
+    },
+    {
+      "def1": "во сколько ты обычно ложишься спать?",
+      "ipa": "wɑт тайм ду ю ˈюжəwəли гоу ту бэд?",
+      "spell": "what time do you usually go to bed?"
+    },
+    {
+      "def1": "куда ты идёшь (сейчас)?",
+      "ipa": "wэр ɑр ю ˈгоуɪŋ?",
+      "spell": "where are you going?"
+    },
+    {
+      "def1": "рабочие",
+      "ipa": "ˈwɜркəрз",
+      "spell": "workers"
+    },
+    {
+      "def1": "ты показал мне",
+      "ipa": "ю шоʊд ми",
+      "spell": "you showed me"
+    }
+  ]
+}
