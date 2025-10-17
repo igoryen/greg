@@ -1,0 +1,739 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "week",
+  "number": 42,
+  "date": "2025-10-17",
+  "words": [
+    {
+      "def1": "ванна кімната",
+      "ipa": "ə ˈбæˌθрум",
+      "spell": "a bathroom"
+    },
+    {
+      "def1": "спальня",
+      "ipa": "ə ˈбеˌдрум",
+      "spell": "a bedroom"
+    },
+    {
+      "def1": "рашпер, гриль",
+      "ipa": "ə ˈбройлəр",
+      "spell": "a broiler"
+    },
+    {
+      "def1": "стілець, крісло",
+      "ipa": "ə чер",
+      "spell": "a chair"
+    },
+    {
+      "def1": "детектив",
+      "ipa": "ə диˈтектиv",
+      "spell": "a detective"
+    },
+    {
+      "def1": "крило",
+      "ipa": "ə ˈфендəр",
+      "spell": "a fender"
+    },
+    {
+      "def1": "решітка для гриля",
+      "ipa": "ə ґрейт, ə ґрил ґрейт",
+      "spell": "a grate, a grill grate"
+    },
+    {
+      "def1": "решітка, сітка, графік",
+      "ipa": "ə ґрид",
+      "spell": "a grid"
+    },
+    {
+      "def1": "рашпер, гриль",
+      "ipa": "ə ґрил",
+      "spell": "a grill"
+    },
+    {
+      "def1": "решітка радіатора",
+      "ipa": "ə ґрил",
+      "spell": "a grille"
+    },
+    {
+      "def1": "зустріч",
+      "ipa": "ə ˈмітиŋ",
+      "spell": "a meeting"
+    },
+    {
+      "def1": "кімната для переговорів",
+      "ipa": "ə ˈмітиŋ рум",
+      "spell": "a meeting room"
+    },
+    {
+      "def1": "член",
+      "ipa": "ə ˈмембəр",
+      "spell": "a member"
+    },
+    {
+      "def1": "млин",
+      "ipa": "ə мил",
+      "spell": "a mill"
+    },
+    {
+      "def1": "мельник",
+      "ipa": "ə ˈмилəр",
+      "spell": "a miller"
+    },
+    {
+      "def1": "кінофільм",
+      "ipa": "ə ˈмоушəн ˈпикчəр",
+      "spell": "a motion picture"
+    },
+    {
+      "def1": "вираз минулого часу",
+      "ipa": "ə пæст тайм икˈспрешəн",
+      "spell": "a past time expression"
+    },
+    {
+      "def1": "сталий стан",
+      "ipa": "ə ˈпɜрмəнəнт стейт",
+      "spell": "a permanent state"
+    },
+    {
+      "def1": "картина",
+      "ipa": "ə ˈпикчəр",
+      "spell": "a picture"
+    },
+    {
+      "def1": "дорожній знак",
+      "ipa": "ə роуд сайн",
+      "spell": "a road sign"
+    },
+    {
+      "def1": "грабіжник грабує",
+      "ipa": "ə ˈрɑбəр рɑбз",
+      "spell": "a robber robs"
+    },
+    {
+      "def1": "пограбування",
+      "ipa": "ə ˈрɑбəрі",
+      "spell": "a robbery"
+    },
+    {
+      "def1": "речення; вирок",
+      "ipa": "ə ˈсентəнс",
+      "spell": "a sentence"
+    },
+    {
+      "def1": "табуретка",
+      "ipa": "ə стул",
+      "spell": "a stool"
+    },
+    {
+      "def1": "підозрюваний",
+      "ipa": "ə ˈсʌˌспект",
+      "spell": "a suspect"
+    },
+    {
+      "def1": "підозрювати",
+      "ipa": "ə ˈсʌˌспект",
+      "spell": "a suspect"
+    },
+    {
+      "def1": "підозрюваний у пограбуванні банку",
+      "ipa": "ə сəˈспектид бæŋк ˈрɑбəр",
+      "spell": "a suspected bank robber"
+    },
+    {
+      "def1": "тимчасовий стан",
+      "ipa": "ə ˈтемпəˌрері стейт",
+      "spell": "a temporary state"
+    },
+    {
+      "def1": "колесо",
+      "ipa": "ə wіл",
+      "spell": "a wheel"
+    },
+    {
+      "def1": "додай це",
+      "ipa": "æд ит",
+      "spell": "add it"
+    },
+    {
+      "def1": "повітря",
+      "ipa": "ер",
+      "spell": "air"
+    },
+    {
+      "def1": "самотній",
+      "ipa": "əˈлоун",
+      "spell": "alone"
+    },
+    {
+      "def1": "вухо",
+      "ipa": "əн ір",
+      "spell": "an ear"
+    },
+    {
+      "def1": "вираз",
+      "ipa": "əн икˈспрешəн",
+      "spell": "an expression"
+    },
+    {
+      "def1": "перехрестя",
+      "ipa": "əн ˌинтəрˈсекшəн",
+      "spell": "an intersection"
+    },
+    {
+      "def1": "огидна картина",
+      "ipa": "əн ˈʌґлі ˈпикчəр",
+      "spell": "an ugly picture"
+    },
+    {
+      "def1": "хто-небудь",
+      "ipa": "ˈенібəді",
+      "spell": "anybody"
+    },
+    {
+      "def1": "що-небудь",
+      "ipa": "ˈеніˌθиŋ",
+      "spell": "anything"
+    },
+    {
+      "def1": "де-небудь",
+      "ipa": "ˈеніˌwер",
+      "spell": "anywhere"
+    },
+    {
+      "def1": "попроси Ігоря",
+      "ipa": "æск фор иˈґор",
+      "spell": "ask for Igor"
+    },
+    {
+      "def1": "попроси Олену",
+      "ipa": "æск фор Oлeнa",
+      "spell": "ask for Olena"
+    },
+    {
+      "def1": "попроси в неї води",
+      "ipa": "æск hɜр фор ˈwɔтəр",
+      "spell": "ask her for water"
+    },
+    {
+      "def1": "попроси в нього грошей",
+      "ipa": "æск hим фор ˈмʌні",
+      "spell": "ask him for money"
+    },
+    {
+      "def1": "попроси мене про допомогу",
+      "ipa": "æск мі фор hелп",
+      "spell": "ask me for help"
+    },
+    {
+      "def1": "попроси їх про допомогу",
+      "ipa": "æск ðем фор hелп",
+      "spell": "ask them for help"
+    },
+    {
+      "def1": "у різний час",
+      "ipa": "æт ˈvеріəс таймз",
+      "spell": "at various times"
+    },
+    {
+      "def1": "тому що я довго їхав",
+      "ipa": "биˈкɔз ай дроуv фор ə лɔŋ тайм",
+      "spell": "because I drove for a long time"
+    },
+    {
+      "def1": "тому що я багато працюю",
+      "ipa": "биˈкɔз ай wɜрк hɑрд",
+      "spell": "because I work hard"
+    },
+    {
+      "def1": "коричневий",
+      "ipa": "браун",
+      "spell": "brown"
+    },
+    {
+      "def1": "зателефонуй за цим номером і попроси мене",
+      "ipa": "кɔл ðис ˈнʌмбəр æнд æск фор мі",
+      "spell": "call this number and ask for me"
+    },
+    {
+      "def1": "приготування їжі",
+      "ipa": "ˈкʊкиŋ",
+      "spell": "cooking"
+    },
+    {
+      "def1": "ти мене кохав?",
+      "ipa": "дид ю лʌv мі?",
+      "spell": "did you love me?"
+    },
+    {
+      "def1": "у тебе є абонемент у спортзал?",
+      "ipa": "ду ю hæv ə джим ˈмембəрˌшип?",
+      "spell": "do you have a gym membership?"
+    },
+    {
+      "def1": "ти мене кохаєш?",
+      "ipa": "ду ю лʌv мі?",
+      "spell": "do you love me?"
+    },
+    {
+      "def1": "не проси цього",
+      "ipa": "доунт æск фор ит",
+      "spell": "don’t ask for it"
+    },
+    {
+      "def1": "не проси мене",
+      "ipa": "доунт æск фор мі",
+      "spell": "don’t ask for me"
+    },
+    {
+      "def1": "не питай мене",
+      "ipa": "доунт æск мі",
+      "spell": "don’t ask me"
+    },
+    {
+      "def1": "завершений час",
+      "ipa": "ˈфиништ тайм",
+      "spell": "finished time"
+    },
+    {
+      "def1": "бензин",
+      "ipa": "ґæс",
+      "spell": "gas"
+    },
+    {
+      "def1": "він запізнився на роботу сьогодні вранці",
+      "ipa": "hі wʌз лейт фор wɜрк ðис ˈморниŋ",
+      "spell": "he was late for work this morning"
+    },
+    {
+      "def1": "він працював",
+      "ipa": "hі wɜркт",
+      "spell": "he worked"
+    },
+    {
+      "def1": "дома один",
+      "ipa": "hоум əˈлоун",
+      "spell": "home alone"
+    },
+    {
+      "def1": "я за кермом (зараз)",
+      "ipa": "ай æм ˈдрайvиŋ",
+      "spell": "I am driving"
+    },
+    {
+      "def1": "я працюю (зараз)",
+      "ipa": "ай æм ˈwɜркиŋ",
+      "spell": "I am working"
+    },
+    {
+      "def1": "я зробив",
+      "ipa": "ай дид",
+      "spell": "I did"
+    },
+    {
+      "def1": "я їжджу на машині",
+      "ipa": "ай драйv",
+      "spell": "I drive"
+    },
+    {
+      "def1": "я поїхав",
+      "ipa": "ай дроуv",
+      "spell": "I drove"
+    },
+    {
+      "def1": "я їхав",
+      "ipa": "ай дроуv",
+      "spell": "I drove"
+    },
+    {
+      "def1": "я з'ясовую, чи це правда",
+      "ipa": "ай файнд аут иф итс тру ор нɑт",
+      "spell": "I find out if it's true or not"
+    },
+    {
+      "def1": "я пообідав і поснідав разом",
+      "ipa": "ай hæд лʌнч æнд ˈбрекфəст тəˈґеðəр",
+      "spell": "I had lunch and breakfast together"
+    },
+    {
+      "def1": "я щойно прийшов додому з роботи",
+      "ipa": "ай джʌст кейм hоум фрʌм wɜрк",
+      "spell": "I just came home from work"
+    },
+    {
+      "def1": "я був",
+      "ipa": "ай wʌз",
+      "spell": "I was"
+    },
+    {
+      "def1": "я довго був сам",
+      "ipa": "ай wʌз əˈлоун фор ə лɔŋ тайм",
+      "spell": "I was alone for a long time"
+    },
+    {
+      "def1": "я був у ресторані",
+      "ipa": "ай wʌз æт ə ˈрестəˌрɑнт",
+      "spell": "I was at a restaurant"
+    },
+    {
+      "def1": "я був вдома",
+      "ipa": "ай wʌз æт hоум",
+      "spell": "I was at home"
+    },
+    {
+      "def1": "я був на уроці",
+      "ipa": "ай wʌз ин клæс",
+      "spell": "I was in class"
+    },
+    {
+      "def1": "я не був вдома, я був на виході",
+      "ipa": "ай wʌз нɑт æт hоум, ай wʌз аут",
+      "spell": "I was not at home, I was out"
+    },
+    {
+      "def1": "я працював",
+      "ipa": "ай wʌз ˈwɜркиŋ",
+      "spell": "I was working"
+    },
+    {
+      "def1": "я ношу там сорочку",
+      "ipa": "ай wер ə шɜрт ðер",
+      "spell": "I wear a shirt there"
+    },
+    {
+      "def1": "я буду працювати",
+      "ipa": "ай wил бі ˈwɜркиŋ",
+      "spell": "I will be working"
+    },
+    {
+      "def1": "я буду працювати",
+      "ipa": "ай wил wɜрк",
+      "spell": "I will work"
+    },
+    {
+      "def1": "я працював",
+      "ipa": "ай wɜркт",
+      "spell": "I worked"
+    },
+    {
+      "def1": "у жовтні",
+      "ipa": "ин ɑкˈтоубəр",
+      "spell": "in October"
+    },
+    {
+      "def1": "у минулому",
+      "ipa": "ин ðə пæст",
+      "spell": "in the past"
+    },
+    {
+      "def1": "там є хто-небудь?",
+      "ipa": "из ðер ˈенібəді ðер?",
+      "spell": "is there anybody there?"
+    },
+    {
+      "def1": "там є щось?",
+      "ipa": "из ðер ˈеніˌθиŋ ðер?",
+      "spell": "is there anything there?"
+    },
+    {
+      "def1": "це сьогодні?",
+      "ipa": "из ðис тəˈдей?",
+      "spell": "is this today?"
+    },
+    {
+      "def1": "минуле століття",
+      "ipa": "лæст ˈсенчəрі",
+      "spell": "last century"
+    },
+    {
+      "def1": "минулої ночі",
+      "ipa": "лæст найт",
+      "spell": "last night"
+    },
+    {
+      "def1": "минулого тижня",
+      "ipa": "лæст wік",
+      "spell": "last week"
+    },
+    {
+      "def1": "моє вухо тут поруч",
+      "ipa": "май ір из нир hір",
+      "spell": "my ear is near here"
+    },
+    {
+      "def1": "ніхто",
+      "ipa": "ˈноуˌбɑˌді",
+      "spell": "nobody"
+    },
+    {
+      "def1": "ніщо",
+      "ipa": "ˈнʌθиŋ",
+      "spell": "nothing"
+    },
+    {
+      "def1": "ніде",
+      "ipa": "ˈноуˌwер",
+      "spell": "nowhere"
+    },
+    {
+      "def1": "п'ятнадцяте жовтня",
+      "ipa": "ɑкˈтоубəр фифˈтінθ",
+      "spell": "October fifteenth"
+    },
+    {
+      "def1": "минулий час",
+      "ipa": "пæст тайм",
+      "spell": "past time"
+    },
+    {
+      "def1": "вона не кохала мене",
+      "ipa": "ші дид нɑт лʌv мі",
+      "spell": "she did not love me"
+    },
+    {
+      "def1": "вона не кохає мене",
+      "ipa": "ші дʌз нɑт лʌv мі",
+      "spell": "she does not love me"
+    },
+    {
+      "def1": "хтось",
+      "ipa": "ˈсʌмˌбɑді",
+      "spell": "somebody"
+    },
+    {
+      "def1": "щось",
+      "ipa": "ˈсʌмθиŋ",
+      "spell": "something"
+    },
+    {
+      "def1": "десь",
+      "ipa": "ˈсʌмˌwер",
+      "spell": "somewhere"
+    },
+    {
+      "def1": "далеке минуле",
+      "ipa": "ðə ˈдистəнт пæст",
+      "spell": "the distant past"
+    },
+    {
+      "def1": "недавнє минуле",
+      "ipa": "ðə нир пæст",
+      "spell": "the near past"
+    },
+    {
+      "def1": "минуле",
+      "ipa": "ðə пæст",
+      "spell": "the past"
+    },
+    {
+      "def1": "минула форма 'am' - 'was'",
+      "ipa": "ðə пæст ʌv æм из wʌз",
+      "spell": "the past of 'am' is 'was'"
+    },
+    {
+      "def1": "у басейні мілко",
+      "ipa": "ðə пул из ˈшæлоу",
+      "spell": "the pool is shallow"
+    },
+    {
+      "def1": "теперішній час",
+      "ipa": "ðə ˈпрезəнт",
+      "spell": "the present"
+    },
+    {
+      "def1": "там є тренажери",
+      "ipa": "ðер ɑр мəˈшінз",
+      "spell": "there are machines"
+    },
+    {
+      "def1": "там є басейн",
+      "ipa": "ðер из ə ˈсwимиŋ пул",
+      "spell": "there is a swimming pool"
+    },
+    {
+      "def1": "там нікого немає",
+      "ipa": "ðер из ˈноуˌбɑˌді ðер",
+      "spell": "there is nobody there"
+    },
+    {
+      "def1": "там нічого немає",
+      "ipa": "ðер из ˈнʌθиŋ ðер",
+      "spell": "there is nothing there"
+    },
+    {
+      "def1": "там є хтось",
+      "ipa": "ðер из ˈсʌмˌбɑді ðер",
+      "spell": "there is somebody there"
+    },
+    {
+      "def1": "там є щось",
+      "ipa": "ðер из ˈсʌмθиŋ ðер",
+      "spell": "there is something there"
+    },
+    {
+      "def1": "там нікого немає",
+      "ipa": "ðер ˈизəнт ˈенібəді ðер",
+      "spell": "there isn’t anybody there"
+    },
+    {
+      "def1": "там нічого немає",
+      "ipa": "ðер ˈизəнт ˈеніˌθиŋ ðер",
+      "spell": "there isn’t anything there"
+    },
+    {
+      "def1": "було, знаходилось",
+      "ipa": "ðер wʌз",
+      "spell": "there was"
+    },
+    {
+      "def1": "минулої ночі в школі була вечірка",
+      "ipa": "ðер wʌз ə ˈпɑрті æт ðə скул лæст найт",
+      "spell": "there was a party at the school last night"
+    },
+    {
+      "def1": "в бані сталося пограбування",
+      "ipa": "ðер wʌз ə ˈрɑбəрі ин ə бæŋк",
+      "spell": "there was a robbery in a bank"
+    },
+    {
+      "def1": "там був хтось",
+      "ipa": "ðер wʌз ˈсʌмˌбɑді ðер",
+      "spell": "there was somebody there"
+    },
+    {
+      "def1": "там було щось",
+      "ipa": "ðер wʌз ˈсʌмθиŋ ðер",
+      "spell": "there was something there"
+    },
+    {
+      "def1": "тут є спортзал",
+      "ipa": "ðерз ə джим",
+      "spell": "there’s a gym"
+    },
+    {
+      "def1": "тут є сауна",
+      "ipa": "ðерз ə ˈсɔнə",
+      "spell": "there’s a sauna"
+    },
+    {
+      "def1": "я це бачу вперше",
+      "ipa": "ðис из ðə фɜрст тайм ай hæv сін ит",
+      "spell": "this is the first time I have seen it"
+    },
+    {
+      "def1": "сьогодні вранці",
+      "ipa": "ðис ˈморниŋ",
+      "spell": "this morning"
+    },
+    {
+      "def1": "грабувати",
+      "ipa": "ту рɑб",
+      "spell": "to rob"
+    },
+    {
+      "def1": "нелічильний",
+      "ipa": "ʌнˈкаунтəбəл",
+      "spell": "uncountable"
+    },
+    {
+      "def1": "знаходився, був",
+      "ipa": "wʌз",
+      "spell": "was"
+    },
+    {
+      "def1": "ми платимо по п'ятдесят",
+      "ipa": "wі пей ˈфифті іч",
+      "spell": "we pay fifty each"
+    },
+    {
+      "def1": "ми говоримо про завершений час",
+      "ipa": "wі тɔк əˈбаут ˈфиништ тайм",
+      "spell": "we talk about finished time"
+    },
+    {
+      "def1": "ми говоримо про минуле",
+      "ipa": "wі тɔк əˈбаут ðə пæст",
+      "spell": "we talk about the past"
+    },
+    {
+      "def1": "середа",
+      "ipa": "ˈwензˌдей",
+      "spell": "Wednesday"
+    },
+    {
+      "def1": "знаходились, були",
+      "ipa": "wɜр",
+      "spell": "were"
+    },
+    {
+      "def1": "ти був один?",
+      "ipa": "wɜр ю əˈлоун?",
+      "spell": "were you alone?"
+    },
+    {
+      "def1": "який сьогодні день?",
+      "ipa": "wɑт дей из ит тəˈдей?",
+      "spell": "what day is it today?"
+    },
+    {
+      "def1": "де ти був?",
+      "ipa": "wер wɜр ю?",
+      "spell": "where were you?"
+    },
+    {
+      "def1": "яка він людина?",
+      "ipa": "wич ˈпɜрсəн из hі?",
+      "spell": "which person is he?"
+    },
+    {
+      "def1": "яка людина Джейсон?",
+      "ipa": "wич ˈпɜрсəн из ˈджейсəн?",
+      "spell": "which person is Jason?"
+    },
+    {
+      "def1": "чому ти втомлений?",
+      "ipa": "wай ɑр ю ˈтайəрд?",
+      "spell": "why are you tired?"
+    },
+    {
+      "def1": "буду, будеш, будуть, будем, будете",
+      "ipa": "wил",
+      "spell": "will"
+    },
+    {
+      "def1": "працюючий",
+      "ipa": "ˈwɜркиŋ",
+      "spell": "working"
+    },
+    {
+      "def1": "учора вдень",
+      "ipa": "ˈйестəрˌдей ˌæфтəрˈнун",
+      "spell": "yesterday afternoon"
+    },
+    {
+      "def1": "учора ввечері",
+      "ipa": "ˈйестəрˌдей ˈіvниŋ",
+      "spell": "yesterday evening"
+    },
+    {
+      "def1": "учора вранці",
+      "ipa": "ˈйестəрˌдей ˈморниŋ",
+      "spell": "yesterday morning"
+    },
+    {
+      "def1": "ти можеш його запитати",
+      "ipa": "ю кæн æск hим",
+      "spell": "you can ask him"
+    },
+    {
+      "def1": "тебе не було",
+      "ipa": "ю wɜр аут",
+      "spell": "you were out"
+    },
+    {
+      "def1": "тебе не було вдома",
+      "ipa": "ю ˈwɜрəнт æт hоум",
+      "spell": "you weren't at home"
+    }
+  ]
+}
