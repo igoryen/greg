@@ -71,14 +71,14 @@ function StudentPage() {
             {/* ✅ Random word section */}
             {randomWord && (
                 <div className="random-word-section">
-                    <h2>🎲 Random Word</h2>
+                    <h2>🎲 Random Card</h2>
                     <Mathilda words={[randomWord]} lesnum={randomLessonMeta?.number} />
                     <div className="pickle">
+                        <div className="wallace">From <b>{randomLessonMeta?.student}</b> {randomLessonMeta?.period} {randomLessonMeta?.number} (
+                            {randomLessonMeta?.date})</div>
                         <button onClick={loadRandomWord} className="new-word-btn">
-                            🔄 Get Another Card
+                            <div>🔄 Get Another Card</div>
                         </button>
-                        <p>From <b>{randomLessonMeta?.student}</b> {randomLessonMeta?.period} {randomLessonMeta?.number} (
-                            {randomLessonMeta?.date})</p>
                     </div>
                 </div>
             )}
