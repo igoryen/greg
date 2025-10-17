@@ -1,0 +1,814 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "week",
+  "number": 41,
+  "date": "2025-10-10",
+  "words": [
+    {
+      "def1": "перукар",
+      "ipa": "ə ˈбɑрбəр",
+      "spell": "a barber"
+    },
+    {
+      "def1": "перукарня",
+      "ipa": "ə ˈбɑрбəр шɑп",
+      "spell": "a barber shop"
+    },
+    {
+      "def1": "ванна",
+      "ipa": "ə ˈбæθтʌб",
+      "spell": "a bathtub"
+    },
+    {
+      "def1": "шафа",
+      "ipa": "ə ˈклɑзəт",
+      "spell": "a closet"
+    },
+    {
+      "def1": "хрест",
+      "ipa": "ə крɔс",
+      "spell": "a cross"
+    },
+    {
+      "def1": "поверх у будинку",
+      "ipa": "ə флор ин ə hаус",
+      "spell": "a floor in a house"
+    },
+    {
+      "def1": "хороше завершення",
+      "ipa": "ə ґʊд ˈклоузиŋ",
+      "spell": "a good closing"
+    },
+    {
+      "def1": "піцерія",
+      "ipa": "ə ˈпітсə плейс",
+      "spell": "a pizza place"
+    },
+    {
+      "def1": "місце",
+      "ipa": "ə плейс",
+      "spell": "a place"
+    },
+    {
+      "def1": "швидка кава",
+      "ipa": "ə кwик ˈкɑфі",
+      "spell": "a quick coffee"
+    },
+    {
+      "def1": "туалет",
+      "ipa": "ə ˈреˌструм",
+      "spell": "a restroom"
+    },
+    {
+      "def1": "кімната з видом",
+      "ipa": "ə рум wиð ə в’ю",
+      "spell": "a room with a view"
+    },
+    {
+      "def1": "футбольний матч",
+      "ipa": "ə ˈсɑкəр мæч",
+      "spell": "a soccer match"
+    },
+    {
+      "def1": "м'яка подушка",
+      "ipa": "ə сɑфт ˈпилоу",
+      "spell": "a soft pillow"
+    },
+    {
+      "def1": "шезлонг",
+      "ipa": "ə ˈсʌнбeд",
+      "spell": "a sunbed"
+    },
+    {
+      "def1": "стіл на підлозі",
+      "ipa": "ə ˈтейбəл из ɑн ðə флор",
+      "spell": "a table is on the floor"
+    },
+    {
+      "def1": "солярій",
+      "ipa": "ə ˈтæниŋ бед",
+      "spell": "a tanning bed"
+    },
+    {
+      "def1": "унітаз",
+      "ipa": "ə ˈтойлəт",
+      "spell": "a toilet"
+    },
+    {
+      "def1": "рушник",
+      "ipa": "ə ˈтауəл",
+      "spell": "a towel"
+    },
+    {
+      "def1": "подвір'я",
+      "ipa": "ə йɑрд",
+      "spell": "a yard"
+    },
+    {
+      "def1": "запрошення",
+      "ipa": "əн ˌинvиˈтейшəн",
+      "spell": "an invitation"
+    },
+    {
+      "def1": "хто-небудь",
+      "ipa": "ˈенібəді",
+      "spell": "anybody"
+    },
+    {
+      "def1": "що-небудь",
+      "ipa": "ˈеніˌθиŋ",
+      "spell": "anything"
+    },
+    {
+      "def1": "тут є якісь магазини?",
+      "ipa": "ɑр ðер ˈені сторз hір?",
+      "spell": "are there any stores here?"
+    },
+    {
+      "def1": "що до мене",
+      "ipa": "æз фор мі",
+      "spell": "as for me"
+    },
+    {
+      "def1": "запитай мене",
+      "ipa": "æск мі",
+      "spell": "ask me"
+    },
+    {
+      "def1": "на даний момент",
+      "ipa": "æт ðə ˈмоумəнт",
+      "spell": "at the moment"
+    },
+    {
+      "def1": "красиві речі назовні",
+      "ipa": "ˈб’ютəфəл θиŋз ˈаутˈсайд",
+      "spell": "beautiful things outside"
+    },
+    {
+      "def1": "найкращі побажання",
+      "ipa": "бест ˈwишиз",
+      "spell": "best wishes"
+    },
+    {
+      "def1": "вона може тебе поголити?",
+      "ipa": "кæн ші шейv ю?",
+      "spell": "can she shave you?"
+    },
+    {
+      "def1": "ти вмієш співати?",
+      "ipa": "кæн ю сиŋ?",
+      "spell": "can you sing?"
+    },
+    {
+      "def1": "приходь о сьомій",
+      "ipa": "кʌм æт ˈсеvəн",
+      "spell": "come at seven"
+    },
+    {
+      "def1": "приходь на вечерю",
+      "ipa": "кʌм ту ˈдинəр",
+      "spell": "come to dinner"
+    },
+    {
+      "def1": "комфорт",
+      "ipa": "ˈкʌмфəрт",
+      "spell": "comfort"
+    },
+    {
+      "def1": "ти бачиш кого-небудь?",
+      "ipa": "ду ю сі ˈенібəді?",
+      "spell": "do you see anybody?"
+    },
+    {
+      "def1": "ти бачиш щось?",
+      "ipa": "ду ю сі ˈеніˌθиŋ?",
+      "spell": "do you see anything?"
+    },
+    {
+      "def1": "ти думаєш, що там монстр?",
+      "ipa": "ду ю θиŋк ðæт ðер из ə ˈмɑнстəр ðер?",
+      "spell": "do you think that there is a monster there?"
+    },
+    {
+      "def1": "у неї є досвід?",
+      "ipa": "дʌз ші hæv икˈспиріəнс?",
+      "spell": "does she have experience?"
+    },
+    {
+      "def1": "вона вміє стригти волосся?",
+      "ipa": "дʌз ші ноу hау ту кʌт hер?",
+      "spell": "does she know how to cut hair?"
+    },
+    {
+      "def1": "вона досі працює в Uber?",
+      "ipa": "дʌз ші стил драйv ˈюбəр?",
+      "spell": "does she still drive Uber?"
+    },
+    {
+      "def1": "хоча",
+      "ipa": "ˈіvин ðоу",
+      "spell": "even though"
+    },
+    {
+      "def1": "хоча я на першому поверсі",
+      "ipa": "ˈіvин ðоу ай æм ɑн ðə фɜрст флор",
+      "spell": "even though I am on the first floor"
+    },
+    {
+      "def1": "змий унітаз",
+      "ipa": "флʌш ðə ˈтойлəт",
+      "spell": "flush the toilet"
+    },
+    {
+      "def1": "йди за мною",
+      "ipa": "ˈфɑлоу мі",
+      "spell": "follow me"
+    },
+    {
+      "def1": "молодець",
+      "ipa": "ґʊд фор hɜр",
+      "spell": "good for her"
+    },
+    {
+      "def1": "він запрошує її на виставку",
+      "ipa": "hі инˈvайтс hɜр ту əн ˌексəˈбишəн",
+      "spell": "he invites her to an exhibition"
+    },
+    {
+      "def1": "він запрошує її зробити три речі",
+      "ipa": "hі инˈvайтс hɜр ту ду θрі θиŋз",
+      "spell": "he invites her to do three things"
+    },
+    {
+      "def1": "він запрошує її на каву",
+      "ipa": "hі инˈvайтс hɜр ту hæv ə ˈкɑфі",
+      "spell": "he invites her to have a coffee"
+    },
+    {
+      "def1": "він запрошує її на вечерю або на виставку",
+      "ipa": "hі инˈvайтс hɜр ту hæv ˈдинəр ор сі ə шоу",
+      "spell": "he invites her to have dinner or see a show"
+    },
+    {
+      "def1": "її колишній хлопець",
+      "ipa": "hɜр ˌексˈбойˌфренд",
+      "spell": "her ex-boyfriend"
+    },
+    {
+      "def1": "її ім'я",
+      "ipa": "hɜр фɜрст нейм",
+      "spell": "her first name"
+    },
+    {
+      "def1": "його звати Стів",
+      "ipa": "hиз фɜрст нейм из стіv",
+      "spell": "his first name is Steve"
+    },
+    {
+      "def1": "як довго?",
+      "ipa": "hау лɔŋ?",
+      "spell": "how long?"
+    },
+    {
+      "def1": "я навпроти",
+      "ipa": "ай æм əˈкрɔс ðə стріт",
+      "spell": "I am across the street"
+    },
+    {
+      "def1": "я запрошую тебе",
+      "ipa": "ай æм инˈvайтиŋ ю",
+      "spell": "I am inviting you"
+    },
+    {
+      "def1": "я запрошую тебе в кафе",
+      "ipa": "ай æм инˈvайтиŋ ю ту ə кəˈфей",
+      "spell": "I am inviting you to a cafe"
+    },
+    {
+      "def1": "я на підлозі на першому поверсі",
+      "ipa": "ай æм ɑн ðə флор ɑн ðə фɜрст флор",
+      "spell": "I am on the floor on the first floor"
+    },
+    {
+      "def1": "я дуже зайнятий",
+      "ipa": "ай æм ˈрилі ˈбизі",
+      "spell": "I am really busy"
+    },
+    {
+      "def1": "я не одружений/не заміжня",
+      "ipa": "ай æм ˈсиŋґəл",
+      "spell": "I am single"
+    },
+    {
+      "def1": "я прошу рахунок",
+      "ipa": "ай æск фор ðə чек",
+      "spell": "I ask for the check"
+    },
+    {
+      "def1": "я викреслюю це",
+      "ipa": "ай крɔс ит аут",
+      "spell": "I cross it out"
+    },
+    {
+      "def1": "я переходжу перехрестя",
+      "ipa": "ай крɔс ðі ˌинтəрˈсекшəн",
+      "spell": "I cross the intersection"
+    },
+    {
+      "def1": "я переходжу вулицю",
+      "ipa": "ай крɔс ðə стріт",
+      "spell": "I cross the street"
+    },
+    {
+      "def1": "я викреслюю тебе",
+      "ipa": "ай крɔс ю аут",
+      "spell": "I cross you out"
+    },
+    {
+      "def1": "я відмовляю",
+      "ipa": "ай диˈклайн (æз ин риˈф’юз)",
+      "spell": "I decline (as in refuse)"
+    },
+    {
+      "def1": "я нікого не бачу",
+      "ipa": "ай доунт сі ˈенібəді",
+      "spell": "I don't see anybody"
+    },
+    {
+      "def1": "я нічого не бачу",
+      "ipa": "ай доунт сі ˈеніˌθиŋ",
+      "spell": "I don't see anything"
+    },
+    {
+      "def1": "я не думаю, що це хороша ідея",
+      "ipa": "ай доунт θиŋк итс ə ґʊд айˈдіə",
+      "spell": "I don't think it's a good idea"
+    },
+    {
+      "def1": "я добре поспав",
+      "ipa": "ай hæд ə ґʊд сліп",
+      "spell": "I had a good sleep"
+    },
+    {
+      "def1": "я щойно поснідав",
+      "ipa": "ай hæv джʌст hæд ˈбрекфəст",
+      "spell": "I have just had breakfast"
+    },
+    {
+      "def1": "я ще не обідав",
+      "ipa": "ай ˈhævəнт hæд лʌнч йет",
+      "spell": "I haven't had lunch yet"
+    },
+    {
+      "def1": "я щойно поснідав",
+      "ipa": "ай джʌст hæд ˈбрекфəст",
+      "spell": "I just had breakfast"
+    },
+    {
+      "def1": "я живу на першому поверсі",
+      "ipa": "ай лиv ɑн ðə фɜрст флор",
+      "spell": "I live on the first floor"
+    },
+    {
+      "def1": "мені потрібно йти",
+      "ipa": "ай нід ту ґоу",
+      "spell": "I need to go"
+    },
+    {
+      "def1": "я бачу когось",
+      "ipa": "ай сі ˈсʌмˌбɑді",
+      "spell": "I see somebody"
+    },
+    {
+      "def1": "я бачу щось",
+      "ipa": "ай сі ˈсʌмθиŋ",
+      "spell": "I see something"
+    },
+    {
+      "def1": "я сиджу на унітазі",
+      "ipa": "ай сит ɑн ðə ˈтойлəт",
+      "spell": "I sit on the toilet"
+    },
+    {
+      "def1": "я проспав",
+      "ipa": "ай слепт ин",
+      "spell": "I slept in"
+    },
+    {
+      "def1": "у мене все ще хороший вид",
+      "ipa": "ай стил hæv ə ґʊд в’ю",
+      "spell": "I still have a good view"
+    },
+    {
+      "def1": "я думаю, що є",
+      "ipa": "ай θиŋк ðер из",
+      "spell": "I think there is"
+    },
+    {
+      "def1": "я прокинувся пізно",
+      "ipa": "ай wоук ʌп лейт",
+      "spell": "I woke up late"
+    },
+    {
+      "def1": "я хотів би поговорити з тобою",
+      "ipa": "айд лайк ту тɔк ту ю",
+      "spell": "I'd like to talk to you"
+    },
+    {
+      "def1": "я з радістю прийду",
+      "ipa": "айд лʌv ту кʌм",
+      "spell": "I'd love to come"
+    },
+    {
+      "def1": "якщо ти вмієш співати",
+      "ipa": "иф ю ноу hау ту сиŋ",
+      "spell": "if you know how to sing"
+    },
+    {
+      "def1": "за годину",
+      "ipa": "ин əн ˈауəр",
+      "spell": "in an hour"
+    },
+    {
+      "def1": "у озері",
+      "ipa": "ин ðə лейк",
+      "spell": "in the lake"
+    },
+    {
+      "def1": "запросіть мене",
+      "ipa": "инˈvайт мі",
+      "spell": "invite me"
+    },
+    {
+      "def1": "запросіть когось на вечірку",
+      "ipa": "инˈvайт ˈсʌмˌбɑді ту ə ˈпɑрті",
+      "spell": "invite somebody to a party"
+    },
+    {
+      "def1": "тут є ліфт?",
+      "ipa": "из ðер əн ˈелəˌvейтəр?",
+      "spell": "is there an elevator?"
+    },
+    {
+      "def1": "тут справді є монстр?",
+      "ipa": "из ðер ˈрилі ə ˈмɑнстəр hір?",
+      "spell": "is there really a monster here?"
+    },
+    {
+      "def1": "тут є вай-фай?",
+      "ipa": "из ðер wі-фай?",
+      "spell": "is there wi-fi?"
+    },
+    {
+      "def1": "це допомагає",
+      "ipa": "ит hелпс",
+      "spell": "it helps"
+    },
+    {
+      "def1": "це навпроти",
+      "ipa": "ит из əˈкрɔс ðə стріт",
+      "spell": "it is across the street"
+    },
+    {
+      "def1": "це на четвертому поверсі",
+      "ipa": "ит из ɑн ðə форθ флор",
+      "spell": "it is on the fourth floor"
+    },
+    {
+      "def1": "починає дощити",
+      "ipa": "итс ˈстɑртиŋ ту рейн",
+      "spell": "it's starting to rain"
+    },
+    {
+      "def1": "я б із задоволенням",
+      "ipa": "айд лʌv ту",
+      "spell": "I’d love to"
+    },
+    {
+      "def1": "як у кіно",
+      "ipa": "джʌст лайк ə ˈмуvі",
+      "spell": "just like a movie"
+    },
+    {
+      "def1": "пізніше",
+      "ipa": "ˈлейтəр",
+      "spell": "later"
+    },
+    {
+      "def1": "давай попросимо рахунок",
+      "ipa": "летс æск фор ðə чек",
+      "spell": "let's ask for the check"
+    },
+    {
+      "def1": "давай будемо друзями",
+      "ipa": "летс бі френдз",
+      "spell": "let's be friends"
+    },
+    {
+      "def1": "побачимо",
+      "ipa": "летс сі",
+      "spell": "let's see"
+    },
+    {
+      "def1": "багато років",
+      "ipa": "ˈмені йирз",
+      "spell": "many years"
+    },
+    {
+      "def1": "можливо, побачимось у вихідні?",
+      "ipa": "ˈмейбі сі ю ɑн ðə ˈwіˌкенд?",
+      "spell": "maybe see you on the weekend?"
+    },
+    {
+      "def1": "можливо, ми можемо зустрітися одного вечора",
+      "ipa": "ˈмейбі wі кæн міт wʌн ˈіvниŋ",
+      "spell": "maybe we can meet one evening"
+    },
+    {
+      "def1": "моє перебування",
+      "ipa": "май стей",
+      "spell": "my stay"
+    },
+    {
+      "def1": "ніхто",
+      "ipa": "ˈноуˌбɑˌді",
+      "spell": "nobody"
+    },
+    {
+      "def1": "нічого",
+      "ipa": "ˈнʌθиŋ",
+      "spell": "nothing"
+    },
+    {
+      "def1": "та годі тобі!",
+      "ipa": "оу, кʌм ɑн!",
+      "spell": "oh, come on!"
+    },
+    {
+      "def1": "ой, подивись, котра година!",
+      "ipa": "оу, лʊк æт ðə тайм!",
+      "spell": "oh, look at the time!"
+    },
+    {
+      "def1": "на пагорбі",
+      "ipa": "ɑн ə hил",
+      "spell": "on a hill"
+    },
+    {
+      "def1": "наше перебування",
+      "ipa": "ˈауəр стей",
+      "spell": "our stay"
+    },
+    {
+      "def1": "бідний Стів",
+      "ipa": "пʊр стіv",
+      "spell": "poor Steve"
+    },
+    {
+      "def1": "регіональні відмінності",
+      "ipa": "ˈріджəнəл ˈдифəрəнсиз",
+      "spell": "regional differences"
+    },
+    {
+      "def1": "Скотленд-Ярд",
+      "ipa": "ˈскɑтлəнд йɑрд",
+      "spell": "Scotland Yard"
+    },
+    {
+      "def1": "вона відхиляє його запрошення",
+      "ipa": "ші диˈклайнз hиз ˌинvиˈтейшəн",
+      "spell": "she declines his invitation"
+    },
+    {
+      "def1": "вона відмовляє",
+      "ipa": "ші из диˈклайниŋ",
+      "spell": "she is declining"
+    },
+    {
+      "def1": "вона багато працює",
+      "ipa": "ші из ˈwɜркиŋ hɑрд",
+      "spell": "she is working hard"
+    },
+    {
+      "def1": "деякі люди",
+      "ipa": "сʌм ˈпіпəл",
+      "spell": "some people"
+    },
+    {
+      "def1": "деякі люди кажуть",
+      "ipa": "сʌм ˈпіпəл сей",
+      "spell": "some people say"
+    },
+    {
+      "def1": "хтось",
+      "ipa": "ˈсʌмˌбɑді",
+      "spell": "somebody"
+    },
+    {
+      "def1": "щось",
+      "ipa": "ˈсʌмθиŋ",
+      "spell": "something"
+    },
+    {
+      "def1": "такі речі",
+      "ipa": "сʌч θиŋз",
+      "spell": "such things"
+    },
+    {
+      "def1": "звісно!",
+      "ipa": "шʊр!",
+      "spell": "sure!"
+    },
+    {
+      "def1": "дякую",
+      "ipa": "θæŋкс",
+      "spell": "thanks"
+    },
+    {
+      "def1": "машина в гаражі",
+      "ipa": "ðə кɑр из ин ðə ґəˈрɑж",
+      "spell": "the car is in the garage"
+    },
+    {
+      "def1": "в гаражі є машина",
+      "ipa": "ðə ґəˈрɑж hæз ə кɑр",
+      "spell": "the garage has a car"
+    },
+    {
+      "def1": "старий спосіб",
+      "ipa": "ðі оулд wей",
+      "spell": "the old way"
+    },
+    {
+      "def1": "штат Вермонт",
+      "ipa": "ðə стейт ʌv vəрˈмɑнт",
+      "spell": "the state of Vermont"
+    },
+    {
+      "def1": "речі, які в мене є",
+      "ipa": "ðə θиŋз ай hæv",
+      "spell": "the things I have"
+    },
+    {
+      "def1": "речі, яких у нього немає",
+      "ipa": "ðə θиŋз ит ˈдʌзəнт hæv",
+      "spell": "the things it doesn't have"
+    },
+    {
+      "def1": "речі, які є в готелі",
+      "ipa": "ðə θиŋз ðə hоуˈтел hæз",
+      "spell": "the things the hotel has"
+    },
+    {
+      "def1": "в гаражі є машина",
+      "ipa": "ðер из ə кɑр ин ðə ґəˈрɑж",
+      "spell": "there is a car in the garage"
+    },
+    {
+      "def1": "у цьому спортзалі є басейн",
+      "ipa": "ðер из ə ˈсwимиŋ пул ин ðис джим",
+      "spell": "there is a swimming pool in this gym"
+    },
+    {
+      "def1": "там немає ванни",
+      "ipa": "ðер ˈизəнт ə ˈбæθтəб",
+      "spell": "there isn't a bathtub"
+    },
+    {
+      "def1": "чудовий вид на озеро",
+      "ipa": "ðерз ə ґрейт в’ю ʌv ðə лейк",
+      "spell": "there's a great view of the lake"
+    },
+    {
+      "def1": "у них чудовий вид",
+      "ipa": "ðей hæv ə ґрейт в’ю",
+      "spell": "they have a great view"
+    },
+    {
+      "def1": "вони бачать щось",
+      "ipa": "ðей сі ˈсʌмθиŋ",
+      "spell": "they see something"
+    },
+    {
+      "def1": "вони роблять фото своїм телефоном",
+      "ipa": "ðей тейк ˈфоуˌтоуз wиð ðер фоун",
+      "spell": "they take photos with their phone"
+    },
+    {
+      "def1": "такі речі",
+      "ipa": "θиŋз лайк ðæт",
+      "spell": "things like that"
+    },
+    {
+      "def1": "запросити когось",
+      "ipa": "ту инˈvайт ˈсʌмˌбɑді",
+      "spell": "to invite somebody"
+    },
+    {
+      "def1": "незвичайний",
+      "ipa": "əнˈюжˌуəл",
+      "spell": "unusual"
+    },
+    {
+      "def1": "Вермонт",
+      "ipa": "vəрˈмɑнт",
+      "spell": "Vermont"
+    },
+    {
+      "def1": "ми відмовляємо",
+      "ipa": "wі диˈклайн",
+      "spell": "we decline"
+    },
+    {
+      "def1": "ну що ж",
+      "ipa": "wел",
+      "spell": "well"
+    },
+    {
+      "def1": "який сюрприз!",
+      "ipa": "wɑт ə сəрˈпрайз!",
+      "spell": "what a surprise!"
+    },
+    {
+      "def1": "що вони роблять?",
+      "ipa": "wɑт ду ðей ду?",
+      "spell": "what do they do?"
+    },
+    {
+      "def1": "що вони бачать?",
+      "ipa": "wɑт ду ðей сі?",
+      "spell": "what do they see?"
+    },
+    {
+      "def1": "як ти думаєш, хто це?",
+      "ipa": "hу ду ю θиŋк из ðис?",
+      "spell": "who do you think is this?"
+    },
+    {
+      "def1": "з ким …?",
+      "ipa": "hу … wиð?",
+      "spell": "who … with?"
+    },
+    {
+      "def1": "би",
+      "ipa": "wʊд",
+      "spell": "would"
+    },
+    {
+      "def1": "ти пішов би зі мною в кафе?",
+      "ipa": "wʊд ю кʌм ту ə кəˈфей wиð мі?",
+      "spell": "Would you come to a cafe with me?"
+    },
+    {
+      "def1": "хочеш кави?",
+      "ipa": "wʊд ю лайк ə ˈкɑфі?",
+      "spell": "would you like a coffee?"
+    },
+    {
+      "def1": "ти хотів би піти зі мною?",
+      "ipa": "wʊд ю лайк ту кʌм wиð мі?",
+      "spell": "would you like to come with me?"
+    },
+    {
+      "def1": "ти хотів би піти зі мною в кіно?",
+      "ipa": "wʊд ю лайк ту ґоу ту ðə ˈмуvіз wиð мі?",
+      "spell": "would you like to go to the movies with me?"
+    },
+    {
+      "def1": "ти хотів би піти зі мною в парк?",
+      "ipa": "wʊд ю лайк ту ґоу ту ðə пɑрк wиð мі?",
+      "spell": "would you like to go to the park with me?"
+    },
+    {
+      "def1": "ти хотів би піти зі мною?",
+      "ipa": "wʊд ю лайк ту ґоу wиð мі?",
+      "spell": "would you like to go with me?"
+    },
+    {
+      "def1": "ти чудово виглядаєш",
+      "ipa": "ю ɑр ˈлʊкиŋ ґрейт",
+      "spell": "you are looking great"
+    },
+    {
+      "def1": "ти запрошуєш когось щось зробити",
+      "ipa": "ю инˈvайт ˈсʌмˌбɑді ту ду ˈсʌмθиŋ",
+      "spell": "you invite somebody to do something"
+    },
+    {
+      "def1": "ти чудово виглядаєш",
+      "ipa": "йʊр ˈлʊкиŋ ґрейт",
+      "spell": "you're looking great"
+    },
+    {
+      "def1": "ваше перебування",
+      "ipa": "йʊəр стей",
+      "spell": "your stay"
+    },
+    {
+      "def1": "твій словниковий запас зростає",
+      "ipa": "йʊəр vоуˈкæбйəˌлері из ˈґроуиŋ",
+      "spell": "your vocabulary is growing"
+    }
+  ]
+}
