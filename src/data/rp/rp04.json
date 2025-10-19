@@ -1,0 +1,554 @@
+{
+  "student": "Ruslan P.",
+  "slug": "rp",
+  "period": "week",
+  "number": 41,
+  "date": "2025-10-12",
+  "words": [
+    {
+      "def1": "сапог",
+      "ipa": "ə бут",
+      "spell": "a boot"
+    },
+    {
+      "def1": "письменный стол",
+      "ipa": "ə дэск",
+      "spell": "a desk"
+    },
+    {
+      "def1": "дифтонг",
+      "ipa": "ə ˈдɪфˌθɔŋ",
+      "spell": "a diphthong"
+    },
+    {
+      "def1": "нация",
+      "ipa": "ə ˈнэйшəн",
+      "spell": "a nation"
+    },
+    {
+      "def1": "поезд",
+      "ipa": "ə трэйн",
+      "spell": "a train"
+    },
+    {
+      "def1": "слово",
+      "ipa": "ə wɜрд",
+      "spell": "a word"
+    },
+    {
+      "def1": "нахожусь ли я в пятой комнате?",
+      "ipa": "æм ай ɪн рум файв?",
+      "spell": "am I in room five?"
+    },
+    {
+      "def1": "аббревиатура",
+      "ipa": "əн əˌбривиˈэйшəн",
+      "spell": "an abbreviation"
+    },
+    {
+      "def1": "ассоциация",
+      "ipa": "əн əˌсоусиˈэйшəн",
+      "spell": "an association"
+    },
+    {
+      "def1": "являются ли они английскими?",
+      "ipa": "ɑр ðэй ˈɪŋглɪш?",
+      "spell": "are they English?"
+    },
+    {
+      "def1": "являются ли они японскими?",
+      "ipa": "ɑр ðэй ˌджæпəˈниз?",
+      "spell": "are they Japanese?"
+    },
+    {
+      "def1": "происходите ли Вы из Канады?",
+      "ipa": "ɑр ю фрʌм ˈкæнəдə?",
+      "spell": "are you from Canada?"
+    },
+    {
+      "def1": "ты хорошо разбираешься в цифрах?",
+      "ipa": "ɑр ю гʊд wɪð ˈнʌмбəрз?",
+      "spell": "are you good with numbers?"
+    },
+    {
+      "def1": "собака (@)",
+      "ipa": "æт",
+      "spell": "at"
+    },
+    {
+      "def1": "здание №10",
+      "ipa": "ˈбɪлдɪŋ тэн",
+      "spell": "building ten"
+    },
+    {
+      "def1": "можно мне копию?",
+      "ipa": "кæн ай hæв ə ˈкɑпи?",
+      "spell": "can I have a copy?"
+    },
+    {
+      "def1": "ты можешь помочь мне, пожалуйста?",
+      "ipa": "кæн ю hэлп ми, плиз?",
+      "spell": "can you help me, please?"
+    },
+    {
+      "def1": "ты можешь повторить, пожалуйста?",
+      "ipa": "кæн ю рɪˈпит ðæт, плиз?",
+      "spell": "can you repeat that, please?"
+    },
+    {
+      "def1": "режь!",
+      "ipa": "кʌт ɪт!",
+      "spell": "cut it!"
+    },
+    {
+      "def1": "точка (.)",
+      "ipa": "дɑт",
+      "spell": "dot"
+    },
+    {
+      "def1": "он не знает русский",
+      "ipa": "hи ˈдʌзəнт ноу ˈрʌшəн",
+      "spell": "he doesn't know Russian"
+    },
+    {
+      "def1": "он говорит по-немецки",
+      "ipa": "hи спикс ˈджɜрмəн",
+      "spell": "he speaks German"
+    },
+    {
+      "def1": "он VIP",
+      "ipa": "hиз ə ви-ай-пи",
+      "spell": "he's a VIP"
+    },
+    {
+      "def1": "домой",
+      "ipa": "hоум",
+      "spell": "home"
+    },
+    {
+      "def1": "дома",
+      "ipa": "hоум, æт hоум",
+      "spell": "home, at home"
+    },
+    {
+      "def1": "дорогая, я дома",
+      "ipa": "ˈhʌни, айм hоум",
+      "spell": "honey, I’m home"
+    },
+    {
+      "def1": "как это говорится?",
+      "ipa": "hау ду ю сэй ɪт?",
+      "spell": "how do you say it?"
+    },
+    {
+      "def1": "как это говорится по-английски?",
+      "ipa": "hау ду ю сэй ðæт ɪн ˈɪŋглɪш?",
+      "spell": "how do you say that in English?"
+    },
+    {
+      "def1": "как это пишется?",
+      "ipa": "hау ду ю спэл ɪт?",
+      "spell": "how do you spell it?"
+    },
+    {
+      "def1": "я нахожусь в пятой комнате",
+      "ipa": "ай æм ɪн рум файв",
+      "spell": "I am in room five"
+    },
+    {
+      "def1": "я опаздываю",
+      "ipa": "ай æм лэйт",
+      "spell": "I am late"
+    },
+    {
+      "def1": "я нахожусь не в пятой комнате",
+      "ipa": "ай æм нɑт ɪн рум файв",
+      "spell": "I am not in room five"
+    },
+    {
+      "def1": "я отдыхаю (сейчас)",
+      "ipa": "ай æм рɪˈлæксɪŋ",
+      "spell": "I am relaxing"
+    },
+    {
+      "def1": "я разговариваю с друзьями (сейчас)",
+      "ipa": "ай æм ˈтɔкɪŋ wɪð май фрэндз",
+      "spell": "I am talking with my friends"
+    },
+    {
+      "def1": "я отвечаю на вопрос",
+      "ipa": "ай ˈæнсəр ðə ˈкwэсчəн",
+      "spell": "I answer the question"
+    },
+    {
+      "def1": "я закрываю дверь",
+      "ipa": "ай клоус ðə дор",
+      "spell": "I close the door"
+    },
+    {
+      "def1": "я не знаю",
+      "ipa": "ай доунт ноу",
+      "spell": "I don't know"
+    },
+    {
+      "def1": "у меня есть ПК",
+      "ipa": "ай hæв ə ˈпиˈси",
+      "spell": "I have a PC"
+    },
+    {
+      "def1": "у меня есть PDF-файл этого",
+      "ipa": "ай hæв ə пи-ди-эф ʌв ɪт",
+      "spell": "I have a PDF of it"
+    },
+    {
+      "def1": "я только что пришёл домой с работы",
+      "ipa": "ай джʌст кэйм hоум фрʌм wɜрк",
+      "spell": "I just came home from work"
+    },
+    {
+      "def1": "я знаю",
+      "ipa": "ай ноу",
+      "spell": "I know"
+    },
+    {
+      "def1": "я повторяю это",
+      "ipa": "ай рɪˈпит ðæт",
+      "spell": "I repeat that"
+    },
+    {
+      "def1": "я видел его на русском",
+      "ipa": "ай сɔ ɪт ɪн ˈрʌшəн",
+      "spell": "I saw it in Russian"
+    },
+    {
+      "def1": "я спал на работе",
+      "ipa": "ай слэпт æт wɜрк",
+      "spell": "I slept at work"
+    },
+    {
+      "def1": "я перестаю говорить",
+      "ipa": "ай стɑп ˈтɔкɪŋ",
+      "spell": "I stop talking"
+    },
+    {
+      "def1": "я выключаю телефон",
+      "ipa": "ай тɜрн ɔф май фоун",
+      "spell": "I turn off my phone"
+    },
+    {
+      "def1": "в ЕС (евросоюзе)",
+      "ipa": "ɪн ðи и-ю",
+      "spell": "in the EU"
+    },
+    {
+      "def1": "в НБА",
+      "ipa": "ɪн ðи эн-би-эй",
+      "spell": "in the NBA"
+    },
+    {
+      "def1": "в Великобритании",
+      "ipa": "ɪн ðə ю-кэй",
+      "spell": "in the UK"
+    },
+    {
+      "def1": "является ли он американским?",
+      "ipa": "ɪз hи əˈмэрəкəн?",
+      "spell": "is he American?"
+    },
+    {
+      "def1": "является ли это столицей?",
+      "ipa": "ɪз ɪт ðə ˈкæпəтəл?",
+      "spell": "is it the capital?"
+    },
+    {
+      "def1": "является ли она американской?",
+      "ipa": "ɪз щи əˈмэрəкəн?",
+      "spell": "is she American?"
+    },
+    {
+      "def1": "является ли Супермен американским?",
+      "ipa": "ɪз ˈсупəрмəн əˈмэрəкəн?",
+      "spell": "is Superman American?"
+    },
+    {
+      "def1": "является ли суси китайским?",
+      "ipa": "ɪз ˈсущи чайˈниз?",
+      "spell": "is Sushi Chinese?"
+    },
+    {
+      "def1": "является ли то твоим натуральным цветом?",
+      "ipa": "ɪз ðæт йʊəр ˈнæчəрəл ˈкʌлəр?",
+      "spell": "is that your natural color?"
+    },
+    {
+      "def1": "это является важным",
+      "ipa": "ɪт ɪз ɪмˈпортəнт",
+      "spell": "it is important"
+    },
+    {
+      "def1": "мой адрес",
+      "ipa": "май ˈæˌдрэс",
+      "spell": "my address"
+    },
+    {
+      "def1": "моё имя",
+      "ipa": "май фɜрст нэйм",
+      "spell": "my first name"
+    },
+    {
+      "def1": "моя фамилия",
+      "ipa": "май лæст нэйм",
+      "spell": "my last name"
+    },
+    {
+      "def1": "меня зовут Робин Гуд",
+      "ipa": "май нэйм ɪз ˈрɑбəн hʊд",
+      "spell": "my name is Robin Hood"
+    },
+    {
+      "def1": "мой номер телефона",
+      "ipa": "май фоун ˈнʌмбəр",
+      "spell": "my phone number"
+    },
+    {
+      "def1": "мой почтовый индекс",
+      "ipa": "май ˈпоустəл коуд",
+      "spell": "my postal code"
+    },
+    {
+      "def1": "национальный",
+      "ipa": "ˈнæшəнəл",
+      "spell": "national"
+    },
+    {
+      "def1": "нет",
+      "ipa": "ноу",
+      "spell": "no"
+    },
+    {
+      "def1": "нет, оно не является",
+      "ipa": "ноу, ɪт ɪз нɑт",
+      "spell": "no, it is not"
+    },
+    {
+      "def1": "нет, оно не является",
+      "ipa": "ноу, ɪт ˈɪзəнт",
+      "spell": "no, it isn’t"
+    },
+    {
+      "def1": "нет, она не является",
+      "ipa": "ноу, щи ˈɪзəнт",
+      "spell": "no, she isn’t"
+    },
+    {
+      "def1": "нет, они не являются",
+      "ipa": "ноу, ðэй ˈɑрəнт",
+      "spell": "no, they aren’t"
+    },
+    {
+      "def1": "больше никто не говорит по-английски",
+      "ipa": "ˈноуˌбɑˌди элс спикс ˈɪŋглɪш",
+      "spell": "nobody else speaks English"
+    },
+    {
+      "def1": "не",
+      "ipa": "нɑт",
+      "spell": "not"
+    },
+    {
+      "def1": "люди говорят",
+      "ipa": "ˈпипəл сэй",
+      "spell": "people say"
+    },
+    {
+      "def1": "вежливый",
+      "ipa": "пəˈлайт",
+      "spell": "polite"
+    },
+    {
+      "def1": "пятая комната",
+      "ipa": "рум файв",
+      "spell": "room five"
+    },
+    {
+      "def1": "грубый",
+      "ipa": "руд",
+      "spell": "rude"
+    },
+    {
+      "def1": "русланово",
+      "ipa": "ˈрʌслəнз",
+      "spell": "Ruslan’s"
+    },
+    {
+      "def1": "тот, та, то",
+      "ipa": "ðæт",
+      "spell": "that"
+    },
+    {
+      "def1": "восьмой",
+      "ipa": "ðи эйтθ",
+      "spell": "the eighth"
+    },
+    {
+      "def1": "пятый",
+      "ipa": "ðə фɪфθ",
+      "spell": "the fifth"
+    },
+    {
+      "def1": "первый этаж",
+      "ipa": "ðə фɜрст флор",
+      "spell": "the first floor"
+    },
+    {
+      "def1": "четвёртый",
+      "ipa": "ðə форθ",
+      "spell": "the fourth"
+    },
+    {
+      "def1": "первый этаж",
+      "ipa": "ðə граунд флор",
+      "spell": "the ground floor"
+    },
+    {
+      "def1": "нож режет",
+      "ipa": "ðə найф кʌтс",
+      "spell": "the knife cuts"
+    },
+    {
+      "def1": "второй этаж",
+      "ipa": "ðə ˈсэкəнд флор",
+      "spell": "the second floor"
+    },
+    {
+      "def1": "седьмой",
+      "ipa": "ðə ˈсэвəнθ",
+      "spell": "the seventh"
+    },
+    {
+      "def1": "шестой",
+      "ipa": "ðə сɪксθ",
+      "spell": "the sixth"
+    },
+    {
+      "def1": "третий этаж",
+      "ipa": "ðə θɜрд флор",
+      "spell": "the third floor"
+    },
+    {
+      "def1": "эти",
+      "ipa": "ðиз",
+      "spell": "these"
+    },
+    {
+      "def1": "этот, эта, это",
+      "ipa": "ðɪс",
+      "spell": "this"
+    },
+    {
+      "def1": "те",
+      "ipa": "ðоуз",
+      "spell": "those"
+    },
+    {
+      "def1": "двенадцать часов",
+      "ipa": "тwэлв ˈауəрз",
+      "spell": "twelve hours"
+    },
+    {
+      "def1": "чем являются эти?",
+      "ipa": "wɑт ɑр ðиз?",
+      "spell": "what are these?"
+    },
+    {
+      "def1": "чем являются те?",
+      "ipa": "wɑт ɑр ðоуз?",
+      "spell": "what are those?"
+    },
+    {
+      "def1": "чем является оно?",
+      "ipa": "wɑт ɪз ɪт?",
+      "spell": "what is it?"
+    },
+    {
+      "def1": "чем является то?",
+      "ipa": "wɑт ɪз ðæт?",
+      "spell": "what is that?"
+    },
+    {
+      "def1": "что является противоположностью вежливого?",
+      "ipa": "wɑт ɪз ðи ˈɑпəзəт ʌв пəˈлайт?",
+      "spell": "what is the opposite of polite?"
+    },
+    {
+      "def1": "чем является это?",
+      "ipa": "wɑт ɪз ðɪс?",
+      "spell": "what is this?"
+    },
+    {
+      "def1": "на какой это странице?",
+      "ipa": "wɑт пэйдж ɪз ɪт?",
+      "spell": "what page is it?"
+    },
+    {
+      "def1": "когда я нахожусь в автобусе",
+      "ipa": "wэн ай æм ɑн ə бʌс",
+      "spell": "when I am on a bus"
+    },
+    {
+      "def1": "откуда происходит он?",
+      "ipa": "wэр ɪз hи фрʌм?",
+      "spell": "where is he from?"
+    },
+    {
+      "def1": "откуда происходит она?",
+      "ipa": "wэр ɪз щи фрʌм?",
+      "spell": "where is she from?"
+    },
+    {
+      "def1": "чьими являются эти?",
+      "ipa": "hуз ɑр ðиз?",
+      "spell": "whose are these?"
+    },
+    {
+      "def1": "чьими являются те?",
+      "ipa": "hуз ɑр ðоуз?",
+      "spell": "whose are those?"
+    },
+    {
+      "def1": "чьим является оно?",
+      "ipa": "hуз ɪз ɪт?",
+      "spell": "whose is it?"
+    },
+    {
+      "def1": "чьим является то?",
+      "ipa": "hуз ɪз ðæт?",
+      "spell": "whose is that?"
+    },
+    {
+      "def1": "чьим является это?",
+      "ipa": "hуз ɪз ðɪс?",
+      "spell": "whose is this?"
+    },
+    {
+      "def1": "чьё?",
+      "ipa": "hуз?",
+      "spell": "whose?"
+    },
+    {
+      "def1": "да, он является",
+      "ipa": "йэс, hи ɪз",
+      "spell": "yes, he is"
+    },
+    {
+      "def1": "да, оно является",
+      "ipa": "йэс, ɪт ɪз",
+      "spell": "yes, it is"
+    },
+    {
+      "def1": "да, они являются",
+      "ipa": "йэс, ðэй ɑр",
+      "spell": "yes, they are"
+    }
+  ]
+}
