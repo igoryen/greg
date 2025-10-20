@@ -1,0 +1,764 @@
+{
+  "student": "Illia H.",
+  "slug": "ih",
+  "period": "week",
+  "number": 41,
+  "date": "2025-10-07",
+  "words": [
+    {
+      "def1": "бывший одноклассник",
+      "ipa": "ə ˈформəр ˈклæˌсмэйт",
+      "spell": "a former classmate"
+    },
+    {
+      "def1": "друг, которого я давно не видел",
+      "ipa": "ə фрэнд ай ˈhæвəнт син фор ə лɔŋ тайм",
+      "spell": "a friend I haven't seen for a long time"
+    },
+    {
+      "def1": "реактивный двигатель",
+      "ipa": "ə джэт ˈэнджəн",
+      "spell": "a jet engine"
+    },
+    {
+      "def1": "джетлаг",
+      "ipa": "ə джэт лæг",
+      "spell": "a jet lag"
+    },
+    {
+      "def1": "струя воды",
+      "ipa": "ə джэт ʌв ˈwɔтəр",
+      "spell": "a jet of water"
+    },
+    {
+      "def1": "реактивный самолёт",
+      "ipa": "ə джэт плэйн",
+      "spell": "a jet plane"
+    },
+    {
+      "def1": "кухонная раковина",
+      "ipa": "ə ˈкɪчəн сɪŋк",
+      "spell": "a kitchen sink"
+    },
+    {
+      "def1": "задержка",
+      "ipa": "ə лæг",
+      "spell": "a lag"
+    },
+    {
+      "def1": "чердак, лофт",
+      "ipa": "ə лɔфт",
+      "spell": "a loft"
+    },
+    {
+      "def1": "постоянный работник",
+      "ipa": "ə ˈпɜрмəнəнт ˈwɜркəр",
+      "spell": "a permanent worker"
+    },
+    {
+      "def1": "политик",
+      "ipa": "ə ˌпɑлəˈтɪшəн",
+      "spell": "a politician"
+    },
+    {
+      "def1": "администратор гостиницы",
+      "ipa": "ə рɪˈсэпшəнɪст",
+      "spell": "a receptionist"
+    },
+    {
+      "def1": "общедоступная закусочная",
+      "ipa": "ə ˈсоушəл ˈитəри",
+      "spell": "a social eatery"
+    },
+    {
+      "def1": "виза",
+      "ipa": "ə ˈвизə",
+      "spell": "a visa"
+    },
+    {
+      "def1": "разрешение на работу",
+      "ipa": "ə wɜрк ˈпɜрˌмɪт",
+      "spell": "a work permit"
+    },
+    {
+      "def1": "над раковиной",
+      "ipa": "əˈбʌв ðə сɪŋк",
+      "spell": "above the sink"
+    },
+    {
+      "def1": "над столом",
+      "ipa": "əˈбʌв ðə ˈтэйбəл",
+      "spell": "above the table"
+    },
+    {
+      "def1": "закусочная",
+      "ipa": "əн ˈитəри",
+      "spell": "an eatery"
+    },
+    {
+      "def1": "точно в девять",
+      "ipa": "æт найн ɑн ðə дɑт",
+      "spell": "at nine on the dot"
+    },
+    {
+      "def1": "кстати",
+      "ipa": "бай ðə wэй",
+      "spell": "by the way"
+    },
+    {
+      "def1": "ты умеешь рисовать?",
+      "ipa": "кæн ю дрɔ?",
+      "spell": "can you draw?"
+    },
+    {
+      "def1": "изменённый",
+      "ipa": "чэйнджд",
+      "spell": "changed"
+    },
+    {
+      "def1": "у тебя хороший вид (из окна)?",
+      "ipa": "ду ю hæв ə гʊд въю?",
+      "spell": "do you have a good view?"
+    },
+    {
+      "def1": "восток и запад",
+      "ipa": "ист æнд wэст",
+      "spell": "east and west"
+    },
+    {
+      "def1": "на дорожку",
+      "ipa": "фор ðə роуд",
+      "spell": "for the road"
+    },
+    {
+      "def1": "функциональный язык",
+      "ipa": "ˈфʌŋкшəнəл ˈлæŋгwəдж",
+      "spell": "functional language"
+    },
+    {
+      "def1": "потеряйся!",
+      "ipa": "гэт лɔст!",
+      "spell": "get lost!"
+    },
+    {
+      "def1": "продукты",
+      "ipa": "ˈгроусəриз",
+      "spell": "groceries"
+    },
+    {
+      "def1": "он меня беспокоит, надоедает мне",
+      "ipa": "hи ˈбɑðəрз ми",
+      "spell": "he bothers me"
+    },
+    {
+      "def1": "он не пунктуален",
+      "ipa": "hи ɪз нɑт ˈпʌŋкчуəл",
+      "spell": "he is not punctual"
+    },
+    {
+      "def1": "он греется (сейчас)",
+      "ipa": "hи ɪз ˈwормɪŋ hɪмˈсэлф",
+      "spell": "he is warming himself"
+    },
+    {
+      "def1": "он не самый пунктуальный человек в мире",
+      "ipa": "hи ˈɪзəнт ðə моуст ˈпʌŋкчуəл ˈпɜрсəн ɪн ðə wɜрлд",
+      "spell": "he isn't the most punctual person in the world"
+    },
+    {
+      "def1": "должно быть, он здесь новичок",
+      "ipa": "hи мʌст би ну hир",
+      "spell": "he must be new here"
+    },
+    {
+      "def1": "он собирается посетить Нью-Йорк на месяц",
+      "ipa": "hиз ˈгɑнə ˈвɪзəт ну йорк фор ə мʌнθ",
+      "spell": "he's gonna visit New York for a month"
+    },
+    {
+      "def1": "как я выгляжу?",
+      "ipa": "hау ду ай лʊк?",
+      "spell": "how do I look?"
+    },
+    {
+      "def1": "как долго ты здесь пробудешь?",
+      "ipa": "hау лɔŋ ɑр ю ˈгоуɪŋ ту би hир?",
+      "spell": "how long are you going to be here?"
+    },
+    {
+      "def1": "я согласился",
+      "ipa": "ай əˈгрид",
+      "spell": "I agreed"
+    },
+    {
+      "def1": "я писатель для этого журнала",
+      "ipa": "ай æм ə ˈрайтəр фор ðɪс ˈмæгəˌзин",
+      "spell": "I am a writer for this magazine"
+    },
+    {
+      "def1": "я звоню на ресепшен",
+      "ipa": "ай æм ˈкɔлɪŋ рɪˈсэпшəн",
+      "spell": "I am calling reception"
+    },
+    {
+      "def1": "я весёлый",
+      "ipa": "ай æм фʌн",
+      "spell": "I am fun"
+    },
+    {
+      "def1": "со мной весело",
+      "ipa": "ай æм фʌн ту би wɪð",
+      "spell": "I am fun to be with"
+    },
+    {
+      "def1": "я буду здесь месяц",
+      "ipa": "ай æм ˈгоуɪŋ ту би hир фор ə мʌнθ",
+      "spell": "I am going to be here for a month"
+    },
+    {
+      "def1": "я здесь на месяц",
+      "ipa": "ай æм hир фор ə мʌнθ",
+      "spell": "I am here for a month"
+    },
+    {
+      "def1": "я с нетерпением жду встречи с тобой",
+      "ipa": "ай æм ˈлʊкɪŋ ˈфорwəрд ту ˈмитɪŋ ю",
+      "spell": "I am looking forward to meeting you"
+    },
+    {
+      "def1": "я звоню по телефону (сейчас)",
+      "ipa": "ай æм ˈмэйкɪŋ ə фоун кɔл (aтм)",
+      "spell": "I am making a phone call "
+    },
+    {
+      "def1": "я пунктуален",
+      "ipa": "ай æм ˈпʌŋкчуəл",
+      "spell": "I am punctual"
+    },
+    {
+      "def1": "я отвечаю за wi-fi в отеле",
+      "ipa": "ай æм риˈспɑнсəбəл фор ˈwай-фай æт ðə hоуˈтэл",
+      "spell": "I am responsible for wi-fi at the hotel"
+    },
+    {
+      "def1": "мне жаль тебя беспокоить",
+      "ipa": "ай æм ˈсɑри ту ˈбɑðəр ю",
+      "spell": "I am sorry to bother you"
+    },
+    {
+      "def1": "я помощник редактора журнала",
+      "ipa": "ай æм ðи əˈсɪстəнт ˈэдəтəр ʌв ə ˈмæгəˌзин",
+      "spell": "I am the assistant editor of a magazine"
+    },
+    {
+      "def1": "я разогреваюсь (сейчас)",
+      "ipa": "ай æм ˈwормɪŋ ʌп",
+      "spell": "I am warming up"
+    },
+    {
+      "def1": "я зеваю (сейчас)",
+      "ipa": "ай æм ˈйɔнɪŋ",
+      "spell": "I am yawning"
+    },
+    {
+      "def1": "я прошу о помощи",
+      "ipa": "ай æск фор hэлп",
+      "spell": "I ask for help"
+    },
+    {
+      "def1": "я звоню на ресепшен",
+      "ipa": "ай кɔл рɪˈсэпшəн",
+      "spell": "I call reception"
+    },
+    {
+      "def1": "я могу выжить на английском в путешествиях и социальных ситуациях",
+      "ipa": "ай кæн сəрˈвайв ɪн ˈɪŋглɪш ɪн ˈтрæвəл æнд ˈсоушəл ˌсɪчуˈэйшəнз",
+      "spell": "I can survive in English in travel and social situations"
+    },
+    {
+      "def1": "я не могу поймать сигнал",
+      "ipa": "ай кæнт гэт ə ˈсɪгнəл",
+      "spell": "I can't get a signal"
+    },
+    {
+      "def1": "я не хочу заблудиться",
+      "ipa": "ай доунт wɑнт ту гэт лɔст",
+      "spell": "I don't want to get lost"
+    },
+    {
+      "def1": "я нарисовал свою сестру",
+      "ipa": "ай дру май ˈсɪстəр",
+      "spell": "I drew my sister"
+    },
+    {
+      "def1": "я отредактировал это",
+      "ipa": "ай ˈэдɪтɪд ɪт",
+      "spell": "I edited it"
+    },
+    {
+      "def1": "я чувствую уверенность",
+      "ipa": "ай фил ˈкɑнфəдəнт",
+      "spell": "I feel confident"
+    },
+    {
+      "def1": "я уверен, что теперь могу это сделать",
+      "ipa": "ай фил ˈкɑнфəдəнт ай кæн нау ду ðɪс",
+      "spell": "I feel confident I can now do this"
+    },
+    {
+      "def1": "я осматриваю достопримечательности",
+      "ipa": "ай гоу ˈсайтˈсиɪŋ",
+      "spell": "I go sightseeing"
+    },
+    {
+      "def1": "я заблудился",
+      "ipa": "ай гɑт лɔст",
+      "spell": "I got lost"
+    },
+    {
+      "def1": "полагаю, ты прав",
+      "ipa": "ай гэс йʊр райт",
+      "spell": "I guess you're right"
+    },
+    {
+      "def1": "у меня было много встреч с ним",
+      "ipa": "ай hæд лɑтс ʌв ˈмитɪŋз wɪð hɪм",
+      "spell": "I had lots of meetings with him"
+    },
+    {
+      "def1": "из моей комнаты открывается хороший вид",
+      "ipa": "ай hæв ə гʊд въю фрʌм май рум",
+      "spell": "I have a good view from my room"
+    },
+    {
+      "def1": "у меня проблема с wi-fi",
+      "ipa": "ай hæв ə ˈпрɑблəм wɪð ðə ˈwай-фай",
+      "spell": "I have a problem with the wi-fi"
+    },
+    {
+      "def1": "у меня некоторые проблемы в комнате",
+      "ipa": "ай hæв сʌм ˈпрɑблəмз ɪн май рум",
+      "spell": "I have some problems in my room"
+    },
+    {
+      "def1": "я помог ему купить рубашку",
+      "ipa": "ай hэлпт hɪм бай ə щɜрт",
+      "spell": "I helped him buy a shirt"
+    },
+    {
+      "def1": "я узнаю об этом больше",
+      "ipa": "ай лɜрн мор əˈбаут ɪт",
+      "spell": "I learn more about it"
+    },
+    {
+      "def1": "ты мне очень нравишься",
+      "ipa": "ай лайк ю ə лɑт",
+      "spell": "I like you a lot"
+    },
+    {
+      "def1": "я звоню",
+      "ipa": "ай мэйк ə кɔл",
+      "spell": "I make a call"
+    },
+    {
+      "def1": "я упоминаю, что",
+      "ipa": "ай ˈмэншəн ðæт",
+      "spell": "I mention that"
+    },
+    {
+      "def1": "мне нужно идти спать",
+      "ipa": "ай нид ту гоу ту бэд",
+      "spell": "I need to go to bed"
+    },
+    {
+      "def1": "я нумерую картинки в том порядке, в котором ты их называешь",
+      "ipa": "ай ˈнʌмбəр ðə ˈпɪкчəрз ɪн ðи ˈордəр ю ˈмэншəн ðэм",
+      "spell": "I number the pictures in the order you mention them"
+    },
+    {
+      "def1": "я предлагаю что-то сделать",
+      "ipa": "ай ˈɔфəр ту ду ˈсʌмθɪŋ",
+      "spell": "I offer to do something"
+    },
+    {
+      "def1": "я осматриваю достопримечательности",
+      "ipa": "ай си сайтс",
+      "spell": "I see sights"
+    },
+    {
+      "def1": "я показываю ей город",
+      "ipa": "ай шоʊ hɜр əˈраунд ðə ˈсɪти",
+      "spell": "I show her around the city"
+    },
+    {
+      "def1": "я показываю ей офис",
+      "ipa": "ай шоʊ hɜр əˈраунд ðи ˈɔфəс",
+      "spell": "I show her around the office"
+    },
+    {
+      "def1": "я думаю, какими могут быть пропущенные слова",
+      "ipa": "ай θɪŋк wɑт ðə ˈмɪсɪŋ wɜрдз майт би",
+      "spell": "I think what the missing words might be"
+    },
+    {
+      "def1": "я хочу убедиться, что ты понял",
+      "ipa": "ай wɑнт ту мэйк щʊр ю ˌʌндəрˈстæнд",
+      "spell": "I want to make sure you understand"
+    },
+    {
+      "def1": "я смотрю это во второй раз",
+      "ipa": "ай wɑч ɪт ə ˈсэкəнд тайм",
+      "spell": "I watch it a second time"
+    },
+    {
+      "def1": "я представлю тебя команде",
+      "ipa": "ай wɪл ˌɪнтрəˈдус ю ту ðə тим",
+      "spell": "I will introduce you to the team"
+    },
+    {
+      "def1": "я соединю вас с IT-отделом",
+      "ipa": "ай wɪл пʊт ю θру ту ɪт",
+      "spell": "I will put you through to IT"
+    },
+    {
+      "def1": "я зеваю",
+      "ipa": "ай йɔн",
+      "spell": "I yawn"
+    },
+    {
+      "def1": "открою вам секрет",
+      "ipa": "айл лэт ю ɪн ɑн ə ˈсикрəт",
+      "spell": "I'll let you in on a secret"
+    },
+    {
+      "def1": "у меня всё хорошо",
+      "ipa": "айм файн",
+      "spell": "I'm fine"
+    },
+    {
+      "def1": "я с нетерпением жду встречи с ним",
+      "ipa": "айм ˈлʊкɪŋ ˈфорwəрд ту ˈмитɪŋ hɪм",
+      "spell": "I'm looking forward to meeting him"
+    },
+    {
+      "def1": "если кто-то звонит",
+      "ipa": "ɪф ˈсʌмˌwʌн мэйкс ə кɔл",
+      "spell": "if someone makes a call"
+    },
+    {
+      "def1": "в Северной Америке",
+      "ipa": "ɪн норθ əˈмэрəкə",
+      "spell": "in North America"
+    },
+    {
+      "def1": "в Южной Америке",
+      "ipa": "ɪн сауθ əˈмэрəкə",
+      "spell": "in South America"
+    },
+    {
+      "def1": "на юго-востоке Украины",
+      "ipa": "ɪн ˌсауˈθистəрн юˈкрэйн",
+      "spell": "in south-eastern Ukraine"
+    },
+    {
+      "def1": "на юге России",
+      "ipa": "ɪн ˈсʌðəрн ˈрʌшə",
+      "spell": "in southern Russia"
+    },
+    {
+      "def1": "на чердаке",
+      "ipa": "ɪн ðи ˈæтɪк",
+      "spell": "in the attic"
+    },
+    {
+      "def1": "на западе Украины",
+      "ipa": "ɪн ˈwэстəрн юˈкрэйн",
+      "spell": "in western Ukraine"
+    },
+    {
+      "def1": "в общих чертах",
+      "ipa": "ɪн wайд строукс",
+      "spell": "in wide strokes"
+    },
+    {
+      "def1": "должно быть, тебе это странно",
+      "ipa": "ɪт мʌст фил стрэйндж ту ю",
+      "spell": "it must feel strange to you"
+    },
+    {
+      "def1": "это было очень вкусно",
+      "ipa": "ɪт wʌз дɪˈлɪшəс",
+      "spell": "it was delicious"
+    },
+    {
+      "def1": "будет здорово снова тебя увидеть",
+      "ipa": "ɪтс ˈгоуɪŋ ту би грэйт ту си ю əˈгэн",
+      "spell": "it's going to be great to see you again"
+    },
+    {
+      "def1": "здорово быть здесь",
+      "ipa": "ɪтс грэйт ту би hир",
+      "spell": "it's great to be here"
+    },
+    {
+      "def1": "здорово снова тебя видеть",
+      "ipa": "ɪтс грэйт ту си ю əˈгэн",
+      "spell": "it's great to see you again"
+    },
+    {
+      "def1": "это очень захватывающе",
+      "ipa": "ɪтс ˈрɪли ɪкˈсайтɪŋ",
+      "spell": "it's really exciting"
+    },
+    {
+      "def1": "для меня сейчас два часа ночи",
+      "ipa": "ɪтс ту ɪн ðə ˈморнɪŋ фор ми",
+      "spell": "it's two in the morning for me"
+    },
+    {
+      "def1": "здесь очень жарко",
+      "ipa": "ɪтс ˈвэри hɑт hир",
+      "spell": "it's very hot here"
+    },
+    {
+      "def1": "скажу вам по секрету",
+      "ipa": "айл тэл ю ə ˈсикрəт",
+      "spell": "I’ll tell you a secret"
+    },
+    {
+      "def1": "я на работе",
+      "ipa": "айм æт wɜрк",
+      "spell": "I’m at work"
+    },
+    {
+      "def1": "Дженни блондинка",
+      "ipa": "ˈджэни ɪз блɑнд",
+      "spell": "Jenny is blonde"
+    },
+    {
+      "def1": "моё одно отрицательное качество",
+      "ipa": "май wʌн ˈнэгəтɪв ˈкwɑлəти",
+      "spell": "my one negative quality"
+    },
+    {
+      "def1": "север и юг",
+      "ipa": "норθ æнд сауθ",
+      "spell": "north and south"
+    },
+    {
+      "def1": "по контракту",
+      "ipa": "ɑн ə ˈкɑнˌтрæкт",
+      "spell": "on a contract"
+    },
+    {
+      "def1": "люди с востока Украины",
+      "ipa": "ˈпипəл фрʌм ˈистəрн юˈкрэйн",
+      "spell": "people from Eastern Ukraine"
+    },
+    {
+      "def1": "люди, которых нет в США",
+      "ipa": "ˈпипəл hу ɑр нɑт ɪн ðи ʌс",
+      "spell": "people who are not in the US"
+    },
+    {
+      "def1": "некачественная еда",
+      "ipa": "пʊр ˈкwɑлəти фуд",
+      "spell": "poor quality food"
+    },
+    {
+      "def1": "она редактирует журнал",
+      "ipa": "щи ˈэдɪтс ðə ˈмæгəˌзин",
+      "spell": "she edits the magazine"
+    },
+    {
+      "def1": "у неё длинные прямые волосы",
+      "ipa": "щи hæз лɔŋ стрэйт hэр",
+      "spell": "she has long straight hair"
+    },
+    {
+      "def1": "он ей очень нравится",
+      "ipa": "щи лайкс hɪм ə лɑт",
+      "spell": "she likes him a lot"
+    },
+    {
+      "def1": "она поехала в Лондон",
+      "ipa": "щи wэнт ту ˈлʌндəн",
+      "spell": "she went to London"
+    },
+    {
+      "def1": "бытовой английский, для общения",
+      "ipa": "ˈсоушəл ˈɪŋглɪш",
+      "spell": "social English"
+    },
+    {
+      "def1": "о вкусах не спорят",
+      "ipa": "тэйстс ˈдɪфəр",
+      "spell": "tastes differ"
+    },
+    {
+      "def1": "это был отличный обед",
+      "ipa": "ðæт wʌз ə грэйт мил",
+      "spell": "that was a great meal"
+    },
+    {
+      "def1": "помощник редактора",
+      "ipa": "ðи əˈсɪстəнт ˈэдəтəр",
+      "spell": "the assistant editor"
+    },
+    {
+      "def1": "срок годности",
+      "ipa": "ðи ˌэкспəˈрэйшəн дэйт",
+      "spell": "the expiration date"
+    },
+    {
+      "def1": "гостиница нормальная",
+      "ipa": "ðə hоуˈтэл ɪз файн",
+      "spell": "the hotel is fine"
+    },
+    {
+      "def1": "Нью-Йорк, который я знаю",
+      "ipa": "ðə ну йорк ай ноу",
+      "spell": "the New York I know"
+    },
+    {
+      "def1": "есть женщина",
+      "ipa": "ðэр ɪз ə ˈwʊмəн",
+      "spell": "there is a woman"
+    },
+    {
+      "def1": "есть проблема с кондиционером",
+      "ipa": "ðэрз ə ˈпрɑблəм wɪð эр кəнˈдɪшəнɪŋ",
+      "spell": "there's a problem with air conditioning"
+    },
+    {
+      "def1": "эти две недели очень лёгкие",
+      "ipa": "ðиз ту wикс ɑр ˈвэри лайт",
+      "spell": "these two weeks are very light"
+    },
+    {
+      "def1": "они главные герои",
+      "ipa": "ðэй ɑр ðə мэйн ˈкæрɪктəрз",
+      "spell": "they are the main characters"
+    },
+    {
+      "def1": "они купили ему рубашку",
+      "ipa": "ðэй бɑт ə щɜрт фор hɪм",
+      "spell": "they bought a shirt for him"
+    },
+    {
+      "def1": "они сделали это вместе",
+      "ipa": "ðэй дɪд ɪт тəˈгэðəр",
+      "spell": "they did it together"
+    },
+    {
+      "def1": "они пили кофе вместе",
+      "ipa": "ðэй hæд ˈкɔфиз тəˈгэðəр",
+      "spell": "they had coffees together"
+    },
+    {
+      "def1": "нам платят, даже если мы ничего не продаём",
+      "ipa": "ðэй пэй ʌс ˈивɪн ɪф wи доунт сэл ˈэниˌθɪŋ",
+      "spell": "they pay us even if we don’t sell anything"
+    },
+    {
+      "def1": "они шли пешком",
+      "ipa": "ðэй wɔкт",
+      "spell": "they walked"
+    },
+    {
+      "def1": "они осматривали достопримечательности",
+      "ipa": "ðэй wэнт ˈсайтˈсиɪŋ",
+      "spell": "they went sightseeing"
+    },
+    {
+      "def1": "этот сюжет основан на двух персонажах",
+      "ipa": "ðɪс ˈсториˌлайн ɪз бэйст ɑн ту ˈкæрɪктəрз",
+      "spell": "this storyline is based on two characters"
+    },
+    {
+      "def1": "две недели отпуска",
+      "ipa": "ту wикс ɔф",
+      "spell": "two weeks off"
+    },
+    {
+      "def1": "у нас нет агентов",
+      "ipa": "wи доунт hæв ˈэйджəнтс",
+      "spell": "we don't have agents"
+    },
+    {
+      "def1": "мы пьём кофе вместе",
+      "ipa": "wи hæв ˈкɔфиз тəˈгэðəр",
+      "spell": "we have coffees together"
+    },
+    {
+      "def1": "мы получаем деньги, если кто-то отвечает",
+      "ipa": "wи рəˈсив ˈмʌни ɪф ˈсʌмˌwʌн ˈæнсəрз",
+      "spell": "we receive money if someone answers"
+    },
+    {
+      "def1": "мы меняемся ролями",
+      "ipa": "wи сwɪч роулз",
+      "spell": "we switch roles"
+    },
+    {
+      "def1": "мы пошли осматривать достопримечательности",
+      "ipa": "wи wэнт ˈсайтˈсиɪŋ",
+      "spell": "we went sightseeing"
+    },
+    {
+      "def1": "мы собираемся встретиться в одиннадцать",
+      "ipa": "wир ˈгоуɪŋ ту мит æт ɪˈлэвəн",
+      "spell": "we're going to meet at eleven"
+    },
+    {
+      "def1": "чем она занимается?",
+      "ipa": "wɑт дʌз щи ду?",
+      "spell": "what does she do?"
+    },
+    {
+      "def1": "какой он национальности?",
+      "ipa": "wɑт ˌнæшəˈнæлəти ɪз hи?",
+      "spell": "what nationality is he?"
+    },
+    {
+      "def1": "когда услышите гудок",
+      "ipa": "wэн ю hир ðə бип",
+      "spell": "when you hear the beep"
+    },
+    {
+      "def1": "куда она поехала?",
+      "ipa": "wэр дɪд щи гоу?",
+      "spell": "where did she go?"
+    },
+    {
+      "def1": "ты можешь начать об этом думать",
+      "ipa": "ю кæн стɑрт ˈθɪŋкɪŋ əˈбаут ɪт",
+      "spell": "you can start thinking about it"
+    },
+    {
+      "def1": "у тебя был очень долгий перелёт",
+      "ipa": "ю hæд ə ˈвэри лɔŋ флайт",
+      "spell": "you had a very long flight"
+    },
+    {
+      "def1": "ты, наверное, заблудился",
+      "ipa": "ю мʌст би лɔст",
+      "spell": "you must be lost"
+    },
+    {
+      "def1": "ты, наверное, очень устал",
+      "ipa": "ю мʌст би ˈрɪли ˈтайəрд",
+      "spell": "you must be really tired"
+    },
+    {
+      "def1": "ты, наверное, устал",
+      "ipa": "ю мʌст би ˈтайəрд",
+      "spell": "you must be tired"
+    },
+    {
+      "def1": "тебе нужно идти спать",
+      "ipa": "ю нид ту гоу ту бэд",
+      "spell": "you need to go to bed"
+    }
+  ]
+}
