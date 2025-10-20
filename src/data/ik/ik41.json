@@ -1,0 +1,849 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 41,
+  "date": "2025-10-12",
+  "words": [
+    {
+      "def1": "запятая",
+      "ipa": "ə ˈкɑмə",
+      "spell": "a comma"
+    },
+    {
+      "def1": "распространённая фраза",
+      "ipa": "ə ˈкɑмəн фрэйз",
+      "spell": "a common phrase"
+    },
+    {
+      "def1": "курс",
+      "ipa": "ə корс",
+      "spell": "a course"
+    },
+    {
+      "def1": "дочь",
+      "ipa": "ə ˈдɔтəр",
+      "spell": "a daughter"
+    },
+    {
+      "def1": "рейс из Лондона в Нью-Йорк",
+      "ipa": "ə флайт фрʌм ˈлʌндəн ту ну йорк",
+      "spell": "a flight from London to New York"
+    },
+    {
+      "def1": "стакан сока",
+      "ipa": "ə глæс ʌв джус",
+      "spell": "a glass of juice"
+    },
+    {
+      "def1": "хороший полёт",
+      "ipa": "ə гʊд флайт",
+      "spell": "a good flight"
+    },
+    {
+      "def1": "много",
+      "ipa": "ə лɑт",
+      "spell": "a lot"
+    },
+    {
+      "def1": "много хлеба",
+      "ipa": "ə лɑт ʌв брэд",
+      "spell": "a lot of bread"
+    },
+    {
+      "def1": "много времени",
+      "ipa": "ə лɑт ʌв тайм",
+      "spell": "a lot of time"
+    },
+    {
+      "def1": "много водки",
+      "ipa": "ə лɑт ʌв ˈвɑдкə",
+      "spell": "a lot of vodka"
+    },
+    {
+      "def1": "туалет",
+      "ipa": "ə ˈрэˌструм",
+      "spell": "a restroom"
+    },
+    {
+      "def1": "учёный",
+      "ipa": "ə ˈсайəнтɪст",
+      "spell": "a scientist"
+    },
+    {
+      "def1": "предложение",
+      "ipa": "ə ˈсэнтəнс",
+      "spell": "a sentence"
+    },
+    {
+      "def1": "дробь, косая черта",
+      "ipa": "ə слæш",
+      "spell": "a slash"
+    },
+    {
+      "def1": "сын",
+      "ipa": "ə сʌн",
+      "spell": "a son"
+    },
+    {
+      "def1": "тип",
+      "ipa": "ə тайп",
+      "spell": "a type"
+    },
+    {
+      "def1": "тип предложений",
+      "ipa": "ə тайп ʌв ˈсэнтəнсəз",
+      "spell": "a type of sentences"
+    },
+    {
+      "def1": "писатель",
+      "ipa": "ə ˈрайтəр",
+      "spell": "a writer"
+    },
+    {
+      "def1": "о тебе",
+      "ipa": "əˈбаут ю",
+      "spell": "about you"
+    },
+    {
+      "def1": "являюсь ли я?",
+      "ipa": "æм ай?",
+      "spell": "am I?"
+    },
+    {
+      "def1": "яблоко",
+      "ipa": "əн ˈæпəл",
+      "spell": "an apple"
+    },
+    {
+      "def1": "единственный ребёнок",
+      "ipa": "əн ˈоунли чайлд",
+      "spell": "an only child"
+    },
+    {
+      "def1": "в кафе",
+      "ipa": "æт ə кəˈфэй",
+      "spell": "at a cafe"
+    },
+    {
+      "def1": "чёрные волосы",
+      "ipa": "блæк hэр",
+      "spell": "black hair"
+    },
+    {
+      "def1": "оба",
+      "ipa": "боуθ",
+      "spell": "both"
+    },
+    {
+      "def1": "каштановые волосы",
+      "ipa": "браун hэр",
+      "spell": "brown hair"
+    },
+    {
+      "def1": "капуста",
+      "ipa": "ˈкæбəдж",
+      "spell": "cabbage"
+    },
+    {
+      "def1": "голубцы",
+      "ipa": "ˈкæбəдж роулз",
+      "spell": "cabbage rolls"
+    },
+    {
+      "def1": "кошки",
+      "ipa": "кæтс",
+      "spell": "cats"
+    },
+    {
+      "def1": "кошки и собаки",
+      "ipa": "кæтс æнд дɑгз",
+      "spell": "cats and dogs"
+    },
+    {
+      "def1": "кофе",
+      "ipa": "ˈкɑфи",
+      "spell": "coffee"
+    },
+    {
+      "def1": "распространённый",
+      "ipa": "ˈкɑмəн",
+      "spell": "common"
+    },
+    {
+      "def1": "коммунальный",
+      "ipa": "кəмˈюнəл",
+      "spell": "communal"
+    },
+    {
+      "def1": "я работаю?",
+      "ipa": "ду ай wɜрк?",
+      "spell": "do I work?"
+    },
+    {
+      "def1": "ты ходишь на занятия по английскому?",
+      "ipa": "ду ю гоу ту ˈɪŋглɪш ˈклæсəз?",
+      "spell": "do you go to English classes?"
+    },
+    {
+      "def1": "у тебя большая семья?",
+      "ipa": "ду ю hæв ə бɪг ˈфæмəли?",
+      "spell": "do you have a big family?"
+    },
+    {
+      "def1": "у тебя есть дети?",
+      "ipa": "ду ю hæв ˈчɪлдрəн?",
+      "spell": "do you have children?"
+    },
+    {
+      "def1": "ты знаешь?",
+      "ipa": "ду ю ноу?",
+      "spell": "do you know?"
+    },
+    {
+      "def1": "тебе нравится?",
+      "ipa": "ду ю лайк ɪт?",
+      "spell": "do you like it?"
+    },
+    {
+      "def1": "тебе нравятся субботы?",
+      "ipa": "ду ю лайк ˈсæтəрдиз?",
+      "spell": "do you like Saturdays?"
+    },
+    {
+      "def1": "ты слушаешь музыку?",
+      "ipa": "ду ю ˈлɪсəн ту ˈмъюзɪк?",
+      "spell": "do you listen to music?"
+    },
+    {
+      "def1": "ты живёшь здесь?",
+      "ipa": "ду ю лɪв hир?",
+      "spell": "do you live here?"
+    },
+    {
+      "def1": "ты говоришь по-английски?",
+      "ipa": "ду ю спик ˈɪŋглɪш?",
+      "spell": "do you speak English?"
+    },
+    {
+      "def1": "ты хочешь кофе?",
+      "ipa": "ду ю wɑнт ˈкɑфи?",
+      "spell": "do you want coffee?"
+    },
+    {
+      "def1": "ты хочешь мясо?",
+      "ipa": "ду ю wɑнт мит?",
+      "spell": "do you want meat?"
+    },
+    {
+      "def1": "ты работаешь здесь?",
+      "ipa": "ду ю wɜрк hир?",
+      "spell": "do you work here?"
+    },
+    {
+      "def1": "собаки",
+      "ipa": "дɑгз",
+      "spell": "dogs"
+    },
+    {
+      "def1": "рано или поздно",
+      "ipa": "ˈɜрли ор лэйт",
+      "spell": "early or late"
+    },
+    {
+      "def1": "еда",
+      "ipa": "фуд",
+      "spell": "food"
+    },
+    {
+      "def1": "на завтрак",
+      "ipa": "фор ˈбрэкфəст",
+      "spell": "for breakfast"
+    },
+    {
+      "def1": "из других стран",
+      "ipa": "фрʌм ˈʌðəр ˈкʌнтриз",
+      "spell": "from other countries"
+    },
+    {
+      "def1": "здоровый",
+      "ipa": "ˈhэлθи",
+      "spell": "healthy"
+    },
+    {
+      "def1": "вот несколько фотографий",
+      "ipa": "hир ɑр сʌм ˈфоуˌтоуз",
+      "spell": "here are some photos"
+    },
+    {
+      "def1": "высокий",
+      "ipa": "hай",
+      "spell": "high"
+    },
+    {
+      "def1": "старшая школа, старшие классы",
+      "ipa": "hай скул",
+      "spell": "high school"
+    },
+    {
+      "def1": "его завтрак",
+      "ipa": "hɪз ˈбрэкфəст",
+      "spell": "his breakfast"
+    },
+    {
+      "def1": "как твоя паста?",
+      "ipa": "hау ɪз йʊəр ˈпɑстə??",
+      "spell": "how is your pasta??"
+    },
+    {
+      "def1": "я опаздываю",
+      "ipa": "ай æм лэйт",
+      "spell": "I am late"
+    },
+    {
+      "def1": "я не являюсь",
+      "ipa": "ай æм нɑт",
+      "spell": "I am not"
+    },
+    {
+      "def1": "у меня кончился бензин",
+      "ipa": "ай æм аут ʌв гæс",
+      "spell": "I am out of gas"
+    },
+    {
+      "def1": "у меня кончились деньги",
+      "ipa": "ай æм аут ʌв ˈмʌни",
+      "spell": "I am out of money"
+    },
+    {
+      "def1": "я являюсь!",
+      "ipa": "ай æм!",
+      "spell": "I am!"
+    },
+    {
+      "def1": "я приезжаю",
+      "ipa": "ай əˈрайв",
+      "spell": "I arrive"
+    },
+    {
+      "def1": "я делаю разные вещи",
+      "ipa": "ай ду ˈдɪфəрəнт θɪŋз",
+      "spell": "I do different things"
+    },
+    {
+      "def1": "я не пью кофе",
+      "ipa": "ай доунт дрɪŋк ˈкɑфи",
+      "spell": "I don't drink coffee"
+    },
+    {
+      "def1": "у меня нет часов",
+      "ipa": "ай доунт hæв ə wɑч",
+      "spell": "I don't have a watch"
+    },
+    {
+      "def1": "мне не нравится футбол",
+      "ipa": "ай доунт лайк ˈсɑкəр",
+      "spell": "I don't like soccer"
+    },
+    {
+      "def1": "мне не нравится",
+      "ipa": "ай доунт лайк ðɪс",
+      "spell": "I don't like this"
+    },
+    {
+      "def1": "мне не нужна большая машина",
+      "ipa": "ай доунт нид ə бɪг кɑр",
+      "spell": "I don't need a big car"
+    },
+    {
+      "def1": "я не работаю",
+      "ipa": "ай доунт wɜрк",
+      "spell": "I don't work"
+    },
+    {
+      "def1": "я не работаю по выходным",
+      "ipa": "ай доунт wɜрк ɑн ˈwиˌкэндз",
+      "spell": "I don't work on weekends"
+    },
+    {
+      "def1": "я ем много голубцов",
+      "ipa": "ай ит ə лɑт ʌв ˈкæбəдж роулз",
+      "spell": "I eat a lot of cabbage rolls"
+    },
+    {
+      "def1": "я ем что угодно",
+      "ipa": "ай ит ˈэниˌθɪŋ",
+      "spell": "I eat anything"
+    },
+    {
+      "def1": "я ем разную еду",
+      "ipa": "ай ит ˈдɪфəрəнт фуд",
+      "spell": "I eat different food"
+    },
+    {
+      "def1": "я ем тост",
+      "ipa": "ай hæв ə тоуст",
+      "spell": "I have a toast"
+    },
+    {
+      "def1": "я ем что угодно на завтрак",
+      "ipa": "ай hæв ˈэниˌθɪŋ фор ˈбрэкфəст",
+      "spell": "I have anything for breakfast"
+    },
+    {
+      "def1": "я завтракаю",
+      "ipa": "ай hæв ˈбрэкфəст",
+      "spell": "I have breakfast"
+    },
+    {
+      "def1": "я завтракаю дома",
+      "ipa": "ай hæв ˈбрэкфəст æт hоум",
+      "spell": "I have breakfast at home"
+    },
+    {
+      "def1": "я ем хлопья",
+      "ipa": "ай hæв ˈсɪриəл",
+      "spell": "I have cereal"
+    },
+    {
+      "def1": "я ужинаю",
+      "ipa": "ай hæв ˈдɪнəр",
+      "spell": "I have dinner"
+    },
+    {
+      "def1": "я обедаю",
+      "ipa": "ай hæв лʌнч",
+      "spell": "I have lunch"
+    },
+    {
+      "def1": "я пью чай или кофе",
+      "ipa": "ай hæв ти ор ˈкɑфи",
+      "spell": "I have tea or coffee"
+    },
+    {
+      "def1": "мне нравится",
+      "ipa": "ай лайк",
+      "spell": "I like"
+    },
+    {
+      "def1": "я живу",
+      "ipa": "ай лɪв",
+      "spell": "I live"
+    },
+    {
+      "def1": "мне нужно",
+      "ipa": "ай нид",
+      "spell": "I need"
+    },
+    {
+      "def1": "мне нужно идти",
+      "ipa": "ай нид ту гоу",
+      "spell": "I need to go"
+    },
+    {
+      "def1": "я читаю",
+      "ipa": "ай рид",
+      "spell": "I read"
+    },
+    {
+      "def1": "я читаю книги",
+      "ipa": "ай рид бʊкс",
+      "spell": "I read books"
+    },
+    {
+      "def1": "я думаю",
+      "ipa": "ай θɪŋк",
+      "spell": "I think"
+    },
+    {
+      "def1": "я думаю о чём-то",
+      "ipa": "ай θɪŋк əˈбаут ə θɪŋ",
+      "spell": "I think about a thing"
+    },
+    {
+      "def1": "я работаю",
+      "ipa": "ай wɜрк",
+      "spell": "I work"
+    },
+    {
+      "def1": "я пишу",
+      "ipa": "ай райт",
+      "spell": "I write"
+    },
+    {
+      "def1": "я не голоден",
+      "ipa": "айм нɑт ˈhʌŋгри",
+      "spell": "I'm not hungry"
+    },
+    {
+      "def1": "важный",
+      "ipa": "ɪмˈпортəнт",
+      "spell": "important"
+    },
+    {
+      "def1": "в кафе",
+      "ipa": "ɪн ə кəˈфэй",
+      "spell": "in a cafe"
+    },
+    {
+      "def1": "через месяц",
+      "ipa": "ɪн ə мʌнθ",
+      "spell": "in a month"
+    },
+    {
+      "def1": "через неделю",
+      "ipa": "ɪн ə wик",
+      "spell": "in a week"
+    },
+    {
+      "def1": "через год",
+      "ipa": "ɪн ə йɪр",
+      "spell": "in a year"
+    },
+    {
+      "def1": "через час",
+      "ipa": "ɪн əн ˈауəр",
+      "spell": "in an hour"
+    },
+    {
+      "def1": "через пять минут",
+      "ipa": "ɪн файв ˈмɪнəтс",
+      "spell": "in five minutes"
+    },
+    {
+      "def1": "в старших классах",
+      "ipa": "ɪн hай скул",
+      "spell": "in high school"
+    },
+    {
+      "def1": "в доме",
+      "ipa": "ɪн ðə hаус",
+      "spell": "in the house"
+    },
+    {
+      "def1": "через тридцать минут",
+      "ipa": "ɪн ˈθɜрди ˈмɪнəтс",
+      "spell": "in thirty minutes"
+    },
+    {
+      "def1": "через два дня",
+      "ipa": "ɪн ту дэйз",
+      "spell": "in two days"
+    },
+    {
+      "def1": "через два часа",
+      "ipa": "ɪн ту ˈауəрз",
+      "spell": "in two hours"
+    },
+    {
+      "def1": "через две минуты",
+      "ipa": "ɪн ту ˈмɪнəтс",
+      "spell": "in two minutes"
+    },
+    {
+      "def1": "внутренние дела",
+      "ipa": "ɪнˈтɜрнəл əˈфэрз",
+      "spell": "internal affairs"
+    },
+    {
+      "def1": "оно другое",
+      "ipa": "ɪт ɪз ˈдɪфəрəнт",
+      "spell": "it is different"
+    },
+    {
+      "def1": "оно является полезным",
+      "ipa": "ɪт ɪз ˈhэлθи",
+      "spell": "it is healthy"
+    },
+    {
+      "def1": "это важно для меня",
+      "ipa": "ɪт ɪз ɪмˈпортəнт фор ми",
+      "spell": "it is important for me"
+    },
+    {
+      "def1": "всё в порядке",
+      "ipa": "ɪтс ˈоуˈкэй",
+      "spell": "it's ok"
+    },
+    {
+      "def1": "это очень хорошо",
+      "ipa": "ɪтс ˈвэри гʊд",
+      "spell": "it's very good"
+    },
+    {
+      "def1": "давай поболтаем",
+      "ipa": "лэтс чæт",
+      "spell": "let's chat"
+    },
+    {
+      "def1": "давай сделаем это",
+      "ipa": "лэтс ду ɪт",
+      "spell": "let's do it"
+    },
+    {
+      "def1": "давай поедим",
+      "ipa": "лэтс ит",
+      "spell": "let's eat"
+    },
+    {
+      "def1": "пойдём",
+      "ipa": "лэтс гоу",
+      "spell": "let's go"
+    },
+    {
+      "def1": "давай учить",
+      "ipa": "лэтс лɜрн",
+      "spell": "let's learn"
+    },
+    {
+      "def1": "давай прочитаем это",
+      "ipa": "лэтс рид ɪт",
+      "spell": "let's read it"
+    },
+    {
+      "def1": "давай бежать",
+      "ipa": "лэтс рʌн",
+      "spell": "let's run"
+    },
+    {
+      "def1": "давай сядем",
+      "ipa": "лэтс сɪт даун",
+      "spell": "let's sit down"
+    },
+    {
+      "def1": "давай работать",
+      "ipa": "лэтс wɜрк",
+      "spell": "let's work"
+    },
+    {
+      "def1": "смотри!",
+      "ipa": "лʊк!",
+      "spell": "look!"
+    },
+    {
+      "def1": "мой комментарий",
+      "ipa": "май ˈкɑмэнт",
+      "spell": "my comment"
+    },
+    {
+      "def1": "моё любимое",
+      "ipa": "май ˈфэйвəрɪт",
+      "spell": "my favorite"
+    },
+    {
+      "def1": "моя любимая еда",
+      "ipa": "май ˈфэйвəрɪт фуд",
+      "spell": "my favorite food"
+    },
+    {
+      "def1": "моя любимая вещь",
+      "ipa": "май ˈфэйвəрɪт θɪŋ",
+      "spell": "my favorite thing"
+    },
+    {
+      "def1": "моё здоровье",
+      "ipa": "май hэлθ",
+      "spell": "my health"
+    },
+    {
+      "def1": "мой суп",
+      "ipa": "май суп",
+      "spell": "my soup"
+    },
+    {
+      "def1": "моя вещь",
+      "ipa": "май θɪŋ",
+      "spell": "my thing"
+    },
+    {
+      "def1": "рядом с моим домом",
+      "ipa": "нɪр май hаус",
+      "spell": "near my house"
+    },
+    {
+      "def1": "не совсем",
+      "ipa": "нɑт ˈрɪли",
+      "spell": "not really"
+    },
+    {
+      "def1": "конечно!",
+      "ipa": "ʌв корс!",
+      "spell": "of course!"
+    },
+    {
+      "def1": "по выходным",
+      "ipa": "ɑн ˈwиˌкэндз",
+      "spell": "on weekends"
+    },
+    {
+      "def1": "наш отпуск",
+      "ipa": "ˈауəр вэйˈкэйшəн",
+      "spell": "our vacation"
+    },
+    {
+      "def1": "выбери один",
+      "ipa": "пɪк wʌн",
+      "spell": "pick one"
+    },
+    {
+      "def1": "наука",
+      "ipa": "ˈсайəнс",
+      "spell": "science"
+    },
+    {
+      "def1": "она находится в машине",
+      "ipa": "щи ɪз ɪн ə кɑр",
+      "spell": "she is in a car"
+    },
+    {
+      "def1": "она находится в такси",
+      "ipa": "щи ɪз ɪн ə ˈтæкси",
+      "spell": "she is in a taxi"
+    },
+    {
+      "def1": "ну! видишь?",
+      "ipa": "соу! си?",
+      "spell": "so! see?"
+    },
+    {
+      "def1": "несколько фотографий",
+      "ipa": "сʌм ˈфоуˌтоуз",
+      "spell": "some photos"
+    },
+    {
+      "def1": "чай",
+      "ipa": "ти",
+      "spell": "tea"
+    },
+    {
+      "def1": "теннис",
+      "ipa": "ˈтэнəс",
+      "spell": "tennis"
+    },
+    {
+      "def1": "дорожное движение плохое",
+      "ipa": "ðə ˈтрæфɪк ɪз бæд",
+      "spell": "the traffic is bad"
+    },
+    {
+      "def1": "потом",
+      "ipa": "ðэн",
+      "spell": "then"
+    },
+    {
+      "def1": "они на рейсе",
+      "ipa": "ðэй ɑр ɑн ə флайт",
+      "spell": "they are on a flight"
+    },
+    {
+      "def1": "они находятся в самолёте",
+      "ipa": "ðэй ɑр ɑн ðə плэйн",
+      "spell": "they are on the plane"
+    },
+    {
+      "def1": "они пьют",
+      "ipa": "ðэй дрɪŋк",
+      "spell": "they drink"
+    },
+    {
+      "def1": "они много пьют",
+      "ipa": "ðэй дрɪŋк ə лɑт",
+      "spell": "they drink a lot"
+    },
+    {
+      "def1": "они пьют много водки",
+      "ipa": "ðэй дрɪŋк ə лɑт ʌв ˈвɑдкə",
+      "spell": "they drink a lot of vodka"
+    },
+    {
+      "def1": "они едят",
+      "ipa": "ðэй ит",
+      "spell": "they eat"
+    },
+    {
+      "def1": "они едят много",
+      "ipa": "ðэй ит ə лɑт ʌв",
+      "spell": "they eat a lot of"
+    },
+    {
+      "def1": "они едят много хлеба",
+      "ipa": "ðэй ит ə лɑт ʌв брэд",
+      "spell": "they eat a lot of bread"
+    },
+    {
+      "def1": "они едят много еды",
+      "ipa": "ðэй ит ə лɑт ʌв фуд",
+      "spell": "they eat a lot of food"
+    },
+    {
+      "def1": "они съедают большой ужин",
+      "ipa": "ðэй hæв ə бɪг ˈдɪнəр",
+      "spell": "they have a big dinner"
+    },
+    {
+      "def1": "они импортируют",
+      "ipa": "ðэй ˈɪмпорт",
+      "spell": "they import"
+    },
+    {
+      "def1": "сходить в туалет",
+      "ipa": "ту гоу ту ə ˈрэˌструм",
+      "spell": "to go to a restroom"
+    },
+    {
+      "def1": "сегодняшний",
+      "ipa": "тəˈдэйз",
+      "spell": "today's"
+    },
+    {
+      "def1": "традиционный",
+      "ipa": "трəˈдɪшəнəл",
+      "spell": "traditional"
+    },
+    {
+      "def1": "традиционная еда",
+      "ipa": "трəˈдɪшəнəл фуд",
+      "spell": "traditional food"
+    },
+    {
+      "def1": "обычно",
+      "ipa": "ˈюжəwəли",
+      "spell": "usually"
+    },
+    {
+      "def1": "очень смешно",
+      "ipa": "ˈвэри ˈфʌни",
+      "spell": "very funny"
+    },
+    {
+      "def1": "у нас кончилась паста",
+      "ipa": "wир аут ʌв ˈпɑстə",
+      "spell": "we're out of pasta"
+    },
+    {
+      "def1": "что ты думаешь?",
+      "ipa": "wɑт ду ю θɪŋк?",
+      "spell": "what do you think?"
+    },
+    {
+      "def1": "что нас не убивает, делает нас сильнее",
+      "ipa": "wɑт ˈдʌзəнт кɪл ʌс мэйкс ʌс ˈстрɔŋəр",
+      "spell": "what doesn't kill us makes us stronger"
+    },
+    {
+      "def1": "где?",
+      "ipa": "wэр?",
+      "spell": "where?"
+    },
+    {
+      "def1": "кто?",
+      "ipa": "hу?",
+      "spell": "who?"
+    },
+    {
+      "def1": "да, немного",
+      "ipa": "йэс, ə ˈлɪтəл",
+      "spell": "yes, a little"
+    }
+  ]
+}
