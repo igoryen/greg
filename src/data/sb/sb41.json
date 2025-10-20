@@ -1,0 +1,659 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "period": "week",
+  "number": 41,
+  "date": "2025-10-09",
+  "words": [
+    {
+      "def1": "прекращение огня",
+      "ipa": "ə ˈsiˈsfaɪər",
+      "spell": "a ceasefire"
+    },
+    {
+      "def1": "гражданская война",
+      "ipa": "ə ˈsɪvəl wɔr",
+      "spell": "a civil war"
+    },
+    {
+      "def1": "командир",
+      "ipa": "ə kəˈmændər",
+      "spell": "a commander"
+    },
+    {
+      "def1": "переворот",
+      "ipa": "ə ku",
+      "spell": "a coup"
+    },
+    {
+      "def1": "наркобарон",
+      "ipa": "ə drʌɡ lɔrd",
+      "spell": "a drug lord"
+    },
+    {
+      "def1": "формальное соглашение между странами",
+      "ipa": "ə ˈfɔrməl əˈɡrimənt bɪˈtwin ˈkʌntriz",
+      "spell": "a formal agreement between countries"
+    },
+    {
+      "def1": "деревушка",
+      "ipa": "ə ˈhæmlət",
+      "spell": "a hamlet"
+    },
+    {
+      "def1": "историческое здание",
+      "ipa": "ə hɪˈstɔrɪk ˈbɪldɪŋ",
+      "spell": "a historic building"
+    },
+    {
+      "def1": "исторические памятники",
+      "ipa": "ə hɪˈstɔrɪk ˈmɑnjəmənts",
+      "spell": "a historic monuments"
+    },
+    {
+      "def1": "исторический фильм происходит в исторический период",
+      "ipa": "ə hɪˈstɔrɪkəl ˈmuvi ɪz sɛt ɪn ə hɪˈstɔrɪkəl ˈpɪriəd",
+      "spell": "a historical movie is set in a historical period"
+    },
+    {
+      "def1": "историческое шоу",
+      "ipa": "ə hɪˈstɔrɪkəl ʃoʊ",
+      "spell": "a historical show"
+    },
+    {
+      "def1": "маленькая деревня",
+      "ipa": "ə ˈlɪtəl ˈvɪləʤ",
+      "spell": "a little village"
+    },
+    {
+      "def1": "длинные выходные",
+      "ipa": "ə lɔŋ ˈwiˌkɛnd",
+      "spell": "a long weekend"
+    },
+    {
+      "def1": "горная улица",
+      "ipa": "ə ˈmaʊntənəs strit",
+      "spell": "a mountainous street"
+    },
+    {
+      "def1": "режиссёр",
+      "ipa": "ə ˈmuvi dəˈrɛktər",
+      "spell": "a movie director"
+    },
+    {
+      "def1": "пальма",
+      "ipa": "ə pɑm tri",
+      "spell": "a palm tree"
+    },
+    {
+      "def1": "государственный праздник",
+      "ipa": "ə ˈpʌblɪk ˈhɑləˌdeɪ",
+      "spell": "a public holiday"
+    },
+    {
+      "def1": "повстанец восстаёт",
+      "ipa": "ə ˈrɛbəl ˌriˈbɛlz",
+      "spell": "a rebel rebells"
+    },
+    {
+      "def1": "восстание",
+      "ipa": "ə rɪˈbɛljən",
+      "spell": "a rebellion"
+    },
+    {
+      "def1": "беженец",
+      "ipa": "ə ˈrɛfjuʤi",
+      "spell": "a refugee"
+    },
+    {
+      "def1": "захватывающая книга",
+      "ipa": "ə ˈrɪvətɪŋ bʊk",
+      "spell": "a riveting book"
+    },
+    {
+      "def1": "серпантин, извилистая дорога",
+      "ipa": "ə ˈsɜrpənˌtaɪn roʊd",
+      "spell": "a serpentine road"
+    },
+    {
+      "def1": "лопата (совковая)",
+      "ipa": "ə ˈʃʌvəl",
+      "spell": "a shovel"
+    },
+    {
+      "def1": "осада",
+      "ipa": "ə siʤ",
+      "spell": "a siege"
+    },
+    {
+      "def1": "снайпер",
+      "ipa": "ə ˈsnaɪpər",
+      "spell": "a sniper"
+    },
+    {
+      "def1": "лопата",
+      "ipa": "ə speɪd",
+      "spell": "a spade"
+    },
+    {
+      "def1": "выживший",
+      "ipa": "ə sərˈvaɪvər",
+      "spell": "a survivor"
+    },
+    {
+      "def1": "договор",
+      "ipa": "ə ˈtriti",
+      "spell": "a treaty"
+    },
+    {
+      "def1": "насильственное изменение",
+      "ipa": "ə ˈvaɪələnt ʧeɪnʤ",
+      "spell": "a violent change"
+    },
+    {
+      "def1": "взлётно-посадочная полоса",
+      "ipa": "ən ˈɛrˌpɔrt ˈrʌnˌweɪ",
+      "spell": "an airport runway"
+    },
+    {
+      "def1": "союзник",
+      "ipa": "ən ˈælaɪ",
+      "spell": "an ally"
+    },
+    {
+      "def1": "увлекательное, захватывающее фэнтези",
+      "ipa": "ən ɛnˈɡeɪʤɪŋ ˈfæntəsi",
+      "spell": "an engaging fantasy"
+    },
+    {
+      "def1": "Архимед",
+      "ipa": "ˌɑrkəˈmidiz",
+      "spell": "Archimedes"
+    },
+    {
+      "def1": "вооружённые силы",
+      "ipa": "ɑrmd ˈfɔrsɪz",
+      "spell": "armed forces"
+    },
+    {
+      "def1": "по большей части; максимум",
+      "ipa": "æt moʊst",
+      "spell": "at most"
+    },
+    {
+      "def1": "в начале девятнадцатого века",
+      "ipa": "æt ðə bɪˈɡɪnɪŋ ʌv ðə ˈnaɪnˈtinθ ˈsɛnʧəri",
+      "spell": "at the beginning of the nineteenth century"
+    },
+    {
+      "def1": "Австро-Венгрия",
+      "ipa": "ˈɔstriə-ˈhʌŋɡəri",
+      "spell": "Austria-Hungary"
+    },
+    {
+      "def1": "кровь и кишки",
+      "ipa": "blʌd ænd ɡɔr",
+      "spell": "blood and gore"
+    },
+    {
+      "def1": "потери",
+      "ipa": "ˈkæʒəwəltiz",
+      "spell": "casualties"
+    },
+    {
+      "def1": "Екатерина Великая",
+      "ipa": "ˈkæθərən ðə ɡreɪt",
+      "spell": "Catherine the Great"
+    },
+    {
+      "def1": "разрядка смехом, комическая разрядка",
+      "ipa": "ˈkɑmɪk rɪˈlif",
+      "spell": "comic relief"
+    },
+    {
+      "def1": "подавленный",
+      "ipa": "dɪˈprɛst",
+      "spell": "depressed"
+    },
+    {
+      "def1": "экономическое неравенство",
+      "ipa": "ˌɛkəˈnɑmɪk ˌɪnɪˈkwɑləti",
+      "spell": "economic inequality"
+    },
+    {
+      "def1": "захватывающие новости",
+      "ipa": "ɪkˈsaɪtɪŋ nuz",
+      "spell": "exciting news"
+    },
+    {
+      "def1": "начинаются бои",
+      "ipa": "ˈfaɪtɪŋ breɪks aʊt",
+      "spell": "fighting breaks out"
+    },
+    {
+      "def1": "по политическим или религиозным причинам",
+      "ipa": "fɔr pəˈlɪtəkəl ɔr rɪˈlɪʤəs ˈrizənz",
+      "spell": "for political or religious reasons"
+    },
+    {
+      "def1": "он стреляет в других из укрытия",
+      "ipa": "hi ʃuts æt ˈʌðərz frʌm ə ˈhɪdən pəˈzɪʃən",
+      "spell": "he shoots at others from a hidden position"
+    },
+    {
+      "def1": "он был алкоголиком",
+      "ipa": "hi wʌz ən ˌælkəˈhɑlɪk",
+      "spell": "he was an alcoholic"
+    },
+    {
+      "def1": "историки не согласны о причинах",
+      "ipa": "hɪˈstɔriənz dɪsəˈɡri ɑn ðə ˈkɑzəz",
+      "spell": "historians disagree on the causes"
+    },
+    {
+      "def1": "историческая точность в фильмах",
+      "ipa": "hɪˈstɔrɪkəl ˈækjərəsi ɪn ˈmuviz",
+      "spell": "historical accuracy in movies"
+    },
+    {
+      "def1": "гипероним",
+      "ipa": "ˈhaɪpɚnɪm",
+      "spell": "hypernym"
+    },
+    {
+      "def1": "меня вынуждают покинуть мою страну или дом",
+      "ipa": "aɪ æm fɔrst tu liv maɪ ˈkʌntri ɔr hoʊm",
+      "spell": "I am forced to leave my country or home"
+    },
+    {
+      "def1": "я вполне удовлетворена, довольна",
+      "ipa": "aɪ æm kwaɪt ˈkɑntɛnt",
+      "spell": "I am quite content"
+    },
+    {
+      "def1": "я победила их",
+      "ipa": "aɪ bit ðɛm",
+      "spell": "I beat them"
+    },
+    {
+      "def1": "я делаю вещи быстрее",
+      "ipa": "aɪ du θɪŋz ˈkwɪkər (inf.)",
+      "spell": "I do things quicker (inf.)"
+    },
+    {
+      "def1": "я отлаживаю, прорабатываю своё произношение",
+      "ipa": "aɪ faɪn-tun maɪ prəˌnʌnsiˈeɪʃən",
+      "spell": "I fine-tune my pronunciation"
+    },
+    {
+      "def1": "я опускаю, обхожу молчанием детали",
+      "ipa": "aɪ ɡlɔs ˈoʊvər ðə dɪˈteɪlz",
+      "spell": "I gloss over the details"
+    },
+    {
+      "def1": "мне удалось выжить на войне",
+      "ipa": "aɪ hæv ˈmænəʤd tu steɪ əˈlaɪv ɪn ə wɔr",
+      "spell": "I have managed to stay alive in a war"
+    },
+    {
+      "def1": "я загораю",
+      "ipa": "aɪ ˈsʌnˌbeɪð",
+      "spell": "I sunbathe"
+    },
+    {
+      "def1": "я ткнула пальцем в небо",
+      "ipa": "aɪ tʊk ə ʃɑt ɪn ðə dɑrk",
+      "spell": "I took a shot in the dark"
+    },
+    {
+      "def1": "я стараюсь отстраниться от этого",
+      "ipa": "aɪ traɪ tu ˈdɪstəns ˌmaɪˈsɛlf frʌm ɪt",
+      "spell": "I try to distance myself from it"
+    },
+    {
+      "def1": "я была ранена на войне",
+      "ipa": "aɪ wʌz ˈɪnʤərd ɪn ə wɔr",
+      "spell": "I was injured in a war"
+    },
+    {
+      "def1": "в его историческом контексте",
+      "ipa": "ɪn ɪts hɪˈstɔrɪkəl ˈkɑntɛkst",
+      "spell": "in its historical context"
+    },
+    {
+      "def1": "в конце концов они победили",
+      "ipa": "ɪn ði ɛnd, ðeɪ wɜr vɪkˈtɔriəs",
+      "spell": "in the end, they were victorious"
+    },
+    {
+      "def1": "в военное время",
+      "ipa": "ɪn taɪm ʌv wɔr",
+      "spell": "in time of war"
+    },
+    {
+      "def1": "у него прекрасная акустика",
+      "ipa": "ɪt hæz ˈbjutəfəl əˈkustɪks",
+      "spell": "it has beautiful acoustics"
+    },
+    {
+      "def1": "это была историческая победа",
+      "ipa": "ɪt wʌz ə hɪˈstɔrɪk ˈvɪktəri",
+      "spell": "it was a historic victory"
+    },
+    {
+      "def1": "это скорее комедия",
+      "ipa": "ɪts mɔr ʌv ə ˈkɑmədi",
+      "spell": "it’s more of a comedy"
+    },
+    {
+      "def1": "мой муж и я",
+      "ipa": "maɪ ˈhʌzbənd ænd aɪ",
+      "spell": "my husband and I"
+    },
+    {
+      "def1": "моё психическое здоровье",
+      "ipa": "maɪ ˈmɛntəl hɛlθ",
+      "spell": "my mental health"
+    },
+    {
+      "def1": "на проезжей части",
+      "ipa": "ɑn ðə ˈroʊˌdweɪ",
+      "spell": "on the roadway"
+    },
+    {
+      "def1": "наша история — часть их истории",
+      "ipa": "ˈaʊər ˈhɪstəri ɪz pɑrt ʌv ðɛr ˈhɪstəri",
+      "spell": "our history is part of their history"
+    },
+    {
+      "def1": "Пенелопа",
+      "ipa": "pəˈnɛləpi",
+      "spell": "Penelope"
+    },
+    {
+      "def1": "люди, которые слишком богаты",
+      "ipa": "ˈpipəl hu ɑr tu rɪʧ",
+      "spell": "people who are too rich"
+    },
+    {
+      "def1": "повстанцы свергают правительство",
+      "ipa": "ˈrɛbəlz ˈoʊvərˌθroʊ ðə ˈɡʌvərmənt",
+      "spell": "rebels overthrow the government"
+    },
+    {
+      "def1": "независимо от того, король ли ты",
+      "ipa": "rəˈɡɑrdləs ʌv ˈwɛðər ju ɑr ə kɪŋ",
+      "spell": "regardless of whether you are a king"
+    },
+    {
+      "def1": "она много с ним советовалась",
+      "ipa": "ʃi kənˈsʌltɪd hɪm ə lɑt",
+      "spell": "she consulted him a lot"
+    },
+    {
+      "def1": "то, что не основано на истории",
+      "ipa": "ˈsʌmθɪŋ ðæt ɪz nɑt beɪst ɑn ˈhɪstəri",
+      "spell": "something that is not based on history"
+    },
+    {
+      "def1": "сверхъестественные способности",
+      "ipa": "ˌsupərˈnæʧərəl əˈbɪlətiz",
+      "spell": "supernatural abilities"
+    },
+    {
+      "def1": "временно",
+      "ipa": "ˌtɛmpəˈrɛrəli",
+      "spell": "temporarily"
+    },
+    {
+      "def1": "армия обстреливает вражеские позиции",
+      "ipa": "ði ˈɑrmi ʃɛlz ði ˈɛnəmi pəˈzɪʃənz",
+      "spell": "the army shells the enemy positions"
+    },
+    {
+      "def1": "содержание книги",
+      "ipa": "ðə ˈkɑntɛnt ʌv ðə bʊk",
+      "spell": "the content of the book"
+    },
+    {
+      "def1": "распутный Распутин",
+      "ipa": "ðə ˈdɛbaʊkt rəˈspjutɪn",
+      "spell": "the debauched Rasputin"
+    },
+    {
+      "def1": "субъект подвергается влиянию",
+      "ipa": "ðə ˈsʌbʤɪkt ɪz səbˈʤɛktɪd tu ði ˈɪnfluəns",
+      "spell": "the subject is subjected to the influence"
+    },
+    {
+      "def1": "войска взбунтовались против своего командира",
+      "ipa": "ðə trups rɪˈbɛld əˈɡɛnst ðɛr kəˈmændər",
+      "spell": "the troops rebelled against their commander"
+    },
+    {
+      "def1": "дворец царя",
+      "ipa": "ðə zɑrz ˈpæləs",
+      "spell": "the Tsar’s palace"
+    },
+    {
+      "def1": "две армии договорились временно прекратить боевые действия",
+      "ipa": "ðə tu ˈɑrmiz əˈɡrid tu stɑp ˈfaɪtɪŋ ˌtɛmpəˈrɛrəli",
+      "spell": "the two armies agreed to stop fighting temporarily"
+    },
+    {
+      "def1": "раненые",
+      "ipa": "ðə ˈwundɪd",
+      "spell": "the wounded"
+    },
+    {
+      "def1": "есть текущие новости",
+      "ipa": "ðɛr ɑr ˈkɜrənt nuz ˈstɔriz",
+      "spell": "there are current news stories"
+    },
+    {
+      "def1": "они объявляют о своём намерении",
+      "ipa": "ðeɪ əˈnaʊns ðɛr ɪnˈtɛnʧən",
+      "spell": "they announce their intention"
+    },
+    {
+      "def1": "они взрывают здание",
+      "ipa": "ðeɪ bloʊ ʌp ðə ˈbɪldɪŋ",
+      "spell": "they blow up the building"
+    },
+    {
+      "def1": "они покупают недвижимость",
+      "ipa": "ðeɪ baɪ ˈprɑpərti",
+      "spell": "they buy property"
+    },
+    {
+      "def1": "к ним нельзя добраться по суше",
+      "ipa": "ðeɪ kænt bi ˈækˌsɛst baɪ lænd",
+      "spell": "they can’t be accessed by land"
+    },
+    {
+      "def1": "они не могут починить свой фасад",
+      "ipa": "ðeɪ kænt fɪks ðɛr fəˈsɑd",
+      "spell": "they can’t fix their facade"
+    },
+    {
+      "def1": "они захватывают их",
+      "ipa": "ðeɪ ˈkæpʧər ðɛm",
+      "spell": "they capture them"
+    },
+    {
+      "def1": "они надевают на них наручники",
+      "ipa": "ðeɪ kʌf ðɛm",
+      "spell": "they cuff them"
+    },
+    {
+      "def1": "они объявляют им войну",
+      "ipa": "ðeɪ dɪˈklɛr wɔr ɑn ðɛm",
+      "spell": "they declare war on them"
+    },
+    {
+      "def1": "они умирают от болезней",
+      "ipa": "ðeɪ daɪ bɪˈkɔz ʌv ˈɪlnəsɪz",
+      "spell": "they die because of illnesses"
+    },
+    {
+      "def1": "они делают это с применением силы",
+      "ipa": "ðeɪ du ɪt ˈjuzɪŋ fɔrs",
+      "spell": "they do it using force"
+    },
+    {
+      "def1": "они наконец побеждают их",
+      "ipa": "ðeɪ ˈfaɪnəli dɪˈfit ðɛm",
+      "spell": "they finally defeat them"
+    },
+    {
+      "def1": "они выпускают по ним ракеты",
+      "ipa": "ðeɪ ˈfaɪər ˈmɪsəlz æt ðɛm",
+      "spell": "they fire missiles at them"
+    },
+    {
+      "def1": "они вступают с ними в войну",
+      "ipa": "ðeɪ ɡoʊ tu wɔr wɪð ðɛm",
+      "spell": "they go to war with them"
+    },
+    {
+      "def1": "они грабят город",
+      "ipa": "ðeɪ lut ə ˈsɪti",
+      "spell": "they loot a city"
+    },
+    {
+      "def1": "они очень хорошо сыграли свои роли",
+      "ipa": "ðeɪ pleɪd ðɛr roʊlz ˈvɛri wɛl",
+      "spell": "they played their roles very well"
+    },
+    {
+      "def1": "они освобождают большинство из них",
+      "ipa": "ðeɪ riˈlis moʊst ʌv ðɛm",
+      "spell": "they release most of them"
+    },
+    {
+      "def1": "они смещают их с власти",
+      "ipa": "ðeɪ riˈmuv ðɛm frʌm ˈpaʊər",
+      "spell": "they remove them from power"
+    },
+    {
+      "def1": "они отступают",
+      "ipa": "ðeɪ riˈtrit",
+      "spell": "they retreat"
+    },
+    {
+      "def1": "они умирают от голода",
+      "ipa": "ðeɪ stɑrv tu dɛθ",
+      "spell": "they starve to death"
+    },
+    {
+      "def1": "они останавливают поставки продовольствия",
+      "ipa": "ðeɪ stɑp ðə fud səˈplaɪ",
+      "spell": "they stop the food supply"
+    },
+    {
+      "def1": "они сдаются",
+      "ipa": "ðeɪ səˈrɛndər",
+      "spell": "they surrender"
+    },
+    {
+      "def1": "они берут их в плен",
+      "ipa": "ðeɪ teɪk ðɛm ˈprɪzənər",
+      "spell": "they take them prisoner"
+    },
+    {
+      "def1": "этот фильм — комедия",
+      "ipa": "ðɪs ˈmuvi ɪz ə ˈkɑmədi",
+      "spell": "this movie is a comedy"
+    },
+    {
+      "def1": "этот фильм основан на реальном событии",
+      "ipa": "ðɪs ˈmuvi ɪz beɪst ɑn ə riəl ɪˈvɛnt",
+      "spell": "this movie is based on a real event"
+    },
+    {
+      "def1": "этот термин охватывает широкий спектр фильмов",
+      "ipa": "ðɪs tɜrm ˈkʌvərz ə waɪd reɪnʤ ʌv ˈmuviz",
+      "spell": "this term covers a wide range of movies"
+    },
+    {
+      "def1": "доделать работу по дому",
+      "ipa": "tu kæʧ ʌp ɑn ðə ˈhaʊˌswɜrk",
+      "spell": "to catch up on the housework"
+    },
+    {
+      "def1": "найти любовь с другими мужчинами",
+      "ipa": "tu faɪnd lʌv wɪð ˈʌðər mɛn",
+      "spell": "to find love with other men"
+    },
+    {
+      "def1": "найти закопанную добычу (награбленное добро)",
+      "ipa": "tu faɪnd ðə ˈbɛrid lut",
+      "spell": "to find the buried loot"
+    },
+    {
+      "def1": "убить в наказание",
+      "ipa": "tu kɪl æz ə ˈpʌnɪʃmənt",
+      "spell": "to kill as a punishment"
+    },
+    {
+      "def1": "сделать его более острым",
+      "ipa": "tu meɪk ɪt mɔr əˈkjut",
+      "spell": "to make it more acute"
+    },
+    {
+      "def1": "стрелять по ним",
+      "ipa": "tu ʃut æt ðɛm",
+      "spell": "to shoot at them"
+    },
+    {
+      "def1": "расстреливать их",
+      "ipa": "tu ʃut ðɛm",
+      "spell": "to shoot them"
+    },
+    {
+      "def1": "войска",
+      "ipa": "trups",
+      "spell": "troops"
+    },
+    {
+      "def1": "Царь Николай",
+      "ipa": "zɑr ˈnɪkələs",
+      "spell": "Tsar Nicholas"
+    },
+    {
+      "def1": "печальный, недовольный",
+      "ipa": "ənˈhæpi",
+      "spell": "unhappy"
+    },
+    {
+      "def1": "объединение",
+      "ipa": "ˌjunəfəˈkeɪʃən",
+      "spell": "unification"
+    },
+    {
+      "def1": "он был дублирован?",
+      "ipa": "wʌz ɪz dʌbd?",
+      "spell": "was is dubbed?"
+    },
+    {
+      "def1": "мы арендовали машину",
+      "ipa": "wi ˈrɛntɪd ə kɑr",
+      "spell": "we rented a car"
+    },
+    {
+      "def1": "мы поехали в отпуск",
+      "ipa": "wi wɛnt ɑn veɪˈkeɪʃən",
+      "spell": "we went on vacation"
+    },
+    {
+      "def1": "мокрая одежда",
+      "ipa": "wɛt kloʊðz",
+      "spell": "wet clothes"
+    },
+    {
+      "def1": "Зевс",
+      "ipa": "zus",
+      "spell": "Zeus"
+    }
+  ]
+}
