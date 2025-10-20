@@ -1,116 +1,123 @@
-[
-  {
-    "cefr": "",
-    "def1": "менше",
-    "ipa": "ˈfjuər",
-    "spell": "fewer"
-  },
-  {
-    "cefr": "",
-    "def1": "шорти",
-    "ipa": "ʃɔrts",
-    "spell": "shorts"
-  },
-  {
-    "cefr": "",
-    "def1": "одяг",
-    "ipa": "kloʊðz",
-    "spell": "clothes"
-  },
-  {
-    "cefr": "",
-    "def1": "короткий",
-    "ipa": "ʃɔrt",
-    "spell": "short"
-  },
-  {
-    "cefr": "",
-    "def1": "хмара",
-    "ipa": "ə klaʊd",
-    "spell": "a cloud"
-  },
-  {
-    "cefr": "",
-    "def1": "колір",
-    "ipa": "ə ˈkʌlər",
-    "spell": "a color"
-  },
-  {
-    "cefr": "",
-    "def1": "вночі",
-    "ipa": "æt naɪt",
-    "spell": "at night"
-  },
-  {
-    "cefr": "",
-    "def1": "рахувати",
-    "ipa": "tu kaʊnt",
-    "spell": "to count"
-  },
-  {
-    "cefr": "",
-    "def1": "множина",
-    "ipa": "ðə ˈplʊrəl",
-    "spell": "the plural"
-  },
-  {
-    "cefr": "",
-    "def1": "однина",
-    "ipa": "ðə ˈsɪŋɡjələr",
-    "spell": "the singular"
-  },
-  {
-    "cefr": "",
-    "def1": "коротка сорочка",
-    "ipa": "ə ʃɔrt ʃɜrt",
-    "spell": "a short shirt"
-  },
-  {
-    "cefr": "",
-    "def1": "це мій одяг",
-    "ipa": "ðiz ɑr maɪ kloʊðz",
-    "spell": "these are my clothes"
-  },
-  {
-    "cefr": "",
-    "def1": "це ваша машина?",
-    "ipa": "ɪz ðɪs jʊər kɑr?",
-    "spell": "is this your car?"
-  },
-  {
-    "cefr": "",
-    "def1": "це ваші ключі?",
-    "ipa": "ɑr ðiz jʊər kiz?",
-    "spell": "are these your keys?"
-  },
-  {
-    "cefr": "",
-    "def1": "я не рахував",
-    "ipa": "aɪ dɪd nɑt kaʊnt",
-    "spell": "I did not count"
-  },
-  {
-    "cefr": "",
-    "def1": "це тут? так, це тут",
-    "ipa": "ɪz ɪt hir? jɛs, ɪt ɪz.",
-    "spell": "Is it here? Yes, it is."
-  },
-  {
-    "cefr": "",
-    "def1": "вони тут? так, вони тут",
-    "ipa": "ɑr ðeɪ hir? jɛs, ðeɪ ɑr.",
-    "spell": "are they here? yes, they are."
-  },
-  {
-    "cefr": "",
-    "def1": "це тут? ні, цього немає",
-    "ipa": "ɪz ɪt hir? noʊ, ɪt ɪz nɑt / ɪt ˈɪzənt.",
-    "spell": "Is it here? No, it is not / it isn't."
-  },
-  {
-    "cefr": "",
-    "def1": "вони тут? ні, їх немає",
-    "ipa": "ɑr ðeɪ hir? noʊ, ðeɪ ɑr nɑt / ðeɪ ˈɑrənt",
-    "spell": "are they here? no, they are not / they aren't"
-  }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 9,
+  "date": "2025-03-21",
+  "words": [
+    {
+      "cefr": "",
+      "def1": "менше",
+      "ipa": "ˈfjuər",
+      "spell": "fewer"
+    },
+    {
+      "cefr": "",
+      "def1": "шорти",
+      "ipa": "ʃɔrts",
+      "spell": "shorts"
+    },
+    {
+      "cefr": "",
+      "def1": "одяг",
+      "ipa": "kloʊðz",
+      "spell": "clothes"
+    },
+    {
+      "cefr": "",
+      "def1": "короткий",
+      "ipa": "ʃɔrt",
+      "spell": "short"
+    },
+    {
+      "cefr": "",
+      "def1": "хмара",
+      "ipa": "ə klaʊd",
+      "spell": "a cloud"
+    },
+    {
+      "cefr": "",
+      "def1": "колір",
+      "ipa": "ə ˈkʌlər",
+      "spell": "a color"
+    },
+    {
+      "cefr": "",
+      "def1": "вночі",
+      "ipa": "æt naɪt",
+      "spell": "at night"
+    },
+    {
+      "cefr": "",
+      "def1": "рахувати",
+      "ipa": "tu kaʊnt",
+      "spell": "to count"
+    },
+    {
+      "cefr": "",
+      "def1": "множина",
+      "ipa": "ðə ˈplʊrəl",
+      "spell": "the plural"
+    },
+    {
+      "cefr": "",
+      "def1": "однина",
+      "ipa": "ðə ˈsɪŋɡjələr",
+      "spell": "the singular"
+    },
+    {
+      "cefr": "",
+      "def1": "коротка сорочка",
+      "ipa": "ə ʃɔrt ʃɜrt",
+      "spell": "a short shirt"
+    },
+    {
+      "cefr": "",
+      "def1": "це мій одяг",
+      "ipa": "ðiz ɑr maɪ kloʊðz",
+      "spell": "these are my clothes"
+    },
+    {
+      "cefr": "",
+      "def1": "це ваша машина?",
+      "ipa": "ɪz ðɪs jʊər kɑr?",
+      "spell": "is this your car?"
+    },
+    {
+      "cefr": "",
+      "def1": "це ваші ключі?",
+      "ipa": "ɑr ðiz jʊər kiz?",
+      "spell": "are these your keys?"
+    },
+    {
+      "cefr": "",
+      "def1": "я не рахував",
+      "ipa": "aɪ dɪd nɑt kaʊnt",
+      "spell": "I did not count"
+    },
+    {
+      "cefr": "",
+      "def1": "це тут? так, це тут",
+      "ipa": "ɪz ɪt hir? jɛs, ɪt ɪz.",
+      "spell": "Is it here? Yes, it is."
+    },
+    {
+      "cefr": "",
+      "def1": "вони тут? так, вони тут",
+      "ipa": "ɑr ðeɪ hir? jɛs, ðeɪ ɑr.",
+      "spell": "are they here? yes, they are."
+    },
+    {
+      "cefr": "",
+      "def1": "це тут? ні, цього немає",
+      "ipa": "ɪz ɪt hir? noʊ, ɪt ɪz nɑt / ɪt ˈɪzənt.",
+      "spell": "Is it here? No, it is not / it isn't."
+    },
+    {
+      "cefr": "",
+      "def1": "вони тут? ні, їх немає",
+      "ipa": "ɑr ðeɪ hir? noʊ, ðeɪ ɑr nɑt / ðeɪ ˈɑrənt",
+      "spell": "are they here? no, they are not / they aren't"
+    }
+  ]
+}
