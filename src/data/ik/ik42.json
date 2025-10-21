@@ -1,0 +1,979 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 42,
+  "date": "2025-10-19",
+  "words": [
+    {
+      "def1": "большая работа",
+      "ipa": "ə бɪг джɑб",
+      "spell": "a big job"
+    },
+    {
+      "def1": "посадочный талон",
+      "ipa": "ə ˈбордɪŋ пæс",
+      "spell": "a boarding pass"
+    },
+    {
+      "def1": "часы (механизм)",
+      "ipa": "ə клɑк",
+      "spell": "a clock"
+    },
+    {
+      "def1": "выход",
+      "ipa": "ə гэйт",
+      "spell": "a gate"
+    },
+    {
+      "def1": "половина",
+      "ipa": "ə hæф",
+      "spell": "a half"
+    },
+    {
+      "def1": "нож",
+      "ipa": "ə найф",
+      "spell": "a knife"
+    },
+    {
+      "def1": "долгий перелёт",
+      "ipa": "ə лɔŋ флайт",
+      "spell": "a long flight"
+    },
+    {
+      "def1": "много работы",
+      "ipa": "ə лɑт ʌв wɜрк",
+      "spell": "a lot of work"
+    },
+    {
+      "def1": "новый телефон",
+      "ipa": "ə ну фоун",
+      "spell": "a new phone"
+    },
+    {
+      "def1": "вечер вне дома",
+      "ipa": "ə найт аут",
+      "spell": "a night out"
+    },
+    {
+      "def1": "четверть",
+      "ipa": "ə ˈкwортəр",
+      "spell": "a quarter"
+    },
+    {
+      "def1": "сиденье",
+      "ipa": "ə сит",
+      "spell": "a seat"
+    },
+    {
+      "def1": "немая буква",
+      "ipa": "ə ˈсайлəнт ˈлэтəр",
+      "spell": "a silent letter"
+    },
+    {
+      "def1": "маленькая квартира",
+      "ipa": "ə смɔл əˈпɑртмəнт",
+      "spell": "a small apartment"
+    },
+    {
+      "def1": "высокое дерево",
+      "ipa": "ə тɔл три",
+      "spell": "a tall tree"
+    },
+    {
+      "def1": "театр",
+      "ipa": "ə ˈθиəтəр",
+      "spell": "a theater"
+    },
+    {
+      "def1": "пробка",
+      "ipa": "ə ˈтрæфɪк джæм",
+      "spell": "a traffic jam"
+    },
+    {
+      "def1": "ваза",
+      "ipa": "ə вэйс",
+      "spell": "a vase"
+    },
+    {
+      "def1": "ведьма",
+      "ipa": "ə wɪч",
+      "spell": "a witch"
+    },
+    {
+      "def1": "писатель пишет",
+      "ipa": "ə ˈрайтəр райтс",
+      "spell": "a writer writes"
+    },
+    {
+      "def1": "обвинить",
+      "ipa": "əˈкъюз",
+      "spell": "accuse"
+    },
+    {
+      "def1": "после",
+      "ipa": "ˈæфтəр",
+      "spell": "after"
+    },
+    {
+      "def1": "после обеда",
+      "ipa": "ˈæфтəр лʌнч",
+      "spell": "after lunch"
+    },
+    {
+      "def1": "после спортзала",
+      "ipa": "ˈæфтəр ðə джɪм",
+      "spell": "after the gym"
+    },
+    {
+      "def1": "после урока",
+      "ipa": "ˈæфтəр ðə ˈлэсəн",
+      "spell": "after the lesson"
+    },
+    {
+      "def1": "после работы",
+      "ipa": "ˈæфтəр wɜрк",
+      "spell": "after work"
+    },
+    {
+      "def1": "важный разговор",
+      "ipa": "əн ɪмˈпортəнт ˌкɑнвəрˈсэйшəн",
+      "spell": "an important conversation"
+    },
+    {
+      "def1": "травма",
+      "ipa": "əн ˈɪнджəри",
+      "spell": "an injury"
+    },
+    {
+      "def1": "ты устал?",
+      "ipa": "ɑр ю ˈтайəрд?",
+      "spell": "are you tired?"
+    },
+    {
+      "def1": "армейский рукопашный бой",
+      "ipa": "ˈɑрми hæнд-ту-hæнд ˈкɑмбæт",
+      "spell": "army hand-to-hand combat"
+    },
+    {
+      "def1": "молчать!",
+      "ipa": "би ˈсайлəнт!",
+      "spell": "be silent!"
+    },
+    {
+      "def1": "могу я посмотреть?",
+      "ipa": "кæн ай си?",
+      "spell": "can I see?"
+    },
+    {
+      "def1": "могу я посмотреть ваш паспорт?",
+      "ipa": "кæн ай си йʊəр ˈпæˌспорт?",
+      "spell": "can I see your passport?"
+    },
+    {
+      "def1": "да ладно!",
+      "ipa": "кʌм ɑн!",
+      "spell": "come on!"
+    },
+    {
+      "def1": "считай двойками",
+      "ipa": "каунт ɪн туз",
+      "spell": "count in twos"
+    },
+    {
+      "def1": "опасный",
+      "ipa": "ˈдэйнджəрəс",
+      "spell": "dangerous"
+    },
+    {
+      "def1": "тебе нравится?",
+      "ipa": "ду ю лайк ɪт?",
+      "spell": "do you like it?"
+    },
+    {
+      "def1": "ты живёшь здесь?",
+      "ipa": "ду ю лɪв hир?",
+      "spell": "do you live here?"
+    },
+    {
+      "def1": "ты живёшь в маленьком доме?",
+      "ipa": "ду ю лɪв ɪн ə смɔл hаус?",
+      "spell": "do you live in a small house?"
+    },
+    {
+      "def1": "ты живёшь недалеко?",
+      "ipa": "ду ю лɪв нɪр hир?",
+      "spell": "do you live near here?"
+    },
+    {
+      "def1": "ты хочешь рыбу или пасту?",
+      "ipa": "ду ю wɑнт фɪш ор ˈпɑстə?",
+      "spell": "do you want fish or pasta?"
+    },
+    {
+      "def1": "ты смотришь телевизор?",
+      "ipa": "ду ю wɑч ˈтиˈви?",
+      "spell": "do you watch TV?"
+    },
+    {
+      "def1": "это помогает?",
+      "ipa": "дʌз ɪт hэлп?",
+      "spell": "does it help?"
+    },
+    {
+      "def1": "не волнуйся",
+      "ipa": "доунт ˈwɜри",
+      "spell": "don't worry"
+    },
+    {
+      "def1": "лёгкий, простой",
+      "ipa": "ˈизи",
+      "spell": "easy"
+    },
+    {
+      "def1": "восемь",
+      "ipa": "эйт",
+      "spell": "eight"
+    },
+    {
+      "def1": "извинить",
+      "ipa": "ɪкˈскъюс",
+      "spell": "excuse"
+    },
+    {
+      "def1": "извините",
+      "ipa": "ɪкˈскъюс ми",
+      "spell": "excuse me"
+    },
+    {
+      "def1": "чувствовать себя",
+      "ipa": "фил",
+      "spell": "feel"
+    },
+    {
+      "def1": "пять минут третьего",
+      "ipa": "файв пæст ту",
+      "spell": "five past two"
+    },
+    {
+      "def1": "пять десять",
+      "ipa": "файв тэн",
+      "spell": "five ten"
+    },
+    {
+      "def1": "в течение семи часов",
+      "ipa": "фор ˈсэвəн ˈауəрз",
+      "spell": "for seven hours"
+    },
+    {
+      "def1": "в течение двух лет",
+      "ipa": "фор ту йɪрз",
+      "spell": "for two years"
+    },
+    {
+      "def1": "полдесятого",
+      "ipa": "hæф пæст 9",
+      "spell": "half past 9"
+    },
+    {
+      "def1": "полседьмого",
+      "ipa": "hæф пæст сɪкс",
+      "spell": "half past six"
+    },
+    {
+      "def1": "довольный",
+      "ipa": "ˈhæпи",
+      "spell": "happy"
+    },
+    {
+      "def1": "тяжёлая работа",
+      "ipa": "hɑрд wɜрк",
+      "spell": "hard work"
+    },
+    {
+      "def1": "он в колледже",
+      "ipa": "hи ɪз ɪн ˈкɑлɪдж",
+      "spell": "he is in college"
+    },
+    {
+      "def1": "он в старшей школе",
+      "ipa": "hи ɪз ɪн hай скул",
+      "spell": "he is in high school"
+    },
+    {
+      "def1": "как ты себя чувствуешь сейчас?",
+      "ipa": "hау ду ю фил райт нау?",
+      "spell": "how do you feel right now?"
+    },
+    {
+      "def1": "как ты себя чувствуешь?",
+      "ipa": "hау ду ю фил?",
+      "spell": "how do you feel?"
+    },
+    {
+      "def1": "как твоя шея?",
+      "ipa": "hау ɪз йʊəр нэк?",
+      "spell": "how is your neck?"
+    },
+    {
+      "def1": "как?",
+      "ipa": "hау?",
+      "spell": "how?"
+    },
+    {
+      "def1": "я опоздал на час",
+      "ipa": "ай æм əн ˈауəр лэйт",
+      "spell": "I am an hour late"
+    },
+    {
+      "def1": "я опасен",
+      "ipa": "ай æм ˈдэйнджəрəс",
+      "spell": "I am dangerous"
+    },
+    {
+      "def1": "мне пятьдесят лет",
+      "ipa": "ай æм ˈфɪфти йɪрз оулд",
+      "spell": "I am fifty years old"
+    },
+    {
+      "def1": "я дружелюбный",
+      "ipa": "ай æм ˈфрэндли",
+      "spell": "I am friendly"
+    },
+    {
+      "def1": "я рад снова тебя видеть",
+      "ipa": "ай æм ˈhæпи ту си ю əˈгэн",
+      "spell": "I am happy to see you again"
+    },
+    {
+      "def1": "я доброжелательный",
+      "ipa": "ай æм кайнд",
+      "spell": "I am kind"
+    },
+    {
+      "def1": "я опаздываю",
+      "ipa": "ай æм лэйт",
+      "spell": "I am late"
+    },
+    {
+      "def1": "я старый",
+      "ipa": "ай æм оулд",
+      "spell": "I am old"
+    },
+    {
+      "def1": "я отвечаю",
+      "ipa": "ай ˈæнсəр",
+      "spell": "I answer"
+    },
+    {
+      "def1": "я не хочу работать сегодня",
+      "ipa": "ай доунт wɑнт ту wɜрк тəˈдэй",
+      "spell": "I don’t want to work today"
+    },
+    {
+      "def1": "я ем мясо",
+      "ipa": "ай ит мит",
+      "spell": "I eat meat"
+    },
+    {
+      "def1": "я чувствую себя плохо",
+      "ipa": "ай фил бæд",
+      "spell": "I feel bad"
+    },
+    {
+      "def1": "я чувствую себя хорошо",
+      "ipa": "ай фил гʊд",
+      "spell": "I feel good"
+    },
+    {
+      "def1": "я лечу с ней снова",
+      "ipa": "ай флай wɪð hɜр əˈгэн",
+      "spell": "I fly with her again"
+    },
+    {
+      "def1": "я выхожу",
+      "ipa": "ай гоу аут",
+      "spell": "I go out"
+    },
+    {
+      "def1": "я хожу в кино",
+      "ipa": "ай гоу ту ðə ˈмувиз",
+      "spell": "I go to the movies"
+    },
+    {
+      "def1": "я знаю",
+      "ipa": "ай ноу",
+      "spell": "I know"
+    },
+    {
+      "def1": "я живу в квартире",
+      "ipa": "ай лɪв ɪн əн əˈпɑртмəнт",
+      "spell": "I live in an apartment"
+    },
+    {
+      "def1": "я живу недалеко",
+      "ipa": "ай лɪв нɪр hир",
+      "spell": "I live near here"
+    },
+    {
+      "def1": "я смотрю на часы",
+      "ipa": "ай лʊк æт ðə клɑк",
+      "spell": "I look at the clock"
+    },
+    {
+      "def1": "я нуждаюсь, мне нужно",
+      "ipa": "ай нид",
+      "spell": "I need"
+    },
+    {
+      "def1": "мне нужен стакан воды",
+      "ipa": "ай нид ə глæс ʌв ˈwɔтəр",
+      "spell": "I need a glass of water"
+    },
+    {
+      "def1": "мне нужен новый телефон",
+      "ipa": "ай нид ə ну фоун",
+      "spell": "I need a new phone"
+    },
+    {
+      "def1": "мне нужно идти",
+      "ipa": "ай нид ту гоу",
+      "spell": "I need to go"
+    },
+    {
+      "def1": "я читаю время",
+      "ipa": "ай рид ðə тайм",
+      "spell": "I read the time"
+    },
+    {
+      "def1": "я хочу работать",
+      "ipa": "ай wɑнт ту wɜрк",
+      "spell": "I want to work"
+    },
+    {
+      "def1": "я пишу",
+      "ipa": "ай райт",
+      "spell": "I write"
+    },
+    {
+      "def1": "мне холодно",
+      "ipa": "айм коулд",
+      "spell": "I'm cold"
+    },
+    {
+      "def1": "мне жарко",
+      "ipa": "айм hɑт",
+      "spell": "I'm hot"
+    },
+    {
+      "def1": "я голоден",
+      "ipa": "айм ˈhʌŋгри",
+      "spell": "I'm hungry"
+    },
+    {
+      "def1": "я опаздываю",
+      "ipa": "айм лэйт",
+      "spell": "I'm late"
+    },
+    {
+      "def1": "мне очень жаль",
+      "ipa": "айм ˈрɪли ˈсɑри",
+      "spell": "I'm really sorry"
+    },
+    {
+      "def1": "мне жаль",
+      "ipa": "айм ˈсɑри",
+      "spell": "I'm sorry"
+    },
+    {
+      "def1": "извините за опоздание",
+      "ipa": "айм ˈсɑри айм лэйт",
+      "spell": "I'm sorry I'm late"
+    },
+    {
+      "def1": "я хочу пить",
+      "ipa": "айм ˈθɜрсти",
+      "spell": "I'm thirsty"
+    },
+    {
+      "def1": "я устал",
+      "ipa": "айм ˈтайəрд",
+      "spell": "I'm tired"
+    },
+    {
+      "def1": "встреча в среду?",
+      "ipa": "ɪз ðə ˈмитɪŋ ɑн ˈwэнзˌдэй?",
+      "spell": "is the meeting on Wednesday?"
+    },
+    {
+      "def1": "оно (время, погода)",
+      "ipa": "ɪт",
+      "spell": "it"
+    },
+    {
+      "def1": "четверть четвёртого",
+      "ipa": "ɪтс (эй) ˈкwортəр ˈæфтəр θри",
+      "spell": "it's (a) quarter after three"
+    },
+    {
+      "def1": "без четверти четыре",
+      "ipa": "ɪтс (эй) ˈкwортəр ту фор",
+      "spell": "it's (a) quarter to four"
+    },
+    {
+      "def1": "пять минут четвёртого",
+      "ipa": "ɪтс файв ˈæфтəр θри",
+      "spell": "it's five after three"
+    },
+    {
+      "def1": "без пяти четыре",
+      "ipa": "ɪтс файв ту фор",
+      "spell": "it's five to four"
+    },
+    {
+      "def1": "уже поздно, и я устал",
+      "ipa": "ɪтс лэйт æнд айм ˈтайəрд",
+      "spell": "it's late and I'm tired"
+    },
+    {
+      "def1": "всего без двадцати восемь",
+      "ipa": "ɪтс ˈоунли ˈтwэнти ту эйт",
+      "spell": "it's only twenty to eight"
+    },
+    {
+      "def1": "десять минут четвёртого",
+      "ipa": "ɪтс тэн ˈæфтəр θри",
+      "spell": "it's ten after three"
+    },
+    {
+      "def1": "без десяти четыре",
+      "ipa": "ɪтс тэн ту фор",
+      "spell": "it's ten to four"
+    },
+    {
+      "def1": "три часа",
+      "ipa": "ɪтс θри əˈклɑк",
+      "spell": "it's three o'clock"
+    },
+    {
+      "def1": "полчетвёртого",
+      "ipa": "ɪтс θри-ˈθɜрди",
+      "spell": "it's three-thirty"
+    },
+    {
+      "def1": "двадцать минут четвёртого",
+      "ipa": "ɪтс ˈтwэнти ˈæфтəр θри",
+      "spell": "it's twenty after three"
+    },
+    {
+      "def1": "сегодня утром двадцать градусов",
+      "ipa": "ɪтс ˈтwэнти дɪˈгриз ðɪс ˈморнɪŋ",
+      "spell": "it's twenty degrees this morning"
+    },
+    {
+      "def1": "без двадцати четыре",
+      "ipa": "ɪтс ˈтwэнти ту фор",
+      "spell": "it's twenty to four"
+    },
+    {
+      "def1": "двадцать пять минут четвёртого",
+      "ipa": "ɪтс ˈтwэнти-файв ˈæфтəр θри",
+      "spell": "it's twenty-five after three"
+    },
+    {
+      "def1": "без двадцати пяти четыре",
+      "ipa": "ɪтс ˈтwэнти-файв ту фор",
+      "spell": "it's twenty-five to four"
+    },
+    {
+      "def1": "восемь тридцать",
+      "ipa": "ɪтс эйт ˈθɜрди",
+      "spell": "it’s eight thirty"
+    },
+    {
+      "def1": "пять минут шестого",
+      "ipa": "ɪтс файв ˈæфтəр файв",
+      "spell": "it’s five after five"
+    },
+    {
+      "def1": "четверть двенадцатого",
+      "ipa": "ɪтс ˈкwортəр ˈæфтəр ɪˈлэвəн",
+      "spell": "it’s quarter after eleven"
+    },
+    {
+      "def1": "я сожалею",
+      "ipa": "айм ˈсɑри",
+      "spell": "I’m sorry"
+    },
+    {
+      "def1": "сдачи не надо",
+      "ipa": "кип ðə чэйндж",
+      "spell": "keep the change"
+    },
+    {
+      "def1": "собрание, встреча",
+      "ipa": "ˈмитɪŋ",
+      "spell": "meeting"
+    },
+    {
+      "def1": "военное время (24-часовое)",
+      "ipa": "ˈмɪлəˌтэри тайм",
+      "spell": "military time"
+    },
+    {
+      "def1": "ещё!",
+      "ipa": "мор!",
+      "spell": "more!"
+    },
+    {
+      "def1": "мой АК заклинило",
+      "ipa": "май эй-кэй джæмд",
+      "spell": "my AK jammed"
+    },
+    {
+      "def1": "мои глаза",
+      "ipa": "май айз",
+      "spell": "my eyes"
+    },
+    {
+      "def1": "недалеко",
+      "ipa": "нɪр hир",
+      "spell": "near here"
+    },
+    {
+      "def1": "девять сорок",
+      "ipa": "найн-ˈфорти",
+      "spell": "nine-forty"
+    },
+    {
+      "def1": "в пятницу",
+      "ipa": "ɑн ˈфрайˌдэй",
+      "spell": "on Friday"
+    },
+    {
+      "def1": "в понедельник",
+      "ipa": "ɑн ˈмʌнˌдэй",
+      "spell": "on Monday"
+    },
+    {
+      "def1": "на моём телефоне",
+      "ipa": "ɑн май фоун",
+      "spell": "on my phone"
+    },
+    {
+      "def1": "в субботу",
+      "ipa": "ɑн ˈсæтəрˌдэй",
+      "spell": "on Saturday"
+    },
+    {
+      "def1": "в воскресенье",
+      "ipa": "ɑн ˈсʌнˌдэй",
+      "spell": "on Sunday"
+    },
+    {
+      "def1": "в четверг",
+      "ipa": "ɑн ˈθɜрзˌдэй",
+      "spell": "on Thursday"
+    },
+    {
+      "def1": "во вторник",
+      "ipa": "ɑн ˈтузˌдэй",
+      "spell": "on Tuesday"
+    },
+    {
+      "def1": "в среду",
+      "ipa": "ɑн ˈwэнзˌдэй",
+      "spell": "on Wednesday"
+    },
+    {
+      "def1": "по выходным",
+      "ipa": "ɑн ˈwиˌкэндз",
+      "spell": "on weekends"
+    },
+    {
+      "def1": "на твоём телефоне",
+      "ipa": "ɑн йʊəр фоун",
+      "spell": "on your phone"
+    },
+    {
+      "def1": "один час",
+      "ipa": "wʌн ˈауəр",
+      "spell": "one hour"
+    },
+    {
+      "def1": "ещё один напиток",
+      "ipa": "wʌн мор дрɪŋк",
+      "spell": "one more drink"
+    },
+    {
+      "def1": "ещё один!",
+      "ipa": "wʌн мор!",
+      "spell": "one more!"
+    },
+    {
+      "def1": "час тридцать пять",
+      "ipa": "wʌн ˈθɜрди файв",
+      "spell": "one thirty five"
+    },
+    {
+      "def1": "наруже, наружу",
+      "ipa": "аут",
+      "spell": "out"
+    },
+    {
+      "def1": "... часов",
+      "ipa": "əˈклɑк",
+      "spell": "o’clock"
+    },
+    {
+      "def1": "четверть восьмого",
+      "ipa": "ˈкwортəр ˈæфтəр ˈсэвəн",
+      "spell": "quarter after seven"
+    },
+    {
+      "def1": "отдых",
+      "ipa": "рэст",
+      "spell": "rest"
+    },
+    {
+      "def1": "прямо сейчас",
+      "ipa": "райт нау",
+      "spell": "right now"
+    },
+    {
+      "def1": "она её не любит",
+      "ipa": "щи ˈдʌзəнт лайк hɜр",
+      "spell": "she doesn’t like her"
+    },
+    {
+      "def1": "она недовольна",
+      "ipa": "щи ɪз нɑт ˈhæпи",
+      "spell": "she is not happy"
+    },
+    {
+      "def1": "она её любит",
+      "ipa": "щи лайкс hɜр",
+      "spell": "she likes her"
+    },
+    {
+      "def1": "тишина!",
+      "ipa": "ˈсайлəнс!",
+      "spell": "silence!"
+    },
+    {
+      "def1": "тихий, безмолвный",
+      "ipa": "ˈсайлəнт",
+      "spell": "silent"
+    },
+    {
+      "def1": "шесть тридцать",
+      "ipa": "сɪкс ˈθɜрди",
+      "spell": "six thirty"
+    },
+    {
+      "def1": "шесть двадцать",
+      "ipa": "сɪкс ˈтwэнти",
+      "spell": "six twenty"
+    },
+    {
+      "def1": "так себе",
+      "ipa": "ˈсоуˈсоу",
+      "spell": "so-so"
+    },
+    {
+      "def1": "что-то происходит",
+      "ipa": "ˈсʌмθɪŋ ˈhæпəнз",
+      "spell": "something happens"
+    },
+    {
+      "def1": "извините за опоздание",
+      "ipa": "ˈсɑри, айм лэйт",
+      "spell": "sorry, I'm late"
+    },
+    {
+      "def1": "сказать время",
+      "ipa": "тэл ðə тайм",
+      "spell": "tell the time"
+    },
+    {
+      "def1": "это легко!",
+      "ipa": "ðæтс ˈизи!",
+      "spell": "that's easy!"
+    },
+    {
+      "def1": "сдача",
+      "ipa": "ðə чэйндж",
+      "spell": "the change"
+    },
+    {
+      "def1": "они пробегают мимо меня",
+      "ipa": "ðэй рʌн пæст ми",
+      "spell": "they run past me"
+    },
+    {
+      "def1": "жажда",
+      "ipa": "θɜрст",
+      "spell": "thirst"
+    },
+    {
+      "def1": "жаждущий, хотящий пить",
+      "ipa": "ˈθɜрсти",
+      "spell": "thirsty"
+    },
+    {
+      "def1": "тридцать",
+      "ipa": "ˈθɜрди",
+      "spell": "thirty"
+    },
+    {
+      "def1": "это важно",
+      "ipa": "ðɪс ɪз ɪмˈпортəнт",
+      "spell": "this is important"
+    },
+    {
+      "def1": "сюда пожалуйста",
+      "ipa": "ðɪс wэй, плиз",
+      "spell": "this way, please"
+    },
+    {
+      "def1": "три пятнадцать",
+      "ipa": "θри фɪфˈтин",
+      "spell": "three fifteen"
+    },
+    {
+      "def1": "пора спать",
+      "ipa": "тайм фор бэд",
+      "spell": "time for bed"
+    },
+    {
+      "def1": "пора обедать",
+      "ipa": "тайм фор лʌнч",
+      "spell": "time for lunch"
+    },
+    {
+      "def1": "уставший",
+      "ipa": "ˈтайəрд",
+      "spell": "tired"
+    },
+    {
+      "def1": "оставить себе, сохранить",
+      "ipa": "ту кип",
+      "spell": "to keep"
+    },
+    {
+      "def1": "встречать(ся)",
+      "ipa": "ту мит",
+      "spell": "to meet"
+    },
+    {
+      "def1": "без двадцати девять",
+      "ipa": "ˈтwэнти ту найн",
+      "spell": "twenty to nine"
+    },
+    {
+      "def1": "без двадцати шесть",
+      "ipa": "ˈтwэнти ту сɪкс",
+      "spell": "twenty to six"
+    },
+    {
+      "def1": "несчастный, недовольный",
+      "ipa": "əнˈhæпи",
+      "spell": "unhappy"
+    },
+    {
+      "def1": "мы встречаемся снова",
+      "ipa": "wи мит əˈгэн",
+      "spell": "we meet again"
+    },
+    {
+      "def1": "какое отличное шоу!",
+      "ipa": "wɑт ə грэйт шоʊ!",
+      "spell": "what a great show!"
+    },
+    {
+      "def1": "какой приятный сюрприз!",
+      "ipa": "wɑт ə найс сəрˈпрайз!",
+      "spell": "what a nice surprise!"
+    },
+    {
+      "def1": "что там происходит?",
+      "ipa": "wɑт ˈhæпəнз ðэр?",
+      "spell": "what happens there?"
+    },
+    {
+      "def1": "сколько будет половина от четырёх?",
+      "ipa": "wɑт ɪз hæф ʌв фор?",
+      "spell": "what is half of four?"
+    },
+    {
+      "def1": "во сколько мы приезжаем?",
+      "ipa": "wɑт тайм ду wи əˈрайв?",
+      "spell": "what time do we arrive?"
+    },
+    {
+      "def1": "который сейчас час?",
+      "ipa": "wɑт тайм ɪз ɪт нау?",
+      "spell": "what time is it now?"
+    },
+    {
+      "def1": "который час?",
+      "ipa": "wɑт тайм ɪз ɪт?",
+      "spell": "what time is it?"
+    },
+    {
+      "def1": "во сколько фильм?",
+      "ipa": "wɑт тайм ɪз ðə ˈмуви?",
+      "spell": "what time is the movie?"
+    },
+    {
+      "def1": "во сколько шоу?",
+      "ipa": "wɑт тайм ɪз ðə шоʊ?",
+      "spell": "what time is the show?"
+    },
+    {
+      "def1": "почему она так говорит?",
+      "ipa": "wай дʌз щи сэй ðæт?",
+      "spell": "why does she say that?"
+    },
+    {
+      "def1": "почему?",
+      "ipa": "wай?",
+      "spell": "why?"
+    },
+    {
+      "def1": "цифрами",
+      "ipa": "wɪð ˈнʌмбəрз",
+      "spell": "with numbers"
+    },
+    {
+      "def1": "ты можешь драться",
+      "ipa": "ю кæн файт",
+      "spell": "you can fight"
+    },
+    {
+      "def1": "ты это не произносишь",
+      "ipa": "ю доунт прəˈнаунс ɪт",
+      "spell": "you don't pronounce it"
+    },
+    {
+      "def1": "тебе нужно поторопиться",
+      "ipa": "ю нид ту ˈhɜри",
+      "spell": "you need to hurry"
+    },
+    {
+      "def1": "у тебя всего две минуты",
+      "ipa": "ю ˈоунли hæв ту ˈмɪнəтс",
+      "spell": "you only have two minutes"
+    },
+    {
+      "def1": "ты сказал",
+      "ipa": "ю сэд",
+      "spell": "you said"
+    },
+    {
+      "def1": "ты опоздал на час",
+      "ipa": "йʊр əн ˈауəр лэйт",
+      "spell": "you're an hour late"
+    }
+  ]
+}
