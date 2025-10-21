@@ -1,0 +1,1384 @@
+{
+  "student": "Andrew S.",
+  "slug": "ax",
+  "period": "week",
+  "number": 42,
+  "date": "2025-10-17",
+  "words": [
+    {
+      "def1": "чистая комната",
+      "ipa": "ə клин рум",
+      "spell": "a clean room"
+    },
+    {
+      "def1": "магазин одежды",
+      "ipa": "ə ˈклоуðɪŋ стор",
+      "spell": "a clothing store"
+    },
+    {
+      "def1": "сокращение, стяжение",
+      "ipa": "ə кəнˈтрæкшəн",
+      "spell": "a contraction"
+    },
+    {
+      "def1": "хороший урожай",
+      "ipa": "ə гʊд ˈhɑрвəст",
+      "spell": "a good harvest"
+    },
+    {
+      "def1": "много шума",
+      "ipa": "ə лɑт ʌв нойз",
+      "spell": "a lot of noise"
+    },
+    {
+      "def1": "много людей",
+      "ipa": "ə лɑт ʌв ˈпипəл",
+      "spell": "a lot of people"
+    },
+    {
+      "def1": "массажист",
+      "ipa": "ə мəˈсʊр",
+      "spell": "a masseur"
+    },
+    {
+      "def1": "матч",
+      "ipa": "ə мæч",
+      "spell": "a match"
+    },
+    {
+      "def1": "существительное",
+      "ipa": "ə наун",
+      "spell": "a noun"
+    },
+    {
+      "def1": "пара",
+      "ipa": "ə пэр",
+      "spell": "a pair"
+    },
+    {
+      "def1": "пиццерия",
+      "ipa": "ə ˈпитсə плэйс",
+      "spell": "a pizza place"
+    },
+    {
+      "def1": "тыква",
+      "ipa": "ə ˈпʌмпкɪн",
+      "spell": "a pumpkin"
+    },
+    {
+      "def1": "быстрый кофе",
+      "ipa": "ə кwɪк ˈкɑфи",
+      "spell": "a quick coffee"
+    },
+    {
+      "def1": "рубашка",
+      "ipa": "ə щɜрт",
+      "spell": "a shirt"
+    },
+    {
+      "def1": "юбка",
+      "ipa": "ə скɜрт",
+      "spell": "a skirt"
+    },
+    {
+      "def1": "рукав",
+      "ipa": "ə слив",
+      "spell": "a sleeve"
+    },
+    {
+      "def1": "известная группа",
+      "ipa": "ə wэл-ноун груп",
+      "spell": "a well-known group"
+    },
+    {
+      "def1": "известный певец",
+      "ipa": "ə wэл-ноун ˈсɪŋəр",
+      "spell": "a well-known singer"
+    },
+    {
+      "def1": "женщина",
+      "ipa": "ə ˈwʊмəн",
+      "spell": "a woman"
+    },
+    {
+      "def1": "чрево",
+      "ipa": "ə wум",
+      "spell": "a womb"
+    },
+    {
+      "def1": "действие",
+      "ipa": "əн ˈæкшəн",
+      "spell": "an action"
+    },
+    {
+      "def1": "вход",
+      "ipa": "əн ˈэнтрəнс",
+      "spell": "an entrance"
+    },
+    {
+      "def1": "бывший парень",
+      "ipa": "əн ˌэксˈбойˌфрэнд",
+      "spell": "an ex-boyfriend"
+    },
+    {
+      "def1": "стажёр",
+      "ipa": "əн ˈɪнтɜрн",
+      "spell": "an intern"
+    },
+    {
+      "def1": "приглашение",
+      "ipa": "əн ˌɪнвɪˈтэйшəн",
+      "spell": "an invitation"
+    },
+    {
+      "def1": "объект, предмет",
+      "ipa": "əн ˈɑбджэкт",
+      "spell": "an object"
+    },
+    {
+      "def1": "майка",
+      "ipa": "əн ˈʌндəрˌщɜрт",
+      "spell": "an undershirt"
+    },
+    {
+      "def1": "являются",
+      "ipa": "ɑр",
+      "spell": "are"
+    },
+    {
+      "def1": "как обычно",
+      "ipa": "æз ˈюжəwəл",
+      "spell": "as usual"
+    },
+    {
+      "def1": "в половине четвёртого",
+      "ipa": "æт hæф пæст θри",
+      "spell": "at half past three"
+    },
+    {
+      "def1": "с наилучшими пожеланиями",
+      "ipa": "бэст ˈwɪщɪз",
+      "spell": "best wishes"
+    },
+    {
+      "def1": "яркие цвета",
+      "ipa": "брайт ˈкʌлəрз",
+      "spell": "bright colors"
+    },
+    {
+      "def1": "слова об одежде",
+      "ipa": "клоуðз wɜрдз",
+      "spell": "clothes words"
+    },
+    {
+      "def1": "не могли бы вы это сделать, пожалуйста?",
+      "ipa": "кʊд ю ду ɪт, плиз?",
+      "spell": "could you do it, please?"
+    },
+    {
+      "def1": "исчисляемый",
+      "ipa": "ˈкаунтəбəл",
+      "spell": "countable"
+    },
+    {
+      "def1": "тёмная одежда",
+      "ipa": "дɑрк клоуðз",
+      "spell": "dark clothes"
+    },
+    {
+      "def1": "прямота - это грубо",
+      "ipa": "дəˈрэкт ɪз руд",
+      "spell": "direct is rude"
+    },
+    {
+      "def1": "сделай это!",
+      "ipa": "ду ɪт!",
+      "spell": "do it!"
+    },
+    {
+      "def1": "у вас в стране есть стажировки?",
+      "ipa": "ду ðэй ду ˈɪнтəрнˌщɪпс ɪн йʊəр ˈкʌнтри?",
+      "spell": "do they do internships in your country?"
+    },
+    {
+      "def1": "брюки",
+      "ipa": "дрэс пæнтс",
+      "spell": "dress pants"
+    },
+    {
+      "def1": "есть, ел, съедено",
+      "ipa": "ит, эйт, ˈитəн",
+      "spell": "eat, ate, eaten"
+    },
+    {
+      "def1": "каждое утро",
+      "ipa": "ˈэвəри ˈморнɪŋ",
+      "spell": "every morning"
+    },
+    {
+      "def1": "мода",
+      "ipa": "ˈфæшəн",
+      "spell": "fashion"
+    },
+    {
+      "def1": "мало объектов",
+      "ipa": "фъю ˈɑбджэктс",
+      "spell": "few objects"
+    },
+    {
+      "def1": "меньше автобусов",
+      "ipa": "ˈфъюəр ˈбʌсɪз",
+      "spell": "fewer buses"
+    },
+    {
+      "def1": "меньше дней",
+      "ipa": "ˈфъюəр дэйз",
+      "spell": "fewer days"
+    },
+    {
+      "def1": "меньше собак",
+      "ipa": "ˈфъюəр дɑгз",
+      "spell": "fewer dogs"
+    },
+    {
+      "def1": "меньше детей",
+      "ipa": "ˈфъюəр кɪдз",
+      "spell": "fewer kids"
+    },
+    {
+      "def1": "меньше объектов",
+      "ipa": "ˈфъюəр ˈɑбджэктс",
+      "spell": "fewer objects"
+    },
+    {
+      "def1": "меньше зубов",
+      "ipa": "ˈфъюəр тиθ",
+      "spell": "fewer teeth"
+    },
+    {
+      "def1": "меньше поездов",
+      "ipa": "ˈфъюəр трэйнз",
+      "spell": "fewer trains"
+    },
+    {
+      "def1": "меньше лет",
+      "ipa": "ˈфъюəр йɪрз",
+      "spell": "fewer years"
+    },
+    {
+      "def1": "на несколько дней",
+      "ipa": "фор ə фъю дэйз",
+      "spell": "for a few days"
+    },
+    {
+      "def1": "он приглашает её выпить кофе",
+      "ipa": "hи ɪнˈвайтс hɜр фор ə ˈкɑфи",
+      "spell": "he invites her for a coffee"
+    },
+    {
+      "def1": "он приглашает её в кафе",
+      "ipa": "hи ɪнˈвайтс hɜр ту ə кəˈфэй",
+      "spell": "he invites her to a cafe"
+    },
+    {
+      "def1": "он приглашает её пойти в кафе",
+      "ipa": "hи ɪнˈвайтс hɜр ту гоу ту ə кəˈфэй",
+      "spell": "he invites her to go to a cafe"
+    },
+    {
+      "def1": "он приглашает её выпить кофе",
+      "ipa": "hи ɪнˈвайтс hɜр ту hæв ə ˈкɑфи",
+      "spell": "he invites her to have a coffee"
+    },
+    {
+      "def1": "он приглашает её поужинать",
+      "ipa": "hи ɪнˈвайтс hɜр ту hæв ˈдɪнəр",
+      "spell": "he invites her to have dinner"
+    },
+    {
+      "def1": "он приглашает её на шоу",
+      "ipa": "hи ɪнˈвайтс hɜр ту си ə шоʊ",
+      "spell": "he invites her to see a show"
+    },
+    {
+      "def1": "он приглашает меня",
+      "ipa": "hи ɪнˈвайтс ми",
+      "spell": "he invites me"
+    },
+    {
+      "def1": "он качает железо",
+      "ipa": "hи пʌмпс ˈайəрн",
+      "spell": "he pumps iron"
+    },
+    {
+      "def1": "её опыт работы",
+      "ipa": "hɜр wɜрк ɪкˈспɪриəнс",
+      "spell": "her work experience"
+    },
+    {
+      "def1": "старшие классы",
+      "ipa": "hай скул",
+      "spell": "high school"
+    },
+    {
+      "def1": "старшеклассники и студенты",
+      "ipa": "hай скул æнд ˈкɑлɪдж ˈстудəнтс",
+      "spell": "high school and college students"
+    },
+    {
+      "def1": "как насчёт ...",
+      "ipa": "hау əˈбаут эй ...",
+      "spell": "how about a ..."
+    },
+    {
+      "def1": "как насчёт того?",
+      "ipa": "hау əˈбаут ðæт?",
+      "spell": "how about that?"
+    },
+    {
+      "def1": "как насчёт послезавтра?",
+      "ipa": "hау əˈбаут ðə дэй ˈæфтəр тəˈмɑˌроу?",
+      "spell": "how about the day after tomorrow?"
+    },
+    {
+      "def1": "как насчёт завтра?",
+      "ipa": "hау əˈбаут тəˈмɑˌроу?",
+      "spell": "how about tomorrow?"
+    },
+    {
+      "def1": "я принимаю ваше приглашение",
+      "ipa": "ай æкˈсэпт йʊəр ˌɪнвɪˈтэйшəн",
+      "spell": "I accept your invitation"
+    },
+    {
+      "def1": "я принимаю ваше предложение",
+      "ipa": "ай æкˈсэпт йʊəр ˈɔфəр",
+      "spell": "I accept your offer"
+    },
+    {
+      "def1": "я плохо себя чувствую",
+      "ipa": "ай æм ˈфилɪŋ сɪк",
+      "spell": "I am feeling sick"
+    },
+    {
+      "def1": "я доволен",
+      "ipa": "ай æм ˈhæпи",
+      "spell": "I am happy"
+    },
+    {
+      "def1": "я завожу новых друзей!",
+      "ipa": "ай æм ˈмэйкɪŋ ну фрэндз!",
+      "spell": "I am making new friends!"
+    },
+    {
+      "def1": "я болен",
+      "ipa": "ай æм сɪк",
+      "spell": "I am sick"
+    },
+    {
+      "def1": "на мне есть",
+      "ipa": "ай æм ˈwэрɪŋ",
+      "spell": "I am wearing"
+    },
+    {
+      "def1": "сегодня на мне это",
+      "ipa": "ай æм ˈwэрɪŋ ðɪс тəˈдэй",
+      "spell": "I am wearing this today"
+    },
+    {
+      "def1": "я съел что-то плохое",
+      "ipa": "ай эйт ˈсʌмθɪŋ бæд",
+      "spell": "I ate something bad"
+    },
+    {
+      "def1": "я могу надеть перчатки",
+      "ipa": "ай кæн пʊт ɑн май глʌвз",
+      "spell": "I can put on my gloves"
+    },
+    {
+      "def1": "я простудился",
+      "ipa": "ай кɑт ə коулд",
+      "spell": "I caught a cold"
+    },
+    {
+      "def1": "я передумал",
+      "ipa": "ай чэйнджд май майнд",
+      "spell": "I changed my mind"
+    },
+    {
+      "def1": "я выбираю день и время",
+      "ipa": "ай чуз ə дэй æнд тайм",
+      "spell": "I choose a day and time"
+    },
+    {
+      "def1": "я убираю комнату",
+      "ipa": "ай клин ə рум",
+      "spell": "I clean a room"
+    },
+    {
+      "def1": "я отклоняю ваше приглашение",
+      "ipa": "ай дɪˈклайн йʊəр ˌɪнвɪˈтэйшəн",
+      "spell": "I decline your invitation"
+    },
+    {
+      "def1": "я отклоняю ваше предложение",
+      "ipa": "ай дɪˈклайн йʊəр ˈɔфəр",
+      "spell": "I decline your offer"
+    },
+    {
+      "def1": "я сделал это вчера",
+      "ipa": "ай дɪд ɪт ˈйэстəрˌдэй",
+      "spell": "I did it yesterday"
+    },
+    {
+      "def1": "я делаю, совершаю",
+      "ipa": "ай ду",
+      "spell": "I do"
+    },
+    {
+      "def1": "я не думаю, что это хорошая идея",
+      "ipa": "ай доунт θɪŋк ɪтс ə гʊд айˈдиə",
+      "spell": "I don't think it's a good idea"
+    },
+    {
+      "def1": "у меня нет галстука",
+      "ipa": "ай доунт hæв ə тай",
+      "spell": "I don’t have a tie"
+    },
+    {
+      "def1": "я обычно не хожу на вечеринки",
+      "ipa": "ай доунт ˈюжəwəли гоу ту ˈпɑртиз",
+      "spell": "I don’t usually go to parties"
+    },
+    {
+      "def1": "я обмениваюсь с ней имейлами",
+      "ipa": "ай ɪксˈчэйндж иˈмэйлз wɪð hɜр",
+      "spell": "I exchange emails with her"
+    },
+    {
+      "def1": "я обмениваю деньги",
+      "ipa": "ай ɪксˈчэйндж ˈмʌни",
+      "spell": "I exchange money"
+    },
+    {
+      "def1": "я отправляюсь в путешествие",
+      "ipa": "ай гоу ɑн ə ˈджɜрни",
+      "spell": "I go on a journey"
+    },
+    {
+      "def1": "я уезжаю в отпуск (иногда)",
+      "ipa": "ай гоу ɑн вэйˈкэйшəн",
+      "spell": "I go on vacation"
+    },
+    {
+      "def1": "у меня чистая комната",
+      "ipa": "ай hæв ə клин рум",
+      "spell": "I have a clean room"
+    },
+    {
+      "def1": "я веду неформальную беседу",
+      "ipa": "ай hæв əн ɪнˈформəл ˈсоушəл ˌкɑнвəрˈсэйшəн",
+      "spell": "I have an informal social conversation"
+    },
+    {
+      "def1": "я сломал себе ногу",
+      "ipa": "ай hæв ˈброукəн май лэг",
+      "spell": "I have broken my leg"
+    },
+    {
+      "def1": "я сделал это!",
+      "ipa": "ай hæв дʌн ɪт!",
+      "spell": "I have done it!"
+    },
+    {
+      "def1": "я поел (я сыт)",
+      "ipa": "ай hæв ˈитəн",
+      "spell": "I have eaten"
+    },
+    {
+      "def1": "я съел что-то плохое",
+      "ipa": "ай hæв ˈитəн ˈсʌмθɪŋ бæд",
+      "spell": "I have eaten something bad"
+    },
+    {
+      "def1": "я ещё этого не сделал",
+      "ipa": "ай ˈhæвəнт дʌн ɪт йэт",
+      "spell": "I haven’t done it yet"
+    },
+    {
+      "def1": "я приглашаю её выпить кофе",
+      "ipa": "ай ɪнˈвайт hɜр ту hæв ə ˈкɑфи",
+      "spell": "I invite her to have a coffee"
+    },
+    {
+      "def1": "я приглашаю её поужинать",
+      "ipa": "ай ɪнˈвайт hɜр ту hæв ˈдɪнəр",
+      "spell": "I invite her to have dinner"
+    },
+    {
+      "def1": "я приглашаю его на игру",
+      "ipa": "ай ɪнˈвайт hɪм ту ə гэйм",
+      "spell": "I invite him to a game"
+    },
+    {
+      "def1": "я приглашаю его на выставку",
+      "ipa": "ай ɪнˈвайт hɪм ту əн ˌэксəˈбɪшəн",
+      "spell": "I invite him to an exhibition"
+    },
+    {
+      "def1": "мне нравится",
+      "ipa": "ай лайк",
+      "spell": "I like"
+    },
+    {
+      "def1": "я люблю хорошо прожаренный стейк",
+      "ipa": "ай лайк май стэйк wэл дʌн",
+      "spell": "I like my steak well done"
+    },
+    {
+      "def1": "мне нравится носить синее",
+      "ipa": "ай лайк ˈwэрɪŋ блу",
+      "spell": "I like wearing blue"
+    },
+    {
+      "def1": "я люблю стейк",
+      "ipa": "ай лʌв стэйк",
+      "spell": "I love steak"
+    },
+    {
+      "def1": "я завёл друга!",
+      "ipa": "ай мэйд ə фрэнд!",
+      "spell": "I made a friend!"
+    },
+    {
+      "def1": "я делаю (произвожу, мастерю, изготавливаю)",
+      "ipa": "ай мэйк",
+      "spell": "I make"
+    },
+    {
+      "def1": "я приглашаю",
+      "ipa": "ай мэйк əн ˌɪнвɪˈтэйшəн",
+      "spell": "I make an invitation"
+    },
+    {
+      "def1": "я делаю предложение",
+      "ipa": "ай мэйк əн ˈɔфəр",
+      "spell": "I make an offer"
+    },
+    {
+      "def1": "я предлагаю",
+      "ipa": "ай ˈɔфəр",
+      "spell": "I offer"
+    },
+    {
+      "def1": "я предлагаю помощь",
+      "ipa": "ай ˈɔфəр hэлп",
+      "spell": "I offer help"
+    },
+    {
+      "def1": "я предлагаю купить еду и напиток",
+      "ipa": "ай ˈɔфəр ту бай фуд æнд ə дрɪŋк",
+      "spell": "I offer to buy food and a drink"
+    },
+    {
+      "def1": "я предлагаю вам деньги",
+      "ipa": "ай ˈɔфəр ю ˈмʌни",
+      "spell": "I offer you money"
+    },
+    {
+      "def1": "я смягчаю их",
+      "ipa": "ай ˈсɑфəн ðэм",
+      "spell": "I soften them"
+    },
+    {
+      "def1": "говорю громко",
+      "ipa": "ай спик ˈлаудли",
+      "spell": "I speak loudly"
+    },
+    {
+      "def1": "я произношу это слово с большим ударением",
+      "ipa": "ай стрэс ðɪс wɜрд мор ˈстрɔŋли",
+      "spell": "I stress this word more strongly"
+    },
+    {
+      "def1": "я подслащиваю это",
+      "ipa": "ай ˈсwитəн ɪт",
+      "spell": "I sweeten it"
+    },
+    {
+      "def1": "я снимаю перчатки",
+      "ipa": "ай тэйк ɔф май глʌвз",
+      "spell": "I take off my gloves"
+    },
+    {
+      "def1": "я думаю, что это хорошая идея - сделать это",
+      "ipa": "ай θɪŋк ɪтс ə гʊд айˈдиə ту ду ɪт",
+      "spell": "I think it’s a good idea to do it"
+    },
+    {
+      "def1": "я путешествую",
+      "ipa": "ай ˈтрæвəл",
+      "spell": "I travel"
+    },
+    {
+      "def1": "я обычно легко завожу друзей",
+      "ipa": "ай ˈюжəwəли мэйк фрэндз ˈизəли",
+      "spell": "I usually make friends easily"
+    },
+    {
+      "def1": "я обычно ношу тёплые носки",
+      "ipa": "ай ˈюжəwəли wэр wорм сɑкс",
+      "spell": "I usually wear warm socks"
+    },
+    {
+      "def1": "я разогреваюсь",
+      "ipa": "ай wорм ʌп",
+      "spell": "I warm up"
+    },
+    {
+      "def1": "я разогреваюсь пятнадцать минут",
+      "ipa": "ай wорм ʌп фор фɪфˈтин ˈмɪнəтс",
+      "spell": "I warm up for fifteen minutes"
+    },
+    {
+      "def1": "я ношу",
+      "ipa": "ай wэр",
+      "spell": "I wear"
+    },
+    {
+      "def1": "я ношу тёплую шапку",
+      "ipa": "ай wэр ə wорм hæт",
+      "spell": "I wear a warm hat"
+    },
+    {
+      "def1": "я ношу перчатки",
+      "ipa": "ай wэр глʌвз",
+      "spell": "I wear gloves"
+    },
+    {
+      "def1": "я ношу брюки",
+      "ipa": "ай wэр пæнтс",
+      "spell": "I wear pants"
+    },
+    {
+      "def1": "я пишу имейл, чтобы пригласить его",
+      "ipa": "ай райт əн иˈмэйл ту ɪнˈвайт hɪм",
+      "spell": "I write an email to invite him"
+    },
+    {
+      "def1": "мне бургер, пожалуйста",
+      "ipa": "айд лайк ə ˈбɜргəр, плиз",
+      "spell": "I'd like a burger, please"
+    },
+    {
+      "def1": "мне кофе, пожалуйста",
+      "ipa": "айд лайк ə ˈкɑфи, плиз",
+      "spell": "I'd like a coffee, please"
+    },
+    {
+      "def1": "я хотел бы тебя кое о чём спросить",
+      "ipa": "айд лайк ту æск ю ˈсʌмθɪŋ",
+      "spell": "I'd like to ask you something"
+    },
+    {
+      "def1": "с удовольствием приду",
+      "ipa": "айд лʌв ту кʌм",
+      "spell": "I'd love to come"
+    },
+    {
+      "def1": "я массажист",
+      "ipa": "айм ə мəˈсʊр",
+      "spell": "I'm a masseur"
+    },
+    {
+      "def1": "мне жаль, но я не могу прийти",
+      "ipa": "айм ˈсɑри, бʌт ай кæнт кʌм",
+      "spell": "I'm sorry, but I can't come"
+    },
+    {
+      "def1": "в целом",
+      "ipa": "ɪн ˈджэнəрəл",
+      "spell": "in general"
+    },
+    {
+      "def1": "осенью",
+      "ipa": "ɪн ðə фɔл",
+      "spell": "in the fall"
+    },
+    {
+      "def1": "на картинке",
+      "ipa": "ɪн ðə ˈпɪкчəр",
+      "spell": "in the picture"
+    },
+    {
+      "def1": "в недрах земли",
+      "ipa": "ɪн ðə wум ʌв ðи ɜрθ",
+      "spell": "in the womb of the earth"
+    },
+    {
+      "def1": "косвенность - это вежливо",
+      "ipa": "ɪндəˈрэкт ɪз пəˈлайт",
+      "spell": "indirect is polite"
+    },
+    {
+      "def1": "является",
+      "ipa": "ɪз",
+      "spell": "is"
+    },
+    {
+      "def1": "холоднее",
+      "ipa": "ɪт ɪз ˈкоулдəр",
+      "spell": "it is colder"
+    },
+    {
+      "def1": "скоро пойдёт дождь",
+      "ipa": "ɪт ɪз ˈгоуɪŋ ту рэйн сун",
+      "spell": "it is going to rain soon"
+    },
+    {
+      "def1": "тепло",
+      "ipa": "ɪт ɪз wорм",
+      "spell": "it is warm"
+    },
+    {
+      "def1": "оно живёт на улице",
+      "ipa": "ɪт лɪвз ˈаутˈсайд",
+      "spell": "it lives outside"
+    },
+    {
+      "def1": "от этого я потею",
+      "ipa": "ɪт мэйкс ми сwэт",
+      "spell": "it makes me sweat"
+    },
+    {
+      "def1": "будет дождь",
+      "ipa": "ɪт wɪл рэйн",
+      "spell": "it will rain"
+    },
+    {
+      "def1": "начинается дождь (сейчас)",
+      "ipa": "ɪтс ˈстɑртɪŋ ту рэйн",
+      "spell": "it's starting to rain"
+    },
+    {
+      "def1": "оно является",
+      "ipa": "ɪтс",
+      "spell": "it’s"
+    },
+    {
+      "def1": "это сюрприз!",
+      "ipa": "ɪтс ə сəрˈпрайз!",
+      "spell": "it’s a surprise!"
+    },
+    {
+      "def1": "это не распространено",
+      "ipa": "ɪтс нɑт ˈкɑмəн",
+      "spell": "it’s not common"
+    },
+    {
+      "def1": "я бы хотел",
+      "ipa": "айд лайк",
+      "spell": "I’d like"
+    },
+    {
+      "def1": "я бы с удовольствием",
+      "ipa": "айд лʌв ту",
+      "spell": "I’d love to"
+    },
+    {
+      "def1": "я нахожусь",
+      "ipa": "айм",
+      "spell": "I’m"
+    },
+    {
+      "def1": "я происхожу",
+      "ipa": "айм",
+      "spell": "I’m"
+    },
+    {
+      "def1": "я являюсь",
+      "ipa": "айм",
+      "spell": "I’m"
+    },
+    {
+      "def1": "я являюсь подобным тому",
+      "ipa": "айм лайк ðæт",
+      "spell": "I’m like that"
+    },
+    {
+      "def1": "всего несколько дней",
+      "ipa": "джʌст ə фъю дэйз",
+      "spell": "just a few days"
+    },
+    {
+      "def1": "на прошлой неделе я работал несколько дней",
+      "ipa": "лæст wик ай wɜркт фор ə фъю дэйз",
+      "spell": "last week I worked for a few days"
+    },
+    {
+      "def1": "меньше воздуха",
+      "ipa": "лэс эр",
+      "spell": "less air"
+    },
+    {
+      "def1": "меньше крови",
+      "ipa": "лэс блʌд",
+      "spell": "less blood"
+    },
+    {
+      "def1": "меньше масла",
+      "ipa": "лэс ˈбʌтəр",
+      "spell": "less butter"
+    },
+    {
+      "def1": "меньше газа",
+      "ipa": "лэс гæс",
+      "spell": "less gas"
+    },
+    {
+      "def1": "меньше волос",
+      "ipa": "лэс hэр",
+      "spell": "less hair"
+    },
+    {
+      "def1": "меньше знаний",
+      "ipa": "лэс ˈнɑлəдж",
+      "spell": "less knowledge"
+    },
+    {
+      "def1": "меньше денег",
+      "ipa": "лэс ˈмʌни",
+      "spell": "less money"
+    },
+    {
+      "def1": "меньше кожи",
+      "ipa": "лэс скɪн",
+      "spell": "less skin"
+    },
+    {
+      "def1": "меньше воды",
+      "ipa": "лэс ˈwɔтəр",
+      "spell": "less water"
+    },
+    {
+      "def1": "давай попросим счёт",
+      "ipa": "лэтс æск фор ðə чэк",
+      "spell": "let's ask for the check"
+    },
+    {
+      "def1": "давай встретимся в половине четвёртого",
+      "ipa": "лэтс мит æт hæф пæст θри",
+      "spell": "let's meet at half past three"
+    },
+    {
+      "def1": "мало денег",
+      "ipa": "ˈлɪтəл ˈмʌни",
+      "spell": "little money"
+    },
+    {
+      "def1": "мало воды",
+      "ipa": "ˈлɪтəл ˈwɔтəр",
+      "spell": "little water"
+    },
+    {
+      "def1": "длинные рукава",
+      "ipa": "лɔŋ сливз",
+      "spell": "long sleeves"
+    },
+    {
+      "def1": "громко",
+      "ipa": "ˈлаудли",
+      "spell": "loudly"
+    },
+    {
+      "def1": "много печенек",
+      "ipa": "ˈмэни ˈкʊкиз",
+      "spell": "many cookies"
+    },
+    {
+      "def1": "много объектов",
+      "ipa": "ˈмэни ˈɑбджэктс",
+      "spell": "many objects"
+    },
+    {
+      "def1": "много ручек",
+      "ipa": "ˈмэни пэнз",
+      "spell": "many pens"
+    },
+    {
+      "def1": "много людей",
+      "ipa": "ˈмэни ˈпипəл",
+      "spell": "many people"
+    },
+    {
+      "def1": "может, увидимся на выходных?",
+      "ipa": "ˈмэйби си ю ɑн ðə ˈwиˌкэнд?",
+      "spell": "maybe see you on the weekend?"
+    },
+    {
+      "def1": "может, встретимся как-нибудь вечером?",
+      "ipa": "ˈмэйби wи кæн мит wʌн ˈивнɪŋ",
+      "spell": "maybe we can meet one evening"
+    },
+    {
+      "def1": "дороже, чем Бруклин",
+      "ipa": "мор ɪкˈспэнсɪв ðæн ˈбрʊклəн",
+      "spell": "more expensive than Brooklyn"
+    },
+    {
+      "def1": "много масла",
+      "ipa": "мʌч ˈбʌтəр",
+      "spell": "much butter"
+    },
+    {
+      "def1": "много сахара",
+      "ipa": "мʌч ˈщʊгəр",
+      "spell": "much sugar"
+    },
+    {
+      "def1": "много воды",
+      "ipa": "мʌч ˈwɔтəр",
+      "spell": "much water"
+    },
+    {
+      "def1": "негативный",
+      "ipa": "ˈнэгəтɪв",
+      "spell": "negative"
+    },
+    {
+      "def1": "хорошие брюки",
+      "ipa": "найс пæнтс",
+      "spell": "nice pants"
+    },
+    {
+      "def1": "хорошая обувь",
+      "ipa": "найс щуз",
+      "spell": "nice shoes"
+    },
+    {
+      "def1": "добры ко мне",
+      "ipa": "найс ту ми",
+      "spell": "nice to me"
+    },
+    {
+      "def1": "нет, извини, не могу",
+      "ipa": "ноу, ˈсɑри, ай кæнт",
+      "spell": "no, sorry, I can’t"
+    },
+    {
+      "def1": "шум",
+      "ipa": "нойз",
+      "spell": "noise"
+    },
+    {
+      "def1": "предложи мне кофе",
+      "ipa": "ˈɔфəр ми ə ˈкɑфи",
+      "spell": "offer me a coffee"
+    },
+    {
+      "def1": "да ладно (тебе)!",
+      "ipa": "оу, кʌм ɑн!",
+      "spell": "oh, come on!"
+    },
+    {
+      "def1": "ой, смотри, сколько времени",
+      "ipa": "оу, лʊк æт ðə тайм",
+      "spell": "oh, look at the time"
+    },
+    {
+      "def1": "по краям",
+      "ipa": "ɑн ðи ˈэджəз",
+      "spell": "on the edges"
+    },
+    {
+      "def1": "вечеринки шумные",
+      "ipa": "ˈпɑртиз ɑр ˈнойзи",
+      "spell": "parties are noisy"
+    },
+    {
+      "def1": "люди надевают больше одежды",
+      "ipa": "ˈпипəл пʊт ɑн мор клоуðз",
+      "spell": "people put on more clothes"
+    },
+    {
+      "def1": "позитивный",
+      "ipa": "ˈпɑзəтɪв",
+      "spell": "positive"
+    },
+    {
+      "def1": "читаемый",
+      "ipa": "ˈридəбəл",
+      "spell": "readable"
+    },
+    {
+      "def1": "шва (ə)",
+      "ipa": "шwɑ (ə)",
+      "spell": "schwa (ə)"
+    },
+    {
+      "def1": "увидимся в четверг",
+      "ipa": "си ю ɑн ˈθɜрзˌдэй",
+      "spell": "see you on Thursday"
+    },
+    {
+      "def1": "увидимся там",
+      "ipa": "си ю ðэр",
+      "spell": "see you there"
+    },
+    {
+      "def1": "она негативно к этому относится",
+      "ipa": "щи ɪз ˈнэгəтɪв əˈбаут ɪт",
+      "spell": "she is negative about it"
+    },
+    {
+      "def1": "она позитивно к этому относится",
+      "ipa": "щи ɪз ˈпɑзəтɪв əˈбаут ɪт",
+      "spell": "she is positive about it"
+    },
+    {
+      "def1": "разве они не должны это сделать?",
+      "ipa": "ˈщʊдəнт ðэй ду ɪт?",
+      "spell": "shouldn’t they do it?"
+    },
+    {
+      "def1": "единственное число",
+      "ipa": "ˈсɪŋгйəлəр",
+      "spell": "singular"
+    },
+    {
+      "def1": "тапочки",
+      "ipa": "ˈслɪпəрз",
+      "spell": "slippers"
+    },
+    {
+      "def1": "пижама",
+      "ipa": "сʌм пəˈджɑмəз",
+      "spell": "some pajamas"
+    },
+    {
+      "def1": "нижнее бельё",
+      "ipa": "сʌм ˈʌндəрˌwэр",
+      "spell": "some underware"
+    },
+    {
+      "def1": "что-нибудь поесть",
+      "ipa": "ˈсʌмθɪŋ ту ит",
+      "spell": "something to eat"
+    },
+    {
+      "def1": "извини, не могу",
+      "ipa": "ˈсɑри, ай кæнт",
+      "spell": "sorry, I can't"
+    },
+    {
+      "def1": "пот",
+      "ipa": "сwэт",
+      "spell": "sweat"
+    },
+    {
+      "def1": "спортивные штаны",
+      "ipa": "ˈсwэтˌпæнтс",
+      "spell": "sweatpants"
+    },
+    {
+      "def1": "позавчера",
+      "ipa": "ðə дэй бɪˈфор ˈйэстəрˌдэй",
+      "spell": "the day before yesterday"
+    },
+    {
+      "def1": "работа сделана",
+      "ipa": "ðə джɑб ɪз дʌн",
+      "spell": "the job is done"
+    },
+    {
+      "def1": "листья опадают",
+      "ipa": "ðə ливз фɔл",
+      "spell": "the leaves fall"
+    },
+    {
+      "def1": "погода в Нью-Йорке",
+      "ipa": "ðə ну йорк ˈwэðəр",
+      "spell": "the New York weather"
+    },
+    {
+      "def1": "множественное число",
+      "ipa": "ðə ˈплʊрəл",
+      "spell": "the plural"
+    },
+    {
+      "def1": "Объединенное королевство",
+      "ipa": "ðə юˈнайтɪд ˈкɪŋдəм (ю-кэй)",
+      "spell": "the united kingdom (UK)"
+    },
+    {
+      "def1": "меньше русскоговорящих",
+      "ipa": "ðэр ɑр ˈфъюəр ˈрʌшəн ˈспикəрз",
+      "spell": "there are fewer Russian speakers"
+    },
+    {
+      "def1": "те и эти",
+      "ipa": "ðоуз æнд ðиз",
+      "spell": "those and these"
+    },
+    {
+      "def1": "это джинсы",
+      "ipa": "ðиз ɑр джинз",
+      "spell": "these are jeans"
+    },
+    {
+      "def1": "это брюки",
+      "ipa": "ðиз ɑр пæнтс",
+      "spell": "these are pants"
+    },
+    {
+      "def1": "это обувь",
+      "ipa": "ðиз ɑр щуз",
+      "spell": "these are shoes"
+    },
+    {
+      "def1": "это носки",
+      "ipa": "ðиз ɑр сɑкс",
+      "spell": "these are socks"
+    },
+    {
+      "def1": "они шумные",
+      "ipa": "ðэй ɑр ˈнойзи",
+      "spell": "they are noisy"
+    },
+    {
+      "def1": "они играют очень плохо",
+      "ipa": "ðэй ɑр ˈплэйɪŋ ˈрɪли ˈбæдли",
+      "spell": "they are playing really badly"
+    },
+    {
+      "def1": "они стоят в кофейне",
+      "ipa": "ðэй ɑр ˈстæндɪŋ ɪн ə ˈкɑфи шɑп",
+      "spell": "they are standing in a coffee shop"
+    },
+    {
+      "def1": "они думают",
+      "ipa": "ðэй ɑр ˈθɪŋкɪŋ",
+      "spell": "they are thinking"
+    },
+    {
+      "def1": "они пекут хлеб",
+      "ipa": "ðэй бэйк брэд",
+      "spell": "they bake bread"
+    },
+    {
+      "def1": "они могут порвать это",
+      "ipa": "ðэй кæн тэр ɪт",
+      "spell": "they can tear it"
+    },
+    {
+      "def1": "они готовят индейку",
+      "ipa": "ðэй кʊк ˈтɜрки",
+      "spell": "they cook turkey"
+    },
+    {
+      "def1": "они едят тыкву",
+      "ipa": "ðэй ит ˈпʌмпкɪн",
+      "spell": "they eat pumpkin"
+    },
+    {
+      "def1": "у них везде тыквы",
+      "ipa": "ðэй hæв ˈпʌмпкəнз ˈэвриˌwэр",
+      "spell": "they have pumpkins everywhere"
+    },
+    {
+      "def1": "мыслимое",
+      "ipa": "ˈθɪŋкəбᵊл",
+      "spell": "thinkable"
+    },
+    {
+      "def1": "то и это",
+      "ipa": "ðæт æнд ðɪс",
+      "spell": "that and this"
+    },
+    {
+      "def1": "это пара брюк",
+      "ipa": "ðɪс ɪз ə пэр ʌв пæнтс",
+      "spell": "this is a pair of pants"
+    },
+    {
+      "def1": "это пара кроссовок",
+      "ipa": "ðɪс ɪз ə пэр ʌв ˈсникəрз",
+      "spell": "this is a pair of sneakers"
+    },
+    {
+      "def1": "являться, находиться",
+      "ipa": "ту би",
+      "spell": "to be"
+    },
+    {
+      "def1": "делать что-то (танцевать, приходить, садиться)",
+      "ipa": "ту ду ˈсʌмθɪŋ (ту дæнс, ту кʌм, ту сɪт даун)",
+      "spell": "to do something (to dance, to come, to sit down)"
+    },
+    {
+      "def1": "нанимать",
+      "ipa": "ту эмˈплой",
+      "spell": "to employ"
+    },
+    {
+      "def1": "нанимать",
+      "ipa": "ту ˈhайəр",
+      "spell": "to hire"
+    },
+    {
+      "def1": "завести друга",
+      "ipa": "ту мэйк ə фрэнд",
+      "spell": "to make a friend"
+    },
+    {
+      "def1": "подкрадываться к людям",
+      "ipa": "ту сник ʌп ɑн ˈпипəл",
+      "spell": "to sneak up on people"
+    },
+    {
+      "def1": "две женщины",
+      "ipa": "ту ˈwɪмəн",
+      "spell": "two women"
+    },
+    {
+      "def1": "неисчисляемый",
+      "ipa": "ʌнˈкаунтəбəл",
+      "spell": "uncountable"
+    },
+    {
+      "def1": "трусы",
+      "ipa": "ˈʌндəрˌпæнтс",
+      "spell": "underpants"
+    },
+    {
+      "def1": "обычно",
+      "ipa": "ˈюжəwəли",
+      "spell": "usually"
+    },
+    {
+      "def1": "мы меняем некоторые вещи",
+      "ipa": "wи ɑр ˈчэйнджɪŋ сʌм θɪŋз",
+      "spell": "we are changing some things"
+    },
+    {
+      "def1": "мы меняем некоторые вещи",
+      "ipa": "wи чэйндж сʌм θɪŋз",
+      "spell": "we change some things"
+    },
+    {
+      "def1": "мы вносим изменения",
+      "ipa": "wи мэйк ˈчэйнджəз",
+      "spell": "we make changes"
+    },
+    {
+      "def1": "на что ты меня приглашаешь?",
+      "ipa": "wɑт ду ю ɪнˈвайт ми ту?",
+      "spell": "what do you invite me to?"
+    },
+    {
+      "def1": "когда ты это сделал?",
+      "ipa": "wэн дɪд ю ду ɪт?",
+      "spell": "when did you do it?"
+    },
+    {
+      "def1": "кто тебя нанял?",
+      "ipa": "hу ˈhайəрд ю?",
+      "spell": "who hired you?"
+    },
+    {
+      "def1": "кто твой работодатель?",
+      "ipa": "hу ɪз йʊəр эмˈплойəр?",
+      "spell": "who is your employer?"
+    },
+    {
+      "def1": "зимы в Нью-Йорке обычно не холодные",
+      "ipa": "ˈwɪнтəрз ɑр нɑт ˈюжəwəли коулд ɪн ну йорк",
+      "spell": "winters are not usually cold in New York"
+    },
+    {
+      "def1": "с длинными рукавами",
+      "ipa": "wɪð лɔŋ сливз",
+      "spell": "with long sleeves"
+    },
+    {
+      "def1": "с логотипом Adidas",
+      "ipa": "wɪð ðи əˈдидəс ˈлоугоу",
+      "spell": "with the Adidas logo"
+    },
+    {
+      "def1": "бы",
+      "ipa": "wʊд",
+      "spell": "would"
+    },
+    {
+      "def1": "хочешь бургер?",
+      "ipa": "wʊд ю лайк ə ˈбɜргəр?",
+      "spell": "would you like a burger?"
+    },
+    {
+      "def1": "хочешь кофе?",
+      "ipa": "wʊд ю лайк ə ˈкɑфи?",
+      "spell": "would you like a coffee?"
+    },
+    {
+      "def1": "хочешь пойти со мной на матч?",
+      "ipa": "wʊд ю лайк ту кʌм ту ðə мæч wɪð ми?",
+      "spell": "would you like to come to the match with me?"
+    },
+    {
+      "def1": "не хочешь прийти?",
+      "ipa": "wʊд ю лайк ту кʌм?",
+      "spell": "would you like to come?"
+    },
+    {
+      "def1": "не хочешь потанцевать?",
+      "ipa": "wʊд ю лайк ту дæнс?",
+      "spell": "would you like to dance?"
+    },
+    {
+      "def1": "не хочешь встретиться на ланч?",
+      "ipa": "wʊд ю лайк ту мит фор лʌнч?",
+      "spell": "would you like to meet for lunch?"
+    },
+    {
+      "def1": "хочешь?",
+      "ipa": "wʊд ю лайк?",
+      "spell": "would you like?"
+    },
+    {
+      "def1": "да, с удовольствием",
+      "ipa": "йэс, айд лʌв ту",
+      "spell": "yes, I'd love to"
+    },
+    {
+      "def1": "да, я бы хотел один",
+      "ipa": "йэс, айд лайк wʌн",
+      "spell": "yes, I’d like one"
+    },
+    {
+      "def1": "да, я бы с удовольствием",
+      "ipa": "йэс, айд лʌв wʌн",
+      "spell": "yes, I’d love one"
+    },
+    {
+      "def1": "да, спасибо",
+      "ipa": "йэс, θæŋкс",
+      "spell": "yes, thanks"
+    },
+    {
+      "def1": "ты должен это сделать!",
+      "ipa": "ю мʌст ду ɪт!",
+      "spell": "you must do it!"
+    },
+    {
+      "def1": "ты прекрасно выглядишь",
+      "ipa": "йʊр ˈлʊкɪŋ грэйт",
+      "spell": "you're looking great"
+    },
+    {
+      "def1": "икс является игреком",
+      "ipa": "экс ɪз wай",
+      "spell": "Х is Y"
+    }
+  ]
+}
