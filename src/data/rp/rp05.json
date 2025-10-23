@@ -1,0 +1,564 @@
+{
+  "student": "Ruslan P.",
+  "slug": "rp",
+  "period": "week",
+  "number": 42,
+  "date": "2025-10-17",
+  "words": [
+    {
+      "def1": "сумка",
+      "ipa": "ə бæг",
+      "spell": "a bag"
+    },
+    {
+      "def1": "командировка",
+      "ipa": "ə ˈбɪзнəс трɪп",
+      "spell": "a business trip"
+    },
+    {
+      "def1": "заглавная буква",
+      "ipa": "ə ˈкæпəтəл ˈлэтəр",
+      "spell": "a capital letter"
+    },
+    {
+      "def1": "консьерж",
+      "ipa": "ə ˌкɑнсиˈэрж",
+      "spell": "a concierge"
+    },
+    {
+      "def1": "разговор",
+      "ipa": "ə ˌкɑнвəрˈсэйшəн",
+      "spell": "a conversation"
+    },
+    {
+      "def1": "буква",
+      "ipa": "ə ˈлэтəр",
+      "spell": "a letter"
+    },
+    {
+      "def1": "членская карта",
+      "ipa": "ə ˈмэмбəрˌщɪп кɑрд",
+      "spell": "a membership card"
+    },
+    {
+      "def1": "существительное во множественном числе",
+      "ipa": "ə ˈплʊрəл наун",
+      "spell": "a plural noun"
+    },
+    {
+      "def1": "притяжательное",
+      "ipa": "ə пəˈзэсɪв",
+      "spell": "a possessive"
+    },
+    {
+      "def1": "притяжательное прилагательное",
+      "ipa": "ə пəˈзэсɪв ˈæджɪктɪв",
+      "spell": "a possessive adjective"
+    },
+    {
+      "def1": "администратор гостиницы",
+      "ipa": "ə рɪˈсэпшəнɪст",
+      "spell": "a receptionist"
+    },
+    {
+      "def1": "существительное в единственном числе",
+      "ipa": "ə ˈсɪŋгйəлəр наун",
+      "spell": "a singular noun"
+    },
+    {
+      "def1": "чайная ложка",
+      "ipa": "ə ти спун",
+      "spell": "a tea spoon"
+    },
+    {
+      "def1": "поездка",
+      "ipa": "ə трɪп",
+      "spell": "a trip"
+    },
+    {
+      "def1": "прилагательное",
+      "ipa": "əн ˈæджɪктɪв",
+      "spell": "an adjective"
+    },
+    {
+      "def1": "заявление на визу",
+      "ipa": "əн ˌæплəˈкэйшəн фор ə ˈвизə",
+      "spell": "an application for a visa"
+    },
+    {
+      "def1": "помощник редактора",
+      "ipa": "əн əˈсɪстəнт ˈэдəтəр",
+      "spell": "an assistant editor"
+    },
+    {
+      "def1": "лифт",
+      "ipa": "əн ˈэлəˌвэйтəр",
+      "spell": "an elevator"
+    },
+    {
+      "def1": "ты этого боишься?",
+      "ipa": "ɑр ю əˈфрэйд ʌв ɪт?",
+      "spell": "are you afraid of it?"
+    },
+    {
+      "def1": "попроси меня об этом",
+      "ipa": "æск ми фор ɪт",
+      "spell": "ask me for it"
+    },
+    {
+      "def1": "можно ручку, пожалуйста?",
+      "ipa": "кæн ай hæв ə пэн, плиз?",
+      "spell": "can I have a pen, please?"
+    },
+    {
+      "def1": "можно мне это?",
+      "ipa": "кæн ай hæв ɪт?",
+      "spell": "can I have it?"
+    },
+    {
+      "def1": "можно мой ключ, пожалуйста?",
+      "ipa": "кæн ай hæв май ки, плиз?",
+      "spell": "can I have my key, please?"
+    },
+    {
+      "def1": "можно мой паспорт, пожалуйста?",
+      "ipa": "кæн ай hæв май ˈпæˌспорт плиз?",
+      "spell": "can I have my passport please?"
+    },
+    {
+      "def1": "можно вашу членскую карту, пожалуйста?",
+      "ipa": "кæн ай hæв йʊəр ˈмэмбəрˌщɪп кɑрд, плиз?",
+      "spell": "can I have your membership card, please?"
+    },
+    {
+      "def1": "можно ваш паспорт, пожалуйста?",
+      "ipa": "кæн ай hæв йʊəр ˈпæˌспорт, плиз?",
+      "spell": "can I have your passport, please?"
+    },
+    {
+      "def1": "можно посмотреть вашу членскую карту, пожалуйста?",
+      "ipa": "кæн ай си йʊəр ˈмэмбəрˌщɪп кɑрд, плиз?",
+      "spell": "can I see your membership card, please?"
+    },
+    {
+      "def1": "можно мне?",
+      "ipa": "кæн ай?",
+      "spell": "can I?"
+    },
+    {
+      "def1": "не могли бы вы дать мне мой паспорт, пожалуйста?",
+      "ipa": "кæн ю гɪв ми май ˈпæˌспорт, плиз?",
+      "spell": "can you give me my passport, please?"
+    },
+    {
+      "def1": "не могли бы вы показать вашу членскую карту, пожалуйста?",
+      "ipa": "кæн ю шоʊ ми йʊəр ˈмэмбəрˌщɪп кɑрд, плиз?",
+      "spell": "can you show me your membership card, please?"
+    },
+    {
+      "def1": "распишитесь здесь, пожалуйста",
+      "ipa": "кæн ю сайн hир, плиз",
+      "spell": "can you sign here, please"
+    },
+    {
+      "def1": "вы можете это произнести по буквам?",
+      "ipa": "кæн ю спэл ðæт?",
+      "spell": "can you spell that?"
+    },
+    {
+      "def1": "с заглавной буквы",
+      "ipa": "ˈкæпɪтəˌлайзд",
+      "spell": "capitalized"
+    },
+    {
+      "def1": "наличными или картой?",
+      "ipa": "кæш ор ˈкрэдəт?",
+      "spell": "cash or credit?"
+    },
+    {
+      "def1": "китайский чай",
+      "ipa": "чайˈниз ти",
+      "spell": "chinese tea"
+    },
+    {
+      "def1": "контактная информация",
+      "ipa": "ˈкɑнˌтæкт ˌɪнфəрˈмэйшəн",
+      "spell": "contact information"
+    },
+    {
+      "def1": "первый",
+      "ipa": "фɜрст",
+      "spell": "first"
+    },
+    {
+      "def1": "четвёртый",
+      "ipa": "форθ",
+      "spell": "fourth"
+    },
+    {
+      "def1": "доброе утро, мадам",
+      "ipa": "гʊд ˈморнɪŋ, ˈмæдəм",
+      "spell": "good morning, madam"
+    },
+    {
+      "def1": "доброе утро, сэр",
+      "ipa": "гʊд ˈморнɪŋ, сɜр",
+      "spell": "good morning, sir"
+    },
+    {
+      "def1": "он работает на ресепшене",
+      "ipa": "hи wɜркс æт рɪˈсэпшəн",
+      "spell": "he works at reception"
+    },
+    {
+      "def1": "её (ейное)",
+      "ipa": "hɜр",
+      "spell": "her"
+    },
+    {
+      "def1": "её полное имя",
+      "ipa": "hɜр фʊл нэйм",
+      "spell": "her full name"
+    },
+    {
+      "def1": "её имя",
+      "ipa": "hɜр нэйм",
+      "spell": "her name"
+    },
+    {
+      "def1": "её настоящее имя",
+      "ipa": "hɜр риəл нэйм",
+      "spell": "her real name"
+    },
+    {
+      "def1": "её сценическое имя",
+      "ipa": "hɜр стэйдж нэйм",
+      "spell": "her stage name"
+    },
+    {
+      "def1": "её вещи",
+      "ipa": "hɜр стʌф",
+      "spell": "her stuff"
+    },
+    {
+      "def1": "вот, пожалуйста",
+      "ipa": "hир ю ɑр",
+      "spell": "here you are"
+    },
+    {
+      "def1": "вот ваш ключ",
+      "ipa": "hɪрз йʊəр ки",
+      "spell": "here's your key"
+    },
+    {
+      "def1": "его (егоное*)",
+      "ipa": "hɪз",
+      "spell": "his"
+    },
+    {
+      "def1": "его имя",
+      "ipa": "hɪз нэйм",
+      "spell": "his name"
+    },
+    {
+      "def1": "его настоящее имя",
+      "ipa": "hɪз риəл нэйм",
+      "spell": "his real name"
+    },
+    {
+      "def1": "его сценическое имя",
+      "ipa": "hɪз стэйдж нэйм",
+      "spell": "his stage name"
+    },
+    {
+      "def1": "как вы платите?",
+      "ipa": "hау ду ю пэй?",
+      "spell": "how do you pay?"
+    },
+    {
+      "def1": "как это пишется?",
+      "ipa": "hау ду ю спэл ɪт?",
+      "spell": "how do you spell it?"
+    },
+    {
+      "def1": "сколько ложек",
+      "ipa": "hау ˈмэни спунз",
+      "spell": "how many spoons"
+    },
+    {
+      "def1": "я сова",
+      "ipa": "ай æм ə найт аул",
+      "spell": "I am a night owl"
+    },
+    {
+      "def1": "я боюсь высоты",
+      "ipa": "ай æм əˈфрэйд ʌв hайтс",
+      "spell": "I am afraid of heights"
+    },
+    {
+      "def1": "я жаворонок",
+      "ipa": "ай æм əн ˈɜрли бɜрд",
+      "spell": "I am an early bird"
+    },
+    {
+      "def1": "я в командировке",
+      "ipa": "ай æм ɑн ə ˈбɪзнəс трɪп",
+      "spell": "I am on a business trip"
+    },
+    {
+      "def1": "я заполняю заявление",
+      "ipa": "ай кəмˈплит əн ˌæплəˈкэйшəн",
+      "spell": "I complete an application"
+    },
+    {
+      "def1": "я полагаю",
+      "ipa": "ай гэс",
+      "spell": "I guess"
+    },
+    {
+      "def1": "я живу и работаю здесь",
+      "ipa": "ай лɪв æнд wɜрк hир",
+      "spell": "I live and work here"
+    },
+    {
+      "def1": "я подписываю",
+      "ipa": "ай сайн",
+      "spell": "I sign"
+    },
+    {
+      "def1": "я думаю, это не его настоящее имя",
+      "ipa": "ай θɪŋк ðɪс ɪз нɑт hɪз риəл нэйм",
+      "spell": "I think this is not his real name"
+    },
+    {
+      "def1": "я пишу о людях",
+      "ipa": "ай райт əˈбаут ˈпипəл",
+      "spell": "I write about people"
+    },
+    {
+      "def1": "у тебя выходной?",
+      "ipa": "ɪз ɪт йʊəр дэй ɔф?",
+      "spell": "is it your day off?"
+    },
+    {
+      "def1": "у меня выходной",
+      "ipa": "ɪт ɪз май дэй ɔф",
+      "spell": "it is my day off"
+    },
+    {
+      "def1": "оно начинается с заглавной буквы",
+      "ipa": "ɪт стɑртс wɪð ə ˈкæпəтəл ˈлэтəр",
+      "spell": "it starts with a capital letter"
+    },
+    {
+      "def1": "я здесь во второй раз",
+      "ipa": "ɪтс май ˈсэкəнд тайм hир",
+      "spell": "it's my second time here"
+    },
+    {
+      "def1": "это там",
+      "ipa": "ɪтс ˈоувəр ðэр",
+      "spell": "it's over there"
+    },
+    {
+      "def1": "это очень захватывающе",
+      "ipa": "ɪтс ˈвэри ɪкˈсайтɪŋ",
+      "spell": "it's very exciting"
+    },
+    {
+      "def1": "оно является, находится",
+      "ipa": "ɪтс",
+      "spell": "it's"
+    },
+    {
+      "def1": "его",
+      "ipa": "ɪтс",
+      "spell": "its"
+    },
+    {
+      "def1": "его такси (городские)",
+      "ipa": "ɪтс ˈтæксиз (ðə ˈсɪтиз)",
+      "spell": "its taxis (the city's)"
+    },
+    {
+      "def1": "моё",
+      "ipa": "май",
+      "spell": "my"
+    },
+    {
+      "def1": "мой адрес",
+      "ipa": "май ˈæˌдрэс",
+      "spell": "my address"
+    },
+    {
+      "def1": "мой начальник",
+      "ipa": "май бɑс",
+      "spell": "my boss"
+    },
+    {
+      "def1": "открой свою книгу",
+      "ipa": "ˈоупəн йʊəр бʊк",
+      "spell": "open your book"
+    },
+    {
+      "def1": "наше",
+      "ipa": "ˈауəр",
+      "spell": "our"
+    },
+    {
+      "def1": "наша фамилия",
+      "ipa": "ˈауəр лæст нэйм",
+      "spell": "our last name"
+    },
+    {
+      "def1": "нас зовут Майк и Миа",
+      "ipa": "ˈауəр нэймз ɑр майк æнд ˈмиə",
+      "spell": "our names are Mike and Mia"
+    },
+    {
+      "def1": "наш учитель",
+      "ipa": "ˈауəр ˈтичəр",
+      "spell": "our teacher"
+    },
+    {
+      "def1": "пожалуйста",
+      "ipa": "плиз",
+      "spell": "please"
+    },
+    {
+      "def1": "стойка регистрации",
+      "ipa": "рɪˈсэпшəн",
+      "spell": "reception"
+    },
+    {
+      "def1": "второй",
+      "ipa": "ˈсэкəнд",
+      "spell": "second"
+    },
+    {
+      "def1": "она британка",
+      "ipa": "щи ɪз ˈбрɪтɪш",
+      "spell": "she is British"
+    },
+    {
+      "def1": "её зовут Карла",
+      "ipa": "щиз ˈкɑрлə",
+      "spell": "she’s Carla"
+    },
+    {
+      "def1": "лифт",
+      "ipa": "ðи ˈэлəˌвэйтəр",
+      "spell": "the elevator"
+    },
+    {
+      "def1": "первый этаж",
+      "ipa": "ðə фɜрст флор",
+      "spell": "the first floor"
+    },
+    {
+      "def1": "их (ихнее)",
+      "ipa": "ðэр",
+      "spell": "their"
+    },
+    {
+      "def1": "их имена",
+      "ipa": "ðэр нэймз",
+      "spell": "their names"
+    },
+    {
+      "def1": "их зовут Джек и Джилл",
+      "ipa": "ðэр нэймз ɑр джæк æнд джɪл",
+      "spell": "their names are Jack and Jill"
+    },
+    {
+      "def1": "их учитель",
+      "ipa": "ðэр ˈтичəр",
+      "spell": "their teacher"
+    },
+    {
+      "def1": "они здесь",
+      "ipa": "ðэй ɑр hир",
+      "spell": "they are here"
+    },
+    {
+      "def1": "они знакомы друг с другом",
+      "ipa": "ðэй ноу ич ˈʌðəр",
+      "spell": "they know each other"
+    },
+    {
+      "def1": "их зовут Боб и Дебби",
+      "ipa": "ðэр бɑб æнд ˈдэби",
+      "spell": "they’re Bob and Debbie"
+    },
+    {
+      "def1": "третий",
+      "ipa": "θɜрд",
+      "spell": "third"
+    },
+    {
+      "def1": "это не твоё настоящее имя",
+      "ipa": "ðɪс ˈɪзəнт йʊəр риəл нэйм",
+      "spell": "this isn't your real name"
+    },
+    {
+      "def1": "на этой неделе",
+      "ipa": "ðɪс wик",
+      "spell": "this week"
+    },
+    {
+      "def1": "мы пишем их с заглавной буквы",
+      "ipa": "wи ˈкæпəтəˌлайз ðэм",
+      "spell": "we capitalize them"
+    },
+    {
+      "def1": "слабый кофе",
+      "ipa": "wик ˈкɑфи",
+      "spell": "weak coffee"
+    },
+    {
+      "def1": "мы Майк и Миа",
+      "ipa": "wир майк æнд ˈмиə",
+      "spell": "we’re Mike and Mia"
+    },
+    {
+      "def1": "как тебя зовут на самом деле?",
+      "ipa": "wʌтс йʊəр риəл нэйм?",
+      "spell": "what's your real name?"
+    },
+    {
+      "def1": "чей?",
+      "ipa": "hуз?",
+      "spell": "whose?"
+    },
+    {
+      "def1": "да, всё верно",
+      "ipa": "йэс, ðæтс райт",
+      "spell": "yes, that's right"
+    },
+    {
+      "def1": "твоё, ваше",
+      "ipa": "йʊəр",
+      "spell": "your"
+    },
+    {
+      "def1": "твой стол",
+      "ipa": "йʊəр дэск",
+      "spell": "your desk"
+    },
+    {
+      "def1": "твои друзья",
+      "ipa": "йʊəр фрэндз",
+      "spell": "your friends"
+    },
+    {
+      "def1": "твоё имя",
+      "ipa": "йʊəр нэйм",
+      "spell": "your name"
+    },
+    {
+      "def1": "твоё настоящее имя",
+      "ipa": "йʊəр риəл нэйм",
+      "spell": "your real name"
+    }
+  ]
+}
