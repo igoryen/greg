@@ -226,6 +226,12 @@
   ],
   "dc": [
     {
+      "number": 42,
+      "fileNumber": 5,
+      "date": "2025-10-16",
+      "period": "week"
+    },
+    {
       "number": 40,
       "fileNumber": 4,
       "date": "2025-10-02",
