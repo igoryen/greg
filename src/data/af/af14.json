@@ -1,0 +1,299 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "period": "week",
+  "number": 42,
+  "date": "2025-10-13",
+  "words": [
+    {
+      "def1": "нутрия, кои́пу",
+      "ipa": "ˈнутриə, ə ˈкойпу",
+      "spell": "a nutria, a coypu"
+    },
+    {
+      "def1": "лиса",
+      "ipa": "ə фɑкс",
+      "spell": "a fox"
+    },
+    {
+      "def1": "коза",
+      "ipa": "ə гоут",
+      "spell": "a goat"
+    },
+    {
+      "def1": "ондатра",
+      "ipa": "ə ˈмʌˌскрæт",
+      "spell": "a muskrat"
+    },
+    {
+      "def1": "контактный зоопарк",
+      "ipa": "ə ˈпэтɪŋ зу",
+      "spell": "a petting zoo"
+    },
+    {
+      "def1": "поросёнок",
+      "ipa": "ə ˈпɪглɪт",
+      "spell": "a piglet"
+    },
+    {
+      "def1": "частный зоопарк",
+      "ipa": "ə ˈпрайвəт зу",
+      "spell": "a private zoo"
+    },
+    {
+      "def1": "быстрый кофе",
+      "ipa": "ə кwɪк ˈкɑфи",
+      "spell": "a quick coffee"
+    },
+    {
+      "def1": "спортивный центр",
+      "ipa": "ə спортс ˈсэнтəр",
+      "spell": "a sports center"
+    },
+    {
+      "def1": "бывший парень",
+      "ipa": "əн ˌэксˈбойˌфрэнд",
+      "spell": "an ex-boyfriend"
+    },
+    {
+      "def1": "в спортивном центре",
+      "ipa": "æт ðə спортс ˈсэнтəр",
+      "spell": "at the sports center"
+    },
+    {
+      "def1": "всего наилучшего",
+      "ipa": "бэст ˈwɪщɪз",
+      "spell": "best wishes"
+    },
+    {
+      "def1": "как насчёт кофе?",
+      "ipa": "hау əˈбаут ə ˈкɑфи?",
+      "spell": "how about a coffee?"
+    },
+    {
+      "def1": "я принимаю",
+      "ipa": "ай æкˈсэпт",
+      "spell": "I accept"
+    },
+    {
+      "def1": "я отказываюсь",
+      "ipa": "ай дɪˈклайн",
+      "spell": "I decline"
+    },
+    {
+      "def1": "я не думаю, что это хорошая идея",
+      "ipa": "ай доунт θɪŋк ɪтс ə гʊд айˈдиə",
+      "spell": "I don't think it's a good idea"
+    },
+    {
+      "def1": "я обмениваюсь с тобой emails",
+      "ipa": "ай ɪксˈчэйндж иˈмэйлз wɪð ю",
+      "spell": "I exchange emails with you"
+    },
+    {
+      "def1": "я хожу на уроки плавания",
+      "ipa": "ай гоу ту сwɪм ˈлэсəнз",
+      "spell": "I go to swim lessons"
+    },
+    {
+      "def1": "я приглашаю тебя на выставку",
+      "ipa": "ай ɪнˈвайт ю ту əн ˌэксəˈбɪшəн",
+      "spell": "I invite you to an exhibition"
+    },
+    {
+      "def1": "я приглашаю тебя выпить кофе",
+      "ipa": "ай ɪнˈвайт ю ту hæв ə ˈкɑфи",
+      "spell": "I invite you to have a coffee"
+    },
+    {
+      "def1": "я приглашаю тебя поужинать",
+      "ipa": "ай ɪнˈвайт ю ту hæв ˈдɪнəр",
+      "spell": "I invite you to have dinner"
+    },
+    {
+      "def1": "я катаюсь на лошади",
+      "ipa": "ай райд ə hорс",
+      "spell": "I ride a horse"
+    },
+    {
+      "def1": "я катаюсь на пони",
+      "ipa": "ай райд ə ˈпоуˌни",
+      "spell": "I ride a pony"
+    },
+    {
+      "def1": "я видела много животных",
+      "ipa": "ай сɔ ə лɑт ʌв ˈæнəмəлз",
+      "spell": "I saw a lot of animals"
+    },
+    {
+      "def1": "я пишу имейл, чтобы пригласить тебя",
+      "ipa": "ай райт əн иˈмэйл ту ɪнˈвайт ю",
+      "spell": "I write an email to invite you"
+    },
+    {
+      "def1": "я хотел бы тебя кое о чём спросить",
+      "ipa": "айд лайк ту æск ю ˈсʌмθɪŋ",
+      "spell": "I'd like to ask you something"
+    },
+    {
+      "def1": "с удовольствием приду",
+      "ipa": "айд лʌв ту кʌм",
+      "spell": "I'd love to come"
+    },
+    {
+      "def1": "с удовольствием",
+      "ipa": "айд лʌв ту",
+      "spell": "I'd love to"
+    },
+    {
+      "def1": "мне жаль, но я не могу прийти",
+      "ipa": "айм ˈсɑри, бʌт ай кæнт кʌм",
+      "spell": "I'm sorry, but I can't come"
+    },
+    {
+      "def1": "в закусочной",
+      "ipa": "ɪн ðə снæк бɑр",
+      "spell": "in the snack bar"
+    },
+    {
+      "def1": "это для меня неподходящее время",
+      "ipa": "ɪт ˈɪзəнт ə гʊд тайм фор ми",
+      "spell": "it isn't a good time for me"
+    },
+    {
+      "def1": "начинается дождь (сейчас)",
+      "ipa": "ɪтс ˈстɑртɪŋ ту рэйн",
+      "spell": "it's starting to rain"
+    },
+    {
+      "def1": "давай попросим счёт",
+      "ipa": "лэтс æск фор ðə чэк",
+      "spell": "let's ask for the check"
+    },
+    {
+      "def1": "давай встретимся в половине четвёртого",
+      "ipa": "лэтс мит æт hæф пæст θри",
+      "spell": "let's meet at half past three"
+    },
+    {
+      "def1": "может, увидимся на выходных?",
+      "ipa": "ˈмэйби си ю ɑн ðə ˈwиˌкэнд?",
+      "spell": "maybe see you on the weekend?"
+    },
+    {
+      "def1": "может, встретимся как-нибудь вечером?",
+      "ipa": "ˈмэйби wи кæн мит wʌн ˈивнɪŋ",
+      "spell": "maybe we can meet one evening"
+    },
+    {
+      "def1": "да ладно!",
+      "ipa": "оу, кʌм ɑн!",
+      "spell": "oh, come on!"
+    },
+    {
+      "def1": "ой, смотри, сколько времени",
+      "ipa": "оу, лʊк æт ðə тайм",
+      "spell": "oh, look at the time"
+    },
+    {
+      "def1": "увидимся в четверг",
+      "ipa": "си ю ɑн ˈθɜрзˌдэй",
+      "spell": "see you on Thursday"
+    },
+    {
+      "def1": "увидимся там",
+      "ipa": "си ю ðэр",
+      "spell": "see you there"
+    },
+    {
+      "def1": "она их ещё не видела",
+      "ipa": "щи ˈдɪдəнт си ðэм йэт",
+      "spell": "she didn’t see them yet"
+    },
+    {
+      "def1": "принимать",
+      "ipa": "ту æкˈсэпт",
+      "spell": "to accept"
+    },
+    {
+      "def1": "отклонять, отказываться",
+      "ipa": "ту дɪˈклайн",
+      "spell": "to decline"
+    },
+    {
+      "def1": "она принимает, соглашается (сейчас)",
+      "ipa": "щи ɪз æкˈсэптɪŋ",
+      "spell": "she is accepting"
+    },
+    {
+      "def1": "она отклоняет, отказывается (сейчас)",
+      "ipa": "щи ɪз дɪˈклайнɪŋ",
+      "spell": "she is declining"
+    },
+    {
+      "def1": "вход в кинотеатр",
+      "ipa": "ðи ˈэнтрəнс ту ðə ˈмуви ˈθиəтəр",
+      "spell": "the entrance to the movie theater"
+    },
+    {
+      "def1": "на что ты меня приглашаешь?",
+      "ipa": "wɑт ду ю ɪнˈвайт ми ту?",
+      "spell": "what do you invite me to?"
+    },
+    {
+      "def1": "во сколько оно начинается?",
+      "ipa": "wɑт тайм дʌз ɪт стɑрт?",
+      "spell": "what time does it start?"
+    },
+    {
+      "def1": "во сколько игра?",
+      "ipa": "wɑт таймз ðə гэйм?",
+      "spell": "what time's the game?"
+    },
+    {
+      "def1": "в какое время?",
+      "ipa": "wɑт тайм?",
+      "spell": "what time?"
+    },
+    {
+      "def1": "бы",
+      "ipa": "wʊд",
+      "spell": "would"
+    },
+    {
+      "def1": "хочешь бургер?",
+      "ipa": "wʊд ю лайк ə ˈбɜргəр?",
+      "spell": "would you like a burger?"
+    },
+    {
+      "def1": "хочешь кофе?",
+      "ipa": "wʊд ю лайк ə ˈкɑфи?",
+      "spell": "would you like a coffee?"
+    },
+    {
+      "def1": "хочешь выпить?",
+      "ipa": "wʊд ю лайк ə дрɪŋк?",
+      "spell": "would you like a drink?"
+    },
+    {
+      "def1": "хочешь что-нибудь поесть?",
+      "ipa": "wʊд ю лайк ˈсʌмθɪŋ ту ит?",
+      "spell": "would you like something to eat?"
+    },
+    {
+      "def1": "да, с удовольствием",
+      "ipa": "йэс, айд лʌв ту",
+      "spell": "yes, I'd love to"
+    },
+    {
+      "def1": "можно",
+      "ipa": "ю кæн",
+      "spell": "you can"
+    },
+    {
+      "def1": "ты прекрасно выглядишь",
+      "ipa": "йʊр ˈлʊкɪŋ грэйт",
+      "spell": "you're looking great"
+    }
+  ]
+}
