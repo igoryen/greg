@@ -23,6 +23,11 @@ const Tadni = (prop) => {
             "active": false
         },
         {
+            "slug": "ax",
+            "name": "Andrew S.",
+            "active": true
+        },
+        {
             "slug": "dc",
             "name": "Dima C.",
             "active": true
@@ -115,7 +120,7 @@ const Tadni = (prop) => {
         {
             "slug": "ot",
             "name": "Olena T.",
-            "active": true
+            "active": false
         },
         {
             "slug": "rp",
@@ -173,7 +178,7 @@ const Tadni = (prop) => {
                 <ol>
                     {activePeople.map((person) => (
                         <li key={person.slug}>
-                            <Link to={`/student/${person.slug}`}>
+                            <Link to={`/student/${person.slug}`} target="_blank" rel="noopener noreferrer">
                                 <pre>{person.slug}</pre> <i>({person.name})</i>
                             </Link>
                         </li>
@@ -187,7 +192,7 @@ const Tadni = (prop) => {
                 <ol>
                     {inactivePeople.map((person) => (
                         <li key={person.slug}>
-                            <Link to={`/student/${person.slug}`}>
+                            <Link to={`/student/${person.slug}`} target="_blank" rel="noopener noreferrer">
                                 <pre>{person.slug}</pre> <i>({person.name})</i>
                             </Link>
                         </li>
