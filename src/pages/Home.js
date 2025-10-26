@@ -1,5 +1,5 @@
 import "../styles/Home/homeMain.scss";
-
+import TestimonialCarousel from "../components/TestimonialCarousel";
 
 
 
@@ -22,6 +22,10 @@ const HomePage = () => {
                                 <div className="line2">For all levels – Life, Work & Everything Between</div>
                             </div>
                         </div>
+
+                        <section className="testimonials-section">
+                            <TestimonialCarousel />
+                        </section>
 
                         <div className="mike">
                             <div>📞 🇨🇦: <a href="tel:+16477036200" className=""> (647) 703-6200</a></div>
