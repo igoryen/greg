@@ -145,7 +145,8 @@
 
             .aaa {
                 // border: 1px solid red;
-                max-width: 30em;
+                // max-width: 30em;
+                width: 100%;
 
                 h1,
                 h2,
@@ -162,6 +163,8 @@
         }
 
         .kim {
+            width: 100%;
+
             &>h1 {
                 i {
                     font-style: normal;
@@ -188,7 +191,7 @@
             display: grid;
             place-items: center;
             /* Centers both vertically and horizontally */
-            height: 30vh;
+            // height: 30vh;
             /* Example: full viewport height */
 
 
