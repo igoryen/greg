@@ -45,7 +45,7 @@
     .carousel-slides {
         flex: 1;
         // position: relative;
-        // height: 60em;
+        height: 30em;
         // height: fit-content;
     }
 
@@ -94,7 +94,7 @@
     }
 
     .testimonial-text {
-        flex: 1;
+        // flex: 1;
     }
 
     .rating {
@@ -104,7 +104,7 @@
     }
 
     blockquote {
-        font-size: 1.1rem;
+        font-size: 1em;
         line-height: 1.6;
         color: #555;
         margin: 0 0 1.5rem 0;
@@ -185,43 +185,46 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .testimonial-carousel {
+    #testimonial-carousel {
         padding: 1rem;
-    }
 
-    .testimonial-content {
-        flex-direction: column;
-        text-align: center;
-        padding: 1.5rem;
-        gap: 1rem;
-    }
 
-    .student-image {
-        // width: 100px;
-        // height: 100px;
-    }
+        .testimonial-content {
+            flex-direction: column;
+            text-align: center;
+            padding: 1.5rem;
+            gap: 1rem;
+        }
 
-    .carousel-slides {
-        height: 400px;
-    }
+        .student-image {
+            // width: 100px;
+            // height: 100px;
+        }
 
-    .carousel-btn {
-        width: 40px;
-        height: 40px;
-        margin: 0 0.5rem;
+        .carousel-slides {
+            height: 400px;
+        }
+
+        .carousel-btn {
+            width: 40px;
+            height: 40px;
+            margin: 0 0.5rem;
+        }
     }
 }
 
 @media (max-width: 480px) {
-    .carousel-slides {
-        height: 450px;
-    }
+    #testimonial-carousel {
+        .carousel-slides {
+            height: 450px;
+        }
 
-    blockquote {
-        font-size: 1rem;
-    }
+        blockquote {
+            font-size: 1em;
+        }
 
-    .testimonial-content {
-        padding: 1rem;
+        .testimonial-content {
+            padding: 1rem;
+        }
     }
 }
