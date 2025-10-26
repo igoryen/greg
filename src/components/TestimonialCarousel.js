@@ -96,15 +96,7 @@ const TestimonialCarousel = () => {
                             className={`slide ${index === currentSlide ? 'active' : ''}`}
                         >
                             <div className="testimonial-content">
-                                <div className="student-image">
-                                    <img
-                                        src={testimonial.image}
-                                        alt={testimonial.name}
-                                        onError={(e) => {
-                                            e.target.src = 'https://via.placeholder.com/150/cccccc/666666?text=Student+Photo';
-                                        }}
-                                    />
-                                </div>
+
                                 <div className="testimonial-text">
                                     <div className="rating">
                                         {'★'.repeat(testimonial.rating)}
@@ -114,6 +106,15 @@ const TestimonialCarousel = () => {
                                         <strong>{testimonial.name}</strong>
                                         <span>{testimonial.course}</span>
                                     </div>
+                                </div>
+                                <div className="student-image">
+                                    <img
+                                        src={testimonial.image}
+                                        alt={testimonial.name}
+                                        onError={(e) => {
+                                            e.target.src = 'https://via.placeholder.com/150/cccccc/666666?text=Student+Photo';
+                                        }}
+                                    />
                                 </div>
                             </div>
                         </div>
