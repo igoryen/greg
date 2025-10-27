@@ -1,0 +1,1064 @@
+{
+  "student": "Alyona B.",
+  "slug": "ab",
+  "period": "week",
+  "number": 42,
+  "date": "2025-10-19",
+  "words": [
+    {
+      "def1": "начальник",
+      "ipa": "ə бɑс",
+      "spell": "a boss"
+    },
+    {
+      "def1": "театральная касса",
+      "ipa": "ə бɑкс ˈɔфəс",
+      "spell": "a box office"
+    },
+    {
+      "def1": "разбитое сердце",
+      "ipa": "ə ˈброукəн hɑрт",
+      "spell": "a broken heart"
+    },
+    {
+      "def1": "уборщик",
+      "ipa": "ə ˈклинəр",
+      "spell": "a cleaner"
+    },
+    {
+      "def1": "распространённый предмет одежды",
+      "ipa": "ə ˈкɑмəн ˈайтəм ʌв ˈклоуðɪŋ",
+      "spell": "a common item of clothing"
+    },
+    {
+      "def1": "разнорабочий, мастер на все руки",
+      "ipa": "ə ˈhæндиˌмæн",
+      "spell": "a handyman"
+    },
+    {
+      "def1": "изголовье кровати",
+      "ipa": "ə ˈhэдˌборд",
+      "spell": "a headboard"
+    },
+    {
+      "def1": "бытовая техника",
+      "ipa": "ə hоум əˈплайəнс",
+      "spell": "a home appliance"
+    },
+    {
+      "def1": "сеть отелей",
+      "ipa": "ə hоуˈтэл чэйн",
+      "spell": "a hotel chain"
+    },
+    {
+      "def1": "много пробок",
+      "ipa": "ə лɑт ʌв ˈтрæфɪк",
+      "spell": "a lot of traffic"
+    },
+    {
+      "def1": "разовая акция",
+      "ipa": "ə ˈwʌнˈтайм прəˈмоушəн",
+      "spell": "a one-time promotion"
+    },
+    {
+      "def1": "администратор гостиницы",
+      "ipa": "ə рɪˈсэпшəнɪст",
+      "spell": "a receptionist"
+    },
+    {
+      "def1": "общительный человек",
+      "ipa": "ə ˈсоушəл ˈпɜрсəн",
+      "spell": "a social person"
+    },
+    {
+      "def1": "краткое изложение",
+      "ipa": "ə ˈсʌмəри",
+      "spell": "a summary"
+    },
+    {
+      "def1": "белая куртка",
+      "ipa": "ə wайт ˈджæкəт",
+      "spell": "a white jacket"
+    },
+    {
+      "def1": "в офис пришла женщина",
+      "ipa": "ə ˈwʊмəн кэйм ту ˈауəр ˈɔфəс",
+      "spell": "a woman came to our office"
+    },
+    {
+      "def1": "рабочий",
+      "ipa": "ə ˈwɜркəр",
+      "spell": "a worker"
+    },
+    {
+      "def1": "почти каждый день",
+      "ipa": "ˈɔлˌмоуст ˈэвəри дэй",
+      "spell": "almost every day"
+    },
+    {
+      "def1": "дебил, имбецил",
+      "ipa": "əн ˈɪмбəсəл",
+      "spell": "an imbecile"
+    },
+    {
+      "def1": "проверка",
+      "ipa": "əн ɪнˈспэкшəн",
+      "spell": "an inspection"
+    },
+    {
+      "def1": "предмет одежды",
+      "ipa": "əн ˈайтəм ʌв ˈклоуðɪŋ",
+      "spell": "an item of clothing"
+    },
+    {
+      "def1": "заказ",
+      "ipa": "əн ˈордəр",
+      "spell": "an order"
+    },
+    {
+      "def1": "неприятная женщина",
+      "ipa": "əн əнˈплэзəнт ˈwʊмəн",
+      "spell": "an unpleasant woman"
+    },
+    {
+      "def1": "ещё один десятый (автобус)",
+      "ipa": "əˈнʌðəр тэн",
+      "spell": "another ten"
+    },
+    {
+      "def1": "ты уверен?",
+      "ipa": "ɑр ю щʊр?",
+      "spell": "are you sure?"
+    },
+    {
+      "def1": "на автобусной остановке",
+      "ipa": "æт ə бʌс стɑп",
+      "spell": "at a bus stop"
+    },
+    {
+      "def1": "под дулом пистолета",
+      "ipa": "æт ˈгʌнˌпойнт",
+      "spell": "at gunpoint"
+    },
+    {
+      "def1": "назад",
+      "ipa": "ˈбæкwəрд",
+      "spell": "backward"
+    },
+    {
+      "def1": "потому что",
+      "ipa": "бɪˈкɔз",
+      "spell": "because"
+    },
+    {
+      "def1": "сломанный",
+      "ipa": "ˈброукəн",
+      "spell": "broken"
+    },
+    {
+      "def1": "сломанные вещи",
+      "ipa": "ˈброукəн θɪŋз",
+      "spell": "broken things"
+    },
+    {
+      "def1": "покупающий; покупание",
+      "ipa": "ˈбайɪŋ",
+      "spell": "buying"
+    },
+    {
+      "def1": "убирать комнаты сложно",
+      "ipa": "ˈклинɪŋ румз ɪз ˈдɪфəкəлт",
+      "spell": "cleaning rooms is difficult"
+    },
+    {
+      "def1": "готовящий; приготовление (пищи)",
+      "ipa": "ˈкʊкɪŋ",
+      "spell": "cooking"
+    },
+    {
+      "def1": "плачущий; стенание, плакание",
+      "ipa": "ˈкрайɪŋ",
+      "spell": "crying"
+    },
+    {
+      "def1": "делающий; делание",
+      "ipa": "ˈдуɪŋ",
+      "spell": "doing"
+    },
+    {
+      "def1": "вниз",
+      "ipa": "ˈдаунwəрд",
+      "spell": "downward"
+    },
+    {
+      "def1": "ведущий; вождение",
+      "ipa": "ˈдрайвɪŋ",
+      "spell": "driving"
+    },
+    {
+      "def1": "восемьдесят часов в неделю",
+      "ipa": "ˈэйти ˈауəрз ə wик",
+      "spell": "eighty hours a week"
+    },
+    {
+      "def1": "заканчивающий; окончание, заканчивание",
+      "ipa": "ˈфɪнɪщɪŋ",
+      "spell": "finishing"
+    },
+    {
+      "def1": "летающий; летание",
+      "ipa": "ˈфлайɪŋ",
+      "spell": "flying"
+    },
+    {
+      "def1": "ходящий; хождение",
+      "ipa": "ˈгоуɪŋ",
+      "spell": "going"
+    },
+    {
+      "def1": "собираюсь",
+      "ipa": "ˈгɑнə",
+      "spell": "gonna"
+    },
+    {
+      "def1": "полчаса",
+      "ipa": "hæф əн ˈауəр",
+      "spell": "half an hour"
+    },
+    {
+      "def1": "тяжёлый, трудный",
+      "ipa": "hɑрд",
+      "spell": "hard"
+    },
+    {
+      "def1": "хорошего дня",
+      "ipa": "hæв ə гʊд дэй",
+      "spell": "have a good day"
+    },
+    {
+      "def1": "имеющий; имение, владение",
+      "ipa": "ˈhæвɪŋ",
+      "spell": "having"
+    },
+    {
+      "def1": "он недоволен этим",
+      "ipa": "hи ɪз нɑт ˈhæпи əˈбаут ðɪс",
+      "spell": "he is not happy about this"
+    },
+    {
+      "def1": "он в командировке",
+      "ipa": "hи ɪз ɑн ə ˈбɪзнəс трɪп",
+      "spell": "he is on a business trip"
+    },
+    {
+      "def1": "он обычно носит костюм",
+      "ipa": "hи ˈюжəwəли wэрз ə сут",
+      "spell": "he usually wears a suit"
+    },
+    {
+      "def1": "он хочет знать",
+      "ipa": "hи wɑнтс ту ноу",
+      "spell": "he wants to know"
+    },
+    {
+      "def1": "он работает",
+      "ipa": "hи wɜркс",
+      "spell": "he works"
+    },
+    {
+      "def1": "он работает на второй работе",
+      "ipa": "hи wɜркс ə ˈсэкəнд джɑб",
+      "spell": "he works a second job"
+    },
+    {
+      "def1": "на нём куртка",
+      "ipa": "hиз ˈwэрɪŋ ə ˈджæкəт",
+      "spell": "he's wearing a jacket"
+    },
+    {
+      "def1": "прошу, вот пожалуйста",
+      "ipa": "hир ю ɑр",
+      "spell": "here you are"
+    },
+    {
+      "def1": "вот, держи",
+      "ipa": "hир ю гоу",
+      "spell": "here you go"
+    },
+    {
+      "def1": "вот!",
+      "ipa": "hир!",
+      "spell": "here!"
+    },
+    {
+      "def1": "домой",
+      "ipa": "hоум, ˈhоумwəрд",
+      "spell": "home, homeward"
+    },
+    {
+      "def1": "мёд; дорогая",
+      "ipa": "ˈhʌни",
+      "spell": "honey"
+    },
+    {
+      "def1": "мне скучно",
+      "ipa": "ай æм борд",
+      "spell": "I am bored"
+    },
+    {
+      "def1": "я скучный",
+      "ipa": "ай æм ˈборɪŋ",
+      "spell": "I am boring"
+    },
+    {
+      "def1": "я прохожу там стажировку",
+      "ipa": "ай æм ˈдуɪŋ əн ˈɪнтəрнˌщɪп ðэр",
+      "spell": "I am doing an internship there"
+    },
+    {
+      "def1": "я одна дома впервые за два года",
+      "ipa": "ай æм hоум əˈлоун фор ðə фɜрст тайм ɪн ту йɪрз",
+      "spell": "I am home alone for the first time in two years"
+    },
+    {
+      "def1": "я спешу",
+      "ipa": "ай æм ɪн ə ˈhɜри",
+      "spell": "I am in a hurry"
+    },
+    {
+      "def1": "я морально устала",
+      "ipa": "ай æм ˈмэнтəли ˈтайəрд",
+      "spell": "I am mentally tired"
+    },
+    {
+      "def1": "я горжусь собой",
+      "ipa": "ай æм прауд ʌв ˌмайˈсэлф",
+      "spell": "I am proud of myself"
+    },
+    {
+      "def1": "я очень счастлива",
+      "ipa": "ай æм ˈвэри ˈhæпи",
+      "spell": "I am very happy"
+    },
+    {
+      "def1": "я не права",
+      "ipa": "ай æм рɔŋ",
+      "spell": "I am wrong"
+    },
+    {
+      "def1": "я бронирую билеты",
+      "ipa": "ай бʊк ˈтɪкəтс",
+      "spell": "I book tickets"
+    },
+    {
+      "def1": "я трачу свою энергию в спортзале",
+      "ipa": "ай бɜрн май ˈэнəрджи ɪн ðə джɪм",
+      "spell": "I burn my energy in the gym"
+    },
+    {
+      "def1": "я опоздала",
+      "ipa": "ай кэйм лэйт",
+      "spell": "I came late"
+    },
+    {
+      "def1": "я могу покупать вещи, которые мне нравятся",
+      "ipa": "ай кæн бай θɪŋз ай лайк",
+      "spell": "I can buy things I like"
+    },
+    {
+      "def1": "я могу заключить",
+      "ipa": "ай кæн кəнˈклуд",
+      "spell": "I can conclude"
+    },
+    {
+      "def1": "я не могу это найти!",
+      "ipa": "ай кæнт файнд ɪт!",
+      "spell": "I can’t find it!"
+    },
+    {
+      "def1": "я проверяю их",
+      "ipa": "ай чэк ɑн ðэм",
+      "spell": "I check on them"
+    },
+    {
+      "def1": "я не могла покупать вещи, которые мне нравились",
+      "ipa": "ай кʊд нɑт бай θɪŋз ай лайкт",
+      "spell": "I could not buy things I liked"
+    },
+    {
+      "def1": "я не ем",
+      "ipa": "ай доунт ит",
+      "spell": "I don’t eat"
+    },
+    {
+      "def1": "я нашла",
+      "ipa": "ай фаунд",
+      "spell": "I found"
+    },
+    {
+      "def1": "вчера у меня весь день болела голова",
+      "ipa": "ай hæд ə ˈhэˌдэйк ɔл дэй ˈйэстəрˌдэй",
+      "spell": "I had a headache all day yesterday"
+    },
+    {
+      "def1": "у меня болит голова",
+      "ipa": "ай hæв ə ˈhэˌдэйк",
+      "spell": "I have a headache"
+    },
+    {
+      "def1": "у меня есть сомнения",
+      "ipa": "ай hæв даутс",
+      "spell": "I have doubts"
+    },
+    {
+      "def1": "мне нужно на работу",
+      "ipa": "ай hæв ту гоу ту wɜрк",
+      "spell": "I have to go to work"
+    },
+    {
+      "def1": "мне нравится что-то делать",
+      "ipa": "ай лайк ˈдуɪŋ ˈсʌмθɪŋ",
+      "spell": "I like doing something"
+    },
+    {
+      "def1": "я сбросила сорок килограммов",
+      "ipa": "ай лɔст ˈфорти ˈкиˌлоуз",
+      "spell": "I lost forty kilos"
+    },
+    {
+      "def1": "мне нужно в спортзал",
+      "ipa": "ай нид ту гоу ту ðə джɪм",
+      "spell": "I need to go to the gym"
+    },
+    {
+      "def1": "я только пью",
+      "ipa": "ай ˈоунли дрɪŋк",
+      "spell": "I only drink"
+    },
+    {
+      "def1": "я понимаю, что ты говоришь",
+      "ipa": "ай ˌʌндəрˈстæнд wɑт ю сэй",
+      "spell": "I understand what you say"
+    },
+    {
+      "def1": "я хочу чтобы было холодно",
+      "ipa": "ай wɑнт ɪт ту би коулд",
+      "spell": "I want it to be cold"
+    },
+    {
+      "def1": "я хочу, чтобы ты пришёл",
+      "ipa": "ай wɑнт ю ту кʌм",
+      "spell": "I want you to come"
+    },
+    {
+      "def1": "я хочу, чтобы ты поел",
+      "ipa": "ай wɑнт ю ту ит",
+      "spell": "I want you to eat"
+    },
+    {
+      "def1": "я хочу, чтобы ты встал",
+      "ipa": "ай wɑнт ю ту гэт ʌп",
+      "spell": "I want you to get up"
+    },
+    {
+      "def1": "я хочу, чтобы ты ушёл",
+      "ipa": "ай wɑнт ю ту гоу",
+      "spell": "I want you to go"
+    },
+    {
+      "def1": "я хочу, чтобы ты пошёл домой",
+      "ipa": "ай wɑнт ю ту гоу hоум",
+      "spell": "I want you to go home"
+    },
+    {
+      "def1": "я хочу, чтобы ты лёг спать",
+      "ipa": "ай wɑнт ю ту гоу ту бэд",
+      "spell": "I want you to go to bed"
+    },
+    {
+      "def1": "я хочу, чтобы ты мне помог",
+      "ipa": "ай wɑнт ю ту hэлп ми",
+      "spell": "I want you to help me"
+    },
+    {
+      "def1": "я хочу, чтобы ты спал",
+      "ipa": "ай wɑнт ю ту слип",
+      "spell": "I want you to sleep"
+    },
+    {
+      "def1": "я хочу, чтобы ты работал",
+      "ipa": "ай wɑнт ю ту wɜрк",
+      "spell": "I want you to work"
+    },
+    {
+      "def1": "я хотела пить",
+      "ipa": "ай ˈwɔнтɪд ту дрɪŋк",
+      "spell": "I wanted to drink"
+    },
+    {
+      "def1": "у меня был лишний вес",
+      "ipa": "ай wʌз ˈоувəрˌwэйт",
+      "spell": "I was overweight"
+    },
+    {
+      "def1": "я буду толстой",
+      "ipa": "ай wɪл би фæт",
+      "spell": "I will be fat"
+    },
+    {
+      "def1": "я усердно работаю",
+      "ipa": "ай wɜрк hɑрд",
+      "spell": "I work hard"
+    },
+    {
+      "def1": "я устала морально",
+      "ipa": "айм джʌст ˈмэнтəли ˈтайəрд",
+      "spell": "I'm just mentally tired"
+    },
+    {
+      "def1": "в хронологическом порядке",
+      "ipa": "ɪн ðə ˌкрɑнəˈлɑджɪкəл ˈордəр",
+      "spell": "in the chronological order"
+    },
+    {
+      "def1": "внутрь",
+      "ipa": "ˈɪнwəрд",
+      "spell": "inward"
+    },
+    {
+      "def1": "это десятый номер?",
+      "ipa": "ɪз ðæт ə ˈнʌмбəр тэн?",
+      "spell": "is that a number ten?"
+    },
+    {
+      "def1": "это правильно?",
+      "ipa": "ɪз ðɪс кəˈрэкт?",
+      "spell": "is this correct?"
+    },
+    {
+      "def1": "разве не так?",
+      "ipa": "ˈɪзəнт ɪт соу?",
+      "spell": "isn’t it so?"
+    },
+    {
+      "def1": "разве не правда?",
+      "ipa": "ˈɪзəнт ɪт тру?",
+      "spell": "isn’t it true?"
+    },
+    {
+      "def1": "это закончится",
+      "ipa": "ɪт wɪл энд",
+      "spell": "it will end"
+    },
+    {
+      "def1": "духота",
+      "ipa": "ɪтс ˈстʌфи",
+      "spell": "it's stuffy"
+    },
+    {
+      "def1": "середина осени",
+      "ipa": "ɪтс мɪд-фɔл",
+      "spell": "it’s mid-fall"
+    },
+    {
+      "def1": "это очень близко от моего дома",
+      "ipa": "ɪтс ˈвэри нɪр май hаус",
+      "spell": "it’s very near my house"
+    },
+    {
+      "def1": "я собираюсь пить кофе",
+      "ipa": "айм ˈгɑнə дрɪŋк ˈкɑфи",
+      "spell": "I’m gonna drink coffee"
+    },
+    {
+      "def1": "я собираюсь выпить кофе",
+      "ipa": "айм ˈгɑнə hæв ə ˈкɑфи",
+      "spell": "I’m gonna have a coffee"
+    },
+    {
+      "def1": "я собираюсь выпить",
+      "ipa": "айм ˈгɑнə hæв ə дрɪŋк",
+      "spell": "I’m gonna have a drink"
+    },
+    {
+      "def1": "я собираюсь вздремнуть",
+      "ipa": "айм ˈгɑнə hæв ə нæп",
+      "spell": "I’m gonna have a nap"
+    },
+    {
+      "def1": "я собираюсь покурить",
+      "ipa": "айм ˈгɑнə hæв ə смоук",
+      "spell": "I’m gonna have a smoke"
+    },
+    {
+      "def1": "я собираюсь поплавать",
+      "ipa": "айм ˈгɑнə hæв ə сwɪм",
+      "spell": "I’m gonna have a swim"
+    },
+    {
+      "def1": "я собираюсь выпить чаю",
+      "ipa": "айм ˈгɑнə hæв сʌм ти",
+      "spell": "I’m gonna have some tea"
+    },
+    {
+      "def1": "дай мне сделать это",
+      "ipa": "лэт ми ду ɪт",
+      "spell": "let me do it"
+    },
+    {
+      "def1": "давай сделаем это!",
+      "ipa": "лэтс ду ɪт!",
+      "spell": "let’s do it!"
+    },
+    {
+      "def1": "давай прекратим это",
+      "ipa": "лэтс энд ðɪс",
+      "spell": "let’s end this"
+    },
+    {
+      "def1": "закончим",
+      "ipa": "лэтс ˈфɪнɪш ɪт",
+      "spell": "let’s finish it"
+    },
+    {
+      "def1": "оставим так",
+      "ipa": "лэтс лив ɪт лайк ðɪс",
+      "spell": "let’s leave it like this"
+    },
+    {
+      "def1": "живущий; проживание",
+      "ipa": "ˈлɪвɪŋ",
+      "spell": "living"
+    },
+    {
+      "def1": "больше",
+      "ipa": "мор",
+      "spell": "more"
+    },
+    {
+      "def1": "двигающий(ся); движение",
+      "ipa": "ˈмувɪŋ",
+      "spell": "moving"
+    },
+    {
+      "def1": "моя тётя",
+      "ipa": "май æнт",
+      "spell": "my aunt"
+    },
+    {
+      "def1": "моё кровяное давление",
+      "ipa": "май блʌд ˈпрэшəр",
+      "spell": "my blood pressure"
+    },
+    {
+      "def1": "мой рост",
+      "ipa": "май hайт",
+      "spell": "my height"
+    },
+    {
+      "def1": "мы с мужем поменялись ролями",
+      "ipa": "май ˈhʌзбəнд æнд ай сwɪчт роулз",
+      "spell": "my husband and I switched roles"
+    },
+    {
+      "def1": "моё настроение",
+      "ipa": "май муд",
+      "spell": "my mood"
+    },
+    {
+      "def1": "мой словарный запас",
+      "ipa": "май воуˈкæбйəˌлэри",
+      "spell": "my vocabulary"
+    },
+    {
+      "def1": "мой вес",
+      "ipa": "май wэйт",
+      "spell": "my weight"
+    },
+    {
+      "def1": "шум",
+      "ipa": "нойз",
+      "spell": "noise"
+    },
+    {
+      "def1": "в понедельник он моет посуду",
+      "ipa": "ɑн ˈмʌнˌдэй, hи ɪз ˈwɑщɪŋ ðə ˈдɪшəз",
+      "spell": "on Monday, he is washing the dishes"
+    },
+    {
+      "def1": "во вторник они ремонтируют вещи",
+      "ipa": "ɑн ˈтузˌдэй, ðэй ɑр ˌриˈпэрɪŋ θɪŋз",
+      "spell": "on Tuesday, they are reparing things"
+    },
+    {
+      "def1": "в среду он подаёт завтрак",
+      "ipa": "ɑн ˈwэнзˌдэй, hи ɪз ˈсɜрвɪŋ ˈбрэкфəст",
+      "spell": "on Wednesday, he is serving breakfast"
+    },
+    {
+      "def1": "одна из духовок не работает",
+      "ipa": "wʌн ʌв ðи ˈʌвəнз ˈɪзəнт ˈwɜркɪŋ",
+      "spell": "one of the ovens isn't working"
+    },
+    {
+      "def1": "порядок",
+      "ipa": "ˈордəр",
+      "spell": "order"
+    },
+    {
+      "def1": "наружу",
+      "ipa": "ˈаутwəрд",
+      "spell": "outward"
+    },
+    {
+      "def1": "пожалуйста, выйди!",
+      "ipa": "плиз гоу аут!",
+      "spell": "please go out!"
+    },
+    {
+      "def1": "кладущий; расположение, (рас)кладывание",
+      "ipa": "ˈпʌтɪŋ",
+      "spell": "putting"
+    },
+    {
+      "def1": "читающий; чтение",
+      "ipa": "ˈрэдɪŋ",
+      "spell": "reading"
+    },
+    {
+      "def1": "ремонтирую",
+      "ipa": "ай рɪˈпэр",
+      "spell": "I repair"
+    },
+    {
+      "def1": "бегающий, бегущий; бегание",
+      "ipa": "ˈрʌнɪŋ",
+      "spell": "running"
+    },
+    {
+      "def1": "разница в зарплате",
+      "ipa": "ˈсæлəри ˈдɪфəрəнс",
+      "spell": "salary difference"
+    },
+    {
+      "def1": "увидимся через двадцать минут",
+      "ipa": "си ю ɪн ˈтwэнти ˈмɪнəтс",
+      "spell": "see you in twenty minutes"
+    },
+    {
+      "def1": "несколько объективных причин для поездки",
+      "ipa": "ˈсэврəл əбˈджэктɪв ˈризəнз фор ˈгоуɪŋ",
+      "spell": "several objective reasons for going"
+    },
+    {
+      "def1": "ходящий по магазинам; хождение по магазинам",
+      "ipa": "ˈшɑпɪŋ",
+      "spell": "shopping"
+    },
+    {
+      "def1": "тишина",
+      "ipa": "ˈсайлəнс",
+      "spell": "silence"
+    },
+    {
+      "def1": "сидящий; сидение, приседание",
+      "ipa": "ˈсɪтɪŋ",
+      "spell": "sitting"
+    },
+    {
+      "def1": "к небу",
+      "ipa": "ˈскайwəрд",
+      "spell": "skyward"
+    },
+    {
+      "def1": "останваливающий; останавливание",
+      "ipa": "ˈстɑпɪŋ",
+      "spell": "stopping"
+    },
+    {
+      "def1": "к солнцу",
+      "ipa": "ˈсʌнwəрд",
+      "spell": "sunward"
+    },
+    {
+      "def1": "плавающий; плавание",
+      "ipa": "ˈсwɪмɪŋ",
+      "spell": "swimming"
+    },
+    {
+      "def1": "это веская причина",
+      "ipa": "ðæтс ə бɪг ˈризəн",
+      "spell": "that’s a big reason"
+    },
+    {
+      "def1": "это десятый номер",
+      "ipa": "ðæтс ə тэн",
+      "spell": "that’s a ten"
+    },
+    {
+      "def1": "поэтому",
+      "ipa": "ðæтс wай",
+      "spell": "that’s why"
+    },
+    {
+      "def1": "начальник проверяет / проведывает своих рабочих",
+      "ipa": "ðə бɑс чэкс ɑн hɪз ˈwɜркəрз",
+      "spell": "the boss checks on his workers"
+    },
+    {
+      "def1": "парень, который мне не нравится",
+      "ipa": "ðə гай ай доунт лайк",
+      "spell": "the guy I don’t like"
+    },
+    {
+      "def1": "мужчина и женщина покупают подарки для кого-то",
+      "ipa": "ðə мæн æнд ðə ˈwʊмəн ɑр ˈбайɪŋ ˈпрэзəнтс фор ˈсʌмˌбɑди",
+      "spell": "the man and the woman are buying presents for somebody"
+    },
+    {
+      "def1": "мужчина арендует машину",
+      "ipa": "ðə мæн ɪз ˈрэнтɪŋ ə кɑр",
+      "spell": "the man is renting a car"
+    },
+    {
+      "def1": "ответственное лицо, руководитель, главный",
+      "ipa": "ðə ˈпɜрсəн ɪн чɑрдж",
+      "spell": "the person in charge"
+    },
+    {
+      "def1": "управляющий отелем",
+      "ipa": "ðə ˈпɜрсəн ɪн чɑрдж ʌв ðə hоуˈтэл",
+      "spell": "the person in charge of the hotel"
+    },
+    {
+      "def1": "женщина упаковывает чемодан",
+      "ipa": "ðə ˈwʊмəн ɪз ˈпæкɪŋ ə ˈсутˌкэйс",
+      "spell": "the woman is packing a suitcase"
+    },
+    {
+      "def1": "идёт проверка",
+      "ipa": "ðэр ɪз əн ɪнˈспэкшəн",
+      "spell": "there is an inspection"
+    },
+    {
+      "def1": "это мои мысли",
+      "ipa": "ðиз ɑр май θɔтс",
+      "spell": "these are my thoughts"
+    },
+    {
+      "def1": "они усыновляют ребёнка",
+      "ipa": "ðэй əˈдɑпт ə чайлд",
+      "spell": "they adopt a child"
+    },
+    {
+      "def1": "они всегда очень усердно работают",
+      "ipa": "ðэй ˈɔлˌwэйз wɜрк ˈвэри hɑрд",
+      "spell": "they always work very hard"
+    },
+    {
+      "def1": "они в поездке на озеро",
+      "ipa": "ðэй ɑр ɑн ə трɪп ту ðə лэйк",
+      "spell": "they are on a trip to the lake"
+    },
+    {
+      "def1": "они ждут автобус",
+      "ipa": "ðэй ɑр ˈwэйтɪŋ фор ə бʌс",
+      "spell": "they are waiting for a bus"
+    },
+    {
+      "def1": "они не знают, кто он на самом деле",
+      "ipa": "ðэй доунт ноу hу hи ˈрɪли ɪз",
+      "spell": "they don't know who he really is"
+    },
+    {
+      "def1": "они никогда не ходят туда",
+      "ipa": "ðэй ˈнэвəр гоу ðэр",
+      "spell": "they never go there"
+    },
+    {
+      "def1": "у них есть всего пятнадцать минут на это",
+      "ipa": "ðэй ˈоунли hæв фɪфˈтин ˈмɪнəтс ту ду ðæт",
+      "spell": "they only have fifteen minutes to do that"
+    },
+    {
+      "def1": "они платят за спортзал",
+      "ipa": "ðэй пэй фор ðə джɪм",
+      "spell": "they pay for the gym"
+    },
+    {
+      "def1": "они работают долгие часы",
+      "ipa": "ðэй wɜрк лɔŋ ˈауəрз",
+      "spell": "they work long hours"
+    },
+    {
+      "def1": "вещи, которые мне нравятся",
+      "ipa": "θɪŋз ай лайк",
+      "spell": "things I like"
+    },
+    {
+      "def1": "вещи, которые мне не нравятся",
+      "ipa": "θɪŋз ай доунт лайк",
+      "spell": "things I don't like"
+    },
+    {
+      "def1": "вещи, которые поломаны",
+      "ipa": "θɪŋз ðæт ɑр ˈброукəн",
+      "spell": "things that are broken"
+    },
+    {
+      "def1": "тридцать градусов",
+      "ipa": "ˈθɜрди дɪˈгриз",
+      "spell": "thirty degrees"
+    },
+    {
+      "def1": "это правильно",
+      "ipa": "ðɪс ɪз кəˈрэкт",
+      "spell": "this is correct"
+    },
+    {
+      "def1": "это моя мечта",
+      "ipa": "ðɪс ɪз май дрим",
+      "spell": "this is my dream"
+    },
+    {
+      "def1": "это неправильно",
+      "ipa": "ðɪс ɪз рɔŋ",
+      "spell": "this is wrong"
+    },
+    {
+      "def1": "чтобы",
+      "ipa": "ту",
+      "spell": "to"
+    },
+    {
+      "def1": "прекратить поездку",
+      "ipa": "ту энд ðə трɪп",
+      "spell": "to end the trip"
+    },
+    {
+      "def1": "закончить поездку",
+      "ipa": "ту ˈфɪнɪш ðə трɪп",
+      "spell": "to finish the trip"
+    },
+    {
+      "def1": "встать чтобы пойти",
+      "ipa": "ту гэт ʌп ту гоу",
+      "spell": "to get up to go"
+    },
+    {
+      "def1": "побыть наедине с собой",
+      "ipa": "ту hæв сʌм ми-тайм",
+      "spell": "to have some me-time"
+    },
+    {
+      "def1": "приготавливать",
+      "ipa": "ту приˈпэр",
+      "spell": "to prepare"
+    },
+    {
+      "def1": "погубить, испортить",
+      "ipa": "ту ˈруəн",
+      "spell": "to ruin"
+    },
+    {
+      "def1": "сидеть и смотреть",
+      "ipa": "ту сɪт æнд wɑч",
+      "spell": "to sit and watch"
+    },
+    {
+      "def1": "поменять",
+      "ipa": "ту сwɪч",
+      "spell": "to switch"
+    },
+    {
+      "def1": "сегодня на нём джинсы",
+      "ipa": "тəˈдэй hиз ˈwэрɪŋ джинз",
+      "spell": "today he's wearing jeans"
+    },
+    {
+      "def1": "к тебе",
+      "ipa": "тəˈwорд ю",
+      "spell": "toward you"
+    },
+    {
+      "def1": "двадцать семь градусов по Цельсию",
+      "ipa": "ˈтwэнти-ˈсэвəн дɪˈгриз ˈсэлсиəс",
+      "spell": "twenty-seven degrees Celsius"
+    },
+    {
+      "def1": "под прикрытием",
+      "ipa": "ˌʌндəрˈкʌвəр",
+      "spell": "undercover"
+    },
+    {
+      "def1": "вверх",
+      "ipa": "ˈʌпwəрд",
+      "spell": "upward"
+    },
+    {
+      "def1": "использующий; использование",
+      "ipa": "ˈюзɪŋ",
+      "spell": "using"
+    },
+    {
+      "def1": "смотрящий, наблюдающий; наблюдание",
+      "ipa": "ˈwɑчɪŋ",
+      "spell": "watching"
+    },
+    {
+      "def1": "мы остаёмся там до половины девятого",
+      "ipa": "wи стэй ðэр əнˈтɪл эйт-ˈθɜрди",
+      "spell": "we stay there until eight-thirty"
+    },
+    {
+      "def1": "мы поменялись ролями",
+      "ipa": "wи сwɪчт роулз",
+      "spell": "we switched roles"
+    },
+    {
+      "def1": "когда мне плохо",
+      "ipa": "wэн ай фил бæд",
+      "spell": "when I feel bad"
+    },
+    {
+      "def1": "работа под прикрытием",
+      "ipa": "ˈwɜркɪŋ ˌʌндəрˈкʌвəр",
+      "spell": "working undercover"
+    },
+    {
+      "def1": "пишущий; написание",
+      "ipa": "ˈрайтɪŋ",
+      "spell": "writing"
+    },
+    {
+      "def1": "ты портишь мне настроение",
+      "ipa": "ю ɑр ˈруɪнɪŋ май муд",
+      "spell": "you are ruining my mood"
+    },
+    {
+      "def1": "ты не прав",
+      "ipa": "ю ɑр рɔŋ",
+      "spell": "you are wrong"
+    },
+    {
+      "def1": "ты становишься стройной",
+      "ipa": "ю бɪˈкʌм слɪм",
+      "spell": "you become slim"
+    },
+    {
+      "def1": "ты не хочешь быть толстым",
+      "ipa": "ю доунт wɑнт ту би фæт",
+      "spell": "you don’t want to be fat"
+    },
+    {
+      "def1": "тебе нужно переделать",
+      "ipa": "ю hæв ту риˈду ɪт",
+      "spell": "you have to re-do it"
+    },
+    {
+      "def1": "ты будешь толстым",
+      "ipa": "ю wɪл би фæт",
+      "spell": "you will be fat"
+    }
+  ]
+}
