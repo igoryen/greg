@@ -1,0 +1,484 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "period": "week",
+  "number": 42,
+  "date": "2025-10-16",
+  "words": [
+    {
+      "def1": "смена темы",
+      "ipa": "ə ʧeɪnʤ ʌv ˈsʌbʤɪkt",
+      "spell": "a change of subject"
+    },
+    {
+      "def1": "документальный фильм о вулканах",
+      "ipa": "ə ˌdɑkjəˈmɛntəri əˈbaʊt vɑlˈkeɪnoʊz",
+      "spell": "a documentary about volcanoes"
+    },
+    {
+      "def1": "фактическая ошибка",
+      "ipa": "ə ˈfækʧuəl ˈɛrər",
+      "spell": "a factual error"
+    },
+    {
+      "def1": "высокая температура",
+      "ipa": "ə haɪ ˈfivər",
+      "spell": "a high fever"
+    },
+    {
+      "def1": "лёгкая головная боль",
+      "ipa": "ə ˈlɪtəl ˈhɛˌdeɪk",
+      "spell": "a little headache"
+    },
+    {
+      "def1": "судьба человека",
+      "ipa": "ə mænz laɪf ˈstɔri",
+      "spell": "a man's life story"
+    },
+    {
+      "def1": "убийца",
+      "ipa": "ə ˈmɜrdərər",
+      "spell": "a murderer"
+    },
+    {
+      "def1": "пародия",
+      "ipa": "ə ˈpɛrədi",
+      "spell": "a parody"
+    },
+    {
+      "def1": "конкурирующая студия",
+      "ipa": "ə ˈraɪvəl ˈstudiˌoʊ",
+      "spell": "a rival studio"
+    },
+    {
+      "def1": "насморк",
+      "ipa": "ə ˈrʌni noʊz",
+      "spell": "a runny nose"
+    },
+    {
+      "def1": "святой (угодник)",
+      "ipa": "ə seɪnt",
+      "spell": "a saint"
+    },
+    {
+      "def1": "стратегия",
+      "ipa": "ə ˈstrætəʤi",
+      "spell": "a strategy"
+    },
+    {
+      "def1": "динамика, увлекательные события",
+      "ipa": "ˈækʃən",
+      "spell": "action"
+    },
+    {
+      "def1": "на самом деле",
+      "ipa": "ˈækʧuəli",
+      "spell": "actually"
+    },
+    {
+      "def1": "дополнительная информация",
+      "ipa": "əˈdɪʃənəl ˌɪnfərˈmeɪʃən",
+      "spell": "additional information"
+    },
+    {
+      "def1": "в конце концов",
+      "ipa": "ˈæftər ɔl",
+      "spell": "after all"
+    },
+    {
+      "def1": "после отступления от темы",
+      "ipa": "ˈæftər daɪˈɡrɛʃən",
+      "spell": "after digression"
+    },
+    {
+      "def1": "в общем и целом",
+      "ipa": "ɔl ɪn ɔl",
+      "spell": "all in all"
+    },
+    {
+      "def1": "всесезонные шины",
+      "ipa": "ɔl-ˈsizən ˈtaɪərz",
+      "spell": "all-season tires"
+    },
+    {
+      "def1": "учёный, профессор",
+      "ipa": "ən ˌækəˈdɛmɪk",
+      "spell": "an academic"
+    },
+    {
+      "def1": "идея",
+      "ipa": "ən aɪˈdiə",
+      "spell": "an idea"
+    },
+    {
+      "def1": "ну да ладно, короче",
+      "ipa": "ˈɛniˌweɪ",
+      "spell": "anyway"
+    },
+    {
+      "def1": "по сути дела",
+      "ipa": "æz ə ˈmætər ʌv fækt",
+      "spell": "as a matter of fact"
+    },
+    {
+      "def1": "по мере распространения христианского мира",
+      "ipa": "æz ˈkrɪsəndəm ɪkˈspændɪd",
+      "spell": "as Christendom expanded"
+    },
+    {
+      "def1": "что касается меня",
+      "ipa": "æz fɑr æz aɪ æm kənˈsɜrnd",
+      "spell": "as far as I am concerned"
+    },
+    {
+      "def1": "как я и говорила",
+      "ipa": "æz aɪ wʌz ˈseɪɪŋ",
+      "spell": "as I was saying"
+    },
+    {
+      "def1": "что касается вашего отпуска",
+      "ipa": "æz rɪˈɡɑrdz jʊər veɪˈkeɪʃən",
+      "spell": "as regards your vacation"
+    },
+    {
+      "def1": "хоть, хотя бы, по крайней мере",
+      "ipa": "æt list",
+      "spell": "at least"
+    },
+    {
+      "def1": "хоть дождя не было",
+      "ipa": "æt list ɪt ˈdɪdənt reɪn",
+      "spell": "at least it didn't rain"
+    },
+    {
+      "def1": "хотя бы никто не погиб",
+      "ipa": "æt list ˈnoʊˌbɑˌdi wʌz kɪld, ðoʊ",
+      "spell": "at least nobody was killed, though"
+    },
+    {
+      "def1": "в основном",
+      "ipa": "ˈbeɪsɪkli",
+      "spell": "basically"
+    },
+    {
+      "def1": "кроме того",
+      "ipa": "bɪˈsaɪdz",
+      "spell": "besides"
+    },
+    {
+      "def1": "кстати",
+      "ipa": "baɪ ðə weɪ",
+      "spell": "by the way"
+    },
+    {
+      "def1": "собаки - отличная компания",
+      "ipa": "dɑɡz ɑr ɡreɪt ˈkʌmpəni",
+      "spell": "dogs are great company"
+    },
+    {
+      "def1": "драматический эффект, напряжение",
+      "ipa": "ˈdrɑmə",
+      "spell": "drama"
+    },
+    {
+      "def1": "драма и точность",
+      "ipa": "ˈdrɑmə ænd ˈækjərəsi",
+      "spell": "drama and accuracy"
+    },
+    {
+      "def1": "раньше, чем обычно",
+      "ipa": "ˈɜrliər ðæn ˈjuʒəwəl",
+      "spell": "earlier than usual"
+    },
+    {
+      "def1": "художественный вымысел",
+      "ipa": "ˈfɪkʃən",
+      "spell": "fiction"
+    },
+    {
+      "def1": "пятилетки (дети)",
+      "ipa": "faɪv-rɪr-oʊldz",
+      "spell": "five-rear-olds"
+    },
+    {
+      "def1": "насколько я понял",
+      "ipa": "frʌm wɑt aɪ ˌʌndərˈstʊd",
+      "spell": "from what I understood"
+    },
+    {
+      "def1": "до неприличия недостаточно",
+      "ipa": "ˈɡroʊsli ɪnsəˈfɪʃənt",
+      "spell": "grossly insufficient"
+    },
+    {
+      "def1": "у него высокая температура",
+      "ipa": "hi hæz ə haɪ ˈfivər",
+      "spell": "he has a high fever"
+    },
+    {
+      "def1": "он одолжил мне книгу",
+      "ipa": "hi lɛnt mi ə bʊk",
+      "spell": "he lent me a book"
+    },
+    {
+      "def1": "её жизнь всегда полна драмы",
+      "ipa": "hɜr laɪf ɪz ˈɔlˌweɪz fʊl ʌv ˈdrɑmə",
+      "spell": "her life is always full of drama"
+    },
+    {
+      "def1": "я хвастаюсь",
+      "ipa": "aɪ boʊst",
+      "spell": "I boast"
+    },
+    {
+      "def1": "я меняю направление разговора",
+      "ipa": "aɪ ʧeɪnʤ ðə dəˈrɛkʃən ʌv ðə ˌkɑnvərˈseɪʃən",
+      "spell": "I change the direction of the conversation"
+    },
+    {
+      "def1": "я меняю тему",
+      "ipa": "aɪ ʧeɪnʤ ðə ˈsʌbʤɪkt",
+      "spell": "I change the subject"
+    },
+    {
+      "def1": "я отвлекаюсь от темы",
+      "ipa": "aɪ daɪˈɡrɛs",
+      "spell": "I digress"
+    },
+    {
+      "def1": "у меня есть точно такое же",
+      "ipa": "aɪ hæv wʌn ʤʌst laɪk ɪt",
+      "spell": "I have one just like it"
+    },
+    {
+      "def1": "я имею в виду, в смысле",
+      "ipa": "aɪ min",
+      "spell": "I mean"
+    },
+    {
+      "def1": "я решил проблему",
+      "ipa": "aɪ riˈzɑlvd ðə ˈprɑbləm",
+      "spell": "I resolved the problem"
+    },
+    {
+      "def1": "я уеду на выходные",
+      "ipa": "aɪ wɪl ɡoʊ əˈweɪ fɔr ðə ˈwiˌkɛnd",
+      "spell": "I will go away for the weekend"
+    },
+    {
+      "def1": "в любом случае",
+      "ipa": "ɪn ˈɛni keɪs",
+      "spell": "in any case"
+    },
+    {
+      "def1": "фактически",
+      "ipa": "ɪn fækt",
+      "spell": "in fact"
+    },
+    {
+      "def1": "другими словами",
+      "ipa": "ɪn ˈʌðər wɜrdz",
+      "spell": "in other words"
+    },
+    {
+      "def1": "неточный",
+      "ipa": "ɪˈnækjərət",
+      "spell": "inaccurate"
+    },
+    {
+      "def1": "кстати говоря",
+      "ipa": "ˌɪnsɪˈdɛntəli",
+      "spell": "incidentally"
+    },
+    {
+      "def1": "со мной такое случилось",
+      "ipa": "ɪt ˈhæpənd tu mi",
+      "spell": "it happened to me"
+    },
+    {
+      "def1": "это точно",
+      "ipa": "ɪt ɪz ˈækjərət",
+      "spell": "it is accurate"
+    },
+    {
+      "def1": "оно названо в их честь",
+      "ipa": "ɪt ɪz neɪmd ˈæftər ðɛm",
+      "spell": "it is named after them"
+    },
+    {
+      "def1": "его ждала печальная участь",
+      "ipa": "ɪt mɛt ə sæd feɪt",
+      "spell": "it met a sad fate"
+    },
+    {
+      "def1": "это была серьёзная авария",
+      "ipa": "ɪt wʌz ə bæd ˈæksədənt",
+      "spell": "it was a bad accident"
+    },
+    {
+      "def1": "был очень пасмурный день",
+      "ipa": "ɪt wʌz ə ˈvɛri ˈoʊvərˌkæst deɪ",
+      "spell": "it was a very overcast day"
+    },
+    {
+      "def1": "это и не должно было быть правдивой историей",
+      "ipa": "ɪt ˈwɑzənt səˈpoʊzd tu bi ə tru ˈstɔri",
+      "spell": "it wasn't supposed to be a true story"
+    },
+    {
+      "def1": "это не идеально",
+      "ipa": "ɪts nɑt aɪˈdil",
+      "spell": "it's not ideal"
+    },
+    {
+      "def1": "недосып",
+      "ipa": "læk ʌv slip",
+      "spell": "lack of sleep"
+    },
+    {
+      "def1": "история моей жизни",
+      "ipa": "maɪ laɪf ˈstɔri",
+      "spell": "my life story"
+    },
+    {
+      "def1": "очевидно",
+      "ipa": "ˈɑbviəsli",
+      "spell": "obviously"
+    },
+    {
+      "def1": "с одной стороны, с другой стороны",
+      "ipa": "ɑn ðə wʌn hænd, ɑn ði ˈʌðər hænd",
+      "spell": "on the one hand, on the other hand"
+    },
+    {
+      "def1": "в целом",
+      "ipa": "ɑn ðə hoʊl",
+      "spell": "on the whole"
+    },
+    {
+      "def1": "иначе",
+      "ipa": "ˈʌðərˌwaɪz",
+      "spell": "otherwise"
+    },
+    {
+      "def1": "на душу населения",
+      "ipa": "pɜr ˈkæpɪtə",
+      "spell": "per capita"
+    },
+    {
+      "def1": "довольно хороший специалист",
+      "ipa": "kwaɪt ə ɡʊd ˈspɛʃələst",
+      "spell": "quite a good specialist"
+    },
+    {
+      "def1": "относительно моего отпуска",
+      "ipa": "rəˈɡɑrdɪŋ maɪ veɪˈkeɪʃən",
+      "spell": "regarding my vacation"
+    },
+    {
+      "def1": "она приукрасила рассказ",
+      "ipa": "ʃi ɛmˈbɛlɪʃt ði əˈkaʊnt",
+      "spell": "she embellished the account"
+    },
+    {
+      "def1": "у неё было строгое воспитание",
+      "ipa": "ʃi hæd ə strɪkt ˈʌpˌbrɪŋɪŋ",
+      "spell": "she had a strict upbringing"
+    },
+    {
+      "def1": "кое-что, о чём я только что подумала",
+      "ipa": "ˈsʌmθɪŋ aɪ hæv ʤʌst θɔt ʌv",
+      "spell": "something I have just thought of"
+    },
+    {
+      "def1": "к слову об Алексе, раз уж речь зашла об Алексе",
+      "ipa": "ˈspikɪŋ ʌv ˈæləks",
+      "spell": "speaking of Alex"
+    },
+    {
+      "def1": "о вкусах не спорят",
+      "ipa": "teɪsts ˈdɪfər",
+      "spell": "tastes differ"
+    },
+    {
+      "def1": "то есть, иначе говоря",
+      "ipa": "ðæt ɪz tu seɪ",
+      "spell": "that is to say"
+    },
+    {
+      "def1": "квартира под нами",
+      "ipa": "ði əˈpɑrtmənt bɪˈloʊ ʌs",
+      "spell": "the apartment below us"
+    },
+    {
+      "def1": "культурная традиция рассказывания историй очень древняя",
+      "ipa": "ðə ˈkʌlʧərəl trəˈdɪʃən ʌv ˈstɔriˌtɛlɪŋ ɪz ˈvɛri oʊld",
+      "spell": "the cultural tradition of storytelling is very old"
+    },
+    {
+      "def1": "наш врач",
+      "ipa": "ðə ˈdɑktər wi hæv",
+      "spell": "the doctor we have"
+    },
+    {
+      "def1": "погода ужасная",
+      "ipa": "ðə ˈwɛðər ɪz ˈɑfəl",
+      "spell": "the weather is awful"
+    },
+    {
+      "def1": "они украшают платье золотыми нитями",
+      "ipa": "ðeɪ ɪmˈbɛlɪʃ ðə drɛs wɪð ɡoʊld θrɛdz",
+      "spell": "they embellish the dress with gold threads"
+    },
+    {
+      "def1": "они переснимают сцену",
+      "ipa": "ðeɪ ˌriˈʃut ə sin",
+      "spell": "they reshoot a scene"
+    },
+    {
+      "def1": "это только что было сказано",
+      "ipa": "ðɪs hæz ʤʌst bɪn sɛd",
+      "spell": "this has just been said"
+    },
+    {
+      "def1": "это рассказ о судьбах многих людей",
+      "ipa": "ðɪs ɪz ə ˈstɔri əˈbaʊt ðə laɪvz ʌv ˈmɛni ˈpipəl",
+      "spell": "this is a story about the lives of many people"
+    },
+    {
+      "def1": "в некоторой степени",
+      "ipa": "tu ə dɪˈɡri",
+      "spell": "to a degree"
+    },
+    {
+      "def1": "каждому своё",
+      "ipa": "tu iʧ ðɛr oʊn",
+      "spell": "to each their own"
+    },
+    {
+      "def1": "мы решаем сами за себя",
+      "ipa": "wi ˌdɪˈsaɪd fɔr aʊərˈsɛlvz",
+      "spell": "we decide for ourselves"
+    },
+    {
+      "def1": "у нас с тех пор не было возможности сходить в кино",
+      "ipa": "wi ˈhævənt hæd ə ʧæns tu ɡoʊ tu ðə ˈmuviz sɪns ðɛn",
+      "spell": "we haven’t had a chance to go to the movies since then"
+    },
+    {
+      "def1": "нам придётся остаться при своём мнении",
+      "ipa": "wil hæv tu əˈɡri tu dɪsəˈɡri",
+      "spell": "we'll have to agree to disagree"
+    },
+    {
+      "def1": "относись к этому с долей скепсиса",
+      "ipa": "ju teɪk ɪt wɪð ə ɡreɪn ʌv sɔlt",
+      "spell": "you take it with a grain of salt"
+    },
+    {
+      "def1": "тебе лучше поторопиться с домашним заданием",
+      "ipa": "jud ˈbɛtər ˈhɜri ʌp wɪð jʊər ˈhoʊmˌwɜrk",
+      "spell": "you'd better hurry up with your homework"
+    }
+  ]
+}
