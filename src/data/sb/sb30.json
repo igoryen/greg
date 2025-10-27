@@ -1,169 +1,169 @@
 {
-  "student": "Svetlana",
-  "slug": "ss",
+  "student": "Svetlana B.",
+  "slug": "sb",
   "number": 30,
   "date": "2025-07-28",
-  "words":  [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "детский сад",
-   "ipa": "ə ˈdeɪˌkɛr ˈsɛntər",
-   "spell": "a daycare center"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "арендованный работник",
-   "ipa": "ə list ˈwɜrkər",
-   "spell": "a leased worker"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "подходящий, благоприятный для детей",
-   "ipa": "ʧaɪld-ˈfrɛndli",
-   "spell": "child-friendly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он постоянно придирался ко мне",
-   "ipa": "hi wʌz ˈɔlˌweɪz ˈpɪkɪŋ ɑn mi",
-   "spell": "he was always picking on me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я всегда падал, а она поднимала меня",
-   "ipa": "aɪ ˈɔlˌweɪz juzd tu fɔl ænd ʃi juzd tu pɪk mi ʌp",
-   "spell": "I always used to fall and she used to pick me up"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "раньше мне это не нравилось, но теперь нравится",
-   "ipa": "aɪ ˈdɪdənt juz tu laɪk ɪt, bʌt naʊ aɪ du",
-   "spell": "I didn't use to like it, but now I do"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я услышал плач и увидел, что он упал и сидит на полу",
-   "ipa": "aɪ hɜrd ˈkraɪɪŋ ænd sɔ ðæt hi hæd ˈfɑlən ænd wʌz ˈsɪtɪŋ ɑn ðə flɔr",
-   "spell": "I heard crying and saw that he had fallen and was sitting on the floor"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "раньше я жил один, но потом женился",
-   "ipa": "aɪ juzd tu lɪv ɑn maɪ oʊn, bʌt ðɛn aɪ ɡɑt ˈmɛrid",
-   "spell": "I used to live on my own, but then I got married"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я всегда плакал, а она успокаивала меня",
-   "ipa": "aɪ wʌz ˈɔlˌweɪz ˈkraɪɪŋ ænd ʃi wʊd kɑm mi daʊn",
-   "spell": "I was always crying and she would calm me down"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в моём случае",
-   "ipa": "ɪn maɪ keɪs",
-   "spell": "in my case"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она ищет работу несколько месяцев",
-   "ipa": "ʃi hæz bɪn ˈsɜrʧɪŋ fɔr ə ʤɑb fɔr sʌm mʌnθs",
-   "spell": "she has been searching for a job for some months"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она работала в фирме",
-   "ipa": "ʃi wɜrkt æt ə fɜrm",
-   "spell": "she worked at a firm"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она ищет работу уже несколько месяцев",
-   "ipa": "ʃiz bɪn ʤɑb ˈhʌntɪŋ fɔr ˈsɛvrəl mʌnθs",
-   "spell": "she's been job hunting for several months"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она ищет работу уже несколько месяцев",
-   "ipa": "ʃiz bɪn ˈlʊkɪŋ fɔr wɜrk fɔr mʌnθs naʊ",
-   "spell": "she's been looking for work for months now"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "программа продлённого дня",
-   "ipa": "ðə bɪˈfɔr-ænd-ˈæftər skul ˈproʊˌɡræm (bi-eɪ-ɛs-pi)",
-   "spell": "the before-and-after school program (BASP)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "самые жаркие за последние двести лет",
-   "ipa": "ðə ˈhɑtəst ɪn ðə pæst tu ˈhʌndrədz jɪrz",
-   "spell": "the hottest in the past two hundreds years"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "забирать его из детского сада",
-   "ipa": "tu pɪk hɪm ʌp frʌm ˈdeɪˌkɛr",
-   "spell": "to pick him up from daycare"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обрисовать картину, описать обстановку, задать сцену",
-   "ipa": "tu sɛt ðə sin",
-   "spell": "to set the scene"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда он приходил, у меня всегда что-то для него было",
-   "ipa": "wɛn hi keɪm, aɪ ˈɔlˌweɪz juzd tu hæv ˈsʌmθɪŋ fɔr hɪm",
-   "spell": "when he came, I always used to have something for him"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда я вошёл, она сидела",
-   "ipa": "wɛn aɪ keɪm ɪn, ʃi wʌz ˈsɪtɪŋ",
-   "spell": "when I came in, she was sitting"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда она повернулась, я увидел, что она плакала",
-   "ipa": "wɛn ʃi tɜrnd, aɪ sɔ ʃi hæd bɪn ˈkraɪɪŋ",
-   "spell": "when she turned, I saw she had been crying"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "когда мы приезжали, у неё всегда был для нас сюрприз",
-   "ipa": "wɛn wi ˈvɪzɪtɪd, ʃi wʊd ˈɔlˌweɪz hæv ə sərˈpraɪz ˈweɪtɪŋ fɔr ʌs",
-   "spell": "when we visited, she would always have a surprise waiting for us"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "женщины были домохозяйками",
-   "ipa": "ˈwɪmən wɜr ˈhoʊmˌmeɪkərz",
-   "spell": "women were homemakers"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "детский сад",
+      "ipa": "ə ˈdeɪˌkɛr ˈsɛntər",
+      "spell": "a daycare center"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "арендованный работник",
+      "ipa": "ə list ˈwɜrkər",
+      "spell": "a leased worker"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подходящий, благоприятный для детей",
+      "ipa": "ʧaɪld-ˈfrɛndli",
+      "spell": "child-friendly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "он постоянно придирался ко мне",
+      "ipa": "hi wʌz ˈɔlˌweɪz ˈpɪkɪŋ ɑn mi",
+      "spell": "he was always picking on me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я всегда падал, а она поднимала меня",
+      "ipa": "aɪ ˈɔlˌweɪz juzd tu fɔl ænd ʃi juzd tu pɪk mi ʌp",
+      "spell": "I always used to fall and she used to pick me up"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "раньше мне это не нравилось, но теперь нравится",
+      "ipa": "aɪ ˈdɪdənt juz tu laɪk ɪt, bʌt naʊ aɪ du",
+      "spell": "I didn't use to like it, but now I do"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я услышал плач и увидел, что он упал и сидит на полу",
+      "ipa": "aɪ hɜrd ˈkraɪɪŋ ænd sɔ ðæt hi hæd ˈfɑlən ænd wʌz ˈsɪtɪŋ ɑn ðə flɔr",
+      "spell": "I heard crying and saw that he had fallen and was sitting on the floor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "раньше я жил один, но потом женился",
+      "ipa": "aɪ juzd tu lɪv ɑn maɪ oʊn, bʌt ðɛn aɪ ɡɑt ˈmɛrid",
+      "spell": "I used to live on my own, but then I got married"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я всегда плакал, а она успокаивала меня",
+      "ipa": "aɪ wʌz ˈɔlˌweɪz ˈkraɪɪŋ ænd ʃi wʊd kɑm mi daʊn",
+      "spell": "I was always crying and she would calm me down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в моём случае",
+      "ipa": "ɪn maɪ keɪs",
+      "spell": "in my case"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она ищет работу несколько месяцев",
+      "ipa": "ʃi hæz bɪn ˈsɜrʧɪŋ fɔr ə ʤɑb fɔr sʌm mʌnθs",
+      "spell": "she has been searching for a job for some months"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она работала в фирме",
+      "ipa": "ʃi wɜrkt æt ə fɜrm",
+      "spell": "she worked at a firm"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она ищет работу уже несколько месяцев",
+      "ipa": "ʃiz bɪn ʤɑb ˈhʌntɪŋ fɔr ˈsɛvrəl mʌnθs",
+      "spell": "she's been job hunting for several months"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она ищет работу уже несколько месяцев",
+      "ipa": "ʃiz bɪn ˈlʊkɪŋ fɔr wɜrk fɔr mʌnθs naʊ",
+      "spell": "she's been looking for work for months now"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "программа продлённого дня",
+      "ipa": "ðə bɪˈfɔr-ænd-ˈæftər skul ˈproʊˌɡræm (bi-eɪ-ɛs-pi)",
+      "spell": "the before-and-after school program (BASP)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "самые жаркие за последние двести лет",
+      "ipa": "ðə ˈhɑtəst ɪn ðə pæst tu ˈhʌndrədz jɪrz",
+      "spell": "the hottest in the past two hundreds years"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "забирать его из детского сада",
+      "ipa": "tu pɪk hɪm ʌp frʌm ˈdeɪˌkɛr",
+      "spell": "to pick him up from daycare"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "обрисовать картину, описать обстановку, задать сцену",
+      "ipa": "tu sɛt ðə sin",
+      "spell": "to set the scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда он приходил, у меня всегда что-то для него было",
+      "ipa": "wɛn hi keɪm, aɪ ˈɔlˌweɪz juzd tu hæv ˈsʌmθɪŋ fɔr hɪm",
+      "spell": "when he came, I always used to have something for him"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда я вошёл, она сидела",
+      "ipa": "wɛn aɪ keɪm ɪn, ʃi wʌz ˈsɪtɪŋ",
+      "spell": "when I came in, she was sitting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда она повернулась, я увидел, что она плакала",
+      "ipa": "wɛn ʃi tɜrnd, aɪ sɔ ʃi hæd bɪn ˈkraɪɪŋ",
+      "spell": "when she turned, I saw she had been crying"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "когда мы приезжали, у неё всегда был для нас сюрприз",
+      "ipa": "wɛn wi ˈvɪzɪtɪd, ʃi wʊd ˈɔlˌweɪz hæv ə sərˈpraɪz ˈweɪtɪŋ fɔr ʌs",
+      "spell": "when we visited, she would always have a surprise waiting for us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "женщины были домохозяйками",
+      "ipa": "ˈwɪmən wɜr ˈhoʊmˌmeɪkərz",
+      "spell": "women were homemakers"
+    }
+  ]
 }

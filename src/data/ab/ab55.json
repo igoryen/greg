@@ -3,412 +3,412 @@
   "slug": "ab",
   "number": 55,
   "date": "2025-08-07",
-  "words":   [
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "воздушный шар",
-   "ipa": "ə бəˈлун",
-   "spell": "a balloon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дамба",
-   "ipa": "ə дæм",
-   "spell": "a dam"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "режиссёр",
-   "ipa": "ə дəˈрэктəр",
-   "spell": "a director"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "любимый актёр",
-   "ipa": "ə ˈфэйвəрɪт ˈæктəр",
-   "spell": "a favorite actor"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кинорежиссёр",
-   "ipa": "ə ˈмуви дəˈрэктəр",
-   "spell": "a movie director"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хорошенькое лицо",
-   "ipa": "ə ˈпрɪти фэйс",
-   "spell": "a pretty face"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сцена",
-   "ipa": "ə син",
-   "spell": "a scene"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "лёгкая закуска",
-   "ipa": "ə снæк",
-   "spell": "a snack"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "змея",
-   "ipa": "ə снэйк",
-   "spell": "a snake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "звук",
-   "ipa": "ə саунд",
-   "spell": "a sound"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сцена",
-   "ipa": "ə стэйдж",
-   "spell": "a stage"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "младшая дочь",
-   "ipa": "ə ˈйʌŋгəр ˈдɔтəр",
-   "spell": "a younger daughter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "возраст - всего лишь цифра",
-   "ipa": "эйдж ɪз джʌст ə ˈнʌмбəр",
-   "spell": "age is just a number"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в целом",
-   "ipa": "ɔл ɪн ɔл",
-   "spell": "all in all"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "старшая дочь",
-   "ipa": "əн ˈоулдəр ˈдɔтəр",
-   "spell": "an older daughter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тихо!",
-   "ipa": "би ˈкwайəт!",
-   "spell": "be quiet!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "успокойся!",
-   "ipa": "кɑм даун!",
-   "spell": "calm down!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты не против? вы не возражаете?",
-   "ipa": "ду ю майнд?",
-   "spell": "do you mind?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не надо",
-   "ipa": "доунт",
-   "spell": "don't"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не надо плакать",
-   "ipa": "доунт край",
-   "spell": "don't cry"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не устраивай сцену",
-   "ipa": "доунт мэйк ə син",
-   "spell": "don't make a scene"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не издавай ни звука",
-   "ipa": "доунт мэйк ə саунд",
-   "spell": "don't make a sound"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как далеко это находится?",
-   "ipa": "hау фɑр əˈwэй ɪз ɪт?",
-   "spell": "how far away is it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сколько времени займёт дорога на машине?",
-   "ipa": "hау лɔŋ дʌз ɪт тэйк ту драйв ðэр?",
-   "spell": "how long does it take to drive there?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не получаю почти ничего",
-   "ipa": "ай гэт нэкст ту ˈнʌθɪŋ",
-   "spell": "I get next to nothing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зашла в дом",
-   "ipa": "ай гоу ɪнˈсайд ðə hаус",
-   "spell": "I go inside the house"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я видел сцену",
-   "ipa": "ай hæв син ə син",
-   "spell": "I have seen a scene"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жарко",
-   "ipa": "ɪт ɪз hɑт",
-   "spell": "it is hot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нам потребуется четыре часа, чтобы добраться",
-   "ipa": "ɪт wɪл тэйк ʌс фор ˈауəрз ту гэт ðэр",
-   "spell": "it will take us four hours to get there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "почти ничего",
-   "ipa": "нэкст ту ˈнʌθɪŋ",
-   "spell": "next to nothing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "там",
-   "ipa": "ˈоувəр ðэр",
-   "spell": "over there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "брось!",
-   "ipa": "кwɪт!",
-   "spell": "quit!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у неё выразительные черты лица",
-   "ipa": "щи hæз стрɔŋ ˈфэйшəл ˈфичəрз",
-   "spell": "she has strong facial features"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ей исполняется двенадцать",
-   "ipa": "щи ɪз ˈтɜрнɪŋ тwэлв",
-   "spell": "she is turning twelve"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она взяла мою дочь и свою дочь",
-   "ipa": "щи тʊк май ˈдɔтəр æнд hɜр ˈдɔтəр",
-   "spell": "she took my dauther and her daughter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она была милой, сказала \"Тихо!\" и уволилась",
-   "ipa": "щи wʌз къют, щи сэд \"би ˈкwайəт!\" æнд кwɪт.",
-   "spell": "she was cute, she said \"Be quiet!\" and quit."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она поехала в другой штат",
-   "ipa": "щи wэнт ту əˈнʌðəр стэйт",
-   "spell": "she went to another State"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она не милая",
-   "ipa": "щиз нɑт къют",
-   "spell": "she's not cute"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "большое спасибо",
-   "ipa": "θæŋк ю ˈвэри мʌч",
-   "spell": "thank you very much"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "огромное спасибо",
-   "ipa": "θæŋкс ə лɑт",
-   "spell": "thanks a lot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "повелительное наклонение",
-   "ipa": "ðи ɪмˈпэрəтɪв муд",
-   "spell": "the imperative mood"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "там",
-   "ipa": "ðэр",
-   "spell": "there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "есть, имеется",
-   "ipa": "ðэр ɪз",
-   "spell": "there is"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у всех дни рождения летом",
-   "ipa": "ðэй ɔл hæв ˈбɜрθˌдэйз ɪн ˈсʌмəр",
-   "spell": "they all have birthdays in summer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "время летит",
-   "ipa": "тайм флайз",
-   "spell": "time flies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "быстро напиться",
-   "ipa": "ту гэт дрʌŋк ˈкwɪкли",
-   "spell": "to get drunk quickly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "устроить вечеринку на улице",
-   "ipa": "ту hæв ə ˈпɑрти ˈаутˈсайд",
-   "spell": "to have a party outside"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "иметь в виду",
-   "ipa": "ту мин",
-   "spell": "to mean"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "возражать",
-   "ipa": "ту майнд",
-   "spell": "to mind"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "исполниться двенадцать",
-   "ipa": "ту тɜрн тwэлв",
-   "spell": "to turn twelve"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "двенадцать лет назад",
-   "ipa": "тwэлв йɪрз əˈгоу",
-   "spell": "twelve years ago"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "очень",
-   "ipa": "ˈвэри мʌч, ə лɑт",
-   "spell": "very much, a lot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы будем ехать четыре часа",
-   "ipa": "wи wɪл драйв фор фор ˈауəрз",
-   "spell": "we will drive for four hours"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "о чём?",
-   "ipa": "wɑт əˈбаут?",
-   "spell": "what about?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что ты имеешь в виду?",
-   "ipa": "wɑт ду ю мин?",
-   "spell": "what do you mean?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что это значит?",
-   "ipa": "wɑт дʌз ɪт мин?",
-   "spell": "what does it mean?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "без ночёвки",
-   "ipa": "wɪˈθаут əн ˈоувəрˈнайт стэй",
-   "spell": "without an overnight stay"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у тебя есть шанс сделать это",
-   "ipa": "ю hæв ə чæнс ту ду ɪт",
-   "spell": "you have a chance to do it"
- }
-]
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "воздушный шар",
+      "ipa": "ə бəˈлун",
+      "spell": "a balloon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дамба",
+      "ipa": "ə дæм",
+      "spell": "a dam"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "режиссёр",
+      "ipa": "ə дəˈрэктəр",
+      "spell": "a director"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "любимый актёр",
+      "ipa": "ə ˈфэйвəрɪт ˈæктəр",
+      "spell": "a favorite actor"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кинорежиссёр",
+      "ipa": "ə ˈмуви дəˈрэктəр",
+      "spell": "a movie director"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хорошенькое лицо",
+      "ipa": "ə ˈпрɪти фэйс",
+      "spell": "a pretty face"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сцена",
+      "ipa": "ə син",
+      "spell": "a scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лёгкая закуска",
+      "ipa": "ə снæк",
+      "spell": "a snack"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "змея",
+      "ipa": "ə снэйк",
+      "spell": "a snake"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "звук",
+      "ipa": "ə саунд",
+      "spell": "a sound"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сцена",
+      "ipa": "ə стэйдж",
+      "spell": "a stage"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "младшая дочь",
+      "ipa": "ə ˈйʌŋгəр ˈдɔтəр",
+      "spell": "a younger daughter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "возраст - всего лишь цифра",
+      "ipa": "эйдж ɪз джʌст ə ˈнʌмбəр",
+      "spell": "age is just a number"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "в целом",
+      "ipa": "ɔл ɪн ɔл",
+      "spell": "all in all"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "старшая дочь",
+      "ipa": "əн ˈоулдəр ˈдɔтəр",
+      "spell": "an older daughter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тихо!",
+      "ipa": "би ˈкwайəт!",
+      "spell": "be quiet!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "успокойся!",
+      "ipa": "кɑм даун!",
+      "spell": "calm down!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ты не против? вы не возражаете?",
+      "ipa": "ду ю майнд?",
+      "spell": "do you mind?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не надо",
+      "ipa": "доунт",
+      "spell": "don't"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не надо плакать",
+      "ipa": "доунт край",
+      "spell": "don't cry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не устраивай сцену",
+      "ipa": "доунт мэйк ə син",
+      "spell": "don't make a scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не издавай ни звука",
+      "ipa": "доунт мэйк ə саунд",
+      "spell": "don't make a sound"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "как далеко это находится?",
+      "ipa": "hау фɑр əˈwэй ɪз ɪт?",
+      "spell": "how far away is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сколько времени займёт дорога на машине?",
+      "ipa": "hау лɔŋ дʌз ɪт тэйк ту драйв ðэр?",
+      "spell": "how long does it take to drive there?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не получаю почти ничего",
+      "ipa": "ай гэт нэкст ту ˈнʌθɪŋ",
+      "spell": "I get next to nothing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я зашла в дом",
+      "ipa": "ай гоу ɪнˈсайд ðə hаус",
+      "spell": "I go inside the house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я видел сцену",
+      "ipa": "ай hæв син ə син",
+      "spell": "I have seen a scene"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "жарко",
+      "ipa": "ɪт ɪз hɑт",
+      "spell": "it is hot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нам потребуется четыре часа, чтобы добраться",
+      "ipa": "ɪт wɪл тэйк ʌс фор ˈауəрз ту гэт ðэр",
+      "spell": "it will take us four hours to get there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "почти ничего",
+      "ipa": "нэкст ту ˈнʌθɪŋ",
+      "spell": "next to nothing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там",
+      "ipa": "ˈоувəр ðэр",
+      "spell": "over there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "брось!",
+      "ipa": "кwɪт!",
+      "spell": "quit!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у неё выразительные черты лица",
+      "ipa": "щи hæз стрɔŋ ˈфэйшəл ˈфичəрз",
+      "spell": "she has strong facial features"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ей исполняется двенадцать",
+      "ipa": "щи ɪз ˈтɜрнɪŋ тwэлв",
+      "spell": "she is turning twelve"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она взяла мою дочь и свою дочь",
+      "ipa": "щи тʊк май ˈдɔтəр æнд hɜр ˈдɔтəр",
+      "spell": "she took my dauther and her daughter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она была милой, сказала \"Тихо!\" и уволилась",
+      "ipa": "щи wʌз къют, щи сэд \"би ˈкwайəт!\" æнд кwɪт.",
+      "spell": "she was cute, she said \"Be quiet!\" and quit."
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она поехала в другой штат",
+      "ipa": "щи wэнт ту əˈнʌðəр стэйт",
+      "spell": "she went to another State"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "она не милая",
+      "ipa": "щиз нɑт къют",
+      "spell": "she's not cute"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "большое спасибо",
+      "ipa": "θæŋк ю ˈвэри мʌч",
+      "spell": "thank you very much"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "огромное спасибо",
+      "ipa": "θæŋкс ə лɑт",
+      "spell": "thanks a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повелительное наклонение",
+      "ipa": "ðи ɪмˈпэрəтɪв муд",
+      "spell": "the imperative mood"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "там",
+      "ipa": "ðэр",
+      "spell": "there"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "есть, имеется",
+      "ipa": "ðэр ɪз",
+      "spell": "there is"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у всех дни рождения летом",
+      "ipa": "ðэй ɔл hæв ˈбɜрθˌдэйз ɪн ˈсʌмəр",
+      "spell": "they all have birthdays in summer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "время летит",
+      "ipa": "тайм флайз",
+      "spell": "time flies"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "быстро напиться",
+      "ipa": "ту гэт дрʌŋк ˈкwɪкли",
+      "spell": "to get drunk quickly"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "устроить вечеринку на улице",
+      "ipa": "ту hæв ə ˈпɑрти ˈаутˈсайд",
+      "spell": "to have a party outside"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "иметь в виду",
+      "ipa": "ту мин",
+      "spell": "to mean"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "возражать",
+      "ipa": "ту майнд",
+      "spell": "to mind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "исполниться двенадцать",
+      "ipa": "ту тɜрн тwэлв",
+      "spell": "to turn twelve"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двенадцать лет назад",
+      "ipa": "тwэлв йɪрз əˈгоу",
+      "spell": "twelve years ago"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "очень",
+      "ipa": "ˈвэри мʌч, ə лɑт",
+      "spell": "very much, a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мы будем ехать четыре часа",
+      "ipa": "wи wɪл драйв фор фор ˈауəрз",
+      "spell": "we will drive for four hours"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "о чём?",
+      "ipa": "wɑт əˈбаут?",
+      "spell": "what about?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что ты имеешь в виду?",
+      "ipa": "wɑт ду ю мин?",
+      "spell": "what do you mean?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "что это значит?",
+      "ipa": "wɑт дʌз ɪт мин?",
+      "spell": "what does it mean?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "без ночёвки",
+      "ipa": "wɪˈθаут əн ˈоувəрˈнайт стэй",
+      "spell": "without an overnight stay"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебя есть шанс сделать это",
+      "ipa": "ю hæв ə чæнс ту ду ɪт",
+      "spell": "you have a chance to do it"
+    }
+  ]
 }
