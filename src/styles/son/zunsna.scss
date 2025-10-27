@@ -98,14 +98,37 @@
     }
 
     .spell_ {
-        background-color: bisque;
-        color: brown;
-        font-family: 'Times New Roman', Times, serif;
+        // background-color: bisque;
+        // color: brown;
+        color: #bbb;
+        // font-family: 'Times New Roman', Times, serif;
+        // font-family: "EB Garamond", serif;
+        font-weight: 600;
         font-size: 1em;
         letter-spacing: normal !important;
         line-height: 1;
         margin-left: 1em;
         padding: 2px;
+
+        .insert {
+            color: blue;
+            font-weight: 900;
+            // text-decoration: underline;
+
+        }
+
+        .s_d {
+            color: crimson;
+            font-weight: 900;
+            // background-color: antiquewhite;
+            // text-decoration: underline;
+        }
     }
+
+    .ddd {
+        background-color: lightyellow;
+    }
+
+
 
 }
