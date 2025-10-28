@@ -1,0 +1,86 @@
+$color1: #ffcc00;
+$color2: #00cc00;
+$color3: #66ccff;
+$color4: #ffffff; // #e6f7ff;
+$color5: #ff6699;
+
+$widthSmallest: 220px;
+$width2ndSmall: 720px;
+
+#torveki {
+    border: 1px dashed lightblue;
+    margin-bottom: 1em;
+
+    h2 {
+        margin-top: 1em;
+        margin-left: 1em;
+        color: #2790b3;
+    }
+
+    .testimonial {
+        &__group {
+            // background-color: $color1; // debug
+            padding: 1em 0;
+        }
+
+        &__element {
+            // background-color: $color2;
+            margin: 1em;
+            // box-shadow: 5px 5px 1px 1px $color2;
+            // box-shadow: 1px 1px 1px #518be5;
+            border: 1px solid #2790b3;
+            // border-radius: 1px;
+
+
+            blockquote {
+                background-color: $color4;
+                font-size: 1em;
+                line-height: 1.2;
+                padding: 1em;
+            }
+        }
+
+        &__author {
+            background-color: $color4;
+            display: flex;
+            justify-content: flex-end;
+            // padding: 1em;
+            flex-direction: column;
+
+            >div {
+                background-color: $color4;
+                padding: 0 0.5em 0.5em;
+                margin: 0 0.5em 0.5em;
+            }
+
+            &_photo {
+                // display: none;
+                // width: 100%;
+
+                img {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: $widthSmallest) {
+    #torveki {
+        .testimonial {
+            &__element {
+                // max-width: 300px;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: $width2ndSmall) {
+    #torveki {
+        .testimonial {
+            &__element {
+                // max-width: 500px;
+            }
+        }
+    }
+}

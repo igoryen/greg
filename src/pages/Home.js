@@ -1,6 +1,6 @@
 import "../styles/Home/homeMain.scss";
-import TestimonialCarousel from "../components/TestimonialCarousel";
-
+// import TestimonialCarousel from "../components/TestimonialCarousel";
+import Torveki from "../components/Torveki";
 
 
 const HomePage = () => {
@@ -23,9 +23,13 @@ const HomePage = () => {
                             </div>
                         </div>
 
-                        <section className="testimonials-section">
+                        <div>
+                            <Torveki />
+                        </div>
+
+                        {/* <section className="testimonials-section">
                             <TestimonialCarousel />
-                        </section>
+                        </section> */}
 
                         <div className="mike">
                             <div>📞 🇨🇦: <a href="tel:+16477036200" className=""> (647) 703-6200</a></div>
