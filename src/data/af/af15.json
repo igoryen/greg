@@ -1,0 +1,354 @@
+{
+  "student": "Angela F.",
+  "slug": "af",
+  "period": "week",
+  "number": 43,
+  "date": "2025-10-22",
+  "words": [
+    {
+      "def1": "уха",
+      "ipa": "ə фɪш суп",
+      "spell": "a fish soup"
+    },
+    {
+      "def1": "ударный слог",
+      "ipa": "ə стрэст ˈсɪлəбəл",
+      "spell": "a stressed syllable"
+    },
+    {
+      "def1": "слог",
+      "ipa": "ə ˈсɪлəбəл",
+      "spell": "a syllable"
+    },
+    {
+      "def1": "густой суп",
+      "ipa": "ə θɪк суп",
+      "spell": "a thick soup"
+    },
+    {
+      "def1": "густая уха",
+      "ipa": "ə θɪк фɪш суп",
+      "spell": "a thick fish soup"
+    },
+    {
+      "def1": "сначала",
+      "ipa": "æт фɜрст",
+      "spell": "at first"
+    },
+    {
+      "def1": "бобы",
+      "ipa": "бинз",
+      "spell": "beans"
+    },
+    {
+      "def1": "не разочаровывай меня",
+      "ipa": "доунт ˌдɪсəˈпойнт ми",
+      "spell": "don't disappoint me"
+    },
+    {
+      "def1": "пьяные глаза",
+      "ipa": "ˈдрʌŋкəн айз",
+      "spell": "drunken eyes"
+    },
+    {
+      "def1": "каждый день, кроме среды",
+      "ipa": "ˈэвəри дэй ɪкˈсэпт ˈwэнзˌдэй",
+      "spell": "every day except wednesday"
+    },
+    {
+      "def1": "иди и помоги ей",
+      "ipa": "гоу æнд hэлп hɜр",
+      "spell": "go and help her"
+    },
+    {
+      "def1": "иди на ресепшен, чтобы зарегистрироваться",
+      "ipa": "гоу ту рɪˈсэпшəн ту чэк ɪн",
+      "spell": "go to reception to check in"
+    },
+    {
+      "def1": "он плохо себя чувствует",
+      "ipa": "hи ˈɪзəнт wэл",
+      "spell": "he isn't well"
+    },
+    {
+      "def1": "мы идём!",
+      "ipa": "hир wи кʌм!",
+      "spell": "here we come!"
+    },
+    {
+      "def1": "я разочарован",
+      "ipa": "ай æм ˌдɪсəˈпойнтɪд",
+      "spell": "I am disappointed"
+    },
+    {
+      "def1": "я разочарован этим",
+      "ipa": "ай æм ˌдɪсəˈпойнтɪд wɪð ðɪс",
+      "spell": "I am disappointed with this"
+    },
+    {
+      "def1": "я чувствую себя немного нервно",
+      "ipa": "ай æм ˈфилɪŋ ə ˈлɪтəл ˈнɜрвəс",
+      "spell": "I am feeling a little nervous"
+    },
+    {
+      "def1": "я в городе",
+      "ipa": "ай æм ɪн таун",
+      "spell": "I am in town"
+    },
+    {
+      "def1": "я в городе, встречаюсь с другом",
+      "ipa": "ай æм ɪн таун ˈсиɪŋ ə фрэнд",
+      "spell": "I am in town seeing a friend"
+    },
+    {
+      "def1": "я весьма этим разочарован",
+      "ipa": "ай æм кwайт ˌдɪсəˈпойнтɪд wɪð ɪт",
+      "spell": "I am quite disappointed with it"
+    },
+    {
+      "def1": "я осматриваю достопримечательности здесь (сейчас)",
+      "ipa": "ай æм ˈсайтˈсиɪŋ hир",
+      "spell": "I am sightseeing here"
+    },
+    {
+      "def1": "я прибыл туда",
+      "ipa": "ай əˈрайвд ðэр",
+      "spell": "I arrived there"
+    },
+    {
+      "def1": "я забронировал рейс",
+      "ipa": "ай бʊкт май флайт",
+      "spell": "I booked my flight"
+    },
+    {
+      "def1": "я могу устроиться на работу здесь",
+      "ipa": "ай кæн гэт ə джɑб hир",
+      "spell": "I can get a job here"
+    },
+    {
+      "def1": "я ненавижу тараканов",
+      "ipa": "ай hэйт ˈкɑˌкроучɪз",
+      "spell": "I hate cockroaches"
+    },
+    {
+      "def1": "я засмеялась",
+      "ipa": "ай лæфт",
+      "spell": "I laughed"
+    },
+    {
+      "def1": "я много смеялась",
+      "ipa": "ай лæфт ə лɑт",
+      "spell": "I laughed a lot"
+    },
+    {
+      "def1": "я живу за границей",
+      "ipa": "ай лɪв əˈбрɔд",
+      "spell": "I live abroad"
+    },
+    {
+      "def1": "я сняла дом",
+      "ipa": "ай ˈрэнтɪд ə hаус",
+      "spell": "I rented a house"
+    },
+    {
+      "def1": "я хочу осматривать достопримечательности",
+      "ipa": "ай wɑнт ту гоу ˈсайтˈсиɪŋ",
+      "spell": "I want to go sightseeing"
+    },
+    {
+      "def1": "я хочу пойти осматривать достопримечательности",
+      "ipa": "ай wɑнт ту ˈсайтˈси",
+      "spell": "I want to sightsee"
+    },
+    {
+      "def1": "я хочу сделать перерыв",
+      "ipa": "ай wɑнт ту тэйк ə брэйк",
+      "spell": "I want to take a break"
+    },
+    {
+      "def1": "я ношу это для работы",
+      "ipa": "ай wэр ðɪс фор wɜрк",
+      "spell": "I wear this for work"
+    },
+    {
+      "def1": "я хотел бы посетить разные страны",
+      "ipa": "ай wʊд лайк ту ˈвɪзəт ˈдɪфəрəнт ˈкʌнтриз",
+      "spell": "I would like to visit different countries"
+    },
+    {
+      "def1": "я бы тоже",
+      "ipa": "ай wʊд, ту",
+      "spell": "I would, too"
+    },
+    {
+      "def1": "я хотел бы посмотреть достопримечательности",
+      "ipa": "айд лайк ту си ðə сайтс",
+      "spell": "I'd like to see the sights"
+    },
+    {
+      "def1": "я в поезде",
+      "ipa": "айм ɑн ə трэйн",
+      "spell": "I'm on a train"
+    },
+    {
+      "def1": "если; ли",
+      "ipa": "ɪф",
+      "spell": "if"
+    },
+    {
+      "def1": "в начале",
+      "ipa": "ɪн ðə бɪˈгɪнɪŋ",
+      "spell": "in the beginning"
+    },
+    {
+      "def1": "он находится в отличном месте",
+      "ipa": "ɪт ɪз ɪн ə грэйт лоуˈкэйшəн",
+      "spell": "it is in a great location"
+    },
+    {
+      "def1": "оно в шкафу",
+      "ipa": "ɪт ɪз ɪн ðə ˈклɑзəт",
+      "spell": "it is in the closet"
+    },
+    {
+      "def1": "обидно; это разочаровывает",
+      "ipa": "ɪтс ˌдɪсəˈпойнтɪŋ",
+      "spell": "it's disappointing"
+    },
+    {
+      "def1": "сейчас сезон тыквы",
+      "ipa": "ɪтс ˈпʌмпкɪн ˈсизəн",
+      "spell": "it's pumpkin season"
+    },
+    {
+      "def1": "нет? почему нет?",
+      "ipa": "ноу? wай нɑт?",
+      "spell": "no? why not?"
+    },
+    {
+      "def1": "наверху",
+      "ipa": "ɑн тɑп",
+      "spell": "on top"
+    },
+    {
+      "def1": "один из его детей",
+      "ipa": "wʌн ʌв hɪз ˈчɪлдрəн",
+      "spell": "one of his children"
+    },
+    {
+      "def1": "пожалуйста, поторопись",
+      "ipa": "плиз ˈhɜри",
+      "spell": "please hurry"
+    },
+    {
+      "def1": "я нужен ей",
+      "ipa": "щи нидз ми",
+      "spell": "she needs me"
+    },
+    {
+      "def1": "осмотр достопримечательностей",
+      "ipa": "ˈсайтˈсиɪŋ",
+      "spell": "sightseeing"
+    },
+    {
+      "def1": "ударный, под ударением",
+      "ipa": "стрэст",
+      "spell": "stressed"
+    },
+    {
+      "def1": "сладкий",
+      "ipa": "сwит",
+      "spell": "sweet"
+    },
+    {
+      "def1": "сфотографируй то",
+      "ipa": "тэйк ə ˈфоуˌтоу ʌв ðæт",
+      "spell": "take a photo of that"
+    },
+    {
+      "def1": "сфотографируй это",
+      "ipa": "тэйк ə ˈфоуˌтоу ʌв ðɪс",
+      "spell": "take a photo of this"
+    },
+    {
+      "def1": "сфотографируй всё",
+      "ipa": "тэйк ˈфоуˌтоуз ʌв ˈэвриˌθɪŋ",
+      "spell": "take photos of everything"
+    },
+    {
+      "def1": "возьми лифт",
+      "ipa": "тэйк ðи ˈэлəˌвэйтəр",
+      "spell": "take the elevator"
+    },
+    {
+      "def1": "поезжай на лифте на третий этаж",
+      "ipa": "тэйк ðи ˈэлəˌвэйтəр ту ðə θɜрд флор",
+      "spell": "take the elevator to the third floor"
+    },
+    {
+      "def1": "поезд прибывает",
+      "ipa": "ðə трэйн ɪз əˈрайвɪŋ",
+      "spell": "the train is arriving"
+    },
+    {
+      "def1": "они старые",
+      "ipa": "ðэй ɑр оулд",
+      "spell": "they are old"
+    },
+    {
+      "def1": "скрыть свои глаза",
+      "ipa": "ту hайд ðэр айз",
+      "spell": "to hide their eyes"
+    },
+    {
+      "def1": "встретиться с другом",
+      "ipa": "ту си ə фрэнд",
+      "spell": "to see a friend"
+    },
+    {
+      "def1": "мы сегодня долго ждали приёма у врача",
+      "ipa": "wи ˈwэйтɪд ту си ðə ˈдɑктəр фор ə лɔŋ тайм тəˈдэй",
+      "spell": "we waited to see the doctor for a long time today"
+    },
+    {
+      "def1": "мы сейчас в отеле",
+      "ipa": "wир нау æт ðə hоуˈтэл",
+      "spell": "we're now at the hotel"
+    },
+    {
+      "def1": "мы сейчас лежим на нашей кровати",
+      "ipa": "wир нау ˈлайɪŋ ɑн ˈауəр бэд",
+      "spell": "we're now lying on our bed"
+    },
+    {
+      "def1": "какую одежду ты обычно носишь?",
+      "ipa": "wɑт клоуðз ду ю ˈюжəwəли wэр?",
+      "spell": "what clothes do you usually wear?"
+    },
+    {
+      "def1": "когда ты приезжаешь в отель",
+      "ipa": "wэн ю əˈрайв æт ə hоуˈтэл",
+      "spell": "when you arrive at a hotel"
+    },
+    {
+      "def1": "где и почему?",
+      "ipa": "wэр æнд wай?",
+      "spell": "where and why?"
+    },
+    {
+      "def1": "кому ты звонишь?",
+      "ipa": "hу ɑр ю ˈкɔлɪŋ?",
+      "spell": "who are you calling?"
+    },
+    {
+      "def1": "почему на тебе солнечные очки?",
+      "ipa": "wай ɑр ю ˈwэрɪŋ ˈсʌнˌглæсɪз?",
+      "spell": "why are you wearing sunglasses?"
+    },
+    {
+      "def1": "хотел бы ты пожить за границей год?",
+      "ipa": "wʊд ю лайк ту лɪв əˈбрɔд фор ə йɪр?",
+      "spell": "would you like to live abroad for a year?"
+    }
+  ]
+}
