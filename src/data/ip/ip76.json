@@ -1,0 +1,684 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "week",
+  "number": 43,
+  "date": "2025-10-24",
+  "words": [
+    {
+      "def1": "бізнесмен",
+      "ipa": "ə ˈбизнəс ˈпɜрсəн",
+      "spell": "a business person"
+    },
+    {
+      "def1": "коштовність",
+      "ipa": "ə ˈджуəл",
+      "spell": "a jewel"
+    },
+    {
+      "def1": "розкішний готель",
+      "ipa": "ə ˈлʌґжəрі hоуˈтел",
+      "spell": "a luxury hotel"
+    },
+    {
+      "def1": "музей",
+      "ipa": "ə м’юˈзіəм",
+      "spell": "a museum"
+    },
+    {
+      "def1": "вузька дорога",
+      "ipa": "ə ˈнероу роуд",
+      "spell": "a narrow road"
+    },
+    {
+      "def1": "в'язниця",
+      "ipa": "ə ˈпризəн",
+      "spell": "a prison"
+    },
+    {
+      "def1": "грабіжник",
+      "ipa": "ə ˈрɑбəр",
+      "spell": "a robber"
+    },
+    {
+      "def1": "грабіжник грабує",
+      "ipa": "ə ˈрɑбəр рɑбз",
+      "spell": "a robber robs"
+    },
+    {
+      "def1": "сейф",
+      "ipa": "ə сейф дəˈпɑзит",
+      "spell": "a safe deposit"
+    },
+    {
+      "def1": "сейфова скринька",
+      "ipa": "ə сейф дəˈпɑзит бɑкс",
+      "spell": "a safe deposit box"
+    },
+    {
+      "def1": "таємниця",
+      "ipa": "ə ˈсікрəт",
+      "spell": "a secret"
+    },
+    {
+      "def1": "камінь",
+      "ipa": "ə стоун",
+      "spell": "a stone"
+    },
+    {
+      "def1": "сильна людина",
+      "ipa": "ə стрɔŋ мæн",
+      "spell": "a strong man"
+    },
+    {
+      "def1": "міцна стіна",
+      "ipa": "ə стрɔŋ wɔл",
+      "spell": "a strong wall"
+    },
+    {
+      "def1": "сильна жінка",
+      "ipa": "ə стрɔŋ ˈwʊмəн",
+      "spell": "a strong woman"
+    },
+    {
+      "def1": "вчитель вчить",
+      "ipa": "ə ˈтічəр ˈтічəз",
+      "spell": "a teacher teaches"
+    },
+    {
+      "def1": "сховище",
+      "ipa": "ə vɔлт",
+      "spell": "a vault"
+    },
+    {
+      "def1": "стіна",
+      "ipa": "ə wɔл",
+      "spell": "a wall"
+    },
+    {
+      "def1": "легка мішень для крадіжки",
+      "ipa": "əн ˈізі плейс ту стіл фрʌм",
+      "spell": "an easy place to steal from"
+    },
+    {
+      "def1": "інтерв'ю",
+      "ipa": "əн ˈинтəрˌв’ю",
+      "spell": "an interview"
+    },
+    {
+      "def1": "там хороші дороги?",
+      "ipa": "ɑр ðə роудз ґʊд ðер?",
+      "spell": "are the roads good there?"
+    },
+    {
+      "def1": "ти там?",
+      "ipa": "ɑр ю ðер?",
+      "spell": "are you there?"
+    },
+    {
+      "def1": "о п'ятій годині вечора",
+      "ipa": "æт файv əˈклɑк ин ðі ˌæфтəрˈнун",
+      "spell": "at five o’clock in the afternoon"
+    },
+    {
+      "def1": "о п'ятій вечора",
+      "ipa": "æт файv ˈпіˈем",
+      "spell": "at five PM"
+    },
+    {
+      "def1": "комфорт",
+      "ipa": "ˈкʌмфəрт",
+      "spell": "comfort"
+    },
+    {
+      "def1": "комфортний",
+      "ipa": "ˈкʌмфəртəбəл",
+      "spell": "comfortable"
+    },
+    {
+      "def1": "під час пограбування",
+      "ipa": "ˈдʊриŋ ðə ˈрɑбəрі",
+      "spell": "during the robbery"
+    },
+    {
+      "def1": "достатньо",
+      "ipa": "иˈнʌф",
+      "spell": "enough"
+    },
+    {
+      "def1": "достатньо грошей",
+      "ipa": "иˈнʌф ˈмʌні",
+      "spell": "enough money"
+    },
+    {
+      "def1": "Європа дуже стара",
+      "ipa": "ˈйʊрəп из ˈvері оулд",
+      "spell": "Europe is very old"
+    },
+    {
+      "def1": "для зберігання",
+      "ipa": "фор ˈкіпиŋ",
+      "spell": "for keeping"
+    },
+    {
+      "def1": "для зберігання",
+      "ipa": "фор ˈсториŋ",
+      "spell": "for storing"
+    },
+    {
+      "def1": "протягом двох з половиною годин",
+      "ipa": "фор ту æнд ə hæф ˈауəрз",
+      "spell": "for two and a half hours"
+    },
+    {
+      "def1": "пів на десяту",
+      "ipa": "hæф пæст найн",
+      "spell": "half past nine"
+    },
+    {
+      "def1": "він був вчителем",
+      "ipa": "hі wʌз ə ˈтічəр",
+      "spell": "he was a teacher"
+    },
+    {
+      "def1": "додому",
+      "ipa": "hоум",
+      "spell": "home"
+    },
+    {
+      "def1": "вдома один",
+      "ipa": "hоум əˈлоун",
+      "spell": "home alone"
+    },
+    {
+      "def1": "я сильний",
+      "ipa": "ай æм стрɔŋ",
+      "spell": "I am strong"
+    },
+    {
+      "def1": "я передумав",
+      "ipa": "ай чейнджд май майнд",
+      "spell": "I changed my mind"
+    },
+    {
+      "def1": "я кашляю",
+      "ipa": "ай кɑф",
+      "spell": "I cough"
+    },
+    {
+      "def1": "не думаю, що в мене достатньо грошей",
+      "ipa": "ай доунт θиŋк ай hæv иˈнʌф ˈмʌні",
+      "spell": "I don’t think I have enough money"
+    },
+    {
+      "def1": "я входжу в готель",
+      "ipa": "ай ˈентəр ðə hоуˈтел",
+      "spell": "I enter the hotel"
+    },
+    {
+      "def1": "я йду додому",
+      "ipa": "ай ґоу hоум",
+      "spell": "I go home"
+    },
+    {
+      "def1": "я беру в тебе інтерв'ю",
+      "ipa": "ай ˈинтəрˌв’ю ю",
+      "spell": "I interview you"
+    },
+    {
+      "def1": "мені потрібно сонце",
+      "ipa": "ай нід ðə сʌн",
+      "spell": "I need the sun"
+    },
+    {
+      "def1": "я чхаю",
+      "ipa": "ай сніз",
+      "spell": "I sneeze"
+    },
+    {
+      "def1": "я був у коледжі",
+      "ipa": "ай wʌз æт ˈкɑлидж",
+      "spell": "I was at college"
+    },
+    {
+      "def1": "я був вдома",
+      "ipa": "ай wʌз æт hоум",
+      "spell": "I was at home"
+    },
+    {
+      "def1": "я був у школі",
+      "ipa": "ай wʌз æт скул",
+      "spell": "I was at school"
+    },
+    {
+      "def1": "я був на роботі",
+      "ipa": "ай wʌз æт wɜрк",
+      "spell": "I was at work"
+    },
+    {
+      "def1": "я їхав до півночі учора",
+      "ipa": "ай wʌз ˈдрайvиŋ əнˈтил ˈмидˌнайт ˈйестəрˌдей",
+      "spell": "I was driving until midnight yesterday"
+    },
+    {
+      "def1": "я був тут",
+      "ipa": "ай wʌз hір",
+      "spell": "I was here"
+    },
+    {
+      "def1": "я був вдома",
+      "ipa": "ай wʌз hоум",
+      "spell": "I was home"
+    },
+    {
+      "def1": "я був у торговому центрі",
+      "ipa": "ай wʌз ин ей (ˈшɑпиŋ) мɔл",
+      "spell": "I was in a (shopping) mall"
+    },
+    {
+      "def1": "я був у готелі",
+      "ipa": "ай wʌз ин ə hоуˈтел",
+      "spell": "I was in a hotel"
+    },
+    {
+      "def1": "я був на зустрічі",
+      "ipa": "ай wʌз ин ə ˈмітиŋ",
+      "spell": "I was in a meeting"
+    },
+    {
+      "def1": "я був у музеї",
+      "ipa": "ай wʌз ин ə м’юˈзіəм",
+      "spell": "I was in a museum"
+    },
+    {
+      "def1": "я був у ресторані",
+      "ipa": "ай wʌз ин ə ˈрестəˌрɑнт",
+      "spell": "I was in a restaurant"
+    },
+    {
+      "def1": "я був у ліжку",
+      "ipa": "ай wʌз ин бед",
+      "spell": "I was in bed"
+    },
+    {
+      "def1": "я був у своїй машині",
+      "ipa": "ай wʌз ин май кɑр",
+      "spell": "I was in my car"
+    },
+    {
+      "def1": "я був у Сіетлі",
+      "ipa": "ай wʌз ин сіˈæтəл",
+      "spell": "I was in Seattle"
+    },
+    {
+      "def1": "я був на кухні",
+      "ipa": "ай wʌз ин ðə ˈкичəн",
+      "spell": "I was in the kitchen"
+    },
+    {
+      "def1": "я був у парку",
+      "ipa": "ай wʌз ин ðə пɑрк",
+      "spell": "I was in the park"
+    },
+    {
+      "def1": "я був на човні",
+      "ipa": "ай wʌз ɑн ə боут",
+      "spell": "I was on a boat"
+    },
+    {
+      "def1": "я був у автобусі",
+      "ipa": "ай wʌз ɑн ə бʌс",
+      "spell": "I was on a bus"
+    },
+    {
+      "def1": "я був у літаку",
+      "ipa": "ай wʌз ɑн ə плейн",
+      "spell": "I was on a plane"
+    },
+    {
+      "def1": "я був у поїзді",
+      "ipa": "ай wʌз ɑн ə трейн",
+      "spell": "I was on a train"
+    },
+    {
+      "def1": "я був на вулиці",
+      "ipa": "ай wʌз ɑн ðə стріт",
+      "spell": "I was on the street"
+    },
+    {
+      "def1": "я був на вулиці",
+      "ipa": "ай wʌз ˈаутˈсайд",
+      "spell": "I was outside"
+    },
+    {
+      "def1": "мені щастило",
+      "ipa": "ай wʌз сəкˈсесфəл",
+      "spell": "I was successful"
+    },
+    {
+      "def1": "я був слабким",
+      "ipa": "ай wʌз wік",
+      "spell": "I was weak"
+    },
+    {
+      "def1": "всього за годину",
+      "ipa": "ин джʌст əн ˈауəр",
+      "spell": "in just an hour"
+    },
+    {
+      "def1": "всього за дві з половиною години",
+      "ipa": "ин джʌст ту æнд ə hæф ˈауəрз",
+      "spell": "in just two and a half hours"
+    },
+    {
+      "def1": "всього за дві години",
+      "ipa": "ин джʌст ту ˈауəрз",
+      "spell": "in just two hours"
+    },
+    {
+      "def1": "з нього відкривається чудовий вид на парк",
+      "ipa": "ит hæз ґрейт в’юз ʌv ðə пɑрк",
+      "spell": "it has great views of the park"
+    },
+    {
+      "def1": "там теж вузькі дороги",
+      "ipa": "ит hæз ˈнероу роудз, ту",
+      "spell": "it has narrow roads, too"
+    },
+    {
+      "def1": "це відомо",
+      "ipa": "ит из ˈфеймəс",
+      "spell": "it is famous"
+    },
+    {
+      "def1": "це в Нью-Йорку",
+      "ipa": "ит из ин ну йорк ˈситі",
+      "spell": "it is in New York City"
+    },
+    {
+      "def1": "це ближче до кінця тижня",
+      "ipa": "ит из нир ðі енд ʌv ðə wік",
+      "spell": "it is near the end of the week"
+    },
+    {
+      "def1": "це було в сховищі",
+      "ipa": "ит wʌз ин ðə vɔлт",
+      "spell": "it was in the vault"
+    },
+    {
+      "def1": "це відоме пограбуванням",
+      "ipa": "итс ˈфеймəс фор ə ˈрɑбəрі",
+      "spell": "it’s famous for a robbery"
+    },
+    {
+      "def1": "не сонячно",
+      "ipa": "итс нɑт ˈсʌні",
+      "spell": "it’s not sunny"
+    },
+    {
+      "def1": "занадто рано",
+      "ipa": "итс ту ˈɜрлі",
+      "spell": "it’s too early"
+    },
+    {
+      "def1": "ювелірні вироби",
+      "ipa": "ˈджуəлрі",
+      "spell": "jewelry"
+    },
+    {
+      "def1": "у п'ятницю ввечері",
+      "ipa": "лæст ˈфрайˌдей найт",
+      "spell": "last Friday night"
+    },
+    {
+      "def1": "розкіш",
+      "ipa": "ˈлʌґжəрі",
+      "spell": "luxury"
+    },
+    {
+      "def1": "мармур",
+      "ipa": "ˈмɑрбəл",
+      "spell": "marble"
+    },
+    {
+      "def1": "більше ніж",
+      "ipa": "мор ðæн",
+      "spell": "more than"
+    },
+    {
+      "def1": "моє рідне місто",
+      "ipa": "май hоум таун",
+      "spell": "my home town"
+    },
+    {
+      "def1": "ніхто не постраждав",
+      "ipa": "ноу wʌн wʌз hɜрт",
+      "spell": "no one was hurt"
+    },
+    {
+      "def1": "ні, я б не став",
+      "ipa": "ноу, ай ˈwʊдəнт",
+      "spell": "no, I wouldn’t"
+    },
+    {
+      "def1": "пограбування",
+      "ipa": "ˈрɑбəрі",
+      "spell": "robbery"
+    },
+    {
+      "def1": "гумовий",
+      "ipa": "ˈрʌбəрі",
+      "spell": "rubbery"
+    },
+    {
+      "def1": "вона була в ліжку",
+      "ipa": "ші wʌз ин бед",
+      "spell": "she was in bed"
+    },
+    {
+      "def1": "вона була там",
+      "ipa": "ші wʌз ðер",
+      "spell": "she was there"
+    },
+    {
+      "def1": "щось підозріле",
+      "ipa": "ˈсʌмθиŋ ˈфиші",
+      "spell": "something fishy"
+    },
+    {
+      "def1": "щось підозріле",
+      "ipa": "ˈсʌмθиŋ сəˈспишəс",
+      "spell": "something suspicious"
+    },
+    {
+      "def1": "успіх",
+      "ipa": "сəкˈсес",
+      "spell": "success"
+    },
+    {
+      "def1": "мені було страшно",
+      "ipa": "ðæт wʌз ˈскері ту мі",
+      "spell": "that was scary to me"
+    },
+    {
+      "def1": "ось що підозріло!",
+      "ipa": "ðæтс wʌтс ˈфиші!",
+      "spell": "that’s what’s fishy!"
+    },
+    {
+      "def1": "міста дуже старі",
+      "ipa": "ðə ˈситіз ɑр ˈvері оулд",
+      "spell": "the cities are very old"
+    },
+    {
+      "def1": "історія міста",
+      "ipa": "ðə ˈситіз ˈhистəрі",
+      "spell": "the city’s history"
+    },
+    {
+      "def1": "детектив, який допитує його",
+      "ipa": "ðə диˈтектиv ˈинтəрˌв’юиŋ hим",
+      "spell": "the detective interviewing him"
+    },
+    {
+      "def1": "найуспішніший",
+      "ipa": "ðə моуст сəкˈсесфəл",
+      "spell": "the most successful"
+    },
+    {
+      "def1": "наступного дня вони були в",
+      "ipa": "ðə некст дей, ðей wɜр ин",
+      "spell": "the next day, they were in"
+    },
+    {
+      "def1": "вони крадуть у нас",
+      "ipa": "ðей стіл фрʌм ʌс",
+      "spell": "they steal from us"
+    },
+    {
+      "def1": "вони змогли",
+      "ipa": "ðей wɜр ˈейбəл",
+      "spell": "they were able"
+    },
+    {
+      "def1": "вони були в наручниках",
+      "ipa": "ðей wɜр ин ˈhæндˌкʌфс",
+      "spell": "they were in handcuffs"
+    },
+    {
+      "def1": "вони були у в'язниці",
+      "ipa": "ðей wɜр ин ˈпризəн",
+      "spell": "they were in prison"
+    },
+    {
+      "def1": "вони були офіціантками",
+      "ipa": "ðей wɜр ˈwейтрəсиз /ˈдʌбəл’юəр/",
+      "spell": "they were waitresses /wəр/"
+    },
+    {
+      "def1": "брати інтерв'ю",
+      "ipa": "ту ˈинтəрˌв’ю ˈсʌмˌбɑді",
+      "spell": "to interview somebody"
+    },
+    {
+      "def1": "красти з місця",
+      "ipa": "ту стіл фрʌм ə плейс",
+      "spell": "to steal from a place"
+    },
+    {
+      "def1": "красти з легкої мішені",
+      "ipa": "ту стіл фрʌм əн ˈізі плейс",
+      "spell": "to steal from an easy place"
+    },
+    {
+      "def1": "разом",
+      "ipa": "тəˈґеðəр",
+      "spell": "together"
+    },
+    {
+      "def1": "дві з половиною години",
+      "ipa": "ту æнд ə hæф ˈауəрз",
+      "spell": "two and a half hours"
+    },
+    {
+      "def1": "до півночі",
+      "ipa": "əнˈтил ˈмидˌнайт",
+      "spell": "until midnight"
+    },
+    {
+      "def1": "він був вдома?",
+      "ipa": "wʌз hі æт hоум?",
+      "spell": "was he at home?"
+    },
+    {
+      "def1": "ми святкуємо",
+      "ipa": "wі ˈселəˌбрейт",
+      "spell": "we celebrate"
+    },
+    {
+      "def1": "ми святкуємо Новий рік!",
+      "ipa": "wі ˈселəˌбрейт ðə ну йир!",
+      "spell": "we celebrate the new year!"
+    },
+    {
+      "def1": "ми були там",
+      "ipa": "wі wɜр ðер",
+      "spell": "we were there"
+    },
+    {
+      "def1": "вони були тут?",
+      "ipa": "wɜр ðей hір?",
+      "spell": "were they here?"
+    },
+    {
+      "def1": "що підозріло?",
+      "ipa": "wɑт из ˈфиші?",
+      "spell": "what is fishy?"
+    },
+    {
+      "def1": "яка це будівля?",
+      "ipa": "wɑт кайнд ʌv ˈбилдиŋ из ит?",
+      "spell": "what kind of building is it?"
+    },
+    {
+      "def1": "яка це будівля?",
+      "ipa": "wɑт кайнд ʌv ˈбилдиŋ?",
+      "spell": "what kind of building?"
+    },
+    {
+      "def1": "де і коли",
+      "ipa": "wер æнд wен",
+      "spell": "where and when"
+    },
+    {
+      "def1": "де вона була?",
+      "ipa": "wер wʌз ші?",
+      "spell": "where was she?"
+    },
+    {
+      "def1": "чому це відомо?",
+      "ipa": "wай из ит ˈфеймəс?",
+      "spell": "why is it famous?"
+    },
+    {
+      "def1": "ти б?",
+      "ipa": "wʊд ю?",
+      "spell": "would you?"
+    },
+    {
+      "def1": "так, я був",
+      "ipa": "йес, ай wʌз",
+      "spell": "yes, I was"
+    },
+    {
+      "def1": "так, я був",
+      "ipa": "йес, ай wʌз /ˈдʌбəл’юʌз/",
+      "spell": "yes, I was /wʌз/"
+    },
+    {
+      "def1": "так, я б",
+      "ipa": "йес, ай wʊд",
+      "spell": "yes, I would"
+    },
+    {
+      "def1": "так, ми були",
+      "ipa": "йес, wі wɜр",
+      "spell": "yes, we were"
+    },
+    {
+      "def1": "учора",
+      "ipa": "ˈйестəрˌдей",
+      "spell": "yesterday"
+    },
+    {
+      "def1": "учора вдень",
+      "ipa": "ˈйестəрˌдей ˌæфтəрˈнун",
+      "spell": "yesterday afternoon"
+    },
+    {
+      "def1": "ти в безпеці",
+      "ipa": "ю ɑр сейф",
+      "spell": "you are safe"
+    }
+  ]
+}
