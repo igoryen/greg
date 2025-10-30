@@ -1,0 +1,579 @@
+{
+  "student": "Ilia H.",
+  "slug": "ih",
+  "period": "week",
+  "number": 43,
+  "date": "2025-10-21",
+  "words": [
+    {
+      "def1": "-ание, -ение",
+      "ipa": "-ɪŋ",
+      "spell": "-ing"
+    },
+    {
+      "def1": "-ая, -яя",
+      "ipa": "-ɪŋ",
+      "spell": "-ing"
+    },
+    {
+      "def1": "-ущ, -ющ, -ащ, -ящ",
+      "ipa": "-ɪŋ",
+      "spell": "-ing"
+    },
+    {
+      "def1": "достопримечательность",
+      "ipa": "ə сайт ту си",
+      "spell": "a sight to see"
+    },
+    {
+      "def1": "планшет",
+      "ipa": "ə ˈтæблəт",
+      "spell": "a tablet"
+    },
+    {
+      "def1": "полтора года",
+      "ipa": "ə йɪр æнд ə hæф",
+      "spell": "a year and a half"
+    },
+    {
+      "def1": "за границей",
+      "ipa": "əˈбрɔд",
+      "spell": "abroad"
+    },
+    {
+      "def1": "просроченный протеиновый коктейль",
+      "ipa": "əн ɪкˈспайрд ˈпроуˌтин шэɪк",
+      "spell": "an expired protein shake"
+    },
+    {
+      "def1": "ингредиент",
+      "ipa": "əн ɪнˈгридиəнт",
+      "spell": "an ingredient"
+    },
+    {
+      "def1": "Австралия находится внизу, на юге",
+      "ipa": "ɔˈстрэйлйə ɪз даун сауθ",
+      "spell": "Australia is down south"
+    },
+    {
+      "def1": "Канада находится наверху, на севере",
+      "ipa": "ˈкæнəдə ɪз ʌп норθ",
+      "spell": "Canada is up north"
+    },
+    {
+      "def1": "ты хорошо провёл время?",
+      "ipa": "дɪд ю hæв ə гʊд тайм?",
+      "spell": "did you have a good time?"
+    },
+    {
+      "def1": "у тебя были какие-нибудь проблемы?",
+      "ipa": "дɪд ю hæв ˈэни ˈпрɑблəмз?",
+      "spell": "did you have any problems?"
+    },
+    {
+      "def1": "делая",
+      "ipa": "ˈдуɪŋ",
+      "spell": "doing"
+    },
+    {
+      "def1": "в течение дня",
+      "ipa": "ˈдʊрɪŋ ðə дэй",
+      "spell": "during the day"
+    },
+    {
+      "def1": "во время войны",
+      "ipa": "ˈдʊрɪŋ ðə wор",
+      "spell": "during the war"
+    },
+    {
+      "def1": "в гостях хорошо, а дома лучше",
+      "ipa": "ист ор wэст hоум ɪз бэст",
+      "spell": "east or west home is best"
+    },
+    {
+      "def1": "чувствуя",
+      "ipa": "ˈфилɪŋ",
+      "spell": "feeling"
+    },
+    {
+      "def1": "к счастью",
+      "ipa": "ˈфорчəнəтли",
+      "spell": "fortunately"
+    },
+    {
+      "def1": "ситуация улучшилась?",
+      "ipa": "hæз ðə ˌсɪчуˈэйшəн ɪмˈпрувд?",
+      "spell": "has the situation improved?"
+    },
+    {
+      "def1": "ситуация улучшилась с прошлой недели?",
+      "ipa": "hæв θɪŋз пɪкт ʌп сɪнс лæст wик?",
+      "spell": "have things picked up since last week?"
+    },
+    {
+      "def1": "он сохранил это",
+      "ipa": "hи кэпт ɪт",
+      "spell": "he kept it"
+    },
+    {
+      "def1": "сильный ветер",
+      "ipa": "hай wɪндз",
+      "spell": "high winds"
+    },
+    {
+      "def1": "честно",
+      "ipa": "ˈɑнəстли",
+      "spell": "honestly"
+    },
+    {
+      "def1": "как ужасно!",
+      "ipa": "hау aфwул!",
+      "spell": "how afwul!"
+    },
+    {
+      "def1": "я бронирую отель онлайн",
+      "ipa": "ай бʊк ə hоуˈтэл ˈɔнˌлайн",
+      "spell": "I book a hotel online"
+    },
+    {
+      "def1": "я купил чипсы на эти деньги",
+      "ipa": "ай бɑт сʌм чɪпс wɪð ðə ˈмʌни",
+      "spell": "I bought some chips with the money"
+    },
+    {
+      "def1": "я разбил люстру",
+      "ipa": "ай броук ə щæндəˈлɪр",
+      "spell": "I broke a chandelier"
+    },
+    {
+      "def1": "я умею очень хорошо плавать",
+      "ipa": "ай кæн сwɪм ˈвэри wэл",
+      "spell": "I can swim very well"
+    },
+    {
+      "def1": "я поступил правильно",
+      "ipa": "ай дɪд ðə райт θɪŋ",
+      "spell": "I did the right thing"
+    },
+    {
+      "def1": "я не чувствовал себя плохо",
+      "ipa": "ай ˈдɪдəнт фил бæд",
+      "spell": "I didn’t feel bad"
+    },
+    {
+      "def1": "у меня не было никаких проблем",
+      "ipa": "ай ˈдɪдəнт hæв ˈэни ˈпрɑблəмз",
+      "spell": "I didn’t have any problems"
+    },
+    {
+      "def1": "я хожу плавать каждый день",
+      "ipa": "ай гоу ˈсwɪмɪŋ ˈэвəри дэй",
+      "spell": "I go swimming every day"
+    },
+    {
+      "def1": "я отлично провёл время",
+      "ipa": "ай hæд ə грэйт тайм",
+      "spell": "I had a great time"
+    },
+    {
+      "def1": "у меня не было проблем",
+      "ipa": "ай hæд ноу ˈпрɑблəмз",
+      "spell": "I had no problems"
+    },
+    {
+      "def1": "я хорошо провожу время",
+      "ipa": "ай hæв ə гʊд тайм",
+      "spell": "I have a good time"
+    },
+    {
+      "def1": "я держал это обеими руками",
+      "ipa": "ай hэлд ɪт wɪð боуθ hæндз",
+      "spell": "I held it with both hands"
+    },
+    {
+      "def1": "я пнул это",
+      "ipa": "ай кɪкт ɪт",
+      "spell": "I kicked it"
+    },
+    {
+      "def1": "мне нравится есть не дома",
+      "ipa": "ай лайк ˈитɪŋ аут",
+      "spell": "I like eating out"
+    },
+    {
+      "def1": "мне нравится бегать",
+      "ipa": "ай лайк ˈрʌнɪŋ",
+      "spell": "I like running"
+    },
+    {
+      "def1": "мне нравится ходить пешком",
+      "ipa": "ай лайк ˈwɔкɪŋ",
+      "spell": "I like walking"
+    },
+    {
+      "def1": "я живу дальше на юг",
+      "ipa": "ай лɪв ˈфɑрðəр сауθ",
+      "spell": "I live farther south"
+    },
+    {
+      "def1": "я потерял телефон",
+      "ipa": "ай лɔст май фоун",
+      "spell": "I lost my phone"
+    },
+    {
+      "def1": "я ударил это кулаком",
+      "ipa": "ай пʌнчт ɪт",
+      "spell": "I punched it"
+    },
+    {
+      "def1": "я чувствовал запах крыс и мусора",
+      "ipa": "ай смэлд рæтс æнд трæш",
+      "spell": "I smelled rats and trash"
+    },
+    {
+      "def1": "я провёл там месяц",
+      "ipa": "ай спэнт ə мʌнθ ðэр",
+      "spell": "I spent a month there"
+    },
+    {
+      "def1": "я жил в отеле на Таймс-сквер",
+      "ipa": "ай стэйд ɪн ə hоуˈтэл ɪн таймз скwэр",
+      "spell": "I stayed in a hotel in Times Square"
+    },
+    {
+      "def1": "я растоптал это",
+      "ipa": "ай стɑмпт ɪт",
+      "spell": "I stomped it"
+    },
+    {
+      "def1": "я загораю на пляже",
+      "ipa": "ай ˈсʌнˌбэйð ɑн ðə бич",
+      "spell": "I sunbathe on the beach"
+    },
+    {
+      "def1": "я плавал в океане",
+      "ipa": "ай сwæм ɪн ðи ˈоушəн",
+      "spell": "I swam in the ocean"
+    },
+    {
+      "def1": "я ходил на прогулки",
+      "ipa": "ай wэнт фор wɔкс",
+      "spell": "I went for walks"
+    },
+    {
+      "def1": "я поехал седьмого августа",
+      "ipa": "ай wэнт ɑн ˈɑгəст ˈсэвəнθ",
+      "spell": "I went on August seventh"
+    },
+    {
+      "def1": "я осматривал достопримечательности",
+      "ipa": "ай wэнт ˈсайтˈсиɪŋ",
+      "spell": "I went sightseeing"
+    },
+    {
+      "def1": "я ездил туда на три дня",
+      "ipa": "ай wэнт ðэр фор θри дэйз",
+      "spell": "I went there for three days"
+    },
+    {
+      "def1": "я ездил в Нью-Йорк в свой последний отпуск",
+      "ipa": "ай wэнт ту ну йорк ɑн май лæст вэйˈкэйшəн",
+      "spell": "I went to New York on my last vacation"
+    },
+    {
+      "def1": "я поехал с семьёй",
+      "ipa": "ай wэнт wɪð май ˈфæмəли",
+      "spell": "I went with my family"
+    },
+    {
+      "def1": "я выиграл медаль",
+      "ipa": "ай wʌн ə ˈмэдəл",
+      "spell": "I won a medal"
+    },
+    {
+      "def1": "если у нас прибыльный день",
+      "ipa": "ɪф wи hæв ə ˈпрɑфəтəбəл дэй",
+      "spell": "if we have a profitable day"
+    },
+    {
+      "def1": "в соревновании по ММА",
+      "ipa": "ɪн əн эм-эм-эй ˌкɑмпəˈтɪшəн",
+      "spell": "in an MMA competition"
+    },
+    {
+      "def1": "в первые часы",
+      "ipa": "ɪн ðə фɜрст фъю ˈауəрз",
+      "spell": "in the first few hours"
+    },
+    {
+      "def1": "шёл дождь каждый день",
+      "ipa": "ɪт рэйнд ˈэвəри дэй",
+      "spell": "it rained every day"
+    },
+    {
+      "def1": "дождь идёт очень часто",
+      "ipa": "ɪт рэйнз ˈвэри ˈɔфəн",
+      "spell": "it rains very often"
+    },
+    {
+      "def1": "это было очень высокое здание",
+      "ipa": "ɪт wʌз ə ˈвэри тɔл ˈбɪлдɪŋ",
+      "spell": "it was a very tall building"
+    },
+    {
+      "def1": "было облачно",
+      "ipa": "ɪт wʌз ˈклауди",
+      "spell": "it was cloudy"
+    },
+    {
+      "def1": "он был грязный",
+      "ipa": "ɪт wʌз ˈдɜрти",
+      "spell": "it was dirty"
+    },
+    {
+      "def1": "он был просрочен",
+      "ipa": "ɪт wʌз ɪкˈспайрд",
+      "spell": "it was expired"
+    },
+    {
+      "def1": "было туманно",
+      "ipa": "ɪт wʌз ˈфɑги",
+      "spell": "it was foggy"
+    },
+    {
+      "def1": "было солнечно",
+      "ipa": "ɪт wʌз ˈсʌни",
+      "spell": "it was sunny"
+    },
+    {
+      "def1": "оно было очень высоким",
+      "ipa": "ɪт wʌз ˈвэри тɔл",
+      "spell": "it was very tall"
+    },
+    {
+      "def1": "было тепло",
+      "ipa": "ɪт wʌз wорм",
+      "spell": "it was warm"
+    },
+    {
+      "def1": "было ветрено",
+      "ipa": "ɪт wʌз ˈwɪнди",
+      "spell": "it was windy"
+    },
+    {
+      "def1": "это лучшее место, где я когда-либо был",
+      "ipa": "ɪтс ðə бэст плэйс ай hæв ˈэвəр бɪн",
+      "spell": "it’s the best place I have ever been"
+    },
+    {
+      "def1": "будь проще, дурак (KISS)",
+      "ipa": "кип ɪт ˈсɪмпəл, ˈступɪд (кɪс)",
+      "spell": "keep it simple, stupid (KISS)"
+    },
+    {
+      "def1": "моя сестра сказала мне",
+      "ipa": "май ˈсɪстəр сэд ту ми",
+      "spell": "my sister said to me"
+    },
+    {
+      "def1": "ни хорошо, ни плохо",
+      "ipa": "ˈниðəр гʊд нор бæд",
+      "spell": "neither good nor bad"
+    },
+    {
+      "def1": "север, юг",
+      "ipa": "норθ, сауθ",
+      "spell": "north, south"
+    },
+    {
+      "def1": "в автобусе",
+      "ipa": "ɑн ðə бʌс",
+      "spell": "on the bus"
+    },
+    {
+      "def1": "люди, которых я знаю",
+      "ipa": "ˈпипəл ай ноу",
+      "spell": "people I know"
+    },
+    {
+      "def1": "бегая",
+      "ipa": "ˈрʌнɪŋ",
+      "spell": "running"
+    },
+    {
+      "def1": "так много людей там",
+      "ipa": "соу ˈмэни ˈпипəл ðэр",
+      "spell": "so many people there"
+    },
+    {
+      "def1": "персонал",
+      "ipa": "стæф",
+      "spell": "staff"
+    },
+    {
+      "def1": "отель был простым",
+      "ipa": "ðə hоуˈтэл wʌз ˈбэйсɪк",
+      "spell": "the hotel was basic"
+    },
+    {
+      "def1": "отель был комфортным",
+      "ipa": "ðə hоуˈтэл wʌз ˈкʌмфəртəбəл",
+      "spell": "the hotel was comfortable"
+    },
+    {
+      "def1": "отель был роскошным",
+      "ipa": "ðə hоуˈтэл wʌз лəгжˈɜриəс",
+      "spell": "the hotel was luxurious"
+    },
+    {
+      "def1": "люди были недружелюбными",
+      "ipa": "ðə ˈпипəл wɜр əнˈфрэндли",
+      "spell": "the people were unfriendly"
+    },
+    {
+      "def1": "город был переполнен",
+      "ipa": "ðə таун wʌз ˈкраудɪд",
+      "spell": "the town was crowded"
+    },
+    {
+      "def1": "погода была ужасной",
+      "ipa": "ðə ˈwэðəр wʌз ˈтэрəбəл",
+      "spell": "the weather was terrible"
+    },
+    {
+      "def1": "они не агрессивны",
+      "ipa": "ðэй ɑр нɑт ˈвайəлəнт",
+      "spell": "they are not violent"
+    },
+    {
+      "def1": "они меня не наказали",
+      "ipa": "ðэй ˈдɪдəнт ˈпʌнɪш ми",
+      "spell": "they didn’t punish me"
+    },
+    {
+      "def1": "они не понимают шуток",
+      "ipa": "ðэй доунт гэт джоукс",
+      "spell": "they don’t get jokes"
+    },
+    {
+      "def1": "они меня наказали",
+      "ipa": "ðэй ˈпʌнɪшт ми",
+      "spell": "they punished me"
+    },
+    {
+      "def1": "они не были полезны",
+      "ipa": "ðэй wɜр əнˈhэлпфəл",
+      "spell": "they were unhelpful"
+    },
+    {
+      "def1": "-ть, -ти",
+      "ipa": "ту ...",
+      "spell": "to ..."
+    },
+    {
+      "def1": "какая жалость!",
+      "ipa": "ту бæд!",
+      "spell": "too bad!"
+    },
+    {
+      "def1": "стараясь",
+      "ipa": "ˈтрайɪŋ",
+      "spell": "trying"
+    },
+    {
+      "def1": "к сожалению",
+      "ipa": "əнˈфорчəнəтли",
+      "spell": "unfortunately"
+    },
+    {
+      "def1": "до полуночи",
+      "ipa": "əнˈтɪл ˈмɪдˌнайт",
+      "spell": "until midnight"
+    },
+    {
+      "def1": "гуляя",
+      "ipa": "ˈwɔкɪŋ",
+      "spell": "walking"
+    },
+    {
+      "def1": "мы уезжаем (на выходные)",
+      "ipa": "wи гоу əˈwэй (фор ðə ˈwиˌкэнд)",
+      "spell": "we go away (for the weekend)"
+    },
+    {
+      "def1": "мы выходим (ночью)",
+      "ipa": "wи гоу аут (æт найт)",
+      "spell": "we go out (at night)"
+    },
+    {
+      "def1": "мы останавливаемся в кемпинге",
+      "ipa": "wи стэй æт ə ˈкæмпˌсайт",
+      "spell": "we stay at a campsite"
+    },
+    {
+      "def1": "мы живём в отеле",
+      "ipa": "wи стэй ɪн ə hоуˈтэл",
+      "spell": "we stay in a hotel"
+    },
+    {
+      "def1": "мы пошли в магазин пешком",
+      "ipa": "wи wɔкт ту ðə стор",
+      "spell": "we walked to the store"
+    },
+    {
+      "def1": "мы гуляли в холмах",
+      "ipa": "wи wэнт ˈwɔкɪŋ ɪн ðə hɪлз",
+      "spell": "we went walking in the hills"
+    },
+    {
+      "def1": "что ты делал (в течение дня)?",
+      "ipa": "wɑт дɪд ю ду (ˈдʊрɪŋ ðə дэй)?",
+      "spell": "what did you do (during the day)?"
+    },
+    {
+      "def1": "что ты делал (вечером)?",
+      "ipa": "wɑт дɪд ю ду (ɪн ðи ˈивнɪŋ)?",
+      "spell": "what did you do (in the evening)?"
+    },
+    {
+      "def1": "что это было за шоу?",
+      "ipa": "wɑт шоʊ wʌз ɪт?",
+      "spell": "what show was it?"
+    },
+    {
+      "def1": "каким оно было?",
+      "ipa": "wɑт wʌз ɪт лайк?",
+      "spell": "what was it like?"
+    },
+    {
+      "def1": "какая была погода?",
+      "ipa": "wɑт wʌз ðə ˈwэðəр лайк?",
+      "spell": "what was the weather like?"
+    },
+    {
+      "def1": "когда ты ездил?",
+      "ipa": "wэн дɪд ю гоу?",
+      "spell": "when did you go?"
+    },
+    {
+      "def1": "куда ты ездил?",
+      "ipa": "wэр дɪд ю гоу?",
+      "spell": "where did you go?"
+    },
+    {
+      "def1": "где ты останавливался?",
+      "ipa": "wэр дɪд ю стэй?",
+      "spell": "where did you stay?"
+    },
+    {
+      "def1": "с кем ты поехал?",
+      "ipa": "hу дɪд ю гоу wɪð?",
+      "spell": "who did you go with?"
+    },
+    {
+      "def1": "работая",
+      "ipa": "ˈwɜркɪŋ",
+      "spell": "working"
+    }
+  ]
+}
