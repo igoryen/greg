@@ -1,0 +1,554 @@
+{
+  "student": "Galja P.",
+  "slug": "gp",
+  "period": "week",
+  "number": 43,
+  "date": "2025-10-21",
+  "words": [
+    {
+      "def1": "красива жінка",
+      "ipa": "ə ˈб’ютəфəл ˈwʊмəн",
+      "spell": "a beautiful woman"
+    },
+    {
+      "def1": "красива дівчина",
+      "ipa": "ə ˈб’ютəфəл ґɜрл",
+      "spell": "a beautiful girl"
+    },
+    {
+      "def1": "кома",
+      "ipa": "ə ˈкɑмə",
+      "spell": "a comma"
+    },
+    {
+      "def1": "померлий тато",
+      "ipa": "ə дед дæд",
+      "spell": "a dead Dad"
+    },
+    {
+      "def1": "красивий хлопець",
+      "ipa": "ə ˈhæнсəм ґай",
+      "spell": "a handsome guy"
+    },
+    {
+      "def1": "багато грошей",
+      "ipa": "ə лɑт ʌv ˈмʌні",
+      "spell": "a lot of money"
+    },
+    {
+      "def1": "багато людей",
+      "ipa": "ə лɑт ʌv ˈпіпəл",
+      "spell": "a lot of people"
+    },
+    {
+      "def1": "багато речей",
+      "ipa": "ə лɑт ʌv θиŋз",
+      "spell": "a lot of things"
+    },
+    {
+      "def1": "гарне обличчя",
+      "ipa": "ə найс фейс",
+      "spell": "a nice face"
+    },
+    {
+      "def1": "хороший хлопець",
+      "ipa": "ə найс ґай",
+      "spell": "a nice guy"
+    },
+    {
+      "def1": "крапка",
+      "ipa": "ə ˈпиріəд",
+      "spell": "a period"
+    },
+    {
+      "def1": "гарна дівчина",
+      "ipa": "ə ˈприті ґɜрл",
+      "spell": "a pretty girl"
+    },
+    {
+      "def1": "гарна жінка",
+      "ipa": "ə ˈприті ˈwʊмəн",
+      "spell": "a pretty woman"
+    },
+    {
+      "def1": "знак питання",
+      "ipa": "ə ˈкwесчəн мɑрк",
+      "spell": "a question mark"
+    },
+    {
+      "def1": "апостроф",
+      "ipa": "əн əˈпɑстрəфі",
+      "spell": "an apostrophe"
+    },
+    {
+      "def1": "Аніно",
+      "ipa": "æнз",
+      "spell": "Ann's"
+    },
+    {
+      "def1": "це твої діти?",
+      "ipa": "ɑр ðоуз йʊəр ˈчилдрəн?",
+      "spell": "are those your children?"
+    },
+    {
+      "def1": "поводься добре!",
+      "ipa": "бі ґʊд!",
+      "spell": "be good!"
+    },
+    {
+      "def1": "братово",
+      "ipa": "ˈбрʌðəрз",
+      "spell": "brother's"
+    },
+    {
+      "def1": "Бадді - собака Карлі",
+      "ipa": "ˈбʌді из ˈкɑрліз дɔґ",
+      "spell": "Buddy is Carly’s dog"
+    },
+    {
+      "def1": "можна подивитися?",
+      "ipa": "кæн ай сі?",
+      "spell": "can I see?"
+    },
+    {
+      "def1": "заходь!",
+      "ipa": "кʌм ин!",
+      "spell": "come in!"
+    },
+    {
+      "def1": "тато",
+      "ipa": "дæд",
+      "spell": "Dad"
+    },
+    {
+      "def1": "тато помер",
+      "ipa": "дæд из дед",
+      "spell": "dad is dead"
+    },
+    {
+      "def1": "мертвий",
+      "ipa": "дед",
+      "spell": "dead"
+    },
+    {
+      "def1": "її день народження",
+      "ipa": "hɜр ˈбɜрθˌдей",
+      "spell": "her birthday"
+    },
+    {
+      "def1": "її листівка",
+      "ipa": "hɜр ˈбɜрθˌдей кɑрд",
+      "spell": "her birthday card"
+    },
+    {
+      "def1": "її подруга",
+      "ipa": "hɜр френд",
+      "spell": "her friend"
+    },
+    {
+      "def1": "ось наші кави",
+      "ipa": "hір ɑр ˈауəр ˈкɔфіз",
+      "spell": "here are our coffees"
+    },
+    {
+      "def1": "скільки років",
+      "ipa": "hау оулд",
+      "spell": "how old"
+    },
+    {
+      "def1": "скільки йому років?",
+      "ipa": "hау оулд из hі?",
+      "spell": "how old is he?"
+    },
+    {
+      "def1": "я не в порядку",
+      "ipa": "ай æм нɑт ˈоуˈкей",
+      "spell": "I am not ok"
+    },
+    {
+      "def1": "я не пам'ятаю",
+      "ipa": "ай доунт риˈмембəр",
+      "spell": "I don't remember"
+    },
+    {
+      "def1": "я тебе дуже люблю",
+      "ipa": "ай лʌv ю ə лɑт",
+      "spell": "I love you a lot"
+    },
+    {
+      "def1": "ти мені дуже потрібен",
+      "ipa": "ай нід ю ə лɑт",
+      "spell": "I need you a lot"
+    },
+    {
+      "def1": "Ігорево",
+      "ipa": "иˈґорз",
+      "spell": "Igor's"
+    },
+    {
+      "def1": "у моєму телефоні",
+      "ipa": "ин май фоун",
+      "spell": "in my phone"
+    },
+    {
+      "def1": "це її робота",
+      "ipa": "ит из hɜр джɑб",
+      "spell": "it is her job"
+    },
+    {
+      "def1": "це її подарунок",
+      "ipa": "ит из hɜр ˈпрезəнт",
+      "spell": "it is her present"
+    },
+    {
+      "def1": "це його сумка",
+      "ipa": "ит из hиз бæґ",
+      "spell": "it is his bag"
+    },
+    {
+      "def1": "це його гроші",
+      "ipa": "ит из hиз ˈмʌні",
+      "spell": "it is his money"
+    },
+    {
+      "def1": "це його їжа",
+      "ipa": "ит из итс фуд",
+      "spell": "it is its food"
+    },
+    {
+      "def1": "це його іграшка",
+      "ipa": "ит из итс той",
+      "spell": "it is its toy"
+    },
+    {
+      "def1": "це робота Джека та Джил",
+      "ipa": "ит из джæк æнд джилз джɑб",
+      "spell": "it is Jack and Jill’s job"
+    },
+    {
+      "def1": "це сумка Джима",
+      "ipa": "ит из джимз бæґ",
+      "spell": "it is Jim’s bag"
+    },
+    {
+      "def1": "це робота Мері",
+      "ipa": "ит из ˈмеріз джɑб",
+      "spell": "it is Mary’s job"
+    },
+    {
+      "def1": "це кока Майка",
+      "ipa": "ит из майкс коук",
+      "spell": "it is Mike’s coke"
+    },
+    {
+      "def1": "це їжа мого кота",
+      "ipa": "ит из май кæтс фуд",
+      "spell": "it is my cat’s  food"
+    },
+    {
+      "def1": "це гроші мого тата",
+      "ipa": "ит из май дæдз ˈмʌні",
+      "spell": "it is my dad’s money"
+    },
+    {
+      "def1": "це курка моєї мами та тата",
+      "ipa": "ит из май мɑм æнд дæдз ˈчикəн",
+      "spell": "it is my mom and dad’s chicken"
+    },
+    {
+      "def1": "це подарунок моєї мами",
+      "ipa": "ит из май мɑмз ˈпрезəнт",
+      "spell": "it is my mom’s present"
+    },
+    {
+      "def1": "це іграшка Плуто",
+      "ipa": "ит из ˈплутоуз той",
+      "spell": "it is Pluto’s toy"
+    },
+    {
+      "def1": "це їхня курка",
+      "ipa": "ит из ðер ˈчикəн",
+      "spell": "it is their chicken"
+    },
+    {
+      "def1": "це їхня робота",
+      "ipa": "ит из ðер джɑб",
+      "spell": "it is their job"
+    },
+    {
+      "def1": "це твій кока",
+      "ipa": "ит из йʊəр коук",
+      "spell": "it is your coke"
+    },
+    {
+      "def1": "це її день народження",
+      "ipa": "итс hɜр ˈбɜрθˌдей",
+      "spell": "it's her birthday"
+    },
+    {
+      "def1": "його ресторан фантастичний",
+      "ipa": "итс ˈрестəˌрɑнт из фæнˈтæстик",
+      "spell": "its restaurant is fantastic"
+    },
+    {
+      "def1": "Іваново",
+      "ipa": "джɑнз",
+      "spell": "John's"
+    },
+    {
+      "def1": "Катіно",
+      "ipa": "ˈкейтіз",
+      "spell": "Katy's"
+    },
+    {
+      "def1": "замовмо піцу",
+      "ipa": "летс ˈордəр ˈпітсə",
+      "spell": "let's order pizza"
+    },
+    {
+      "def1": "Маріїне",
+      "ipa": "ˈмеріз",
+      "spell": "Mary's"
+    },
+    {
+      "def1": "можливо",
+      "ipa": "ˈмейбі",
+      "spell": "maybe"
+    },
+    {
+      "def1": "Міа - їхня дочка",
+      "ipa": "ˈміə из ðер ˈдɔтəр",
+      "spell": "Mia is their daughter"
+    },
+    {
+      "def1": "Мішино",
+      "ipa": "майкс",
+      "spell": "Mike's"
+    },
+    {
+      "def1": "мама",
+      "ipa": "мɑм",
+      "spell": "Mom"
+    },
+    {
+      "def1": "моя сім'я",
+      "ipa": "май ˈфæмəлі",
+      "spell": "my family"
+    },
+    {
+      "def1": "мій телефон розрядився",
+      "ipa": "май фоун из дед",
+      "spell": "my phone is dead"
+    },
+    {
+      "def1": "Коліно",
+      "ipa": "никс",
+      "spell": "Nick's"
+    },
+    {
+      "def1": "Нінине",
+      "ipa": "ˈнінəз",
+      "spell": "Nina's"
+    },
+    {
+      "def1": "недостатньо сну",
+      "ipa": "нɑт иˈнʌф сліп",
+      "spell": "not enough sleep"
+    },
+    {
+      "def1": "старий",
+      "ipa": "оулд",
+      "spell": "old"
+    },
+    {
+      "def1": "на столі",
+      "ipa": "ɑн ðə ˈтейбəл",
+      "spell": "on the table"
+    },
+    {
+      "def1": "наші діти он там",
+      "ipa": "ˈауəр ˈчилдрəн ɑр ˈоуvəр ðер",
+      "spell": "our children are over there"
+    },
+    {
+      "def1": "господарський",
+      "ipa": "ˈоунəрз",
+      "spell": "owner's"
+    },
+    {
+      "def1": "Петрово",
+      "ipa": "ˈпітəрз",
+      "spell": "Peter's"
+    },
+    {
+      "def1": "Сем - хлопчик",
+      "ipa": "сæм из ðə бой",
+      "spell": "Sam is the boy"
+    },
+    {
+      "def1": "вона така красива!",
+      "ipa": "ші из соу ˈб’ютəфəл!",
+      "spell": "she is so beautiful!"
+    },
+    {
+      "def1": "сестрине",
+      "ipa": "ˈсистəрз",
+      "spell": "sister's"
+    },
+    {
+      "def1": "це пізно",
+      "ipa": "ðæтс лейт",
+      "spell": "that’s late"
+    },
+    {
+      "def1": "це важко",
+      "ipa": "ðæтс тʌф",
+      "spell": "that’s tough"
+    },
+    {
+      "def1": "їхні імена",
+      "ipa": "ðер неймз",
+      "spell": "their names"
+    },
+    {
+      "def1": "ці бургери для команди",
+      "ipa": "ðіз ˈбɜрґəрз ɑр фор ðə тім",
+      "spell": "these burgers are for the team"
+    },
+    {
+      "def1": "ці подарунки для моїх друзів",
+      "ipa": "ðіз ґифтс ɑр фор май френдз",
+      "spell": "these gifts are for my friends"
+    },
+    {
+      "def1": "це подарунки моїх друзів",
+      "ipa": "ðей ɑр май френдз ґифтс",
+      "spell": "they are my friends’ gifts"
+    },
+    {
+      "def1": "це бургери команди",
+      "ipa": "ðей ɑр ðə тімз ˈбɜрґəрз",
+      "spell": "they are the team’s burgers"
+    },
+    {
+      "def1": "це їхні бургери",
+      "ipa": "ðей ɑр ðер ˈбɜрґəрз",
+      "spell": "they are their burgers"
+    },
+    {
+      "def1": "це їхні подарунки",
+      "ipa": "ðей ɑр ðер ґифтс",
+      "spell": "they are their gifts"
+    },
+    {
+      "def1": "ця сумка для мого сина, Джима",
+      "ipa": "ðис бæґ из фор май сʌн, джим",
+      "spell": "this bag is for my son, Jim"
+    },
+    {
+      "def1": "ця курка для моєї мами та тата",
+      "ipa": "ðис ˈчикəн из фор май мɑм æнд дæд",
+      "spell": "this chicken is for my mom and dad"
+    },
+    {
+      "def1": "цей кока для тебе, Майк",
+      "ipa": "ðис коук из фор ю, майк",
+      "spell": "this coke is for you, Mike"
+    },
+    {
+      "def1": "ця їжа для мого кота",
+      "ipa": "ðис фуд из фор май кæт",
+      "spell": "this food is for my cat"
+    },
+    {
+      "def1": "це твій ключ",
+      "ipa": "ðис из йʊəр кі",
+      "spell": "this is your key"
+    },
+    {
+      "def1": "ця робота для Джека та Джил",
+      "ipa": "ðис джɑб из фор джæк æнд джил",
+      "spell": "this job is for Jack and Jill"
+    },
+    {
+      "def1": "ця робота для моєї партнерки Мері",
+      "ipa": "ðис джɑб из фор май ˈпɑртнəр ˈмері",
+      "spell": "this job is for my partner Mary"
+    },
+    {
+      "def1": "ці гроші для мого тата",
+      "ipa": "ðис ˈмʌні из фор май дæд",
+      "spell": "this money is for my dad"
+    },
+    {
+      "def1": "цей подарунок для моєї мами",
+      "ipa": "ðис ˈпрезəнт из фор май мɑм",
+      "spell": "this present is for my mom"
+    },
+    {
+      "def1": "ця іграшка для мого собаки, Плуто",
+      "ipa": "ðис той из фор май дɔґ, ˈплутоу",
+      "spell": "this toy is for my dog, Pluto"
+    },
+    {
+      "def1": "Вікіно",
+      "ipa": "Vіca'с",
+      "spell": "Vica's"
+    },
+    {
+      "def1": "у нас є бронювання",
+      "ipa": "wі hæv ə ˌрезəрˈvейшəн",
+      "spell": "we have a reservation"
+    },
+    {
+      "def1": "яка гарна листівка!",
+      "ipa": "wɑт ə найс кɑрд!",
+      "spell": "what a nice card!"
+    },
+    {
+      "def1": "як нас звати?",
+      "ipa": "wɑт ɑр ˈауəр неймз?",
+      "spell": "what are our names?"
+    },
+    {
+      "def1": "як їх звати?",
+      "ipa": "wɑт ɑр ðер неймз?",
+      "spell": "what are their names?"
+    },
+    {
+      "def1": "як вас звати?",
+      "ipa": "wɑт ɑр йʊəр неймз?",
+      "spell": "what are your names?"
+    },
+    {
+      "def1": "як її звати?",
+      "ipa": "wʌтс hɜр нейм?",
+      "spell": "what's her name?"
+    },
+    {
+      "def1": "як його звати?",
+      "ipa": "wʌтс hиз нейм?",
+      "spell": "what's his name?"
+    },
+    {
+      "def1": "як його звати?",
+      "ipa": "wʌтс итс нейм?",
+      "spell": "what's its name?"
+    },
+    {
+      "def1": "як мене звати?",
+      "ipa": "wʌтс май нейм?",
+      "spell": "what's my name?"
+    },
+    {
+      "def1": "як тебе звати?",
+      "ipa": "wʌтс йʊəр нейм?",
+      "spell": "what's your name?"
+    },
+    {
+      "def1": "чий?",
+      "ipa": "hуз?",
+      "spell": "whose?"
+    }
+  ]
+}
