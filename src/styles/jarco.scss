@@ -1,0 +1,149 @@
+#jarco {
+    width: 100%;
+    font-family: "Noto Sans", sans-serif;
+
+
+    .simple-square {
+        position: relative;
+        padding: 2em 0;
+        cursor: pointer;
+    }
+
+    .field {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        // height: 100vh;
+        height: 10em;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
+
+    .square {
+        width: 200px;
+        height: 200px;
+        // border: 2px solid black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        // background: white;
+    }
+
+    .tree1 {
+        font-size: 1em;
+        position: absolute;
+        top: 0;
+        left: 35%;
+
+
+    }
+
+    .tree2 {
+        font-size: 1em;
+        position: absolute;
+        top: 0;
+        right: 30%;
+
+
+    }
+
+    .tree3 {
+        font-size: 1em;
+        position: absolute;
+        top: 0;
+        right: 40%;
+
+
+    }
+
+    .tree4 {
+        font-size: 300%;
+        position: absolute;
+        bottom: 10%;
+        right: 10%;
+
+
+    }
+
+    .tree5 {
+        font-size: 300%;
+        position: absolute;
+        bottom: 10%;
+        right: 20%;
+    }
+
+    .woman1 {
+        font-size: 200%;
+        position: absolute;
+        bottom: 16%;
+        left: 30%;
+    }
+
+    .man1 {
+        font-size: 200%;
+        position: absolute;
+        bottom: 16%;
+        right: 30%;
+    }
+
+    .house1 {
+        font-size: 400%;
+        position: absolute;
+        bottom: 13%;
+        left: 10%;
+    }
+
+    .house2 {
+        font-size: 94%;
+        position: absolute;
+        top: 10%;
+        left: 40%;
+    }
+
+    .house3 {
+        font-size: 100%;
+        position: absolute;
+        top: 10%;
+        right: 40%;
+    }
+
+
+
+
+    .far {
+        position: absolute;
+        top: -5%;
+        font-size: 150%;
+        font-weight: 600;
+
+        &.that {
+            left: 10%;
+            transform: skew(-25deg);
+        }
+
+        &.those {
+            right: 10%;
+            transform: skew(25deg);
+        }
+    }
+
+    .near {
+        position: absolute;
+        bottom: -11%;
+        font-size: 200%;
+        font-weight: 600;
+
+        &.this {
+            left: 2%;
+            transform: skew(-25deg);
+        }
+
+        &.these {
+            right: 2%;
+            transform: skew(25deg);
+        }
+    }
+
+}

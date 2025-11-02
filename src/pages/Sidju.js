@@ -13,6 +13,7 @@ const Sidju = () => {
         { label: "Cnicro", path: "/cnicro", desc: "\"be\" in present simple" },
         { label: "Gadri", path: "/gadri", desc: "articles: ə/ən, ðə/ði" },
         { label: "Grapheme", path: "/grapheme", desc: "Graphemes" },
+        { label: "Jarco", path: "/jarco", desc: "Demonstrative pronouns" },
         { label: "Jimte", path: "/jimte", desc: "Message shredder" },
         { label: "Kalsa", path: "/kalsa", desc: "The Chaos (1922)" },
         { label: "Kooi", path: "/kooi", desc: "imperatives" },

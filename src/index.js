@@ -147,7 +147,7 @@ import IP51 from "./pages/ip/IP51";
 
 import IS from "./pages/is/IS";
 import IS01 from "./pages/is/IS01";
-
+import Jarco from "./pages/Jarco";
 import Jaw from "./pages/Jaw";
 
 import Jimte from "./pages/Jimte";
@@ -480,6 +480,7 @@ export default function App() {
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />
 
+          <Route path="jarco" element={<Jarco />} />
           <Route path="jimte" element={<Jimte />} />
 
           <Route path="kalsa" element={<Kalsa />} />
