@@ -1,7 +1,40 @@
 #zunsna {
+    width: 100%;
     // border: 1px solid red;
     font-family: "Noto Sans", sans-serif;
     font-size: x-large;
+
+
+    .tabs {
+        display: flex;
+        border-bottom: 2px solid #ccc;
+
+        .tab {
+            padding: 10px 20px;
+            background: #f7f7f7;
+            border: none;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background 0.3s ease;
+
+            &.active {
+                background: #fff;
+                border-bottom: 2px solid #007bff;
+                color: #007bff;
+            }
+
+            &:hover:not(.active) {
+                background: #eaeaea;
+            }
+        }
+    }
+
+    .tab-content {
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-top: none;
+    }
+
 
     .blair {
         padding: 2px 2px 1em;
