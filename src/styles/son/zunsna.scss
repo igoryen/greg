@@ -97,6 +97,22 @@
 
     }
 
+    .slash {
+        position: relative;
+
+        &::after {
+            content: '';
+            position: absolute;
+            top: 56%;
+            left: -5px;
+            width: 180%;
+            height: 2px;
+            background: rgba(255, 0, 0, 0.5);
+            transform: rotate(-67deg);
+
+        }
+    }
+
     .spell_ {
         // background-color: bisque;
         // color: brown;
@@ -109,6 +125,11 @@
         line-height: 1;
         margin-left: 1em;
         padding: 2px;
+
+        .transf {
+            color: purple;
+            font-weight: 900;
+        }
 
         .insert {
             color: blue;

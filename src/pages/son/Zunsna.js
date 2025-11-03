@@ -359,7 +359,7 @@ const Zunsna = (prop) => {
                             <div>+<i className="phoneme">S</i>=</div>
                             <div>wɑ<i className="voiced non">tʃ</i><i className="inset">ɪ</i><i className="aza">z</i></div>
                             <div className="spell_">watch
-                                <i className="insert">e</i>
+                                <i className="insert slash">e</i>
                                 <i className="s_d">s</i>,
                                 watch<i className="insert">'</i><i className="s_d">s</i>, watches'
                             </div>
@@ -369,7 +369,7 @@ const Zunsna = (prop) => {
                             <div>pi<i className="voiced non">tʃ</i></div>
                             <div>+<i className="phoneme">S</i>=</div>
                             <div>pi<i className="voiced non">tʃ</i><i className="inset">ɪ</i><i className="aza">z</i></div>
-                            <div className="spell_">peach<i className="insert">e</i>
+                            <div className="spell_">peach<i className="insert slash">e</i>
                                 <i className="s_d">s</i>, peach<i className="insert">'</i><i className="s_d">s</i>, peaches' </div>
                         </div>
                         <div className="chapelle">
@@ -536,7 +536,7 @@ const Zunsna = (prop) => {
                             <div>fr<i className="voiced yes">i</i></div>
                             <div>+<i className="phoneme">D</i>=</div>
                             <div>fr<i className="voiced yes">i</i><i className="aza">d</i></div>
-                            <div className="spell_">free -- fre<i className="insert">e</i><i className="s_d">d</i>  </div>
+                            <div className="spell_">free -- free<i className="s_d">d</i>  </div>
                         </div>
                         <div className="chapelle">
                             <div className="dwight">&nbsp;</div>
@@ -546,60 +546,32 @@ const Zunsna = (prop) => {
                             <div className="spell_">pee -- pee<i className="s_d">d</i> </div>
                         </div>
                         <div className="chapelle">
-                            <div className="dwight">🔑</div>
-                            <div>k<i className="voiced yes">i</i></div>
+                            <div className="dwight">&nbsp;</div>
+                            <div>lʌ<i className="voiced yes">v</i></div>
                             <div>+<i className="phoneme">D</i>=</div>
-                            <div>k<i className="voiced yes">i</i><i className="aza">d</i></div>
-                            <div className="spell_">key -- key<i className="insert">e</i><i className="s_d">d</i> </div>
+                            <div>lʌ<i className="voiced yes">v</i><i className="aza">d</i></div>
+                            <div className="spell_">love -- love<i className="s_d">d</i>  </div>
                         </div>
                         <div className="chapelle">
                             <div className="dwight">&nbsp;</div>
-                            <div>p<i className="voiced yes">eɪ</i></div>
+                            <div>mu<i className="voiced yes">v</i></div>
                             <div>+<i className="phoneme">D</i>=</div>
-                            <div>p<i className="voiced yes">eɪ</i><i className="aza">d</i></div>
-                            <div className="spell_">pay -- pay<i className="insert">e</i><i className="s_d">d</i>  </div>
+                            <div>mu<i className="voiced yes">v</i><i className="aza">d</i></div>
+                            <div className="spell_">move -- move<i className="s_d">d</i>  </div>
                         </div>
                         <div className="chapelle">
                             <div className="dwight">&nbsp;</div>
-                            <div>l<i className="voiced yes">aɪ</i></div>
+                            <div>seɪ<i className="voiced yes">v</i></div>
                             <div>+<i className="phoneme">D</i>=</div>
-                            <div>l<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
-                            <div className="spell_">lie -- lie<i className="s_d">d</i> </div>
+                            <div>seɪ<i className="voiced yes">v</i><i className="aza">d</i></div>
+                            <div className="spell_">save -- save<i className="s_d">d</i>  </div>
                         </div>
                         <div className="chapelle">
                             <div className="dwight">&nbsp;</div>
-                            <div>tr<i className="voiced yes">aɪ</i></div>
+                            <div>kɛ<i className="voiced yes">r</i></div>
                             <div>+<i className="phoneme">D</i>=</div>
-                            <div>tr<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
-                            <div className="spell_">try -- tri<i className="insert">e</i><i className="s_d">d</i>  </div>
-                        </div>
-                        <div className="chapelle">
-                            <div className="dwight">&nbsp;</div>
-                            <div>t<i className="voiced yes">aɪ</i></div>
-                            <div>+<i className="phoneme">D</i>=</div>
-                            <div>t<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
-                            <div className="spell_">tie -- tie<i className="s_d">d</i> </div>
-                        </div>
-                        <div className="chapelle">
-                            <div className="dwight">&nbsp;</div>
-                            <div>fr<i className="voiced yes">aɪ</i></div>
-                            <div>+<i className="phoneme">D</i>=</div>
-                            <div>fr<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
-                            <div className="spell_">fry -- fri<i className="insert">e</i><i className="s_d">d</i>  </div>
-                        </div>
-                        <div className="chapelle">
-                            <div className="dwight">&nbsp;</div>
-                            <div>dr<i className="voiced yes">aɪ</i></div>
-                            <div>+<i className="phoneme">D</i>=</div>
-                            <div>dr<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
-                            <div className="spell_">dry -- dri<i className="insert">e</i><i className="s_d">d</i>  </div>
-                        </div>
-                        <div className="chapelle">
-                            <div className="dwight">&nbsp;</div>
-                            <div>sk<i className="voiced yes">i</i></div>
-                            <div>+<i className="phoneme">D</i>=</div>
-                            <div>sk<i className="voiced yes">i</i><i className="aza">d</i></div>
-                            <div className="spell_">ski -- ski<i className="insert">e</i><i className="s_d">d</i>  </div>
+                            <div>kɛ<i className="voiced yes">r</i><i className="aza">d</i></div>
+                            <div className="spell_">care -- care<i className="s_d">d</i>  </div>
                         </div>
                         <div className="chapelle">
                             <div className="dwight">&nbsp;</div>
@@ -622,6 +594,90 @@ const Zunsna = (prop) => {
                             <div>lɪ<i className="voiced yes">v</i><i className="aza">d</i></div>
                             <div className="spell_">live -- live<i className="s_d">d</i> </div>
                         </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>l<i className="voiced yes">aɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>l<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">lie -- lie<i className="s_d">d</i> </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>t<i className="voiced yes">aɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>t<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">tie -- tie<i className="s_d">d</i> </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>sk<i className="voiced yes">i</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>sk<i className="voiced yes">i</i><i className="aza">d</i></div>
+                            <div className="spell_">ski -- ski<i className="insert slash">e</i><i className="s_d">d</i>  </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">🔑</div>
+                            <div>k<i className="voiced yes">i</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>k<i className="voiced yes">i</i><i className="aza">d</i></div>
+                            <div className="spell_">key -- key<i className="insert slash">e</i><i className="s_d">d</i> </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>p<i className="voiced yes">eɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>p<i className="voiced yes">eɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">pay -- pay<i className="insert slash">e</i><i className="s_d">d</i>  </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>pl<i className="voiced yes">eɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>pl<i className="voiced yes">eɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">play -- play<i className="insert slash">e</i><i className="s_d">d</i>  </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>st<i className="voiced yes">eɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>st<i className="voiced yes">eɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">stay -- stay<i className="insert slash">e</i><i className="s_d">d</i>  </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>tr<i className="voiced yes">aɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>tr<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">
+                                try -- tr<i className="transf">i</i>
+                                <i className="insert slash">e</i>
+                                <i className="s_d">d</i>
+                            </div>
+                        </div>
+
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>fr<i className="voiced yes">aɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>fr<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">
+                                fry -- fr<i className="transf">i</i>
+                                <i className="insert slash">e</i>
+                                <i className="s_d">d</i>
+                            </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>dr<i className="voiced yes">aɪ</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>dr<i className="voiced yes">aɪ</i><i className="aza">d</i></div>
+                            <div className="spell_">
+                                dry -- dr<i className="transf">i</i>
+                                <i className="insert slash">e</i>
+                                <i className="s_d">d</i>
+                            </div>
+                        </div>
+
 
                     </div>
 
@@ -788,20 +844,43 @@ const Zunsna = (prop) => {
 
                 <div className="blair frisco">
                     <h1>2) ... voiceless, whispery, quiet: </h1>
+                    <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
+                        <div>hoʊ<i className="voiced non">p</i></div>
+                        <div>+<i className="phoneme">D</i>=</div>
+                        <div>hoʊ<i className="voiced non">p</i><i className="asa">t</i></div>
+                        <div className="spell_">hope -- hope<i className="s_d">d</i></div>
+                    </div>
+                    <div className="chapelle">
+                        <div className="dwight">&nbsp;</div>
+                        <div>laɪ<i className="voiced non">k</i></div>
+                        <div>+<i className="phoneme">D</i>=</div>
+                        <div>laɪ<i className="voiced non">k</i><i className="asa">t</i></div>
+                        <div className="spell_">like -- like<i className="s_d">d</i></div>
+                    </div>
                     <div className="pam">
+
+
                         <div className="chapelle">
                             <div className="dwight">&nbsp;</div>
                             <div>æs<i className="voiced non">k</i></div>
                             <div>+<i className="phoneme">D</i>=</div>
                             <div>æs<i className="voiced non">k</i><i className="asa">t</i></div>
-                            <div className="spell_">ask -- ask<i className="insert">e</i><i className="s_d">d</i></div>
+                            <div className="spell_">ask -- ask<i className="insert slash">e</i><i className="s_d">d</i></div>
                         </div>
                         <div className="chapelle">
                             <div className="dwight">📖</div>
                             <div>bʊ<i className="voiced non">k</i></div>
                             <div>+<i className="phoneme">D</i>=</div>
                             <div>bʊ<i className="voiced non">k</i><i className="asa">t</i></div>
-                            <div className="spell_">book -- book<i className="insert">e</i><i className="s_d">d</i> </div>
+                            <div className="spell_">book -- book<i className="insert slash">e</i><i className="s_d">d</i> </div>
+                        </div>
+                        <div className="chapelle">
+                            <div className="dwight">&nbsp;</div>
+                            <div>kʌ<i className="voiced non">f</i></div>
+                            <div>+<i className="phoneme">D</i>=</div>
+                            <div>kʌ<i className="voiced non">f</i><i className="asa">t</i></div>
+                            <div className="spell_">cuff -- cuff<i className="insert slash">e</i><i className="s_d">d</i> </div>
                         </div>
                     </div>
 
@@ -821,22 +900,10 @@ const Zunsna = (prop) => {
                             <div className="spell_">cats, cat's, cats' </div>
                         </div>
                     </div> */}
-                    <div className="chapelle">
-                        <div className="dwight">&nbsp;</div>
-                        <div>hoʊ<i className="voiced non">p</i></div>
-                        <div>+<i className="phoneme">D</i>=</div>
-                        <div>hoʊ<i className="voiced non">p</i><i className="asa">t</i></div>
-                        <div className="spell_">hope -- hope<i className="s_d">d</i></div>
-                    </div>
 
 
-                    <div className="chapelle">
-                        <div className="dwight">&nbsp;</div>
-                        <div>kʌ<i className="voiced non">f</i></div>
-                        <div>+<i className="phoneme">D</i>=</div>
-                        <div>kʌ<i className="voiced non">f</i><i className="asa">t</i></div>
-                        <div className="spell_">cuff -- cuff<i className="insert">e</i><i className="s_d">d</i> </div>
-                    </div>
+
+
                     {/* <div className="chapelle">
                         <div className="dwight">&nbsp;</div>
                         <div>mɪ<i className="voiced non">θ</i></div>
