@@ -1,0 +1,744 @@
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "week",
+  "number": 43,
+  "date": "2025-10-26",
+  "words": [
+    {
+      "def1": "врач",
+      "ipa": "ə ˈдɑктəр",
+      "spell": "a doctor"
+    },
+    {
+      "def1": "фабричный рабочий",
+      "ipa": "ə ˈфæктəри ˈwɜркəр",
+      "spell": "a factory worker"
+    },
+    {
+      "def1": "работа",
+      "ipa": "ə джɑб",
+      "spell": "a job"
+    },
+    {
+      "def1": "журналист",
+      "ipa": "ə ˈджɜрнəлəст",
+      "spell": "a journalist"
+    },
+    {
+      "def1": "закон",
+      "ipa": "ə лɔ",
+      "spell": "a law"
+    },
+    {
+      "def1": "медсестра, медбрат",
+      "ipa": "ə нɜрс",
+      "spell": "a nurse"
+    },
+    {
+      "def1": "телефон",
+      "ipa": "ə фоун",
+      "spell": "a phone"
+    },
+    {
+      "def1": "фраза",
+      "ipa": "ə фрэйз",
+      "spell": "a phrase"
+    },
+    {
+      "def1": "место работы",
+      "ipa": "ə плэйс ʌв wɜрк",
+      "spell": "a place of work"
+    },
+    {
+      "def1": "полицейский",
+      "ipa": "ə пəˈлисмəн",
+      "spell": "a policeman"
+    },
+    {
+      "def1": "полицейская",
+      "ipa": "ə пəˈлиˌсwʊмəн",
+      "spell": "a policewoman"
+    },
+    {
+      "def1": "администратор",
+      "ipa": "ə рɪˈсэпшəнɪст",
+      "spell": "a receptionist"
+    },
+    {
+      "def1": "встреча выпускников",
+      "ipa": "ə риˈунйəн",
+      "spell": "a reunion"
+    },
+    {
+      "def1": "продавец",
+      "ipa": "ə ˈсэйлзˌпɜрсəн",
+      "spell": "a salesperson"
+    },
+    {
+      "def1": "школа",
+      "ipa": "ə скул",
+      "spell": "a school"
+    },
+    {
+      "def1": "встреча выпускников",
+      "ipa": "ə скул риˈунйəн",
+      "spell": "a school reunion"
+    },
+    {
+      "def1": "таксист",
+      "ipa": "ə ˈтæкси ˈдрайвəр",
+      "spell": "a taxi driver"
+    },
+    {
+      "def1": "учитель",
+      "ipa": "ə ˈтичəр",
+      "spell": "a teacher"
+    },
+    {
+      "def1": "учитель учит / преподаёт",
+      "ipa": "ə ˈтичəр ˈтичəз",
+      "spell": "a teacher teaches"
+    },
+    {
+      "def1": "официант",
+      "ipa": "ə ˈwэйтəр",
+      "spell": "a waiter"
+    },
+    {
+      "def1": "официантка",
+      "ipa": "ə ˈwэйтрəс",
+      "spell": "a waitress"
+    },
+    {
+      "def1": "после шоу",
+      "ipa": "ˈæфтəр ðə шоʊ",
+      "spell": "after the show"
+    },
+    {
+      "def1": "вдохновение",
+      "ipa": "əн ˌɪнспəˈрэйшəн",
+      "spell": "an inspiration"
+    },
+    {
+      "def1": "умная девочка",
+      "ipa": "əн ɪнˈтэлəджəнт гɜрл",
+      "spell": "an intelligent girl"
+    },
+    {
+      "def1": "дома",
+      "ipa": "æт hоум",
+      "spell": "at home"
+    },
+    {
+      "def1": "в нашей старой школе",
+      "ipa": "æт ˈауəр оулд скул",
+      "spell": "at our old school"
+    },
+    {
+      "def1": "потому что",
+      "ipa": "бɪˈкɔз",
+      "spell": "because"
+    },
+    {
+      "def1": "они встречаются?",
+      "ipa": "ду ðэй мит?",
+      "spell": "do they meet?"
+    },
+    {
+      "def1": "ты хочешь чай или кофе?",
+      "ipa": "ду ю wɑнт ти ор ˈкɑфи?",
+      "spell": "do you want tea or coffee?"
+    },
+    {
+      "def1": "делает",
+      "ipa": "дʌз",
+      "spell": "does"
+    },
+    {
+      "def1": "он любит кошек?",
+      "ipa": "дʌз hи лайк кæтс?",
+      "spell": "does he like cats?"
+    },
+    {
+      "def1": "ему нравится его новая работа?",
+      "ipa": "дʌз hи лайк hɪз ну джɑб?",
+      "spell": "does he like his new job?"
+    },
+    {
+      "def1": "он говорит по-английски?",
+      "ipa": "дʌз hи спик ˈɪŋглɪш?",
+      "spell": "does he speak English?"
+    },
+    {
+      "def1": "он работает?",
+      "ipa": "дʌз hи wɜрк?",
+      "spell": "does he work?"
+    },
+    {
+      "def1": "это работает?",
+      "ipa": "дʌз ɪт wɜрк?",
+      "spell": "does it work?"
+    },
+    {
+      "def1": "она живёт с тобой?",
+      "ipa": "дʌз щи лɪв wɪð ю?",
+      "spell": "does she live with you?"
+    },
+    {
+      "def1": "она работает?",
+      "ipa": "дʌз щи wɜрк?",
+      "spell": "does she work?"
+    },
+    {
+      "def1": "нанятый, занятый, трудоустроенный",
+      "ipa": "эмˈплойд",
+      "spell": "employed"
+    },
+    {
+      "def1": "заканчивает",
+      "ipa": "ˈфɪнɪщɪз",
+      "spell": "finishes"
+    },
+    {
+      "def1": "ходит",
+      "ipa": "гоуз",
+      "spell": "goes"
+    },
+    {
+      "def1": "серый",
+      "ipa": "грэй",
+      "spell": "gray"
+    },
+    {
+      "def1": "седые волосы",
+      "ipa": "грэй hэр",
+      "spell": "gray hair"
+    },
+    {
+      "def1": "отличный",
+      "ipa": "грэйт",
+      "spell": "great"
+    },
+    {
+      "def1": "рад тебя видеть!",
+      "ipa": "грэйт ту си ю!",
+      "spell": "great to see you!"
+    },
+    {
+      "def1": "он делает домашнее задание",
+      "ipa": "hи дʌз hɪз ˈhоумˌwɜрк",
+      "spell": "he does his homework"
+    },
+    {
+      "def1": "он не ест рыбу",
+      "ipa": "hи ˈдʌзəнт ит фɪш",
+      "spell": "he doesn't eat fish"
+    },
+    {
+      "def1": "он не работает",
+      "ipa": "hи ˈдʌзəнт wɜрк",
+      "spell": "he doesn't work"
+    },
+    {
+      "def1": "он ходит в спортзал",
+      "ipa": "hи гоуз ту ðə джɪм",
+      "spell": "he goes to the gym"
+    },
+    {
+      "def1": "у него есть пистолет",
+      "ipa": "hи hæз ə гʌн",
+      "spell": "he has a gun"
+    },
+    {
+      "def1": "у него есть деньги",
+      "ipa": "hи hæз ˈмʌни",
+      "spell": "he has money"
+    },
+    {
+      "def1": "у него два брата",
+      "ipa": "hи hæз ту ˈбрʌðəрз",
+      "spell": "he has two brothers"
+    },
+    {
+      "def1": "он читает книги",
+      "ipa": "hи ридз бʊкс",
+      "spell": "he reads books"
+    },
+    {
+      "def1": "он изучает английский",
+      "ipa": "hи ˈстʌдиз ˈɪŋглɪш",
+      "spell": "he studies English"
+    },
+    {
+      "def1": "он преподаёт английский",
+      "ipa": "hи ˈтичəз ˈɪŋглɪш",
+      "spell": "he teaches English"
+    },
+    {
+      "def1": "он работает",
+      "ipa": "hи wɜркс",
+      "spell": "he works"
+    },
+    {
+      "def1": "он администратор",
+      "ipa": "hиз ə рɪˈсэпшəнɪст",
+      "spell": "he's a receptionist"
+    },
+    {
+      "def1": "он таксист",
+      "ipa": "hиз ə ˈтæкси ˈдрайвəр",
+      "spell": "he's a taxi driver"
+    },
+    {
+      "def1": "он женат",
+      "ipa": "hиз ˈмэрид",
+      "spell": "he's married"
+    },
+    {
+      "def1": "он женат на Лоре",
+      "ipa": "hиз ˈмэрид ту ˈлорə",
+      "spell": "he's married to Laura"
+    },
+    {
+      "def1": "у неё светлые волосы",
+      "ipa": "hɜр hэрз блɑнд",
+      "spell": "her hair's blonde"
+    },
+    {
+      "def1": "как дела?",
+      "ipa": "hау ɑр ю?",
+      "spell": "how are you?"
+    },
+    {
+      "def1": "я делаю домашнее задание",
+      "ipa": "ай ду май ˈhоумˌwɜрк",
+      "spell": "I do my homework"
+    },
+    {
+      "def1": "я хожу в спортзал",
+      "ipa": "ай гоу ту ðə джɪм",
+      "spell": "I go to the gym"
+    },
+    {
+      "def1": "у меня есть деньги",
+      "ipa": "ай hæв ˈмʌни",
+      "spell": "I have money"
+    },
+    {
+      "def1": "надеюсь, что так",
+      "ipa": "ай hоуп соу",
+      "spell": "I hope so"
+    },
+    {
+      "def1": "прикинь, да? и не говори! вот именно!",
+      "ipa": "ай ноу, райт?",
+      "spell": "I know, right?"
+    },
+    {
+      "def1": "я учусь",
+      "ipa": "ай ˈстʌди",
+      "spell": "I study"
+    },
+    {
+      "def1": "я изучаю экономику",
+      "ipa": "ай ˈстʌди ˌэкəˈнɑмɪкс",
+      "spell": "I study economics"
+    },
+    {
+      "def1": "я преподаю",
+      "ipa": "ай тич",
+      "spell": "I teach"
+    },
+    {
+      "def1": "я тоже работаю дома",
+      "ipa": "ай wɜрк æт hоум ту",
+      "spell": "I work at home too"
+    },
+    {
+      "def1": "я работаю на американскую компанию",
+      "ipa": "ай wɜрк фор əн əˈмэрəкəн ˈкʌмпəни",
+      "spell": "I work for an American company"
+    },
+    {
+      "def1": "я работаю на ...",
+      "ipa": "ай wɜрк фор …",
+      "spell": "I work for …"
+    },
+    {
+      "def1": "я студент",
+      "ipa": "айм ə ˈстудəнт",
+      "spell": "I'm a student"
+    },
+    {
+      "def1": "я в школе",
+      "ipa": "айм æт скул",
+      "spell": "I'm at school"
+    },
+    {
+      "def1": "я в колледже",
+      "ipa": "айм ɪн ˈкɑлɪдж",
+      "spell": "I'm in college"
+    },
+    {
+      "def1": "я на пенсии",
+      "ipa": "айм рɪˈтайрд",
+      "spell": "I'm retired"
+    },
+    {
+      "def1": "сейчас я безработный",
+      "ipa": "айм ˌʌнэмˈплойд райт нау",
+      "spell": "I'm unemployed right now"
+    },
+    {
+      "def1": "на заводе",
+      "ipa": "ɪн ə ˈфæктəри",
+      "spell": "in a factory"
+    },
+    {
+      "def1": "в больнице",
+      "ipa": "ɪн ə ˈhɑˌспɪтəл",
+      "spell": "in a hospital"
+    },
+    {
+      "def1": "в ресторане",
+      "ipa": "ɪн ə ˈрэстəˌрɑнт",
+      "spell": "in a restaurant"
+    },
+    {
+      "def1": "в школе",
+      "ipa": "ɪн ə скул",
+      "spell": "in a school"
+    },
+    {
+      "def1": "в магазине",
+      "ipa": "ɪн ə стор",
+      "spell": "in a store"
+    },
+    {
+      "def1": "в офисе",
+      "ipa": "ɪн əн ˈɔфəс",
+      "spell": "in an office"
+    },
+    {
+      "def1": "умный",
+      "ipa": "ɪнˈтэлəджəнт",
+      "spell": "intelligent"
+    },
+    {
+      "def1": "оно старое?",
+      "ipa": "ɪз ɪт оулд?",
+      "spell": "is it old?"
+    },
+    {
+      "def1": "она хороша?",
+      "ipa": "ɪз щи гʊд?",
+      "spell": "is she good?"
+    },
+    {
+      "def1": "она здесь?",
+      "ipa": "ɪз щи hир?",
+      "spell": "is she here?"
+    },
+    {
+      "def1": "это не работает",
+      "ipa": "ɪт ˈдʌзəнт wɜрк",
+      "spell": "it doesn't work"
+    },
+    {
+      "def1": "оно заканчивается в восемь вечера",
+      "ipa": "ɪт ˈфɪнɪщɪз æт эйт ˈпиˈэм",
+      "spell": "it finishes at eight PM"
+    },
+    {
+      "def1": "оно имеет название",
+      "ipa": "ɪт hæз ə нэйм",
+      "spell": "it has a name"
+    },
+    {
+      "def1": "это работает",
+      "ipa": "ɪт wɜркс",
+      "spell": "it works"
+    },
+    {
+      "def1": "я на пенсии",
+      "ipa": "айм рɪˈтайрд",
+      "spell": "I‘m retired"
+    },
+    {
+      "def1": "я менеджер",
+      "ipa": "айм ə ˈмæнəджəр",
+      "spell": "I’m a manager"
+    },
+    {
+      "def1": "пойдём вместе",
+      "ipa": "лэтс гоу тəˈгэðəр",
+      "spell": "let’s go together"
+    },
+    {
+      "def1": "живёт",
+      "ipa": "лɪвз",
+      "spell": "lives"
+    },
+    {
+      "def1": "мой брат учится в колледже",
+      "ipa": "май ˈбрʌðəр гоуз ту ˈкɑлɪдж",
+      "spell": "my brother goes to college"
+    },
+    {
+      "def1": "на улице",
+      "ipa": "ɑн ðə стрит",
+      "spell": "on the street"
+    },
+    {
+      "def1": "правильно",
+      "ipa": "райт",
+      "spell": "right"
+    },
+    {
+      "def1": "продажи",
+      "ipa": "сэйлз",
+      "spell": "sales"
+    },
+    {
+      "def1": "она не ест мясо",
+      "ipa": "щи ˈдʌзəнт ит мит",
+      "spell": "she doesn't eat meat"
+    },
+    {
+      "def1": "у неё нет братьев или сестёр",
+      "ipa": "щи ˈдʌзəнт hæв ˈбрʌðəрз ор ˈсɪстəрз",
+      "spell": "she doesn't have brothers or sisters"
+    },
+    {
+      "def1": "она не слушает радио",
+      "ipa": "щи ˈдʌзəнт ˈлɪсəн ту ðə ˈрэйдиˌоу",
+      "spell": "she doesn't listen to the radio"
+    },
+    {
+      "def1": "ей не нужна новая машина",
+      "ipa": "щи ˈдʌзəнт нид ə ну кɑр",
+      "spell": "she doesn't need a new car"
+    },
+    {
+      "def1": "она не носит очки",
+      "ipa": "щи ˈдʌзəнт wэр ˈглæсəз",
+      "spell": "she doesn't wear glasses"
+    },
+    {
+      "def1": "она не работает",
+      "ipa": "щи ˈдʌзəнт wɜрк",
+      "spell": "she doesn't work"
+    },
+    {
+      "def1": "у неё есть машина",
+      "ipa": "щи hæз ə кɑр",
+      "spell": "she has a car"
+    },
+    {
+      "def1": "она много смотрит телевизор",
+      "ipa": "щи ˈwɑчəз ə лɑт ʌв ˈтиˈви",
+      "spell": "she watches a lot of TV"
+    },
+    {
+      "def1": "она носит очки",
+      "ipa": "щи wэрз ˈглæсəз",
+      "spell": "she wears glasses"
+    },
+    {
+      "def1": "она работает",
+      "ipa": "щи wɜркс",
+      "spell": "she works"
+    },
+    {
+      "def1": "она работает в газете",
+      "ipa": "щи wɜркс фор ə ˈнузˌпэйпəр",
+      "spell": "she works for a newspaper"
+    },
+    {
+      "def1": "она учительница",
+      "ipa": "щиз ə ˈтичəр",
+      "spell": "she's a teacher"
+    },
+    {
+      "def1": "она замужем",
+      "ipa": "щиз ˈмэрид",
+      "spell": "she's married"
+    },
+    {
+      "def1": "она замужем за Мэттом",
+      "ipa": "щиз ˈмэрид ту мæт",
+      "spell": "she's married to Matt"
+    },
+    {
+      "def1": "она совсем другая",
+      "ipa": "щиз ˈвэри ˈдɪфəрəнт",
+      "spell": "she's very different"
+    },
+    {
+      "def1": "преподаёт",
+      "ipa": "ˈтичəз",
+      "spell": "teaches"
+    },
+    {
+      "def1": "шоу заканчивается",
+      "ipa": "ðə шоʊ эндз",
+      "spell": "the show ends"
+    },
+    {
+      "def1": "они вместе",
+      "ipa": "ðэй ɑр тəˈгэðəр",
+      "spell": "they are together"
+    },
+    {
+      "def1": "они официанты",
+      "ipa": "ðэй ɑр ˈwэйтəрз",
+      "spell": "they are waiters"
+    },
+    {
+      "def1": "они живут не рядом здесь",
+      "ipa": "ðэй доунт лɪв нɪр hир",
+      "spell": "they don't live near hear"
+    },
+    {
+      "def1": "они встречаются",
+      "ipa": "ðэй мит",
+      "spell": "they meet"
+    },
+    {
+      "def1": "занимать, давать работу, трудоустраивать",
+      "ipa": "ту эмˈплой",
+      "spell": "to employ"
+    },
+    {
+      "def1": "видеть",
+      "ipa": "ту си",
+      "spell": "to see"
+    },
+    {
+      "def1": "вместе",
+      "ipa": "тəˈгэðəр",
+      "spell": "together"
+    },
+    {
+      "def1": "два места",
+      "ipa": "ту ˈплэйсəз",
+      "spell": "two places"
+    },
+    {
+      "def1": "незанятый, безработный, нетрудоустроенный",
+      "ipa": "ˌʌнэмˈплойд",
+      "spell": "unemployed"
+    },
+    {
+      "def1": "полезный",
+      "ipa": "ˈюсфəл",
+      "spell": "useful"
+    },
+    {
+      "def1": "смотрит, наблюдает",
+      "ipa": "ˈwɑчəз",
+      "spell": "watches"
+    },
+    {
+      "def1": "мы вместе",
+      "ipa": "wи ɑр тəˈгэðəр",
+      "spell": "we are together"
+    },
+    {
+      "def1": "мы не работаем по выходным",
+      "ipa": "wи доунт wɜрк ɑн ˈwиˌкэндз",
+      "spell": "we don't work on weekends"
+    },
+    {
+      "def1": "чем они занимаются?",
+      "ipa": "wɑт ду ðэй ду?",
+      "spell": "what do they do?"
+    },
+    {
+      "def1": "чем ты занимаешься?",
+      "ipa": "wɑт ду ю ду?",
+      "spell": "what do you do?"
+    },
+    {
+      "def1": "чем он занимается?",
+      "ipa": "wɑт дʌз hи ду?",
+      "spell": "what does he do?"
+    },
+    {
+      "def1": "чем она занимается?",
+      "ipa": "wɑт дʌз щи ду?",
+      "spell": "what does she do?"
+    },
+    {
+      "def1": "чем занимается твой сын?",
+      "ipa": "wɑт дʌз йʊəр сʌн ду?",
+      "spell": "what does your son do?"
+    },
+    {
+      "def1": "во сколько?",
+      "ipa": "wɑт тайм?",
+      "spell": "what time?"
+    },
+    {
+      "def1": "во сколько они встречаются?",
+      "ipa": "wɑт тайм ду ðэй мит?",
+      "spell": "what time do they meet?"
+    },
+    {
+      "def1": "где ты учишься?",
+      "ipa": "wэр ду ю ˈстʌди?",
+      "spell": "where do you study?"
+    },
+    {
+      "def1": "где ты работаешь?",
+      "ipa": "wэр ду ю wɜрк?",
+      "spell": "where do you work?"
+    },
+    {
+      "def1": "где работает твоя жена?",
+      "ipa": "wэр дʌз йʊəр wайф wɜрк?",
+      "spell": "where does your wife work?"
+    },
+    {
+      "def1": "кто тот мужчина?",
+      "ipa": "hуз ðæт мæн?",
+      "spell": "who's that man?"
+    },
+    {
+      "def1": "кто это там?",
+      "ipa": "hуз ðæт ˈоувəр ðэр?",
+      "spell": "who's that over there?"
+    },
+    {
+      "def1": "кто это?",
+      "ipa": "hуз ðæт?",
+      "spell": "who's that?"
+    },
+    {
+      "def1": "почему?",
+      "ipa": "wай?",
+      "spell": "why?"
+    },
+    {
+      "def1": "с седыми волосами",
+      "ipa": "wɪð грэй hэр",
+      "spell": "with gray hair"
+    },
+    {
+      "def1": "цифрами, числами",
+      "ipa": "wɪð ˈнʌмбəрз",
+      "spell": "with numbers"
+    },
+    {
+      "def1": "работа заканчивается в пять вечера",
+      "ipa": "wɜрк ˈфɪнɪщɪз æт файв ˈпиˈэм",
+      "spell": "work finishes at five PM"
+    },
+    {
+      "def1": "пишет",
+      "ipa": "райтс",
+      "spell": "writes"
+    }
+  ]
+}
