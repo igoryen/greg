@@ -1,0 +1,789 @@
+{
+  "student": "Ruslan P.",
+  "slug": "rp",
+  "period": "week",
+  "number": 43,
+  "date": "2025-10-26",
+  "words": [
+    {
+      "def1": "сумка",
+      "ipa": "ə бæг",
+      "spell": "a bag"
+    },
+    {
+      "def1": "папка-скоросшиватель",
+      "ipa": "ə ˈбайндəр",
+      "spell": "a binder"
+    },
+    {
+      "def1": "коробка",
+      "ipa": "ə бɑкс",
+      "spell": "a box"
+    },
+    {
+      "def1": "едет автобус",
+      "ipa": "ə бʌс кʌмз",
+      "spell": "a bus comes"
+    },
+    {
+      "def1": "календарь",
+      "ipa": "ə ˈкæлəндəр",
+      "spell": "a calendar"
+    },
+    {
+      "def1": "мобильный телефон",
+      "ipa": "ə сэл фоун",
+      "spell": "a cell phone"
+    },
+    {
+      "def1": "стул",
+      "ipa": "ə чэр",
+      "spell": "a chair"
+    },
+    {
+      "def1": "зарядное устройство",
+      "ipa": "ə ˈчɑрджəр",
+      "spell": "a charger"
+    },
+    {
+      "def1": "ребёнок",
+      "ipa": "ə чайлд",
+      "spell": "a child"
+    },
+    {
+      "def1": "монета",
+      "ipa": "ə койн",
+      "spell": "a coin"
+    },
+    {
+      "def1": "страна",
+      "ipa": "ə ˈкʌнтри",
+      "spell": "a country"
+    },
+    {
+      "def1": "кредитная карта",
+      "ipa": "ə ˈкрэдəт кɑрд",
+      "spell": "a credit card"
+    },
+    {
+      "def1": "манжета",
+      "ipa": "ə кʌф",
+      "spell": "a cuff"
+    },
+    {
+      "def1": "словарь",
+      "ipa": "ə ˈдɪкшəˌнэри",
+      "spell": "a dictionary"
+    },
+    {
+      "def1": "файл",
+      "ipa": "ə файл",
+      "spell": "a file"
+    },
+    {
+      "def1": "ключ",
+      "ipa": "ə ки",
+      "spell": "a key"
+    },
+    {
+      "def1": "нож",
+      "ipa": "ə найф",
+      "spell": "a knife"
+    },
+    {
+      "def1": "лампа",
+      "ipa": "ə лæмп",
+      "spell": "a lamp"
+    },
+    {
+      "def1": "ноутбук",
+      "ipa": "ə ˈлæпˌтɑп",
+      "spell": "a laptop"
+    },
+    {
+      "def1": "журнал",
+      "ipa": "ə ˈмæгəˌзин",
+      "spell": "a magazine"
+    },
+    {
+      "def1": "мужчина",
+      "ipa": "ə мæн",
+      "spell": "a man"
+    },
+    {
+      "def1": "мужской",
+      "ipa": "ə мæнз",
+      "spell": "a man’s"
+    },
+    {
+      "def1": "неряшливый человек",
+      "ipa": "ə ˈмэси ˈпɜрсəн",
+      "spell": "a messy person"
+    },
+    {
+      "def1": "неубранная комната",
+      "ipa": "ə ˈмэси рум",
+      "spell": "a messy room"
+    },
+    {
+      "def1": "аккуратный человек",
+      "ipa": "ə нит ˈпɜрсəн",
+      "spell": "a neat person"
+    },
+    {
+      "def1": "аккуратная комната",
+      "ipa": "ə нит рум",
+      "spell": "a neat room"
+    },
+    {
+      "def1": "газета",
+      "ipa": "ə ˈнузˌпэйпəр",
+      "spell": "a newspaper"
+    },
+    {
+      "def1": "блокнот",
+      "ipa": "ə ˈноутˌбʊк",
+      "spell": "a notebook"
+    },
+    {
+      "def1": "ручка",
+      "ipa": "ə пэн",
+      "spell": "a pen"
+    },
+    {
+      "def1": "карандаш",
+      "ipa": "ə ˈпэнсəл",
+      "spell": "a pencil"
+    },
+    {
+      "def1": "человек",
+      "ipa": "ə ˈпɜрсəн",
+      "spell": "a person"
+    },
+    {
+      "def1": "телефон",
+      "ipa": "ə фоун",
+      "spell": "a phone"
+    },
+    {
+      "def1": "фотография",
+      "ipa": "ə ˈфоуˌтоу",
+      "spell": "a photo"
+    },
+    {
+      "def1": "лист бумаги",
+      "ipa": "ə пис ʌв ˈпэйпəр",
+      "spell": "a piece of paper"
+    },
+    {
+      "def1": "планшет",
+      "ipa": "ə ˈтæблəт",
+      "spell": "a tablet"
+    },
+    {
+      "def1": "танк",
+      "ipa": "ə тæŋк",
+      "spell": "a tank"
+    },
+    {
+      "def1": "вещь",
+      "ipa": "ə θɪŋ",
+      "spell": "a thing"
+    },
+    {
+      "def1": "билет",
+      "ipa": "ə ˈтɪкəт",
+      "spell": "a ticket"
+    },
+    {
+      "def1": "салфетка",
+      "ipa": "ə ˈтɪсъˌю",
+      "spell": "a tissue"
+    },
+    {
+      "def1": "бумажник",
+      "ipa": "ə ˈwɔлəт",
+      "spell": "a wallet"
+    },
+    {
+      "def1": "часы",
+      "ipa": "ə wɑч",
+      "spell": "a watch"
+    },
+    {
+      "def1": "окно",
+      "ipa": "ə ˈwɪндоу",
+      "spell": "a window"
+    },
+    {
+      "def1": "женщина",
+      "ipa": "ə ˈwʊмəн",
+      "spell": "a woman"
+    },
+    {
+      "def1": "полтора года назад",
+      "ipa": "ə йɪр æнд ə hæф əˈгоу",
+      "spell": "a year and a half ago"
+    },
+    {
+      "def1": "после занятия",
+      "ipa": "ˈæфтəр ðə клæс",
+      "spell": "after the class"
+    },
+    {
+      "def1": "электронное письмо",
+      "ipa": "əн иˈмэйл",
+      "spell": "an email"
+    },
+    {
+      "def1": "упражнение",
+      "ipa": "əн ˈэксəрˌсайз",
+      "spell": "an exercise"
+    },
+    {
+      "def1": "удостоверение личности",
+      "ipa": "əн ɪд кɑрд",
+      "spell": "an ID card"
+    },
+    {
+      "def1": "зонт",
+      "ipa": "əн əмˈбрэлə",
+      "spell": "an umbrella"
+    },
+    {
+      "def1": "анин",
+      "ipa": "æнз",
+      "spell": "Ann's"
+    },
+    {
+      "def1": "другой автобус",
+      "ipa": "əˈнʌðəр бʌс",
+      "spell": "another bus"
+    },
+    {
+      "def1": "ещё один кофе",
+      "ipa": "əˈнʌðəр ˈкɑфи",
+      "spell": "another coffee"
+    },
+    {
+      "def1": "ещё один",
+      "ipa": "əˈнʌðəр wʌн",
+      "spell": "another one"
+    },
+    {
+      "def1": "ещё один чай",
+      "ipa": "əˈнʌðəр ти",
+      "spell": "another tea"
+    },
+    {
+      "def1": "ещё одно видео",
+      "ipa": "əˈнʌðəр ˈвɪдиоу",
+      "spell": "another video"
+    },
+    {
+      "def1": "ты неряшливый?",
+      "ipa": "ɑр ю ˈмэси?",
+      "spell": "are you messy?"
+    },
+    {
+      "def1": "ты аккуратный?",
+      "ipa": "ɑр ю нит?",
+      "spell": "are you neat?"
+    },
+    {
+      "def1": "книги",
+      "ipa": "бʊкс",
+      "spell": "books"
+    },
+    {
+      "def1": "коробки",
+      "ipa": "ˈбɑксəз",
+      "spell": "boxes"
+    },
+    {
+      "def1": "Будапешт (Венгрия)",
+      "ipa": "ˈбудəˌпэст, ˈhʌŋгəри",
+      "spell": "Budapest, Hungary"
+    },
+    {
+      "def1": "кошкин",
+      "ipa": "кæтс",
+      "spell": "cat's"
+    },
+    {
+      "def1": "дети",
+      "ipa": "ˈчɪлдрəн",
+      "spell": "children"
+    },
+    {
+      "def1": "занятия",
+      "ipa": "ˈклæсəз",
+      "spell": "classes"
+    },
+    {
+      "def1": "страны",
+      "ipa": "ˈкʌнтриз",
+      "spell": "countries"
+    },
+    {
+      "def1": "папин",
+      "ipa": "дæдз",
+      "spell": "dad's"
+    },
+    {
+      "def1": "словари",
+      "ipa": "ˈдɪкшəˌнэриз",
+      "spell": "dictionaries"
+    },
+    {
+      "def1": "словаря",
+      "ipa": "ˈдɪкшəˌнэриз",
+      "spell": "dictionary's"
+    },
+    {
+      "def1": "ты умеешь водить машину?",
+      "ipa": "ду ю ноу hау ту драйв?",
+      "spell": "do you know how to drive?"
+    },
+    {
+      "def1": "ты знаешь?",
+      "ipa": "ду ю ноу?",
+      "spell": "do you know?"
+    },
+    {
+      "def1": "наушники",
+      "ipa": "ˈɪрˌфоунз",
+      "spell": "earphones"
+    },
+    {
+      "def1": "электронные письма",
+      "ipa": "иˈмэйлз",
+      "spell": "emails"
+    },
+    {
+      "def1": "упражнения",
+      "ipa": "ˈэксəрˌсайзəз",
+      "spell": "exercises"
+    },
+    {
+      "def1": "файлы",
+      "ipa": "файлз",
+      "spell": "files"
+    },
+    {
+      "def1": "очки",
+      "ipa": "ˈглæсəз",
+      "spell": "glasses"
+    },
+    {
+      "def1": "наручники",
+      "ipa": "ˈhæндˌкʌфс",
+      "spell": "handcuffs"
+    },
+    {
+      "def1": "наушники",
+      "ipa": "ˈhэдˌфоунз",
+      "spell": "headphones"
+    },
+    {
+      "def1": "как",
+      "ipa": "hау",
+      "spell": "how"
+    },
+    {
+      "def1": "как водить машину",
+      "ipa": "hау ту драйв",
+      "spell": "how to drive"
+    },
+    {
+      "def1": "у меня выходной",
+      "ipa": "ай æм ɔф",
+      "spell": "I am off"
+    },
+    {
+      "def1": "я купил это в Канаде",
+      "ipa": "ай бɑт ɪт ɪн ˈкæнəдə",
+      "spell": "I bought it in Canada"
+    },
+    {
+      "def1": "я забыл",
+      "ipa": "ай фəрˈгɑт",
+      "spell": "I forgot"
+    },
+    {
+      "def1": "удостоверения личности (мн.ч.)",
+      "ipa": "ɪд кɑрдз",
+      "spell": "ID cards"
+    },
+    {
+      "def1": "в офисе",
+      "ipa": "ɪн əн ˈɔфəс",
+      "spell": "in an office"
+    },
+    {
+      "def1": "в её сумке",
+      "ipa": "ɪн hɜр бæг",
+      "spell": "in her bag"
+    },
+    {
+      "def1": "в её рабочем кабинете",
+      "ipa": "ɪн hɜр ˈстʌди",
+      "spell": "in her study"
+    },
+    {
+      "def1": "в бумажнике",
+      "ipa": "ɪн ðə ˈwɔлəт",
+      "spell": "in the wallet"
+    },
+    {
+      "def1": "оно старое?",
+      "ipa": "ɪз ɪт оулд?",
+      "spell": "is it old?"
+    },
+    {
+      "def1": "это зарядное устройство",
+      "ipa": "ɪтс ə ˈчɑрджəр",
+      "spell": "it's a charger"
+    },
+    {
+      "def1": "это монета",
+      "ipa": "ɪтс ə койн",
+      "spell": "it's a coin"
+    },
+    {
+      "def1": "это часы (ед.ч.)",
+      "ipa": "ɪтс ə wɑч",
+      "spell": "it's a watch"
+    },
+    {
+      "def1": "это яйцо",
+      "ipa": "ɪтс əн эг",
+      "spell": "it's an egg"
+    },
+    {
+      "def1": "это зонт",
+      "ipa": "ɪтс əн əмˈбрэлə",
+      "spell": "it's an umbrella"
+    },
+    {
+      "def1": "на улице минус один градус",
+      "ipa": "ɪтс ˈмайнəс wʌн дɪˈгри ˈаутˈсайд",
+      "spell": "it's minus one degree outside"
+    },
+    {
+      "def1": "давно пора",
+      "ipa": "ɪтс hай тайм",
+      "spell": "it’s high time"
+    },
+    {
+      "def1": "ключи",
+      "ipa": "киз",
+      "spell": "keys"
+    },
+    {
+      "def1": "лампы",
+      "ipa": "лæмпс",
+      "spell": "lamps"
+    },
+    {
+      "def1": "мужчины",
+      "ipa": "мэн",
+      "spell": "men"
+    },
+    {
+      "def1": "мужской (мужчин)",
+      "ipa": "мэнз",
+      "spell": "men's"
+    },
+    {
+      "def1": "неряшливый",
+      "ipa": "ˈмэси",
+      "spell": "messy"
+    },
+    {
+      "def1": "минус один градус",
+      "ipa": "ˈмайнəс wʌн дɪˈгри",
+      "spell": "minus one degree"
+    },
+    {
+      "def1": "мамин",
+      "ipa": "мɑмз",
+      "spell": "mom's"
+    },
+    {
+      "def1": "моё удостоверение личности в бумажнике",
+      "ipa": "май ɪд кɑрд ɪз ɪн май ˈwɔлəт",
+      "spell": "my ID card is in my wallet"
+    },
+    {
+      "def1": "мой ноутбук в сумке",
+      "ipa": "май ˈлæпˌтɑп ɪз ɪн май бæг",
+      "spell": "my laptop is in my bag"
+    },
+    {
+      "def1": "аккуратный",
+      "ipa": "нит",
+      "spell": "neat"
+    },
+    {
+      "def1": "новая информация",
+      "ipa": "ну ˌɪнфəрˈмэйшəн (эй)",
+      "spell": "new information (a)"
+    },
+    {
+      "def1": "старая информация",
+      "ipa": "оулд ˌɪнфəрˈмэйшəн (ðи)",
+      "spell": "old information (the)"
+    },
+    {
+      "def1": "на его столе",
+      "ipa": "ɑн hɪз дэск",
+      "spell": "on his desk"
+    },
+    {
+      "def1": "на столе",
+      "ipa": "ɑн ðə ˈтэйбəл",
+      "spell": "on the table"
+    },
+    {
+      "def1": "страницы",
+      "ipa": "ˈпэйджəз",
+      "spell": "pages"
+    },
+    {
+      "def1": "ручки",
+      "ipa": "пэнз",
+      "spell": "pens"
+    },
+    {
+      "def1": "люди",
+      "ipa": "ˈпипəл",
+      "spell": "people"
+    },
+    {
+      "def1": "телефоны",
+      "ipa": "фоунз",
+      "spell": "phones"
+    },
+    {
+      "def1": "фотографии",
+      "ipa": "ˈфоуˌтоуз",
+      "spell": "photos"
+    },
+    {
+      "def1": "куски",
+      "ipa": "ˈписəз",
+      "spell": "pieces"
+    },
+    {
+      "def1": "Роб звонит Дженни",
+      "ipa": "рɑб кɔлз ˈджэни",
+      "spell": "Rob calls Jenny"
+    },
+    {
+      "def1": "утонул",
+      "ipa": "сæŋк",
+      "spell": "sank"
+    },
+    {
+      "def1": "ножницы",
+      "ipa": "ˈсɪзəрз",
+      "spell": "scissors"
+    },
+    {
+      "def1": "увидимся!",
+      "ipa": "си ю!",
+      "spell": "see you!"
+    },
+    {
+      "def1": "у неё есть чай",
+      "ipa": "щи hæз ти",
+      "spell": "she has tea"
+    },
+    {
+      "def1": "больной",
+      "ipa": "сɪк",
+      "spell": "sick"
+    },
+    {
+      "def1": "кто-то",
+      "ipa": "ˈсʌмˌбɑди",
+      "spell": "somebody"
+    },
+    {
+      "def1": "что-то",
+      "ipa": "ˈсʌмθɪŋ",
+      "spell": "something"
+    },
+    {
+      "def1": "солнечные очки",
+      "ipa": "ˈсʌнˌглæсɪз",
+      "spell": "sunglasses"
+    },
+    {
+      "def1": "возьми один наушник",
+      "ipa": "тэйк wʌн ˈир.бʌд",
+      "spell": "take one earbud"
+    },
+    {
+      "def1": "автобус приезжает",
+      "ipa": "ðə бʌс кʌмз",
+      "spell": "the bus comes"
+    },
+    {
+      "def1": "первая машина",
+      "ipa": "ðə фɜрст кɑр",
+      "spell": "the first car"
+    },
+    {
+      "def1": "наушники в сумке",
+      "ipa": "ðə ˈhэдˌфоунз ɑр ɪн ðə бæг",
+      "spell": "the headphones are in the bag"
+    },
+    {
+      "def1": "вторая машина",
+      "ipa": "ðə ˈсэкəнд кɑр",
+      "spell": "the second car"
+    },
+    {
+      "def1": "это очки",
+      "ipa": "ðиз/ðэй ɑр ˈглæсəз",
+      "spell": "these/they are glasses"
+    },
+    {
+      "def1": "это наушники",
+      "ipa": "ðиз/ðэй ɑр ˈhэдˌфоунз",
+      "spell": "these/they are headphones"
+    },
+    {
+      "def1": "это ножницы",
+      "ipa": "ðиз/ðэй ɑр ˈсɪзəрз",
+      "spell": "these/they are scissors"
+    },
+    {
+      "def1": "это очки",
+      "ipa": "ðэй ɑр ˈглæсəз",
+      "spell": "they are glasses"
+    },
+    {
+      "def1": "они дети",
+      "ipa": "ðэр ˈчɪлдрəн",
+      "spell": "they're children"
+    },
+    {
+      "def1": "они мужчины",
+      "ipa": "ðэр мэн",
+      "spell": "they're men"
+    },
+    {
+      "def1": "это ножницы",
+      "ipa": "ðэр ˈсɪзəрз",
+      "spell": "they're scissors"
+    },
+    {
+      "def1": "это солнцезащитные очки",
+      "ipa": "ðэр ˈсʌнˌглæсɪз",
+      "spell": "they're sunglasses"
+    },
+    {
+      "def1": "это наручники",
+      "ipa": "ðэр ˈhæндˌкʌфс",
+      "spell": "they’re handcuffs"
+    },
+    {
+      "def1": "это фотографии",
+      "ipa": "ðэр ˈфоуˌтоуз",
+      "spell": "they’re photos"
+    },
+    {
+      "def1": "это картинки",
+      "ipa": "ðэр ˈпɪкчəрз",
+      "spell": "they’re pictures"
+    },
+    {
+      "def1": "толстый",
+      "ipa": "θɪк",
+      "spell": "thick"
+    },
+    {
+      "def1": "вещи",
+      "ipa": "θɪŋз",
+      "spell": "things"
+    },
+    {
+      "def1": "билеты",
+      "ipa": "ˈтɪкəтс",
+      "spell": "tickets"
+    },
+    {
+      "def1": "салфетки",
+      "ipa": "ˈтɪсъˌюз",
+      "spell": "tissues"
+    },
+    {
+      "def1": "под столом",
+      "ipa": "ˈʌндəр ðə дэск",
+      "spell": "under the desk"
+    },
+    {
+      "def1": "университетский",
+      "ipa": "ъˌюнəˈвɜрсəтиз",
+      "spell": "university's"
+    },
+    {
+      "def1": "часы (мн.ч.)",
+      "ipa": "ˈwɑчəз",
+      "spell": "watches"
+    },
+    {
+      "def1": "мы тонем (сейчас)",
+      "ipa": "wи ɑр ˈсɪŋкɪŋ",
+      "spell": "we are sinking"
+    },
+    {
+      "def1": "мы думаем (сейчас)",
+      "ipa": "wи ɑр ˈθɪŋкɪŋ",
+      "spell": "we are thinking"
+    },
+    {
+      "def1": "что это? (мн.ч)",
+      "ipa": "wɑт ɑр ðэй?",
+      "spell": "what are they?"
+    },
+    {
+      "def1": "что это? (ед.ч.)",
+      "ipa": "wɑт ɪз ɪт?",
+      "spell": "what is it?"
+    },
+    {
+      "def1": "где зарядное устройство",
+      "ipa": "wэрз ðə ˈчɑрджəр",
+      "spell": "where's the charger"
+    },
+    {
+      "def1": "кто это говорит?",
+      "ipa": "hу сэз ðɪс?",
+      "spell": "who says this?"
+    },
+    {
+      "def1": "почему это?",
+      "ipa": "wай ɪз ɪт?",
+      "spell": "why is it?"
+    },
+    {
+      "def1": "окна",
+      "ipa": "ˈwɪндоуз",
+      "spell": "windows"
+    },
+    {
+      "def1": "женщины",
+      "ipa": "ˈwɪмəн",
+      "spell": "women"
+    },
+    {
+      "def1": "бы",
+      "ipa": "wʊд",
+      "spell": "would"
+    }
+  ]
+}
