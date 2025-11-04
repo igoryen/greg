@@ -30,8 +30,8 @@
     }
 
     .tab-content {
-        padding: 20px;
-        border: 1px solid #ccc;
+        // padding: 20px;
+        // border: 1px solid #ccc;
         border-top: none;
     }
 
@@ -130,6 +130,11 @@
 
     }
 
+    .prncd {
+        color: #94c3ff;
+        font-weight: 900;
+    }
+
     .slash {
         position: relative;
 
@@ -178,11 +183,5 @@
             // text-decoration: underline;
         }
     }
-
-    .ddd {
-        background-color: lightyellow;
-    }
-
-
 
 }
