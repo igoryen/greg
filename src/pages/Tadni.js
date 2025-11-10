@@ -143,6 +143,11 @@ const Tadni = (prop) => {
             "active": false
         },
         {
+            "slug": "vh",
+            "name": "Vlada K.",
+            "active": true
+        },
+        {
             "slug": "vk",
             "name": "Valeria K.",
             "active": false
