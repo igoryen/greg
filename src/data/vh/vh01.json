@@ -1,0 +1,324 @@
+{
+  "student": "Vlada H.",
+  "slug": "vh",
+  "period": "week",
+  "number": 45,
+  "date": "2025-11-07",
+  "words": [
+    {
+      "def1": "документальный фильм",
+      "ipa": "ə ˌдɑкйəˈмэнтəри",
+      "spell": "a documentary"
+    },
+    {
+      "def1": "лужа",
+      "ipa": "ə ˈпʌдəл",
+      "spell": "a puddle"
+    },
+    {
+      "def1": "правило",
+      "ipa": "ə рул",
+      "spell": "a rule"
+    },
+    {
+      "def1": "предложение",
+      "ipa": "ə ˈсэнтəнс",
+      "spell": "a sentence"
+    },
+    {
+      "def1": "тип предложения",
+      "ipa": "ə ˈсэнтəнс тайп",
+      "spell": "a sentence type"
+    },
+    {
+      "def1": "структура",
+      "ipa": "ə ˈстрʌкчəр",
+      "spell": "a structure"
+    },
+    {
+      "def1": "субъект",
+      "ipa": "ə ˈсʌбджɪкт",
+      "spell": "a subject"
+    },
+    {
+      "def1": "бассейн",
+      "ipa": "ə ˈсwɪмɪŋ пул",
+      "spell": "a swimming pool"
+    },
+    {
+      "def1": "а ты?",
+      "ipa": "æнд ю?",
+      "spell": "and you?"
+    },
+    {
+      "def1": "вспомогательный",
+      "ipa": "ɑгˈзɪл(й)əри",
+      "spell": "auxiliary"
+    },
+    {
+      "def1": "ты приехал на автобусе?",
+      "ipa": "дɪд ю кʌм бай бʌс?",
+      "spell": "did you come by bus?"
+    },
+    {
+      "def1": "я плаваю (вообще)?",
+      "ipa": "ду ай сwɪм?",
+      "spell": "do I swim?"
+    },
+    {
+      "def1": "ты работаешь (вообще)?",
+      "ipa": "ду ю wɜрк?",
+      "spell": "do you work?"
+    },
+    {
+      "def1": "на неделе",
+      "ipa": "ˈдʊрɪŋ ðə wик",
+      "spell": "during the week"
+    },
+    {
+      "def1": "он работает (вообще)",
+      "ipa": "hи wɜркс",
+      "spell": "he works"
+    },
+    {
+      "def1": "как поживаете? приятно познакомиться!",
+      "ipa": "hау ду ю ду?",
+      "spell": "how do you do?"
+    },
+    {
+      "def1": "мне это небезразлично",
+      "ipa": "ай кэр əˈбаут ɪт",
+      "spell": "I care about it"
+    },
+    {
+      "def1": "я не плаваю (вообще)",
+      "ipa": "ай ду нɑт сwɪм",
+      "spell": "I do not swim"
+    },
+    {
+      "def1": "у меня нет обеда (вообще)",
+      "ipa": "ай доунт hæв ˈэни лʌнч",
+      "spell": "I don’t have any lunch"
+    },
+    {
+      "def1": "мне не нравится смотреть телесериалы",
+      "ipa": "ай доунт лайк ˈwɑчɪŋ ˈтиˈви шоʊз",
+      "spell": "I don’t like watching TV shows"
+    },
+    {
+      "def1": "я хожу туда плавать (вообще)",
+      "ipa": "ай гоу ˈсwɪмɪŋ ðэр",
+      "spell": "I go swimming there"
+    },
+    {
+      "def1": "я ложусь спать позже (вообще)",
+      "ipa": "ай гоу ту бэд ˈлэйтəр",
+      "spell": "I go to bed later"
+    },
+    {
+      "def1": "я ем хлопья на завтрак (вообще)",
+      "ipa": "ай hæв ˈсɪриəл фор ˈбрэкфəст",
+      "spell": "I have cereal for breakfast"
+    },
+    {
+      "def1": "я инвертирую глагол и подлежащее",
+      "ipa": "ай ˈɪнвɜрт ðə вɜрб æнд ðə ˈсʌбджɪкт",
+      "spell": "I invert the verb and the subject"
+    },
+    {
+      "def1": "мне нравится техно",
+      "ipa": "ай лайк ˈтэкноу",
+      "spell": "I like techno"
+    },
+    {
+      "def1": "мне нравится смотреть",
+      "ipa": "ай лайк ˈwɑчɪŋ",
+      "spell": "I like watching"
+    },
+    {
+      "def1": "я сделал это для неё",
+      "ipa": "ай мэйд ɪт фор hɜр",
+      "spell": "I made it for her"
+    },
+    {
+      "def1": "я возвращаю вопрос тебе (вообще)",
+      "ipa": "ай рɪˈтɜрн ðə ˈкwэсчəн ту ю",
+      "spell": "I return the question to you"
+    },
+    {
+      "def1": "я немного говорю по-немецки",
+      "ipa": "ай спик ˈджɜрмəн ə ˈлɪтəл",
+      "spell": "I speak German a little"
+    },
+    {
+      "def1": "я начал изучать английский",
+      "ipa": "ай ˈстɑртɪд ˈстʌдиɪŋ ˈɪŋглɪш",
+      "spell": "I started studying English"
+    },
+    {
+      "def1": "я меняю их местами",
+      "ipa": "ай сwɑп ə æнд би",
+      "spell": "I swap A and B"
+    },
+    {
+      "def1": "я плаваю (вообще)",
+      "ipa": "ай сwɪм",
+      "spell": "I swim"
+    },
+    {
+      "def1": "я плаваю два раза в неделю",
+      "ipa": "ай сwɪм тwайс ə wик",
+      "spell": "I swim twice a week"
+    },
+    {
+      "def1": "я меняю A и B местами",
+      "ipa": "ай сwɪч ə æнд би",
+      "spell": "I switch A and B"
+    },
+    {
+      "def1": "я думаю, это потому что",
+      "ipa": "ай θɪŋк ðæтс бɪˈкɔз",
+      "spell": "I think that’s because"
+    },
+    {
+      "def1": "я стараюсь позаботиться об этом",
+      "ipa": "ай трай ту тэйк кэр ʌв ðæт",
+      "spell": "I try to take care of that"
+    },
+    {
+      "def1": "я ездил туда в свой последний отпуск",
+      "ipa": "ай wэнт ðэр фор май лæст вэйˈкэйшəн",
+      "spell": "I went there for my last vacation"
+    },
+    {
+      "def1": "я ходила в бассейн",
+      "ipa": "ай wэнт ту ðə ˈсwɪмɪŋ пул",
+      "spell": "I went to the swimming pool"
+    },
+    {
+      "def1": "я работал",
+      "ipa": "ай wɜркт",
+      "spell": "I worked"
+    },
+    {
+      "def1": "весной",
+      "ipa": "ɪн спрɪŋ",
+      "spell": "in spring"
+    },
+    {
+      "def1": "оно на правильном месте?",
+      "ipa": "ɪз ɪт ɪн ðə кəˈрэкт плэйс?",
+      "spell": "is it in the correct place?"
+    },
+    {
+      "def1": "это случается",
+      "ipa": "ɪт ˈhæпəнз",
+      "spell": "it happens"
+    },
+    {
+      "def1": "оно на правильном месте",
+      "ipa": "ɪт ɪз ɪн ðə кəˈрэкт плэйс",
+      "spell": "it is in the correct place"
+    },
+    {
+      "def1": "современные фильмы",
+      "ipa": "ˈмɑдəрн ˈмувиз",
+      "spell": "modern movies"
+    },
+    {
+      "def1": "в рабочий день",
+      "ipa": "ɑн ə ˈwɜркˌдэй",
+      "spell": "on a workday"
+    },
+    {
+      "def1": "люди слушают техно (вообще)",
+      "ipa": "ˈпипəл ˈлɪсəн ту ˈтэкноу",
+      "spell": "people listen to techno"
+    },
+    {
+      "def1": "вопросы и отрицания",
+      "ipa": "ˈкwэсчəнз æнд ˈнэгəтɪвз",
+      "spell": "questions and negatives"
+    },
+    {
+      "def1": "она сделала это для меня",
+      "ipa": "щи мэйд ɪт фор ми",
+      "spell": "she made it for me"
+    },
+    {
+      "def1": "основная (базовая) форма",
+      "ipa": "ðə бэйс форм",
+      "spell": "the base form"
+    },
+    {
+      "def1": "здесь рядом есть супермаркет",
+      "ipa": "ðэрз ə ˈсупəрˌмɑркɪт нɪр hир",
+      "spell": "there's a supermarket near here"
+    },
+    {
+      "def1": "эта музыка действительно стимулирует твой мозг",
+      "ipa": "ðɪс ˈмъюзɪк ˈрɪли ˈстɪмйəˌлэйтс йʊəр брэйн",
+      "spell": "this music really stimulates your brain"
+    },
+    {
+      "def1": "эта музыка посылает сильные импульсы в твой мозг",
+      "ipa": "ðɪс ˈмъюзɪк сэндз стрɔŋ ˈɪмпəлсɪз ту йʊəр брэйн",
+      "spell": "this music sends strong impulses to your brain"
+    },
+    {
+      "def1": "мы должны были встретиться вчера",
+      "ipa": "wи hæд ту мит ˈйэстəрˌдэй",
+      "spell": "we had to meet yesterday"
+    },
+    {
+      "def1": "а ты?",
+      "ipa": "wɑт əˈбаут ю?",
+      "spell": "what about you?"
+    },
+    {
+      "def1": "чем ты занимаешься? (вообще)",
+      "ipa": "wɑт ду ю ду?",
+      "spell": "what do you do?"
+    },
+    {
+      "def1": "во сколько они приехали?",
+      "ipa": "wɑт тайм дɪд ðэй əˈрайв?",
+      "spell": "what time did they arrive?"
+    },
+    {
+      "def1": "во сколько?",
+      "ipa": "wɑт тайм?",
+      "spell": "what time?"
+    },
+    {
+      "def1": "где работает твой отец?",
+      "ipa": "wэр дʌз йʊəр ˈфɑðəр wɜрк?",
+      "spell": "Where does your father work?"
+    },
+    {
+      "def1": "с кем ты разговариваешь (сейчас)?",
+      "ipa": "hу ɑр ю ˈтɔкɪŋ ту?",
+      "spell": "who are you talking to?"
+    },
+    {
+      "def1": "почему ты не ответил?",
+      "ipa": "wай ˈдɪдəнт ю ˈæнсəр?",
+      "spell": "why didn't you answer?"
+    },
+    {
+      "def1": "почему ты не пришёл?",
+      "ipa": "wай ˈдɪдəнт ю кʌм?",
+      "spell": "why didn't you come?"
+    },
+    {
+      "def1": "почему ты не смеялся?",
+      "ipa": "wай ˈдɪдəнт ю лæф?",
+      "spell": "why didn't you laugh?"
+    },
+    {
+      "def1": "ты узнаёшь его (получше)",
+      "ipa": "ю гэт ту ноу hɪм",
+      "spell": "you get to know him"
+    }
+  ]
+}
