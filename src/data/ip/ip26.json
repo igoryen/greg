@@ -1,428 +1,435 @@
-[
-  {
-    "def2": "",
-    "ipa": "wɑt taɪm ɑr ju ˈɡɑnə ɡoʊ hoʊm?",
-    "def1": "о котрій годині ти збираєшся їхати додому?",
-    "spell": "what time are you gonna go home?"
-  },
-  {
-    "def2": "",
-    "ipa": "wɑt taɪm?",
-    "def1": "о котрій?",
-    "spell": "what time?"
-  },
-  {
-    "def2": "",
-    "ipa": "æt ðə seɪm taɪm",
-    "def1": "у той самий час",
-    "spell": "at the same time"
-  },
-  {
-    "def2": "",
-    "ipa": "səmˈtaɪmz",
-    "def1": "іноді",
-    "spell": "sometimes"
-  },
-  {
-    "def2": "",
-    "ipa": "du ju noʊ wɛr ju ɑr ˈɡɑnə ɡoʊ nɛkst?",
-    "def1": "ти знаєш, куди збираєшся їхати далі?",
-    "spell": "do you know where you are gonna go next?"
-  },
-  {
-    "def2": "",
-    "ipa": "ɪf ðeɪ æsk ju tu ɡoʊ ˈvɛri fɑr, ɑr ju ˈɡɑnə ɡoʊ?",
-    "def1": "якщо вони попросять тебе поїхати дуже далеко, ти поїдеш?",
-    "spell": "if they ask you to go very far, are you gonna go?"
-  },
-  {
-    "def2": "",
-    "ipa": "fɑr",
-    "def1": "далеко",
-    "spell": "far"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈvɛri fɑr",
-    "def1": "дуже далеко",
-    "spell": "very far"
-  },
-  {
-    "def2": "",
-    "ipa": "wɛr ɪz ðə ˈfɑrðəst ju hæv ˈɛvər ɡɔn?",
-    "def1": "де найдалі ти коли-небудь був?",
-    "spell": "where is the farthest you have ever gone?"
-  },
-  {
-    "def2": "",
-    "ipa": "ə ˈlɪtəl",
-    "def1": "трохи",
-    "spell": "a little"
-  },
-  {
-    "def2": "",
-    "ipa": "lɛt ʌs rid",
-    "def1": "давай почитаємо",
-    "spell": "let us read"
-  },
-  {
-    "def2": "",
-    "ipa": "ɪmˈpɔrtənt",
-    "def1": "важливий",
-    "spell": "important"
-  },
-  {
-    "def2": "",
-    "ipa": "ðæts waɪ",
-    "def1": "ось чому",
-    "spell": "that's why"
-  },
-  {
-    "def2": "",
-    "ipa": "tu weɪk ʌp leɪt",
-    "def1": "прокидатися пізно",
-    "spell": "to wake up late"
-  },
-  {
-    "def2": "",
-    "ipa": "wi hæv noʊ taɪm",
-    "def1": "у нас немає часу",
-    "spell": "we have no time"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ ʤʌst teɪk hɜr tu wɜrk",
-    "def1": "я просто відвожу її на роботу",
-    "spell": "I just take her to work"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ seɪ ɡʊd baɪ tu hɜr",
-    "def1": "я кажу їй \"до побачення\"",
-    "spell": "I say good bye to her"
-  },
-  {
-    "def2": "",
-    "ipa": "ɪts ˈvɛri ˈbɔrɪŋ",
-    "def1": "це дуже нудно",
-    "spell": "it's very boring"
-  },
-  {
-    "def2": "",
-    "ipa": "ðɛn",
-    "def1": "потім",
-    "spell": "then"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈsɪriəl",
-    "def1": "пластівці",
-    "spell": "cereal"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈjuʒəwəli",
-    "def1": "зазвичай",
-    "spell": "usually"
-  },
-  {
-    "def2": "",
-    "ipa": "ɑn ˈwiˌkɛndz",
-    "def1": "у вихідні",
-    "spell": "on weekends"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈhɛlθi",
-    "def1": "здоровий",
-    "spell": "healthy"
-  },
-  {
-    "def2": "",
-    "ipa": "ɔr",
-    "def1": "або",
-    "spell": "or"
-  },
-  {
-    "def2": "",
-    "ipa": "bʌt",
-    "def1": "але",
-    "spell": "but"
-  },
-  {
-    "def2": "",
-    "ipa": "ə drɪŋk",
-    "def1": "напій",
-    "spell": "a drink"
-  },
-  {
-    "def2": "",
-    "ipa": "fɔr ˈbrɛkfəst",
-    "def1": "на сніданок",
-    "spell": "for breakfast"
-  },
-  {
-    "def2": "",
-    "ipa": "ɪz ɪt ˈhɛlθi?",
-    "def1": "це здорово?",
-    "spell": "is it healthy?"
-  },
-  {
-    "def2": "",
-    "ipa": "bɪˈkɔz",
-    "def1": "тому що",
-    "spell": "because"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈɛvəri ˈmɔrnɪŋ",
-    "def1": "щоранку",
-    "spell": "every morning"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ doʊnt θɪŋk",
-    "def1": "я не думаю",
-    "spell": "I don't think"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ kip ˈtɛlɪŋ maɪ waɪf",
-    "def1": "я постійно кажу своїй дружині",
-    "spell": "I keep telling my wife"
-  },
-  {
-    "def2": "",
-    "ipa": "doʊnt drɪŋk mʌʧ ˈkɑfi",
-    "def1": "не пий багато кави",
-    "spell": "don't drink much coffee"
-  },
-  {
-    "def2": "",
-    "ipa": "bʌt ʃi ˈɔlˌweɪz sɛz",
-    "def1": "але вона завжди каже",
-    "spell": "but she always says"
-  },
-  {
-    "def2": "",
-    "ipa": "ðæts ˈoʊˈkeɪ",
-    "def1": "все гаразд",
-    "spell": "that's ok"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ doʊnt θɪŋk ɪt ɪz ˈhɛlθi tu drɪŋk mʌʧ ˈkɑfi",
-    "def1": "я не думаю, що пити багато кави — це здорово",
-    "spell": "I don't think it is healthy to drink much coffee"
-  },
-  {
-    "def2": "",
-    "ipa": "du ju θɪŋk?",
-    "def1": "ти як вважаєш?",
-    "spell": "do you think?"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ θɪŋk ɪt ɪz nɑt ˈhɛlθi",
-    "def1": "я думаю, це не здорово",
-    "spell": "I think it is not healthy"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ du nɑt θɪŋk ɪt ɪz ˈhɛlθi",
-    "def1": "я не вважаю, що це здорово",
-    "spell": "I do not think it is healthy"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ doʊnt θɪŋk. aɪ du nɑt θɪŋk.",
-    "def1": "я не вважаю.",
-    "spell": "I don't think. I do not think."
-  },
-  {
-    "def2": "",
-    "ipa": "ʃi drɪŋks lɛs ˈkɑfi.",
-    "def1": "Олена п’є менше кави.",
-    "spell": "she drinks less coffee."
-  },
-  {
-    "def2": "",
-    "ipa": "ə ɡlæs ʌv ʤus",
-    "def1": "склянка соку",
-    "spell": "a glass of juice"
-  },
-  {
-    "def2": "",
-    "ipa": "ə kʌp ʌv ˈkɑfi",
-    "def1": "чашка кави",
-    "spell": "a cup of coffee"
-  },
-  {
-    "def2": "",
-    "ipa": "ə bɑks ʌv ˈɔrənʤəz",
-    "def1": "ящик апельсинів",
-    "spell": "a box of oranges"
-  },
-  {
-    "def2": "",
-    "ipa": "ɑr ju hɑt?",
-    "def1": "тобі спекотно?",
-    "spell": "are you hot?"
-  },
-  {
-    "def2": "",
-    "ipa": "wɑt dʌz ɪt min?",
-    "def1": "що це означає?",
-    "spell": "what does it mean?"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈɜrli",
-    "def1": "рано",
-    "spell": "early"
-  },
-  {
-    "def2": "",
-    "ipa": "wɑt ɪz ðə trəˈdɪʃənəl juˈkreɪniən fud?",
-    "def1": "яка традиційна українська страва?",
-    "spell": "what is the traditional Ukrainian food?"
-  },
-  {
-    "def2": "",
-    "ipa": "bit",
-    "def1": "буряк",
-    "spell": "beet"
-  },
-  {
-    "def2": "",
-    "ipa": "ə bit sup",
-    "def1": "борщ",
-    "spell": "a beet soup"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈdʌmplɪŋz",
-    "def1": "вареники",
-    "spell": "dumplings"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈdɪfərənt",
-    "def1": "різний",
-    "spell": "different"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈdɪfərənt fudz",
-    "def1": "різні страви",
-    "spell": "different foods"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ ˈjuʒəwəli (doʊnt) hæv ˈʃʊɡər",
-    "def1": "я зазвичай (не) їм цукор",
-    "spell": "I usually (don't) have sugar"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈbʌtər",
-    "def1": "масло",
-    "spell": "butter"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ səmˈtaɪmz hæv",
-    "def1": "іноді я їм",
-    "spell": "I sometimes have"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈnɛvər",
-    "def1": "ніколи",
-    "spell": "never"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ ˈnɛvər hæv",
-    "def1": "я ніколи не їм",
-    "spell": "I never have"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪ ˈɔlˌweɪz hæv ˈwɔtər",
-    "def1": "я завжди п’ю воду",
-    "spell": "I always have water"
-  },
-  {
-    "def2": "",
-    "ipa": "ʧip ʤus",
-    "def1": "дешевий сік",
-    "spell": "cheap juice"
-  },
-  {
-    "def2": "",
-    "ipa": "ɪkˈspɛnsɪv ʤus",
-    "def1": "дорогий сік",
-    "spell": "expensive juice"
-  },
-  {
-    "def2": "",
-    "ipa": "mɔr ˈhɛlθi",
-    "def1": "більш здоровий",
-    "spell": "more healthy"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈhɛlθiər",
-    "def1": "здоровіший",
-    "spell": "healthier"
-  },
-  {
-    "def2": "",
-    "ipa": "tu weɪk ʌp",
-    "def1": "прокидатися",
-    "spell": "to wake up"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈsizər ˈsæləd",
-    "def1": "салат \"Цезар\"",
-    "spell": "Cesar salad"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈmɛsi",
-    "def1": "брудний",
-    "spell": "messy"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈvɛri wɛt",
-    "def1": "дуже мокрий",
-    "spell": "very wet"
-  },
-  {
-    "def2": "",
-    "ipa": "ˈsaʊər krim",
-    "def1": "сметана",
-    "spell": "sour cream"
-  },
-  {
-    "def2": "",
-    "ipa": "aɪm ˈɡɑnə ɡoʊ hoʊm æt 9 pi.ɛm.",
-    "def1": "я збираюся їхати додому о 9 вечора",
-    "spell": "I’m gonna go home at 9 p.m."
-  },
-  {
-    "def2": "",
-    "ipa": "ɪz ʃi ˈɡɑnə wɜrk təˈdeɪ?",
-    "def1": "вона сьогодні працюватиме?",
-    "spell": "Is she gonna work today?"
-  },
-  {
-    "def2": "",
-    "ipa": "du ju noʊ wɛr ju ɑr ˈɡɑnə ɡoʊ nɛkst?",
-    "def1": "ти знаєш, куди збираєшся їхати далі?",
-    "spell": "do you know where you are gonna go next?"
-  }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 26,
+  "date": "2025-04-30",
+  "words": [
+    {
+      "def2": "",
+      "ipa": "wɑt taɪm ɑr ju ˈɡɑnə ɡoʊ hoʊm?",
+      "def1": "о котрій годині ти збираєшся їхати додому?",
+      "spell": "what time are you gonna go home?"
+    },
+    {
+      "def2": "",
+      "ipa": "wɑt taɪm?",
+      "def1": "о котрій?",
+      "spell": "what time?"
+    },
+    {
+      "def2": "",
+      "ipa": "æt ðə seɪm taɪm",
+      "def1": "у той самий час",
+      "spell": "at the same time"
+    },
+    {
+      "def2": "",
+      "ipa": "səmˈtaɪmz",
+      "def1": "іноді",
+      "spell": "sometimes"
+    },
+    {
+      "def2": "",
+      "ipa": "du ju noʊ wɛr ju ɑr ˈɡɑnə ɡoʊ nɛkst?",
+      "def1": "ти знаєш, куди збираєшся їхати далі?",
+      "spell": "do you know where you are gonna go next?"
+    },
+    {
+      "def2": "",
+      "ipa": "ɪf ðeɪ æsk ju tu ɡoʊ ˈvɛri fɑr, ɑr ju ˈɡɑnə ɡoʊ?",
+      "def1": "якщо вони попросять тебе поїхати дуже далеко, ти поїдеш?",
+      "spell": "if they ask you to go very far, are you gonna go?"
+    },
+    {
+      "def2": "",
+      "ipa": "fɑr",
+      "def1": "далеко",
+      "spell": "far"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈvɛri fɑr",
+      "def1": "дуже далеко",
+      "spell": "very far"
+    },
+    {
+      "def2": "",
+      "ipa": "wɛr ɪz ðə ˈfɑrðəst ju hæv ˈɛvər ɡɔn?",
+      "def1": "де найдалі ти коли-небудь був?",
+      "spell": "where is the farthest you have ever gone?"
+    },
+    {
+      "def2": "",
+      "ipa": "ə ˈlɪtəl",
+      "def1": "трохи",
+      "spell": "a little"
+    },
+    {
+      "def2": "",
+      "ipa": "lɛt ʌs rid",
+      "def1": "давай почитаємо",
+      "spell": "let us read"
+    },
+    {
+      "def2": "",
+      "ipa": "ɪmˈpɔrtənt",
+      "def1": "важливий",
+      "spell": "important"
+    },
+    {
+      "def2": "",
+      "ipa": "ðæts waɪ",
+      "def1": "ось чому",
+      "spell": "that's why"
+    },
+    {
+      "def2": "",
+      "ipa": "tu weɪk ʌp leɪt",
+      "def1": "прокидатися пізно",
+      "spell": "to wake up late"
+    },
+    {
+      "def2": "",
+      "ipa": "wi hæv noʊ taɪm",
+      "def1": "у нас немає часу",
+      "spell": "we have no time"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ ʤʌst teɪk hɜr tu wɜrk",
+      "def1": "я просто відвожу її на роботу",
+      "spell": "I just take her to work"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ seɪ ɡʊd baɪ tu hɜr",
+      "def1": "я кажу їй \"до побачення\"",
+      "spell": "I say good bye to her"
+    },
+    {
+      "def2": "",
+      "ipa": "ɪts ˈvɛri ˈbɔrɪŋ",
+      "def1": "це дуже нудно",
+      "spell": "it's very boring"
+    },
+    {
+      "def2": "",
+      "ipa": "ðɛn",
+      "def1": "потім",
+      "spell": "then"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈsɪriəl",
+      "def1": "пластівці",
+      "spell": "cereal"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈjuʒəwəli",
+      "def1": "зазвичай",
+      "spell": "usually"
+    },
+    {
+      "def2": "",
+      "ipa": "ɑn ˈwiˌkɛndz",
+      "def1": "у вихідні",
+      "spell": "on weekends"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈhɛlθi",
+      "def1": "здоровий",
+      "spell": "healthy"
+    },
+    {
+      "def2": "",
+      "ipa": "ɔr",
+      "def1": "або",
+      "spell": "or"
+    },
+    {
+      "def2": "",
+      "ipa": "bʌt",
+      "def1": "але",
+      "spell": "but"
+    },
+    {
+      "def2": "",
+      "ipa": "ə drɪŋk",
+      "def1": "напій",
+      "spell": "a drink"
+    },
+    {
+      "def2": "",
+      "ipa": "fɔr ˈbrɛkfəst",
+      "def1": "на сніданок",
+      "spell": "for breakfast"
+    },
+    {
+      "def2": "",
+      "ipa": "ɪz ɪt ˈhɛlθi?",
+      "def1": "це здорово?",
+      "spell": "is it healthy?"
+    },
+    {
+      "def2": "",
+      "ipa": "bɪˈkɔz",
+      "def1": "тому що",
+      "spell": "because"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈɛvəri ˈmɔrnɪŋ",
+      "def1": "щоранку",
+      "spell": "every morning"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ doʊnt θɪŋk",
+      "def1": "я не думаю",
+      "spell": "I don't think"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ kip ˈtɛlɪŋ maɪ waɪf",
+      "def1": "я постійно кажу своїй дружині",
+      "spell": "I keep telling my wife"
+    },
+    {
+      "def2": "",
+      "ipa": "doʊnt drɪŋk mʌʧ ˈkɑfi",
+      "def1": "не пий багато кави",
+      "spell": "don't drink much coffee"
+    },
+    {
+      "def2": "",
+      "ipa": "bʌt ʃi ˈɔlˌweɪz sɛz",
+      "def1": "але вона завжди каже",
+      "spell": "but she always says"
+    },
+    {
+      "def2": "",
+      "ipa": "ðæts ˈoʊˈkeɪ",
+      "def1": "все гаразд",
+      "spell": "that's ok"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ doʊnt θɪŋk ɪt ɪz ˈhɛlθi tu drɪŋk mʌʧ ˈkɑfi",
+      "def1": "я не думаю, що пити багато кави — це здорово",
+      "spell": "I don't think it is healthy to drink much coffee"
+    },
+    {
+      "def2": "",
+      "ipa": "du ju θɪŋk?",
+      "def1": "ти як вважаєш?",
+      "spell": "do you think?"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ θɪŋk ɪt ɪz nɑt ˈhɛlθi",
+      "def1": "я думаю, це не здорово",
+      "spell": "I think it is not healthy"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ du nɑt θɪŋk ɪt ɪz ˈhɛlθi",
+      "def1": "я не вважаю, що це здорово",
+      "spell": "I do not think it is healthy"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ doʊnt θɪŋk. aɪ du nɑt θɪŋk.",
+      "def1": "я не вважаю.",
+      "spell": "I don't think. I do not think."
+    },
+    {
+      "def2": "",
+      "ipa": "ʃi drɪŋks lɛs ˈkɑfi.",
+      "def1": "Олена п’є менше кави.",
+      "spell": "she drinks less coffee."
+    },
+    {
+      "def2": "",
+      "ipa": "ə ɡlæs ʌv ʤus",
+      "def1": "склянка соку",
+      "spell": "a glass of juice"
+    },
+    {
+      "def2": "",
+      "ipa": "ə kʌp ʌv ˈkɑfi",
+      "def1": "чашка кави",
+      "spell": "a cup of coffee"
+    },
+    {
+      "def2": "",
+      "ipa": "ə bɑks ʌv ˈɔrənʤəz",
+      "def1": "ящик апельсинів",
+      "spell": "a box of oranges"
+    },
+    {
+      "def2": "",
+      "ipa": "ɑr ju hɑt?",
+      "def1": "тобі спекотно?",
+      "spell": "are you hot?"
+    },
+    {
+      "def2": "",
+      "ipa": "wɑt dʌz ɪt min?",
+      "def1": "що це означає?",
+      "spell": "what does it mean?"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈɜrli",
+      "def1": "рано",
+      "spell": "early"
+    },
+    {
+      "def2": "",
+      "ipa": "wɑt ɪz ðə trəˈdɪʃənəl juˈkreɪniən fud?",
+      "def1": "яка традиційна українська страва?",
+      "spell": "what is the traditional Ukrainian food?"
+    },
+    {
+      "def2": "",
+      "ipa": "bit",
+      "def1": "буряк",
+      "spell": "beet"
+    },
+    {
+      "def2": "",
+      "ipa": "ə bit sup",
+      "def1": "борщ",
+      "spell": "a beet soup"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈdʌmplɪŋz",
+      "def1": "вареники",
+      "spell": "dumplings"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈdɪfərənt",
+      "def1": "різний",
+      "spell": "different"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈdɪfərənt fudz",
+      "def1": "різні страви",
+      "spell": "different foods"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ ˈjuʒəwəli (doʊnt) hæv ˈʃʊɡər",
+      "def1": "я зазвичай (не) їм цукор",
+      "spell": "I usually (don't) have sugar"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈbʌtər",
+      "def1": "масло",
+      "spell": "butter"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ səmˈtaɪmz hæv",
+      "def1": "іноді я їм",
+      "spell": "I sometimes have"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈnɛvər",
+      "def1": "ніколи",
+      "spell": "never"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ ˈnɛvər hæv",
+      "def1": "я ніколи не їм",
+      "spell": "I never have"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪ ˈɔlˌweɪz hæv ˈwɔtər",
+      "def1": "я завжди п’ю воду",
+      "spell": "I always have water"
+    },
+    {
+      "def2": "",
+      "ipa": "ʧip ʤus",
+      "def1": "дешевий сік",
+      "spell": "cheap juice"
+    },
+    {
+      "def2": "",
+      "ipa": "ɪkˈspɛnsɪv ʤus",
+      "def1": "дорогий сік",
+      "spell": "expensive juice"
+    },
+    {
+      "def2": "",
+      "ipa": "mɔr ˈhɛlθi",
+      "def1": "більш здоровий",
+      "spell": "more healthy"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈhɛlθiər",
+      "def1": "здоровіший",
+      "spell": "healthier"
+    },
+    {
+      "def2": "",
+      "ipa": "tu weɪk ʌp",
+      "def1": "прокидатися",
+      "spell": "to wake up"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈsizər ˈsæləd",
+      "def1": "салат \"Цезар\"",
+      "spell": "Cesar salad"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈmɛsi",
+      "def1": "брудний",
+      "spell": "messy"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈvɛri wɛt",
+      "def1": "дуже мокрий",
+      "spell": "very wet"
+    },
+    {
+      "def2": "",
+      "ipa": "ˈsaʊər krim",
+      "def1": "сметана",
+      "spell": "sour cream"
+    },
+    {
+      "def2": "",
+      "ipa": "aɪm ˈɡɑnə ɡoʊ hoʊm æt 9 pi.ɛm.",
+      "def1": "я збираюся їхати додому о 9 вечора",
+      "spell": "I’m gonna go home at 9 p.m."
+    },
+    {
+      "def2": "",
+      "ipa": "ɪz ʃi ˈɡɑnə wɜrk təˈdeɪ?",
+      "def1": "вона сьогодні працюватиме?",
+      "spell": "Is she gonna work today?"
+    },
+    {
+      "def2": "",
+      "ipa": "du ju noʊ wɛr ju ɑr ˈɡɑnə ɡoʊ nɛkst?",
+      "def1": "ти знаєш, куди збираєшся їхати далі?",
+      "spell": "do you know where you are gonna go next?"
+    }
+  ]
+}
