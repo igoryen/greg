@@ -117,7 +117,6 @@ import IM10 from "./pages/im/IM10";
 import IM12 from "./pages/im/IM12";
 
 import IP from "./pages/ip/IP";
-import IP13 from "./pages/ip/IP13";
 import IP14 from "./pages/ip/IP14";
 import IP17 from "./pages/ip/IP17";
 import IP18 from "./pages/ip/IP18";
@@ -447,7 +446,6 @@ export default function App() {
           <Route path="im12" element={<IM12 />} />
 
           <Route path="ip" element={<IP />} />
-          <Route path="ip13" element={<IP13 />} />
           <Route path="ip14" element={<IP14 />} />
           <Route path="ip17" element={<IP17 />} />
           <Route path="ip18" element={<IP18 />} />
