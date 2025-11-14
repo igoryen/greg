@@ -1,443 +1,450 @@
-[
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "собака (@)",
-    "ipa": "æt",
-    "spell": "at"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "великий білий дім",
-    "ipa": "ə bɪɡ waɪt haʊs",
-    "spell": "a big white house"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "великий дім",
-    "ipa": "ə bɪɡ haʊs",
-    "spell": "a big house"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "кава",
-    "ipa": "ə ˈkɑfi",
-    "spell": "a coffee"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "чашка кави",
-    "ipa": "ə kʌp ʌv ˈkɑfi",
-    "spell": "a cup of coffee"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "чашка чаю",
-    "ipa": "ə kʌp ʌv ti",
-    "spell": "a cup of tea"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "повний бак",
-    "ipa": "ə fʊl tæŋk",
-    "spell": "a full tank"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "галлон бензину",
-    "ipa": "ə ˈɡælən ʌv ɡæs",
-    "spell": "a gallon of gas"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "склянка коли",
-    "ipa": "ə ɡlæs ʌv koʊk",
-    "spell": "a glass of coke"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "склянка води",
-    "ipa": "ə ɡlæs ʌv ˈwɔtər",
-    "spell": "a glass of water"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "хлібина",
-    "ipa": "ə loʊf",
-    "spell": "a loaf"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "хлібина хліба",
-    "ipa": "ə loʊf ʌv brɛd",
-    "spell": "a loaf of bread"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "насіння",
-    "ipa": "ə sid",
-    "spell": "a seed"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бак",
-    "ipa": "ə tæŋk",
-    "spell": "a tank"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "яйце",
-    "ipa": "ən ɛɡ",
-    "spell": "an egg"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що-небудь випити?",
-    "ipa": "ˈɛniˌθɪŋ tu drɪŋk?",
-    "spell": "anything to drink?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сиди тихо!",
-    "ipa": "bi stɪl!",
-    "spell": "be still!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "можна нам кави, будь ласка?",
-    "ipa": "kæn wi hæv ə ˈkɑfi pliz?",
-    "spell": "can we have a coffee please?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "холодний напій",
-    "ipa": "ə koʊld drɪŋk",
-    "spell": "a cold drink"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "крапка ком (.com)",
-    "ipa": "dɑt kɑm",
-    "spell": "dot com"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "крапка",
-    "ipa": "ə dɑt",
-    "spell": "a dot"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дорівнює",
-    "ipa": "ˈikwəlz",
-    "spell": "equals"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "євро",
-    "ipa": "ə ˈjuroʊ",
-    "spell": "a euro"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "їжа",
-    "ipa": "fud",
-    "spell": "food"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бензин дешевший у США",
-    "ipa": "ɡæs ɪz ˈʧipər ɪn ðə ˌjuˈɛs",
-    "spell": "gas is cheaper in the US"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "гарна пам’ять",
-    "ipa": "ə ɡʊd ˈmɛməri",
-    "spell": "a good memory"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "пів бака",
-    "ipa": "hæf ə tæŋk",
-    "spell": "half a tank"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ось, будь ласка",
-    "ipa": "hir ju ɑr",
-    "spell": "here you are"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "гарячий напій",
-    "ipa": "ə hɑt drɪŋk",
-    "spell": "a hot drink"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "скільки ви платите?",
-    "ipa": "haʊ mʌʧ du ju peɪ?",
-    "spell": "how much do you pay?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "лежи тихо!",
-    "ipa": "laɪ stɪl!",
-    "spell": "lie still!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "буквально",
-    "ipa": "ˈlɪtərəli",
-    "spell": "literally"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "плюс",
-    "ipa": "plʌs",
-    "spell": "plus"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "зібрати це знову",
-    "ipa": "pʊt ɪt təˈɡɛðər əˈɡɛn",
-    "spell": "put it together again"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "насіння",
-    "ipa": "sidz",
-    "spell": "seeds"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сиди тихо!",
-    "ipa": "sɪt stɪl!",
-    "spell": "sit still!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "стояти спокійно!",
-    "ipa": "stænd stɪl!",
-    "spell": "stand still!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "негазована вода",
-    "ipa": "stɪl ˈwɔtər",
-    "spell": "still water"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це все",
-    "ipa": "ðæts ɔl",
-    "spell": "that's all"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це важливо",
-    "ipa": "ðæts ɪmˈpɔrtənt",
-    "spell": "that's important"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це один долар",
-    "ipa": "ðæts wʌn ˈdɑlər",
-    "spell": "that's one dollar"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "найбільший",
-    "ipa": "ðə ˈbɪɡəst",
-    "spell": "the biggest"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "найдешевший бензин у Техасі",
-    "ipa": "ðə ˈʧipəst ɡæs ɪz ɪn ˈtɛksəs",
-    "spell": "the cheapest gas is in Texas"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "найменший",
-    "ipa": "ðə ˈsmɔləst",
-    "spell": "the smallest"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "яблук немає",
-    "ipa": "ðɛr ɑr noʊ ˈæpəlz",
-    "spell": "there are no apples"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бургерів немає",
-    "ipa": "ðɛr ɑr noʊ ˈbɜrɡərz",
-    "spell": "there are no burgers"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "яєць немає",
-    "ipa": "ðɛr ɑr noʊ ɛɡz",
-    "spell": "there are no eggs"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "хліба немає",
-    "ipa": "ðɛr ɪz noʊ brɛd",
-    "spell": "there is no bread"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сиру немає",
-    "ipa": "ðɛr ɪz noʊ ʧiz",
-    "spell": "there is no cheese"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "їжі немає",
-    "ipa": "ðɛr ɪz noʊ fud",
-    "spell": "there is no food"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бензину немає!",
-    "ipa": "ðɛr ɪz noʊ ɡæs!",
-    "spell": "there is no gas!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "грошей немає",
-    "ipa": "ðɛr ɪz noʊ ˈmʌni",
-    "spell": "there is no money"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "чаю немає",
-    "ipa": "ðɛr ɪz noʊ ti",
-    "spell": "there is no tea"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "води немає",
-    "ipa": "ðɛr ɪz noʊ ˈwɔtər",
-    "spell": "there is no water"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "рахувати",
-    "ipa": "tu kaʊnt",
-    "spell": "to count"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дорівнювати",
-    "ipa": "tu ˈikwəl",
-    "spell": "to equal"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "втратити це",
-    "ipa": "tu luz ɪt",
-    "spell": "to lose it"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "надто дорого",
-    "ipa": "tu ɪkˈspɛnsɪv",
-    "spell": "too expensive"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дві хлібини хліба",
-    "ipa": "tu loʊvz ʌv brɛd",
-    "spell": "two loaves of bread"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "два плюс два дорівнює чотири",
-    "ipa": "tu plʌs tu ˈikwəlz fɔr",
-    "spell": "two plus two equals four"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "незліченний",
-    "ipa": "ʌnˈkaʊntəbəl",
-    "spell": "uncountable"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "Використовуй це, або втратиш",
-    "ipa": "juz ɪt ɔr luz ɪt",
-    "spell": "Use it or lose it"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "Використовуй це!",
-    "ipa": "juz ɪt!",
-    "spell": "Use it!"
-  }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 20,
+  "date": "2025-04-16",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "собака (@)",
+      "ipa": "æt",
+      "spell": "at"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "великий білий дім",
+      "ipa": "ə bɪɡ waɪt haʊs",
+      "spell": "a big white house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "великий дім",
+      "ipa": "ə bɪɡ haʊs",
+      "spell": "a big house"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кава",
+      "ipa": "ə ˈkɑfi",
+      "spell": "a coffee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чашка кави",
+      "ipa": "ə kʌp ʌv ˈkɑfi",
+      "spell": "a cup of coffee"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чашка чаю",
+      "ipa": "ə kʌp ʌv ti",
+      "spell": "a cup of tea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "повний бак",
+      "ipa": "ə fʊl tæŋk",
+      "spell": "a full tank"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "галлон бензину",
+      "ipa": "ə ˈɡælən ʌv ɡæs",
+      "spell": "a gallon of gas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "склянка коли",
+      "ipa": "ə ɡlæs ʌv koʊk",
+      "spell": "a glass of coke"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "склянка води",
+      "ipa": "ə ɡlæs ʌv ˈwɔtər",
+      "spell": "a glass of water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хлібина",
+      "ipa": "ə loʊf",
+      "spell": "a loaf"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хлібина хліба",
+      "ipa": "ə loʊf ʌv brɛd",
+      "spell": "a loaf of bread"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "насіння",
+      "ipa": "ə sid",
+      "spell": "a seed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бак",
+      "ipa": "ə tæŋk",
+      "spell": "a tank"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яйце",
+      "ipa": "ən ɛɡ",
+      "spell": "an egg"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що-небудь випити?",
+      "ipa": "ˈɛniˌθɪŋ tu drɪŋk?",
+      "spell": "anything to drink?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сиди тихо!",
+      "ipa": "bi stɪl!",
+      "spell": "be still!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "можна нам кави, будь ласка?",
+      "ipa": "kæn wi hæv ə ˈkɑfi pliz?",
+      "spell": "can we have a coffee please?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "холодний напій",
+      "ipa": "ə koʊld drɪŋk",
+      "spell": "a cold drink"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "крапка ком (.com)",
+      "ipa": "dɑt kɑm",
+      "spell": "dot com"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "крапка",
+      "ipa": "ə dɑt",
+      "spell": "a dot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дорівнює",
+      "ipa": "ˈikwəlz",
+      "spell": "equals"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "євро",
+      "ipa": "ə ˈjuroʊ",
+      "spell": "a euro"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їжа",
+      "ipa": "fud",
+      "spell": "food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бензин дешевший у США",
+      "ipa": "ɡæs ɪz ˈʧipər ɪn ðə ˌjuˈɛs",
+      "spell": "gas is cheaper in the US"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гарна пам’ять",
+      "ipa": "ə ɡʊd ˈmɛməri",
+      "spell": "a good memory"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "пів бака",
+      "ipa": "hæf ə tæŋk",
+      "spell": "half a tank"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ось, будь ласка",
+      "ipa": "hir ju ɑr",
+      "spell": "here you are"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гарячий напій",
+      "ipa": "ə hɑt drɪŋk",
+      "spell": "a hot drink"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скільки ви платите?",
+      "ipa": "haʊ mʌʧ du ju peɪ?",
+      "spell": "how much do you pay?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лежи тихо!",
+      "ipa": "laɪ stɪl!",
+      "spell": "lie still!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "буквально",
+      "ipa": "ˈlɪtərəli",
+      "spell": "literally"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плюс",
+      "ipa": "plʌs",
+      "spell": "plus"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "зібрати це знову",
+      "ipa": "pʊt ɪt təˈɡɛðər əˈɡɛn",
+      "spell": "put it together again"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "насіння",
+      "ipa": "sidz",
+      "spell": "seeds"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сиди тихо!",
+      "ipa": "sɪt stɪl!",
+      "spell": "sit still!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стояти спокійно!",
+      "ipa": "stænd stɪl!",
+      "spell": "stand still!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "негазована вода",
+      "ipa": "stɪl ˈwɔtər",
+      "spell": "still water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це все",
+      "ipa": "ðæts ɔl",
+      "spell": "that's all"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це важливо",
+      "ipa": "ðæts ɪmˈpɔrtənt",
+      "spell": "that's important"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це один долар",
+      "ipa": "ðæts wʌn ˈdɑlər",
+      "spell": "that's one dollar"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "найбільший",
+      "ipa": "ðə ˈbɪɡəst",
+      "spell": "the biggest"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "найдешевший бензин у Техасі",
+      "ipa": "ðə ˈʧipəst ɡæs ɪz ɪn ˈtɛksəs",
+      "spell": "the cheapest gas is in Texas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "найменший",
+      "ipa": "ðə ˈsmɔləst",
+      "spell": "the smallest"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яблук немає",
+      "ipa": "ðɛr ɑr noʊ ˈæpəlz",
+      "spell": "there are no apples"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бургерів немає",
+      "ipa": "ðɛr ɑr noʊ ˈbɜrɡərz",
+      "spell": "there are no burgers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яєць немає",
+      "ipa": "ðɛr ɑr noʊ ɛɡz",
+      "spell": "there are no eggs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хліба немає",
+      "ipa": "ðɛr ɪz noʊ brɛd",
+      "spell": "there is no bread"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сиру немає",
+      "ipa": "ðɛr ɪz noʊ ʧiz",
+      "spell": "there is no cheese"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їжі немає",
+      "ipa": "ðɛr ɪz noʊ fud",
+      "spell": "there is no food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бензину немає!",
+      "ipa": "ðɛr ɪz noʊ ɡæs!",
+      "spell": "there is no gas!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грошей немає",
+      "ipa": "ðɛr ɪz noʊ ˈmʌni",
+      "spell": "there is no money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чаю немає",
+      "ipa": "ðɛr ɪz noʊ ti",
+      "spell": "there is no tea"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "води немає",
+      "ipa": "ðɛr ɪz noʊ ˈwɔtər",
+      "spell": "there is no water"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "рахувати",
+      "ipa": "tu kaʊnt",
+      "spell": "to count"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дорівнювати",
+      "ipa": "tu ˈikwəl",
+      "spell": "to equal"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "втратити це",
+      "ipa": "tu luz ɪt",
+      "spell": "to lose it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "надто дорого",
+      "ipa": "tu ɪkˈspɛnsɪv",
+      "spell": "too expensive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дві хлібини хліба",
+      "ipa": "tu loʊvz ʌv brɛd",
+      "spell": "two loaves of bread"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "два плюс два дорівнює чотири",
+      "ipa": "tu plʌs tu ˈikwəlz fɔr",
+      "spell": "two plus two equals four"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "незліченний",
+      "ipa": "ʌnˈkaʊntəbəl",
+      "spell": "uncountable"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Використовуй це, або втратиш",
+      "ipa": "juz ɪt ɔr luz ɪt",
+      "spell": "Use it or lose it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Використовуй це!",
+      "ipa": "juz ɪt!",
+      "spell": "Use it!"
+    }
+  ]
+}
