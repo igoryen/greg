@@ -1,434 +1,441 @@
-[
- {
-   "cefr": "",
-   "def1": "або",
-   "ipa": "ɔr",
-   "spell": "or"
- },
- {
-   "cefr": "",
-   "def1": "англійська орфографія — це злочин",
-   "ipa": "ˈɪŋɡlɪʃ ˈspɛlɪŋ ɪz ə kraɪm",
-   "spell": "English spelling is a crime"
- },
- {
-   "cefr": "",
-   "def1": "будь-що",
-   "ipa": "ˈɛniˌθɪŋ",
-   "spell": "anything"
- },
- {
-   "cefr": "",
-   "def1": "будь-які помилки?",
-   "ipa": "ˈɛni mɪsˈteɪks?",
-   "spell": "any mistakes?"
- },
- {
-   "cefr": "",
-   "def1": "бутерброд з шинкою та сиром",
-   "ipa": "wʌn hæm ænd ʧiz ˈsændwɪʧ",
-   "spell": "one ham and cheese sandwich"
- },
- {
-   "cefr": "",
-   "def1": "білий хліб",
-   "ipa": "waɪt brɛd",
-   "spell": "white bread"
- },
- {
-   "cefr": "",
-   "def1": "білий чи цільнозерновий",
-   "ipa": "waɪt ɔr hoʊl wit",
-   "spell": "white or whole wheat"
- },
- {
-   "cefr": "",
-   "def1": "виправляти помилку",
-   "ipa": "tu kəˈrɛkt ə mɪsˈteɪk",
-   "spell": "to correct a mistake"
- },
- {
-   "cefr": "",
-   "def1": "вони співають",
-   "ipa": "ðeɪ sɪŋ",
-   "spell": "they sing"
- },
- {
-   "cefr": "",
-   "def1": "він замовив це?",
-   "ipa": "dɪd hi ˈɔrdər ɪt?",
-   "spell": "did he order it?"
- },
- {
-   "cefr": "",
-   "def1": "газована вода",
-   "ipa": "ˈspɑrklɪŋ ˈwɔtər",
-   "spell": "sparkling water"
- },
- {
-   "cefr": "",
-   "def1": "газоване вино",
-   "ipa": "ˈspɑrklɪŋ waɪn",
-   "spell": "sparkling wine"
- },
- {
-   "cefr": "",
-   "def1": "давати",
-   "ipa": "tu ɡɪv",
-   "spell": "to give"
- },
- {
-   "cefr": "",
-   "def1": "дайте мені бутерброд",
-   "ipa": "ɡɪv mi ə ˈsændwɪʧ",
-   "spell": "give me a sandwich"
- },
- {
-   "cefr": "",
-   "def1": "дешево",
-   "ipa": "ʧip",
-   "spell": "cheap"
- },
- {
-   "cefr": "",
-   "def1": "дорого",
-   "ipa": "ɪkˈspɛnsɪv",
-   "spell": "expensive"
- },
- {
-   "cefr": "",
-   "def1": "дуже рано",
-   "ipa": "ˈvɛri ˈɜrli",
-   "spell": "very early"
- },
- {
-   "cefr": "",
-   "def1": "замовлення",
-   "ipa": "ən ˈɔrdər",
-   "spell": "an order"
- },
- {
-   "cefr": "",
-   "def1": "клієнт",
-   "ipa": "ə ˈkʌstəmər",
-   "spell": "a customer"
- },
- {
-   "cefr": "",
-   "def1": "моя черга",
-   "ipa": "maɪ tɜrn",
-   "spell": "my turn"
- },
- {
-   "cefr": "",
-   "def1": "не завжди",
-   "ipa": "nɑt ˈɔlˌweɪz",
-   "spell": "not always"
- },
- {
-   "cefr": "",
-   "def1": "негазована вода",
-   "ipa": "stɪl ˈwɔtər",
-   "spell": "still water"
- },
- {
-   "cefr": "",
-   "def1": "немає кексів",
-   "ipa": "ðɛr ɑr noʊ ˈkʌpˌkeɪks",
-   "spell": "there are no cupcakes"
- },
- {
-   "cefr": "",
-   "def1": "немає чаю",
-   "ipa": "ðɛr ɪz noʊ ti",
-   "spell": "there is no tea"
- },
- {
-   "cefr": "",
-   "def1": "ніколи не кажи \"Ти помиляєшся\"",
-   "ipa": "ˈnɛvər seɪ \"ju ɑr rɔŋ\"",
-   "spell": "never say \"You are wrong\""
- },
- {
-   "cefr": "",
-   "def1": "нічого",
-   "ipa": "ˈnʌθɪŋ",
-   "spell": "nothing"
- },
- {
-   "cefr": "",
-   "def1": "нічого більше",
-   "ipa": "ˈnʌθɪŋ ɛls",
-   "spell": "nothing else"
- },
- {
-   "cefr": "",
-   "def1": "нічого!",
-   "ipa": "ˈnʌθɪŋ!",
-   "spell": "nothing!"
- },
- {
-   "cefr": "",
-   "def1": "о котрій годині ти лягаєш спати?",
-   "ipa": "wɑt taɪm du ju ɡoʊ tu slip?",
-   "spell": "what time do you go to sleep?"
- },
- {
-   "cefr": "",
-   "def1": "о котрій годині ти прокидаєшся?",
-   "ipa": "wɑt taɪm du ju weɪk ʌp?",
-   "spell": "what time do you wake up?"
- },
- {
-   "cefr": "",
-   "def1": "один із цих",
-   "ipa": "wʌn ʌv ðoʊz",
-   "spell": "one of those"
- },
- {
-   "cefr": "",
-   "def1": "один із цих кексів",
-   "ipa": "wʌn ʌv ðoʊz ˈkʌpˌkeɪks",
-   "spell": "one of those cupcakes"
- },
- {
-   "cefr": "",
-   "def1": "ось, будь ласка!",
-   "ipa": "hir ju ɑr!",
-   "spell": "here you are!"
- },
- {
-   "cefr": "",
-   "def1": "поруч зі мною",
-   "ipa": "nɛkst tu mi",
-   "spell": "next to me"
- },
- {
-   "cefr": "",
-   "def1": "привіт!",
-   "ipa": "haɪ!",
-   "spell": "hi!"
- },
- {
-   "cefr": "",
-   "def1": "продавець",
-   "ipa": "ə seɪlz klɜrk",
-   "spell": "a sales clerk"
- },
- {
-   "cefr": "",
-   "def1": "пшеничний хліб",
-   "ipa": "wit brɛd",
-   "spell": "wheat bread"
- },
- {
-   "cefr": "",
-   "def1": "рольова гра",
-   "ipa": "roʊl-pleɪ",
-   "spell": "role-play"
- },
- {
-   "cefr": "",
-   "def1": "сир",
-   "ipa": "ʧiz",
-   "spell": "cheese"
- },
- {
-   "cefr": "",
-   "def1": "скільки всього?",
-   "ipa": "haʊ ˈmɛni θɪŋz",
-   "spell": "how many things"
- },
- {
-   "cefr": "",
-   "def1": "скільки це коштує?",
-   "ipa": "haʊ mʌʧ ɪz ðæt?",
-   "spell": "how much is that?"
- },
- {
-   "cefr": "",
-   "def1": "там є кекси",
-   "ipa": "ðɛr ɑr ˈkʌpˌkeɪks",
-   "spell": "there are cupcakes"
- },
- {
-   "cefr": "",
-   "def1": "твоя черга",
-   "ipa": "jʊər tɜrn",
-   "spell": "your turn"
- },
- {
-   "cefr": "",
-   "def1": "ти висипаєшся?",
-   "ipa": "du ju slip ɪˈnʌf?",
-   "spell": "do you sleep enough?"
- },
- {
-   "cefr": "",
-   "def1": "ти все зрозумів?",
-   "ipa": "dɪd ju ˌʌndərˈstænd ˈɛvriˌθɪŋ?",
-   "spell": "did you understand everything?"
- },
- {
-   "cefr": "",
-   "def1": "ти добре себе почуваєш?",
-   "ipa": "du ju fil ˈoʊˈkeɪ?",
-   "spell": "do you feel ok?"
- },
- {
-   "cefr": "",
-   "def1": "ти не хворий?",
-   "ipa": "ju ɑr nɑt sɪk?",
-   "spell": "you are not sick?"
- },
- {
-   "cefr": "",
-   "def1": "ти помиляєшся!",
-   "ipa": "ju ɑr rɔŋ!",
-   "spell": "You are wrong!"
- },
- {
-   "cefr": "",
-   "def1": "ти правий!",
-   "ipa": "ju ɑr raɪt!",
-   "spell": "You are right!"
- },
- {
-   "cefr": "",
-   "def1": "усе дорого",
-   "ipa": "ˈɛvriˌθɪŋ ɪz ɪkˈspɛnsɪv",
-   "spell": "everything is expensive"
- },
- {
-   "cefr": "",
-   "def1": "це те саме слово",
-   "ipa": "ɪts ðə seɪm wɜrd",
-   "spell": "it's the same word"
- },
- {
-   "cefr": "",
-   "def1": "цукор",
-   "ipa": "ˈʃʊɡər",
-   "spell": "sugar"
- },
- {
-   "cefr": "",
-   "def1": "ці",
-   "ipa": "ðiz wʌnz",
-   "spell": "these ones"
- },
- {
-   "cefr": "",
-   "def1": "цільнозерновий хліб",
-   "ipa": "hoʊl wit brɛd",
-   "spell": "whole wheat bread"
- },
- {
-   "cefr": "",
-   "def1": "чи можете дати мені X?",
-   "ipa": "kæn aɪ hæv ɛks?",
-   "spell": "can I have X?"
- },
- {
-   "cefr": "",
-   "def1": "шахрай",
-   "ipa": "ə ˈskæmər",
-   "spell": "a scammer"
- },
- {
-   "cefr": "",
-   "def1": "шинка",
-   "ipa": "hæm",
-   "spell": "ham"
- },
- {
-   "cefr": "",
-   "def1": "шинка та сир",
-   "ipa": "hæm ænd ʧiz",
-   "spell": "ham and cheese"
- },
- {
-   "cefr": "",
-   "def1": "шоколадні",
-   "ipa": "ðə ˈʧɔklət wʌnz",
-   "spell": "the chocolate ones"
- },
- {
-   "cefr": "",
-   "def1": "ще раз",
-   "ipa": "wʌn mɔr taɪm",
-   "spell": "one more time"
- },
- {
-   "cefr": "",
-   "def1": "ще темно",
-   "ipa": "ɪts stɪl dɑrk",
-   "spell": "it's still dark"
- },
- {
-   "cefr": "",
-   "def1": "щось",
-   "ipa": "ˈsʌmθɪŋ",
-   "spell": "something"
- },
- {
-   "cefr": "",
-   "def1": "щось до пиття?",
-   "ipa": "ˈɛniˌθɪŋ tu drɪŋk?",
-   "spell": "anything to drink?"
- },
- {
-   "cefr": "",
-   "def1": "щось до їжі?",
-   "ipa": "ˈɛniˌθɪŋ tu it?",
-   "spell": "anything to eat?"
- },
- {
-   "cefr": "",
-   "def1": "щось побачити?",
-   "ipa": "ˈɛniˌθɪŋ tu si?",
-   "spell": "anything to see?"
- },
- {
-   "cefr": "",
-   "def1": "щось ще",
-   "ipa": "ˈsʌmθɪŋ ɛls",
-   "spell": "something else"
- },
- {
-   "cefr": "",
-   "def1": "щось ще?",
-   "ipa": "ˈɛniˌθɪŋ ɛls?",
-   "spell": "anything else?"
- },
- {
-   "cefr": "",
-   "def1": "я намагаюся",
-   "ipa": "aɪ traɪ",
-   "spell": "I try"
- },
- {
-   "cefr": "",
-   "def1": "я не працюю сьогодні",
-   "ipa": "aɪ æm nɑt ˈwɜrkɪŋ təˈdeɪ",
-   "spell": "I am not working today"
- },
- {
-   "cefr": "",
-   "def1": "я сплю сьогодні",
-   "ipa": "aɪ æm ˈslipɪŋ təˈdeɪ",
-   "spell": "I am sleeping today"
- },
- {
-   "cefr": "",
-   "def1": "як справи?",
-   "ipa": "haʊ ɑr ju ˈduɪŋ?",
-   "spell": "how are you doing?"
- },
- {
-   "cefr": "",
-   "def1": "іскритися",
-   "ipa": "tu ˈspɑrkəl",
-   "spell": "to sparkle"
- }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 17,
+  "date": "2025-04-09",
+  "words": [
+    {
+      "cefr": "",
+      "def1": "або",
+      "ipa": "ɔr",
+      "spell": "or"
+    },
+    {
+      "cefr": "",
+      "def1": "англійська орфографія — це злочин",
+      "ipa": "ˈɪŋɡlɪʃ ˈspɛlɪŋ ɪz ə kraɪm",
+      "spell": "English spelling is a crime"
+    },
+    {
+      "cefr": "",
+      "def1": "будь-що",
+      "ipa": "ˈɛniˌθɪŋ",
+      "spell": "anything"
+    },
+    {
+      "cefr": "",
+      "def1": "будь-які помилки?",
+      "ipa": "ˈɛni mɪsˈteɪks?",
+      "spell": "any mistakes?"
+    },
+    {
+      "cefr": "",
+      "def1": "бутерброд з шинкою та сиром",
+      "ipa": "wʌn hæm ænd ʧiz ˈsændwɪʧ",
+      "spell": "one ham and cheese sandwich"
+    },
+    {
+      "cefr": "",
+      "def1": "білий хліб",
+      "ipa": "waɪt brɛd",
+      "spell": "white bread"
+    },
+    {
+      "cefr": "",
+      "def1": "білий чи цільнозерновий",
+      "ipa": "waɪt ɔr hoʊl wit",
+      "spell": "white or whole wheat"
+    },
+    {
+      "cefr": "",
+      "def1": "виправляти помилку",
+      "ipa": "tu kəˈrɛkt ə mɪsˈteɪk",
+      "spell": "to correct a mistake"
+    },
+    {
+      "cefr": "",
+      "def1": "вони співають",
+      "ipa": "ðeɪ sɪŋ",
+      "spell": "they sing"
+    },
+    {
+      "cefr": "",
+      "def1": "він замовив це?",
+      "ipa": "dɪd hi ˈɔrdər ɪt?",
+      "spell": "did he order it?"
+    },
+    {
+      "cefr": "",
+      "def1": "газована вода",
+      "ipa": "ˈspɑrklɪŋ ˈwɔtər",
+      "spell": "sparkling water"
+    },
+    {
+      "cefr": "",
+      "def1": "газоване вино",
+      "ipa": "ˈspɑrklɪŋ waɪn",
+      "spell": "sparkling wine"
+    },
+    {
+      "cefr": "",
+      "def1": "давати",
+      "ipa": "tu ɡɪv",
+      "spell": "to give"
+    },
+    {
+      "cefr": "",
+      "def1": "дайте мені бутерброд",
+      "ipa": "ɡɪv mi ə ˈsændwɪʧ",
+      "spell": "give me a sandwich"
+    },
+    {
+      "cefr": "",
+      "def1": "дешево",
+      "ipa": "ʧip",
+      "spell": "cheap"
+    },
+    {
+      "cefr": "",
+      "def1": "дорого",
+      "ipa": "ɪkˈspɛnsɪv",
+      "spell": "expensive"
+    },
+    {
+      "cefr": "",
+      "def1": "дуже рано",
+      "ipa": "ˈvɛri ˈɜrli",
+      "spell": "very early"
+    },
+    {
+      "cefr": "",
+      "def1": "замовлення",
+      "ipa": "ən ˈɔrdər",
+      "spell": "an order"
+    },
+    {
+      "cefr": "",
+      "def1": "клієнт",
+      "ipa": "ə ˈkʌstəmər",
+      "spell": "a customer"
+    },
+    {
+      "cefr": "",
+      "def1": "моя черга",
+      "ipa": "maɪ tɜrn",
+      "spell": "my turn"
+    },
+    {
+      "cefr": "",
+      "def1": "не завжди",
+      "ipa": "nɑt ˈɔlˌweɪz",
+      "spell": "not always"
+    },
+    {
+      "cefr": "",
+      "def1": "негазована вода",
+      "ipa": "stɪl ˈwɔtər",
+      "spell": "still water"
+    },
+    {
+      "cefr": "",
+      "def1": "немає кексів",
+      "ipa": "ðɛr ɑr noʊ ˈkʌpˌkeɪks",
+      "spell": "there are no cupcakes"
+    },
+    {
+      "cefr": "",
+      "def1": "немає чаю",
+      "ipa": "ðɛr ɪz noʊ ti",
+      "spell": "there is no tea"
+    },
+    {
+      "cefr": "",
+      "def1": "ніколи не кажи \"Ти помиляєшся\"",
+      "ipa": "ˈnɛvər seɪ \"ju ɑr rɔŋ\"",
+      "spell": "never say \"You are wrong\""
+    },
+    {
+      "cefr": "",
+      "def1": "нічого",
+      "ipa": "ˈnʌθɪŋ",
+      "spell": "nothing"
+    },
+    {
+      "cefr": "",
+      "def1": "нічого більше",
+      "ipa": "ˈnʌθɪŋ ɛls",
+      "spell": "nothing else"
+    },
+    {
+      "cefr": "",
+      "def1": "нічого!",
+      "ipa": "ˈnʌθɪŋ!",
+      "spell": "nothing!"
+    },
+    {
+      "cefr": "",
+      "def1": "о котрій годині ти лягаєш спати?",
+      "ipa": "wɑt taɪm du ju ɡoʊ tu slip?",
+      "spell": "what time do you go to sleep?"
+    },
+    {
+      "cefr": "",
+      "def1": "о котрій годині ти прокидаєшся?",
+      "ipa": "wɑt taɪm du ju weɪk ʌp?",
+      "spell": "what time do you wake up?"
+    },
+    {
+      "cefr": "",
+      "def1": "один із цих",
+      "ipa": "wʌn ʌv ðoʊz",
+      "spell": "one of those"
+    },
+    {
+      "cefr": "",
+      "def1": "один із цих кексів",
+      "ipa": "wʌn ʌv ðoʊz ˈkʌpˌkeɪks",
+      "spell": "one of those cupcakes"
+    },
+    {
+      "cefr": "",
+      "def1": "ось, будь ласка!",
+      "ipa": "hir ju ɑr!",
+      "spell": "here you are!"
+    },
+    {
+      "cefr": "",
+      "def1": "поруч зі мною",
+      "ipa": "nɛkst tu mi",
+      "spell": "next to me"
+    },
+    {
+      "cefr": "",
+      "def1": "привіт!",
+      "ipa": "haɪ!",
+      "spell": "hi!"
+    },
+    {
+      "cefr": "",
+      "def1": "продавець",
+      "ipa": "ə seɪlz klɜrk",
+      "spell": "a sales clerk"
+    },
+    {
+      "cefr": "",
+      "def1": "пшеничний хліб",
+      "ipa": "wit brɛd",
+      "spell": "wheat bread"
+    },
+    {
+      "cefr": "",
+      "def1": "рольова гра",
+      "ipa": "roʊl-pleɪ",
+      "spell": "role-play"
+    },
+    {
+      "cefr": "",
+      "def1": "сир",
+      "ipa": "ʧiz",
+      "spell": "cheese"
+    },
+    {
+      "cefr": "",
+      "def1": "скільки всього?",
+      "ipa": "haʊ ˈmɛni θɪŋz",
+      "spell": "how many things"
+    },
+    {
+      "cefr": "",
+      "def1": "скільки це коштує?",
+      "ipa": "haʊ mʌʧ ɪz ðæt?",
+      "spell": "how much is that?"
+    },
+    {
+      "cefr": "",
+      "def1": "там є кекси",
+      "ipa": "ðɛr ɑr ˈkʌpˌkeɪks",
+      "spell": "there are cupcakes"
+    },
+    {
+      "cefr": "",
+      "def1": "твоя черга",
+      "ipa": "jʊər tɜrn",
+      "spell": "your turn"
+    },
+    {
+      "cefr": "",
+      "def1": "ти висипаєшся?",
+      "ipa": "du ju slip ɪˈnʌf?",
+      "spell": "do you sleep enough?"
+    },
+    {
+      "cefr": "",
+      "def1": "ти все зрозумів?",
+      "ipa": "dɪd ju ˌʌndərˈstænd ˈɛvriˌθɪŋ?",
+      "spell": "did you understand everything?"
+    },
+    {
+      "cefr": "",
+      "def1": "ти добре себе почуваєш?",
+      "ipa": "du ju fil ˈoʊˈkeɪ?",
+      "spell": "do you feel ok?"
+    },
+    {
+      "cefr": "",
+      "def1": "ти не хворий?",
+      "ipa": "ju ɑr nɑt sɪk?",
+      "spell": "you are not sick?"
+    },
+    {
+      "cefr": "",
+      "def1": "ти помиляєшся!",
+      "ipa": "ju ɑr rɔŋ!",
+      "spell": "You are wrong!"
+    },
+    {
+      "cefr": "",
+      "def1": "ти правий!",
+      "ipa": "ju ɑr raɪt!",
+      "spell": "You are right!"
+    },
+    {
+      "cefr": "",
+      "def1": "усе дорого",
+      "ipa": "ˈɛvriˌθɪŋ ɪz ɪkˈspɛnsɪv",
+      "spell": "everything is expensive"
+    },
+    {
+      "cefr": "",
+      "def1": "це те саме слово",
+      "ipa": "ɪts ðə seɪm wɜrd",
+      "spell": "it's the same word"
+    },
+    {
+      "cefr": "",
+      "def1": "цукор",
+      "ipa": "ˈʃʊɡər",
+      "spell": "sugar"
+    },
+    {
+      "cefr": "",
+      "def1": "ці",
+      "ipa": "ðiz wʌnz",
+      "spell": "these ones"
+    },
+    {
+      "cefr": "",
+      "def1": "цільнозерновий хліб",
+      "ipa": "hoʊl wit brɛd",
+      "spell": "whole wheat bread"
+    },
+    {
+      "cefr": "",
+      "def1": "чи можете дати мені X?",
+      "ipa": "kæn aɪ hæv ɛks?",
+      "spell": "can I have X?"
+    },
+    {
+      "cefr": "",
+      "def1": "шахрай",
+      "ipa": "ə ˈskæmər",
+      "spell": "a scammer"
+    },
+    {
+      "cefr": "",
+      "def1": "шинка",
+      "ipa": "hæm",
+      "spell": "ham"
+    },
+    {
+      "cefr": "",
+      "def1": "шинка та сир",
+      "ipa": "hæm ænd ʧiz",
+      "spell": "ham and cheese"
+    },
+    {
+      "cefr": "",
+      "def1": "шоколадні",
+      "ipa": "ðə ˈʧɔklət wʌnz",
+      "spell": "the chocolate ones"
+    },
+    {
+      "cefr": "",
+      "def1": "ще раз",
+      "ipa": "wʌn mɔr taɪm",
+      "spell": "one more time"
+    },
+    {
+      "cefr": "",
+      "def1": "ще темно",
+      "ipa": "ɪts stɪl dɑrk",
+      "spell": "it's still dark"
+    },
+    {
+      "cefr": "",
+      "def1": "щось",
+      "ipa": "ˈsʌmθɪŋ",
+      "spell": "something"
+    },
+    {
+      "cefr": "",
+      "def1": "щось до пиття?",
+      "ipa": "ˈɛniˌθɪŋ tu drɪŋk?",
+      "spell": "anything to drink?"
+    },
+    {
+      "cefr": "",
+      "def1": "щось до їжі?",
+      "ipa": "ˈɛniˌθɪŋ tu it?",
+      "spell": "anything to eat?"
+    },
+    {
+      "cefr": "",
+      "def1": "щось побачити?",
+      "ipa": "ˈɛniˌθɪŋ tu si?",
+      "spell": "anything to see?"
+    },
+    {
+      "cefr": "",
+      "def1": "щось ще",
+      "ipa": "ˈsʌmθɪŋ ɛls",
+      "spell": "something else"
+    },
+    {
+      "cefr": "",
+      "def1": "щось ще?",
+      "ipa": "ˈɛniˌθɪŋ ɛls?",
+      "spell": "anything else?"
+    },
+    {
+      "cefr": "",
+      "def1": "я намагаюся",
+      "ipa": "aɪ traɪ",
+      "spell": "I try"
+    },
+    {
+      "cefr": "",
+      "def1": "я не працюю сьогодні",
+      "ipa": "aɪ æm nɑt ˈwɜrkɪŋ təˈdeɪ",
+      "spell": "I am not working today"
+    },
+    {
+      "cefr": "",
+      "def1": "я сплю сьогодні",
+      "ipa": "aɪ æm ˈslipɪŋ təˈdeɪ",
+      "spell": "I am sleeping today"
+    },
+    {
+      "cefr": "",
+      "def1": "як справи?",
+      "ipa": "haʊ ɑr ju ˈduɪŋ?",
+      "spell": "how are you doing?"
+    },
+    {
+      "cefr": "",
+      "def1": "іскритися",
+      "ipa": "tu ˈspɑrkəl",
+      "spell": "to sparkle"
+    }
+  ]
+}
