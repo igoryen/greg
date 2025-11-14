@@ -1,604 +1,611 @@
-[
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сліпа людина",
-    "ipa": "ə blaɪnd ˈpɜrsən",
-    "spell": "a blind person"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "тріщина",
-    "ipa": "ə kræk",
-    "spell": "a crack"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "голова",
-    "ipa": "ə hɛd",
-    "spell": "a head"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дірка",
-    "ipa": "ə hoʊl",
-    "spell": "a hole"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дзеркало заднього виду",
-    "ipa": "ə rɪr vju ˈmɪrər",
-    "spell": "a rear view mirror"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "подряпина",
-    "ipa": "ə skræʧ",
-    "spell": "a scratch"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "щит",
-    "ipa": "ə ʃild",
-    "spell": "a shield"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "лобове скло",
-    "ipa": "ə ˈwɪndˌʃild",
-    "spell": "a windshield"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "змініть шини!",
-    "ipa": "ʧeɪnʤ jʊər ˈtaɪərz!",
-    "spell": "change your tires!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "змініть двірники!",
-    "ipa": "ʧeɪnʤ jʊər ˈwaɪpərz!",
-    "spell": "change your wipers!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "полагодить це!",
-    "ipa": "fɪks ɪt!",
-    "spell": "Fix it!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "відремонтуйте дзеркало заднього виду!",
-    "ipa": "fɪks jʊər rɪr vju ˈmɪrər!",
-    "spell": "Fix your rear view mirror!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "відремонтуйте бічні дзеркала!",
-    "ipa": "fɪks jʊər saɪd ˈmɪrərz!",
-    "spell": "fix your side mirrors!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене нічого немає в багажнику",
-    "ipa": "aɪ doʊnt hæv ˈɛniˌθɪŋ ɪn maɪ trʌŋk",
-    "spell": "I don’t have anything in my trunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене тріщина на крилі",
-    "ipa": "aɪ hæv ə kræk ɑn ðə ˈfɛndər",
-    "spell": "I have a crack on the fender"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене подряпина на крилі",
-    "ipa": "aɪ hæv ə skræʧ ɑn ðə ˈfɛndər",
-    "spell": "I have a scratch on the fender"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене нічого немає в багажнику",
-    "ipa": "aɪ hæv ˈnʌθɪŋ ɪn maɪ trʌŋk",
-    "spell": "I have nothing in my trunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у місті",
-    "ipa": "ɪn ðə ˈsɪti",
-    "spell": "in the city"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у вашому багажнику",
-    "ipa": "ɪn jʊər trʌŋk",
-    "spell": "in your trunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дивіться у дзеркало заднього виду",
-    "ipa": "lʊk ɪn jʊər rɪr vju ˈmɪrər",
-    "spell": "look in your rear view mirror"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "Дивіться! Ви залишили подряпину на моєму крилі!",
-    "ipa": "lʊk! ju pʊt ə skræʧ ɑn maɪ ˈfɛndər!",
-    "spell": "Look! You put a scratch on my fender!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "низький",
-    "ipa": "loʊ",
-    "spell": "low"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моя машина коштує мільйон доларів",
-    "ipa": "maɪ kɑr kɑsts ə ˈmɪljən ˈdɑlərz",
-    "spell": "my car costs a million dollars"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моє дзеркало заднього виду зламане",
-    "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈbroʊkən",
-    "spell": "my rear view mirror is broken"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моє дзеркало заднього виду відсутнє",
-    "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈmɪsɪŋ",
-    "spell": "my rear view mirror is missing"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моє дзеркало заднього виду у порядку",
-    "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈoʊˈkeɪ",
-    "spell": "my rear view mirror is OK"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моє дзеркало заднього виду відвернуте",
-    "ipa": "maɪ rɪr vju ˈmɪrər ɪz tɜrnd əˈweɪ",
-    "spell": "my rear view mirror is turned away"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моє праве бічне дзеркало зламане!",
-    "ipa": "maɪ raɪt saɪd ˈmɪrər ɪz ˈbroʊkən!",
-    "spell": "my right side mirror is broken!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у моїй шині дірка",
-    "ipa": "maɪ ˈtaɪər hæz ə hoʊl",
-    "spell": "my tire has a hole"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене спущена шина",
-    "ipa": "maɪ ˈtaɪər ɪz flæt",
-    "spell": "my tire is flat"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "моя шина втрачає повітря",
-    "ipa": "maɪ ˈtaɪər ˈluzəz ɛr",
-    "spell": "my tire loses air"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "мій багажник порожній",
-    "ipa": "maɪ trʌŋk ɪz ˈɛmpti",
-    "spell": "my trunk is empty"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "мій багажник повний",
-    "ipa": "maɪ trʌŋk ɪz fʊl",
-    "spell": "my trunk is full"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "відкрийте багажник, будь ласка!",
-    "ipa": "ˈoʊpən jʊər trʌŋk, pliz!",
-    "spell": "open your trunk, please!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "задній вигляд",
-    "ipa": "rɪr vju",
-    "spell": "rear view"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у моїй шині дірка",
-    "ipa": "ðɛr ɪz ə hoʊl ɪn maɪ ˈtaɪər",
-    "spell": "there is a hole in my tire"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "осліплювати їх",
-    "ipa": "tu blaɪnd ðɛm",
-    "spell": "to blind them"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "втрачати",
-    "ipa": "tu luz",
-    "spell": "to lose"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "втрачати повітря",
-    "ipa": "tu luz ɛr",
-    "spell": "to lose air"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "класти",
-    "ipa": "tu pʊt",
-    "spell": "to put"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "увімкнути це",
-    "ipa": "tu tɜrn ɪt ɑn",
-    "spell": "to turn it on"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вимкнути світло",
-    "ipa": "tu tɜrn ɔf ðə laɪt",
-    "spell": "to turn off the light"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "увімкнути",
-    "ipa": "tu tɜrn ɑn",
-    "spell": "to turn on"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "увімкнути світло",
-    "ipa": "tu tɜrn ɑn ðə laɪt",
-    "spell": "to turn on the light"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "витирати",
-    "ipa": "tu waɪp",
-    "spell": "to wipe"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вимкни це!",
-    "ipa": "tɜrn ɪt ɔf!",
-    "spell": "turn it off!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вимкнути дальнє світло",
-    "ipa": "tɜrn ɔf ðə haɪ bimz",
-    "spell": "turn off the high beams"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вимкніть дальнє світло!",
-    "ipa": "tɜrn ɔf ðə haɪ bimz!",
-    "spell": "turn off the high beams!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вимкніть двірники!",
-    "ipa": "tɜrn ɔf jʊər ˈwaɪpərz!",
-    "spell": "turn off your wipers!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "увімкніть дальнє світло!",
-    "ipa": "tɜrn ɑn ðə haɪ bimz!",
-    "spell": "turn on the high beams!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "увімкніть ближнє світло",
-    "ipa": "tɜrn ɑn ðə loʊ bimz",
-    "spell": "turn on the low beams"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "увімкніть двірники!",
-    "ipa": "tɜrn ɑn jʊər ˈwaɪpərz!",
-    "spell": "turn on your wipers!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що у вашому багажнику?",
-    "ipa": "wɑt ɪz ɪn jʊər trʌŋk?",
-    "spell": "what is in your trunk?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "де ваші бічні дзеркала?",
-    "ipa": "wɛr ɑr jʊər saɪd ˈmɪrərz?",
-    "spell": "where are your side mirrors?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "витріть це!",
-    "ipa": "waɪp ɪt!",
-    "spell": "wipe it!"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "витріть цей бруд",
-    "ipa": "waɪp ðɪs dɜrt",
-    "spell": "wipe this dirt"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "витріть лобове скло",
-    "ipa": "waɪp jʊər ˈwɪndˌʃild",
-    "spell": "wipe your windshield"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти в місті",
-    "ipa": "ju ɑr ɪn ðə ˈsɪti",
-    "spell": "you are in the city"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти всіх осліплюєш",
-    "ipa": "ju blaɪnd ˈɛvriˌbɑdi",
-    "spell": "you blind everybody"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти не можеш продовжувати їхати",
-    "ipa": "ju kænt kənˈtɪnju ˈdraɪvɪŋ",
-    "spell": "you can’t continue driving"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у вас тріщина на лобовому склі",
-    "ipa": "ju hæv ə kræk ɑn ðə ˈwɪndˌʃild",
-    "spell": "you have a crack on the windshield"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваше дзеркало заднього виду зламане",
-    "ipa": "jʊər rɪr vju ˈmɪrər ɪz ˈbroʊkən",
-    "spell": "your rear view mirror is broken"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваші шини старі",
-    "ipa": "jʊər ˈtaɪərz ɑr oʊld",
-    "spell": "your tires are old"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваше лобове скло чисте",
-    "ipa": "jʊər ˈwɪndˌʃild ɪz klin",
-    "spell": "your windshield is clean"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваше лобове скло брудна",
-    "ipa": "jʊər ˈwɪndˌʃild ɪz ˈdɜrti",
-    "spell": "your windshield is dirty"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваше лобове скло не чисте",
-    "ipa": "jʊər ˈwɪndˌʃild ɪz nɑt klin",
-    "spell": "your windshield is not clean"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваше лобове скло занадто брудна",
-    "ipa": "jʊər ˈwɪndˌʃild ɪz tu ˈdɜrti",
-    "spell": "your windshield is too dirty"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваше лобове скло дуже брудна",
-    "ipa": "jʊər ˈwɪndˌʃild ɪz ˈvɛri ˈdɜrti",
-    "spell": "your windshield is very dirty"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ваші двірники старі",
-    "ipa": "jʊər ˈwaɪpərz ɑr oʊld",
-    "spell": "your wipers are old"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "багажник",
-    "ipa": "ə trʌŋk",
-    "spell": "a trunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бампер",
-    "ipa": "ˈfɛndər",
-    "spell": "fender"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ближні фари",
-    "ipa": "loʊ bimz",
-    "spell": "low beams"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бічні дзеркала",
-    "ipa": "saɪd ˈmɪrərz",
-    "spell": "side mirrors"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "грязь",
-    "ipa": "dɜrt",
-    "spell": "dirt"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дальні фари",
-    "ipa": "haɪ bimz",
-    "spell": "high beams"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "двірники",
-    "ipa": "ˈwaɪpərz",
-    "spell": "wipers"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дзеркало заднього виду",
-    "ipa": "ə ˈmɪrər",
-    "spell": "a mirror"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "задній",
-    "ipa": "rɪr",
-    "spell": "rear"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "камера, шина",
-    "ipa": "ˈtaɪər",
-    "spell": "tire"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "колесо",
-    "ipa": "wil",
-    "spell": "wheel"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вітер",
-    "ipa": "wɪnd",
-    "spell": "wind"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "луч",
-    "ipa": "ə bim",
-    "spell": "a beam"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "плоский",
-    "ipa": "flæt",
-    "spell": "flat"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "розбитий",
-    "ipa": "ˈbroʊkən",
-    "spell": "broken"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "спущене колесо",
-    "ipa": "ə flæt ˈtaɪər",
-    "spell": "a flat tire"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "фари",
-    "ipa": "ˈhɛˌdlaɪts",
-    "spell": "headlights"
-  }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 27,
+  "date": "2025-05-02",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сліпа людина",
+      "ipa": "ə blaɪnd ˈpɜrsən",
+      "spell": "a blind person"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тріщина",
+      "ipa": "ə kræk",
+      "spell": "a crack"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "голова",
+      "ipa": "ə hɛd",
+      "spell": "a head"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дірка",
+      "ipa": "ə hoʊl",
+      "spell": "a hole"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дзеркало заднього виду",
+      "ipa": "ə rɪr vju ˈmɪrər",
+      "spell": "a rear view mirror"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подряпина",
+      "ipa": "ə skræʧ",
+      "spell": "a scratch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "щит",
+      "ipa": "ə ʃild",
+      "spell": "a shield"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лобове скло",
+      "ipa": "ə ˈwɪndˌʃild",
+      "spell": "a windshield"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "змініть шини!",
+      "ipa": "ʧeɪnʤ jʊər ˈtaɪərz!",
+      "spell": "change your tires!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "змініть двірники!",
+      "ipa": "ʧeɪnʤ jʊər ˈwaɪpərz!",
+      "spell": "change your wipers!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "полагодить це!",
+      "ipa": "fɪks ɪt!",
+      "spell": "Fix it!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "відремонтуйте дзеркало заднього виду!",
+      "ipa": "fɪks jʊər rɪr vju ˈmɪrər!",
+      "spell": "Fix your rear view mirror!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "відремонтуйте бічні дзеркала!",
+      "ipa": "fɪks jʊər saɪd ˈmɪrərz!",
+      "spell": "fix your side mirrors!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене нічого немає в багажнику",
+      "ipa": "aɪ doʊnt hæv ˈɛniˌθɪŋ ɪn maɪ trʌŋk",
+      "spell": "I don’t have anything in my trunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене тріщина на крилі",
+      "ipa": "aɪ hæv ə kræk ɑn ðə ˈfɛndər",
+      "spell": "I have a crack on the fender"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене подряпина на крилі",
+      "ipa": "aɪ hæv ə skræʧ ɑn ðə ˈfɛndər",
+      "spell": "I have a scratch on the fender"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене нічого немає в багажнику",
+      "ipa": "aɪ hæv ˈnʌθɪŋ ɪn maɪ trʌŋk",
+      "spell": "I have nothing in my trunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у місті",
+      "ipa": "ɪn ðə ˈsɪti",
+      "spell": "in the city"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у вашому багажнику",
+      "ipa": "ɪn jʊər trʌŋk",
+      "spell": "in your trunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дивіться у дзеркало заднього виду",
+      "ipa": "lʊk ɪn jʊər rɪr vju ˈmɪrər",
+      "spell": "look in your rear view mirror"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Дивіться! Ви залишили подряпину на моєму крилі!",
+      "ipa": "lʊk! ju pʊt ə skræʧ ɑn maɪ ˈfɛndər!",
+      "spell": "Look! You put a scratch on my fender!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "низький",
+      "ipa": "loʊ",
+      "spell": "low"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя машина коштує мільйон доларів",
+      "ipa": "maɪ kɑr kɑsts ə ˈmɪljən ˈdɑlərz",
+      "spell": "my car costs a million dollars"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моє дзеркало заднього виду зламане",
+      "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈbroʊkən",
+      "spell": "my rear view mirror is broken"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моє дзеркало заднього виду відсутнє",
+      "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈmɪsɪŋ",
+      "spell": "my rear view mirror is missing"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моє дзеркало заднього виду у порядку",
+      "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈoʊˈkeɪ",
+      "spell": "my rear view mirror is OK"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моє дзеркало заднього виду відвернуте",
+      "ipa": "maɪ rɪr vju ˈmɪrər ɪz tɜrnd əˈweɪ",
+      "spell": "my rear view mirror is turned away"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моє праве бічне дзеркало зламане!",
+      "ipa": "maɪ raɪt saɪd ˈmɪrər ɪz ˈbroʊkən!",
+      "spell": "my right side mirror is broken!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у моїй шині дірка",
+      "ipa": "maɪ ˈtaɪər hæz ə hoʊl",
+      "spell": "my tire has a hole"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене спущена шина",
+      "ipa": "maɪ ˈtaɪər ɪz flæt",
+      "spell": "my tire is flat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "моя шина втрачає повітря",
+      "ipa": "maɪ ˈtaɪər ˈluzəz ɛr",
+      "spell": "my tire loses air"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мій багажник порожній",
+      "ipa": "maɪ trʌŋk ɪz ˈɛmpti",
+      "spell": "my trunk is empty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мій багажник повний",
+      "ipa": "maɪ trʌŋk ɪz fʊl",
+      "spell": "my trunk is full"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "відкрийте багажник, будь ласка!",
+      "ipa": "ˈoʊpən jʊər trʌŋk, pliz!",
+      "spell": "open your trunk, please!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "задній вигляд",
+      "ipa": "rɪr vju",
+      "spell": "rear view"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у моїй шині дірка",
+      "ipa": "ðɛr ɪz ə hoʊl ɪn maɪ ˈtaɪər",
+      "spell": "there is a hole in my tire"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "осліплювати їх",
+      "ipa": "tu blaɪnd ðɛm",
+      "spell": "to blind them"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "втрачати",
+      "ipa": "tu luz",
+      "spell": "to lose"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "втрачати повітря",
+      "ipa": "tu luz ɛr",
+      "spell": "to lose air"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "класти",
+      "ipa": "tu pʊt",
+      "spell": "to put"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увімкнути це",
+      "ipa": "tu tɜrn ɪt ɑn",
+      "spell": "to turn it on"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вимкнути світло",
+      "ipa": "tu tɜrn ɔf ðə laɪt",
+      "spell": "to turn off the light"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увімкнути",
+      "ipa": "tu tɜrn ɑn",
+      "spell": "to turn on"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увімкнути світло",
+      "ipa": "tu tɜrn ɑn ðə laɪt",
+      "spell": "to turn on the light"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "витирати",
+      "ipa": "tu waɪp",
+      "spell": "to wipe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вимкни це!",
+      "ipa": "tɜrn ɪt ɔf!",
+      "spell": "turn it off!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вимкнути дальнє світло",
+      "ipa": "tɜrn ɔf ðə haɪ bimz",
+      "spell": "turn off the high beams"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вимкніть дальнє світло!",
+      "ipa": "tɜrn ɔf ðə haɪ bimz!",
+      "spell": "turn off the high beams!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вимкніть двірники!",
+      "ipa": "tɜrn ɔf jʊər ˈwaɪpərz!",
+      "spell": "turn off your wipers!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увімкніть дальнє світло!",
+      "ipa": "tɜrn ɑn ðə haɪ bimz!",
+      "spell": "turn on the high beams!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увімкніть ближнє світло",
+      "ipa": "tɜrn ɑn ðə loʊ bimz",
+      "spell": "turn on the low beams"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "увімкніть двірники!",
+      "ipa": "tɜrn ɑn jʊər ˈwaɪpərz!",
+      "spell": "turn on your wipers!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що у вашому багажнику?",
+      "ipa": "wɑt ɪz ɪn jʊər trʌŋk?",
+      "spell": "what is in your trunk?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де ваші бічні дзеркала?",
+      "ipa": "wɛr ɑr jʊər saɪd ˈmɪrərz?",
+      "spell": "where are your side mirrors?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "витріть це!",
+      "ipa": "waɪp ɪt!",
+      "spell": "wipe it!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "витріть цей бруд",
+      "ipa": "waɪp ðɪs dɜrt",
+      "spell": "wipe this dirt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "витріть лобове скло",
+      "ipa": "waɪp jʊər ˈwɪndˌʃild",
+      "spell": "wipe your windshield"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти в місті",
+      "ipa": "ju ɑr ɪn ðə ˈsɪti",
+      "spell": "you are in the city"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти всіх осліплюєш",
+      "ipa": "ju blaɪnd ˈɛvriˌbɑdi",
+      "spell": "you blind everybody"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти не можеш продовжувати їхати",
+      "ipa": "ju kænt kənˈtɪnju ˈdraɪvɪŋ",
+      "spell": "you can’t continue driving"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у вас тріщина на лобовому склі",
+      "ipa": "ju hæv ə kræk ɑn ðə ˈwɪndˌʃild",
+      "spell": "you have a crack on the windshield"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваше дзеркало заднього виду зламане",
+      "ipa": "jʊər rɪr vju ˈmɪrər ɪz ˈbroʊkən",
+      "spell": "your rear view mirror is broken"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваші шини старі",
+      "ipa": "jʊər ˈtaɪərz ɑr oʊld",
+      "spell": "your tires are old"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваше лобове скло чисте",
+      "ipa": "jʊər ˈwɪndˌʃild ɪz klin",
+      "spell": "your windshield is clean"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваше лобове скло брудна",
+      "ipa": "jʊər ˈwɪndˌʃild ɪz ˈdɜrti",
+      "spell": "your windshield is dirty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваше лобове скло не чисте",
+      "ipa": "jʊər ˈwɪndˌʃild ɪz nɑt klin",
+      "spell": "your windshield is not clean"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваше лобове скло занадто брудна",
+      "ipa": "jʊər ˈwɪndˌʃild ɪz tu ˈdɜrti",
+      "spell": "your windshield is too dirty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваше лобове скло дуже брудна",
+      "ipa": "jʊər ˈwɪndˌʃild ɪz ˈvɛri ˈdɜrti",
+      "spell": "your windshield is very dirty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ваші двірники старі",
+      "ipa": "jʊər ˈwaɪpərz ɑr oʊld",
+      "spell": "your wipers are old"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "багажник",
+      "ipa": "ə trʌŋk",
+      "spell": "a trunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бампер",
+      "ipa": "ˈfɛndər",
+      "spell": "fender"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ближні фари",
+      "ipa": "loʊ bimz",
+      "spell": "low beams"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бічні дзеркала",
+      "ipa": "saɪd ˈmɪrərz",
+      "spell": "side mirrors"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "грязь",
+      "ipa": "dɜrt",
+      "spell": "dirt"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дальні фари",
+      "ipa": "haɪ bimz",
+      "spell": "high beams"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двірники",
+      "ipa": "ˈwaɪpərz",
+      "spell": "wipers"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дзеркало заднього виду",
+      "ipa": "ə ˈmɪrər",
+      "spell": "a mirror"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "задній",
+      "ipa": "rɪr",
+      "spell": "rear"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "камера, шина",
+      "ipa": "ˈtaɪər",
+      "spell": "tire"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колесо",
+      "ipa": "wil",
+      "spell": "wheel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вітер",
+      "ipa": "wɪnd",
+      "spell": "wind"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "луч",
+      "ipa": "ə bim",
+      "spell": "a beam"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "плоский",
+      "ipa": "flæt",
+      "spell": "flat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "розбитий",
+      "ipa": "ˈbroʊkən",
+      "spell": "broken"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спущене колесо",
+      "ipa": "ə flæt ˈtaɪər",
+      "spell": "a flat tire"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "фари",
+      "ipa": "ˈhɛˌdlaɪts",
+      "spell": "headlights"
+    }
+  ]
+}
