@@ -1,716 +1,723 @@
-[
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "нерівність",
-    "ipa": "ə bʌmp",
-    "spell": "a bump"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "гід",
-    "ipa": "ə ɡaɪd",
-    "spell": "a guide"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "миля",
-    "ipa": "ə maɪl",
-    "spell": "a mile"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "реальний світ",
-    "ipa": "ə riəl wɜrld",
-    "spell": "a real world"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "лежачий поліцейський",
-    "ipa": "ə spid bʌmp",
-    "spell": "a speed bump"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "яєчня-глазунья",
-    "ipa": "ə ˈsʌniˌsaɪd ʌp (ɛɡ)",
-    "spell": "a sunny-side up (egg)"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "тур",
-    "ipa": "ə tʊr",
-    "spell": "a tour"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "екскурсовод",
-    "ipa": "ə tʊr ɡaɪd",
-    "spell": "a tour guide"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "стіна",
-    "ipa": "ə wɔl",
-    "spell": "a wall"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "світ",
-    "ipa": "ə wɜrld",
-    "spell": "a world"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "близько десяти миль",
-    "ipa": "əˈbaʊt tɛn maɪlz",
-    "spell": "about ten miles"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "після того, як я повернусь додому",
-    "ipa": "ˈæftər aɪ kʌm hoʊm",
-    "spell": "after I come home"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "після цього",
-    "ipa": "ˈæftər ðæt",
-    "spell": "after that"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "після чого?",
-    "ipa": "ˈæftər wɑt?",
-    "spell": "after what?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "майже те саме",
-    "ipa": "ˈɔlˌmoʊst ðə seɪm",
-    "spell": "almost the same"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "екстракт",
-    "ipa": "ən ˈɛkˌstrækt",
-    "spell": "an extract"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "омлет",
-    "ipa": "ən ˈɑmlət",
-    "spell": "an omelet"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "а потім",
-    "ipa": "ænd ðɛn",
-    "spell": "and then"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "приблизно",
-    "ipa": "əˈprɑksəmətli",
-    "spell": "approximately"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "близько восьмої години",
-    "ipa": "æt əˈbaʊt eɪt əˈklɑk",
-    "spell": "at about eight o'clock"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "будь обережний",
-    "ipa": "bi ˈkɛrfəl",
-    "spell": "be careful"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "гречка - це наша основна їжа",
-    "ipa": "ˈbʌˌkwit ɪz ə ˈsteɪpəl fud fɔr ʌs",
-    "spell": "buckwheat is a staple food for us"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вмієш готувати борщ?",
-    "ipa": "kæn ju meɪk bɔrʃt?",
-    "spell": "can you make borscht?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти вмієш готувати?",
-    "ipa": "kæn ju kʊk?",
-    "spell": "can you cook?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вона знову поїхала на ферму?",
-    "ipa": "dɪd ʃi ɡoʊ tu ðə fɑrm əˈɡɛn?",
-    "spell": "did she go to the farm again?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти зазвичай сповільнюєшся перед лежачими поліцейськими?",
-    "ipa": "du ju ˈjuʒəwəli sloʊ daʊn bɪˈfɔr spid bʌmps?",
-    "spell": "do you usually slow down before speed bumps?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "достатньо сну",
-    "ipa": "ɪˈnʌf slip",
-    "spell": "enough sleep"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "кожен день він проходить близько шести миль",
-    "ipa": "ˈɛvəri deɪ hi wɔks əˈbaʊt sɪks maɪlz",
-    "spell": "every day he walks about six miles"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "кожен день Ігор проїжджає від ста п'ятдесяти до двох сотень миль",
-    "ipa": "ˈɛvəri deɪ ɪˈɡɔr draɪvz əˈbaʊt ə ˈhʌndrɪd ænd ˈfɪfti tu tu ˈhʌndrɪd maɪlz",
-    "spell": "every day Igor drives about a hundred and fifty to two hundred miles"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "спочатку, потім",
-    "ipa": "fɜrst ðɛn ˈsɛkənd",
-    "spell": "first then second"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "спочатку, а потім",
-    "ipa": "fɜrst, ðɛn",
-    "spell": "first, then"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "він робить це далі",
-    "ipa": "hi dʌz ðæt nɛkst",
-    "spell": "he does that next"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "він екскурсовод",
-    "ipa": "hi ɪz ə tʊr ɡaɪd",
-    "spell": "he is a tour guide"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "він прокидається першим",
-    "ipa": "hi weɪks ʌp fɜrst",
-    "spell": "he wakes up first"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "він проходить менше десяти миль",
-    "ipa": "hi wɔks lɛs ðæn tɛn maɪlz",
-    "spell": "he walks less than ten miles"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "він працює екскурсоводом",
-    "ipa": "hɪz ʤɑb ɪz ə tʊr ɡaɪd",
-    "spell": "his job is a tour guide"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "його робота важка",
-    "ipa": "hɪz ʤɑb ɪz ˈdɪfəkəlt",
-    "spell": "his job is difficult"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "його робота легка",
-    "ipa": "hɪz ʤɑb ɪz ˈizi",
-    "spell": "his job is easy"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "а як ти?",
-    "ipa": "haʊ əˈbaʊt ju?",
-    "spell": "how about you?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "скільки годин на день ти працюєш?",
-    "ipa": "haʊ ˈmɛni ˈaʊərz ə deɪ du ju wɜrk?",
-    "spell": "how many hours a day do you work?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я можу смажити яйця",
-    "ipa": "aɪ kæn fraɪ ɛɡz",
-    "spell": "I can fry eggs"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я можу зробити омлет",
-    "ipa": "aɪ kæn meɪk ən ˈɑmlət",
-    "spell": "I can make an omelet"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я не вмію готувати",
-    "ipa": "aɪ kænt kʊk",
-    "spell": "I can't cook"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я не висипаюсь",
-    "ipa": "aɪ doʊnt ɡɛt ɪˈnʌf slip",
-    "spell": "i don't get enough sleep"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я не знаю як",
-    "ipa": "aɪ doʊnt noʊ haʊ",
-    "spell": "I don't know how"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я не вмію готувати",
-    "ipa": "aɪ doʊnt noʊ haʊ tu kʊk",
-    "spell": "I don't know how to cook"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я теж їв гречку",
-    "ipa": "aɪ hæd ˈbʌˌkwit, tu",
-    "spell": "I had buckwheat, too"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я щойно теж їв гречку",
-    "ipa": "aɪ hæv ʤʌst hæd ˈbʌˌkwit, tu",
-    "spell": "I have just had buckwheat, too"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я щойно пообідав",
-    "ipa": "aɪ ʤʌst hæd lʌnʧ",
-    "spell": "I just had lunch"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я відпочиваю",
-    "ipa": "aɪ rɪˈlæks",
-    "spell": "I relax"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я сплю одну годину",
-    "ipa": "aɪ slip fɔr wʌn ˈaʊər",
-    "spell": "I sleep for one hour"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я працюю десять годин",
-    "ipa": "aɪ wɜrk fɔr tɛn ˈaʊərz",
-    "spell": "I work for ten hours"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "якщо ... то",
-    "ipa": "ɪf ... ðɛn",
-    "spell": "if ... then"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "якщо ти прийдеш сюди, (то) ми зможемо пообідати разом",
-    "ipa": "ɪf ju kʌm hir, (ðɛn) wi kæn hæv lʌnʧ təˈɡɛðər",
-    "spell": "if you come here, (then) we can have lunch together"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "якщо у тебе є гроші, (то) ти можеш купити їжу",
-    "ipa": "ɪf ju hæv ˈmʌni, (ðɛn) ju kæn baɪ fud",
-    "spell": "if you have money, (then) you can buy food"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "твоя робота легка?",
-    "ipa": "ɪz jʊər ʤɑb ˈizi?",
-    "spell": "is your job easy?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це звичка",
-    "ipa": "ɪt ɪz ə ˈhæbət",
-    "spell": "it is a habit"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це називається машина",
-    "ipa": "ɪt ɪz kɔld ə kɑr",
-    "spell": "it is called a car"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "душно",
-    "ipa": "ɪt ɪz ˈsʌltri",
-    "spell": "it is sultry"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це необов'язково",
-    "ipa": "ɪts ˈɑpʃənəl",
-    "spell": "it's optional"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це виснажує психічно",
-    "ipa": "ɪts ˈmɛntəli ɪɡˈzɑstɪŋ",
-    "spell": "it’s mentally exhausting"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "менше ніж",
-    "ipa": "lɛs ðæn",
-    "spell": "less than"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "менше десяти миль",
-    "ipa": "lɛs ðæn tɛn maɪlz",
-    "spell": "less than ten miles"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "довгі години за кермом",
-    "ipa": "lɔŋ ˈaʊərz bɪˈhaɪnd ðə wil",
-    "spell": "long hours behind the wheel"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "більше ніж",
-    "ipa": "mɔr ðæn",
-    "spell": "more than"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "недостатньо сну",
-    "ipa": "nɑt ɪˈnʌf slip",
-    "spell": "not enough sleep"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сто п'ятдесят",
-    "ipa": "wʌn ˈhʌndrɪd ænd ˈfɪfti",
-    "spell": "one hundred and fifty"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "один, потім два",
-    "ipa": "wʌn ðɛn tu",
-    "spell": "one then two"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вона готує",
-    "ipa": "ʃi kʊks",
-    "spell": "she cooks"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вона зараз готує",
-    "ipa": "ʃi ɪz ˈkʊkɪŋ (raɪt naʊ)",
-    "spell": "she is cooking (right now)"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вона робить котлети",
-    "ipa": "ʃi meɪks ˈkʌtɪts",
-    "spell": "she makes cutlets"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вона робить фрикадельки",
-    "ipa": "ʃi meɪks ˈmitˌbɔlz",
-    "spell": "she makes meatballs"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "швидкість",
-    "ipa": "spid",
-    "spell": "speed"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "будь обережним",
-    "ipa": "steɪ seɪf",
-    "spell": "stay safe"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "розкажи про мене",
-    "ipa": "tɛl mi əˈbaʊt mi",
-    "spell": "tell me about me"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ніж, потім",
-    "ipa": "ðæn, ðɛn",
-    "spell": "than, then"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це багато",
-    "ipa": "ðæts ə lɑt",
-    "spell": "that's a lot"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що він робить",
-    "ipa": "ðə θɪŋz hi dʌz",
-    "spell": "the things he does"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "потім",
-    "ipa": "ðɛn",
-    "spell": "then"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "потім = після цього",
-    "ipa": "ðɛn = ˈæftər ðæt",
-    "spell": "then = after that"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "добувати їжу",
-    "ipa": "tu ɡɛt fud",
-    "spell": "to get food"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "заробляти гроші",
-    "ipa": "tu ɡɛt ˈmʌni",
-    "spell": "to get money"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сповільнюватися",
-    "ipa": "tu sloʊ daʊn",
-    "spell": "to slow down"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "двісті",
-    "ipa": "tu ˈhʌndrɪd",
-    "spell": "two hundred"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дуже мало",
-    "ipa": "ˈvɛri ˈlɪtəl",
-    "spell": "very little"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що ти сьогодні на обід?",
-    "ipa": "wɑt du ju hæv fɔr lʌnʧ təˈdeɪ?",
-    "spell": "what do you have for lunch today?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що ти думаєш?",
-    "ipa": "wɑt du ju θɪŋk?",
-    "spell": "what do you think?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що він робить першим у день?",
-    "ipa": "wɑt dʌz hi du fɜrst ɪn ə deɪ?",
-    "spell": "what does he do first in a day?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що він робить далі?",
-    "ipa": "wɑt dʌz hi du nɛkst?",
-    "spell": "what does he do next?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "що він робить?",
-    "ipa": "wɑt dʌz hi du?",
-    "spell": "what does he do?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "чим він займається?",
-    "ipa": "wɑt ɪz hɪz ʤɑb?",
-    "spell": "what is his job?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "коли спекотно, твій мозок сповільнюється",
-    "ipa": "wɛn ɪt ɪz hɑt jʊər breɪn sloʊz daʊn",
-    "spell": "when it is hot your brain slows down"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "де це?",
-    "ipa": "wɛr ɪz ðɪs?",
-    "spell": "where is this?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "яке це місто?",
-    "ipa": "wɪʧ ˈsɪti ɪz ðɪs?",
-    "spell": "which city is this?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "чому твоя робота важка?",
-    "ipa": "waɪ ɪz jʊər ʤɑb ˈdɪfəkəlt?",
-    "spell": "why is your job difficult?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти чудовий чоловік",
-    "ipa": "ju ɑr ə ɡreɪt ˈhʌzbənd",
-    "spell": "you are a great husband"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти кращий за мене",
-    "ipa": "ju ɑr ˈbɛtər ðæn mi",
-    "spell": "you are better than me"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "тобі не треба копати",
-    "ipa": "ju doʊnt hæv tu dɪɡ",
-    "spell": "you don't have to dig"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти любиш рибу",
-    "ipa": "ju laɪk fɪʃ",
-    "spell": "you like fish"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти робиш список",
-    "ipa": "ju meɪk ə lɪst",
-    "spell": "you make a list"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "твій мозок перевантажується",
-    "ipa": "jʊər breɪn ɡɛts ˌoʊvərˈtækst",
-    "spell": "your brain gets overtaxed"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "голова напружена",
-    "ipa": "jʊər hɛd filz streɪnd",
-    "spell": "your head feels strained"
-  }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 46,
+  "date": "2025-06-30",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нерівність",
+      "ipa": "ə bʌmp",
+      "spell": "a bump"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гід",
+      "ipa": "ə ɡaɪd",
+      "spell": "a guide"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "миля",
+      "ipa": "ə maɪl",
+      "spell": "a mile"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "реальний світ",
+      "ipa": "ə riəl wɜrld",
+      "spell": "a real world"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лежачий поліцейський",
+      "ipa": "ə spid bʌmp",
+      "spell": "a speed bump"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яєчня-глазунья",
+      "ipa": "ə ˈsʌniˌsaɪd ʌp (ɛɡ)",
+      "spell": "a sunny-side up (egg)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тур",
+      "ipa": "ə tʊr",
+      "spell": "a tour"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "екскурсовод",
+      "ipa": "ə tʊr ɡaɪd",
+      "spell": "a tour guide"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "стіна",
+      "ipa": "ə wɔl",
+      "spell": "a wall"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "світ",
+      "ipa": "ə wɜrld",
+      "spell": "a world"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "близько десяти миль",
+      "ipa": "əˈbaʊt tɛn maɪlz",
+      "spell": "about ten miles"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "після того, як я повернусь додому",
+      "ipa": "ˈæftər aɪ kʌm hoʊm",
+      "spell": "after I come home"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "після цього",
+      "ipa": "ˈæftər ðæt",
+      "spell": "after that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "після чого?",
+      "ipa": "ˈæftər wɑt?",
+      "spell": "after what?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "майже те саме",
+      "ipa": "ˈɔlˌmoʊst ðə seɪm",
+      "spell": "almost the same"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "екстракт",
+      "ipa": "ən ˈɛkˌstrækt",
+      "spell": "an extract"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "омлет",
+      "ipa": "ən ˈɑmlət",
+      "spell": "an omelet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "а потім",
+      "ipa": "ænd ðɛn",
+      "spell": "and then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "приблизно",
+      "ipa": "əˈprɑksəmətli",
+      "spell": "approximately"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "близько восьмої години",
+      "ipa": "æt əˈbaʊt eɪt əˈklɑk",
+      "spell": "at about eight o'clock"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь обережний",
+      "ipa": "bi ˈkɛrfəl",
+      "spell": "be careful"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "гречка - це наша основна їжа",
+      "ipa": "ˈbʌˌkwit ɪz ə ˈsteɪpəl fud fɔr ʌs",
+      "spell": "buckwheat is a staple food for us"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вмієш готувати борщ?",
+      "ipa": "kæn ju meɪk bɔrʃt?",
+      "spell": "can you make borscht?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти вмієш готувати?",
+      "ipa": "kæn ju kʊk?",
+      "spell": "can you cook?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона знову поїхала на ферму?",
+      "ipa": "dɪd ʃi ɡoʊ tu ðə fɑrm əˈɡɛn?",
+      "spell": "did she go to the farm again?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти зазвичай сповільнюєшся перед лежачими поліцейськими?",
+      "ipa": "du ju ˈjuʒəwəli sloʊ daʊn bɪˈfɔr spid bʌmps?",
+      "spell": "do you usually slow down before speed bumps?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "достатньо сну",
+      "ipa": "ɪˈnʌf slip",
+      "spell": "enough sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кожен день він проходить близько шести миль",
+      "ipa": "ˈɛvəri deɪ hi wɔks əˈbaʊt sɪks maɪlz",
+      "spell": "every day he walks about six miles"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кожен день Ігор проїжджає від ста п'ятдесяти до двох сотень миль",
+      "ipa": "ˈɛvəri deɪ ɪˈɡɔr draɪvz əˈbaʊt ə ˈhʌndrɪd ænd ˈfɪfti tu tu ˈhʌndrɪd maɪlz",
+      "spell": "every day Igor drives about a hundred and fifty to two hundred miles"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спочатку, потім",
+      "ipa": "fɜrst ðɛn ˈsɛkənd",
+      "spell": "first then second"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спочатку, а потім",
+      "ipa": "fɜrst, ðɛn",
+      "spell": "first, then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він робить це далі",
+      "ipa": "hi dʌz ðæt nɛkst",
+      "spell": "he does that next"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він екскурсовод",
+      "ipa": "hi ɪz ə tʊr ɡaɪd",
+      "spell": "he is a tour guide"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він прокидається першим",
+      "ipa": "hi weɪks ʌp fɜrst",
+      "spell": "he wakes up first"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він проходить менше десяти миль",
+      "ipa": "hi wɔks lɛs ðæn tɛn maɪlz",
+      "spell": "he walks less than ten miles"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він працює екскурсоводом",
+      "ipa": "hɪz ʤɑb ɪz ə tʊr ɡaɪd",
+      "spell": "his job is a tour guide"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "його робота важка",
+      "ipa": "hɪz ʤɑb ɪz ˈdɪfəkəlt",
+      "spell": "his job is difficult"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "його робота легка",
+      "ipa": "hɪz ʤɑb ɪz ˈizi",
+      "spell": "his job is easy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "а як ти?",
+      "ipa": "haʊ əˈbaʊt ju?",
+      "spell": "how about you?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "скільки годин на день ти працюєш?",
+      "ipa": "haʊ ˈmɛni ˈaʊərz ə deɪ du ju wɜrk?",
+      "spell": "how many hours a day do you work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я можу смажити яйця",
+      "ipa": "aɪ kæn fraɪ ɛɡz",
+      "spell": "I can fry eggs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я можу зробити омлет",
+      "ipa": "aɪ kæn meɪk ən ˈɑmlət",
+      "spell": "I can make an omelet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не вмію готувати",
+      "ipa": "aɪ kænt kʊk",
+      "spell": "I can't cook"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не висипаюсь",
+      "ipa": "aɪ doʊnt ɡɛt ɪˈnʌf slip",
+      "spell": "i don't get enough sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не знаю як",
+      "ipa": "aɪ doʊnt noʊ haʊ",
+      "spell": "I don't know how"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не вмію готувати",
+      "ipa": "aɪ doʊnt noʊ haʊ tu kʊk",
+      "spell": "I don't know how to cook"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я теж їв гречку",
+      "ipa": "aɪ hæd ˈbʌˌkwit, tu",
+      "spell": "I had buckwheat, too"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я щойно теж їв гречку",
+      "ipa": "aɪ hæv ʤʌst hæd ˈbʌˌkwit, tu",
+      "spell": "I have just had buckwheat, too"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я щойно пообідав",
+      "ipa": "aɪ ʤʌst hæd lʌnʧ",
+      "spell": "I just had lunch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я відпочиваю",
+      "ipa": "aɪ rɪˈlæks",
+      "spell": "I relax"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я сплю одну годину",
+      "ipa": "aɪ slip fɔr wʌn ˈaʊər",
+      "spell": "I sleep for one hour"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я працюю десять годин",
+      "ipa": "aɪ wɜrk fɔr tɛn ˈaʊərz",
+      "spell": "I work for ten hours"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "якщо ... то",
+      "ipa": "ɪf ... ðɛn",
+      "spell": "if ... then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "якщо ти прийдеш сюди, (то) ми зможемо пообідати разом",
+      "ipa": "ɪf ju kʌm hir, (ðɛn) wi kæn hæv lʌnʧ təˈɡɛðər",
+      "spell": "if you come here, (then) we can have lunch together"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "якщо у тебе є гроші, (то) ти можеш купити їжу",
+      "ipa": "ɪf ju hæv ˈmʌni, (ðɛn) ju kæn baɪ fud",
+      "spell": "if you have money, (then) you can buy food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твоя робота легка?",
+      "ipa": "ɪz jʊər ʤɑb ˈizi?",
+      "spell": "is your job easy?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це звичка",
+      "ipa": "ɪt ɪz ə ˈhæbət",
+      "spell": "it is a habit"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це називається машина",
+      "ipa": "ɪt ɪz kɔld ə kɑr",
+      "spell": "it is called a car"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "душно",
+      "ipa": "ɪt ɪz ˈsʌltri",
+      "spell": "it is sultry"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це необов'язково",
+      "ipa": "ɪts ˈɑpʃənəl",
+      "spell": "it's optional"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це виснажує психічно",
+      "ipa": "ɪts ˈmɛntəli ɪɡˈzɑstɪŋ",
+      "spell": "it’s mentally exhausting"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "менше ніж",
+      "ipa": "lɛs ðæn",
+      "spell": "less than"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "менше десяти миль",
+      "ipa": "lɛs ðæn tɛn maɪlz",
+      "spell": "less than ten miles"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "довгі години за кермом",
+      "ipa": "lɔŋ ˈaʊərz bɪˈhaɪnd ðə wil",
+      "spell": "long hours behind the wheel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "більше ніж",
+      "ipa": "mɔr ðæn",
+      "spell": "more than"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "недостатньо сну",
+      "ipa": "nɑt ɪˈnʌf slip",
+      "spell": "not enough sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сто п'ятдесят",
+      "ipa": "wʌn ˈhʌndrɪd ænd ˈfɪfti",
+      "spell": "one hundred and fifty"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "один, потім два",
+      "ipa": "wʌn ðɛn tu",
+      "spell": "one then two"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона готує",
+      "ipa": "ʃi kʊks",
+      "spell": "she cooks"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона зараз готує",
+      "ipa": "ʃi ɪz ˈkʊkɪŋ (raɪt naʊ)",
+      "spell": "she is cooking (right now)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона робить котлети",
+      "ipa": "ʃi meɪks ˈkʌtɪts",
+      "spell": "she makes cutlets"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вона робить фрикадельки",
+      "ipa": "ʃi meɪks ˈmitˌbɔlz",
+      "spell": "she makes meatballs"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "швидкість",
+      "ipa": "spid",
+      "spell": "speed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "будь обережним",
+      "ipa": "steɪ seɪf",
+      "spell": "stay safe"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "розкажи про мене",
+      "ipa": "tɛl mi əˈbaʊt mi",
+      "spell": "tell me about me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ніж, потім",
+      "ipa": "ðæn, ðɛn",
+      "spell": "than, then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це багато",
+      "ipa": "ðæts ə lɑt",
+      "spell": "that's a lot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що він робить",
+      "ipa": "ðə θɪŋz hi dʌz",
+      "spell": "the things he does"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потім",
+      "ipa": "ðɛn",
+      "spell": "then"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "потім = після цього",
+      "ipa": "ðɛn = ˈæftər ðæt",
+      "spell": "then = after that"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "добувати їжу",
+      "ipa": "tu ɡɛt fud",
+      "spell": "to get food"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "заробляти гроші",
+      "ipa": "tu ɡɛt ˈmʌni",
+      "spell": "to get money"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "сповільнюватися",
+      "ipa": "tu sloʊ daʊn",
+      "spell": "to slow down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двісті",
+      "ipa": "tu ˈhʌndrɪd",
+      "spell": "two hundred"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дуже мало",
+      "ipa": "ˈvɛri ˈlɪtəl",
+      "spell": "very little"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що ти сьогодні на обід?",
+      "ipa": "wɑt du ju hæv fɔr lʌnʧ təˈdeɪ?",
+      "spell": "what do you have for lunch today?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що ти думаєш?",
+      "ipa": "wɑt du ju θɪŋk?",
+      "spell": "what do you think?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що він робить першим у день?",
+      "ipa": "wɑt dʌz hi du fɜrst ɪn ə deɪ?",
+      "spell": "what does he do first in a day?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що він робить далі?",
+      "ipa": "wɑt dʌz hi du nɛkst?",
+      "spell": "what does he do next?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "що він робить?",
+      "ipa": "wɑt dʌz hi du?",
+      "spell": "what does he do?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чим він займається?",
+      "ipa": "wɑt ɪz hɪz ʤɑb?",
+      "spell": "what is his job?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "коли спекотно, твій мозок сповільнюється",
+      "ipa": "wɛn ɪt ɪz hɑt jʊər breɪn sloʊz daʊn",
+      "spell": "when it is hot your brain slows down"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "де це?",
+      "ipa": "wɛr ɪz ðɪs?",
+      "spell": "where is this?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "яке це місто?",
+      "ipa": "wɪʧ ˈsɪti ɪz ðɪs?",
+      "spell": "which city is this?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "чому твоя робота важка?",
+      "ipa": "waɪ ɪz jʊər ʤɑb ˈdɪfəkəlt?",
+      "spell": "why is your job difficult?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти чудовий чоловік",
+      "ipa": "ju ɑr ə ɡreɪt ˈhʌzbənd",
+      "spell": "you are a great husband"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти кращий за мене",
+      "ipa": "ju ɑr ˈbɛtər ðæn mi",
+      "spell": "you are better than me"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тобі не треба копати",
+      "ipa": "ju doʊnt hæv tu dɪɡ",
+      "spell": "you don't have to dig"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти любиш рибу",
+      "ipa": "ju laɪk fɪʃ",
+      "spell": "you like fish"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти робиш список",
+      "ipa": "ju meɪk ə lɪst",
+      "spell": "you make a list"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "твій мозок перевантажується",
+      "ipa": "jʊər breɪn ɡɛts ˌoʊvərˈtækst",
+      "spell": "your brain gets overtaxed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "голова напружена",
+      "ipa": "jʊər hɛd filz streɪnd",
+      "spell": "your head feels strained"
+    }
+  ]
+}
