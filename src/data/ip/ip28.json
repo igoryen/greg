@@ -1,268 +1,275 @@
-[
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бути в порядку",
-    "ipa": "tu bi ɪn ˈɔrdər",
-    "spell": "to be in order"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "бути у хорошому стані",
-    "ipa": "tu bi ɪn ɡʊd kənˈdɪʃən",
-    "spell": "to be in good condition"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вони п'яні",
-    "ipa": "ðeɪ ɑr drʌŋk",
-    "spell": "they are drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "вони їздять п'яними",
-    "ipa": "ðeɪ draɪv drʌŋk",
-    "spell": "they drive drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "він їздить п'яним",
-    "ipa": "hi draɪvz drʌŋk",
-    "spell": "he drives drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "хвіст",
-    "ipa": "ə teɪl",
-    "spell": "a tail"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "дитина",
-    "ipa": "ə ʧaɪld",
-    "spell": "a child"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "задні ліхтарі, габарити",
-    "ipa": "ˈteɪlˌlaɪts",
-    "spell": "taillights"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "закінчитися бензин",
-    "ipa": "tu bi aʊt ʌv ɡæs",
-    "spell": "to be out of gas"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "запальничка",
-    "ipa": "ə ˌsɪɡəˈrɛt ˈlaɪtər",
-    "spell": "a cigarette lighter"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "запальничка",
-    "ipa": "ə ˈlaɪtər",
-    "spell": "a lighter"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "мої друзі п'яні",
-    "ipa": "maɪ frɛndz ɑr drʌŋk",
-    "spell": "my friends are drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "мої задні ліхтарі не працюють",
-    "ipa": "maɪ ˈteɪlˌlaɪts doʊnt wɜrk",
-    "spell": "my taillights don't work"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "мої задні ліхтарі працюють",
-    "ipa": "maɪ ˈteɪlˌlaɪts wɜrk",
-    "spell": "my taillights work"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "не",
-    "ipa": "nɑt",
-    "spell": "not"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ні, у мене ще не закінчився бензин",
-    "ipa": "noʊ, aɪ æm nɑt aʊt ʌv ɡæs jɛt",
-    "spell": "no, I am not out of gas yet"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ні, я не вмикаю далекісвітло в місті",
-    "ipa": "noʊ, aɪ doʊnt tɜrn ɑn haɪ bimz ɪn ðə ˈsɪti",
-    "spell": "no, I don't turn on high beams in the city"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ні, я не їжджу п'яним",
-    "ipa": "noʊ, aɪ doʊnt draɪv drʌŋk",
-    "spell": "no, I don't drive drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "п'яний",
-    "ipa": "drʌŋk",
-    "spell": "drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "подорожувати",
-    "ipa": "tu ˈtrævəl",
-    "spell": "to travel"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "омивайка, рідина для омивача скла",
-    "ipa": "ˈwaɪpər ˈfluɪd, ˈwɪndˌʃild ˈwɑʃər ˈfluɪd",
-    "spell": "wiper fluid, windshield washer fluid"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "світло",
-    "ipa": "laɪt",
-    "spell": "light"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти вмикаєш далекісвітло в місті?",
-    "ipa": "du ju tɜrn ɑn haɪ bimz ɪn ðə ˈsɪti?",
-    "spell": "do you turn on high beams in the city?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти не їздиш п'яним",
-    "ipa": "ju du nɑt draɪv drʌŋk",
-    "spell": "you do not drive drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти п'яний?",
-    "ipa": "ɑr ju drʌŋk?",
-    "spell": "are you drunk?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти їздиш п'яним",
-    "ipa": "ju draɪv drʌŋk",
-    "spell": "you drive drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ти їздиш п'яним?",
-    "ipa": "du ju draɪv drʌŋk?",
-    "spell": "do you drive drunk?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене закінчився апельсиновий сік",
-    "ipa": "aɪ æm aʊt ʌv ˈɔrənʤ ʤus",
-    "spell": "I am out of orange juice"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене закінчився бензин",
-    "ipa": "aɪ æm aʊt ʌv ɡæs",
-    "spell": "I am out of gas"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене немає бензину",
-    "ipa": "aɪ du nɑt hæv ɡæs, aɪ doʊnt hæv ɡæs",
-    "spell": "I do not have gas, I don’t have gas"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у мене працюють задні ліхтарі?",
-    "ipa": "du maɪ ˈteɪlˌlaɪts wɜrk?",
-    "spell": "do my taillights work?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у них закінчилася рідина для омивача скла",
-    "ipa": "ðeɪ ɑr aʊt ʌv ˈwɪndˌʃild ˈwɑʃər ˈfluɪd",
-    "spell": "they are out of windshield washer fluid"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у тебе закінчився бензин?",
-    "ipa": "ɑr ju aʊt ʌv ɡæs?",
-    "spell": "are you out of gas?"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "у тебе закінчився час",
-    "ipa": "ju ɑr aʊt ʌv taɪm",
-    "spell": "you are out of time"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "це не працює",
-    "ipa": "ɪt ɪz nɑt ˈwɜrkɪŋ",
-    "spell": "it is not working"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "я не п'яний",
-    "ipa": "aɪ æm nɑt drʌŋk",
-    "spell": "I am not drunk"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "їздити",
-    "ipa": "tu draɪv",
-    "spell": "to drive"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "їздити п'яним",
-    "ipa": "tu draɪv drʌŋk",
-    "spell": "to drive drunk"
-  }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 28,
+  "date": "2025-05-05",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бути в порядку",
+      "ipa": "tu bi ɪn ˈɔrdər",
+      "spell": "to be in order"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "бути у хорошому стані",
+      "ipa": "tu bi ɪn ɡʊd kənˈdɪʃən",
+      "spell": "to be in good condition"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони п'яні",
+      "ipa": "ðeɪ ɑr drʌŋk",
+      "spell": "they are drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "вони їздять п'яними",
+      "ipa": "ðeɪ draɪv drʌŋk",
+      "spell": "they drive drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "він їздить п'яним",
+      "ipa": "hi draɪvz drʌŋk",
+      "spell": "he drives drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "хвіст",
+      "ipa": "ə teɪl",
+      "spell": "a tail"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дитина",
+      "ipa": "ə ʧaɪld",
+      "spell": "a child"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "задні ліхтарі, габарити",
+      "ipa": "ˈteɪlˌlaɪts",
+      "spell": "taillights"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закінчитися бензин",
+      "ipa": "tu bi aʊt ʌv ɡæs",
+      "spell": "to be out of gas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "запальничка",
+      "ipa": "ə ˌsɪɡəˈrɛt ˈlaɪtər",
+      "spell": "a cigarette lighter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "запальничка",
+      "ipa": "ə ˈlaɪtər",
+      "spell": "a lighter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мої друзі п'яні",
+      "ipa": "maɪ frɛndz ɑr drʌŋk",
+      "spell": "my friends are drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мої задні ліхтарі не працюють",
+      "ipa": "maɪ ˈteɪlˌlaɪts doʊnt wɜrk",
+      "spell": "my taillights don't work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "мої задні ліхтарі працюють",
+      "ipa": "maɪ ˈteɪlˌlaɪts wɜrk",
+      "spell": "my taillights work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "не",
+      "ipa": "nɑt",
+      "spell": "not"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ні, у мене ще не закінчився бензин",
+      "ipa": "noʊ, aɪ æm nɑt aʊt ʌv ɡæs jɛt",
+      "spell": "no, I am not out of gas yet"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ні, я не вмикаю далекісвітло в місті",
+      "ipa": "noʊ, aɪ doʊnt tɜrn ɑn haɪ bimz ɪn ðə ˈsɪti",
+      "spell": "no, I don't turn on high beams in the city"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ні, я не їжджу п'яним",
+      "ipa": "noʊ, aɪ doʊnt draɪv drʌŋk",
+      "spell": "no, I don't drive drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "п'яний",
+      "ipa": "drʌŋk",
+      "spell": "drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подорожувати",
+      "ipa": "tu ˈtrævəl",
+      "spell": "to travel"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "омивайка, рідина для омивача скла",
+      "ipa": "ˈwaɪpər ˈfluɪd, ˈwɪndˌʃild ˈwɑʃər ˈfluɪd",
+      "spell": "wiper fluid, windshield washer fluid"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "світло",
+      "ipa": "laɪt",
+      "spell": "light"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти вмикаєш далекісвітло в місті?",
+      "ipa": "du ju tɜrn ɑn haɪ bimz ɪn ðə ˈsɪti?",
+      "spell": "do you turn on high beams in the city?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти не їздиш п'яним",
+      "ipa": "ju du nɑt draɪv drʌŋk",
+      "spell": "you do not drive drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти п'яний?",
+      "ipa": "ɑr ju drʌŋk?",
+      "spell": "are you drunk?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти їздиш п'яним",
+      "ipa": "ju draɪv drʌŋk",
+      "spell": "you drive drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти їздиш п'яним?",
+      "ipa": "du ju draɪv drʌŋk?",
+      "spell": "do you drive drunk?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене закінчився апельсиновий сік",
+      "ipa": "aɪ æm aʊt ʌv ˈɔrənʤ ʤus",
+      "spell": "I am out of orange juice"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене закінчився бензин",
+      "ipa": "aɪ æm aʊt ʌv ɡæs",
+      "spell": "I am out of gas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене немає бензину",
+      "ipa": "aɪ du nɑt hæv ɡæs, aɪ doʊnt hæv ɡæs",
+      "spell": "I do not have gas, I don’t have gas"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у мене працюють задні ліхтарі?",
+      "ipa": "du maɪ ˈteɪlˌlaɪts wɜrk?",
+      "spell": "do my taillights work?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у них закінчилася рідина для омивача скла",
+      "ipa": "ðeɪ ɑr aʊt ʌv ˈwɪndˌʃild ˈwɑʃər ˈfluɪd",
+      "spell": "they are out of windshield washer fluid"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебе закінчився бензин?",
+      "ipa": "ɑr ju aʊt ʌv ɡæs?",
+      "spell": "are you out of gas?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "у тебе закінчився час",
+      "ipa": "ju ɑr aʊt ʌv taɪm",
+      "spell": "you are out of time"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "це не працює",
+      "ipa": "ɪt ɪz nɑt ˈwɜrkɪŋ",
+      "spell": "it is not working"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "я не п'яний",
+      "ipa": "aɪ æm nɑt drʌŋk",
+      "spell": "I am not drunk"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їздити",
+      "ipa": "tu draɪv",
+      "spell": "to drive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "їздити п'яним",
+      "ipa": "tu draɪv drʌŋk",
+      "spell": "to drive drunk"
+    }
+  ]
+}
