@@ -1,135 +1,104 @@
-[
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "рука (от запястья)",
-    "ipa": "ə hænd",
-    "spell": "a hand"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "зуб - зубы",
-    "ipa": "ə tuθ - tiθ",
-    "spell": "a tooth - teeth"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "рука (от плеча)",
-    "ipa": "ən ɑrm",
-    "spell": "an arm"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "рано",
-    "ipa": "ˈɜrli",
-    "spell": "early"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "каждый день",
-    "ipa": "ˈɛvəri ˈsɪŋɡəl deɪ",
-    "spell": "every single day"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "зависит от места",
-    "ipa": "ɪt dɪˈpɛndz wɛr",
-    "spell": "it depends where"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "может быть, я видел",
-    "ipa": "ˈmeɪbi aɪ sɔ",
-    "spell": "maybe I saw"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "третья какашка",
-    "ipa": "ðə θɜrd tɜrd",
-    "spell": "the third turd"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "они являются, находятся",
-    "ipa": "ðeɪ ɑr, ðɛr",
-    "spell": "they are, they're"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "им там нравится",
-    "ipa": "ðeɪ laɪk ɪt ðɛr",
-    "spell": "they like it there"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "третий",
-    "ipa": "θɜrd",
-    "spell": "third"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "являться, находиться",
-    "ipa": "tu bi",
-    "spell": "to be"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "сегодня вечером",
-    "ipa": "təˈnaɪt",
-    "spell": "tonight"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "слишком поздно",
-    "ipa": "tu leɪt",
-    "spell": "too late"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "мы являемся, находимся",
-    "ipa": "wi ɑr, wir",
-    "spell": "we are, we're"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "нам здесь нормально",
-    "ipa": "wir faɪn hir",
-    "spell": "we're fine here"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ты являешься, находишься",
-    "ipa": "ju ɑr, jʊr",
-    "spell": "you are, you're"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "тебе там нормально",
-    "ipa": "jʊr faɪn ðɛr",
-    "spell": "you're fine there"
-  },
-  {
-    "cefr": "",
-    "def2": "",
-    "def1": "ты опоздал",
-    "ipa": "jʊr leɪt",
-    "spell": "you're late"
-  }
-]
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "lesson",
+  "number": 18,
+  "date": "2025-07-06",
+  "words": [
+    {
+      "def1": "рука (от запястья)",
+      "ipa": "ə hænd",
+      "spell": "a hand"
+    },
+    {
+      "def1": "зуб - зубы",
+      "ipa": "ə tuθ - tiθ",
+      "spell": "a tooth - teeth"
+    },
+    {
+      "def1": "рука (от плеча)",
+      "ipa": "ən ɑrm",
+      "spell": "an arm"
+    },
+    {
+      "def1": "рано",
+      "ipa": "ˈɜrli",
+      "spell": "early"
+    },
+    {
+      "def1": "каждый день",
+      "ipa": "ˈɛvəri ˈsɪŋɡəl deɪ",
+      "spell": "every single day"
+    },
+    {
+      "def1": "зависит от места",
+      "ipa": "ɪt dɪˈpɛndz wɛr",
+      "spell": "it depends where"
+    },
+    {
+      "def1": "может быть, я видел",
+      "ipa": "ˈmeɪbi aɪ sɔ",
+      "spell": "maybe I saw"
+    },
+    {
+      "def1": "третья какашка",
+      "ipa": "ðə θɜrd tɜrd",
+      "spell": "the third turd"
+    },
+    {
+      "def1": "они являются, находятся",
+      "ipa": "ðeɪ ɑr, ðɛr",
+      "spell": "they are, they're"
+    },
+    {
+      "def1": "им там нравится",
+      "ipa": "ðeɪ laɪk ɪt ðɛr",
+      "spell": "they like it there"
+    },
+    {
+      "def1": "третий",
+      "ipa": "θɜrd",
+      "spell": "third"
+    },
+    {
+      "def1": "являться, находиться",
+      "ipa": "tu bi",
+      "spell": "to be"
+    },
+    {
+      "def1": "сегодня вечером",
+      "ipa": "təˈnaɪt",
+      "spell": "tonight"
+    },
+    {
+      "def1": "слишком поздно",
+      "ipa": "tu leɪt",
+      "spell": "too late"
+    },
+    {
+      "def1": "мы являемся, находимся",
+      "ipa": "wi ɑr, wir",
+      "spell": "we are, we're"
+    },
+    {
+      "def1": "нам здесь нормально",
+      "ipa": "wir faɪn hir",
+      "spell": "we're fine here"
+    },
+    {
+      "def1": "ты являешься, находишься",
+      "ipa": "ju ɑr, jʊr",
+      "spell": "you are, you're"
+    },
+    {
+      "def1": "тебе там нормально",
+      "ipa": "jʊr faɪn ðɛr",
+      "spell": "you're fine there"
+    },
+    {
+      "def1": "ты опоздал",
+      "ipa": "jʊr leɪt",
+      "spell": "you're late"
+    }
+  ]
+}
