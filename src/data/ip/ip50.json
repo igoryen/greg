@@ -1,324 +1,239 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поширений вираз",
-   "ipa": "ə ˈkɑmən freɪz",
-   "spell": "a common phrase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "гра",
-   "ipa": "ə ɡeɪm",
-   "spell": "a game"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дієслівний зворо́т",
-   "ipa": "ə vɜrb freɪz",
-   "spell": "a verb phrase"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приблизно того ж дня",
-   "ipa": "əˈbaʊt ðə seɪm deɪ",
-   "spell": "about the same day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "всі вони",
-   "ipa": "ɔl ʌv ðɛm",
-   "spell": "all of them"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони в основному однакові?",
-   "ipa": "ɑr ðeɪ ˈbeɪsɪkli ðə seɪm?",
-   "spell": "are they basically the same?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чи її вихідні зазвичай однакові?",
-   "ipa": "ɑr {hɜr ˈwiˌkɛndz} ˈjuʒəwəli {ðə seɪm}?",
-   "spell": "are {her weekends} usually {the same}?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що до мене",
-   "ipa": "æz fɔr mi",
-   "spell": "as for me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зовсім",
-   "ipa": "æt ɔl",
-   "spell": "at all"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чудово!",
-   "ipa": "ˈɑsəm!",
-   "spell": "awesome!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в основному",
-   "ipa": "ˈbeɪsɪkli",
-   "spell": "basically"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Бен",
-   "ipa": "bɛn",
-   "spell": "Ben"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "довгий час",
-   "ipa": "fɔr ə lɔŋ taɪm",
-   "spell": "for a long time"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "з шостої тридцяти до дванадцятої",
-   "ipa": "frʌm sɪks-ˈθɜrdi tu twɛlv",
-   "spell": "from six-thirty to twelve"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "гра закінчена!",
-   "ipa": "ɡeɪm ˈoʊvər!",
-   "spell": "game over!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він плаває",
-   "ipa": "hi ɪz ˈswɪmɪŋ",
-   "spell": "he is swimming"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "а як щодо тебе?",
-   "ipa": "haʊ əˈbaʊt ju?",
-   "spell": "how about you?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я думаю, багаті люди грають у теніс",
-   "ipa": "aɪ θɪŋk rɪʧ ˈpipəl pleɪ ˈtɛnəs",
-   "spell": "I think rich people play tennis"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я працюю до шостої вечора",
-   "ipa": "aɪ wɜrk ənˈtɪl sɪks pi.ɛm.",
-   "spell": "I work until six p.m."
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "якщо це хороший фільм",
-   "ipa": "ɪf ɪt ɪz ə ɡʊd ˈmuvi",
-   "spell": "if it is a good movie"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "взимку",
-   "ipa": "ɪn ˈwɪntər",
-   "spell": "in winter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це нудно",
-   "ipa": "ɪt ɪz ˈbɔrɪŋ",
-   "spell": "it is boring"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "добре подорожувати",
-   "ipa": "ɪt ɪz ɡʊd tu ˈtrævəl",
-   "spell": "it is good to travel"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тут так нудно",
-   "ipa": "ɪt ɪz soʊ ˈbɔrɪŋ hir",
-   "spell": "it is so boring here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тепло",
-   "ipa": "ɪt ɪz wɔrm",
-   "spell": "it is warm"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "продовжуй читати",
-   "ipa": "kip ˈrɛdɪŋ",
-   "spell": "keep reading"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "переважно однакові",
-   "ipa": "ˈmoʊstli ðə seɪm",
-   "spell": "mostly the same"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не зовсім",
-   "ipa": "nɑt ˈrɪli",
-   "spell": "not really"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "якого дня?",
-   "ipa": "ɑn wɑt deɪ?",
-   "spell": "on what day?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "регулярно",
-   "ipa": "ˈrɛɡjələrli",
-   "spell": "regularly"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ось що я думаю",
-   "ipa": "ðæt ɪz wɑt aɪ θɪŋk",
-   "spell": "that is what I think"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тут немає гір",
-   "ipa": "ðɛr ɑr noʊ ˈmaʊntənz hir",
-   "spell": "there are no mountains here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тут зовсім немає гір",
-   "ipa": "ðɛr ˈɑrənt ˈɛni ˈmaʊntənz hir",
-   "spell": "there aren't any mountains here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони тренуються",
-   "ipa": "ðeɪ ˈɛksərˌsaɪz",
-   "spell": "they exercise"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це було інтерв'ю",
-   "ipa": "ðɪs wʌz ən ˈɪntərˌvju",
-   "spell": "this was an interview"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тренуватися",
-   "ipa": "tu ˈɛksərˌsaɪz",
-   "spell": "to exercise"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ходити в похід",
-   "ipa": "tu haɪk",
-   "spell": "to hike"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бігати",
-   "ipa": "tu ʤɑɡ",
-   "spell": "to jog"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми ходимо на пляж",
-   "ipa": "wi ɡoʊ tu ðə biʧ",
-   "spell": "we go to the beach"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у нас немає гір навколо",
-   "ipa": "wi hæv noʊ ˈmaʊntənz əˈraʊnd ʌs",
-   "spell": "we have no mountains around us"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми залишаємося вдома",
-   "ipa": "wi steɪ æt hoʊm",
-   "spell": "we stay at home"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "коли?",
-   "ipa": "wɛn?",
-   "spell": "when?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "який сьогодні день?",
-   "ipa": "wɪʧ deɪ ɪz ɪt?",
-   "spell": "which day is it?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тобі пощастило",
-   "ipa": "ju ɑr ˈlʌki",
-   "spell": "you are lucky"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "влітку ти можеш довго бути на вулиці",
-   "ipa": "ju kæn steɪ ˈaʊtˈdɔrz fɔr ə lɔŋ taɪm ɪn ˈsʌmər",
-   "spell": "you can stay outdoors for a long time in summer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у вас є гори навколо",
-   "ipa": "ju hæv ˈmaʊntənz əˈraʊnd ju",
-   "spell": "you have mountains around you"
- }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 50,
+  "date": "2025-07-09",
+  "words": [
+    {
+      "def1": "поширений вираз",
+      "ipa": "ə ˈkɑmən freɪz",
+      "spell": "a common phrase"
+    },
+    {
+      "def1": "гра",
+      "ipa": "ə ɡeɪm",
+      "spell": "a game"
+    },
+    {
+      "def1": "дієслівний зворо́т",
+      "ipa": "ə vɜrb freɪz",
+      "spell": "a verb phrase"
+    },
+    {
+      "def1": "приблизно того ж дня",
+      "ipa": "əˈbaʊt ðə seɪm deɪ",
+      "spell": "about the same day"
+    },
+    {
+      "def1": "всі вони",
+      "ipa": "ɔl ʌv ðɛm",
+      "spell": "all of them"
+    },
+    {
+      "def1": "вони в основному однакові?",
+      "ipa": "ɑr ðeɪ ˈbeɪsɪkli ðə seɪm?",
+      "spell": "are they basically the same?"
+    },
+    {
+      "def1": "чи її вихідні зазвичай однакові?",
+      "ipa": "ɑr {hɜr ˈwiˌkɛndz} ˈjuʒəwəli {ðə seɪm}?",
+      "spell": "are {her weekends} usually {the same}?"
+    },
+    {
+      "def1": "що до мене",
+      "ipa": "æz fɔr mi",
+      "spell": "as for me"
+    },
+    {
+      "def1": "зовсім",
+      "ipa": "æt ɔl",
+      "spell": "at all"
+    },
+    {
+      "def1": "чудово!",
+      "ipa": "ˈɑsəm!",
+      "spell": "awesome!"
+    },
+    {
+      "def1": "в основному",
+      "ipa": "ˈbeɪsɪkli",
+      "spell": "basically"
+    },
+    {
+      "def1": "Бен",
+      "ipa": "bɛn",
+      "spell": "Ben"
+    },
+    {
+      "def1": "довгий час",
+      "ipa": "fɔr ə lɔŋ taɪm",
+      "spell": "for a long time"
+    },
+    {
+      "def1": "з шостої тридцяти до дванадцятої",
+      "ipa": "frʌm sɪks-ˈθɜrdi tu twɛlv",
+      "spell": "from six-thirty to twelve"
+    },
+    {
+      "def1": "гра закінчена!",
+      "ipa": "ɡeɪm ˈoʊvər!",
+      "spell": "game over!"
+    },
+    {
+      "def1": "він плаває",
+      "ipa": "hi ɪz ˈswɪmɪŋ",
+      "spell": "he is swimming"
+    },
+    {
+      "def1": "а як щодо тебе?",
+      "ipa": "haʊ əˈbaʊt ju?",
+      "spell": "how about you?"
+    },
+    {
+      "def1": "я думаю, багаті люди грають у теніс",
+      "ipa": "aɪ θɪŋk rɪʧ ˈpipəl pleɪ ˈtɛnəs",
+      "spell": "I think rich people play tennis"
+    },
+    {
+      "def1": "я працюю до шостої вечора",
+      "ipa": "aɪ wɜrk ənˈtɪl sɪks pi.ɛm.",
+      "spell": "I work until six p.m."
+    },
+    {
+      "def1": "якщо це хороший фільм",
+      "ipa": "ɪf ɪt ɪz ə ɡʊd ˈmuvi",
+      "spell": "if it is a good movie"
+    },
+    {
+      "def1": "взимку",
+      "ipa": "ɪn ˈwɪntər",
+      "spell": "in winter"
+    },
+    {
+      "def1": "це нудно",
+      "ipa": "ɪt ɪz ˈbɔrɪŋ",
+      "spell": "it is boring"
+    },
+    {
+      "def1": "добре подорожувати",
+      "ipa": "ɪt ɪz ɡʊd tu ˈtrævəl",
+      "spell": "it is good to travel"
+    },
+    {
+      "def1": "тут так нудно",
+      "ipa": "ɪt ɪz soʊ ˈbɔrɪŋ hir",
+      "spell": "it is so boring here"
+    },
+    {
+      "def1": "тепло",
+      "ipa": "ɪt ɪz wɔrm",
+      "spell": "it is warm"
+    },
+    {
+      "def1": "продовжуй читати",
+      "ipa": "kip ˈrɛdɪŋ",
+      "spell": "keep reading"
+    },
+    {
+      "def1": "переважно однакові",
+      "ipa": "ˈmoʊstli ðə seɪm",
+      "spell": "mostly the same"
+    },
+    {
+      "def1": "не зовсім",
+      "ipa": "nɑt ˈrɪli",
+      "spell": "not really"
+    },
+    {
+      "def1": "якого дня?",
+      "ipa": "ɑn wɑt deɪ?",
+      "spell": "on what day?"
+    },
+    {
+      "def1": "регулярно",
+      "ipa": "ˈrɛɡjələrli",
+      "spell": "regularly"
+    },
+    {
+      "def1": "ось що я думаю",
+      "ipa": "ðæt ɪz wɑt aɪ θɪŋk",
+      "spell": "that is what I think"
+    },
+    {
+      "def1": "тут немає гір",
+      "ipa": "ðɛr ɑr noʊ ˈmaʊntənz hir",
+      "spell": "there are no mountains here"
+    },
+    {
+      "def1": "тут зовсім немає гір",
+      "ipa": "ðɛr ˈɑrənt ˈɛni ˈmaʊntənz hir",
+      "spell": "there aren't any mountains here"
+    },
+    {
+      "def1": "вони тренуються",
+      "ipa": "ðeɪ ˈɛksərˌsaɪz",
+      "spell": "they exercise"
+    },
+    {
+      "def1": "це було інтерв'ю",
+      "ipa": "ðɪs wʌz ən ˈɪntərˌvju",
+      "spell": "this was an interview"
+    },
+    {
+      "def1": "тренуватися",
+      "ipa": "tu ˈɛksərˌsaɪz",
+      "spell": "to exercise"
+    },
+    {
+      "def1": "ходити в похід",
+      "ipa": "tu haɪk",
+      "spell": "to hike"
+    },
+    {
+      "def1": "бігати",
+      "ipa": "tu ʤɑɡ",
+      "spell": "to jog"
+    },
+    {
+      "def1": "ми ходимо на пляж",
+      "ipa": "wi ɡoʊ tu ðə biʧ",
+      "spell": "we go to the beach"
+    },
+    {
+      "def1": "у нас немає гір навколо",
+      "ipa": "wi hæv noʊ ˈmaʊntənz əˈraʊnd ʌs",
+      "spell": "we have no mountains around us"
+    },
+    {
+      "def1": "ми залишаємося вдома",
+      "ipa": "wi steɪ æt hoʊm",
+      "spell": "we stay at home"
+    },
+    {
+      "def1": "коли?",
+      "ipa": "wɛn?",
+      "spell": "when?"
+    },
+    {
+      "def1": "який сьогодні день?",
+      "ipa": "wɪʧ deɪ ɪz ɪt?",
+      "spell": "which day is it?"
+    },
+    {
+      "def1": "тобі пощастило",
+      "ipa": "ju ɑr ˈlʌki",
+      "spell": "you are lucky"
+    },
+    {
+      "def1": "влітку ти можеш довго бути на вулиці",
+      "ipa": "ju kæn steɪ ˈaʊtˈdɔrz fɔr ə lɔŋ taɪm ɪn ˈsʌmər",
+      "spell": "you can stay outdoors for a long time in summer"
+    },
+    {
+      "def1": "у вас є гори навколо",
+      "ipa": "ju hæv ˈmaʊntənz əˈraʊnd ju",
+      "spell": "you have mountains around you"
+    }
+  ]
+}
