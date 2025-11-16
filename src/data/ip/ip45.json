@@ -1,1080 +1,779 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "комфортна температура",
-   "ipa": "ə ˈkʌmfərtəbəl ˈtɛmprəʧər",
-   "spell": "a comfortable temperature"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "повна зупинка",
-   "ipa": "ə kəmˈplit stɑp",
-   "spell": "a complete stop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фіктивне слово",
-   "ipa": "ə ˈdʌmi wɜrd",
-   "spell": "a dummy word"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "помічник",
-   "ipa": "ə ˈhɛlpər",
-   "spell": "a helper"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "озеро",
-   "ipa": "ə leɪk",
-   "spell": "a lake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обмеження",
-   "ipa": "ə ˈlɪmət",
-   "spell": "a limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фразове дієслово",
-   "ipa": "ə ˈfɹeɪzəl vɜrb",
-   "spell": "a phrasal verb"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "позитивне речення",
-   "ipa": "ə ˈpɑzətɪv ˈsɛntəns",
-   "spell": "a positive sentence"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знак",
-   "ipa": "ə saɪn",
-   "spell": "a sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обмеження швидкості",
-   "ipa": "ə spid ˈlɪmət",
-   "spell": "a speed limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пастка швидкості",
-   "ipa": "ə spid træp",
-   "spell": "a speed trap"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зупинка",
-   "ipa": "ə stɑp",
-   "spell": "a stop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "знак зупинки",
-   "ipa": "ə stɑp saɪn",
-   "spell": "a stop sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "гід",
-   "ipa": "ə tʊr ɡaɪd",
-   "spell": "a tour guide"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "звичайний день",
-   "ipa": "ə ˈtɪpəkəl deɪ",
-   "spell": "a typical day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "щодо мене",
-   "ipa": "æz fɔr mi",
-   "spell": "as for me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "близький",
-   "ipa": "kloʊs",
-   "spell": "close"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "уважно",
-   "ipa": "ˈkloʊsli",
-   "spell": "closely "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "одяг",
-   "ipa": "kloʊðz",
-   "spell": "clothes "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приходьте пізніше",
-   "ipa": "kʌm ˈleɪtər",
-   "spell": "come later"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "повний",
-   "ipa": "kəmˈplit",
-   "spell": "complete"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "небезпечний",
-   "ipa": "ˈdeɪnʤərəs",
-   "spell": "dangerous"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "небезпечно близько",
-   "ipa": "ˈdeɪnʤərəsli kloʊs",
-   "spell": "dangerously close"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви знаєте, чому я вас зупинив?",
-   "ipa": "du ju noʊ waɪ aɪ pʊld ju ˈoʊvər?",
-   "spell": "do you know why I pulled you over?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви зазвичай ходите туди на вихідних?",
-   "ipa": "du ju ˈjuʒəwəli ɡoʊ ðɛr ɑn ˈwiˌkɛndz?",
-   "spell": "do you usually go there on weekends?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви зазвичай ходите в це місце?",
-   "ipa": "du ju ˈjuʒəwəli tu ðɪs pleɪs?",
-   "spell": "do you usually to this place?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не йдіть за мною",
-   "ipa": "doʊnt ˈfɑloʊ mi",
-   "spell": "don't follow me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не йдіть за мною близько",
-   "ipa": "doʊnt ˈfɑloʊ mi ˈkloʊsli",
-   "spell": "don't follow me closely"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не йдіть за мною надто близько",
-   "ipa": "doʊnt ˈfɑloʊ mi tu ˈkloʊsli",
-   "spell": "don't follow me too closely"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не дозволяйте їм вас спіймати",
-   "ipa": "doʊnt lɛt ðɛm kæʧ ju",
-   "spell": "don't let them catch you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не дозволяйте їм спіймати вас на перевищенні швидкості",
-   "ipa": "doʊnt lɛt ðɛm kæʧ ju ˈspidɪŋ",
-   "spell": "don't let them catch you speeding"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не проїжджайте на червоне світло",
-   "ipa": "doʊnt rʌn rɛd laɪts",
-   "spell": "don't run red lights"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не їдьте за мною впритул",
-   "ipa": "doʊnt ˈteɪlˌɡeɪt mi",
-   "spell": "don't tailgate me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "неповна зупинка на знаках зупинки викликає аварії",
-   "ipa": "ˈfeɪlɪŋ tu stɑp kəmˈplitli æt stɑp saɪnz ˈkɑzəz ˈæksədənts",
-   "spell": "failing to stop completely at stop signs causes accidents"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фастфуд",
-   "ipa": "fæst fud",
-   "spell": "fast food"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "за перевищення швидкості",
-   "ipa": "fɔr ˈspidɪŋ",
-   "spell": "for speeding"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він перевищив швидкість на 20 миль/год",
-   "ipa": "hi ɪkˈsidɪd ðə spid ˈlɪmət baɪ 20 ˈɛmˈpiˈeɪʧ",
-   "spell": "he exceeded the speed limit by 20 mph"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він отримав штраф за проїзд на червоне світло",
-   "ipa": "hi ɡɑt ə ˈtɪkət fɔr ˈrʌnɪŋ ə rɛd laɪt",
-   "spell": "he got a ticket for running a red light"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він вдома",
-   "ipa": "hi ɪz æt hoʊm",
-   "spell": "he is at home"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він на роботі",
-   "ipa": "hi ɪz æt wɜrk",
-   "spell": "he is at work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "він запізнюється",
-   "ipa": "hi ɪz leɪt",
-   "spell": "he is late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "а ви?",
-   "ipa": "haʊ əˈbaʊt ju?",
-   "spell": "how about you?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "яка температура?",
-   "ipa": "haʊ ɪz ðə ˈtɛmprəʧər?",
-   "spell": "how is the temperature?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я запізнююсь",
-   "ipa": "aɪ æm ˈrʌnɪŋ leɪt",
-   "spell": "I am running late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я біжу до автобуса",
-   "ipa": "aɪ æm ˈrʌnɪŋ tu ðə bʌs",
-   "spell": "I am running to the bus"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я приходжу сюди на роботу",
-   "ipa": "aɪ kʌm hir fɔr wɜrk",
-   "spell": "I come here for work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду літаком",
-   "ipa": "aɪ ɡoʊ baɪ ɛr",
-   "spell": "I go by air"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду човном",
-   "ipa": "aɪ ɡoʊ baɪ boʊt",
-   "spell": "I go by boat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду автобусом",
-   "ipa": "aɪ ɡoʊ baɪ bʌs",
-   "spell": "I go by bus"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду машиною",
-   "ipa": "aɪ ɡoʊ baɪ kɑr",
-   "spell": "I go by car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду суходолом",
-   "ipa": "aɪ ɡoʊ baɪ lænd",
-   "spell": "I go by land"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду літаком",
-   "ipa": "aɪ ɡoʊ baɪ pleɪn",
-   "spell": "I go by plane"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду морем",
-   "ipa": "aɪ ɡoʊ baɪ si",
-   "spell": "I go by sea"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я їду потягом",
-   "ipa": "aɪ ɡoʊ baɪ treɪn",
-   "spell": "I go by train"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я перестрибую через паркан",
-   "ipa": "aɪ ʤʌmp ˈoʊvər ðə fɛns",
-   "spell": "I jump over the fence"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я пропустив поворот",
-   "ipa": "aɪ mɪst ðə tɜrn",
-   "spell": "I missed the turn"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ніколи не читав це",
-   "ipa": "aɪ ˈnɛvər rid ɪt",
-   "spell": "I never read it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ніколи не їду впритул за іншими",
-   "ipa": "aɪ ˈnɛvər ˈteɪlˌɡeɪt ˈɛnibədi",
-   "spell": "I never tailgate anybody"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "іноді я це роблю",
-   "ipa": "aɪ səmˈtaɪmz du ɪt",
-   "spell": "I sometimes do it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "іноді я це їм",
-   "ipa": "aɪ səmˈtaɪmz it ɪt",
-   "spell": "I sometimes eat it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "іноді я це слухаю",
-   "ipa": "aɪ səmˈtaɪmz ˈlɪsən tu ɪt",
-   "spell": "I sometimes listen to it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "іноді я не повністю зупиняюсь на знаку зупинки",
-   "ipa": "aɪ səmˈtaɪmz roʊl θru ə stɑp saɪn",
-   "spell": "I sometimes roll through a stop sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "іноді я бігаю",
-   "ipa": "aɪ səmˈtaɪmz rʌn",
-   "spell": "I sometimes run"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "іноді я проїжджаю на червоне світло",
-   "ipa": "aɪ səmˈtaɪmz rʌn ə rɛd laɪt",
-   "spell": "I sometimes run a red light"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "іноді я розмовляю цим",
-   "ipa": "aɪ səmˈtaɪmz spik ɪt",
-   "spell": "I sometimes speak it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зупинився біля озера",
-   "ipa": "aɪ stɑpt nɪr ə leɪk",
-   "spell": "I stopped near a lake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зазвичай повністю зупиняюсь",
-   "ipa": "aɪ ˈjuʒəwəli kʌm tu ə kəmˈplit stɑp",
-   "spell": "I usually come to a complete stop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зазвичай їду швидше, ніж дозволено",
-   "ipa": "aɪ ˈjuʒəwəli draɪv ˈoʊvər ðə ˈlɪmət",
-   "spell": "I usually drive over the limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зазвичай перевищую швидкість",
-   "ipa": "aɪ ˈjuʒəwəli ɪkˈsid ðə spid ˈlɪmət",
-   "spell": "I usually exceed the speed limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зазвичай їду швидше",
-   "ipa": "aɪ ˈjuʒəwəli spid",
-   "spell": "I usually speed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зазвичай трохи перевищую швидкість на трасах",
-   "ipa": "aɪ ˈjuʒəwəli spid ə ˈlɪtəl ɑn ˈhaɪˌweɪz",
-   "spell": "I usually speed a little on highways"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я зазвичай це дивлюсь",
-   "ipa": "aɪ ˈjuʒəwəli wɑʧ ɪt",
-   "spell": "I usually watch it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я спробую",
-   "ipa": "aɪ wɪl traɪ",
-   "spell": "I will try"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у правильному порядку",
-   "ipa": "ɪn ðə kəˈrɛkt ˈɔrdər",
-   "spell": "in the correct order"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у вашому повсякденному житті",
-   "ipa": "ɪn jʊər ˈɛvəri deɪ laɪf",
-   "spell": "in your every day life"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "там красиво?",
-   "ipa": "ɪz ɪt ˈbjutəfəl ðɛr?",
-   "spell": "is it beautiful there?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це може бути відповіддю",
-   "ipa": "ɪt kæn bi ən ˈænsər",
-   "spell": "it can be an answer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це приємна літня температура",
-   "ipa": "ɪt ɪz ə naɪs ˈsʌmər ˈtɛmprəʧər",
-   "spell": "it is a nice summer temperature"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це небезпечно",
-   "ipa": "ɪt ɪz ˈdeɪnʤərəs",
-   "spell": "it is dangerous"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це нездорово",
-   "ipa": "ɪt ɪz nɑt ˈhɛlθi",
-   "spell": "it is not healthy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це не низько",
-   "ipa": "ɪt ɪz nɑt loʊ",
-   "spell": "it is not low"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це вже не двадцяте століття",
-   "ipa": "ɪt ɪz nɑt ðə ˈtwɛntiəθ ˈsɛnʧəri ˈɛni mɔr",
-   "spell": "it is not the twentieth century any more"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "воно котиться",
-   "ipa": "ɪt ɪz ˈroʊlɪŋ",
-   "spell": "it is rolling"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "воно таке товсте!",
-   "ipa": "ɪt ɪz soʊ θɪk!",
-   "spell": "it is so thick!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це правда про мене",
-   "ipa": "ɪt ɪz tru əˈbaʊt mi",
-   "spell": "it is true about me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це більше не повториться",
-   "ipa": "ɪt wɪl ˈnɛvər ˈhæpən əˈɡɛn",
-   "spell": "it will never happen again"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зробіть їх правдивими",
-   "ipa": "meɪk ðɛm tru",
-   "spell": "make them true"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зробіть їх правдивими про вас",
-   "ipa": "meɪk ðɛm tru əˈbaʊt ju",
-   "spell": "make them true about you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "моя провина",
-   "ipa": "maɪ fɔlt",
-   "spell": "my fault"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "n миль на годину",
-   "ipa": "ɛn maɪlz pɜr ˈaʊər",
-   "spell": "n miles per hour"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "біля озера",
-   "ipa": "nɪr ə leɪk",
-   "spell": "near a lake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "біля нас",
-   "ipa": "nɪr ʌs",
-   "spell": "near us"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ніколи не їдьте на червоне світло — це небезпечно",
-   "ipa": "ˈnɛvər draɪv θru ə rɛd laɪt — ɪts ˈdeɪnʤərəs",
-   "spell": "never drive through a red light — it's dangerous"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не обов'язково",
-   "ipa": "nɑt ˌnɛsəˈsɛrəli",
-   "spell": "not necessarily"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у метро",
-   "ipa": "ɑn ðə ˈsʌˌbweɪ",
-   "spell": "on the subway"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на вихідних",
-   "ipa": "ɑn ˈwiˌkɛndz",
-   "spell": "on weekends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "інші місця",
-   "ipa": "ˈʌðər ˈpleɪsəz",
-   "spell": "other places"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поза класом",
-   "ipa": "ˈaʊtˈsaɪd klæs",
-   "spell": "outside class"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "над знаком",
-   "ipa": "ˈoʊvər ə saɪn",
-   "spell": "over a sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "через паркан",
-   "ipa": "ˈoʊvər ðə fɛns",
-   "spell": "over the fence"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "через ворота",
-   "ipa": "ˈoʊvər ðə ɡeɪt",
-   "spell": "over the gate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пам'ятайте повністю зупинятись на кожному знаку зупинки",
-   "ipa": "rɪˈmɛmbər tu kʌm tu ə kəmˈplit stɑp æt ˈɛvəri stɑp saɪn",
-   "spell": "remember to come to a complete stop at every stop sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я так само",
-   "ipa": "seɪm hir",
-   "spell": "same here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їй виписали штраф за перевищення швидкості",
-   "ipa": "ʃi wʌz faɪnd fɔr ˈspidɪŋ",
-   "spell": "she was fined for speeding"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "речі, крам, майно",
-   "ipa": "stʌf",
-   "spell": "stuff"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "автомобіль котиться",
-   "ipa": "ðə kɑr ɪz ˈroʊlɪŋ",
-   "spell": "the car is rolling"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тут вісім речень",
-   "ipa": "ðɛr ɑr eɪt ˈsɛntənsəz hir",
-   "spell": "there are eight sentences here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "біля нас є інші гарні місця",
-   "ipa": "ðɛr ɑr ˈʌðər ˈbjutəfəl ˈpleɪsəz nɪr ʌs",
-   "spell": "there are other beautiful places near us"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони вас спіймають",
-   "ipa": "ðeɪ wɪl kæʧ ju",
-   "spell": "they will catch you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "речі навколо будинку",
-   "ipa": "θɪŋz əˈraʊnd ðə haʊs",
-   "spell": "things around the house"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "крізь паркан",
-   "ipa": "θru ðə fɛns",
-   "spell": "through the fence"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "крізь ворота",
-   "ipa": "θru ðə ɡeɪt",
-   "spell": "through the gate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "відповідати",
-   "ipa": "tu ˈænsər",
-   "spell": "to answer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "спіймати мене",
-   "ipa": "tu kæʧ mi",
-   "spell": "to catch me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "закрити",
-   "ipa": "tu kloʊs",
-   "spell": "to close "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "закрити це",
-   "ipa": "tu kloʊs ɪt",
-   "spell": "to close it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "повністю зупинитись на знаку зупинки",
-   "ipa": "tu kʌm tu ə kəmˈplit stɑp æt ðə stɑp saɪn",
-   "spell": "to come to a complete stop at the stop sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зупинитись",
-   "ipa": "tu kʌm tu ə stɑp",
-   "spell": "to come to a stop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "робити домашню роботу",
-   "ipa": "tu du ˈhaʊˌswɜrk",
-   "spell": "to do housework"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їхати небезпечно близько за іншим автомобілем",
-   "ipa": "tu draɪv ˈdeɪnʤərəsli kloʊs bɪˈhaɪnd əˈnʌðər ˈvihɪkəl",
-   "spell": "to drive dangerously close behind another vehicle"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їхати швидше, ніж дозволено",
-   "ipa": "tu draɪv ˈoʊvər ðə ˈlɪmət",
-   "spell": "to drive over the limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "перевищити обмеження",
-   "ipa": "tu ɪkˈsid ðə ˈlɪmət",
-   "spell": "to exceed the limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "перевищити швидкість",
-   "ipa": "tu ɪkˈsid ðə spid ˈlɪmət",
-   "spell": "to exceed the speed limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не поступитись дорогою",
-   "ipa": "tu feɪl tu jild",
-   "spell": "to fail to yield"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "перестрибнути через паркан",
-   "ipa": "tu ɡoʊ ˈoʊvər ðə fɛns",
-   "spell": "to go over the fence"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "пройти крізь паркан",
-   "ipa": "tu ɡoʊ θru ðə fɛns",
-   "spell": "to go through the fence"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стрибати",
-   "ipa": "tu ʤʌmp",
-   "spell": "to jump"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "відпочивати",
-   "ipa": "tu rɛst",
-   "spell": "to rest"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "гойдати",
-   "ipa": "tu rɑk",
-   "spell": "to rock"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "котити",
-   "ipa": "tu roʊl",
-   "spell": "to roll"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проїжджати без повної зупинки",
-   "ipa": "tu roʊl θru",
-   "spell": "to roll through"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проїжджати знак зупинки без повної зупинки",
-   "ipa": "tu roʊl θru ə stɑp saɪn",
-   "spell": "to roll through a stop sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бігти",
-   "ipa": "tu rʌn",
-   "spell": "to run"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проїжджати на червоне світло",
-   "ipa": "tu rʌn ə rɛd laɪt",
-   "spell": "to run a red light"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "запізнюватись",
-   "ipa": "tu rʌn leɪt",
-   "spell": "to run late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їхати швидше",
-   "ipa": "tu spid",
-   "spell": "to speed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їхати впритул за іншим автомобілем",
-   "ipa": "tu ˈteɪlˌɡeɪt əˈnʌðər kɑr",
-   "spell": "to tailgate another car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "занадто близько",
-   "ipa": "tu kloʊs",
-   "spell": "too close"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "занадто уважно",
-   "ipa": "tu ˈkloʊsli",
-   "spell": "too closely"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "незліченний",
-   "ipa": "ʌnˈkaʊntəbəl",
-   "spell": "uncountable"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дуже комфортно",
-   "ipa": "ˈvɛri ˈkʌmfərtəbəl",
-   "spell": "very comfortable"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що відбувається першим?",
-   "ipa": "wɑt ˈhæpənz fɜrst?",
-   "spell": "what happens first?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що відбувається далі?",
-   "ipa": "wɑt ˈhæpənz nɛkst?",
-   "spell": "what happens next?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви не зупиняєтесь повністю",
-   "ipa": "ju du nɑt ˈstɑpɪŋ kəmˈplitli",
-   "spell": "you do not stopping completely"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вам не холодно",
-   "ipa": "ju doʊnt ɡɛt koʊld",
-   "spell": "you don't get cold"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вам не спекотно",
-   "ipa": "ju doʊnt ɡɛt hɑt",
-   "spell": "you don't get hot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви перевищили швидкість",
-   "ipa": "ju ɪkˈsidɪd ðə spid ˈlɪmət",
-   "spell": "you exceeded the speed limit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви перевищили швидкість на 20 миль/год",
-   "ipa": "ju ɪkˈsidɪd ðə spid ˈlɪmət baɪ 20 ˈɛmˈpiˈeɪʧ",
-   "spell": "you exceeded the speed limit by 20 mph"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви йдете за мною",
-   "ipa": "ju ˈfɑloʊ mi",
-   "spell": "you follow me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви йдете за мною близько",
-   "ipa": "ju ˈfɑloʊ mi ˈkloʊsli",
-   "spell": "you follow me closely"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви йдете за мною надто близько",
-   "ipa": "ju ˈfɑloʊ mi tu ˈkloʊsli",
-   "spell": "you follow me too closely"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви повинні повністю зупинитись на знаку зупинки",
-   "ipa": "ju mʌst kʌm tu ə kəmˈplit stɑp æt ðə stɑp saɪn",
-   "spell": "you must come to a complete stop at the stop sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви проїхали знак зупинки без повної зупинки",
-   "ipa": "ju roʊld θru ðæt stɑp saɪn",
-   "spell": "you rolled through that stop sign"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вам інкримінують проїзд на червоне світло та перевищення швидкості на 15 миль/год",
-   "ipa": "jʊr ʧɑrʤd wɪð ˈrʌnɪŋ ə rɛd laɪt ænd ɪkˈsidɪŋ ðə spid ˈlɪmət baɪ 15 ˈɛmˈpiˈeɪʧ",
-   "spell": "you're charged with running a red light and exceeding the speed limit by 15 mph"
- }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 45,
+  "date": "2025-06-27",
+  "words": [
+    {
+      "def1": "комфортна температура",
+      "ipa": "ə ˈkʌmfərtəbəl ˈtɛmprəʧər",
+      "spell": "a comfortable temperature"
+    },
+    {
+      "def1": "повна зупинка",
+      "ipa": "ə kəmˈplit stɑp",
+      "spell": "a complete stop"
+    },
+    {
+      "def1": "фіктивне слово",
+      "ipa": "ə ˈdʌmi wɜrd",
+      "spell": "a dummy word"
+    },
+    {
+      "def1": "помічник",
+      "ipa": "ə ˈhɛlpər",
+      "spell": "a helper"
+    },
+    {
+      "def1": "озеро",
+      "ipa": "ə leɪk",
+      "spell": "a lake"
+    },
+    {
+      "def1": "обмеження",
+      "ipa": "ə ˈlɪmət",
+      "spell": "a limit"
+    },
+    {
+      "def1": "фразове дієслово",
+      "ipa": "ə ˈfɹeɪzəl vɜrb",
+      "spell": "a phrasal verb"
+    },
+    {
+      "def1": "позитивне речення",
+      "ipa": "ə ˈpɑzətɪv ˈsɛntəns",
+      "spell": "a positive sentence"
+    },
+    {
+      "def1": "знак",
+      "ipa": "ə saɪn",
+      "spell": "a sign"
+    },
+    {
+      "def1": "обмеження швидкості",
+      "ipa": "ə spid ˈlɪmət",
+      "spell": "a speed limit"
+    },
+    {
+      "def1": "пастка швидкості",
+      "ipa": "ə spid træp",
+      "spell": "a speed trap"
+    },
+    {
+      "def1": "зупинка",
+      "ipa": "ə stɑp",
+      "spell": "a stop"
+    },
+    {
+      "def1": "знак зупинки",
+      "ipa": "ə stɑp saɪn",
+      "spell": "a stop sign"
+    },
+    {
+      "def1": "гід",
+      "ipa": "ə tʊr ɡaɪd",
+      "spell": "a tour guide"
+    },
+    {
+      "def1": "звичайний день",
+      "ipa": "ə ˈtɪpəkəl deɪ",
+      "spell": "a typical day"
+    },
+    {
+      "def1": "щодо мене",
+      "ipa": "æz fɔr mi",
+      "spell": "as for me"
+    },
+    {
+      "def1": "близький",
+      "ipa": "kloʊs",
+      "spell": "close"
+    },
+    {
+      "def1": "уважно",
+      "ipa": "ˈkloʊsli",
+      "spell": "closely "
+    },
+    {
+      "def1": "одяг",
+      "ipa": "kloʊðz",
+      "spell": "clothes "
+    },
+    {
+      "def1": "приходьте пізніше",
+      "ipa": "kʌm ˈleɪtər",
+      "spell": "come later"
+    },
+    {
+      "def1": "повний",
+      "ipa": "kəmˈplit",
+      "spell": "complete"
+    },
+    {
+      "def1": "небезпечний",
+      "ipa": "ˈdeɪnʤərəs",
+      "spell": "dangerous"
+    },
+    {
+      "def1": "небезпечно близько",
+      "ipa": "ˈdeɪnʤərəsli kloʊs",
+      "spell": "dangerously close"
+    },
+    {
+      "def1": "ви знаєте, чому я вас зупинив?",
+      "ipa": "du ju noʊ waɪ aɪ pʊld ju ˈoʊvər?",
+      "spell": "do you know why I pulled you over?"
+    },
+    {
+      "def1": "ви зазвичай ходите туди на вихідних?",
+      "ipa": "du ju ˈjuʒəwəli ɡoʊ ðɛr ɑn ˈwiˌkɛndz?",
+      "spell": "do you usually go there on weekends?"
+    },
+    {
+      "def1": "ви зазвичай ходите в це місце?",
+      "ipa": "du ju ˈjuʒəwəli tu ðɪs pleɪs?",
+      "spell": "do you usually to this place?"
+    },
+    {
+      "def1": "не йдіть за мною",
+      "ipa": "doʊnt ˈfɑloʊ mi",
+      "spell": "don't follow me"
+    },
+    {
+      "def1": "не йдіть за мною близько",
+      "ipa": "doʊnt ˈfɑloʊ mi ˈkloʊsli",
+      "spell": "don't follow me closely"
+    },
+    {
+      "def1": "не йдіть за мною надто близько",
+      "ipa": "doʊnt ˈfɑloʊ mi tu ˈkloʊsli",
+      "spell": "don't follow me too closely"
+    },
+    {
+      "def1": "не дозволяйте їм вас спіймати",
+      "ipa": "doʊnt lɛt ðɛm kæʧ ju",
+      "spell": "don't let them catch you"
+    },
+    {
+      "def1": "не дозволяйте їм спіймати вас на перевищенні швидкості",
+      "ipa": "doʊnt lɛt ðɛm kæʧ ju ˈspidɪŋ",
+      "spell": "don't let them catch you speeding"
+    },
+    {
+      "def1": "не проїжджайте на червоне світло",
+      "ipa": "doʊnt rʌn rɛd laɪts",
+      "spell": "don't run red lights"
+    },
+    {
+      "def1": "не їдьте за мною впритул",
+      "ipa": "doʊnt ˈteɪlˌɡeɪt mi",
+      "spell": "don't tailgate me"
+    },
+    {
+      "def1": "неповна зупинка на знаках зупинки викликає аварії",
+      "ipa": "ˈfeɪlɪŋ tu stɑp kəmˈplitli æt stɑp saɪnz ˈkɑzəz ˈæksədənts",
+      "spell": "failing to stop completely at stop signs causes accidents"
+    },
+    {
+      "def1": "фастфуд",
+      "ipa": "fæst fud",
+      "spell": "fast food"
+    },
+    {
+      "def1": "за перевищення швидкості",
+      "ipa": "fɔr ˈspidɪŋ",
+      "spell": "for speeding"
+    },
+    {
+      "def1": "він перевищив швидкість на 20 миль/год",
+      "ipa": "hi ɪkˈsidɪd ðə spid ˈlɪmət baɪ 20 ˈɛmˈpiˈeɪʧ",
+      "spell": "he exceeded the speed limit by 20 mph"
+    },
+    {
+      "def1": "він отримав штраф за проїзд на червоне світло",
+      "ipa": "hi ɡɑt ə ˈtɪkət fɔr ˈrʌnɪŋ ə rɛd laɪt",
+      "spell": "he got a ticket for running a red light"
+    },
+    {
+      "def1": "він вдома",
+      "ipa": "hi ɪz æt hoʊm",
+      "spell": "he is at home"
+    },
+    {
+      "def1": "він на роботі",
+      "ipa": "hi ɪz æt wɜrk",
+      "spell": "he is at work"
+    },
+    {
+      "def1": "він запізнюється",
+      "ipa": "hi ɪz leɪt",
+      "spell": "he is late"
+    },
+    {
+      "def1": "а ви?",
+      "ipa": "haʊ əˈbaʊt ju?",
+      "spell": "how about you?"
+    },
+    {
+      "def1": "яка температура?",
+      "ipa": "haʊ ɪz ðə ˈtɛmprəʧər?",
+      "spell": "how is the temperature?"
+    },
+    {
+      "def1": "я запізнююсь",
+      "ipa": "aɪ æm ˈrʌnɪŋ leɪt",
+      "spell": "I am running late"
+    },
+    {
+      "def1": "я біжу до автобуса",
+      "ipa": "aɪ æm ˈrʌnɪŋ tu ðə bʌs",
+      "spell": "I am running to the bus"
+    },
+    {
+      "def1": "я приходжу сюди на роботу",
+      "ipa": "aɪ kʌm hir fɔr wɜrk",
+      "spell": "I come here for work"
+    },
+    {
+      "def1": "я їду літаком",
+      "ipa": "aɪ ɡoʊ baɪ ɛr",
+      "spell": "I go by air"
+    },
+    {
+      "def1": "я їду човном",
+      "ipa": "aɪ ɡoʊ baɪ boʊt",
+      "spell": "I go by boat"
+    },
+    {
+      "def1": "я їду автобусом",
+      "ipa": "aɪ ɡoʊ baɪ bʌs",
+      "spell": "I go by bus"
+    },
+    {
+      "def1": "я їду машиною",
+      "ipa": "aɪ ɡoʊ baɪ kɑr",
+      "spell": "I go by car"
+    },
+    {
+      "def1": "я їду суходолом",
+      "ipa": "aɪ ɡoʊ baɪ lænd",
+      "spell": "I go by land"
+    },
+    {
+      "def1": "я їду літаком",
+      "ipa": "aɪ ɡoʊ baɪ pleɪn",
+      "spell": "I go by plane"
+    },
+    {
+      "def1": "я їду морем",
+      "ipa": "aɪ ɡoʊ baɪ si",
+      "spell": "I go by sea"
+    },
+    {
+      "def1": "я їду потягом",
+      "ipa": "aɪ ɡoʊ baɪ treɪn",
+      "spell": "I go by train"
+    },
+    {
+      "def1": "я перестрибую через паркан",
+      "ipa": "aɪ ʤʌmp ˈoʊvər ðə fɛns",
+      "spell": "I jump over the fence"
+    },
+    {
+      "def1": "я пропустив поворот",
+      "ipa": "aɪ mɪst ðə tɜrn",
+      "spell": "I missed the turn"
+    },
+    {
+      "def1": "я ніколи не читав це",
+      "ipa": "aɪ ˈnɛvər rid ɪt",
+      "spell": "I never read it"
+    },
+    {
+      "def1": "я ніколи не їду впритул за іншими",
+      "ipa": "aɪ ˈnɛvər ˈteɪlˌɡeɪt ˈɛnibədi",
+      "spell": "I never tailgate anybody"
+    },
+    {
+      "def1": "іноді я це роблю",
+      "ipa": "aɪ səmˈtaɪmz du ɪt",
+      "spell": "I sometimes do it"
+    },
+    {
+      "def1": "іноді я це їм",
+      "ipa": "aɪ səmˈtaɪmz it ɪt",
+      "spell": "I sometimes eat it"
+    },
+    {
+      "def1": "іноді я це слухаю",
+      "ipa": "aɪ səmˈtaɪmz ˈlɪsən tu ɪt",
+      "spell": "I sometimes listen to it"
+    },
+    {
+      "def1": "іноді я не повністю зупиняюсь на знаку зупинки",
+      "ipa": "aɪ səmˈtaɪmz roʊl θru ə stɑp saɪn",
+      "spell": "I sometimes roll through a stop sign"
+    },
+    {
+      "def1": "іноді я бігаю",
+      "ipa": "aɪ səmˈtaɪmz rʌn",
+      "spell": "I sometimes run"
+    },
+    {
+      "def1": "іноді я проїжджаю на червоне світло",
+      "ipa": "aɪ səmˈtaɪmz rʌn ə rɛd laɪt",
+      "spell": "I sometimes run a red light"
+    },
+    {
+      "def1": "іноді я розмовляю цим",
+      "ipa": "aɪ səmˈtaɪmz spik ɪt",
+      "spell": "I sometimes speak it"
+    },
+    {
+      "def1": "я зупинився біля озера",
+      "ipa": "aɪ stɑpt nɪr ə leɪk",
+      "spell": "I stopped near a lake"
+    },
+    {
+      "def1": "я зазвичай повністю зупиняюсь",
+      "ipa": "aɪ ˈjuʒəwəli kʌm tu ə kəmˈplit stɑp",
+      "spell": "I usually come to a complete stop"
+    },
+    {
+      "def1": "я зазвичай їду швидше, ніж дозволено",
+      "ipa": "aɪ ˈjuʒəwəli draɪv ˈoʊvər ðə ˈlɪmət",
+      "spell": "I usually drive over the limit"
+    },
+    {
+      "def1": "я зазвичай перевищую швидкість",
+      "ipa": "aɪ ˈjuʒəwəli ɪkˈsid ðə spid ˈlɪmət",
+      "spell": "I usually exceed the speed limit"
+    },
+    {
+      "def1": "я зазвичай їду швидше",
+      "ipa": "aɪ ˈjuʒəwəli spid",
+      "spell": "I usually speed"
+    },
+    {
+      "def1": "я зазвичай трохи перевищую швидкість на трасах",
+      "ipa": "aɪ ˈjuʒəwəli spid ə ˈlɪtəl ɑn ˈhaɪˌweɪz",
+      "spell": "I usually speed a little on highways"
+    },
+    {
+      "def1": "я зазвичай це дивлюсь",
+      "ipa": "aɪ ˈjuʒəwəli wɑʧ ɪt",
+      "spell": "I usually watch it"
+    },
+    {
+      "def1": "я спробую",
+      "ipa": "aɪ wɪl traɪ",
+      "spell": "I will try"
+    },
+    {
+      "def1": "у правильному порядку",
+      "ipa": "ɪn ðə kəˈrɛkt ˈɔrdər",
+      "spell": "in the correct order"
+    },
+    {
+      "def1": "у вашому повсякденному житті",
+      "ipa": "ɪn jʊər ˈɛvəri deɪ laɪf",
+      "spell": "in your every day life"
+    },
+    {
+      "def1": "там красиво?",
+      "ipa": "ɪz ɪt ˈbjutəfəl ðɛr?",
+      "spell": "is it beautiful there?"
+    },
+    {
+      "def1": "це може бути відповіддю",
+      "ipa": "ɪt kæn bi ən ˈænsər",
+      "spell": "it can be an answer"
+    },
+    {
+      "def1": "це приємна літня температура",
+      "ipa": "ɪt ɪz ə naɪs ˈsʌmər ˈtɛmprəʧər",
+      "spell": "it is a nice summer temperature"
+    },
+    {
+      "def1": "це небезпечно",
+      "ipa": "ɪt ɪz ˈdeɪnʤərəs",
+      "spell": "it is dangerous"
+    },
+    {
+      "def1": "це нездорово",
+      "ipa": "ɪt ɪz nɑt ˈhɛlθi",
+      "spell": "it is not healthy"
+    },
+    {
+      "def1": "це не низько",
+      "ipa": "ɪt ɪz nɑt loʊ",
+      "spell": "it is not low"
+    },
+    {
+      "def1": "це вже не двадцяте століття",
+      "ipa": "ɪt ɪz nɑt ðə ˈtwɛntiəθ ˈsɛnʧəri ˈɛni mɔr",
+      "spell": "it is not the twentieth century any more"
+    },
+    {
+      "def1": "воно котиться",
+      "ipa": "ɪt ɪz ˈroʊlɪŋ",
+      "spell": "it is rolling"
+    },
+    {
+      "def1": "воно таке товсте!",
+      "ipa": "ɪt ɪz soʊ θɪk!",
+      "spell": "it is so thick!"
+    },
+    {
+      "def1": "це правда про мене",
+      "ipa": "ɪt ɪz tru əˈbaʊt mi",
+      "spell": "it is true about me"
+    },
+    {
+      "def1": "це більше не повториться",
+      "ipa": "ɪt wɪl ˈnɛvər ˈhæpən əˈɡɛn",
+      "spell": "it will never happen again"
+    },
+    {
+      "def1": "зробіть їх правдивими",
+      "ipa": "meɪk ðɛm tru",
+      "spell": "make them true"
+    },
+    {
+      "def1": "зробіть їх правдивими про вас",
+      "ipa": "meɪk ðɛm tru əˈbaʊt ju",
+      "spell": "make them true about you"
+    },
+    {
+      "def1": "моя провина",
+      "ipa": "maɪ fɔlt",
+      "spell": "my fault"
+    },
+    {
+      "def1": "n миль на годину",
+      "ipa": "ɛn maɪlz pɜr ˈaʊər",
+      "spell": "n miles per hour"
+    },
+    {
+      "def1": "біля озера",
+      "ipa": "nɪr ə leɪk",
+      "spell": "near a lake"
+    },
+    {
+      "def1": "біля нас",
+      "ipa": "nɪr ʌs",
+      "spell": "near us"
+    },
+    {
+      "def1": "ніколи не їдьте на червоне світло — це небезпечно",
+      "ipa": "ˈnɛvər draɪv θru ə rɛd laɪt — ɪts ˈdeɪnʤərəs",
+      "spell": "never drive through a red light — it's dangerous"
+    },
+    {
+      "def1": "не обов'язково",
+      "ipa": "nɑt ˌnɛsəˈsɛrəli",
+      "spell": "not necessarily"
+    },
+    {
+      "def1": "у метро",
+      "ipa": "ɑn ðə ˈsʌˌbweɪ",
+      "spell": "on the subway"
+    },
+    {
+      "def1": "на вихідних",
+      "ipa": "ɑn ˈwiˌkɛndz",
+      "spell": "on weekends"
+    },
+    {
+      "def1": "інші місця",
+      "ipa": "ˈʌðər ˈpleɪsəz",
+      "spell": "other places"
+    },
+    {
+      "def1": "поза класом",
+      "ipa": "ˈaʊtˈsaɪd klæs",
+      "spell": "outside class"
+    },
+    {
+      "def1": "над знаком",
+      "ipa": "ˈoʊvər ə saɪn",
+      "spell": "over a sign"
+    },
+    {
+      "def1": "через паркан",
+      "ipa": "ˈoʊvər ðə fɛns",
+      "spell": "over the fence"
+    },
+    {
+      "def1": "через ворота",
+      "ipa": "ˈoʊvər ðə ɡeɪt",
+      "spell": "over the gate"
+    },
+    {
+      "def1": "пам'ятайте повністю зупинятись на кожному знаку зупинки",
+      "ipa": "rɪˈmɛmbər tu kʌm tu ə kəmˈplit stɑp æt ˈɛvəri stɑp saɪn",
+      "spell": "remember to come to a complete stop at every stop sign"
+    },
+    {
+      "def1": "я так само",
+      "ipa": "seɪm hir",
+      "spell": "same here"
+    },
+    {
+      "def1": "їй виписали штраф за перевищення швидкості",
+      "ipa": "ʃi wʌz faɪnd fɔr ˈspidɪŋ",
+      "spell": "she was fined for speeding"
+    },
+    {
+      "def1": "речі, крам, майно",
+      "ipa": "stʌf",
+      "spell": "stuff"
+    },
+    {
+      "def1": "автомобіль котиться",
+      "ipa": "ðə kɑr ɪz ˈroʊlɪŋ",
+      "spell": "the car is rolling"
+    },
+    {
+      "def1": "тут вісім речень",
+      "ipa": "ðɛr ɑr eɪt ˈsɛntənsəz hir",
+      "spell": "there are eight sentences here"
+    },
+    {
+      "def1": "біля нас є інші гарні місця",
+      "ipa": "ðɛr ɑr ˈʌðər ˈbjutəfəl ˈpleɪsəz nɪr ʌs",
+      "spell": "there are other beautiful places near us"
+    },
+    {
+      "def1": "вони вас спіймають",
+      "ipa": "ðeɪ wɪl kæʧ ju",
+      "spell": "they will catch you"
+    },
+    {
+      "def1": "речі навколо будинку",
+      "ipa": "θɪŋz əˈraʊnd ðə haʊs",
+      "spell": "things around the house"
+    },
+    {
+      "def1": "крізь паркан",
+      "ipa": "θru ðə fɛns",
+      "spell": "through the fence"
+    },
+    {
+      "def1": "крізь ворота",
+      "ipa": "θru ðə ɡeɪt",
+      "spell": "through the gate"
+    },
+    {
+      "def1": "відповідати",
+      "ipa": "tu ˈænsər",
+      "spell": "to answer"
+    },
+    {
+      "def1": "спіймати мене",
+      "ipa": "tu kæʧ mi",
+      "spell": "to catch me"
+    },
+    {
+      "def1": "закрити",
+      "ipa": "tu kloʊs",
+      "spell": "to close "
+    },
+    {
+      "def1": "закрити це",
+      "ipa": "tu kloʊs ɪt",
+      "spell": "to close it"
+    },
+    {
+      "def1": "повністю зупинитись на знаку зупинки",
+      "ipa": "tu kʌm tu ə kəmˈplit stɑp æt ðə stɑp saɪn",
+      "spell": "to come to a complete stop at the stop sign"
+    },
+    {
+      "def1": "зупинитись",
+      "ipa": "tu kʌm tu ə stɑp",
+      "spell": "to come to a stop"
+    },
+    {
+      "def1": "робити домашню роботу",
+      "ipa": "tu du ˈhaʊˌswɜrk",
+      "spell": "to do housework"
+    },
+    {
+      "def1": "їхати небезпечно близько за іншим автомобілем",
+      "ipa": "tu draɪv ˈdeɪnʤərəsli kloʊs bɪˈhaɪnd əˈnʌðər ˈvihɪkəl",
+      "spell": "to drive dangerously close behind another vehicle"
+    },
+    {
+      "def1": "їхати швидше, ніж дозволено",
+      "ipa": "tu draɪv ˈoʊvər ðə ˈlɪmət",
+      "spell": "to drive over the limit"
+    },
+    {
+      "def1": "перевищити обмеження",
+      "ipa": "tu ɪkˈsid ðə ˈlɪmət",
+      "spell": "to exceed the limit"
+    },
+    {
+      "def1": "перевищити швидкість",
+      "ipa": "tu ɪkˈsid ðə spid ˈlɪmət",
+      "spell": "to exceed the speed limit"
+    },
+    {
+      "def1": "не поступитись дорогою",
+      "ipa": "tu feɪl tu jild",
+      "spell": "to fail to yield"
+    },
+    {
+      "def1": "перестрибнути через паркан",
+      "ipa": "tu ɡoʊ ˈoʊvər ðə fɛns",
+      "spell": "to go over the fence"
+    },
+    {
+      "def1": "пройти крізь паркан",
+      "ipa": "tu ɡoʊ θru ðə fɛns",
+      "spell": "to go through the fence"
+    },
+    {
+      "def1": "стрибати",
+      "ipa": "tu ʤʌmp",
+      "spell": "to jump"
+    },
+    {
+      "def1": "відпочивати",
+      "ipa": "tu rɛst",
+      "spell": "to rest"
+    },
+    {
+      "def1": "гойдати",
+      "ipa": "tu rɑk",
+      "spell": "to rock"
+    },
+    {
+      "def1": "котити",
+      "ipa": "tu roʊl",
+      "spell": "to roll"
+    },
+    {
+      "def1": "проїжджати без повної зупинки",
+      "ipa": "tu roʊl θru",
+      "spell": "to roll through"
+    },
+    {
+      "def1": "проїжджати знак зупинки без повної зупинки",
+      "ipa": "tu roʊl θru ə stɑp saɪn",
+      "spell": "to roll through a stop sign"
+    },
+    {
+      "def1": "бігти",
+      "ipa": "tu rʌn",
+      "spell": "to run"
+    },
+    {
+      "def1": "проїжджати на червоне світло",
+      "ipa": "tu rʌn ə rɛd laɪt",
+      "spell": "to run a red light"
+    },
+    {
+      "def1": "запізнюватись",
+      "ipa": "tu rʌn leɪt",
+      "spell": "to run late"
+    },
+    {
+      "def1": "їхати швидше",
+      "ipa": "tu spid",
+      "spell": "to speed"
+    },
+    {
+      "def1": "їхати впритул за іншим автомобілем",
+      "ipa": "tu ˈteɪlˌɡeɪt əˈnʌðər kɑr",
+      "spell": "to tailgate another car"
+    },
+    {
+      "def1": "занадто близько",
+      "ipa": "tu kloʊs",
+      "spell": "too close"
+    },
+    {
+      "def1": "занадто уважно",
+      "ipa": "tu ˈkloʊsli",
+      "spell": "too closely"
+    },
+    {
+      "def1": "незліченний",
+      "ipa": "ʌnˈkaʊntəbəl",
+      "spell": "uncountable"
+    },
+    {
+      "def1": "дуже комфортно",
+      "ipa": "ˈvɛri ˈkʌmfərtəbəl",
+      "spell": "very comfortable"
+    },
+    {
+      "def1": "що відбувається першим?",
+      "ipa": "wɑt ˈhæpənz fɜrst?",
+      "spell": "what happens first?"
+    },
+    {
+      "def1": "що відбувається далі?",
+      "ipa": "wɑt ˈhæpənz nɛkst?",
+      "spell": "what happens next?"
+    },
+    {
+      "def1": "ви не зупиняєтесь повністю",
+      "ipa": "ju du nɑt ˈstɑpɪŋ kəmˈplitli",
+      "spell": "you do not stopping completely"
+    },
+    {
+      "def1": "вам не холодно",
+      "ipa": "ju doʊnt ɡɛt koʊld",
+      "spell": "you don't get cold"
+    },
+    {
+      "def1": "вам не спекотно",
+      "ipa": "ju doʊnt ɡɛt hɑt",
+      "spell": "you don't get hot"
+    },
+    {
+      "def1": "ви перевищили швидкість",
+      "ipa": "ju ɪkˈsidɪd ðə spid ˈlɪmət",
+      "spell": "you exceeded the speed limit"
+    },
+    {
+      "def1": "ви перевищили швидкість на 20 миль/год",
+      "ipa": "ju ɪkˈsidɪd ðə spid ˈlɪmət baɪ 20 ˈɛmˈpiˈeɪʧ",
+      "spell": "you exceeded the speed limit by 20 mph"
+    },
+    {
+      "def1": "ви йдете за мною",
+      "ipa": "ju ˈfɑloʊ mi",
+      "spell": "you follow me"
+    },
+    {
+      "def1": "ви йдете за мною близько",
+      "ipa": "ju ˈfɑloʊ mi ˈkloʊsli",
+      "spell": "you follow me closely"
+    },
+    {
+      "def1": "ви йдете за мною надто близько",
+      "ipa": "ju ˈfɑloʊ mi tu ˈkloʊsli",
+      "spell": "you follow me too closely"
+    },
+    {
+      "def1": "ви повинні повністю зупинитись на знаку зупинки",
+      "ipa": "ju mʌst kʌm tu ə kəmˈplit stɑp æt ðə stɑp saɪn",
+      "spell": "you must come to a complete stop at the stop sign"
+    },
+    {
+      "def1": "ви проїхали знак зупинки без повної зупинки",
+      "ipa": "ju roʊld θru ðæt stɑp saɪn",
+      "spell": "you rolled through that stop sign"
+    },
+    {
+      "def1": "вам інкримінують проїзд на червоне світло та перевищення швидкості на 15 миль/год",
+      "ipa": "jʊr ʧɑrʤd wɪð ˈrʌnɪŋ ə rɛd laɪt ænd ɪkˈsidɪŋ ðə spid ˈlɪmət baɪ 15 ˈɛmˈpiˈeɪʧ",
+      "spell": "you're charged with running a red light and exceeding the speed limit by 15 mph"
+    }
+  ]
+}
