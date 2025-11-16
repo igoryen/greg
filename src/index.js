@@ -97,7 +97,6 @@ import Grm01 from "./pages/grm/Grm01";
 import Grm02 from "./pages/grm/Grm02";
 
 import IK from "./pages/ik/IK";
-import IK02 from "./pages/ik/IK02";
 import IK13 from "./pages/ik/IK13";
 import IK14 from "./pages/ik/IK14";
 import IK15 from "./pages/ik/IK15";
@@ -400,7 +399,6 @@ export default function App() {
           <Route path="grm02" element={<Grm02 />} />
 
           <Route path="ik" element={<IK />} />
-          <Route path="ik02" element={<IK02 />} />
           <Route path="ik13" element={<IK13 />} />
           <Route path="ik14" element={<IK14 />} />
           <Route path="ik15" element={<IK15 />} />

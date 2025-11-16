@@ -1,653 +1,660 @@
-[
-  {
-    "cefr": "",
-    "def2": "apostrophus",
-    "def1": "апостроф",
-    "ipa": "ən əˈpɑstrəfi",
-    "spell": "an apostrophe"
-  },
-  {
-    "cefr": "",
-    "def2": "audi et repete",
-    "def1": "слушай и повторяй",
-    "ipa": "ˈlɪsən ænd rɪˈpit",
-    "spell": "listen and repeat"
-  },
-  {
-    "cefr": "",
-    "def2": "audire",
-    "def1": "слушать его",
-    "ipa": "tu ˈlɪsən tu ɪt",
-    "spell": "to listen to it"
-  },
-  {
-    "cefr": "",
-    "def2": "aut",
-    "def1": "или",
-    "ipa": "ɔr",
-    "spell": "or"
-  },
-  {
-    "cefr": "",
-    "def2": "bene",
-    "def1": "хорошо! есть! идёт!",
-    "ipa": "ˈoʊˈkeɪ",
-    "spell": "OK"
-  },
-  {
-    "cefr": "",
-    "def2": "contractio",
-    "def1": "сокращение, стяжение",
-    "ipa": "ə kənˈtrækʃən",
-    "spell": "a contraction"
-  },
-  {
-    "cefr": "",
-    "def2": "currere",
-    "def1": "бежать",
-    "ipa": "tu rʌn",
-    "spell": "to run"
-  },
-  {
-    "cefr": "",
-    "def2": "currite",
-    "def1": "бегите",
-    "ipa": "rʌn, pliz",
-    "spell": "run, please"
-  },
-  {
-    "cefr": "",
-    "def2": "Diana",
-    "def1": "Диана",
-    "ipa": "daɪˈænə",
-    "spell": "Diana"
-  },
-  {
-    "cefr": "",
-    "def2": "dicere",
-    "def1": "сказать",
-    "ipa": "tu seɪ",
-    "spell": "to say"
-  },
-  {
-    "cefr": "",
-    "def2": "dicere possum",
-    "def1": "я могу сказать",
-    "ipa": "aɪ kæn seɪ",
-    "spell": "I can say"
-  },
-  {
-    "cefr": "",
-    "def2": "dicere potes",
-    "def1": "ты можешь сказать",
-    "ipa": "ju kæn seɪ",
-    "spell": "you can say"
-  },
-  {
-    "cefr": "",
-    "def2": "differentia",
-    "def1": "разница",
-    "ipa": "ə ˈdɪfərəns",
-    "spell": "a difference"
-  },
-  {
-    "cefr": "",
-    "def2": "difficile est",
-    "def1": "оно (есть) трудно, оно является трудным",
-    "ipa": "ɪt ɪz hɑrd",
-    "spell": "it is hard"
-  },
-  {
-    "cefr": "",
-    "def2": "dormire",
-    "def1": "спать",
-    "ipa": "tu slip",
-    "spell": "to sleep"
-  },
-  {
-    "cefr": "",
-    "def2": "dormite",
-    "def1": "спите",
-    "ipa": "slip, pliz",
-    "spell": "sleep, please"
-  },
-  {
-    "cefr": "",
-    "def2": "duae litterae",
-    "def1": "две буквы",
-    "ipa": "tu ˈlɛtərz",
-    "spell": "two letters"
-  },
-  {
-    "cefr": "",
-    "def2": "edere",
-    "def1": "есть, кушать",
-    "ipa": "tu it",
-    "spell": "to eat"
-  },
-  {
-    "cefr": "",
-    "def2": "edite",
-    "def1": "ешьте, кушайте",
-    "ipa": "it, pliz",
-    "spell": "eat, please"
-  },
-  {
-    "cefr": "",
-    "def2": "ego",
-    "def1": "я",
-    "ipa": "aɪ",
-    "spell": "I"
-  },
-  {
-    "cefr": "",
-    "def2": "ego sum",
-    "def1": "я являюсь или нахожусь",
-    "ipa": "aɪ æm",
-    "spell": "I am"
-  },
-  {
-    "cefr": "",
-    "def2": "esse",
-    "def1": "быть",
-    "ipa": "tu bi",
-    "spell": "to be"
-  },
-  {
-    "cefr": "",
-    "def2": "etiam",
-    "def1": "также",
-    "ipa": "ˈɔlsoʊ",
-    "spell": "also"
-  },
-  {
-    "cefr": "",
-    "def2": "exempli gratia",
-    "def1": "для примера, например",
-    "ipa": "fɔr ɪɡˈzæmpəl",
-    "spell": "for example"
-  },
-  {
-    "cefr": "",
-    "def2": "expectare potest",
-    "def1": "оно может подождать",
-    "ipa": "ɪt kæn weɪt",
-    "spell": "it can wait"
-  },
-  {
-    "cefr": "",
-    "def2": "femina est",
-    "def1": "это (есть) женщина, оно является женщиной",
-    "ipa": "ɪt ɪz ə ˈwʊmən",
-    "spell": "it is a woman"
-  },
-  {
-    "cefr": "",
-    "def2": "forma plena",
-    "def1": "полная форма",
-    "ipa": "ə fʊl fɔrm",
-    "spell": "a full form"
-  },
-  {
-    "cefr": "",
-    "def2": "fortasse",
-    "def1": "может быть, возможно",
-    "ipa": "ˈmeɪbi",
-    "spell": "maybe"
-  },
-  {
-    "cefr": "",
-    "def2": "grammatica",
-    "def1": "грамматика",
-    "ipa": "ˈɡræmər",
-    "spell": "grammar"
-  },
-  {
-    "cefr": "",
-    "def2": "gratias!",
-    "def1": "спасибо!",
-    "ipa": "θæŋks!",
-    "spell": "thanks!"
-  },
-  {
-    "cefr": "",
-    "def2": "grave est",
-    "def1": "это (есть) важно, оно является важным",
-    "ipa": "ɪt ɪz ɪmˈpɔrtənt",
-    "spell": "it is important"
-  },
-  {
-    "cefr": "",
-    "def2": "hic",
-    "def1": "здесь",
-    "ipa": "hir",
-    "spell": "here"
-  },
-  {
-    "cefr": "",
-    "def2": "hic es",
-    "def1": "ты находишься здесь",
-    "ipa": "ju ɑr hir",
-    "spell": "you are here"
-  },
-  {
-    "cefr": "",
-    "def2": "hic sum",
-    "def1": "я нахожусь здесь",
-    "ipa": "aɪ æm hir",
-    "spell": "I am here"
-  },
-  {
-    "cefr": "",
-    "def2": "hic textus",
-    "def1": "этот текст",
-    "ipa": "ðɪs tɛkst",
-    "spell": "this text"
-  },
-  {
-    "cefr": "",
-    "def2": "hodie satis est",
-    "def1": "на сегодня всё",
-    "ipa": "ðæt ɪz ɪt fɔr təˈdeɪ",
-    "spell": "that is it for today"
-  },
-  {
-    "cefr": "",
-    "def2": "homo",
-    "def1": "парень, мужик, чувак",
-    "ipa": "ə ɡaɪ",
-    "spell": "a guy"
-  },
-  {
-    "cefr": "",
-    "def2": "idem",
-    "def1": "то же самое",
-    "ipa": "ðə seɪm",
-    "spell": "the same"
-  },
-  {
-    "cefr": "",
-    "def2": "idem verbum",
-    "def1": "то же слово",
-    "ipa": "ðə seɪm wɜrd",
-    "spell": "the same word"
-  },
-  {
-    "cefr": "",
-    "def2": "in hac pictura",
-    "def1": "на этой картинке",
-    "ipa": "ɪn ðɪs ˈpɪkʧər",
-    "spell": "in this picture"
-  },
-  {
-    "cefr": "",
-    "def2": "incipiamus",
-    "def1": "давайте начнём",
-    "ipa": "lɛt ʌs bɪˈɡɪn",
-    "spell": "let us begin"
-  },
-  {
-    "cefr": "",
-    "def2": "ire",
-    "def1": "идти",
-    "ipa": "tu ɡoʊ",
-    "spell": "to go"
-  },
-  {
-    "cefr": "",
-    "def2": "ite",
-    "def1": "идите",
-    "ipa": "ɡoʊ, pliz",
-    "spell": "go, please"
-  },
-  {
-    "cefr": "",
-    "def2": "iterum audi",
-    "def1": "слушай опять, слушай ещё раз",
-    "ipa": "ˈlɪsən əˈɡɛn",
-    "spell": "listen again"
-  },
-  {
-    "cefr": "",
-    "def2": "legamus",
-    "def1": "давайте читать",
-    "ipa": "lɛt ʌs rid",
-    "spell": "let us read"
-  },
-  {
-    "cefr": "",
-    "def2": "legere",
-    "def1": "читать",
-    "ipa": "tu rid",
-    "spell": "to read"
-  },
-  {
-    "cefr": "",
-    "def2": "magnus puer",
-    "def1": "большой мальчик",
-    "ipa": "ə bɪɡ bɔɪ",
-    "spell": "a big boy"
-  },
-  {
-    "cefr": "",
-    "def2": "me paenitet!",
-    "def1": "мне жаль. извиняюсь. извините.",
-    "ipa": "ˈsɑri!",
-    "spell": "sorry!"
-  },
-  {
-    "cefr": "",
-    "def2": "minuta",
-    "def1": "минута",
-    "ipa": "ə ˈmɪnət",
-    "spell": "a minute"
-  },
-  {
-    "cefr": "",
-    "def2": "noli vertere",
-    "def1": "не переводи",
-    "ipa": "doʊnt trænˈzleɪt",
-    "spell": "don't translate"
-  },
-  {
-    "cefr": "",
-    "def2": "nomen",
-    "def1": "имя",
-    "ipa": "ə neɪm",
-    "spell": "a name"
-  },
-  {
-    "cefr": "",
-    "def2": "nomen tuum",
-    "def1": "твоё имя",
-    "ipa": "jʊər neɪm",
-    "spell": "your name"
-  },
-  {
-    "cefr": "",
-    "def2": "non",
-    "def1": "не",
-    "ipa": "nɑt",
-    "spell": "not"
-  },
-  {
-    "cefr": "",
-    "def2": "non es Helena",
-    "def1": "ты не Елена, ты не являешься Еленой (сокращение 1)",
-    "ipa": "ju ˈɑrənt ˈhɛlən",
-    "spell": "you aren't Helen"
-  },
-  {
-    "cefr": "",
-    "def2": "non es Helena",
-    "def1": "ты не Елена, ты не являешься Еленой (сокращение 2)",
-    "ipa": "jʊr nɑt ˈhɛlən",
-    "spell": "you're not Helen"
-  },
-  {
-    "cefr": "",
-    "def2": "non es hic",
-    "def1": "ты не находишься здесь",
-    "ipa": "ju ɑr-nɑt hir",
-    "spell": "you are not here"
-  },
-  {
-    "cefr": "",
-    "def2": "non es Thomas",
-    "def1": "ты не Том, ты не являешься Томом",
-    "ipa": "ju ɑr-nɑt tɑm",
-    "spell": "you are not Tom"
-  },
-  {
-    "cefr": "",
-    "def2": "non facile est",
-    "def1": "это не (есть) легко",
-    "ipa": "ɪt ɪz-nɑt ˈizi",
-    "spell": "it is not easy"
-  },
-  {
-    "cefr": "",
-    "def2": "non sum Helena",
-    "def1": "я не Елена, я не являюсь Еленой",
-    "ipa": "aɪ æm-nɑt ˈhɛlən",
-    "spell": "I am not Helen"
-  },
-  {
-    "cefr": "",
-    "def2": "non sum hic",
-    "def1": "я не нахожусь здесь",
-    "ipa": "aɪ æm-nɑt hir",
-    "spell": "I am not here"
-  },
-  {
-    "cefr": "",
-    "def2": "non sum Thomas",
-    "def1": "я не Том, я не являюсь Томом (сокр.)",
-    "ipa": "aɪm nɑt tɑm",
-    "spell": "I'm not Tom"
-  },
-  {
-    "cefr": "",
-    "def2": "orthographia",
-    "def1": "правописание",
-    "ipa": "ˈspɛlɪŋ",
-    "spell": "spelling"
-  },
-  {
-    "cefr": "",
-    "def2": "parvus puer",
-    "def1": "маленький мальчик",
-    "ipa": "ə ˈlɪtəl bɔɪ",
-    "spell": "a little boy"
-  },
-  {
-    "cefr": "",
-    "def2": "paulisper",
-    "def1": "минутку, только минуту",
-    "ipa": "ʤʌst ə ˈmɪnət",
-    "spell": "just a minute"
-  },
-  {
-    "cefr": "",
-    "def2": "potesne hoc legere?",
-    "def1": "можешь ли ты прочитать это?",
-    "ipa": "kæn ju rid ðɪs?",
-    "spell": "can you read this?"
-  },
-  {
-    "cefr": "",
-    "def2": "potesne me videre?",
-    "def1": "можешь ли ты видеть меня?",
-    "ipa": "kæn ju si mi?",
-    "spell": "can you see me?"
-  },
-  {
-    "cefr": "",
-    "def2": "pronuntiatio",
-    "def1": "произношение",
-    "ipa": "prəˌnʌnsiˈeɪʃən",
-    "spell": "pronunciation"
-  },
-  {
-    "cefr": "",
-    "def2": "puellam video",
-    "def1": "я вижу девочку",
-    "ipa": "aɪ si ə ɡɜrl",
-    "spell": "I see a girl"
-  },
-  {
-    "cefr": "",
-    "def2": "puerum video",
-    "def1": "я вижу мальчика",
-    "ipa": "aɪ si ə bɔɪ",
-    "spell": "I see a boy"
-  },
-  {
-    "cefr": "",
-    "def2": "puto",
-    "def1": "я думаю",
-    "ipa": "aɪ θɪŋk",
-    "spell": "I think"
-  },
-  {
-    "cefr": "",
-    "def2": "quid videre potes?",
-    "def1": "что можешь ты видеть?",
-    "ipa": "wɑt kæn ju si?",
-    "spell": "what can you see?"
-  },
-  {
-    "cefr": "",
-    "def2": "quod est tibi nomen?",
-    "def1": "как тебя зовут? что есть твоё имя?",
-    "ipa": "wɑt ɪz jʊər neɪm?",
-    "spell": "what is your name?"
-  },
-  {
-    "cefr": "",
-    "def2": "responsum",
-    "def1": "ответ",
-    "ipa": "ən ˈænsər",
-    "spell": "an answer"
-  },
-  {
-    "cefr": "",
-    "def2": "Salve!",
-    "def1": "Привет!",
-    "ipa": "haɪ!",
-    "spell": "Hi!"
-  },
-  {
-    "cefr": "",
-    "def2": "sed",
-    "def1": "но",
-    "ipa": "bʌt",
-    "spell": "but"
-  },
-  {
-    "cefr": "",
-    "def2": "sede quaeso",
-    "def1": "садитесь",
-    "ipa": "sɪt daʊn pliz",
-    "spell": "sit down please"
-  },
-  {
-    "cefr": "",
-    "def2": "sedere",
-    "def1": "сидеть",
-    "ipa": "tu sɪt",
-    "spell": "to sit"
-  },
-  {
-    "cefr": "",
-    "def2": "sedete",
-    "def1": "сидите",
-    "ipa": "sɪt, pliz",
-    "spell": "sit, please"
-  },
-  {
-    "cefr": "",
-    "def2": "semper",
-    "def1": "всегда",
-    "ipa": "ˈɔlˌweɪz",
-    "spell": "always"
-  },
-  {
-    "cefr": "",
-    "def2": "sonus",
-    "def1": "звук",
-    "ipa": "ə saʊnd",
-    "spell": "a sound"
-  },
-  {
-    "cefr": "",
-    "def2": "surgite",
-    "def1": "встаньте",
-    "ipa": "stænd ʌp, pliz",
-    "spell": "stand up, please"
-  },
-  {
-    "cefr": "",
-    "def2": "tantum lege",
-    "def1": "просто читай",
-    "ipa": "ʤʌst rid",
-    "spell": "just read"
-  },
-  {
-    "cefr": "",
-    "def2": "te videre non possum",
-    "def1": "я не могу видеть тебя",
-    "ipa": "aɪ ˈkænɑt si ju",
-    "spell": "I cannot see you"
-  },
-  {
-    "cefr": "",
-    "def2": "tempus nostrum finitum est",
-    "def1": "наше время вышло, (буквально) наше время находится наверху",
-    "ipa": "ˈaʊər taɪm ɪz ʌp",
-    "spell": "our time is up"
-  },
-  {
-    "cefr": "",
-    "def2": "thea",
-    "def1": "чай",
-    "ipa": "ti",
-    "spell": "tea"
-  },
-  {
-    "cefr": "",
-    "def2": "Thomas",
-    "def1": "Том",
-    "ipa": "tɑm",
-    "spell": "Tom"
-  },
-  {
-    "cefr": "",
-    "def2": "tu",
-    "def1": "ты",
-    "ipa": "ju",
-    "spell": "you"
-  },
-  {
-    "cefr": "",
-    "def2": "tu es",
-    "def1": "ты являешься или находишься",
-    "ipa": "ju ɑr",
-    "spell": "you are"
-  },
-  {
-    "cefr": "",
-    "def2": "tuus",
-    "def1": "твой",
-    "ipa": "jʊər",
-    "spell": "your"
-  },
-  {
-    "cefr": "",
-    "def2": "venire",
-    "def1": "приходить",
-    "ipa": "tu kʌm",
-    "spell": "to come"
-  },
-  {
-    "cefr": "",
-    "def2": "venite",
-    "def1": "приходите",
-    "ipa": "kʌm, pliz",
-    "spell": "come, please"
-  },
-  {
-    "cefr": "",
-    "def2": "verbum",
-    "def1": "слово",
-    "ipa": "ə wɜrd",
-    "spell": "a word"
-  },
-  {
-    "cefr": "",
-    "def2": "videre possum...",
-    "def1": "я могу видеть...",
-    "ipa": "aɪ kæn si...",
-    "spell": "I can see..."
-  }
-]
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "lesson",
+  "number": 2,
+  "date": "2025-05-22",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "apostrophus",
+      "def1": "апостроф",
+      "ipa": "ən əˈpɑstrəfi",
+      "spell": "an apostrophe"
+    },
+    {
+      "cefr": "",
+      "def2": "audi et repete",
+      "def1": "слушай и повторяй",
+      "ipa": "ˈlɪsən ænd rɪˈpit",
+      "spell": "listen and repeat"
+    },
+    {
+      "cefr": "",
+      "def2": "audire",
+      "def1": "слушать его",
+      "ipa": "tu ˈlɪsən tu ɪt",
+      "spell": "to listen to it"
+    },
+    {
+      "cefr": "",
+      "def2": "aut",
+      "def1": "или",
+      "ipa": "ɔr",
+      "spell": "or"
+    },
+    {
+      "cefr": "",
+      "def2": "bene",
+      "def1": "хорошо! есть! идёт!",
+      "ipa": "ˈoʊˈkeɪ",
+      "spell": "OK"
+    },
+    {
+      "cefr": "",
+      "def2": "contractio",
+      "def1": "сокращение, стяжение",
+      "ipa": "ə kənˈtrækʃən",
+      "spell": "a contraction"
+    },
+    {
+      "cefr": "",
+      "def2": "currere",
+      "def1": "бежать",
+      "ipa": "tu rʌn",
+      "spell": "to run"
+    },
+    {
+      "cefr": "",
+      "def2": "currite",
+      "def1": "бегите",
+      "ipa": "rʌn, pliz",
+      "spell": "run, please"
+    },
+    {
+      "cefr": "",
+      "def2": "Diana",
+      "def1": "Диана",
+      "ipa": "daɪˈænə",
+      "spell": "Diana"
+    },
+    {
+      "cefr": "",
+      "def2": "dicere",
+      "def1": "сказать",
+      "ipa": "tu seɪ",
+      "spell": "to say"
+    },
+    {
+      "cefr": "",
+      "def2": "dicere possum",
+      "def1": "я могу сказать",
+      "ipa": "aɪ kæn seɪ",
+      "spell": "I can say"
+    },
+    {
+      "cefr": "",
+      "def2": "dicere potes",
+      "def1": "ты можешь сказать",
+      "ipa": "ju kæn seɪ",
+      "spell": "you can say"
+    },
+    {
+      "cefr": "",
+      "def2": "differentia",
+      "def1": "разница",
+      "ipa": "ə ˈdɪfərəns",
+      "spell": "a difference"
+    },
+    {
+      "cefr": "",
+      "def2": "difficile est",
+      "def1": "оно (есть) трудно, оно является трудным",
+      "ipa": "ɪt ɪz hɑrd",
+      "spell": "it is hard"
+    },
+    {
+      "cefr": "",
+      "def2": "dormire",
+      "def1": "спать",
+      "ipa": "tu slip",
+      "spell": "to sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "dormite",
+      "def1": "спите",
+      "ipa": "slip, pliz",
+      "spell": "sleep, please"
+    },
+    {
+      "cefr": "",
+      "def2": "duae litterae",
+      "def1": "две буквы",
+      "ipa": "tu ˈlɛtərz",
+      "spell": "two letters"
+    },
+    {
+      "cefr": "",
+      "def2": "edere",
+      "def1": "есть, кушать",
+      "ipa": "tu it",
+      "spell": "to eat"
+    },
+    {
+      "cefr": "",
+      "def2": "edite",
+      "def1": "ешьте, кушайте",
+      "ipa": "it, pliz",
+      "spell": "eat, please"
+    },
+    {
+      "cefr": "",
+      "def2": "ego",
+      "def1": "я",
+      "ipa": "aɪ",
+      "spell": "I"
+    },
+    {
+      "cefr": "",
+      "def2": "ego sum",
+      "def1": "я являюсь или нахожусь",
+      "ipa": "aɪ æm",
+      "spell": "I am"
+    },
+    {
+      "cefr": "",
+      "def2": "esse",
+      "def1": "быть",
+      "ipa": "tu bi",
+      "spell": "to be"
+    },
+    {
+      "cefr": "",
+      "def2": "etiam",
+      "def1": "также",
+      "ipa": "ˈɔlsoʊ",
+      "spell": "also"
+    },
+    {
+      "cefr": "",
+      "def2": "exempli gratia",
+      "def1": "для примера, например",
+      "ipa": "fɔr ɪɡˈzæmpəl",
+      "spell": "for example"
+    },
+    {
+      "cefr": "",
+      "def2": "expectare potest",
+      "def1": "оно может подождать",
+      "ipa": "ɪt kæn weɪt",
+      "spell": "it can wait"
+    },
+    {
+      "cefr": "",
+      "def2": "femina est",
+      "def1": "это (есть) женщина, оно является женщиной",
+      "ipa": "ɪt ɪz ə ˈwʊmən",
+      "spell": "it is a woman"
+    },
+    {
+      "cefr": "",
+      "def2": "forma plena",
+      "def1": "полная форма",
+      "ipa": "ə fʊl fɔrm",
+      "spell": "a full form"
+    },
+    {
+      "cefr": "",
+      "def2": "fortasse",
+      "def1": "может быть, возможно",
+      "ipa": "ˈmeɪbi",
+      "spell": "maybe"
+    },
+    {
+      "cefr": "",
+      "def2": "grammatica",
+      "def1": "грамматика",
+      "ipa": "ˈɡræmər",
+      "spell": "grammar"
+    },
+    {
+      "cefr": "",
+      "def2": "gratias!",
+      "def1": "спасибо!",
+      "ipa": "θæŋks!",
+      "spell": "thanks!"
+    },
+    {
+      "cefr": "",
+      "def2": "grave est",
+      "def1": "это (есть) важно, оно является важным",
+      "ipa": "ɪt ɪz ɪmˈpɔrtənt",
+      "spell": "it is important"
+    },
+    {
+      "cefr": "",
+      "def2": "hic",
+      "def1": "здесь",
+      "ipa": "hir",
+      "spell": "here"
+    },
+    {
+      "cefr": "",
+      "def2": "hic es",
+      "def1": "ты находишься здесь",
+      "ipa": "ju ɑr hir",
+      "spell": "you are here"
+    },
+    {
+      "cefr": "",
+      "def2": "hic sum",
+      "def1": "я нахожусь здесь",
+      "ipa": "aɪ æm hir",
+      "spell": "I am here"
+    },
+    {
+      "cefr": "",
+      "def2": "hic textus",
+      "def1": "этот текст",
+      "ipa": "ðɪs tɛkst",
+      "spell": "this text"
+    },
+    {
+      "cefr": "",
+      "def2": "hodie satis est",
+      "def1": "на сегодня всё",
+      "ipa": "ðæt ɪz ɪt fɔr təˈdeɪ",
+      "spell": "that is it for today"
+    },
+    {
+      "cefr": "",
+      "def2": "homo",
+      "def1": "парень, мужик, чувак",
+      "ipa": "ə ɡaɪ",
+      "spell": "a guy"
+    },
+    {
+      "cefr": "",
+      "def2": "idem",
+      "def1": "то же самое",
+      "ipa": "ðə seɪm",
+      "spell": "the same"
+    },
+    {
+      "cefr": "",
+      "def2": "idem verbum",
+      "def1": "то же слово",
+      "ipa": "ðə seɪm wɜrd",
+      "spell": "the same word"
+    },
+    {
+      "cefr": "",
+      "def2": "in hac pictura",
+      "def1": "на этой картинке",
+      "ipa": "ɪn ðɪs ˈpɪkʧər",
+      "spell": "in this picture"
+    },
+    {
+      "cefr": "",
+      "def2": "incipiamus",
+      "def1": "давайте начнём",
+      "ipa": "lɛt ʌs bɪˈɡɪn",
+      "spell": "let us begin"
+    },
+    {
+      "cefr": "",
+      "def2": "ire",
+      "def1": "идти",
+      "ipa": "tu ɡoʊ",
+      "spell": "to go"
+    },
+    {
+      "cefr": "",
+      "def2": "ite",
+      "def1": "идите",
+      "ipa": "ɡoʊ, pliz",
+      "spell": "go, please"
+    },
+    {
+      "cefr": "",
+      "def2": "iterum audi",
+      "def1": "слушай опять, слушай ещё раз",
+      "ipa": "ˈlɪsən əˈɡɛn",
+      "spell": "listen again"
+    },
+    {
+      "cefr": "",
+      "def2": "legamus",
+      "def1": "давайте читать",
+      "ipa": "lɛt ʌs rid",
+      "spell": "let us read"
+    },
+    {
+      "cefr": "",
+      "def2": "legere",
+      "def1": "читать",
+      "ipa": "tu rid",
+      "spell": "to read"
+    },
+    {
+      "cefr": "",
+      "def2": "magnus puer",
+      "def1": "большой мальчик",
+      "ipa": "ə bɪɡ bɔɪ",
+      "spell": "a big boy"
+    },
+    {
+      "cefr": "",
+      "def2": "me paenitet!",
+      "def1": "мне жаль. извиняюсь. извините.",
+      "ipa": "ˈsɑri!",
+      "spell": "sorry!"
+    },
+    {
+      "cefr": "",
+      "def2": "minuta",
+      "def1": "минута",
+      "ipa": "ə ˈmɪnət",
+      "spell": "a minute"
+    },
+    {
+      "cefr": "",
+      "def2": "noli vertere",
+      "def1": "не переводи",
+      "ipa": "doʊnt trænˈzleɪt",
+      "spell": "don't translate"
+    },
+    {
+      "cefr": "",
+      "def2": "nomen",
+      "def1": "имя",
+      "ipa": "ə neɪm",
+      "spell": "a name"
+    },
+    {
+      "cefr": "",
+      "def2": "nomen tuum",
+      "def1": "твоё имя",
+      "ipa": "jʊər neɪm",
+      "spell": "your name"
+    },
+    {
+      "cefr": "",
+      "def2": "non",
+      "def1": "не",
+      "ipa": "nɑt",
+      "spell": "not"
+    },
+    {
+      "cefr": "",
+      "def2": "non es Helena",
+      "def1": "ты не Елена, ты не являешься Еленой (сокращение 1)",
+      "ipa": "ju ˈɑrənt ˈhɛlən",
+      "spell": "you aren't Helen"
+    },
+    {
+      "cefr": "",
+      "def2": "non es Helena",
+      "def1": "ты не Елена, ты не являешься Еленой (сокращение 2)",
+      "ipa": "jʊr nɑt ˈhɛlən",
+      "spell": "you're not Helen"
+    },
+    {
+      "cefr": "",
+      "def2": "non es hic",
+      "def1": "ты не находишься здесь",
+      "ipa": "ju ɑr-nɑt hir",
+      "spell": "you are not here"
+    },
+    {
+      "cefr": "",
+      "def2": "non es Thomas",
+      "def1": "ты не Том, ты не являешься Томом",
+      "ipa": "ju ɑr-nɑt tɑm",
+      "spell": "you are not Tom"
+    },
+    {
+      "cefr": "",
+      "def2": "non facile est",
+      "def1": "это не (есть) легко",
+      "ipa": "ɪt ɪz-nɑt ˈizi",
+      "spell": "it is not easy"
+    },
+    {
+      "cefr": "",
+      "def2": "non sum Helena",
+      "def1": "я не Елена, я не являюсь Еленой",
+      "ipa": "aɪ æm-nɑt ˈhɛlən",
+      "spell": "I am not Helen"
+    },
+    {
+      "cefr": "",
+      "def2": "non sum hic",
+      "def1": "я не нахожусь здесь",
+      "ipa": "aɪ æm-nɑt hir",
+      "spell": "I am not here"
+    },
+    {
+      "cefr": "",
+      "def2": "non sum Thomas",
+      "def1": "я не Том, я не являюсь Томом (сокр.)",
+      "ipa": "aɪm nɑt tɑm",
+      "spell": "I'm not Tom"
+    },
+    {
+      "cefr": "",
+      "def2": "orthographia",
+      "def1": "правописание",
+      "ipa": "ˈspɛlɪŋ",
+      "spell": "spelling"
+    },
+    {
+      "cefr": "",
+      "def2": "parvus puer",
+      "def1": "маленький мальчик",
+      "ipa": "ə ˈlɪtəl bɔɪ",
+      "spell": "a little boy"
+    },
+    {
+      "cefr": "",
+      "def2": "paulisper",
+      "def1": "минутку, только минуту",
+      "ipa": "ʤʌst ə ˈmɪnət",
+      "spell": "just a minute"
+    },
+    {
+      "cefr": "",
+      "def2": "potesne hoc legere?",
+      "def1": "можешь ли ты прочитать это?",
+      "ipa": "kæn ju rid ðɪs?",
+      "spell": "can you read this?"
+    },
+    {
+      "cefr": "",
+      "def2": "potesne me videre?",
+      "def1": "можешь ли ты видеть меня?",
+      "ipa": "kæn ju si mi?",
+      "spell": "can you see me?"
+    },
+    {
+      "cefr": "",
+      "def2": "pronuntiatio",
+      "def1": "произношение",
+      "ipa": "prəˌnʌnsiˈeɪʃən",
+      "spell": "pronunciation"
+    },
+    {
+      "cefr": "",
+      "def2": "puellam video",
+      "def1": "я вижу девочку",
+      "ipa": "aɪ si ə ɡɜrl",
+      "spell": "I see a girl"
+    },
+    {
+      "cefr": "",
+      "def2": "puerum video",
+      "def1": "я вижу мальчика",
+      "ipa": "aɪ si ə bɔɪ",
+      "spell": "I see a boy"
+    },
+    {
+      "cefr": "",
+      "def2": "puto",
+      "def1": "я думаю",
+      "ipa": "aɪ θɪŋk",
+      "spell": "I think"
+    },
+    {
+      "cefr": "",
+      "def2": "quid videre potes?",
+      "def1": "что можешь ты видеть?",
+      "ipa": "wɑt kæn ju si?",
+      "spell": "what can you see?"
+    },
+    {
+      "cefr": "",
+      "def2": "quod est tibi nomen?",
+      "def1": "как тебя зовут? что есть твоё имя?",
+      "ipa": "wɑt ɪz jʊər neɪm?",
+      "spell": "what is your name?"
+    },
+    {
+      "cefr": "",
+      "def2": "responsum",
+      "def1": "ответ",
+      "ipa": "ən ˈænsər",
+      "spell": "an answer"
+    },
+    {
+      "cefr": "",
+      "def2": "Salve!",
+      "def1": "Привет!",
+      "ipa": "haɪ!",
+      "spell": "Hi!"
+    },
+    {
+      "cefr": "",
+      "def2": "sed",
+      "def1": "но",
+      "ipa": "bʌt",
+      "spell": "but"
+    },
+    {
+      "cefr": "",
+      "def2": "sede quaeso",
+      "def1": "садитесь",
+      "ipa": "sɪt daʊn pliz",
+      "spell": "sit down please"
+    },
+    {
+      "cefr": "",
+      "def2": "sedere",
+      "def1": "сидеть",
+      "ipa": "tu sɪt",
+      "spell": "to sit"
+    },
+    {
+      "cefr": "",
+      "def2": "sedete",
+      "def1": "сидите",
+      "ipa": "sɪt, pliz",
+      "spell": "sit, please"
+    },
+    {
+      "cefr": "",
+      "def2": "semper",
+      "def1": "всегда",
+      "ipa": "ˈɔlˌweɪz",
+      "spell": "always"
+    },
+    {
+      "cefr": "",
+      "def2": "sonus",
+      "def1": "звук",
+      "ipa": "ə saʊnd",
+      "spell": "a sound"
+    },
+    {
+      "cefr": "",
+      "def2": "surgite",
+      "def1": "встаньте",
+      "ipa": "stænd ʌp, pliz",
+      "spell": "stand up, please"
+    },
+    {
+      "cefr": "",
+      "def2": "tantum lege",
+      "def1": "просто читай",
+      "ipa": "ʤʌst rid",
+      "spell": "just read"
+    },
+    {
+      "cefr": "",
+      "def2": "te videre non possum",
+      "def1": "я не могу видеть тебя",
+      "ipa": "aɪ ˈkænɑt si ju",
+      "spell": "I cannot see you"
+    },
+    {
+      "cefr": "",
+      "def2": "tempus nostrum finitum est",
+      "def1": "наше время вышло, (буквально) наше время находится наверху",
+      "ipa": "ˈaʊər taɪm ɪz ʌp",
+      "spell": "our time is up"
+    },
+    {
+      "cefr": "",
+      "def2": "thea",
+      "def1": "чай",
+      "ipa": "ti",
+      "spell": "tea"
+    },
+    {
+      "cefr": "",
+      "def2": "Thomas",
+      "def1": "Том",
+      "ipa": "tɑm",
+      "spell": "Tom"
+    },
+    {
+      "cefr": "",
+      "def2": "tu",
+      "def1": "ты",
+      "ipa": "ju",
+      "spell": "you"
+    },
+    {
+      "cefr": "",
+      "def2": "tu es",
+      "def1": "ты являешься или находишься",
+      "ipa": "ju ɑr",
+      "spell": "you are"
+    },
+    {
+      "cefr": "",
+      "def2": "tuus",
+      "def1": "твой",
+      "ipa": "jʊər",
+      "spell": "your"
+    },
+    {
+      "cefr": "",
+      "def2": "venire",
+      "def1": "приходить",
+      "ipa": "tu kʌm",
+      "spell": "to come"
+    },
+    {
+      "cefr": "",
+      "def2": "venite",
+      "def1": "приходите",
+      "ipa": "kʌm, pliz",
+      "spell": "come, please"
+    },
+    {
+      "cefr": "",
+      "def2": "verbum",
+      "def1": "слово",
+      "ipa": "ə wɜrd",
+      "spell": "a word"
+    },
+    {
+      "cefr": "",
+      "def2": "videre possum...",
+      "def1": "я могу видеть...",
+      "ipa": "aɪ kæn si...",
+      "spell": "I can see..."
+    }
+  ]
+}
