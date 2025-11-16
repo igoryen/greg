@@ -1,632 +1,459 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рождение",
-   "ipa": "ə bɜrθ",
-   "spell": "a birth"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "день рождения",
-   "ipa": "ə ˈbɜrθˌdeɪ",
-   "spell": "a birthday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дело, бизнес",
-   "ipa": "ə ˈbɪznəs",
-   "spell": "a business"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "командировка",
-   "ipa": "ə ˈbɪznəs trɪp",
-   "spell": "a business trip"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "день",
-   "ipa": "ə deɪ",
-   "spell": "a day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фамилия",
-   "ipa": "ə læst neɪm",
-   "spell": "a last name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много работы",
-   "ipa": "ə lɑt ʌv wɜrk",
-   "spell": "a lot of work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "имя",
-   "ipa": "ə neɪm",
-   "spell": "a name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "А или Б",
-   "ipa": "ə ɔr bi",
-   "spell": "A or B"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "страница",
-   "ipa": "ə peɪʤ",
-   "spell": "a page"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "звание",
-   "ipa": "ə ræŋk",
-   "spell": "a rank"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "название ранга",
-   "ipa": "ə ræŋk neɪm",
-   "spell": "a rank name"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "бронь",
-   "ipa": "ə ˌrɛzərˈveɪʃən",
-   "spell": "a reservation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обзор",
-   "ipa": "ə ˌriˈvju",
-   "spell": "a review"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "комната",
-   "ipa": "ə rum",
-   "spell": "a room"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фамилия",
-   "ipa": "ə ˈsɜrˌneɪm",
-   "spell": "a surname"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поездка",
-   "ipa": "ə trɪp",
-   "spell": "a trip"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "отпуск",
-   "ipa": "ə veɪˈkeɪʃən",
-   "spell": "a vacation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ходок",
-   "ipa": "ə ˈwɔkər",
-   "spell": "a walker"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "прапорщик",
-   "ipa": "ə ˈwɔrənt ˈɔfəsər",
-   "spell": "a Warrant Officer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "о Робе",
-   "ipa": "əˈbaʊt rɑb",
-   "spell": "about Rob"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "всё правильно",
-   "ipa": "ɔl kəˈrɛkt",
-   "spell": "all correct"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "август",
-   "ipa": "ˈɑɡəst",
-   "spell": "August"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "большой",
-   "ipa": "bɪɡ",
-   "spell": "big"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "больше",
-   "ipa": "ˈbɪɡər",
-   "spell": "bigger"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "британский английский",
-   "ipa": "ˈbrɪtɪʃ ˈɪŋɡlɪʃ",
-   "spell": "British English"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "холодно зимой",
-   "ipa": "koʊld ɪn ˈwɪntər",
-   "spell": "cold in winter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "не переводи это",
-   "ipa": "doʊnt trænˈzleɪt ɪt",
-   "spell": "don't translate it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он в гостинице",
-   "ipa": "hi ɪz ɪn ə hoʊˈtɛl",
-   "spell": "he is in a hotel"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он в Польше",
-   "ipa": "hi ɪz ɪn ˈpoʊlənd",
-   "spell": "he is in Poland"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что он говорит?",
-   "ipa": "hi sɛz wɑt?",
-   "spell": "he says what?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Здравствуйте, офицер",
-   "ipa": "həˈloʊ ˈɔfəsər",
-   "spell": "Hello Officer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "высокий",
-   "ipa": "haɪ",
-   "spell": "high"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "выше",
-   "ipa": "ˈhaɪər",
-   "spell": "higher"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жарко летом",
-   "ipa": "hɑt ɪn ˈsʌmər",
-   "spell": "hot in summer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "какая погода во Флориде?",
-   "ipa": "haʊ ɪz ðə ˈwɛðər ɪn ˈflɔrədə?",
-   "spell": "how is the weather in Florida?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "как твоя работа?",
-   "ipa": "haʊ ɪz jʊər wɜrk?",
-   "spell": "how is your work?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я из Ижевска",
-   "ipa": "aɪ kʌm frʌm ɪˈʒɛfsk",
-   "spell": "I come from Izhevsk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "у меня есть видео",
-   "ipa": "aɪ hæv ə ˈvɪdioʊ",
-   "spell": "I have a video"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я слушаю и повинуюсь",
-   "ipa": "aɪ ˈlɪsən ænd oʊˈbeɪ",
-   "spell": "I listen and obey"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я работаю",
-   "ipa": "aɪ wɜrk",
-   "spell": "I work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он в Польше?",
-   "ipa": "ɪz hi ɪn ˈpoʊlənd?",
-   "spell": "is he in Poland?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дождливо",
-   "ipa": "ɪt ɪz ˈreɪni",
-   "spell": "it is rainy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "низкий",
-   "ipa": "loʊ",
-   "spell": "low"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ниже",
-   "ipa": "ˈloʊər",
-   "spell": "lower"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "много работы",
-   "ipa": "mʌʧ wɜrk",
-   "spell": "much work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дождь",
-   "ipa": "reɪn",
-   "spell": "rain"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дождливый",
-   "ipa": "ˈreɪni",
-   "spell": "rainy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скажи это по-английски",
-   "ipa": "seɪ ɪt ɪn ˈɪŋɡlɪʃ",
-   "spell": "say it in English"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "маленький",
-   "ipa": "smɔl",
-   "spell": "small"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "меньше",
-   "ipa": "ˈsmɔlər",
-   "spell": "smaller"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "произносить по буквам",
-   "ipa": "spɛl",
-   "spell": "spell"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "это самое важное",
-   "ipa": "ðæts ðə moʊst ɪmˈpɔrtənt θɪŋ",
-   "spell": "that's the most important thing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "столица",
-   "ipa": "ðə ˈkæpətəl",
-   "spell": "the capital"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "столичный город",
-   "ipa": "ðə ˈkæpətəl ˈsɪti",
-   "spell": "the capital city"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "в городе очень тепло",
-   "ipa": "ðə ˈsɪti ɪz ˈvɛri wɔrm",
-   "spell": "the city is very warm"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "последний",
-   "ipa": "ðə læst wʌn",
-   "spell": "the last one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "такая же погода",
-   "ipa": "ðə seɪm ˈwɛðər",
-   "spell": "the same weather"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "субтропики",
-   "ipa": "ðə sʌbˈtrɑpɪks",
-   "spell": "the subtropics"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они",
-   "ipa": "ðeɪ",
-   "spell": "they"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они оттуда",
-   "ipa": "ðeɪ ɑr frʌm ðɛr",
-   "spell": "they are from there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они из Уфы",
-   "ipa": "ðeɪ ɑr frʌm ʊˈfa",
-   "spell": "they are from Ufa"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они перепутаны",
-   "ipa": "ðeɪ ɑr mɪkst ʌp",
-   "spell": "they are mixed up"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они не в порядке",
-   "ipa": "ðeɪ ɑr aʊt ʌv ˈɔrdər",
-   "spell": "they are out of order"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они из Башкортостана",
-   "ipa": "ðɛr frʌm bɑʃˈkɔɹtoʊˌstæn",
-   "spell": "they're from Bashkortostan"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "этот",
-   "ipa": "ðɪs wʌn",
-   "spell": "this one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "триста двадцать один",
-   "ipa": "θri ˈhʌndrɪd ˈtwɛnti wʌn",
-   "spell": "three hundred twenty one"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "регистрироваться",
-   "ipa": "tu ʧɛk ɪn",
-   "spell": "to check in"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "заселиться в гостиницу",
-   "ipa": "tu ʧɛk ˈɪntu ə hoʊˈtɛl",
-   "spell": "to check into a hotel"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "обвести слова",
-   "ipa": "tu ˈsɜrkəl ðə wɜrdz",
-   "spell": "to circle the words"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приходить",
-   "ipa": "tu kʌm",
-   "spell": "to come"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "проверять",
-   "ipa": "tu ˌriˈvju",
-   "spell": "to review"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "гулять",
-   "ipa": "tu wɔk",
-   "spell": "to walk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "смотреть видео",
-   "ipa": "tu wɑʧ ə ˈvɪdioʊ",
-   "spell": "to watch a video"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сегодня вторник",
-   "ipa": "təˈdeɪ ɪz ˈtuzˌdeɪ",
-   "spell": "today is Tuesday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "постарайся понять это",
-   "ipa": "traɪ tu ˌʌndərˈstænd ɪt",
-   "spell": "try to understand it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Прапорщик Косынко",
-   "ipa": "ˈwɔrənt ˈɔfəsər koʊˈsɪŋkoʊ",
-   "spell": "Warrant Officer Kosynko"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы говорим",
-   "ipa": "wi seɪ",
-   "spell": "we say"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы посмотрим это",
-   "ipa": "wi wɪl wɑʧ ɪt",
-   "spell": "we will watch it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы пишем",
-   "ipa": "wi raɪt",
-   "spell": "we write"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "какой сегодня день?",
-   "ipa": "wɑt deɪ ɪz ɪt təˈdeɪ?",
-   "spell": "what day is it today?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что это за место?",
-   "ipa": "wɑt ɪz ðɪs pleɪs?",
-   "spell": "what is this place?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "откуда они?",
-   "ipa": "wɛr du ðeɪ kʌm frʌm?",
-   "spell": "where do they come from?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "где в Польше?",
-   "ipa": "wɛr ɪn ˈpoʊlənd?",
-   "spell": "where in Poland?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "где он?",
-   "ipa": "wɛr ɪz hi?",
-   "spell": "where is he?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты не стоишь на месте",
-   "ipa": "ju ɑr nɑt ˈstændɪŋ stɪl",
-   "spell": "you are not standing still"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты из Ижевска",
-   "ipa": "ju kʌm frʌm ɪˈʒɛfsk",
-   "spell": "you come from Izhevsk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты развиваешься",
-   "ipa": "ju dɪˈvɛləp",
-   "spell": "you develop"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты не стоишь на месте",
-   "ipa": "ju doʊnt stænd stɪl",
-   "spell": "you don't stand still"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты учишься",
-   "ipa": "ju lɜrn",
-   "spell": "you learn"
- }
-]
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "lesson",
+  "number": 13,
+  "date": "2025-06-24",
+  "words": [
+    {
+      "def1": "рождение",
+      "ipa": "ə bɜrθ",
+      "spell": "a birth"
+    },
+    {
+      "def1": "день рождения",
+      "ipa": "ə ˈbɜrθˌdeɪ",
+      "spell": "a birthday"
+    },
+    {
+      "def1": "дело, бизнес",
+      "ipa": "ə ˈbɪznəs",
+      "spell": "a business"
+    },
+    {
+      "def1": "командировка",
+      "ipa": "ə ˈbɪznəs trɪp",
+      "spell": "a business trip"
+    },
+    {
+      "def1": "день",
+      "ipa": "ə deɪ",
+      "spell": "a day"
+    },
+    {
+      "def1": "фамилия",
+      "ipa": "ə læst neɪm",
+      "spell": "a last name"
+    },
+    {
+      "def1": "много работы",
+      "ipa": "ə lɑt ʌv wɜrk",
+      "spell": "a lot of work"
+    },
+    {
+      "def1": "имя",
+      "ipa": "ə neɪm",
+      "spell": "a name"
+    },
+    {
+      "def1": "А или Б",
+      "ipa": "ə ɔr bi",
+      "spell": "A or B"
+    },
+    {
+      "def1": "страница",
+      "ipa": "ə peɪʤ",
+      "spell": "a page"
+    },
+    {
+      "def1": "звание",
+      "ipa": "ə ræŋk",
+      "spell": "a rank"
+    },
+    {
+      "def1": "название ранга",
+      "ipa": "ə ræŋk neɪm",
+      "spell": "a rank name"
+    },
+    {
+      "def1": "бронь",
+      "ipa": "ə ˌrɛzərˈveɪʃən",
+      "spell": "a reservation"
+    },
+    {
+      "def1": "обзор",
+      "ipa": "ə ˌriˈvju",
+      "spell": "a review"
+    },
+    {
+      "def1": "комната",
+      "ipa": "ə rum",
+      "spell": "a room"
+    },
+    {
+      "def1": "фамилия",
+      "ipa": "ə ˈsɜrˌneɪm",
+      "spell": "a surname"
+    },
+    {
+      "def1": "поездка",
+      "ipa": "ə trɪp",
+      "spell": "a trip"
+    },
+    {
+      "def1": "отпуск",
+      "ipa": "ə veɪˈkeɪʃən",
+      "spell": "a vacation"
+    },
+    {
+      "def1": "ходок",
+      "ipa": "ə ˈwɔkər",
+      "spell": "a walker"
+    },
+    {
+      "def1": "прапорщик",
+      "ipa": "ə ˈwɔrənt ˈɔfəsər",
+      "spell": "a Warrant Officer"
+    },
+    {
+      "def1": "о Робе",
+      "ipa": "əˈbaʊt rɑb",
+      "spell": "about Rob"
+    },
+    {
+      "def1": "всё правильно",
+      "ipa": "ɔl kəˈrɛkt",
+      "spell": "all correct"
+    },
+    {
+      "def1": "август",
+      "ipa": "ˈɑɡəst",
+      "spell": "August"
+    },
+    {
+      "def1": "большой",
+      "ipa": "bɪɡ",
+      "spell": "big"
+    },
+    {
+      "def1": "больше",
+      "ipa": "ˈbɪɡər",
+      "spell": "bigger"
+    },
+    {
+      "def1": "британский английский",
+      "ipa": "ˈbrɪtɪʃ ˈɪŋɡlɪʃ",
+      "spell": "British English"
+    },
+    {
+      "def1": "холодно зимой",
+      "ipa": "koʊld ɪn ˈwɪntər",
+      "spell": "cold in winter"
+    },
+    {
+      "def1": "не переводи это",
+      "ipa": "doʊnt trænˈzleɪt ɪt",
+      "spell": "don't translate it"
+    },
+    {
+      "def1": "он в гостинице",
+      "ipa": "hi ɪz ɪn ə hoʊˈtɛl",
+      "spell": "he is in a hotel"
+    },
+    {
+      "def1": "он в Польше",
+      "ipa": "hi ɪz ɪn ˈpoʊlənd",
+      "spell": "he is in Poland"
+    },
+    {
+      "def1": "что он говорит?",
+      "ipa": "hi sɛz wɑt?",
+      "spell": "he says what?"
+    },
+    {
+      "def1": "Здравствуйте, офицер",
+      "ipa": "həˈloʊ ˈɔfəsər",
+      "spell": "Hello Officer"
+    },
+    {
+      "def1": "высокий",
+      "ipa": "haɪ",
+      "spell": "high"
+    },
+    {
+      "def1": "выше",
+      "ipa": "ˈhaɪər",
+      "spell": "higher"
+    },
+    {
+      "def1": "жарко летом",
+      "ipa": "hɑt ɪn ˈsʌmər",
+      "spell": "hot in summer"
+    },
+    {
+      "def1": "какая погода во Флориде?",
+      "ipa": "haʊ ɪz ðə ˈwɛðər ɪn ˈflɔrədə?",
+      "spell": "how is the weather in Florida?"
+    },
+    {
+      "def1": "как твоя работа?",
+      "ipa": "haʊ ɪz jʊər wɜrk?",
+      "spell": "how is your work?"
+    },
+    {
+      "def1": "я из Ижевска",
+      "ipa": "aɪ kʌm frʌm ɪˈʒɛfsk",
+      "spell": "I come from Izhevsk"
+    },
+    {
+      "def1": "у меня есть видео",
+      "ipa": "aɪ hæv ə ˈvɪdioʊ",
+      "spell": "I have a video"
+    },
+    {
+      "def1": "я слушаю и повинуюсь",
+      "ipa": "aɪ ˈlɪsən ænd oʊˈbeɪ",
+      "spell": "I listen and obey"
+    },
+    {
+      "def1": "я работаю",
+      "ipa": "aɪ wɜrk",
+      "spell": "I work"
+    },
+    {
+      "def1": "он в Польше?",
+      "ipa": "ɪz hi ɪn ˈpoʊlənd?",
+      "spell": "is he in Poland?"
+    },
+    {
+      "def1": "дождливо",
+      "ipa": "ɪt ɪz ˈreɪni",
+      "spell": "it is rainy"
+    },
+    {
+      "def1": "низкий",
+      "ipa": "loʊ",
+      "spell": "low"
+    },
+    {
+      "def1": "ниже",
+      "ipa": "ˈloʊər",
+      "spell": "lower"
+    },
+    {
+      "def1": "много работы",
+      "ipa": "mʌʧ wɜrk",
+      "spell": "much work"
+    },
+    {
+      "def1": "дождь",
+      "ipa": "reɪn",
+      "spell": "rain"
+    },
+    {
+      "def1": "дождливый",
+      "ipa": "ˈreɪni",
+      "spell": "rainy"
+    },
+    {
+      "def1": "скажи это по-английски",
+      "ipa": "seɪ ɪt ɪn ˈɪŋɡlɪʃ",
+      "spell": "say it in English"
+    },
+    {
+      "def1": "маленький",
+      "ipa": "smɔl",
+      "spell": "small"
+    },
+    {
+      "def1": "меньше",
+      "ipa": "ˈsmɔlər",
+      "spell": "smaller"
+    },
+    {
+      "def1": "произносить по буквам",
+      "ipa": "spɛl",
+      "spell": "spell"
+    },
+    {
+      "def1": "это самое важное",
+      "ipa": "ðæts ðə moʊst ɪmˈpɔrtənt θɪŋ",
+      "spell": "that's the most important thing"
+    },
+    {
+      "def1": "столица",
+      "ipa": "ðə ˈkæpətəl",
+      "spell": "the capital"
+    },
+    {
+      "def1": "столичный город",
+      "ipa": "ðə ˈkæpətəl ˈsɪti",
+      "spell": "the capital city"
+    },
+    {
+      "def1": "в городе очень тепло",
+      "ipa": "ðə ˈsɪti ɪz ˈvɛri wɔrm",
+      "spell": "the city is very warm"
+    },
+    {
+      "def1": "последний",
+      "ipa": "ðə læst wʌn",
+      "spell": "the last one"
+    },
+    {
+      "def1": "такая же погода",
+      "ipa": "ðə seɪm ˈwɛðər",
+      "spell": "the same weather"
+    },
+    {
+      "def1": "субтропики",
+      "ipa": "ðə sʌbˈtrɑpɪks",
+      "spell": "the subtropics"
+    },
+    {
+      "def1": "они",
+      "ipa": "ðeɪ",
+      "spell": "they"
+    },
+    {
+      "def1": "они оттуда",
+      "ipa": "ðeɪ ɑr frʌm ðɛr",
+      "spell": "they are from there"
+    },
+    {
+      "def1": "они из Уфы",
+      "ipa": "ðeɪ ɑr frʌm ʊˈfa",
+      "spell": "they are from Ufa"
+    },
+    {
+      "def1": "они перепутаны",
+      "ipa": "ðeɪ ɑr mɪkst ʌp",
+      "spell": "they are mixed up"
+    },
+    {
+      "def1": "они не в порядке",
+      "ipa": "ðeɪ ɑr aʊt ʌv ˈɔrdər",
+      "spell": "they are out of order"
+    },
+    {
+      "def1": "они из Башкортостана",
+      "ipa": "ðɛr frʌm bɑʃˈkɔɹtoʊˌstæn",
+      "spell": "they're from Bashkortostan"
+    },
+    {
+      "def1": "этот",
+      "ipa": "ðɪs wʌn",
+      "spell": "this one"
+    },
+    {
+      "def1": "триста двадцать один",
+      "ipa": "θri ˈhʌndrɪd ˈtwɛnti wʌn",
+      "spell": "three hundred twenty one"
+    },
+    {
+      "def1": "регистрироваться",
+      "ipa": "tu ʧɛk ɪn",
+      "spell": "to check in"
+    },
+    {
+      "def1": "заселиться в гостиницу",
+      "ipa": "tu ʧɛk ˈɪntu ə hoʊˈtɛl",
+      "spell": "to check into a hotel"
+    },
+    {
+      "def1": "обвести слова",
+      "ipa": "tu ˈsɜrkəl ðə wɜrdz",
+      "spell": "to circle the words"
+    },
+    {
+      "def1": "приходить",
+      "ipa": "tu kʌm",
+      "spell": "to come"
+    },
+    {
+      "def1": "проверять",
+      "ipa": "tu ˌriˈvju",
+      "spell": "to review"
+    },
+    {
+      "def1": "гулять",
+      "ipa": "tu wɔk",
+      "spell": "to walk"
+    },
+    {
+      "def1": "смотреть видео",
+      "ipa": "tu wɑʧ ə ˈvɪdioʊ",
+      "spell": "to watch a video"
+    },
+    {
+      "def1": "сегодня вторник",
+      "ipa": "təˈdeɪ ɪz ˈtuzˌdeɪ",
+      "spell": "today is Tuesday"
+    },
+    {
+      "def1": "постарайся понять это",
+      "ipa": "traɪ tu ˌʌndərˈstænd ɪt",
+      "spell": "try to understand it"
+    },
+    {
+      "def1": "Прапорщик Косынко",
+      "ipa": "ˈwɔrənt ˈɔfəsər koʊˈsɪŋkoʊ",
+      "spell": "Warrant Officer Kosynko"
+    },
+    {
+      "def1": "мы говорим",
+      "ipa": "wi seɪ",
+      "spell": "we say"
+    },
+    {
+      "def1": "мы посмотрим это",
+      "ipa": "wi wɪl wɑʧ ɪt",
+      "spell": "we will watch it"
+    },
+    {
+      "def1": "мы пишем",
+      "ipa": "wi raɪt",
+      "spell": "we write"
+    },
+    {
+      "def1": "какой сегодня день?",
+      "ipa": "wɑt deɪ ɪz ɪt təˈdeɪ?",
+      "spell": "what day is it today?"
+    },
+    {
+      "def1": "что это за место?",
+      "ipa": "wɑt ɪz ðɪs pleɪs?",
+      "spell": "what is this place?"
+    },
+    {
+      "def1": "откуда они?",
+      "ipa": "wɛr du ðeɪ kʌm frʌm?",
+      "spell": "where do they come from?"
+    },
+    {
+      "def1": "где в Польше?",
+      "ipa": "wɛr ɪn ˈpoʊlənd?",
+      "spell": "where in Poland?"
+    },
+    {
+      "def1": "где он?",
+      "ipa": "wɛr ɪz hi?",
+      "spell": "where is he?"
+    },
+    {
+      "def1": "ты не стоишь на месте",
+      "ipa": "ju ɑr nɑt ˈstændɪŋ stɪl",
+      "spell": "you are not standing still"
+    },
+    {
+      "def1": "ты из Ижевска",
+      "ipa": "ju kʌm frʌm ɪˈʒɛfsk",
+      "spell": "you come from Izhevsk"
+    },
+    {
+      "def1": "ты развиваешься",
+      "ipa": "ju dɪˈvɛləp",
+      "spell": "you develop"
+    },
+    {
+      "def1": "ты не стоишь на месте",
+      "ipa": "ju doʊnt stænd stɪl",
+      "spell": "you don't stand still"
+    },
+    {
+      "def1": "ты учишься",
+      "ipa": "ju lɜrn",
+      "spell": "you learn"
+    }
+  ]
+}
