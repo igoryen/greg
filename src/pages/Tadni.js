@@ -5,7 +5,7 @@ const Tadni = (prop) => {
         {
             "slug": "ab",
             "name": "Alyona B.",
-            "active": true
+            "active": false
         },
         {
             "slug": "af",
