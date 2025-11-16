@@ -1,443 +1,324 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зручний овоч",
-   "ipa": "ə ˈkʌmfərtəbəl ˈvɛʤtəbəl",
-   "spell": "a comfortable vegetable"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "швидкісна траса",
-   "ipa": "ə ˈfriˌweɪ",
-   "spell": "a freeway"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "свіжий фрукт",
-   "ipa": "ə frɛʃ frut",
-   "spell": "a fresh fruit"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "автострада",
-   "ipa": "ə ˈhaɪˌweɪ",
-   "spell": "a highway"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дослівний переклад",
-   "ipa": "ə ˈlɪtərəl trænˈzleɪʃən",
-   "spell": "a literal translation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "багато",
-   "ipa": "ə lɑt ʌv",
-   "spell": "a lot of"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "маленька тарілка",
-   "ipa": "ə smɔl pleɪt",
-   "spell": "a small plate"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "назва",
-   "ipa": "ə ˈtaɪtəl",
-   "spell": "a title"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вегетаріанець",
-   "ipa": "ə ˌvɛʤəˈtɛriən",
-   "spell": "a vegetarian"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шлях",
-   "ipa": "ə weɪ",
-   "spell": "a way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "близько п'ять п'ятдесят",
-   "ipa": "əˈbaʊt faɪv-ˈfɪfti",
-   "spell": "about five-fifty"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приклад",
-   "ipa": "ən ɪɡˈzæmpəl",
-   "spell": "an example"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "приблизно п'ять п'ятдесят",
-   "ipa": "əˈraʊnd faɪv-ˈfɪfti",
-   "spell": "around five-fifty"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "масло",
-   "ipa": "ˈbʌtər",
-   "spell": "butter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "йдіть цим шляхом",
-   "ipa": "kʌm ðɪs weɪ",
-   "spell": "come this way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зробіть це так",
-   "ipa": "du ɪt ðæt weɪ",
-   "spell": "do it that way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "зробіть це так",
-   "ipa": "du ɪt ðɪs weɪ",
-   "spell": "do it this way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ви їсте по-японськи?",
-   "ipa": "du ju it ðə ˌʤæpəˈniz weɪ?",
-   "spell": "do you eat the Japanese way?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вам подобається бути на пенсії?",
-   "ipa": "du ju laɪk ˈbiɪŋ rɪˈtaɪrd?",
-   "spell": "do you like being retired?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вам подобається цей стейк?",
-   "ipa": "du ju laɪk ðɪs steɪk?",
-   "spell": "do you like this steak?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вам це подобається?",
-   "ipa": "du ju laɪk ðɪs?",
-   "spell": "do you like this?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "водіння",
-   "ipa": "ˈdraɪvɪŋ",
-   "spell": "driving"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "протягом тижня",
-   "ipa": "ˈdʊrɪŋ ðə wik",
-   "spell": "during the week"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їжа",
-   "ipa": "ˈitɪŋ",
-   "spell": "eating"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "особливо",
-   "ipa": "əˈspɛʃli",
-   "spell": "especially"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "фрукти та овочі",
-   "ipa": "frut ænd ˈvɛʤtəbəlz",
-   "spell": "fruit and vegetables"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "як їсти",
-   "ipa": "haʊ tu it",
-   "spell": "how to eat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "як їсти по-японськи",
-   "ipa": "haʊ tu it laɪk ðə ˌʤæpəˈniz",
-   "spell": "how to eat like the Japanese"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я як помідор",
-   "ipa": "aɪ æm laɪk ə təˈmeɪˌtoʊ",
-   "spell": "I am like a tomato"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я такий",
-   "ipa": "aɪ æm laɪk ðɪs",
-   "spell": "I am like this"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я роблю, а вона робить",
-   "ipa": "aɪ du ænd ʃi dʌz",
-   "spell": "I do and she does"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я роблю, а вона не робить",
-   "ipa": "aɪ du ænd ʃi ˈdʌzənt",
-   "spell": "I do and she doesn't"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мені подобається помідор",
-   "ipa": "aɪ laɪk ə təˈmeɪˌtoʊ",
-   "spell": "I like a tomato"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мені це подобається",
-   "ipa": "aɪ laɪk ðɪs",
-   "spell": "I like this"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мені подобається так",
-   "ipa": "aɪ laɪk ɪt laɪk ðɪs",
-   "spell": "I like it like this"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я прокидаюсь близько п'ять п'ятдесят ранку",
-   "ipa": "aɪ weɪk ʌp əˈraʊnd faɪv-ˈfɪfti ɪn ðə ˈmɔrnɪŋ",
-   "spell": "I wake up around five-fifty in the morning"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хотів би це",
-   "ipa": "aɪ wʊd laɪk ðæt",
-   "spell": "I would like that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "як японці",
-   "ipa": "laɪk ðə ˌʤæpəˈniz",
-   "spell": "like the Japanese"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "олія",
-   "ipa": "ɔɪl",
-   "spell": "oil"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "спання",
-   "ipa": "ˈslipɪŋ",
-   "spell": "sleeping"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "паління",
-   "ipa": "ˈsmoʊkɪŋ",
-   "spell": "smoking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "припиніть це робити",
-   "ipa": "stɑp ˈduɪŋ ðæt",
-   "spell": "stop doing that"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "припиніть їсти, коли ви ситі",
-   "ipa": "stɑp ˈitɪŋ wɛn ju ɑr fʊl",
-   "spell": "stop eating when you are full"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "припиніть читати",
-   "ipa": "stɑp ˈrɛdɪŋ",
-   "spell": "stop reading"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "припиніть сидіти",
-   "ipa": "stɑp ˈsɪtɪŋ",
-   "spell": "stop sitting"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "припиніть говорити",
-   "ipa": "stɑp ˈtɔkɪŋ",
-   "spell": "stop talking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "припиніть думати",
-   "ipa": "stɑp ˈθɪŋkɪŋ",
-   "spell": "stop thinking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "припиніть писати",
-   "ipa": "stɑp ˈraɪtɪŋ",
-   "spell": "stop writing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "розмова",
-   "ipa": "ˈtɔkɪŋ",
-   "spell": "talking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "цим шляхом",
-   "ipa": "ðɪs weɪ",
-   "spell": "this way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їсти по-японськи",
-   "ipa": "tu it laɪk ðə ˌʤæpəˈniz",
-   "spell": "to eat like the Japanese"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їсти на маленьких тарілках",
-   "ipa": "tu it ɑn smɔl pleɪts",
-   "spell": "to eat on small plates"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їсти по-американськи",
-   "ipa": "tu it ði əˈmɛrəkən weɪ",
-   "spell": "to eat the American way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їсти по-китайськи",
-   "ipa": "tu it ðə ʧaɪˈniz weɪ",
-   "spell": "to eat the Chinese way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їсти по-японськи",
-   "ipa": "tu it ðə ˌʤæpəˈniz weɪ",
-   "spell": "to eat the Japanese way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "їсти по-українськи",
-   "ipa": "tu it ðə juˈkreɪniən weɪ",
-   "spell": "to eat the Ukrainian way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "йти тим шляхом",
-   "ipa": "tu ɡoʊ ðæt weɪ",
-   "spell": "to go that way"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "палити",
-   "ipa": "tu smoʊk",
-   "spell": "to smoke"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "овочі",
-   "ipa": "ˈvɛʤiz",
-   "spell": "veggies"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "почекайте, почекайте, почекайте!",
-   "ipa": "weɪt, weɪt, weɪt!",
-   "spell": "wait, wait, wait!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ходьба",
-   "ipa": "ˈwɔkɪŋ",
-   "spell": "walking"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми гуляємо навколо озера",
-   "ipa": "wi wɔk əˈraʊnd ðə leɪk",
-   "spell": "we walk around the lake"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти ситий",
-   "ipa": "ju ɑr fʊl",
-   "spell": "you are full"
- }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 48,
+  "date": "2025-07-03",
+  "words": [
+    {
+      "def1": "зручний овоч",
+      "ipa": "ə ˈkʌmfərtəbəl ˈvɛʤtəbəl",
+      "spell": "a comfortable vegetable"
+    },
+    {
+      "def1": "швидкісна траса",
+      "ipa": "ə ˈfriˌweɪ",
+      "spell": "a freeway"
+    },
+    {
+      "def1": "свіжий фрукт",
+      "ipa": "ə frɛʃ frut",
+      "spell": "a fresh fruit"
+    },
+    {
+      "def1": "автострада",
+      "ipa": "ə ˈhaɪˌweɪ",
+      "spell": "a highway"
+    },
+    {
+      "def1": "дослівний переклад",
+      "ipa": "ə ˈlɪtərəl trænˈzleɪʃən",
+      "spell": "a literal translation"
+    },
+    {
+      "def1": "багато",
+      "ipa": "ə lɑt ʌv",
+      "spell": "a lot of"
+    },
+    {
+      "def1": "маленька тарілка",
+      "ipa": "ə smɔl pleɪt",
+      "spell": "a small plate"
+    },
+    {
+      "def1": "назва",
+      "ipa": "ə ˈtaɪtəl",
+      "spell": "a title"
+    },
+    {
+      "def1": "вегетаріанець",
+      "ipa": "ə ˌvɛʤəˈtɛriən",
+      "spell": "a vegetarian"
+    },
+    {
+      "def1": "шлях",
+      "ipa": "ə weɪ",
+      "spell": "a way"
+    },
+    {
+      "def1": "близько п'ять п'ятдесят",
+      "ipa": "əˈbaʊt faɪv-ˈfɪfti",
+      "spell": "about five-fifty"
+    },
+    {
+      "def1": "приклад",
+      "ipa": "ən ɪɡˈzæmpəl",
+      "spell": "an example"
+    },
+    {
+      "def1": "приблизно п'ять п'ятдесят",
+      "ipa": "əˈraʊnd faɪv-ˈfɪfti",
+      "spell": "around five-fifty"
+    },
+    {
+      "def1": "масло",
+      "ipa": "ˈbʌtər",
+      "spell": "butter"
+    },
+    {
+      "def1": "йдіть цим шляхом",
+      "ipa": "kʌm ðɪs weɪ",
+      "spell": "come this way"
+    },
+    {
+      "def1": "зробіть це так",
+      "ipa": "du ɪt ðæt weɪ",
+      "spell": "do it that way"
+    },
+    {
+      "def1": "зробіть це так",
+      "ipa": "du ɪt ðɪs weɪ",
+      "spell": "do it this way"
+    },
+    {
+      "def1": "ви їсте по-японськи?",
+      "ipa": "du ju it ðə ˌʤæpəˈniz weɪ?",
+      "spell": "do you eat the Japanese way?"
+    },
+    {
+      "def1": "вам подобається бути на пенсії?",
+      "ipa": "du ju laɪk ˈbiɪŋ rɪˈtaɪrd?",
+      "spell": "do you like being retired?"
+    },
+    {
+      "def1": "вам подобається цей стейк?",
+      "ipa": "du ju laɪk ðɪs steɪk?",
+      "spell": "do you like this steak?"
+    },
+    {
+      "def1": "вам це подобається?",
+      "ipa": "du ju laɪk ðɪs?",
+      "spell": "do you like this?"
+    },
+    {
+      "def1": "водіння",
+      "ipa": "ˈdraɪvɪŋ",
+      "spell": "driving"
+    },
+    {
+      "def1": "протягом тижня",
+      "ipa": "ˈdʊrɪŋ ðə wik",
+      "spell": "during the week"
+    },
+    {
+      "def1": "їжа",
+      "ipa": "ˈitɪŋ",
+      "spell": "eating"
+    },
+    {
+      "def1": "особливо",
+      "ipa": "əˈspɛʃli",
+      "spell": "especially"
+    },
+    {
+      "def1": "фрукти та овочі",
+      "ipa": "frut ænd ˈvɛʤtəbəlz",
+      "spell": "fruit and vegetables"
+    },
+    {
+      "def1": "як їсти",
+      "ipa": "haʊ tu it",
+      "spell": "how to eat"
+    },
+    {
+      "def1": "як їсти по-японськи",
+      "ipa": "haʊ tu it laɪk ðə ˌʤæpəˈniz",
+      "spell": "how to eat like the Japanese"
+    },
+    {
+      "def1": "я як помідор",
+      "ipa": "aɪ æm laɪk ə təˈmeɪˌtoʊ",
+      "spell": "I am like a tomato"
+    },
+    {
+      "def1": "я такий",
+      "ipa": "aɪ æm laɪk ðɪs",
+      "spell": "I am like this"
+    },
+    {
+      "def1": "я роблю, а вона робить",
+      "ipa": "aɪ du ænd ʃi dʌz",
+      "spell": "I do and she does"
+    },
+    {
+      "def1": "я роблю, а вона не робить",
+      "ipa": "aɪ du ænd ʃi ˈdʌzənt",
+      "spell": "I do and she doesn't"
+    },
+    {
+      "def1": "мені подобається помідор",
+      "ipa": "aɪ laɪk ə təˈmeɪˌtoʊ",
+      "spell": "I like a tomato"
+    },
+    {
+      "def1": "мені це подобається",
+      "ipa": "aɪ laɪk ðɪs",
+      "spell": "I like this"
+    },
+    {
+      "def1": "мені подобається так",
+      "ipa": "aɪ laɪk ɪt laɪk ðɪs",
+      "spell": "I like it like this"
+    },
+    {
+      "def1": "я прокидаюсь близько п'ять п'ятдесят ранку",
+      "ipa": "aɪ weɪk ʌp əˈraʊnd faɪv-ˈfɪfti ɪn ðə ˈmɔrnɪŋ",
+      "spell": "I wake up around five-fifty in the morning"
+    },
+    {
+      "def1": "я хотів би це",
+      "ipa": "aɪ wʊd laɪk ðæt",
+      "spell": "I would like that"
+    },
+    {
+      "def1": "як японці",
+      "ipa": "laɪk ðə ˌʤæpəˈniz",
+      "spell": "like the Japanese"
+    },
+    {
+      "def1": "олія",
+      "ipa": "ɔɪl",
+      "spell": "oil"
+    },
+    {
+      "def1": "спання",
+      "ipa": "ˈslipɪŋ",
+      "spell": "sleeping"
+    },
+    {
+      "def1": "паління",
+      "ipa": "ˈsmoʊkɪŋ",
+      "spell": "smoking"
+    },
+    {
+      "def1": "припиніть це робити",
+      "ipa": "stɑp ˈduɪŋ ðæt",
+      "spell": "stop doing that"
+    },
+    {
+      "def1": "припиніть їсти, коли ви ситі",
+      "ipa": "stɑp ˈitɪŋ wɛn ju ɑr fʊl",
+      "spell": "stop eating when you are full"
+    },
+    {
+      "def1": "припиніть читати",
+      "ipa": "stɑp ˈrɛdɪŋ",
+      "spell": "stop reading"
+    },
+    {
+      "def1": "припиніть сидіти",
+      "ipa": "stɑp ˈsɪtɪŋ",
+      "spell": "stop sitting"
+    },
+    {
+      "def1": "припиніть говорити",
+      "ipa": "stɑp ˈtɔkɪŋ",
+      "spell": "stop talking"
+    },
+    {
+      "def1": "припиніть думати",
+      "ipa": "stɑp ˈθɪŋkɪŋ",
+      "spell": "stop thinking"
+    },
+    {
+      "def1": "припиніть писати",
+      "ipa": "stɑp ˈraɪtɪŋ",
+      "spell": "stop writing"
+    },
+    {
+      "def1": "розмова",
+      "ipa": "ˈtɔkɪŋ",
+      "spell": "talking"
+    },
+    {
+      "def1": "цим шляхом",
+      "ipa": "ðɪs weɪ",
+      "spell": "this way"
+    },
+    {
+      "def1": "їсти по-японськи",
+      "ipa": "tu it laɪk ðə ˌʤæpəˈniz",
+      "spell": "to eat like the Japanese"
+    },
+    {
+      "def1": "їсти на маленьких тарілках",
+      "ipa": "tu it ɑn smɔl pleɪts",
+      "spell": "to eat on small plates"
+    },
+    {
+      "def1": "їсти по-американськи",
+      "ipa": "tu it ði əˈmɛrəkən weɪ",
+      "spell": "to eat the American way"
+    },
+    {
+      "def1": "їсти по-китайськи",
+      "ipa": "tu it ðə ʧaɪˈniz weɪ",
+      "spell": "to eat the Chinese way"
+    },
+    {
+      "def1": "їсти по-японськи",
+      "ipa": "tu it ðə ˌʤæpəˈniz weɪ",
+      "spell": "to eat the Japanese way"
+    },
+    {
+      "def1": "їсти по-українськи",
+      "ipa": "tu it ðə juˈkreɪniən weɪ",
+      "spell": "to eat the Ukrainian way"
+    },
+    {
+      "def1": "йти тим шляхом",
+      "ipa": "tu ɡoʊ ðæt weɪ",
+      "spell": "to go that way"
+    },
+    {
+      "def1": "палити",
+      "ipa": "tu smoʊk",
+      "spell": "to smoke"
+    },
+    {
+      "def1": "овочі",
+      "ipa": "ˈvɛʤiz",
+      "spell": "veggies"
+    },
+    {
+      "def1": "почекайте, почекайте, почекайте!",
+      "ipa": "weɪt, weɪt, weɪt!",
+      "spell": "wait, wait, wait!"
+    },
+    {
+      "def1": "ходьба",
+      "ipa": "ˈwɔkɪŋ",
+      "spell": "walking"
+    },
+    {
+      "def1": "ми гуляємо навколо озера",
+      "ipa": "wi wɔk əˈraʊnd ðə leɪk",
+      "spell": "we walk around the lake"
+    },
+    {
+      "def1": "ти ситий",
+      "ipa": "ju ɑr fʊl",
+      "spell": "you are full"
+    }
+  ]
+}
