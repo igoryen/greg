@@ -1,674 +1,681 @@
-[
- {
-   "cefr": "",
-   "def2": "sentīre est verbum prīncipāle",
-   "def1": "відчувати - це основний дієслово",
-   "ipa": "fil ɪz ə meɪn vɜrb",
-   "spell": "feel is a main verb"
- },
- {
-   "cefr": "",
-   "def2": "est est verbum prīncipāle",
-   "def1": "бути - це основний дієслово",
-   "ipa": "ɪz ɪz ə meɪn vɜrb",
-   "spell": "is is a main verb"
- },
- {
-   "cefr": "",
-   "def2": "differentia",
-   "def1": "різниця",
-   "ipa": "ə ˈdɪfərəns",
-   "spell": "a difference"
- },
- {
-   "cefr": "",
-   "def2": "longa fābula",
-   "def1": "довга історія",
-   "ipa": "ə lɔŋ ˈstɔri",
-   "spell": "a long story"
- },
- {
-   "cefr": "",
-   "def2": "nox foris",
-   "def1": "ніч на місті",
-   "ipa": "ə naɪt aʊt",
-   "spell": "a night out"
- },
- {
-   "cefr": "",
-   "def2": "quadrāns",
-   "def1": "чверть",
-   "ipa": "ə ˈkwɔrtər",
-   "spell": "a quarter"
- },
- {
-   "cefr": "",
-   "def2": "verbum rēgulāre",
-   "def1": "правильний дієслово",
-   "ipa": "ə ˈrɛɡjələr vɜrb",
-   "spell": "a regular verb"
- },
- {
-   "cefr": "",
-   "def2": "littera tacita",
-   "def1": "нема літера",
-   "ipa": "ə ˈsaɪlənt ˈlɛtər",
-   "spell": "a silent letter"
- },
- {
-   "cefr": "",
-   "def2": "sonus",
-   "def1": "звук",
-   "ipa": "ə saʊnd",
-   "spell": "a sound"
- },
- {
-   "cefr": "",
-   "def2": "theātrum",
-   "def1": "театр",
-   "ipa": "ə ˈθiətər",
-   "spell": "a theater"
- },
- {
-   "cefr": "",
-   "def2": "homō sitibundus",
-   "def1": "спраглий чоловік",
-   "ipa": "ə ˈθɜrsti mæn",
-   "spell": "a thirsty man"
- },
- {
-   "cefr": "",
-   "def2": "īdem sonus",
-   "def1": "той самий звук",
-   "ipa": "ɔl ðə seɪm saʊnd",
-   "spell": "all the same sound"
- },
- {
-   "cefr": "",
-   "def2": "paene hōrā nōnā",
-   "def1": "майже дев'ята година",
-   "ipa": "ˈɔlˌmoʊst naɪn əˈklɑk",
-   "spell": "almost nine o'clock"
- },
- {
-   "cefr": "",
-   "def2": "verbum irregulāre",
-   "def1": "неправильний дієслово",
-   "ipa": "ən ɪˈrɛɡjələr vɜrb",
-   "spell": "an irregular verb"
- },
- {
-   "cefr": "",
-   "def2": "alīus",
-   "def1": "інший",
-   "ipa": "əˈnʌðər wʌn",
-   "spell": "another one"
- },
- {
-   "cefr": "",
-   "def2": "tibi calet?",
-   "def1": "тобі спекотно?",
-   "ipa": "ɑr ju hɑt?",
-   "spell": "are you hot?"
- },
- {
-   "cefr": "",
-   "def2": "tibi fessus es?",
-   "def1": "ти втомився?",
-   "ipa": "ɑr ju ˈtaɪərd?",
-   "spell": "are you tired?"
- },
- {
-   "cefr": "",
-   "def2": "ad hōram ūndecimam",
-   "def1": "о одинадцятій годині",
-   "ipa": "æt ɪˈlɛvən əˈklɑk",
-   "spell": "at eleven o'clock"
- },
- {
-   "cefr": "",
-   "def2": "ad hōram quīntam",
-   "def1": "о п'ятій годині",
-   "ipa": "æt faɪv əˈklɑk",
-   "spell": "at five o'clock"
- },
- {
-   "cefr": "",
-   "def2": "tacē!",
-   "def1": "мовчи!",
-   "ipa": "bi ˈsaɪlənt!",
-   "spell": "be silent!"
- },
- {
-   "cefr": "",
-   "def2": "ante",
-   "def1": "перед",
-   "ipa": "bɪˈfɔr",
-   "spell": "before"
- },
- {
-   "cefr": "",
-   "def2": "tibi melius sentīs?",
-   "def1": "тобі краще?",
-   "ipa": "du ju fil ˈbɛtər?",
-   "spell": "do you feel better?"
- },
- {
-   "cefr": "",
-   "def2": "Anglī id ōdērunt",
-   "def1": "Англійці це ненавидять",
-   "ipa": "ˈɪŋɡlɪʃ ˈpipəl heɪt ɪt",
-   "spell": "English people hate it"
- },
- {
-   "cefr": "",
-   "def2": "Orthographiā Anglicā scelus est",
-   "def1": "Англійська орфографія - це злочин",
-   "ipa": "ˈɪŋɡlɪʃ ˈspɛlɪŋ ɪz ə kraɪm",
-   "spell": "English spelling is a crime"
- },
- {
-   "cefr": "",
-   "def2": "quīndecim ad quārtam",
-   "def1": "за чверть четверта",
-   "ipa": "fɪfˈtin tu fɔr",
-   "spell": "fifteen to four"
- },
- {
-   "cefr": "",
-   "def2": "quīnque post secundam",
-   "def1": "п'ять хвилин на третю",
-   "ipa": "faɪv pæst tu",
-   "spell": "five past two"
- },
- {
-   "cefr": "",
-   "def2": "dīmidium quārtam",
-   "def1": "половина четвертої",
-   "ipa": "hæf ʌv fɔr",
-   "spell": "half of four"
- },
- {
-   "cefr": "",
-   "def2": "cibus calidus",
-   "def1": "гаряча їжа",
-   "ipa": "hɑt fud",
-   "spell": "hot food"
- },
- {
-   "cefr": "",
-   "def2": "quōmodo tē sentīs?",
-   "def1": "як ти почуваєшся?",
-   "ipa": "haʊ du ju fil?",
-   "spell": "how do you feel?"
- },
- {
-   "cefr": "",
-   "def2": "quōmodo scīs?",
-   "def1": "звідки ти знаєш?",
-   "ipa": "haʊ du ju noʊ?",
-   "spell": "how do you know?"
- },
- {
-   "cefr": "",
-   "def2": "Igor ēsuriēns",
-   "def1": "голодний Ігор",
-   "ipa": "ˈhʌŋɡri ɪˈɡɔr",
-   "spell": "hungry Igor"
- },
- {
-   "cefr": "",
-   "def2": "algeō",
-   "def1": "мені холодно",
-   "ipa": "aɪ æm koʊld",
-   "spell": "I am cold"
- },
- {
-   "cefr": "",
-   "def2": "bene valeō",
-   "def1": "я в порядку",
-   "ipa": "aɪ æm faɪn",
-   "spell": "I am fine"
- },
- {
-   "cefr": "",
-   "def2": "caleō",
-   "def1": "мені спекотно",
-   "ipa": "aɪ æm hɑt",
-   "spell": "I am hot"
- },
- {
-   "cefr": "",
-   "def2": "ēsuriō",
-   "def1": "я голодний",
-   "ipa": "aɪ æm ˈhʌŋɡri",
-   "spell": "I am hungry"
- },
- {
-   "cefr": "",
-   "def2": "sitiō",
-   "def1": "я хочу пити",
-   "ipa": "aɪ æm ˈθɜrsti",
-   "spell": "I am thirsty"
- },
- {
-   "cefr": "",
-   "def2": "fatīgātus sum",
-   "def1": "я втомився",
-   "ipa": "aɪ æm ˈtaɪərd",
-   "spell": "I am tired"
- },
- {
-   "cefr": "",
-   "def2": "melius sentiō",
-   "def1": "я почуваю себе краще",
-   "ipa": "aɪ fil ˈbɛtər",
-   "spell": "I feel better"
- },
- {
-   "cefr": "",
-   "def2": "bene sentiō",
-   "def1": "я почуваю себе добре",
-   "ipa": "aɪ fil faɪn",
-   "spell": "I feel fine"
- },
- {
-   "cefr": "",
-   "def2": "bene mihi est",
-   "def1": "я почуваю себе добре",
-   "ipa": "aɪ fil ɡʊd",
-   "spell": "I feel good"
- },
- {
-   "cefr": "",
-   "def2": "domum hōrā octāvā eō",
-   "def1": "я йду додому о восьмій годині",
-   "ipa": "aɪ ɡoʊ hoʊm æt eɪt əˈklɑk",
-   "spell": "I go home at eight o'clock"
- },
- {
-   "cefr": "",
-   "def2": "ad labōrem hōrā sextā eō",
-   "def1": "я йду на роботу о шостій годині",
-   "ipa": "aɪ ɡoʊ tu wɜrk æt sɪks",
-   "spell": "I go to work at six"
- },
- {
-   "cefr": "",
-   "def2": "raedam habeō",
-   "def1": "у мене є машина",
-   "ipa": "aɪ hæv ə kɑr",
-   "spell": "I have a car"
- },
- {
-   "cefr": "",
-   "def2": "diē Solīs hōrā nōnā expergīscor",
-   "def1": "я прокидаюсь о дев'ятій годині в неділю",
-   "ipa": "aɪ weɪk ʌp æt naɪn əˈklɑk ɑn ˈsʌnˌdeɪ",
-   "spell": "I wake up at nine o'clock on Sunday"
- },
- {
-   "cefr": "",
-   "def2": "cocam volō",
-   "def1": "я хочу колу",
-   "ipa": "aɪ wɑnt koʊk",
-   "spell": "I want coke"
- },
- {
-   "cefr": "",
-   "def2": "vērē",
-   "def1": "навесні",
-   "ipa": "ɪn sprɪŋ",
-   "spell": "in spring"
- },
- {
-   "cefr": "",
-   "def2": "aestāte",
-   "def1": "влітку",
-   "ipa": "ɪn ˈsʌmər",
-   "spell": "in summer"
- },
- {
-   "cefr": "",
-   "def2": "autumnō",
-   "def1": "восени",
-   "ipa": "ɪn ðə fɔl",
-   "spell": "in the fall"
- },
- {
-   "cefr": "",
-   "def2": "in conclāvī",
-   "def1": "у кімнаті",
-   "ipa": "ɪn ðə rum",
-   "spell": "in the room"
- },
- {
-   "cefr": "",
-   "def2": "hieme",
-   "def1": "взимку",
-   "ipa": "ɪn ˈwɪntər",
-   "spell": "in winter"
- },
- {
-   "cefr": "",
-   "def2": "paene hōra tertia est",
-   "def1": "майже третя година",
-   "ipa": "ɪt ɪz ˈɔlˌmoʊst θri əˈklɑk",
-   "spell": "it is almost three o'clock"
- },
- {
-   "cefr": "",
-   "def2": "hōra octāva est",
-   "def1": "це о восьмій годині",
-   "ipa": "ɪt ɪz æt eɪt əˈklɑk",
-   "spell": "it is at eight o'clock"
- },
- {
-   "cefr": "",
-   "def2": "silentium est",
-   "def1": "тихо",
-   "ipa": "ɪt ɪz ˈsaɪlənt",
-   "spell": "it is silent"
- },
- {
-   "cefr": "",
-   "def2": "male sonat",
-   "def1": "це звучить неправильно",
-   "ipa": "ɪt saʊndz rɔŋ",
-   "spell": "it sounds wrong"
- },
- {
-   "cefr": "",
-   "def2": "hoccīne omnia?",
-   "def1": "це все?",
-   "ipa": "ɪt ðɪs ɔl?",
-   "spell": "it this all?"
- },
- {
-   "cefr": "",
-   "def2": "aliud verbum est",
-   "def1": "це інше слово",
-   "ipa": "ɪts ə ˈdɪfərənt wɜrd",
-   "spell": "it's a different word"
- },
- {
-   "cefr": "",
-   "def2": "quadrāns post ūndecimam est",
-   "def1": "чверть на дванадцяту",
-   "ipa": "ɪts ˈkwɔrtər ˈæftər ɪˈlɛvən",
-   "spell": "it's quarter after eleven"
- },
- {
-   "cefr": "",
-   "def2": "quadrāns post septimam est",
-   "def1": "чверть на восьму",
-   "ipa": "ɪts ˈkwɔrtər ˈæftər ˈsɛvən",
-   "spell": "it's quarter after seven"
- },
- {
-   "cefr": "",
-   "def2": "littera \"K\" tacet",
-   "def1": "літера \"K\" нема",
-   "ipa": "ˈlɛtər \"keɪ\" ɪz ˈsaɪlənt",
-   "spell": "letter \"K\" is silent"
- },
- {
-   "cefr": "",
-   "def2": "ad tertiam movēns",
-   "def1": "наближається до третьої",
-   "ipa": "ˈmuvɪŋ təˈwɔrd θri",
-   "spell": "moving toward three"
- },
- {
-   "cefr": "",
-   "def2": "diē Lūnae",
-   "def1": "у понеділок",
-   "ipa": "ɑn ˈmʌnˌdeɪ",
-   "spell": "on Monday"
- },
- {
-   "cefr": "",
-   "def2": "os lātē aperī",
-   "def1": "широко відкрий рот",
-   "ipa": "ˈoʊpən jʊər maʊθ waɪd",
-   "spell": "open your mouth wide"
- },
- {
-   "cefr": "",
-   "def2": "nunc",
-   "def1": "зараз",
-   "ipa": "raɪt naʊ",
-   "spell": "right now"
- },
- {
-   "cefr": "",
-   "def2": "dīc quōmodo tē sentīs",
-   "def1": "скажи, як ти почуваєшся",
-   "ipa": "seɪ haʊ ju fil",
-   "spell": "say how you feel"
- },
- {
-   "cefr": "",
-   "def2": "raedam habet",
-   "def1": "у неї є машина",
-   "ipa": "ʃi hæz ə kɑr",
-   "spell": "she has a car"
- },
- {
-   "cefr": "",
-   "def2": "jentāculum sūmit",
-   "def1": "вона снідає",
-   "ipa": "ʃi hæz ˈbrɛkfəst",
-   "spell": "she has breakfast"
- },
- {
-   "cefr": "",
-   "def2": "dīc mihi",
-   "def1": "скажи мені",
-   "ipa": "tɛl mi",
-   "spell": "tell me"
- },
- {
-   "cefr": "",
-   "def2": "decem post tertiam",
-   "def1": "десять хвилин на четверту",
-   "ipa": "tɛn ˈæftər θri",
-   "spell": "ten after three"
- },
- {
-   "cefr": "",
-   "def2": "cibus frīgidus est",
-   "def1": "їжа холодна",
-   "ipa": "ðə fud ɪz koʊld",
-   "spell": "the food is cold"
- },
- {
-   "cefr": "",
-   "def2": "verbum prīncipāle",
-   "def1": "основний дієслово",
-   "ipa": "ðə meɪn vɜrb",
-   "spell": "the main verb"
- },
- {
-   "cefr": "",
-   "def2": "jocōs dē eō faciunt",
-   "def1": "вони жартують про це",
-   "ipa": "ðeɪ meɪk ʤoʊks əˈbaʊt ɪt",
-   "spell": "they make jokes about it"
- },
- {
-   "cefr": "",
-   "def2": "sitibundus",
-   "def1": "спраглий",
-   "ipa": "ˈθɜrsti",
-   "spell": "thirsty"
- },
- {
-   "cefr": "",
-   "def2": "Igor fessus",
-   "def1": "втомлений Ігор",
-   "ipa": "ˈtaɪərd ɪˈɡɔr",
-   "spell": "tired Igor"
- },
- {
-   "cefr": "",
-   "def2": "sentīre",
-   "def1": "відчувати",
-   "ipa": "tu fil",
-   "spell": "to feel"
- },
- {
-   "cefr": "",
-   "def2": "noctem foris agere",
-   "def1": "проводити ніч на місті",
-   "ipa": "tu hæv ə naɪt aʊt",
-   "spell": "to have a night out"
- },
- {
-   "cefr": "",
-   "def2": "ad mē movēre",
-   "def1": "рухатися до мене",
-   "ipa": "tu muv təˈwɔrd mi",
-   "spell": "to move toward me"
- },
- {
-   "cefr": "",
-   "def2": "fatīgāre",
-   "def1": "втомлювати",
-   "ipa": "tu ˈtaɪər",
-   "spell": "to tire"
- },
- {
-   "cefr": "",
-   "def2": "trādūcere",
-   "def1": "перекладати",
-   "ipa": "tu trænˈzleɪt",
-   "spell": "to translate"
- },
- {
-   "cefr": "",
-   "def2": "ad",
-   "def1": "до",
-   "ipa": "təˈwɔrd",
-   "spell": "toward"
- },
- {
-   "cefr": "",
-   "def2": "dīcimus",
-   "def1": "ми говоримо",
-   "ipa": "wi seɪ",
-   "spell": "we say"
- },
- {
-   "cefr": "",
-   "def2": "scrībimus",
-   "def1": "ми пишемо",
-   "ipa": "wi raɪt",
-   "spell": "we write"
- },
- {
-   "cefr": "",
-   "def2": "quā hōrā dormīre is?",
-   "def1": "о котрій годині ти лягаєш спати?",
-   "ipa": "wɑt taɪm du ju ɡoʊ tu slip?",
-   "spell": "what time do you go to sleep?"
- },
- {
-   "cefr": "",
-   "def2": "quā hōrā diē Solīs expergīscēns?",
-   "def1": "о котрій годині ти прокидаєшся в неділю?",
-   "ipa": "wɑt taɪm du ju weɪk ʌp ɑn ˈsʌnˌdeɪ?",
-   "spell": "what time do you wake up on Sunday?"
- },
- {
-   "cefr": "",
-   "def2": "quā hōrā expergīscēns?",
-   "def1": "о котрій годині ти прокидаєшся?",
-   "ipa": "wɑt taɪm du ju weɪk ʌp?",
-   "spell": "what time do you wake up?"
- },
- {
-   "cefr": "",
-   "def2": "quotā hōrā est?",
-   "def1": "котра година?",
-   "ipa": "wɑt taɪm ɪz ɪt?",
-   "spell": "what time is it?"
- },
- {
-   "cefr": "",
-   "def2": "quid est temperātūra in Fahrenheit?",
-   "def1": "яка температура за Фаренгейтом?",
-   "ipa": "wʌts ðə ˈtɛmprəʧər ɪn ˈfɛrənˌhaɪt?",
-   "spell": "what's the temperature in Fahrenheit?"
- },
- {
-   "cefr": "",
-   "def2": "quandō domum is?",
-   "def1": "коли ти йдеш додому?",
-   "ipa": "wɛn du ɡoʊ hoʊm?",
-   "spell": "when do go home?"
- },
- {
-   "cefr": "",
-   "def2": "quandō ad labōrem is?",
-   "def1": "коли ти йдеш на роботу?",
-   "ipa": "wɛn du ju ɡoʊ tu wɜrk?",
-   "spell": "when do you go to work?"
- },
- {
-   "cefr": "",
-   "def2": "quae loca is?",
-   "def1": "в які місця ти ходиш?",
-   "ipa": "wɪʧ ˈpleɪsəz du ju ɡoʊ?",
-   "spell": "which places do you go?"
- },
- {
-   "cefr": "",
-   "def2": "cūr litterae tacitae ibi sunt?",
-   "def1": "чому там є німі літери?",
-   "ipa": "waɪ ɑr ðə ˈsaɪlənt ˈlɛtərz ðɛr?",
-   "spell": "why are the silent letters there?"
- },
- {
-   "cefr": "",
-   "def2": "lātē",
-   "def1": "широко",
-   "ipa": "waɪd",
-   "spell": "wide"
- },
- {
-   "cefr": "",
-   "def2": "ūnum verbum prīncipāle tantum habēs",
-   "def1": "у тебе може бути лише один основний дієслово",
-   "ipa": "ju kæn ˈoʊnli hæv wʌn meɪn vɜrb",
-   "spell": "you can only have one main verb"
- },
- {
-   "cefr": "",
-   "def2": "nōn scīs",
-   "def1": "ти не знаєш",
-   "ipa": "ju doʊnt noʊ",
-   "spell": "you don't know"
- },
- {
-   "cefr": "",
-   "def2": "sentīs",
-   "def1": "ти відчуваєш",
-   "ipa": "ju fil",
-   "spell": "you feel"
- },
- {
-   "cefr": "",
-   "def2": "legis!",
-   "def1": "читай!",
-   "ipa": "ju rid!",
-   "spell": "you read!"
- },
- {
-   "cefr": "",
-   "def2": "mē fatīgās",
-   "def1": "ти мене втомлюєш",
-   "ipa": "ju ˈtaɪər mi",
-   "spell": "you tire me"
- }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 34,
+  "date": "2025-06-02",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "sentīre est verbum prīncipāle",
+      "def1": "відчувати - це основний дієслово",
+      "ipa": "fil ɪz ə meɪn vɜrb",
+      "spell": "feel is a main verb"
+    },
+    {
+      "cefr": "",
+      "def2": "est est verbum prīncipāle",
+      "def1": "бути - це основний дієслово",
+      "ipa": "ɪz ɪz ə meɪn vɜrb",
+      "spell": "is is a main verb"
+    },
+    {
+      "cefr": "",
+      "def2": "differentia",
+      "def1": "різниця",
+      "ipa": "ə ˈdɪfərəns",
+      "spell": "a difference"
+    },
+    {
+      "cefr": "",
+      "def2": "longa fābula",
+      "def1": "довга історія",
+      "ipa": "ə lɔŋ ˈstɔri",
+      "spell": "a long story"
+    },
+    {
+      "cefr": "",
+      "def2": "nox foris",
+      "def1": "ніч на місті",
+      "ipa": "ə naɪt aʊt",
+      "spell": "a night out"
+    },
+    {
+      "cefr": "",
+      "def2": "quadrāns",
+      "def1": "чверть",
+      "ipa": "ə ˈkwɔrtər",
+      "spell": "a quarter"
+    },
+    {
+      "cefr": "",
+      "def2": "verbum rēgulāre",
+      "def1": "правильний дієслово",
+      "ipa": "ə ˈrɛɡjələr vɜrb",
+      "spell": "a regular verb"
+    },
+    {
+      "cefr": "",
+      "def2": "littera tacita",
+      "def1": "нема літера",
+      "ipa": "ə ˈsaɪlənt ˈlɛtər",
+      "spell": "a silent letter"
+    },
+    {
+      "cefr": "",
+      "def2": "sonus",
+      "def1": "звук",
+      "ipa": "ə saʊnd",
+      "spell": "a sound"
+    },
+    {
+      "cefr": "",
+      "def2": "theātrum",
+      "def1": "театр",
+      "ipa": "ə ˈθiətər",
+      "spell": "a theater"
+    },
+    {
+      "cefr": "",
+      "def2": "homō sitibundus",
+      "def1": "спраглий чоловік",
+      "ipa": "ə ˈθɜrsti mæn",
+      "spell": "a thirsty man"
+    },
+    {
+      "cefr": "",
+      "def2": "īdem sonus",
+      "def1": "той самий звук",
+      "ipa": "ɔl ðə seɪm saʊnd",
+      "spell": "all the same sound"
+    },
+    {
+      "cefr": "",
+      "def2": "paene hōrā nōnā",
+      "def1": "майже дев'ята година",
+      "ipa": "ˈɔlˌmoʊst naɪn əˈklɑk",
+      "spell": "almost nine o'clock"
+    },
+    {
+      "cefr": "",
+      "def2": "verbum irregulāre",
+      "def1": "неправильний дієслово",
+      "ipa": "ən ɪˈrɛɡjələr vɜrb",
+      "spell": "an irregular verb"
+    },
+    {
+      "cefr": "",
+      "def2": "alīus",
+      "def1": "інший",
+      "ipa": "əˈnʌðər wʌn",
+      "spell": "another one"
+    },
+    {
+      "cefr": "",
+      "def2": "tibi calet?",
+      "def1": "тобі спекотно?",
+      "ipa": "ɑr ju hɑt?",
+      "spell": "are you hot?"
+    },
+    {
+      "cefr": "",
+      "def2": "tibi fessus es?",
+      "def1": "ти втомився?",
+      "ipa": "ɑr ju ˈtaɪərd?",
+      "spell": "are you tired?"
+    },
+    {
+      "cefr": "",
+      "def2": "ad hōram ūndecimam",
+      "def1": "о одинадцятій годині",
+      "ipa": "æt ɪˈlɛvən əˈklɑk",
+      "spell": "at eleven o'clock"
+    },
+    {
+      "cefr": "",
+      "def2": "ad hōram quīntam",
+      "def1": "о п'ятій годині",
+      "ipa": "æt faɪv əˈklɑk",
+      "spell": "at five o'clock"
+    },
+    {
+      "cefr": "",
+      "def2": "tacē!",
+      "def1": "мовчи!",
+      "ipa": "bi ˈsaɪlənt!",
+      "spell": "be silent!"
+    },
+    {
+      "cefr": "",
+      "def2": "ante",
+      "def1": "перед",
+      "ipa": "bɪˈfɔr",
+      "spell": "before"
+    },
+    {
+      "cefr": "",
+      "def2": "tibi melius sentīs?",
+      "def1": "тобі краще?",
+      "ipa": "du ju fil ˈbɛtər?",
+      "spell": "do you feel better?"
+    },
+    {
+      "cefr": "",
+      "def2": "Anglī id ōdērunt",
+      "def1": "Англійці це ненавидять",
+      "ipa": "ˈɪŋɡlɪʃ ˈpipəl heɪt ɪt",
+      "spell": "English people hate it"
+    },
+    {
+      "cefr": "",
+      "def2": "Orthographiā Anglicā scelus est",
+      "def1": "Англійська орфографія - це злочин",
+      "ipa": "ˈɪŋɡlɪʃ ˈspɛlɪŋ ɪz ə kraɪm",
+      "spell": "English spelling is a crime"
+    },
+    {
+      "cefr": "",
+      "def2": "quīndecim ad quārtam",
+      "def1": "за чверть четверта",
+      "ipa": "fɪfˈtin tu fɔr",
+      "spell": "fifteen to four"
+    },
+    {
+      "cefr": "",
+      "def2": "quīnque post secundam",
+      "def1": "п'ять хвилин на третю",
+      "ipa": "faɪv pæst tu",
+      "spell": "five past two"
+    },
+    {
+      "cefr": "",
+      "def2": "dīmidium quārtam",
+      "def1": "половина четвертої",
+      "ipa": "hæf ʌv fɔr",
+      "spell": "half of four"
+    },
+    {
+      "cefr": "",
+      "def2": "cibus calidus",
+      "def1": "гаряча їжа",
+      "ipa": "hɑt fud",
+      "spell": "hot food"
+    },
+    {
+      "cefr": "",
+      "def2": "quōmodo tē sentīs?",
+      "def1": "як ти почуваєшся?",
+      "ipa": "haʊ du ju fil?",
+      "spell": "how do you feel?"
+    },
+    {
+      "cefr": "",
+      "def2": "quōmodo scīs?",
+      "def1": "звідки ти знаєш?",
+      "ipa": "haʊ du ju noʊ?",
+      "spell": "how do you know?"
+    },
+    {
+      "cefr": "",
+      "def2": "Igor ēsuriēns",
+      "def1": "голодний Ігор",
+      "ipa": "ˈhʌŋɡri ɪˈɡɔr",
+      "spell": "hungry Igor"
+    },
+    {
+      "cefr": "",
+      "def2": "algeō",
+      "def1": "мені холодно",
+      "ipa": "aɪ æm koʊld",
+      "spell": "I am cold"
+    },
+    {
+      "cefr": "",
+      "def2": "bene valeō",
+      "def1": "я в порядку",
+      "ipa": "aɪ æm faɪn",
+      "spell": "I am fine"
+    },
+    {
+      "cefr": "",
+      "def2": "caleō",
+      "def1": "мені спекотно",
+      "ipa": "aɪ æm hɑt",
+      "spell": "I am hot"
+    },
+    {
+      "cefr": "",
+      "def2": "ēsuriō",
+      "def1": "я голодний",
+      "ipa": "aɪ æm ˈhʌŋɡri",
+      "spell": "I am hungry"
+    },
+    {
+      "cefr": "",
+      "def2": "sitiō",
+      "def1": "я хочу пити",
+      "ipa": "aɪ æm ˈθɜrsti",
+      "spell": "I am thirsty"
+    },
+    {
+      "cefr": "",
+      "def2": "fatīgātus sum",
+      "def1": "я втомився",
+      "ipa": "aɪ æm ˈtaɪərd",
+      "spell": "I am tired"
+    },
+    {
+      "cefr": "",
+      "def2": "melius sentiō",
+      "def1": "я почуваю себе краще",
+      "ipa": "aɪ fil ˈbɛtər",
+      "spell": "I feel better"
+    },
+    {
+      "cefr": "",
+      "def2": "bene sentiō",
+      "def1": "я почуваю себе добре",
+      "ipa": "aɪ fil faɪn",
+      "spell": "I feel fine"
+    },
+    {
+      "cefr": "",
+      "def2": "bene mihi est",
+      "def1": "я почуваю себе добре",
+      "ipa": "aɪ fil ɡʊd",
+      "spell": "I feel good"
+    },
+    {
+      "cefr": "",
+      "def2": "domum hōrā octāvā eō",
+      "def1": "я йду додому о восьмій годині",
+      "ipa": "aɪ ɡoʊ hoʊm æt eɪt əˈklɑk",
+      "spell": "I go home at eight o'clock"
+    },
+    {
+      "cefr": "",
+      "def2": "ad labōrem hōrā sextā eō",
+      "def1": "я йду на роботу о шостій годині",
+      "ipa": "aɪ ɡoʊ tu wɜrk æt sɪks",
+      "spell": "I go to work at six"
+    },
+    {
+      "cefr": "",
+      "def2": "raedam habeō",
+      "def1": "у мене є машина",
+      "ipa": "aɪ hæv ə kɑr",
+      "spell": "I have a car"
+    },
+    {
+      "cefr": "",
+      "def2": "diē Solīs hōrā nōnā expergīscor",
+      "def1": "я прокидаюсь о дев'ятій годині в неділю",
+      "ipa": "aɪ weɪk ʌp æt naɪn əˈklɑk ɑn ˈsʌnˌdeɪ",
+      "spell": "I wake up at nine o'clock on Sunday"
+    },
+    {
+      "cefr": "",
+      "def2": "cocam volō",
+      "def1": "я хочу колу",
+      "ipa": "aɪ wɑnt koʊk",
+      "spell": "I want coke"
+    },
+    {
+      "cefr": "",
+      "def2": "vērē",
+      "def1": "навесні",
+      "ipa": "ɪn sprɪŋ",
+      "spell": "in spring"
+    },
+    {
+      "cefr": "",
+      "def2": "aestāte",
+      "def1": "влітку",
+      "ipa": "ɪn ˈsʌmər",
+      "spell": "in summer"
+    },
+    {
+      "cefr": "",
+      "def2": "autumnō",
+      "def1": "восени",
+      "ipa": "ɪn ðə fɔl",
+      "spell": "in the fall"
+    },
+    {
+      "cefr": "",
+      "def2": "in conclāvī",
+      "def1": "у кімнаті",
+      "ipa": "ɪn ðə rum",
+      "spell": "in the room"
+    },
+    {
+      "cefr": "",
+      "def2": "hieme",
+      "def1": "взимку",
+      "ipa": "ɪn ˈwɪntər",
+      "spell": "in winter"
+    },
+    {
+      "cefr": "",
+      "def2": "paene hōra tertia est",
+      "def1": "майже третя година",
+      "ipa": "ɪt ɪz ˈɔlˌmoʊst θri əˈklɑk",
+      "spell": "it is almost three o'clock"
+    },
+    {
+      "cefr": "",
+      "def2": "hōra octāva est",
+      "def1": "це о восьмій годині",
+      "ipa": "ɪt ɪz æt eɪt əˈklɑk",
+      "spell": "it is at eight o'clock"
+    },
+    {
+      "cefr": "",
+      "def2": "silentium est",
+      "def1": "тихо",
+      "ipa": "ɪt ɪz ˈsaɪlənt",
+      "spell": "it is silent"
+    },
+    {
+      "cefr": "",
+      "def2": "male sonat",
+      "def1": "це звучить неправильно",
+      "ipa": "ɪt saʊndz rɔŋ",
+      "spell": "it sounds wrong"
+    },
+    {
+      "cefr": "",
+      "def2": "hoccīne omnia?",
+      "def1": "це все?",
+      "ipa": "ɪt ðɪs ɔl?",
+      "spell": "it this all?"
+    },
+    {
+      "cefr": "",
+      "def2": "aliud verbum est",
+      "def1": "це інше слово",
+      "ipa": "ɪts ə ˈdɪfərənt wɜrd",
+      "spell": "it's a different word"
+    },
+    {
+      "cefr": "",
+      "def2": "quadrāns post ūndecimam est",
+      "def1": "чверть на дванадцяту",
+      "ipa": "ɪts ˈkwɔrtər ˈæftər ɪˈlɛvən",
+      "spell": "it's quarter after eleven"
+    },
+    {
+      "cefr": "",
+      "def2": "quadrāns post septimam est",
+      "def1": "чверть на восьму",
+      "ipa": "ɪts ˈkwɔrtər ˈæftər ˈsɛvən",
+      "spell": "it's quarter after seven"
+    },
+    {
+      "cefr": "",
+      "def2": "littera \"K\" tacet",
+      "def1": "літера \"K\" нема",
+      "ipa": "ˈlɛtər \"keɪ\" ɪz ˈsaɪlənt",
+      "spell": "letter \"K\" is silent"
+    },
+    {
+      "cefr": "",
+      "def2": "ad tertiam movēns",
+      "def1": "наближається до третьої",
+      "ipa": "ˈmuvɪŋ təˈwɔrd θri",
+      "spell": "moving toward three"
+    },
+    {
+      "cefr": "",
+      "def2": "diē Lūnae",
+      "def1": "у понеділок",
+      "ipa": "ɑn ˈmʌnˌdeɪ",
+      "spell": "on Monday"
+    },
+    {
+      "cefr": "",
+      "def2": "os lātē aperī",
+      "def1": "широко відкрий рот",
+      "ipa": "ˈoʊpən jʊər maʊθ waɪd",
+      "spell": "open your mouth wide"
+    },
+    {
+      "cefr": "",
+      "def2": "nunc",
+      "def1": "зараз",
+      "ipa": "raɪt naʊ",
+      "spell": "right now"
+    },
+    {
+      "cefr": "",
+      "def2": "dīc quōmodo tē sentīs",
+      "def1": "скажи, як ти почуваєшся",
+      "ipa": "seɪ haʊ ju fil",
+      "spell": "say how you feel"
+    },
+    {
+      "cefr": "",
+      "def2": "raedam habet",
+      "def1": "у неї є машина",
+      "ipa": "ʃi hæz ə kɑr",
+      "spell": "she has a car"
+    },
+    {
+      "cefr": "",
+      "def2": "jentāculum sūmit",
+      "def1": "вона снідає",
+      "ipa": "ʃi hæz ˈbrɛkfəst",
+      "spell": "she has breakfast"
+    },
+    {
+      "cefr": "",
+      "def2": "dīc mihi",
+      "def1": "скажи мені",
+      "ipa": "tɛl mi",
+      "spell": "tell me"
+    },
+    {
+      "cefr": "",
+      "def2": "decem post tertiam",
+      "def1": "десять хвилин на четверту",
+      "ipa": "tɛn ˈæftər θri",
+      "spell": "ten after three"
+    },
+    {
+      "cefr": "",
+      "def2": "cibus frīgidus est",
+      "def1": "їжа холодна",
+      "ipa": "ðə fud ɪz koʊld",
+      "spell": "the food is cold"
+    },
+    {
+      "cefr": "",
+      "def2": "verbum prīncipāle",
+      "def1": "основний дієслово",
+      "ipa": "ðə meɪn vɜrb",
+      "spell": "the main verb"
+    },
+    {
+      "cefr": "",
+      "def2": "jocōs dē eō faciunt",
+      "def1": "вони жартують про це",
+      "ipa": "ðeɪ meɪk ʤoʊks əˈbaʊt ɪt",
+      "spell": "they make jokes about it"
+    },
+    {
+      "cefr": "",
+      "def2": "sitibundus",
+      "def1": "спраглий",
+      "ipa": "ˈθɜrsti",
+      "spell": "thirsty"
+    },
+    {
+      "cefr": "",
+      "def2": "Igor fessus",
+      "def1": "втомлений Ігор",
+      "ipa": "ˈtaɪərd ɪˈɡɔr",
+      "spell": "tired Igor"
+    },
+    {
+      "cefr": "",
+      "def2": "sentīre",
+      "def1": "відчувати",
+      "ipa": "tu fil",
+      "spell": "to feel"
+    },
+    {
+      "cefr": "",
+      "def2": "noctem foris agere",
+      "def1": "проводити ніч на місті",
+      "ipa": "tu hæv ə naɪt aʊt",
+      "spell": "to have a night out"
+    },
+    {
+      "cefr": "",
+      "def2": "ad mē movēre",
+      "def1": "рухатися до мене",
+      "ipa": "tu muv təˈwɔrd mi",
+      "spell": "to move toward me"
+    },
+    {
+      "cefr": "",
+      "def2": "fatīgāre",
+      "def1": "втомлювати",
+      "ipa": "tu ˈtaɪər",
+      "spell": "to tire"
+    },
+    {
+      "cefr": "",
+      "def2": "trādūcere",
+      "def1": "перекладати",
+      "ipa": "tu trænˈzleɪt",
+      "spell": "to translate"
+    },
+    {
+      "cefr": "",
+      "def2": "ad",
+      "def1": "до",
+      "ipa": "təˈwɔrd",
+      "spell": "toward"
+    },
+    {
+      "cefr": "",
+      "def2": "dīcimus",
+      "def1": "ми говоримо",
+      "ipa": "wi seɪ",
+      "spell": "we say"
+    },
+    {
+      "cefr": "",
+      "def2": "scrībimus",
+      "def1": "ми пишемо",
+      "ipa": "wi raɪt",
+      "spell": "we write"
+    },
+    {
+      "cefr": "",
+      "def2": "quā hōrā dormīre is?",
+      "def1": "о котрій годині ти лягаєш спати?",
+      "ipa": "wɑt taɪm du ju ɡoʊ tu slip?",
+      "spell": "what time do you go to sleep?"
+    },
+    {
+      "cefr": "",
+      "def2": "quā hōrā diē Solīs expergīscēns?",
+      "def1": "о котрій годині ти прокидаєшся в неділю?",
+      "ipa": "wɑt taɪm du ju weɪk ʌp ɑn ˈsʌnˌdeɪ?",
+      "spell": "what time do you wake up on Sunday?"
+    },
+    {
+      "cefr": "",
+      "def2": "quā hōrā expergīscēns?",
+      "def1": "о котрій годині ти прокидаєшся?",
+      "ipa": "wɑt taɪm du ju weɪk ʌp?",
+      "spell": "what time do you wake up?"
+    },
+    {
+      "cefr": "",
+      "def2": "quotā hōrā est?",
+      "def1": "котра година?",
+      "ipa": "wɑt taɪm ɪz ɪt?",
+      "spell": "what time is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "quid est temperātūra in Fahrenheit?",
+      "def1": "яка температура за Фаренгейтом?",
+      "ipa": "wʌts ðə ˈtɛmprəʧər ɪn ˈfɛrənˌhaɪt?",
+      "spell": "what's the temperature in Fahrenheit?"
+    },
+    {
+      "cefr": "",
+      "def2": "quandō domum is?",
+      "def1": "коли ти йдеш додому?",
+      "ipa": "wɛn du ɡoʊ hoʊm?",
+      "spell": "when do go home?"
+    },
+    {
+      "cefr": "",
+      "def2": "quandō ad labōrem is?",
+      "def1": "коли ти йдеш на роботу?",
+      "ipa": "wɛn du ju ɡoʊ tu wɜrk?",
+      "spell": "when do you go to work?"
+    },
+    {
+      "cefr": "",
+      "def2": "quae loca is?",
+      "def1": "в які місця ти ходиш?",
+      "ipa": "wɪʧ ˈpleɪsəz du ju ɡoʊ?",
+      "spell": "which places do you go?"
+    },
+    {
+      "cefr": "",
+      "def2": "cūr litterae tacitae ibi sunt?",
+      "def1": "чому там є німі літери?",
+      "ipa": "waɪ ɑr ðə ˈsaɪlənt ˈlɛtərz ðɛr?",
+      "spell": "why are the silent letters there?"
+    },
+    {
+      "cefr": "",
+      "def2": "lātē",
+      "def1": "широко",
+      "ipa": "waɪd",
+      "spell": "wide"
+    },
+    {
+      "cefr": "",
+      "def2": "ūnum verbum prīncipāle tantum habēs",
+      "def1": "у тебе може бути лише один основний дієслово",
+      "ipa": "ju kæn ˈoʊnli hæv wʌn meɪn vɜrb",
+      "spell": "you can only have one main verb"
+    },
+    {
+      "cefr": "",
+      "def2": "nōn scīs",
+      "def1": "ти не знаєш",
+      "ipa": "ju doʊnt noʊ",
+      "spell": "you don't know"
+    },
+    {
+      "cefr": "",
+      "def2": "sentīs",
+      "def1": "ти відчуваєш",
+      "ipa": "ju fil",
+      "spell": "you feel"
+    },
+    {
+      "cefr": "",
+      "def2": "legis!",
+      "def1": "читай!",
+      "ipa": "ju rid!",
+      "spell": "you read!"
+    },
+    {
+      "cefr": "",
+      "def2": "mē fatīgās",
+      "def1": "ти мене втомлюєш",
+      "ipa": "ju ˈtaɪər mi",
+      "spell": "you tire me"
+    }
+  ]
+}
