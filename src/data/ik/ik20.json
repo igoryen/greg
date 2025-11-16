@@ -1,338 +1,249 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "разговор",
-   "ipa": "ə ˌkɑnvərˈseɪʃən",
-   "spell": "a conversation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "стол",
-   "ipa": "ə ˈteɪbəl",
-   "spell": "a table"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вещь",
-   "ipa": "ə θɪŋ",
-   "spell": "a thing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "являюсь ли я?",
-   "ipa": "æm aɪ?",
-   "spell": "am I?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "являются ли они американскими?",
-   "ipa": "ɑr ðeɪ əˈmɛrəkən?",
-   "spell": "are they American?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "находятся ли они в доме?",
-   "ipa": "ɑr ðeɪ ɪn ðə haʊs?",
-   "spell": "are they in the house?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "являются ли они японскими?",
-   "ipa": "ɑr ðeɪ ˌʤæpəˈniz?",
-   "spell": "are they Japanese?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "находимся ли мы в США?",
-   "ipa": "ɑr wi ɪn ði ʌs?",
-   "spell": "are we in the US?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "являешься ли ты мексиканским?",
-   "ipa": "ɑr ju ˈmɛksəkən?",
-   "spell": "are you Mexican?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "являешься ли ты?",
-   "ipa": "ɑr ju?",
-   "spell": "are you? "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "хороший",
-   "ipa": "ɡʊd",
-   "spell": "good"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он является",
-   "ipa": "hi ɪz!",
-   "spell": "he is!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "он не является",
-   "ipa": "hi ˈɪzənt",
-   "spell": "he isn't "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "здесь",
-   "ipa": "hir",
-   "spell": "here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я являюсь",
-   "ipa": "aɪ æm",
-   "spell": "I am "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не очень хорошо лажу с собаками",
-   "ipa": "aɪ æm nɑt ˈvɛri ɡʊd wɪð dɑɡz",
-   "spell": "I am not very good with dogs"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я вижу женщину",
-   "ipa": "aɪ si ə ˈwʊmən",
-   "spell": "I see a woman"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу есть",
-   "ipa": "aɪ wɑnt tu it",
-   "spell": "I want to eat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу пойти",
-   "ipa": "aɪ wɑnt tu ɡoʊ",
-   "spell": "I want to go"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я хочу спать",
-   "ipa": "aɪ wɑnt tu slip",
-   "spell": "I want to sleep"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "является ли он?",
-   "ipa": "ɪz hi?",
-   "spell": "is he? "
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мой бывший",
-   "ipa": "maɪ ɛks",
-   "spell": "my ex"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "моя вторая жена",
-   "ipa": "maɪ ˈsɛkənd waɪf",
-   "spell": "my second wife"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "никаких",
-   "ipa": "noʊ",
-   "spell": "no"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ничего",
-   "ipa": "ˈnʌθɪŋ",
-   "spell": "nothing"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ничего хорошего",
-   "ipa": "ˈnʌθɪŋ ɡʊd",
-   "spell": "nothing good"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "по делам",
-   "ipa": "ɑn ˈbɪznəs",
-   "spell": "on business"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "там",
-   "ipa": "ˈoʊvər ðɛr",
-   "spell": "over there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "второй",
-   "ipa": "ˈsɛkənd",
-   "spell": "second"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она моя бывшая",
-   "ipa": "ʃi ɪz maɪ ɛks",
-   "spell": "she is my ex"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "она моя бывшая жена",
-   "ipa": "ʃi ɪz maɪ ɛks-waɪf",
-   "spell": "she is my ex-wife"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "скажи мне",
-   "ipa": "tɛl mi",
-   "spell": "tell me"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "там",
-   "ipa": "ðɛr",
-   "spell": "there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они находятся там",
-   "ipa": "ðeɪ ɑr ðɛr",
-   "spell": "they are there"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "они находятся в машине",
-   "ipa": "ðɛr ɪn ðə kɑr",
-   "spell": "they're in the car"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "спросить",
-   "ipa": "tu æsk",
-   "spell": "to ask"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "встретить",
-   "ipa": "tu mit",
-   "spell": "to meet"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сказать",
-   "ipa": "tu seɪ",
-   "spell": "to say"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "говорить",
-   "ipa": "tu tɔk",
-   "spell": "to talk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рассказать",
-   "ipa": "tu tɛl",
-   "spell": "to tell"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сегодняшний день является выходным днём",
-   "ipa": "təˈdeɪ ɪz ə fri deɪ",
-   "spell": "today is a free day"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы находимся здесь",
-   "ipa": "wi ɑr hir",
-   "spell": "we are here"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "мы опаздываем",
-   "ipa": "wir leɪt",
-   "spell": "we're late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "что это?",
-   "ipa": "wɑt ɪz ðæt?",
-   "spell": "what is that?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "где",
-   "ipa": "wɛr",
-   "spell": "where"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "из какого города России ты?",
-   "ipa": "wɛr ɪn ˈrʌʃə ɑr ju frʌm?",
-   "spell": "where in Russia are you from?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты являешься",
-   "ipa": "ju ɑr!",
-   "spell": "you are!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ты не являешься",
-   "ipa": "ju ˈɑrənt",
-   "spell": "you aren't"
- }
-]
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "lesson",
+  "number": 20,
+  "date": "2025-07-10",
+  "words": [
+    {
+      "def1": "разговор",
+      "ipa": "ə ˌkɑnvərˈseɪʃən",
+      "spell": "a conversation"
+    },
+    {
+      "def1": "стол",
+      "ipa": "ə ˈteɪbəl",
+      "spell": "a table"
+    },
+    {
+      "def1": "вещь",
+      "ipa": "ə θɪŋ",
+      "spell": "a thing"
+    },
+    {
+      "def1": "являюсь ли я?",
+      "ipa": "æm aɪ?",
+      "spell": "am I?"
+    },
+    {
+      "def1": "являются ли они американскими?",
+      "ipa": "ɑr ðeɪ əˈmɛrəkən?",
+      "spell": "are they American?"
+    },
+    {
+      "def1": "находятся ли они в доме?",
+      "ipa": "ɑr ðeɪ ɪn ðə haʊs?",
+      "spell": "are they in the house?"
+    },
+    {
+      "def1": "являются ли они японскими?",
+      "ipa": "ɑr ðeɪ ˌʤæpəˈniz?",
+      "spell": "are they Japanese?"
+    },
+    {
+      "def1": "находимся ли мы в США?",
+      "ipa": "ɑr wi ɪn ði ʌs?",
+      "spell": "are we in the US?"
+    },
+    {
+      "def1": "являешься ли ты мексиканским?",
+      "ipa": "ɑr ju ˈmɛksəkən?",
+      "spell": "are you Mexican?"
+    },
+    {
+      "def1": "являешься ли ты?",
+      "ipa": "ɑr ju?",
+      "spell": "are you? "
+    },
+    {
+      "def1": "хороший",
+      "ipa": "ɡʊd",
+      "spell": "good"
+    },
+    {
+      "def1": "он является",
+      "ipa": "hi ɪz!",
+      "spell": "he is!"
+    },
+    {
+      "def1": "он не является",
+      "ipa": "hi ˈɪzənt",
+      "spell": "he isn't "
+    },
+    {
+      "def1": "здесь",
+      "ipa": "hir",
+      "spell": "here"
+    },
+    {
+      "def1": "я являюсь",
+      "ipa": "aɪ æm",
+      "spell": "I am "
+    },
+    {
+      "def1": "я не очень хорошо лажу с собаками",
+      "ipa": "aɪ æm nɑt ˈvɛri ɡʊd wɪð dɑɡz",
+      "spell": "I am not very good with dogs"
+    },
+    {
+      "def1": "я вижу женщину",
+      "ipa": "aɪ si ə ˈwʊmən",
+      "spell": "I see a woman"
+    },
+    {
+      "def1": "я хочу есть",
+      "ipa": "aɪ wɑnt tu it",
+      "spell": "I want to eat"
+    },
+    {
+      "def1": "я хочу пойти",
+      "ipa": "aɪ wɑnt tu ɡoʊ",
+      "spell": "I want to go"
+    },
+    {
+      "def1": "я хочу спать",
+      "ipa": "aɪ wɑnt tu slip",
+      "spell": "I want to sleep"
+    },
+    {
+      "def1": "является ли он?",
+      "ipa": "ɪz hi?",
+      "spell": "is he? "
+    },
+    {
+      "def1": "мой бывший",
+      "ipa": "maɪ ɛks",
+      "spell": "my ex"
+    },
+    {
+      "def1": "моя вторая жена",
+      "ipa": "maɪ ˈsɛkənd waɪf",
+      "spell": "my second wife"
+    },
+    {
+      "def1": "никаких",
+      "ipa": "noʊ",
+      "spell": "no"
+    },
+    {
+      "def1": "ничего",
+      "ipa": "ˈnʌθɪŋ",
+      "spell": "nothing"
+    },
+    {
+      "def1": "ничего хорошего",
+      "ipa": "ˈnʌθɪŋ ɡʊd",
+      "spell": "nothing good"
+    },
+    {
+      "def1": "по делам",
+      "ipa": "ɑn ˈbɪznəs",
+      "spell": "on business"
+    },
+    {
+      "def1": "там",
+      "ipa": "ˈoʊvər ðɛr",
+      "spell": "over there"
+    },
+    {
+      "def1": "второй",
+      "ipa": "ˈsɛkənd",
+      "spell": "second"
+    },
+    {
+      "def1": "она моя бывшая",
+      "ipa": "ʃi ɪz maɪ ɛks",
+      "spell": "she is my ex"
+    },
+    {
+      "def1": "она моя бывшая жена",
+      "ipa": "ʃi ɪz maɪ ɛks-waɪf",
+      "spell": "she is my ex-wife"
+    },
+    {
+      "def1": "скажи мне",
+      "ipa": "tɛl mi",
+      "spell": "tell me"
+    },
+    {
+      "def1": "там",
+      "ipa": "ðɛr",
+      "spell": "there"
+    },
+    {
+      "def1": "они находятся там",
+      "ipa": "ðeɪ ɑr ðɛr",
+      "spell": "they are there"
+    },
+    {
+      "def1": "они находятся в машине",
+      "ipa": "ðɛr ɪn ðə kɑr",
+      "spell": "they're in the car"
+    },
+    {
+      "def1": "спросить",
+      "ipa": "tu æsk",
+      "spell": "to ask"
+    },
+    {
+      "def1": "встретить",
+      "ipa": "tu mit",
+      "spell": "to meet"
+    },
+    {
+      "def1": "сказать",
+      "ipa": "tu seɪ",
+      "spell": "to say"
+    },
+    {
+      "def1": "говорить",
+      "ipa": "tu tɔk",
+      "spell": "to talk"
+    },
+    {
+      "def1": "рассказать",
+      "ipa": "tu tɛl",
+      "spell": "to tell"
+    },
+    {
+      "def1": "сегодняшний день является выходным днём",
+      "ipa": "təˈdeɪ ɪz ə fri deɪ",
+      "spell": "today is a free day"
+    },
+    {
+      "def1": "мы находимся здесь",
+      "ipa": "wi ɑr hir",
+      "spell": "we are here"
+    },
+    {
+      "def1": "мы опаздываем",
+      "ipa": "wir leɪt",
+      "spell": "we're late"
+    },
+    {
+      "def1": "что это?",
+      "ipa": "wɑt ɪz ðæt?",
+      "spell": "what is that?"
+    },
+    {
+      "def1": "где",
+      "ipa": "wɛr",
+      "spell": "where"
+    },
+    {
+      "def1": "из какого города России ты?",
+      "ipa": "wɛr ɪn ˈrʌʃə ɑr ju frʌm?",
+      "spell": "where in Russia are you from?"
+    },
+    {
+      "def1": "ты являешься",
+      "ipa": "ju ɑr!",
+      "spell": "you are!"
+    },
+    {
+      "def1": "ты не являешься",
+      "ipa": "ju ˈɑrənt",
+      "spell": "you aren't"
+    }
+  ]
+}
