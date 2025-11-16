@@ -1,583 +1,590 @@
-[
-  {
-    "cefr": "",
-    "def2": "accidere",
-    "def1": "траплятися",
-    "ipa": "tu ˈhæpən",
-    "spell": "to happen"
-  },
-  {
-    "cefr": "",
-    "def2": "ad gymnasium ire",
-    "def1": "ходити в спортзал",
-    "ipa": "tu ɡoʊ tu ə ʤɪm",
-    "spell": "to go to a gym"
-  },
-  {
-    "cefr": "",
-    "def2": "ad portam procedere",
-    "def1": "пройти до виходу",
-    "ipa": "tu prəˈsid tu ðə ɡeɪt",
-    "spell": "to proceed to the gate"
-  },
-  {
-    "cefr": "",
-    "def2": "ad quod locum",
-    "def1": "до якого місця",
-    "ipa": "tu wɑt pleɪs",
-    "spell": "to what place"
-  },
-  {
-    "cefr": "",
-    "def2": "ad scholam ire",
-    "def1": "ходити до школи",
-    "ipa": "tu ɡoʊ tu skul",
-    "spell": "to go to school"
-  },
-  {
-    "cefr": "",
-    "def2": "applicatio tibi dicit quo eas",
-    "def1": "додаток підкаже, куди йти",
-    "ipa": "ði ˌæpləˈkeɪʃən tɛlz ju wɛr tu ɡoʊ",
-    "spell": "the application tells you where to go"
-  },
-  {
-    "cefr": "",
-    "def2": "arcam meam aperio",
-    "def1": "я відкриваю свій багажник",
-    "ipa": "aɪ ˈoʊpən maɪ trʌŋk",
-    "spell": "I open my trunk"
-  },
-  {
-    "cefr": "",
-    "def2": "canes latrant",
-    "def1": "собаки гавкають",
-    "ipa": "dɑɡz ɑr ˈbɑrkɪŋ",
-    "spell": "dogs are barking"
-  },
-  {
-    "cefr": "",
-    "def2": "cinematographus",
-    "def1": "кіно",
-    "ipa": "ðə ˈmuviz",
-    "spell": "the movies"
-  },
-  {
-    "cefr": "",
-    "def2": "circiter 25 minuta si sine impedimento",
-    "def1": "близько 25 хвилин, якщо без пробок",
-    "ipa": "əˈbaʊt ˈtwɛnti faɪv ˈmɪnəts wɪˈθaʊt ˈtræfɪk",
-    "spell": "about 25 minutes without traffic"
-  },
-  {
-    "cefr": "",
-    "def2": "circulus",
-    "def1": "коло",
-    "ipa": "ə ˈsɜrkəl",
-    "spell": "a circle"
-  },
-  {
-    "cefr": "",
-    "def2": "circumducere aliquid",
-    "def1": "обвести щось",
-    "ipa": "tu ˈsɜrkəl ˈsʌmθɪŋ",
-    "spell": "to circle something"
-  },
-  {
-    "cefr": "",
-    "def2": "circumductum est",
-    "def1": "це обведено",
-    "ipa": "ɪt ɪz ˈsɜrkəld",
-    "spell": "it is circled"
-  },
-  {
-    "cefr": "",
-    "def2": "coniunctio",
-    "def1": "зв'язування",
-    "ipa": "ˈlɪŋkɪŋ",
-    "spell": "linking"
-  },
-  {
-    "cefr": "",
-    "def2": "cum clientibus loqui",
-    "def1": "спілкуватися з клієнтами",
-    "ipa": "tu tɔk tu ðə ˈkʌstəmərz",
-    "spell": "to talk to the customers"
-  },
-  {
-    "cefr": "",
-    "def2": "cur hoc dicit?",
-    "def1": "чому вона так каже?",
-    "ipa": "waɪ dʌz ʃi seɪ ðæt?",
-    "spell": "why does she say that?"
-  },
-  {
-    "cefr": "",
-    "def2": "cur ita est?",
-    "def1": "чому так?",
-    "ipa": "waɪ ɪz ɪt?",
-    "spell": "why is it?"
-  },
-  {
-    "cefr": "",
-    "def2": "ex voce eius dicere",
-    "def1": "розпізнавати по голосу",
-    "ipa": "tu tɛl baɪ hɜr vɔɪs",
-    "spell": "to tell by her voice"
-  },
-  {
-    "cefr": "",
-    "def2": "exercitatione venit",
-    "def1": "це приходить з практикою",
-    "ipa": "ɪt kʌmz wɪð ˈpræktəs",
-    "spell": "it comes with practice"
-  },
-  {
-    "cefr": "",
-    "def2": "gaudesne me videre?",
-    "def1": "ти радий мене бачити?",
-    "ipa": "ɑr ju ˈhæpi tu si mi",
-    "spell": "are you happy to see me"
-  },
-  {
-    "cefr": "",
-    "def2": "genus",
-    "def1": "різновид",
-    "ipa": "ə kaɪnd",
-    "spell": "a kind"
-  },
-  {
-    "cefr": "",
-    "def2": "gratias, faciam!",
-    "def1": "дякую, я так і зроблю!",
-    "ipa": "θæŋks, aɪ wɪl!",
-    "spell": "thanks, I will!"
-  },
-  {
-    "cefr": "",
-    "def2": "habemusne pecuniam?",
-    "def1": "у нас є гроші?",
-    "ipa": "du wi hæv ˈmʌni?",
-    "spell": "do we have money?"
-  },
-  {
-    "cefr": "",
-    "def2": "habentne cibum?",
-    "def1": "у них є їжа?",
-    "ipa": "du ðeɪ hæv fud?",
-    "spell": "do they have food?"
-  },
-  {
-    "cefr": "",
-    "def2": "habentne raedam?",
-    "def1": "у них є машина?",
-    "ipa": "du ðeɪ hæv ə kɑr?",
-    "spell": "do they have a car?"
-  },
-  {
-    "cefr": "",
-    "def2": "habesne tempus?",
-    "def1": "у тебе є час?",
-    "ipa": "du ju hæv taɪm?",
-    "spell": "do you have time?"
-  },
-  {
-    "cefr": "",
-    "def2": "habitamusne hic?",
-    "def1": "ми тут живемо?",
-    "ipa": "du wi lɪv hir?",
-    "spell": "do we live here?"
-  },
-  {
-    "cefr": "",
-    "def2": "habitare",
-    "def1": "жити",
-    "ipa": "tu lɪv",
-    "spell": "to live"
-  },
-  {
-    "cefr": "",
-    "def2": "hanc arcam non aperimus",
-    "def1": "ми не відкриваємо цей багажник",
-    "ipa": "wi doʊnt ˈoʊpən ðɪs trʌŋk",
-    "spell": "we don't open this trunk"
-  },
-  {
-    "cefr": "",
-    "def2": "iam scis quo eas",
-    "def1": "ти вже знаєш, куди йти",
-    "ipa": "ju ɔlˈrɛdi noʊ wɛr tu ɡoʊ",
-    "spell": "you already know where to go"
-  },
-  {
-    "cefr": "",
-    "def2": "implere cisternam",
-    "def1": "заправити бак",
-    "ipa": "tu fɪl ðə tæŋk",
-    "spell": "to fill the tank"
-  },
-  {
-    "cefr": "",
-    "def2": "in bono traficu",
-    "def1": "при хорошому русі",
-    "ipa": "ɪn ɡʊd ˈtræfɪk",
-    "spell": "in good traffic"
-  },
-  {
-    "cefr": "",
-    "def2": "in collegio sunt",
-    "def1": "вони в коледжі",
-    "ipa": "ðeɪ ɑr ɪn ˈkɑlɪʤ",
-    "spell": "they are in college"
-  },
-  {
-    "cefr": "",
-    "def2": "in eodem volatu",
-    "def1": "на тому ж рейсі",
-    "ipa": "ɑn ðə seɪm flaɪt",
-    "spell": "on the same flight"
-  },
-  {
-    "cefr": "",
-    "def2": "in schola sunt",
-    "def1": "вони в школі",
-    "ipa": "ðeɪ ɑr ɪn skul",
-    "spell": "they are in school"
-  },
-  {
-    "cefr": "",
-    "def2": "innumerabilis",
-    "def1": "незліченний",
-    "ipa": "ʌnˈkaʊntəbəl",
-    "spell": "uncountable"
-  },
-  {
-    "cefr": "",
-    "def2": "isne ad cinematographum weekends?",
-    "def1": "ти ходиш у кіно на вихідних?",
-    "ipa": "du ju ɡoʊ tu ðə ˈmuviz ɑn ˈwiˌkɛndz",
-    "spell": "do you go to the movies on weekends"
-  },
-  {
-    "cefr": "",
-    "def2": "iterum convenimus!",
-    "def1": "знову зустрічаємось!",
-    "ipa": "wi mit əˈɡɛn!",
-    "spell": "we meet again!"
-  },
-  {
-    "cefr": "",
-    "def2": "iuxta sedere",
-    "def1": "сидіти поруч",
-    "ipa": "tu sɪt nɛkst tu iʧ ˈʌðər",
-    "spell": "to sit next to each other"
-  },
-  {
-    "cefr": "",
-    "def2": "laetane est eam iterum videre?",
-    "def1": "вона рада знову її побачити?",
-    "ipa": "ɪz ʃi ˈhæpi tu si hɜr əˈɡɛn?",
-    "spell": "is she happy to see her again?"
-  },
-  {
-    "cefr": "",
-    "def2": "laetus eam iterum videre",
-    "def1": "радий знову її побачити",
-    "ipa": "ˈhæpi tu si hɜr əˈɡɛn",
-    "spell": "happy to see her again"
-  },
-  {
-    "cefr": "",
-    "def2": "Londinii habito",
-    "def1": "я живу в Лондоні",
-    "ipa": "aɪ lɪv ɪn ˈlʌndən",
-    "spell": "I live in London"
-  },
-  {
-    "cefr": "",
-    "def2": "meministine?",
-    "def1": "ти пам'ятаєш?",
-    "ipa": "du ju rɪˈmɛmbər?",
-    "spell": "do you remember?"
-  },
-  {
-    "cefr": "",
-    "def2": "multos fructus edo",
-    "def1": "я їм багато фруктів",
-    "ipa": "aɪ it ə lɑt ʌv frut",
-    "spell": "I eat a lot of fruit"
-  },
-  {
-    "cefr": "",
-    "def2": "Non dicis!",
-    "def1": "Не говори!",
-    "ipa": "ju doʊnt seɪ!",
-    "spell": "You don't say!"
-  },
-  {
-    "cefr": "",
-    "def2": "non impleo tuum cisternam",
-    "def1": "я не заправляю твій бак",
-    "ipa": "aɪ doʊnt fɪl jʊər tæŋk",
-    "spell": "I don't fill your tank"
-  },
-  {
-    "cefr": "",
-    "def2": "non ita puto!",
-    "def1": "я так не думаю!",
-    "ipa": "aɪ doʊnt θɪŋk soʊ!",
-    "spell": "I don't think so!"
-  },
-  {
-    "cefr": "",
-    "def2": "non loqueris",
-    "def1": "ти не розмовляєш",
-    "ipa": "ju doʊnt tɔk",
-    "spell": "you don't talk"
-  },
-  {
-    "cefr": "",
-    "def2": "non necesse est rogare",
-    "def1": "не обов'язково питати",
-    "ipa": "ju doʊnt hæv tu æsk",
-    "spell": "you don't have to ask"
-  },
-  {
-    "cefr": "",
-    "def2": "non puto eam laetam esse",
-    "def1": "я не думаю, що вона щаслива",
-    "ipa": "aɪ doʊnt θɪŋk ʃi ɪz ˈhæpi",
-    "spell": "I don't think she is happy"
-  },
-  {
-    "cefr": "",
-    "def2": "non tempestiva est",
-    "def1": "вона не вчасно",
-    "ipa": "ʃi ɪz nɑt ɑn taɪm",
-    "spell": "she is not on time"
-  },
-  {
-    "cefr": "",
-    "def2": "novine te?",
-    "def1": "я тебе знаю?",
-    "ipa": "du aɪ noʊ ju?",
-    "spell": "do I know you?"
-  },
-  {
-    "cefr": "",
-    "def2": "operarisne hodie?",
-    "def1": "ти сьогодні працюєш?",
-    "ipa": "du ju wɜrk təˈdeɪ?",
-    "spell": "do you work today?"
-  },
-  {
-    "cefr": "",
-    "def2": "perge",
-    "def1": "продовжуй",
-    "ipa": "kip ˈɡoʊɪŋ",
-    "spell": "keep going"
-  },
-  {
-    "cefr": "",
-    "def2": "porta",
-    "def1": "ворота",
-    "ipa": "ə ɡeɪt",
-    "spell": "a gate"
-  },
-  {
-    "cefr": "",
-    "def2": "properare debeo",
-    "def1": "мені потрібно поспішати",
-    "ipa": "aɪ nid tu ˈhɜri",
-    "spell": "I need to hurry"
-  },
-  {
-    "cefr": "",
-    "def2": "quam iucundum mirum!",
-    "def1": "який приємний сюрприз!",
-    "ipa": "wɑt ə naɪs sərˈpraɪz!",
-    "spell": "what a nice surprise!"
-  },
-  {
-    "cefr": "",
-    "def2": "quam procul ab domo?",
-    "def1": "як далеко це від дому?",
-    "ipa": "haʊ fɑr əˈweɪ ɪz ɪt frʌm hoʊm?",
-    "spell": "how far away is it from home?"
-  },
-  {
-    "cefr": "",
-    "def2": "quid accidit",
-    "def1": "що трапляється",
-    "ipa": "wɑt ˈhæpənz",
-    "spell": "what happens"
-  },
-  {
-    "cefr": "",
-    "def2": "Quis dicit?",
-    "def1": "Хто каже?",
-    "ipa": "sɛz hu?",
-    "spell": "Says who?"
-  },
-  {
-    "cefr": "",
-    "def2": "quo?",
-    "def1": "куди?",
-    "ipa": "wɛr tu?",
-    "spell": "where to?"
-  },
-  {
-    "cefr": "",
-    "def2": "regula est",
-    "def1": "це правило",
-    "ipa": "ɪts ə rul",
-    "spell": "it's a rule"
-  },
-  {
-    "cefr": "",
-    "def2": "saluta Olenam!",
-    "def1": "передавай вітання Олені!",
-    "ipa": "seɪ haɪ tu oʊˈlɛnə!",
-    "spell": "say Hi to Olena!"
-  },
-  {
-    "cefr": "",
-    "def2": "sera est",
-    "def1": "вона запізнюється",
-    "ipa": "ʃi ɪz leɪt",
-    "spell": "she is late"
-  },
-  {
-    "cefr": "",
-    "def2": "tempestiva est",
-    "def1": "вона вчасно",
-    "ipa": "ʃi ɪz ɑn taɪm",
-    "spell": "she is on time"
-  },
-  {
-    "cefr": "",
-    "def2": "traficus malus/bonus est",
-    "def1": "рух поганий/гарний",
-    "ipa": "ðə ˈtræfɪk ɪz bæd / ɡʊd",
-    "spell": "the traffic is bad / good"
-  },
-  {
-    "cefr": "",
-    "def2": "transcriptum",
-    "def1": "стенограма",
-    "ipa": "ə ˈtrænˌskrɪpt",
-    "spell": "a transcript"
-  },
-  {
-    "cefr": "",
-    "def2": "transferre",
-    "def1": "перекладати",
-    "ipa": "tu trænˈzleɪt",
-    "spell": "to translate"
-  },
-  {
-    "cefr": "",
-    "def2": "tuam cisternam imples",
-    "def1": "ти заправляєш свій бак",
-    "ipa": "ju fɪl jʊər tæŋk",
-    "spell": "you fill your tank"
-  },
-  {
-    "cefr": "",
-    "def2": "tute guberna!",
-    "def1": "їдь обережно!",
-    "ipa": "draɪv seɪf!",
-    "spell": "drive safe!"
-  },
-  {
-    "cefr": "",
-    "def2": "typus",
-    "def1": "тип",
-    "ipa": "ə taɪp",
-    "spell": "a type"
-  },
-  {
-    "cefr": "",
-    "def2": "ubi?",
-    "def1": "де?",
-    "ipa": "wɛr?",
-    "spell": "where?"
-  },
-  {
-    "cefr": "",
-    "def2": "ultima vocatio",
-    "def1": "останній виклик",
-    "ipa": "ðə ˈfaɪnəl kɔl",
-    "spell": "the final call"
-  },
-  {
-    "cefr": "",
-    "def2": "umbella",
-    "def1": "парасолька",
-    "ipa": "ən əmˈbrɛlə",
-    "spell": "an umbrella"
-  },
-  {
-    "cefr": "",
-    "def2": "unde eius volatus?",
-    "def1": "звідки її рейс?",
-    "ipa": "wɛr ɪz hɜr flaɪt frʌm?",
-    "spell": "where is her flight from?"
-  },
-  {
-    "cefr": "",
-    "def2": "ut unicum verbum",
-    "def1": "як одне слово",
-    "ipa": "laɪk ə ˈsɪŋɡəl wɜrd",
-    "spell": "like a single word"
-  },
-  {
-    "cefr": "",
-    "def2": "vas",
-    "def1": "ваза",
-    "ipa": "ə veɪs",
-    "spell": "a vase"
-  },
-  {
-    "cefr": "",
-    "def2": "verba coniuncta",
-    "def1": "пов'язані слова",
-    "ipa": "lɪŋkt wɜrdz",
-    "spell": "linked words"
-  },
-  {
-    "cefr": "",
-    "def2": "verba coniungere",
-    "def1": "зв'язувати слова",
-    "ipa": "tu lɪŋk wɜrdz",
-    "spell": "to link words"
-  },
-  {
-    "cefr": "",
-    "def2": "verba coniungimus",
-    "def1": "ми зв'язуємо слова",
-    "ipa": "wi lɪŋk ðə wɜrdz",
-    "spell": "we link the words"
-  },
-  {
-    "cefr": "",
-    "def2": "verbum",
-    "def1": "дієслово",
-    "ipa": "ə vɜrb",
-    "spell": "a verb"
-  },
-  {
-    "cefr": "",
-    "def2": "vocem eius audi",
-    "def1": "слухай її голос",
-    "ipa": "ˈlɪsən tu hɜr vɔɪs",
-    "spell": "listen to her voice"
-  },
-  {
-    "cefr": "",
-    "def2": "weekends",
-    "def1": "на вихідних",
-    "ipa": "ɑn ˈwiˌkɛndz",
-    "spell": "on weekends"
-  }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 31,
+  "date": "2025-05-21",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "accidere",
+      "def1": "траплятися",
+      "ipa": "tu ˈhæpən",
+      "spell": "to happen"
+    },
+    {
+      "cefr": "",
+      "def2": "ad gymnasium ire",
+      "def1": "ходити в спортзал",
+      "ipa": "tu ɡoʊ tu ə ʤɪm",
+      "spell": "to go to a gym"
+    },
+    {
+      "cefr": "",
+      "def2": "ad portam procedere",
+      "def1": "пройти до виходу",
+      "ipa": "tu prəˈsid tu ðə ɡeɪt",
+      "spell": "to proceed to the gate"
+    },
+    {
+      "cefr": "",
+      "def2": "ad quod locum",
+      "def1": "до якого місця",
+      "ipa": "tu wɑt pleɪs",
+      "spell": "to what place"
+    },
+    {
+      "cefr": "",
+      "def2": "ad scholam ire",
+      "def1": "ходити до школи",
+      "ipa": "tu ɡoʊ tu skul",
+      "spell": "to go to school"
+    },
+    {
+      "cefr": "",
+      "def2": "applicatio tibi dicit quo eas",
+      "def1": "додаток підкаже, куди йти",
+      "ipa": "ði ˌæpləˈkeɪʃən tɛlz ju wɛr tu ɡoʊ",
+      "spell": "the application tells you where to go"
+    },
+    {
+      "cefr": "",
+      "def2": "arcam meam aperio",
+      "def1": "я відкриваю свій багажник",
+      "ipa": "aɪ ˈoʊpən maɪ trʌŋk",
+      "spell": "I open my trunk"
+    },
+    {
+      "cefr": "",
+      "def2": "canes latrant",
+      "def1": "собаки гавкають",
+      "ipa": "dɑɡz ɑr ˈbɑrkɪŋ",
+      "spell": "dogs are barking"
+    },
+    {
+      "cefr": "",
+      "def2": "cinematographus",
+      "def1": "кіно",
+      "ipa": "ðə ˈmuviz",
+      "spell": "the movies"
+    },
+    {
+      "cefr": "",
+      "def2": "circiter 25 minuta si sine impedimento",
+      "def1": "близько 25 хвилин, якщо без пробок",
+      "ipa": "əˈbaʊt ˈtwɛnti faɪv ˈmɪnəts wɪˈθaʊt ˈtræfɪk",
+      "spell": "about 25 minutes without traffic"
+    },
+    {
+      "cefr": "",
+      "def2": "circulus",
+      "def1": "коло",
+      "ipa": "ə ˈsɜrkəl",
+      "spell": "a circle"
+    },
+    {
+      "cefr": "",
+      "def2": "circumducere aliquid",
+      "def1": "обвести щось",
+      "ipa": "tu ˈsɜrkəl ˈsʌmθɪŋ",
+      "spell": "to circle something"
+    },
+    {
+      "cefr": "",
+      "def2": "circumductum est",
+      "def1": "це обведено",
+      "ipa": "ɪt ɪz ˈsɜrkəld",
+      "spell": "it is circled"
+    },
+    {
+      "cefr": "",
+      "def2": "coniunctio",
+      "def1": "зв'язування",
+      "ipa": "ˈlɪŋkɪŋ",
+      "spell": "linking"
+    },
+    {
+      "cefr": "",
+      "def2": "cum clientibus loqui",
+      "def1": "спілкуватися з клієнтами",
+      "ipa": "tu tɔk tu ðə ˈkʌstəmərz",
+      "spell": "to talk to the customers"
+    },
+    {
+      "cefr": "",
+      "def2": "cur hoc dicit?",
+      "def1": "чому вона так каже?",
+      "ipa": "waɪ dʌz ʃi seɪ ðæt?",
+      "spell": "why does she say that?"
+    },
+    {
+      "cefr": "",
+      "def2": "cur ita est?",
+      "def1": "чому так?",
+      "ipa": "waɪ ɪz ɪt?",
+      "spell": "why is it?"
+    },
+    {
+      "cefr": "",
+      "def2": "ex voce eius dicere",
+      "def1": "розпізнавати по голосу",
+      "ipa": "tu tɛl baɪ hɜr vɔɪs",
+      "spell": "to tell by her voice"
+    },
+    {
+      "cefr": "",
+      "def2": "exercitatione venit",
+      "def1": "це приходить з практикою",
+      "ipa": "ɪt kʌmz wɪð ˈpræktəs",
+      "spell": "it comes with practice"
+    },
+    {
+      "cefr": "",
+      "def2": "gaudesne me videre?",
+      "def1": "ти радий мене бачити?",
+      "ipa": "ɑr ju ˈhæpi tu si mi",
+      "spell": "are you happy to see me"
+    },
+    {
+      "cefr": "",
+      "def2": "genus",
+      "def1": "різновид",
+      "ipa": "ə kaɪnd",
+      "spell": "a kind"
+    },
+    {
+      "cefr": "",
+      "def2": "gratias, faciam!",
+      "def1": "дякую, я так і зроблю!",
+      "ipa": "θæŋks, aɪ wɪl!",
+      "spell": "thanks, I will!"
+    },
+    {
+      "cefr": "",
+      "def2": "habemusne pecuniam?",
+      "def1": "у нас є гроші?",
+      "ipa": "du wi hæv ˈmʌni?",
+      "spell": "do we have money?"
+    },
+    {
+      "cefr": "",
+      "def2": "habentne cibum?",
+      "def1": "у них є їжа?",
+      "ipa": "du ðeɪ hæv fud?",
+      "spell": "do they have food?"
+    },
+    {
+      "cefr": "",
+      "def2": "habentne raedam?",
+      "def1": "у них є машина?",
+      "ipa": "du ðeɪ hæv ə kɑr?",
+      "spell": "do they have a car?"
+    },
+    {
+      "cefr": "",
+      "def2": "habesne tempus?",
+      "def1": "у тебе є час?",
+      "ipa": "du ju hæv taɪm?",
+      "spell": "do you have time?"
+    },
+    {
+      "cefr": "",
+      "def2": "habitamusne hic?",
+      "def1": "ми тут живемо?",
+      "ipa": "du wi lɪv hir?",
+      "spell": "do we live here?"
+    },
+    {
+      "cefr": "",
+      "def2": "habitare",
+      "def1": "жити",
+      "ipa": "tu lɪv",
+      "spell": "to live"
+    },
+    {
+      "cefr": "",
+      "def2": "hanc arcam non aperimus",
+      "def1": "ми не відкриваємо цей багажник",
+      "ipa": "wi doʊnt ˈoʊpən ðɪs trʌŋk",
+      "spell": "we don't open this trunk"
+    },
+    {
+      "cefr": "",
+      "def2": "iam scis quo eas",
+      "def1": "ти вже знаєш, куди йти",
+      "ipa": "ju ɔlˈrɛdi noʊ wɛr tu ɡoʊ",
+      "spell": "you already know where to go"
+    },
+    {
+      "cefr": "",
+      "def2": "implere cisternam",
+      "def1": "заправити бак",
+      "ipa": "tu fɪl ðə tæŋk",
+      "spell": "to fill the tank"
+    },
+    {
+      "cefr": "",
+      "def2": "in bono traficu",
+      "def1": "при хорошому русі",
+      "ipa": "ɪn ɡʊd ˈtræfɪk",
+      "spell": "in good traffic"
+    },
+    {
+      "cefr": "",
+      "def2": "in collegio sunt",
+      "def1": "вони в коледжі",
+      "ipa": "ðeɪ ɑr ɪn ˈkɑlɪʤ",
+      "spell": "they are in college"
+    },
+    {
+      "cefr": "",
+      "def2": "in eodem volatu",
+      "def1": "на тому ж рейсі",
+      "ipa": "ɑn ðə seɪm flaɪt",
+      "spell": "on the same flight"
+    },
+    {
+      "cefr": "",
+      "def2": "in schola sunt",
+      "def1": "вони в школі",
+      "ipa": "ðeɪ ɑr ɪn skul",
+      "spell": "they are in school"
+    },
+    {
+      "cefr": "",
+      "def2": "innumerabilis",
+      "def1": "незліченний",
+      "ipa": "ʌnˈkaʊntəbəl",
+      "spell": "uncountable"
+    },
+    {
+      "cefr": "",
+      "def2": "isne ad cinematographum weekends?",
+      "def1": "ти ходиш у кіно на вихідних?",
+      "ipa": "du ju ɡoʊ tu ðə ˈmuviz ɑn ˈwiˌkɛndz",
+      "spell": "do you go to the movies on weekends"
+    },
+    {
+      "cefr": "",
+      "def2": "iterum convenimus!",
+      "def1": "знову зустрічаємось!",
+      "ipa": "wi mit əˈɡɛn!",
+      "spell": "we meet again!"
+    },
+    {
+      "cefr": "",
+      "def2": "iuxta sedere",
+      "def1": "сидіти поруч",
+      "ipa": "tu sɪt nɛkst tu iʧ ˈʌðər",
+      "spell": "to sit next to each other"
+    },
+    {
+      "cefr": "",
+      "def2": "laetane est eam iterum videre?",
+      "def1": "вона рада знову її побачити?",
+      "ipa": "ɪz ʃi ˈhæpi tu si hɜr əˈɡɛn?",
+      "spell": "is she happy to see her again?"
+    },
+    {
+      "cefr": "",
+      "def2": "laetus eam iterum videre",
+      "def1": "радий знову її побачити",
+      "ipa": "ˈhæpi tu si hɜr əˈɡɛn",
+      "spell": "happy to see her again"
+    },
+    {
+      "cefr": "",
+      "def2": "Londinii habito",
+      "def1": "я живу в Лондоні",
+      "ipa": "aɪ lɪv ɪn ˈlʌndən",
+      "spell": "I live in London"
+    },
+    {
+      "cefr": "",
+      "def2": "meministine?",
+      "def1": "ти пам'ятаєш?",
+      "ipa": "du ju rɪˈmɛmbər?",
+      "spell": "do you remember?"
+    },
+    {
+      "cefr": "",
+      "def2": "multos fructus edo",
+      "def1": "я їм багато фруктів",
+      "ipa": "aɪ it ə lɑt ʌv frut",
+      "spell": "I eat a lot of fruit"
+    },
+    {
+      "cefr": "",
+      "def2": "Non dicis!",
+      "def1": "Не говори!",
+      "ipa": "ju doʊnt seɪ!",
+      "spell": "You don't say!"
+    },
+    {
+      "cefr": "",
+      "def2": "non impleo tuum cisternam",
+      "def1": "я не заправляю твій бак",
+      "ipa": "aɪ doʊnt fɪl jʊər tæŋk",
+      "spell": "I don't fill your tank"
+    },
+    {
+      "cefr": "",
+      "def2": "non ita puto!",
+      "def1": "я так не думаю!",
+      "ipa": "aɪ doʊnt θɪŋk soʊ!",
+      "spell": "I don't think so!"
+    },
+    {
+      "cefr": "",
+      "def2": "non loqueris",
+      "def1": "ти не розмовляєш",
+      "ipa": "ju doʊnt tɔk",
+      "spell": "you don't talk"
+    },
+    {
+      "cefr": "",
+      "def2": "non necesse est rogare",
+      "def1": "не обов'язково питати",
+      "ipa": "ju doʊnt hæv tu æsk",
+      "spell": "you don't have to ask"
+    },
+    {
+      "cefr": "",
+      "def2": "non puto eam laetam esse",
+      "def1": "я не думаю, що вона щаслива",
+      "ipa": "aɪ doʊnt θɪŋk ʃi ɪz ˈhæpi",
+      "spell": "I don't think she is happy"
+    },
+    {
+      "cefr": "",
+      "def2": "non tempestiva est",
+      "def1": "вона не вчасно",
+      "ipa": "ʃi ɪz nɑt ɑn taɪm",
+      "spell": "she is not on time"
+    },
+    {
+      "cefr": "",
+      "def2": "novine te?",
+      "def1": "я тебе знаю?",
+      "ipa": "du aɪ noʊ ju?",
+      "spell": "do I know you?"
+    },
+    {
+      "cefr": "",
+      "def2": "operarisne hodie?",
+      "def1": "ти сьогодні працюєш?",
+      "ipa": "du ju wɜrk təˈdeɪ?",
+      "spell": "do you work today?"
+    },
+    {
+      "cefr": "",
+      "def2": "perge",
+      "def1": "продовжуй",
+      "ipa": "kip ˈɡoʊɪŋ",
+      "spell": "keep going"
+    },
+    {
+      "cefr": "",
+      "def2": "porta",
+      "def1": "ворота",
+      "ipa": "ə ɡeɪt",
+      "spell": "a gate"
+    },
+    {
+      "cefr": "",
+      "def2": "properare debeo",
+      "def1": "мені потрібно поспішати",
+      "ipa": "aɪ nid tu ˈhɜri",
+      "spell": "I need to hurry"
+    },
+    {
+      "cefr": "",
+      "def2": "quam iucundum mirum!",
+      "def1": "який приємний сюрприз!",
+      "ipa": "wɑt ə naɪs sərˈpraɪz!",
+      "spell": "what a nice surprise!"
+    },
+    {
+      "cefr": "",
+      "def2": "quam procul ab domo?",
+      "def1": "як далеко це від дому?",
+      "ipa": "haʊ fɑr əˈweɪ ɪz ɪt frʌm hoʊm?",
+      "spell": "how far away is it from home?"
+    },
+    {
+      "cefr": "",
+      "def2": "quid accidit",
+      "def1": "що трапляється",
+      "ipa": "wɑt ˈhæpənz",
+      "spell": "what happens"
+    },
+    {
+      "cefr": "",
+      "def2": "Quis dicit?",
+      "def1": "Хто каже?",
+      "ipa": "sɛz hu?",
+      "spell": "Says who?"
+    },
+    {
+      "cefr": "",
+      "def2": "quo?",
+      "def1": "куди?",
+      "ipa": "wɛr tu?",
+      "spell": "where to?"
+    },
+    {
+      "cefr": "",
+      "def2": "regula est",
+      "def1": "це правило",
+      "ipa": "ɪts ə rul",
+      "spell": "it's a rule"
+    },
+    {
+      "cefr": "",
+      "def2": "saluta Olenam!",
+      "def1": "передавай вітання Олені!",
+      "ipa": "seɪ haɪ tu oʊˈlɛnə!",
+      "spell": "say Hi to Olena!"
+    },
+    {
+      "cefr": "",
+      "def2": "sera est",
+      "def1": "вона запізнюється",
+      "ipa": "ʃi ɪz leɪt",
+      "spell": "she is late"
+    },
+    {
+      "cefr": "",
+      "def2": "tempestiva est",
+      "def1": "вона вчасно",
+      "ipa": "ʃi ɪz ɑn taɪm",
+      "spell": "she is on time"
+    },
+    {
+      "cefr": "",
+      "def2": "traficus malus/bonus est",
+      "def1": "рух поганий/гарний",
+      "ipa": "ðə ˈtræfɪk ɪz bæd / ɡʊd",
+      "spell": "the traffic is bad / good"
+    },
+    {
+      "cefr": "",
+      "def2": "transcriptum",
+      "def1": "стенограма",
+      "ipa": "ə ˈtrænˌskrɪpt",
+      "spell": "a transcript"
+    },
+    {
+      "cefr": "",
+      "def2": "transferre",
+      "def1": "перекладати",
+      "ipa": "tu trænˈzleɪt",
+      "spell": "to translate"
+    },
+    {
+      "cefr": "",
+      "def2": "tuam cisternam imples",
+      "def1": "ти заправляєш свій бак",
+      "ipa": "ju fɪl jʊər tæŋk",
+      "spell": "you fill your tank"
+    },
+    {
+      "cefr": "",
+      "def2": "tute guberna!",
+      "def1": "їдь обережно!",
+      "ipa": "draɪv seɪf!",
+      "spell": "drive safe!"
+    },
+    {
+      "cefr": "",
+      "def2": "typus",
+      "def1": "тип",
+      "ipa": "ə taɪp",
+      "spell": "a type"
+    },
+    {
+      "cefr": "",
+      "def2": "ubi?",
+      "def1": "де?",
+      "ipa": "wɛr?",
+      "spell": "where?"
+    },
+    {
+      "cefr": "",
+      "def2": "ultima vocatio",
+      "def1": "останній виклик",
+      "ipa": "ðə ˈfaɪnəl kɔl",
+      "spell": "the final call"
+    },
+    {
+      "cefr": "",
+      "def2": "umbella",
+      "def1": "парасолька",
+      "ipa": "ən əmˈbrɛlə",
+      "spell": "an umbrella"
+    },
+    {
+      "cefr": "",
+      "def2": "unde eius volatus?",
+      "def1": "звідки її рейс?",
+      "ipa": "wɛr ɪz hɜr flaɪt frʌm?",
+      "spell": "where is her flight from?"
+    },
+    {
+      "cefr": "",
+      "def2": "ut unicum verbum",
+      "def1": "як одне слово",
+      "ipa": "laɪk ə ˈsɪŋɡəl wɜrd",
+      "spell": "like a single word"
+    },
+    {
+      "cefr": "",
+      "def2": "vas",
+      "def1": "ваза",
+      "ipa": "ə veɪs",
+      "spell": "a vase"
+    },
+    {
+      "cefr": "",
+      "def2": "verba coniuncta",
+      "def1": "пов'язані слова",
+      "ipa": "lɪŋkt wɜrdz",
+      "spell": "linked words"
+    },
+    {
+      "cefr": "",
+      "def2": "verba coniungere",
+      "def1": "зв'язувати слова",
+      "ipa": "tu lɪŋk wɜrdz",
+      "spell": "to link words"
+    },
+    {
+      "cefr": "",
+      "def2": "verba coniungimus",
+      "def1": "ми зв'язуємо слова",
+      "ipa": "wi lɪŋk ðə wɜrdz",
+      "spell": "we link the words"
+    },
+    {
+      "cefr": "",
+      "def2": "verbum",
+      "def1": "дієслово",
+      "ipa": "ə vɜrb",
+      "spell": "a verb"
+    },
+    {
+      "cefr": "",
+      "def2": "vocem eius audi",
+      "def1": "слухай її голос",
+      "ipa": "ˈlɪsən tu hɜr vɔɪs",
+      "spell": "listen to her voice"
+    },
+    {
+      "cefr": "",
+      "def2": "weekends",
+      "def1": "на вихідних",
+      "ipa": "ɑn ˈwiˌkɛndz",
+      "spell": "on weekends"
+    }
+  ]
+}
