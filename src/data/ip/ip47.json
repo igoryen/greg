@@ -1,254 +1,219 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "модний журнал",
-   "ipa": "ə ˈfæʃən ˈmæɡəˌzin"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поліцейський",
-   "ipa": "ə pəˈlismən"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "рецензія",
-   "ipa": "ə ˌriˈvju"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наголошений склад",
-   "ipa": "ə strɛst ˈsɪləbəl"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шоколад",
-   "ipa": "ˈʧɔklət"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "чи вона мене любить?",
-   "ipa": "dʌz ʃi lʌv mi?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "працюючий",
-   "ipa": "ɛmˈplɔɪd"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "п'ятнадцять до восьми",
-   "ipa": "fɪfˈtin tu eɪt"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "п'ять до семи",
-   "ipa": "faɪv tu ˈsɛvən"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "його робота",
-   "ipa": "hɪz ʤɑb"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "як іде твоя робота?",
-   "ipa": "haʊ ɪz jʊər wɜrk ˈɡoʊɪŋ?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я сьогодні не працюю",
-   "ipa": "aɪ æm nɑt ˈwɜrkɪŋ təˈdeɪ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я не працював вранці",
-   "ipa": "aɪ dɪd nɑt wɜrk ɪn ðə ˈmɔrnɪŋ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ніколи туди не ходжу",
-   "ipa": "aɪ doʊnt ˈɛvər ɡoʊ ðɛr"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я люблю тебе",
-   "ipa": "aɪ lʌv ju = aɪ (du + lʌv) ju"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я ніколи не ходжу",
-   "ipa": "aɪ ˈnɛvər ɡoʊ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "я працюю",
-   "ipa": "aɪ wɜrk = aɪ (du + wɜrk)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "за чверть одинадцята",
-   "ipa": "ɪts ə ˈkwɔrtər ˈæftər tɛn"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сім сорок п'ять",
-   "ipa": "ɪts ˈsɛvən ˈfɔrti-faɪv"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "сік",
-   "ipa": "ʤus"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на пенсії",
-   "ipa": "rɪˈtaɪrd"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вона мене любить",
-   "ipa": "ʃi lʌvz mi = ʃi (dʌz + lʌv) mi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "шіст п'ятдесят п'ять",
-   "ipa": "sɪks ˈfɪfti-faɪv"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дев'ять десять",
-   "ipa": "tɛn ˈæftər naɪn"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "це один із способів",
-   "ipa": "ðæts wʌn weɪ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вони їдять",
-   "ipa": "ðeɪ it = ðeɪ (du + it)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "три тридцять",
-   "ipa": "θri-ˈθɜrdi"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "робити огляд",
-   "ipa": "tu du ə ˌriˈvju"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "робити домашню роботу",
-   "ipa": "tu du ˈhaʊˌswɜrk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "наймати",
-   "ipa": "tu ɛmˈplɔɪ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "вставати вранці",
-   "ipa": "tu ɡɛt ʌp ɪn ðə ˈmɔrnɪŋ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ходити по магазинах",
-   "ipa": "tu ɡoʊ ˈʃɑpɪŋ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "слухати радіо",
-   "ipa": "tu ˈlɪsən tu ðə ˈreɪdiˌoʊ"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "жити в квартирі",
-   "ipa": "tu lɪv ɪn ən əˈpɑrtmənt"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "читати газету",
-   "ipa": "tu rid ðə ˈnuzˌpeɪpər"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "йти на пенсію",
-   "ipa": "tu rɪˈtaɪr"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "двадцять п'ять",
-   "ipa": "ˈtwɛnti ˈæftər faɪv"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "безробітний",
-   "ipa": "ˌʌnɛmˈplɔɪd"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми перевіряємо",
-   "ipa": "wi ʧɛk"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ми переглядаємо",
-   "ipa": "wi ˌriˈvju"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "що це за звук?",
-   "ipa": "wɑt ɪz ðɪs saʊnd?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти хочеш",
-   "ipa": "ju wɑnt = ju (du + wɑnt)"
- }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 47,
+  "date": "2025-07-02",
+  "words": [
+    {
+      "def1": "модний журнал",
+      "ipa": "ə ˈфæшəн ˈмæґəˌзін",
+      "spell": "a fashion magazine"
+    },
+    {
+      "def1": "поліцейський",
+      "ipa": "ə пəˈлісмəн",
+      "spell": "a policeman"
+    },
+    {
+      "def1": "огляд",
+      "ipa": "ə ˌріˈв’ю",
+      "spell": "a review"
+    },
+    {
+      "def1": "наголошений склад",
+      "ipa": "ə стрест ˈсилəбəл",
+      "spell": "a stressed syllable"
+    },
+    {
+      "def1": "шоколад",
+      "ipa": "ˈчɔклəт",
+      "spell": "chocolate"
+    },
+    {
+      "def1": "вона мене любить?",
+      "ipa": "дʌз ші лʌv мі?",
+      "spell": "Does she love me?"
+    },
+    {
+      "def1": "працевлаштований",
+      "ipa": "емˈплойд",
+      "spell": "employed"
+    },
+    {
+      "def1": "за п'ятнадцять восьма",
+      "ipa": "фифˈтін ту ейт",
+      "spell": "fifteen to eight"
+    },
+    {
+      "def1": "за п'ять сьома",
+      "ipa": "файv ту ˈсеvəн",
+      "spell": "five to seven"
+    },
+    {
+      "def1": "його робота",
+      "ipa": "hиз джɑб",
+      "spell": "his job"
+    },
+    {
+      "def1": "як іде робота?",
+      "ipa": "hау из йʊəр wɜрк ˈґоуиŋ?",
+      "spell": "How is your work going?"
+    },
+    {
+      "def1": "сьогодні я не працюю",
+      "ipa": "ай æм нɑт ˈwɜркиŋ тəˈдей",
+      "spell": "I am not working today"
+    },
+    {
+      "def1": "я не працював вранці",
+      "ipa": "ай дид нɑт wɜрк ин ðə ˈморниŋ",
+      "spell": "I did not work in the morning"
+    },
+    {
+      "def1": "я ніколи туди не ходжу",
+      "ipa": "ай доунт ˈеvəр ґоу ðер",
+      "spell": "I don't ever go there"
+    },
+    {
+      "def1": "я тебе люблю",
+      "ipa": "ай лʌv ю",
+      "spell": "I love you"
+    },
+    {
+      "def1": "я ніколи не ходжу",
+      "ipa": "ай ˈнеvəр ґоу",
+      "spell": "I never go"
+    },
+    {
+      "def1": "я працюю",
+      "ipa": "ай wɜрк",
+      "spell": "I work"
+    },
+    {
+      "def1": "за чверть одинадцятої",
+      "ipa": "итс ə ˈкwортəр ˈæфтəр тен",
+      "spell": "It's a quarter after ten"
+    },
+    {
+      "def1": "за чверть восьма",
+      "ipa": "итс ˈсеvəн ˈфорті-файv",
+      "spell": "It's seven forty-five"
+    },
+    {
+      "def1": "сік",
+      "ipa": "джус",
+      "spell": "juice"
+    },
+    {
+      "def1": "на пенсії",
+      "ipa": "риˈтайрд",
+      "spell": "retired"
+    },
+    {
+      "def1": "вона мене любить",
+      "ipa": "ші лʌvз мі",
+      "spell": "She loves me"
+    },
+    {
+      "def1": "за п'ять сьома",
+      "ipa": "сикс ˈфифті-файv",
+      "spell": "six fifty-five"
+    },
+    {
+      "def1": "за десять десята",
+      "ipa": "тен ˈæфтəр найн",
+      "spell": "ten after nine"
+    },
+    {
+      "def1": "це один із способів",
+      "ipa": "ðæтс wʌн wей",
+      "spell": "That's one way"
+    },
+    {
+      "def1": "вони їдять",
+      "ipa": "ðей іт",
+      "spell": "They eat"
+    },
+    {
+      "def1": "пів на четверту",
+      "ipa": "θрі-ˈθɜрді",
+      "spell": "three-thirty"
+    },
+    {
+      "def1": "робити огляд",
+      "ipa": "ту ду ə ˌріˈв’ю",
+      "spell": "to do a review"
+    },
+    {
+      "def1": "робити домашню роботу",
+      "ipa": "ту ду ˈhауˌсwɜрк",
+      "spell": "to do housework"
+    },
+    {
+      "def1": "наймати на роботу",
+      "ipa": "ту емˈплой",
+      "spell": "to employ"
+    },
+    {
+      "def1": "вставати вранці",
+      "ipa": "ту ґет ʌп ин ðə ˈморниŋ",
+      "spell": "to get up in the morning"
+    },
+    {
+      "def1": "ходити по магазинах",
+      "ipa": "ту ґоу ˈшɑпиŋ",
+      "spell": "to go shopping"
+    },
+    {
+      "def1": "слухати радіо",
+      "ipa": "ту ˈлисəн ту ðə ˈрейдіˌоу",
+      "spell": "to listen to the radio"
+    },
+    {
+      "def1": "жити в квартирі",
+      "ipa": "ту лиv ин əн əˈпɑртмəнт",
+      "spell": "to live in an apartment"
+    },
+    {
+      "def1": "читати газету",
+      "ipa": "ту рід ðə ˈнузˌпейпəр",
+      "spell": "to read the newspaper"
+    },
+    {
+      "def1": "йти на пенсію",
+      "ipa": "ту риˈтайр",
+      "spell": "to retire"
+    },
+    {
+      "def1": "за двадцять шоста",
+      "ipa": "ˈтwенті ˈæфтəр файv",
+      "spell": "twenty after five"
+    },
+    {
+      "def1": "безробітний",
+      "ipa": "ˌʌнемˈплойд",
+      "spell": "unemployed"
+    },
+    {
+      "def1": "ми перевіряємо",
+      "ipa": "wі чек",
+      "spell": "we check"
+    },
+    {
+      "def1": "ми переглядаємо",
+      "ipa": "wі ˌріˈв’ю",
+      "spell": "we review"
+    },
+    {
+      "def1": "що це за звук?",
+      "ipa": "wɑт из ðис саунд?",
+      "spell": "What is this sound?"
+    },
+    {
+      "def1": "ти хочеш",
+      "ipa": "ю wɑнт",
+      "spell": "you want"
+    }
+  ]
+}
