@@ -1,359 +1,366 @@
-[
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "колокація",
-   "ipa": "ə kɑləˈkeɪʃən",
-   "spell": "a collocation"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "попередження про спеку",
-   "ipa": "ə hit ˈwɔrnɪŋ",
-   "spell": "a heat Warning"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "попередження",
-   "ipa": "ə ˈwɔrnɪŋ",
-   "spell": "a warning"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "тиждень",
-   "ipa": "ə wik",
-   "spell": "a week"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "кінець",
-   "ipa": "ən ɛnd",
-   "spell": "an end"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "ти йдеш?",
-   "ipa": "ɑr ju ˈkʌmɪŋ?",
-   "spell": "are you coming?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Вони зазвичай їздять на роботу автобусом?",
-   "ipa": "du ðeɪ ˈjuʒəwəli ɡoʊ tu wɜrk baɪ bʌs?",
-   "spell": "Do they usually go to work by bus?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "У тебе є кондиціонер у будинку?",
-   "ipa": "du ju hæv ən ɛr kənˈdɪʃənər ɪn jʊər haʊs?",
-   "spell": "do you have an air conditioner in your house?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Ти бачиш помилку?",
-   "ipa": "du ju si ə mɪsˈteɪk?",
-   "spell": "do you see a mistake?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Ресторан зазвичай закривається пізно?",
-   "ipa": "dʌz ðə ˈrɛstəˌrɑnt ˈjuʒəwəli kloʊs leɪt?",
-   "spell": "does the restaurant usually close late?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "подвійне заперечення",
-   "ipa": "ˈdʌbəl ˈnɛɡətɪv",
-   "spell": "double negative"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "добре для тебе",
-   "ipa": "ɡʊd fɔr ju",
-   "spell": "good for you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "поступово",
-   "ipa": "ˈɡræʤuəli",
-   "spell": "gradually"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "спека",
-   "ipa": "hit",
-   "spell": "heat"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Я завжди приймаю душ вранці",
-   "ipa": "aɪ ˈɔlˌweɪz teɪk ə ˈʃaʊər ɪn ðə ˈmɔrnɪŋ",
-   "spell": "I always take a shower in the morning"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Я чекаю на тебе",
-   "ipa": "aɪ æm ˈwɔtɪŋ fɔr ju",
-   "spell": "I am wating for you"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Мені це подобається",
-   "ipa": "aɪ laɪk ɪt",
-   "spell": "I like it"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Я ніколи не лягаю спати до 12:00",
-   "ipa": "aɪ ˈnɛvər ɡoʊ tu bɛd bɪˈfɔr 12:00",
-   "spell": "I never go to bed before 12:00"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Я віддаю перевагу з лимоном",
-   "ipa": "aɪ prəˈfɜr ɪt wɪð ˈlɛmən",
-   "spell": "I prefer it with lemon"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Іноді я готую рибу на вечерю",
-   "ipa": "aɪ səmˈtaɪmz meɪk fɪʃ fɔr ˈdɪnər",
-   "spell": "I sometimes make fish for dinner"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Я зазвичай роблю домашнє завдання на вихідних",
-   "ipa": "aɪ ˈjuʒəwəli du maɪ ˈhoʊmˌwɜrk ɑn ðə ˈwiˌkɛnd",
-   "spell": "I usually do my homework on the weekend"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Чи є помилка?",
-   "ipa": "ɪz ðɛr ə mɪsˈteɪk?",
-   "spell": "is there a mistake?"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Тут не дуже холодно взимку",
-   "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri koʊld hir ɪn ˈwɪntər",
-   "spell": "it does not get very cold here in winter"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Тут не дуже жарко влітку",
-   "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri hɑt hir ɪn ˈsʌmər",
-   "spell": "it does not get very hot here in summer"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Стає рано",
-   "ipa": "ɪt ɡɛts ˈɜrli",
-   "spell": "it gets early"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Стає смішно",
-   "ipa": "ɪt ɡɛts ˈfʌni",
-   "spell": "it gets funny"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Стає пізно",
-   "ipa": "ɪt ɡɛts leɪt",
-   "spell": "it gets late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Стає серйозно",
-   "ipa": "ɪt ɡɛts ˈsɪriəs",
-   "spell": "it gets serious"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Поступово стає легко",
-   "ipa": "ɪt ˈɡræʤuəli ɡɛts ˈizi",
-   "spell": "it gradually gets easy"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Це чудово!",
-   "ipa": "ɪt ɪz ɡreɪt!",
-   "spell": "it is great!"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Це сумно",
-   "ipa": "ɪt ɪz sæd",
-   "spell": "it is sad"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Швидко стає холодно",
-   "ipa": "ɪt ˈkwɪkli ɡɛts koʊld",
-   "spell": "it quickly gets cold"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Швидко стає дорого",
-   "ipa": "ɪt ˈkwɪkli ɡɛts ɪkˈspɛnsɪv",
-   "spell": "it quickly gets expensive"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Швидко стає жарко",
-   "ipa": "ɪt ˈkwɪkli ɡɛts hɑt",
-   "spell": "it quickly gets hot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Зазвичай стає важко",
-   "ipa": "ɪt ˈjuʒəwəli ɡɛts hɑrd",
-   "spell": "it usually gets hard"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Вчора було дуже жарко",
-   "ipa": "ɪt wʌz ˈvɛri hɑt ˈjɛstərˌdeɪ",
-   "spell": "it was very hot yesterday"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Мій чоловік іноді ходить у спортзал",
-   "ipa": "maɪ ˈhʌzbənd səmˈtaɪmz ɡoʊz tu ðə ʤɪm",
-   "spell": "my husband sometimes goes to the gym"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "на вихідних",
-   "ipa": "ɑn ˈwiˌkɛndz",
-   "spell": "on weekends"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Вона ніколи не ходить за покупками після роботи",
-   "ipa": "ʃi ˈnɛvər ɡoʊz ˈʃɑpɪŋ ˈæftər wɜrk",
-   "spell": "she never goes shopping after work"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Вона іноді їсть сендвіч на обід",
-   "ipa": "ʃi səmˈtaɪmz hæz ə ˈsændwɪʧ fɔr lʌnʧ",
-   "spell": "she sometimes has a sandwich for lunch"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Ресторан закривається",
-   "ipa": "ðə ˈrɛstəˌrɑnt ˈkloʊzɪz",
-   "spell": "the restaurant closes"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "закрити (щось)",
-   "ipa": "tu kloʊs (tu kloʊs ɪt)",
-   "spell": "to close (to close it)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "закриватися",
-   "ipa": "tu kloʊs (tu ɡɛt kloʊzd)",
-   "spell": "to close (to get closed)"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "холодніти",
-   "ipa": "tu ɡɛt koʊld",
-   "spell": "to get cold"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "нагріватися",
-   "ipa": "tu ɡɛt hɑt",
-   "spell": "to get hot"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "лягати спати",
-   "ipa": "tu ɡoʊ tu bɛd",
-   "spell": "to go to bed"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "видати попередження про спеку",
-   "ipa": "tu ˈɪʃu ə hit ˈwɔrnɪŋ",
-   "spell": "to issue a heat warning"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "упорядкувати слова",
-   "ipa": "tu ˈɔrdər ðə wɜrdz",
-   "spell": "to order the words"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "двадцять градусів",
-   "ipa": "ˈtwɛnti dɪˈɡriz",
-   "spell": "twenty degrees"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "дуже пізно",
-   "ipa": "ˈvɛri leɪt",
-   "spell": "very late"
- },
- {
-   "cefr": "",
-   "def2": "",
-   "def1": "Ми зазвичай снідаємо вдома",
-   "ipa": "wi ˈjuʒəwəli hæv ˈbrɛkfəst æt hoʊm",
-   "spell": "we usually have breakfast at home"
- }
-]
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "lesson",
+  "number": 43,
+  "date": "2025-06-23",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "колокація",
+      "ipa": "ə kɑləˈkeɪʃən",
+      "spell": "a collocation"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "попередження про спеку",
+      "ipa": "ə hit ˈwɔrnɪŋ",
+      "spell": "a heat Warning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "попередження",
+      "ipa": "ə ˈwɔrnɪŋ",
+      "spell": "a warning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "тиждень",
+      "ipa": "ə wik",
+      "spell": "a week"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "кінець",
+      "ipa": "ən ɛnd",
+      "spell": "an end"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "ти йдеш?",
+      "ipa": "ɑr ju ˈkʌmɪŋ?",
+      "spell": "are you coming?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Вони зазвичай їздять на роботу автобусом?",
+      "ipa": "du ðeɪ ˈjuʒəwəli ɡoʊ tu wɜrk baɪ bʌs?",
+      "spell": "Do they usually go to work by bus?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "У тебе є кондиціонер у будинку?",
+      "ipa": "du ju hæv ən ɛr kənˈdɪʃənər ɪn jʊər haʊs?",
+      "spell": "do you have an air conditioner in your house?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ти бачиш помилку?",
+      "ipa": "du ju si ə mɪsˈteɪk?",
+      "spell": "do you see a mistake?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ресторан зазвичай закривається пізно?",
+      "ipa": "dʌz ðə ˈrɛstəˌrɑnt ˈjuʒəwəli kloʊs leɪt?",
+      "spell": "does the restaurant usually close late?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "подвійне заперечення",
+      "ipa": "ˈdʌbəl ˈnɛɡətɪv",
+      "spell": "double negative"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "добре для тебе",
+      "ipa": "ɡʊd fɔr ju",
+      "spell": "good for you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "поступово",
+      "ipa": "ˈɡræʤuəli",
+      "spell": "gradually"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "спека",
+      "ipa": "hit",
+      "spell": "heat"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я завжди приймаю душ вранці",
+      "ipa": "aɪ ˈɔlˌweɪz teɪk ə ˈʃaʊər ɪn ðə ˈmɔrnɪŋ",
+      "spell": "I always take a shower in the morning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я чекаю на тебе",
+      "ipa": "aɪ æm ˈwɔtɪŋ fɔr ju",
+      "spell": "I am wating for you"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Мені це подобається",
+      "ipa": "aɪ laɪk ɪt",
+      "spell": "I like it"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я ніколи не лягаю спати до 12:00",
+      "ipa": "aɪ ˈnɛvər ɡoʊ tu bɛd bɪˈfɔr 12:00",
+      "spell": "I never go to bed before 12:00"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я віддаю перевагу з лимоном",
+      "ipa": "aɪ prəˈfɜr ɪt wɪð ˈlɛmən",
+      "spell": "I prefer it with lemon"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Іноді я готую рибу на вечерю",
+      "ipa": "aɪ səmˈtaɪmz meɪk fɪʃ fɔr ˈdɪnər",
+      "spell": "I sometimes make fish for dinner"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Я зазвичай роблю домашнє завдання на вихідних",
+      "ipa": "aɪ ˈjuʒəwəli du maɪ ˈhoʊmˌwɜrk ɑn ðə ˈwiˌkɛnd",
+      "spell": "I usually do my homework on the weekend"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Чи є помилка?",
+      "ipa": "ɪz ðɛr ə mɪsˈteɪk?",
+      "spell": "is there a mistake?"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Тут не дуже холодно взимку",
+      "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri koʊld hir ɪn ˈwɪntər",
+      "spell": "it does not get very cold here in winter"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Тут не дуже жарко влітку",
+      "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri hɑt hir ɪn ˈsʌmər",
+      "spell": "it does not get very hot here in summer"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Стає рано",
+      "ipa": "ɪt ɡɛts ˈɜrli",
+      "spell": "it gets early"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Стає смішно",
+      "ipa": "ɪt ɡɛts ˈfʌni",
+      "spell": "it gets funny"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Стає пізно",
+      "ipa": "ɪt ɡɛts leɪt",
+      "spell": "it gets late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Стає серйозно",
+      "ipa": "ɪt ɡɛts ˈsɪriəs",
+      "spell": "it gets serious"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Поступово стає легко",
+      "ipa": "ɪt ˈɡræʤuəli ɡɛts ˈizi",
+      "spell": "it gradually gets easy"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Це чудово!",
+      "ipa": "ɪt ɪz ɡreɪt!",
+      "spell": "it is great!"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Це сумно",
+      "ipa": "ɪt ɪz sæd",
+      "spell": "it is sad"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Швидко стає холодно",
+      "ipa": "ɪt ˈkwɪkli ɡɛts koʊld",
+      "spell": "it quickly gets cold"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Швидко стає дорого",
+      "ipa": "ɪt ˈkwɪkli ɡɛts ɪkˈspɛnsɪv",
+      "spell": "it quickly gets expensive"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Швидко стає жарко",
+      "ipa": "ɪt ˈkwɪkli ɡɛts hɑt",
+      "spell": "it quickly gets hot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Зазвичай стає важко",
+      "ipa": "ɪt ˈjuʒəwəli ɡɛts hɑrd",
+      "spell": "it usually gets hard"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Вчора було дуже жарко",
+      "ipa": "ɪt wʌz ˈvɛri hɑt ˈjɛstərˌdeɪ",
+      "spell": "it was very hot yesterday"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Мій чоловік іноді ходить у спортзал",
+      "ipa": "maɪ ˈhʌzbənd səmˈtaɪmz ɡoʊz tu ðə ʤɪm",
+      "spell": "my husband sometimes goes to the gym"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "на вихідних",
+      "ipa": "ɑn ˈwiˌkɛndz",
+      "spell": "on weekends"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Вона ніколи не ходить за покупками після роботи",
+      "ipa": "ʃi ˈnɛvər ɡoʊz ˈʃɑpɪŋ ˈæftər wɜrk",
+      "spell": "she never goes shopping after work"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Вона іноді їсть сендвіч на обід",
+      "ipa": "ʃi səmˈtaɪmz hæz ə ˈsændwɪʧ fɔr lʌnʧ",
+      "spell": "she sometimes has a sandwich for lunch"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ресторан закривається",
+      "ipa": "ðə ˈrɛstəˌrɑnt ˈkloʊzɪz",
+      "spell": "the restaurant closes"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закрити (щось)",
+      "ipa": "tu kloʊs (tu kloʊs ɪt)",
+      "spell": "to close (to close it)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "закриватися",
+      "ipa": "tu kloʊs (tu ɡɛt kloʊzd)",
+      "spell": "to close (to get closed)"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "холодніти",
+      "ipa": "tu ɡɛt koʊld",
+      "spell": "to get cold"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "нагріватися",
+      "ipa": "tu ɡɛt hɑt",
+      "spell": "to get hot"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "лягати спати",
+      "ipa": "tu ɡoʊ tu bɛd",
+      "spell": "to go to bed"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "видати попередження про спеку",
+      "ipa": "tu ˈɪʃu ə hit ˈwɔrnɪŋ",
+      "spell": "to issue a heat warning"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "упорядкувати слова",
+      "ipa": "tu ˈɔrdər ðə wɜrdz",
+      "spell": "to order the words"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "двадцять градусів",
+      "ipa": "ˈtwɛnti dɪˈɡriz",
+      "spell": "twenty degrees"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "дуже пізно",
+      "ipa": "ˈvɛri leɪt",
+      "spell": "very late"
+    },
+    {
+      "cefr": "",
+      "def2": "",
+      "def1": "Ми зазвичай снідаємо вдома",
+      "ipa": "wi ˈjuʒəwəli hæv ˈbrɛkfəst æt hoʊm",
+      "spell": "we usually have breakfast at home"
+    }
+  ]
+}
