@@ -116,7 +116,6 @@ import IM09 from "./pages/im/IM09";
 import IM10 from "./pages/im/IM10";
 import IM12 from "./pages/im/IM12";
 
-import IP from "./pages/ip/IP";
 
 import IS from "./pages/is/IS";
 import IS01 from "./pages/is/IS01";
@@ -421,7 +420,7 @@ export default function App() {
           <Route path="im10" element={<IM10 />} />
           <Route path="im12" element={<IM12 />} />
 
-          <Route path="ip" element={<IP />} />
+
 
           <Route path="is" element={<IS />} />
           <Route path="is01" element={<IS01 />} />
