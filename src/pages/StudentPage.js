@@ -22,7 +22,7 @@ function StudentPage() {
     //===============================================
     function StudentLink({ slug }) {
         const validSlugs = [
-            "aa", "ab", "ag", "as", "dk", "gk", "gp", "ic", "ik",
+            "aa", "ab", "ag", "as", "dk", "gk", "gp", "ic",
             "im", "is", "mg", "ml", "ms", "os", "ot",
             "sb", "ss", "st", "vk", "yk"
         ];

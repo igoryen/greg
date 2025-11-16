@@ -96,8 +96,6 @@ import GP12 from "./pages/gp/GP12";
 import Grm01 from "./pages/grm/Grm01";
 import Grm02 from "./pages/grm/Grm02";
 
-import IK from "./pages/ik/IK";
-
 import IM from "./pages/im/IM";
 import IM01 from "./pages/im/IM01";
 import IM04 from "./pages/im/IM04";
@@ -389,8 +387,6 @@ export default function App() {
 
           <Route path="grm01" element={<Grm01 />} />
           <Route path="grm02" element={<Grm02 />} />
-
-          <Route path="ik" element={<IK />} />
 
           <Route path="im" element={<IM />} />
           <Route path="im01" element={<IM01 />} />
