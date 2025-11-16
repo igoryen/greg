@@ -53,6 +53,25 @@
         display: flex;
         font-size: 1.5em;
         justify-content: space-between;
+        border-bottom: 1px dashed lightblue;
+
+        a {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            font-size: 1em;
+            line-height: 1;
+            text-decoration: none;
+        }
+
+
+        .emj {
+            font-size: 1.5em;
+        }
+
+        .label {
+            color: rgba($color: #000000, $alpha: 0.4);
+        }
     }
 }
 

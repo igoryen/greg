@@ -33,8 +33,22 @@ class Layout extends React.Component {
 
                 <section className="spacesuit">
                     <div className="beltaloda">
-                        <a className="" href="/" >🏠</a>
-                        <a className="" href="/sidju" >⛵</a>
+                        <a className="" href="/" >
+                            <div className="emj">🏠</div>
+                            <div className="label">home</div>
+                        </a>
+                        <a className="" href="/about" >
+                            <div className="emj">ℹ️</div>
+                            <div className="label">about</div>
+                        </a>
+                        <a className="" href="/contact" >
+                            <div className="emj">📡</div>
+                            <div className="label">contact</div>
+                        </a>
+                        <a className="" href="/sidju" >
+                            <div className="emj">⛵</div>
+                            <div className="label">navi</div>
+                        </a>
                     </div>
 
                     <header className="head">

@@ -31,13 +31,7 @@ const HomePage = () => {
                             <TestimonialCarousel />
                         </section> */}
 
-                        <div className="mike">
-                            <div>📞 🇨🇦: <a href="tel:+16477036200" className=""> (647) 703-6200</a></div>
-                            <div>Instagram: <a href="https://www.instagram.com/anglofor" target="_blank" rel="noreferrer">anglofor</a></div>
-                            <div>Telegram: <a href="https://t.me/anglofor" target="_blank" rel="noreferrer">t.me/anglofor</a></div>
-                            <div>Facebook: <a href="https://www.facebook.com/profile.php?id=61569937586448" target="_blank" rel="noreferrer">anglofor</a></div>
-                            <div>Email: <a href="mailto:anglofor2@gmail.com" target="_blank" rel="noreferrer">anglofor2@gmail.com</a></div>
-                        </div>
+
 
                     </div>
 

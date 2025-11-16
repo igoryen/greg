@@ -9,6 +9,7 @@ import Home from "./pages/Home";
 import StudentPage from "./pages/StudentPage";
 import LessonPage from "./pages/LessonPage";
 
+import About from "./pages/About";
 import Ang from "./pages/Ang";
 import AspSimp from "./pages/grm/AspSimp";
 import AspSimpCont from "./pages/grm/AspSimpCont";
@@ -64,7 +65,7 @@ import AS07 from "./pages/as/AS07";
 import Bob from "./pages/Bob";
 import Clani from "./pages/Clani";
 import Cnicro from "./pages/grm/Cnicro";
-
+import Contact from "./pages/Contact";
 
 import Dan from "./pages/Dan";
 
@@ -305,6 +306,8 @@ export default function App() {
           <Route path="aa" element={<AA />} />
           <Route path="aa01" element={<AA01 />} />
 
+          <Route path="about" element={<About />} />
+
           <Route path="ab" element={<AB />} />
           <Route path="ab01" element={<AB01 />} />
           <Route path="ab04" element={<AB04 />} />
@@ -355,6 +358,8 @@ export default function App() {
 
 
           <Route path="cnicro" element={<Cnicro />} />
+
+          <Route path="contact" element={<Contact />} />
 
           <Route path="os" element={<OS />} />
           <Route path="os01" element={<OS01 />} />
