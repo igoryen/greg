@@ -7,6 +7,9 @@ function generateLessonsList() {
 
     const lessonsList = {};
 
+    // ✅ Whitelist
+    const whiteList = ["af", "ax", "dc", "gb", "gp", "ih", "ik", "ip", "kz", "rp", "sb", "vh"];
+
     const students = fs.readdirSync(dataDir, { withFileTypes: true })
         .filter(dirent => dirent.isDirectory())
         .map(dirent => dirent.name);
@@ -17,13 +20,17 @@ function generateLessonsList() {
 
         lessonsList[student] = [];
 
+        const showMessages = whiteList.includes(student);
+
         files.forEach(file => {
             const filePath = path.join(studentDir, file);
             const rawData = fs.readFileSync(filePath, "utf-8");
             const jsonData = JSON.parse(rawData);
 
             if (!jsonData.student) {
-                console.warn(`⚠️ Skipping ${file} for ${student} (missing "student")`);
+                if (showMessages) {
+                    console.warn(`⚠️ Skipping ${file} for ${student} (missing "student")`);
+                }
                 return; // skip if student is missing
             }
 
