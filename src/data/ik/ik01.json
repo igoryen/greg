@@ -1,275 +1,282 @@
-[
-  {
-    "cefr": "",
-    "def2": "audīre differentiam",
-    "def1": "слышать разницу",
-    "ipa": "tu hir ðə ˈdɪfərəns",
-    "spell": "to hear the difference"
-  },
-  {
-    "cefr": "",
-    "def2": "audīre illud",
-    "def1": "слушать это",
-    "ipa": "tu ˈlɪsən tu ɪt",
-    "spell": "to listen to it"
-  },
-  {
-    "cefr": "",
-    "def2": "colloquium",
-    "def1": "разговор",
-    "ipa": "ə ˌkɑnvərˈseɪʃən",
-    "spell": "a conversation"
-  },
-  {
-    "cefr": "",
-    "def2": "colloquī",
-    "def1": "общаться, беседовать",
-    "ipa": "tu kənˈvɜrs",
-    "spell": "to converse"
-  },
-  {
-    "cefr": "",
-    "def2": "convenīre",
-    "def1": "встречать",
-    "ipa": "tu mit",
-    "spell": "to meet"
-  },
-  {
-    "cefr": "",
-    "def2": "decem minūtae",
-    "def1": "десять минут",
-    "ipa": "tɛn ˈmɪnəts",
-    "spell": "ten minutes"
-  },
-  {
-    "cefr": "",
-    "def2": "plēnus est",
-    "def1": "он сыт",
-    "ipa": "hi ɪz fʊl",
-    "spell": "he is full"
-  },
-  {
-    "cefr": "",
-    "def2": "stultus est",
-    "def1": "он дурак",
-    "ipa": "hi ɪz ə ful",
-    "spell": "he is a fool"
-  },
-  {
-    "cefr": "",
-    "def2": "eāmus iterum audīre",
-    "def1": "давайте послушаем ещё раз",
-    "ipa": "lɛts ˈlɪsən əˈɡɛn",
-    "spell": "let’s listen again"
-  },
-  {
-    "cefr": "",
-    "def2": "grātum",
-    "def1": "приятно",
-    "ipa": "naɪs",
-    "spell": "nice"
-  },
-  {
-    "cefr": "",
-    "def2": "grātum tē cognōscere",
-    "def1": "приятно познакомиться",
-    "ipa": "(ɪt ɪz) naɪs tu mit ju.",
-    "spell": "(it is) nice to meet you."
-  },
-  {
-    "cefr": "",
-    "def2": "imāgō",
-    "def1": "фото",
-    "ipa": "ə ˈfoʊˌtoʊ",
-    "spell": "a photo"
-  },
-  {
-    "cefr": "",
-    "def2": "imāgō faciem convenit",
-    "def1": "фото соответствует лицу",
-    "ipa": "ðə ˈfoʊˌtoʊ ˈmæʧəz ðə feɪs",
-    "spell": "the photo matches the face"
-  },
-  {
-    "cefr": "",
-    "def2": "intellegere",
-    "def1": "понимать",
-    "ipa": "tu ˌʌndərˈstænd",
-    "spell": "to understand"
-  },
-  {
-    "cefr": "",
-    "def2": "iterāre",
-    "def1": "повторять",
-    "ipa": "tu rɪˈpit",
-    "spell": "to repeat"
-  },
-  {
-    "cefr": "",
-    "def2": "labium",
-    "def1": "губа",
-    "ipa": "ə lɪp",
-    "spell": "a lip"
-  },
-  {
-    "cefr": "",
-    "def2": "littera",
-    "def1": "буква",
-    "ipa": "ə ˈlɛtər (ʌv ði ˈælfəˌbɛt)",
-    "spell": "a letter (of the alphabet)"
-  },
-  {
-    "cefr": "",
-    "def2": "minūta",
-    "def1": "минута",
-    "ipa": "ə ˈmɪnət",
-    "spell": "a minute"
-  },
-  {
-    "cefr": "",
-    "def2": "nōmen meum est Ivan",
-    "def1": "меня зовут Иван",
-    "ipa": "maɪ neɪm ɪz ɪˈvɑn",
-    "spell": "my name is Ivan"
-  },
-  {
-    "cefr": "",
-    "def2": "opus",
-    "def1": "работа",
-    "ipa": "ə ʤɑb",
-    "spell": "a job"
-  },
-  {
-    "cefr": "",
-    "def2": "post mē",
-    "def1": "после меня",
-    "ipa": "ˈæftər mi",
-    "spell": "after me"
-  },
-  {
-    "cefr": "",
-    "def2": "puella",
-    "def1": "девочка",
-    "ipa": "ə ɡɜrl",
-    "spell": "a girl"
-  },
-  {
-    "cefr": "",
-    "def2": "puer",
-    "def1": "мальчик",
-    "ipa": "ə bɔɪ",
-    "spell": "a boy"
-  },
-  {
-    "cefr": "",
-    "def2": "quid est nōmen eius?",
-    "def1": "как её зовут?",
-    "ipa": "wɑt ɪz hɜr neɪm?",
-    "spell": "what is her name?"
-  },
-  {
-    "cefr": "",
-    "def2": "quid est nōmen tuum?",
-    "def1": "как тебя зовут?",
-    "ipa": "wɑt ɪz jʊər neɪm?",
-    "spell": "what is your name?"
-  },
-  {
-    "cefr": "",
-    "def2": "salvē in meā domō",
-    "def1": "добро пожаловать в мой дом",
-    "ipa": "ˈwɛlkəm tu maɪ haʊs",
-    "spell": "welcome to my house"
-  },
-  {
-    "cefr": "",
-    "def2": "salvē in museō",
-    "def1": "добро пожаловать в музей",
-    "ipa": "ˈwɛlkəm tu ðə mjuˈziəm",
-    "spell": "welcome to the museum"
-  },
-  {
-    "cefr": "",
-    "def2": "salvē in nostrō caupōnā",
-    "def1": "добро пожаловать в наш ресторан",
-    "ipa": "ˈwɛlkəm tu ˈaʊər ˈrɛstəˌrɑnt",
-    "spell": "welcome to our restaurant"
-  },
-  {
-    "cefr": "",
-    "def2": "salvē, ego sum Ivan",
-    "def1": "привет, я Иван",
-    "ipa": "haɪ, aɪm ɪˈvɑn",
-    "spell": "Hi, I’m Ivan"
-  },
-  {
-    "cefr": "",
-    "def2": "spectāre illud",
-    "def1": "смотреть на это",
-    "ipa": "tu lʊk æt ɪt",
-    "spell": "to look at it"
-  },
-  {
-    "cefr": "",
-    "def2": "symbolum",
-    "def1": "символ",
-    "ipa": "ə ˈsɪmbəl",
-    "spell": "a symbol"
-  },
-  {
-    "cefr": "",
-    "def2": "vir",
-    "def1": "парень",
-    "ipa": "ə ɡaɪ",
-    "spell": "a guy"
-  },
-  {
-    "cefr": "",
-    "def2": "volō bibere",
-    "def1": "я хочу пить",
-    "ipa": "aɪ wɑnt tu drɪŋk",
-    "spell": "I want to drink"
-  },
-  {
-    "cefr": "",
-    "def2": "volō dormīre",
-    "def1": "я хочу спать",
-    "ipa": "aɪ wɑnt tu slip",
-    "spell": "I want to sleep"
-  },
-  {
-    "cefr": "",
-    "def2": "volō edere",
-    "def1": "я хочу есть",
-    "ipa": "aɪ wɑnt tu it",
-    "spell": "I want to eat"
-  },
-  {
-    "cefr": "",
-    "def2": "volō intellegere",
-    "def1": "я хочу понимать",
-    "ipa": "aɪ wɑnt tu ˌʌndərˈstænd",
-    "spell": "I want to understand"
-  },
-  {
-    "cefr": "",
-    "def2": "volō labōrāre",
-    "def1": "я хочу работать",
-    "ipa": "aɪ wɑnt tu wɜrk",
-    "spell": "I want to work"
-  },
-  {
-    "cefr": "",
-    "def2": "volō saltāre",
-    "def1": "я хочу танцевать",
-    "ipa": "aɪ wɑnt tu dæns",
-    "spell": "I want to dance"
-  },
-  {
-    "cefr": "",
-    "def2": "volō īre",
-    "def1": "я хочу идти",
-    "ipa": "aɪ wɑnt tu ɡoʊ",
-    "spell": "I want to go"
-  }
-]
+{
+  "student": "Ivan K.",
+  "slug": "ik",
+  "period": "lesson",
+  "number": 1,
+  "date": "2025-05-20",
+  "words": [
+    {
+      "cefr": "",
+      "def2": "audīre differentiam",
+      "def1": "слышать разницу",
+      "ipa": "tu hir ðə ˈdɪfərəns",
+      "spell": "to hear the difference"
+    },
+    {
+      "cefr": "",
+      "def2": "audīre illud",
+      "def1": "слушать это",
+      "ipa": "tu ˈlɪsən tu ɪt",
+      "spell": "to listen to it"
+    },
+    {
+      "cefr": "",
+      "def2": "colloquium",
+      "def1": "разговор",
+      "ipa": "ə ˌkɑnvərˈseɪʃən",
+      "spell": "a conversation"
+    },
+    {
+      "cefr": "",
+      "def2": "colloquī",
+      "def1": "общаться, беседовать",
+      "ipa": "tu kənˈvɜrs",
+      "spell": "to converse"
+    },
+    {
+      "cefr": "",
+      "def2": "convenīre",
+      "def1": "встречать",
+      "ipa": "tu mit",
+      "spell": "to meet"
+    },
+    {
+      "cefr": "",
+      "def2": "decem minūtae",
+      "def1": "десять минут",
+      "ipa": "tɛn ˈmɪnəts",
+      "spell": "ten minutes"
+    },
+    {
+      "cefr": "",
+      "def2": "plēnus est",
+      "def1": "он сыт",
+      "ipa": "hi ɪz fʊl",
+      "spell": "he is full"
+    },
+    {
+      "cefr": "",
+      "def2": "stultus est",
+      "def1": "он дурак",
+      "ipa": "hi ɪz ə ful",
+      "spell": "he is a fool"
+    },
+    {
+      "cefr": "",
+      "def2": "eāmus iterum audīre",
+      "def1": "давайте послушаем ещё раз",
+      "ipa": "lɛts ˈlɪsən əˈɡɛn",
+      "spell": "let’s listen again"
+    },
+    {
+      "cefr": "",
+      "def2": "grātum",
+      "def1": "приятно",
+      "ipa": "naɪs",
+      "spell": "nice"
+    },
+    {
+      "cefr": "",
+      "def2": "grātum tē cognōscere",
+      "def1": "приятно познакомиться",
+      "ipa": "(ɪt ɪz) naɪs tu mit ju.",
+      "spell": "(it is) nice to meet you."
+    },
+    {
+      "cefr": "",
+      "def2": "imāgō",
+      "def1": "фото",
+      "ipa": "ə ˈfoʊˌtoʊ",
+      "spell": "a photo"
+    },
+    {
+      "cefr": "",
+      "def2": "imāgō faciem convenit",
+      "def1": "фото соответствует лицу",
+      "ipa": "ðə ˈfoʊˌtoʊ ˈmæʧəz ðə feɪs",
+      "spell": "the photo matches the face"
+    },
+    {
+      "cefr": "",
+      "def2": "intellegere",
+      "def1": "понимать",
+      "ipa": "tu ˌʌndərˈstænd",
+      "spell": "to understand"
+    },
+    {
+      "cefr": "",
+      "def2": "iterāre",
+      "def1": "повторять",
+      "ipa": "tu rɪˈpit",
+      "spell": "to repeat"
+    },
+    {
+      "cefr": "",
+      "def2": "labium",
+      "def1": "губа",
+      "ipa": "ə lɪp",
+      "spell": "a lip"
+    },
+    {
+      "cefr": "",
+      "def2": "littera",
+      "def1": "буква",
+      "ipa": "ə ˈlɛtər (ʌv ði ˈælfəˌbɛt)",
+      "spell": "a letter (of the alphabet)"
+    },
+    {
+      "cefr": "",
+      "def2": "minūta",
+      "def1": "минута",
+      "ipa": "ə ˈmɪnət",
+      "spell": "a minute"
+    },
+    {
+      "cefr": "",
+      "def2": "nōmen meum est Ivan",
+      "def1": "меня зовут Иван",
+      "ipa": "maɪ neɪm ɪz ɪˈvɑn",
+      "spell": "my name is Ivan"
+    },
+    {
+      "cefr": "",
+      "def2": "opus",
+      "def1": "работа",
+      "ipa": "ə ʤɑb",
+      "spell": "a job"
+    },
+    {
+      "cefr": "",
+      "def2": "post mē",
+      "def1": "после меня",
+      "ipa": "ˈæftər mi",
+      "spell": "after me"
+    },
+    {
+      "cefr": "",
+      "def2": "puella",
+      "def1": "девочка",
+      "ipa": "ə ɡɜrl",
+      "spell": "a girl"
+    },
+    {
+      "cefr": "",
+      "def2": "puer",
+      "def1": "мальчик",
+      "ipa": "ə bɔɪ",
+      "spell": "a boy"
+    },
+    {
+      "cefr": "",
+      "def2": "quid est nōmen eius?",
+      "def1": "как её зовут?",
+      "ipa": "wɑt ɪz hɜr neɪm?",
+      "spell": "what is her name?"
+    },
+    {
+      "cefr": "",
+      "def2": "quid est nōmen tuum?",
+      "def1": "как тебя зовут?",
+      "ipa": "wɑt ɪz jʊər neɪm?",
+      "spell": "what is your name?"
+    },
+    {
+      "cefr": "",
+      "def2": "salvē in meā domō",
+      "def1": "добро пожаловать в мой дом",
+      "ipa": "ˈwɛlkəm tu maɪ haʊs",
+      "spell": "welcome to my house"
+    },
+    {
+      "cefr": "",
+      "def2": "salvē in museō",
+      "def1": "добро пожаловать в музей",
+      "ipa": "ˈwɛlkəm tu ðə mjuˈziəm",
+      "spell": "welcome to the museum"
+    },
+    {
+      "cefr": "",
+      "def2": "salvē in nostrō caupōnā",
+      "def1": "добро пожаловать в наш ресторан",
+      "ipa": "ˈwɛlkəm tu ˈaʊər ˈrɛstəˌrɑnt",
+      "spell": "welcome to our restaurant"
+    },
+    {
+      "cefr": "",
+      "def2": "salvē, ego sum Ivan",
+      "def1": "привет, я Иван",
+      "ipa": "haɪ, aɪm ɪˈvɑn",
+      "spell": "Hi, I’m Ivan"
+    },
+    {
+      "cefr": "",
+      "def2": "spectāre illud",
+      "def1": "смотреть на это",
+      "ipa": "tu lʊk æt ɪt",
+      "spell": "to look at it"
+    },
+    {
+      "cefr": "",
+      "def2": "symbolum",
+      "def1": "символ",
+      "ipa": "ə ˈsɪmbəl",
+      "spell": "a symbol"
+    },
+    {
+      "cefr": "",
+      "def2": "vir",
+      "def1": "парень",
+      "ipa": "ə ɡaɪ",
+      "spell": "a guy"
+    },
+    {
+      "cefr": "",
+      "def2": "volō bibere",
+      "def1": "я хочу пить",
+      "ipa": "aɪ wɑnt tu drɪŋk",
+      "spell": "I want to drink"
+    },
+    {
+      "cefr": "",
+      "def2": "volō dormīre",
+      "def1": "я хочу спать",
+      "ipa": "aɪ wɑnt tu slip",
+      "spell": "I want to sleep"
+    },
+    {
+      "cefr": "",
+      "def2": "volō edere",
+      "def1": "я хочу есть",
+      "ipa": "aɪ wɑnt tu it",
+      "spell": "I want to eat"
+    },
+    {
+      "cefr": "",
+      "def2": "volō intellegere",
+      "def1": "я хочу понимать",
+      "ipa": "aɪ wɑnt tu ˌʌndərˈstænd",
+      "spell": "I want to understand"
+    },
+    {
+      "cefr": "",
+      "def2": "volō labōrāre",
+      "def1": "я хочу работать",
+      "ipa": "aɪ wɑnt tu wɜrk",
+      "spell": "I want to work"
+    },
+    {
+      "cefr": "",
+      "def2": "volō saltāre",
+      "def1": "я хочу танцевать",
+      "ipa": "aɪ wɑnt tu dæns",
+      "spell": "I want to dance"
+    },
+    {
+      "cefr": "",
+      "def2": "volō īre",
+      "def1": "я хочу идти",
+      "ipa": "aɪ wɑnt tu ɡoʊ",
+      "spell": "I want to go"
+    }
+  ]
+}
