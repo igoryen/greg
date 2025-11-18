@@ -4,14 +4,16 @@
             "grapheme": "a",
             "pronunciation": "æ",
             "examples": [
-                "cat"
+                "cat",
+                "can"
             ]
         },
         {
             "grapheme": "a_e",
             "pronunciation": "eɪ",
             "examples": [
-                "mate"
+                "mate",
+                "make"
             ]
         },
         {
@@ -37,7 +39,7 @@
         },
         {
             "grapheme": "air",
-            "pronunciation": "ʧɛr",
+            "pronunciation": "ɛr",
             "examples": [
                 "chair"
             ]
@@ -109,7 +111,8 @@
             "grapheme": "c",
             "pronunciation": "k",
             "examples": [
-                "cat"
+                "cat",
+                "can"
             ]
         },
         {
@@ -137,6 +140,7 @@
             "grapheme": "ch",
             "pronunciation": "k",
             "examples": [
+                "technology",
                 "Chris"
             ]
         },
@@ -212,7 +216,7 @@
         },
         {
             "grapheme": "ear",
-            "pronunciation": "pɛr",
+            "pronunciation": "ɛr",
             "examples": [
                 "pear"
             ]
@@ -403,7 +407,8 @@
             "grapheme": "j",
             "pronunciation": "ʤ",
             "examples": [
-                "jam"
+                "jam",
+                "job"
             ]
         },
         {
@@ -719,7 +724,7 @@
         },
         {
             "grapheme": "s",
-            "pronunciation": "sɪt",
+            "pronunciation": "s",
             "examples": [
                 "sit"
             ]
@@ -817,49 +822,49 @@
         },
         {
             "grapheme": "ue",
-            "pronunciation": "blu",
+            "pronunciation": "u",
             "examples": [
                 "blue"
             ]
         },
         {
             "grapheme": "ui",
-            "pronunciation": "frut",
+            "pronunciation": "u",
             "examples": [
                 "fruit"
             ]
         },
         {
             "grapheme": "uoy",
-            "pronunciation": "ˈbui",
+            "pronunciation": "ˈui",
             "examples": [
                 "buoy"
             ]
         },
         {
             "grapheme": "ur",
-            "pronunciation": "bɜrn",
+            "pronunciation": "ɜr",
             "examples": [
                 "burn"
             ]
         },
         {
             "grapheme": "ure",
-            "pronunciation": "kjʊr",
+            "pronunciation": "jʊr",
             "examples": [
                 "cure"
             ]
         },
         {
             "grapheme": "v",
-            "pronunciation": "vaɪn",
+            "pronunciation": "v",
             "examples": [
                 "vine"
             ]
         },
         {
             "grapheme": "ve",
-            "pronunciation": "faɪv",
+            "pronunciation": "v",
             "examples": [
                 "five"
             ]
