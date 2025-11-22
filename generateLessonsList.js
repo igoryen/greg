@@ -8,7 +8,7 @@ function generateLessonsList() {
     const lessonsList = {};
 
     // ✅ Whitelist
-    const whiteList = ["af", "ax", "dc", "gb", "gp", "ih", "ik", "ip", "kz", "rp", "sb", "vh"];
+    const whiteList = ["af", "ax", "dc", "gb", "gp", "ih", "ik", "ip", "kz", "rp", "sb", "va", "vh"];
 
     const students = fs.readdirSync(dataDir, { withFileTypes: true })
         .filter(dirent => dirent.isDirectory())
