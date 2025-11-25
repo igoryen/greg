@@ -2,10 +2,14 @@ import * as React from 'react';
 
 // src: https://www.codeconcisely.com/posts/react-external-links/
 
-export default function ExternalLink({ children, url }) {
+export default function ExternalButton({ children, url }) {
+    const handleClick = () => {
+        window.open(url, '_blank', 'noopener,noreferrer');
+    };
+
     return (
-        <a href={url} target="_blank" rel="noreferrer">
+        <button onClick={handleClick}>
             {children}
-        </a>
+        </button>
     );
 }
