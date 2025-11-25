@@ -159,7 +159,8 @@
 }
 
 .prisma {
-    width: 100%;
+    overflow-x: scroll;
+    width: 100em;
 
     div {
         /*            border: 1px solid black;*/
@@ -169,9 +170,11 @@
         /*            align-items: center;*/
         /*            margin: 2px;*/
         // padding: px;
-        font-family: Verdana, sans-serif;
-        font-size: 0.9em;
-        font-size: 85%;
+        font-family: "Noto Sans", sans-serif;
+        // font-size: 0.9em;
+        // font-size: 85%;
+        // min-width: 50%;
+        // font-size: 1em;
     }
 
 

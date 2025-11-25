@@ -28,12 +28,12 @@ class Grm01 extends React.Component {
                 <div className="row">
                     <div className="cell sbj">ʃi</div>
                     <div className="cell vrb">baɪ<i>z</i></div>
-                    <div className="cell obj">fʊd</div>
+                    <div className="cell obj">fud</div>
                 </div>
                 <div className="row">
                     <div className="cell sbj">wi</div>
                     <div className="cell vrb">wɑtʃ</div>
-                    <div className="cell obj">tiˈvi</div>
+                    <div className="cell obj">ˈvɪdioʊ<i>z</i></div>
                 </div>
                 <div className="row">
                     <div className="cell sbj">ðeɪ</div>
