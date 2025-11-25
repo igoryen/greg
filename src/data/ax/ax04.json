@@ -1,0 +1,764 @@
+{
+  "student": "Andrew S.",
+  "slug": "ax",
+  "period": "week",
+  "number": 44,
+  "date": "2025-10-31",
+  "words": [
+ {
+   "def1": "-ущ, -ющ, -ащ, -ящ",
+   "ipa": "-ɪŋ",
+   "spell": "-ing"
+ },
+ {
+   "def1": "танцующая женщина",
+   "ipa": "ə ˈдæнсɪŋ ˈwʊмəн",
+   "spell": "a dancing woman"
+ },
+ {
+   "def1": "ремень безопасности",
+   "ipa": "ə сит бэлт",
+   "spell": "a seat belt"
+ },
+ {
+   "def1": "тип предложения",
+   "ipa": "ə ˈсэнтəнс тайп",
+   "spell": "a sentence type"
+ },
+ {
+   "def1": "устойчивое выражение",
+   "ipa": "ə сэт фрэйз",
+   "spell": "a set phrase"
+ },
+ {
+   "def1": "больной мужчина",
+   "ipa": "ə сɪк мæн",
+   "spell": "a sick man"
+ },
+ {
+   "def1": "катающийся на лыжах президент",
+   "ipa": "ə ˈскиɪŋ ˈпрэзəˌдэнт",
+   "spell": "a skiing president"
+ },
+ {
+   "def1": "спящая женщина",
+   "ipa": "ə ˈслипɪŋ ˈwʊмəн",
+   "spell": "a sleeping woman"
+ },
+ {
+   "def1": "плывущая собака",
+   "ipa": "ə ˈсwɪмɪŋ дɔг",
+   "spell": "a swimming dog"
+ },
+ {
+   "def1": "плывущий слон",
+   "ipa": "ə ˈсwɪмɪŋ ˈэлəфəнт",
+   "spell": "a swimming elephant"
+ },
+ {
+   "def1": "телешоу",
+   "ipa": "ə ˈтиˈви шоʊ",
+   "spell": "a TV show"
+ },
+ {
+   "def1": "ордер (на обыск, арест и т.п.)",
+   "ipa": "ə ˈwорəнт",
+   "spell": "a warrant"
+ },
+ {
+   "def1": "работающая женщина",
+   "ipa": "ə ˈwɜркɪŋ ˈwʊмəн",
+   "spell": "a working woman"
+ },
+ {
+   "def1": "пишущий человек",
+   "ipa": "ə ˈрайтɪŋ ˈпɜрсəн",
+   "spell": "a writing person"
+ },
+ {
+   "def1": "алкоголь",
+   "ipa": "ˈæлкəˌhɑл",
+   "spell": "alcohol"
+ },
+ {
+   "def1": "Эндрю знаменит (чем?)...",
+   "ipa": "ˈæндру ɪз ˈфэймəс фор...",
+   "spell": "Andrew is famous for..."
+ },
+ {
+   "def1": "какие-нибудь новости?",
+   "ipa": "ˈэни нуз?",
+   "spell": "any news?"
+ },
+ {
+   "def1": "какие-нибудь белки?",
+   "ipa": "ˈэни ˈскwɜрəлз?",
+   "spell": "any squirrels?"
+ },
+ {
+   "def1": "есть какие-нибудь новости?",
+   "ipa": "ɑр ðэр ˈэни нуз?",
+   "spell": "are there any news?"
+ },
+ {
+   "def1": "есть какие-нибудь белки?",
+   "ipa": "ɑр ðэр ˈэни ˈскwɜрəлз?",
+   "spell": "are there any squirrels?"
+ },
+ {
+   "def1": "спроси его, может ли он",
+   "ipa": "æск hɪм ɪф hи кæн",
+   "spell": "ask him if he can"
+ },
+ {
+   "def1": "дома",
+   "ipa": "æт hоум",
+   "spell": "at home"
+ },
+ {
+   "def1": "в школе",
+   "ipa": "æт скул",
+   "spell": "at school"
+ },
+ {
+   "def1": "на работе",
+   "ipa": "æт wɜрк",
+   "spell": "at work"
+ },
+ {
+   "def1": "Беларусь знаменита картошкой",
+   "ipa": "бэˈлɑрəс ɪз ˈфэймəс фор пəˈтэйтоуз",
+   "spell": "Belarus is famous for potatoes"
+ },
+ {
+   "def1": "Китай знаменит кунг-фу",
+   "ipa": "ˈчайнə ɪз ˈфэймəс фор ˈкʌŋ ˈфу",
+   "spell": "China is famous for kungfu"
+ },
+ {
+   "def1": "Китай знаменит Великой стеной",
+   "ipa": "ˈчайнə ɪз ˈфэймəс фор ðə грэйт wɔл",
+   "spell": "China is famous for the Great Wall"
+ },
+ {
+   "def1": "закрывающиеся двери",
+   "ipa": "ˈклоузɪŋ дорз",
+   "spell": "closing doors"
+ },
+ {
+   "def1": "смущённый, сбитый с толку",
+   "ipa": "кəнˈфъюзд",
+   "spell": "confused"
+ },
+ {
+   "def1": "дисциплина",
+   "ipa": "ˈдɪсəплəн",
+   "spell": "discipline"
+ },
+ {
+   "def1": "рисование",
+   "ipa": "ˈдроɪŋ",
+   "spell": "drawing"
+ },
+ {
+   "def1": "рисуя",
+   "ipa": "ˈдроɪŋ",
+   "spell": "drawing"
+ },
+ {
+   "def1": "кто рано ложится и рано встаёт, здоровье, богатство и ум наживёт",
+   "ipa": "ˈɜрли ту бэд æнд ˈɜрли ту райз мэйкс ə мæн ˈhэлθи, ˈwэлθи æнд wайз",
+   "spell": "early to bed and early to rise makes a man healthy, wealthy and wise"
+ },
+ {
+   "def1": "поедание",
+   "ipa": "ˈитɪŋ",
+   "spell": "eating"
+ },
+ {
+   "def1": "поедая",
+   "ipa": "ˈитɪŋ",
+   "spell": "eating"
+ },
+ {
+   "def1": "поедающий",
+   "ipa": "ˈитɪŋ",
+   "spell": "eating"
+ },
+ {
+   "def1": "подозрительный",
+   "ipa": "ˈфɪщи",
+   "spell": "fishy"
+ },
+ {
+   "def1": "ложась спать рано",
+   "ipa": "ˈгоуɪŋ ту бэд ˈɜрли",
+   "spell": "going to bed early"
+ },
+ {
+   "def1": "тот, который хороший",
+   "ipa": "гʊд wʌн",
+   "spell": "good one"
+ },
+ {
+   "def1": "те, которые хорошие",
+   "ipa": "гʊд wʌнз",
+   "spell": "good ones"
+ },
+ {
+   "def1": "он упал бегая",
+   "ipa": "hи фэл ˈрʌнɪŋ",
+   "spell": "he fell running"
+ },
+ {
+   "def1": "он сделает это, если сможет, но мы не знаем, сможет ли он",
+   "ipa": "hи wɪл ду ɪт ɪф hи кæн, бʌт wи доунт ноу ɪф hи кæн",
+   "spell": "he will do it if he can, but we don’t know if he can"
+ },
+ {
+   "def1": "он известен своими фильмами",
+   "ipa": "hиз ˈфэймəс фор hɪз ˈмувиз",
+   "spell": "he's famous for his movies"
+ },
+ {
+   "def1": "он известен своим профессионализмом",
+   "ipa": "hи ɪз ˈфэймəс фор hɪз прəˈфэшəнəˌлɪзəм",
+   "spell": "he is famous for his professionalism"
+ },
+ {
+   "def1": "он известен своим отношением к клиентам",
+   "ipa": "hи ɪз ˈфэймəс фор hɪз ˈтритмəнт ʌв ˈкʌстəмəрз",
+   "spell": "he is famous for his treatment of customers"
+ },
+ {
+   "def1": "один дома",
+   "ipa": "hоум əˈлоун",
+   "spell": "home alone"
+ },
+ {
+   "def1": "дорогая, я дома!",
+   "ipa": "ˈhʌни, айм hоум!",
+   "spell": "honey, I’m home!"
+ },
+ {
+   "def1": "как ты себя чувствуешь?",
+   "ipa": "hау ду ю фил?",
+   "spell": "how do you feel?"
+ },
+ {
+   "def1": "я за рулём",
+   "ipa": "ай æм ˈдрайвɪŋ",
+   "spell": "I am driving"
+ },
+ {
+   "def1": "я влюбляюсь",
+   "ipa": "ай æм ˈфɑлɪŋ ɪн лʌв",
+   "spell": "I am falling in love"
+ },
+ {
+   "def1": "я в ресторане",
+   "ipa": "ай æм ɪн/æт ə ˈрэстəˌрɑнт",
+   "spell": "I am in/at a restaurant"
+ },
+ {
+   "def1": "я не люблю тебя",
+   "ipa": "ай ду нɑт лʌв ю",
+   "spell": "I do not love you"
+ },
+ {
+   "def1": "я плохо себя чувствую",
+   "ipa": "ай доунт фил гʊд",
+   "spell": "I don’t feel good"
+ },
+ {
+   "def1": "я засыпаю",
+   "ipa": "ай фɔл əˈслип",
+   "spell": "I fall asleep"
+ },
+ {
+   "def1": "я влюбляюсь",
+   "ipa": "ай фɔл ɪн лʌв",
+   "spell": "I fall in love"
+ },
+ {
+   "def1": "я хорошо себя чувствую",
+   "ipa": "ай фил гʊд",
+   "spell": "I feel good"
+ },
+ {
+   "def1": "я встаю с кровати",
+   "ipa": "ай гэт аут ʌв бэд",
+   "spell": "I get out of bed"
+ },
+ {
+   "def1": "я иду спать",
+   "ipa": "ай гоу ту бэд",
+   "spell": "I go to bed"
+ },
+ {
+   "def1": "я занимаюсь любовью",
+   "ipa": "ай мэйк лʌв",
+   "spell": "I make love"
+ },
+ {
+   "def1": "я видел, как она бежала",
+   "ipa": "ай сɔ hɜр ˈрʌнɪŋ",
+   "spell": "I saw her running"
+ },
+ {
+   "def1": "я видел, как он бежал",
+   "ipa": "ай сɔ hɪм ˈрʌнɪŋ",
+   "spell": "I saw him running"
+ },
+ {
+   "def1": "я был на вечеринке",
+   "ipa": "ай wʌз æт ə ˈпɑрти",
+   "spell": "I was at a party"
+ },
+ {
+   "def1": "я был дома в семь утра вчера",
+   "ipa": "ай wʌз æт hоум æт ˈсэвəн æм ˈйэстəрˌдэй",
+   "spell": "I was at home at seven AM yesterday"
+ },
+ {
+   "def1": "я был в аэропорту",
+   "ipa": "ай wʌз æт ðи ˈэрˌпорт",
+   "spell": "I was at the airport"
+ },
+ {
+   "def1": "я был в кровати в семь утра",
+   "ipa": "ай wʌз ɪн бэд æт ˈсэвəн æм",
+   "spell": "I was in bed at seven AM"
+ },
+ {
+   "def1": "я был рядом",
+   "ipa": "ай wʌз ˈнɪрˈбай",
+   "spell": "I was nearby"
+ },
+ {
+   "def1": "я был в командировке",
+   "ipa": "ай wʌз ɑн ə ˈбɪзнəс трɪп",
+   "spell": "I was on a business trip"
+ },
+ {
+   "def1": "я был там",
+   "ipa": "ай wʌз ðэр",
+   "spell": "I was there"
+ },
+ {
+   "def1": "я плохо себя чувствовал",
+   "ipa": "ай ˈwɑзəнт ˈвэри wэл",
+   "spell": "I wasn’t very well"
+ },
+ {
+   "def1": "я сделаю это, если смогу, но я не знаю, смогу ли я",
+   "ipa": "ай wɪл ду ɪт ɪф ай кæн, бʌт ай доунт ноу ɪф ай кæн",
+   "spell": "I will do it if I can, but I don’t know if I can"
+ },
+ {
+   "def1": "если",
+   "ipa": "ɪф",
+   "spell": "if"
+ },
+ {
+   "def1": "ли",
+   "ipa": "ɪф",
+   "spell": "if"
+ },
+ {
+   "def1": "в кровати",
+   "ipa": "ɪн бэд",
+   "spell": "in bed"
+ },
+ {
+   "def1": "в Беларуси",
+   "ipa": "ɪн бэˈлɑрəс",
+   "spell": "in Belarus"
+ },
+ {
+   "def1": "в Канаде",
+   "ipa": "ɪн ˈкæнəдə",
+   "spell": "in Canada"
+ },
+ {
+   "def1": "в машинах",
+   "ipa": "ɪн кɑрз",
+   "spell": "in cars"
+ },
+ {
+   "def1": "в Китае",
+   "ipa": "ɪн ˈчайнə",
+   "spell": "in China"
+ },
+ {
+   "def1": "на уроке",
+   "ipa": "ɪн клæс",
+   "spell": "in class"
+ },
+ {
+   "def1": "в Нью-Йорке",
+   "ipa": "ɪн ну йорк",
+   "spell": "in New York"
+ },
+ {
+   "def1": "в России",
+   "ipa": "ɪн ˈрʌшə",
+   "spell": "in Russia"
+ },
+ {
+   "def1": "в ванной",
+   "ipa": "ɪн ðə ˈбæˌθрум",
+   "spell": "in the bathroom"
+ },
+ {
+   "def1": "в прошлом",
+   "ipa": "ɪн ðə пæст",
+   "spell": "in the past"
+ },
+ {
+   "def1": "на Таймс-сквер",
+   "ipa": "ɪн таймз скwэр",
+   "spell": "in Times Square"
+ },
+ {
+   "def1": "-ание, -ение",
+   "ipa": "ɪŋ",
+   "spell": "ing"
+ },
+ {
+   "def1": "-ая, -уя",
+   "ipa": "ɪŋ",
+   "spell": "ing"
+ },
+ {
+   "def1": "-ущ, -ющ, -ащ, -ящ",
+   "ipa": "ɪŋ",
+   "spell": "ing"
+ },
+ {
+   "def1": "имеется ли аэропорт?",
+   "ipa": "ɪз ðэр əн ˈэрˌпорт?",
+   "spell": "is there an airport?"
+ },
+ {
+   "def1": "он находится в Нью-Йорке",
+   "ipa": "ɪт ɪз ɪн ну йорк",
+   "spell": "it is in New York"
+ },
+ {
+   "def1": "он окружён",
+   "ipa": "ɪт ɪз сəˈраундɪд",
+   "spell": "it is surrounded"
+ },
+ {
+   "def1": "на улице нехорошо",
+   "ipa": "ɪт ˈɪзəнт найс ˈаутˈсайд",
+   "spell": "it isn’t nice outside"
+ },
+ {
+   "def1": "его история",
+   "ipa": "ɪтс ˈhɪстəри",
+   "spell": "its history"
+ },
+ {
+   "def1": "его жёлтые такси",
+   "ipa": "ɪтс ˈйэлоу ˈтæксиз",
+   "spell": "its yellow taxis"
+ },
+ {
+   "def1": "он знаменит ограблением",
+   "ipa": "ɪтс ˈфэймəс фор ə ˈрɑбəри",
+   "spell": "it’s famous for a robbery"
+ },
+ {
+   "def1": "я в своей машине",
+   "ipa": "айм ɪн май кɑр",
+   "spell": "I’m in my car"
+ },
+ {
+   "def1": "я не алкоголик",
+   "ipa": "айм нɑт əн ˌæлкəˈhɑлɪк",
+   "spell": "I’m not an alcoholic"
+ },
+ {
+   "def1": "я в автобусе",
+   "ipa": "айм ɑн ə бʌс",
+   "spell": "I’m on a bus"
+ },
+ {
+   "def1": "Япония знаменита машинами",
+   "ipa": "джəˈпæн ɪз ˈфэймəс фор кɑрз",
+   "spell": "Japan is famous for cars"
+ },
+ {
+   "def1": "Япония знаменита джиу-джитсу",
+   "ipa": "джəˈпæн ɪз ˈфэймəс фор ˌджуˈджɪтсу",
+   "spell": "Japan is famous for jiu-jitsu"
+ },
+ {
+   "def1": "Япония знаменита карате",
+   "ipa": "джəˈпæн ɪз ˈфэймəс фор кəˈрɑти",
+   "spell": "Japan is famous for karate"
+ },
+ {
+   "def1": "ключи детей",
+   "ipa": "кɪдз киз",
+   "spell": "kids' keys"
+ },
+ {
+   "def1": "лодка моих родителей",
+   "ipa": "май ˈпэрəнтс боут",
+   "spell": "my parents’ boat"
+ },
+ {
+   "def1": "город Нью-йорк",
+   "ipa": "ну йорк ˈсɪти",
+   "spell": "New York City"
+ },
+ {
+   "def1": "Нью-Йорк знаменит жёлтыми такси",
+   "ipa": "ну йорк ɪз ˈфэймəс фор ˈйэлоу ˈтæксиз",
+   "spell": "New York is famous for yellow taxis"
+ },
+ {
+   "def1": "нет, не имеются",
+   "ipa": "ноу, ðэр ˈɑрəнт",
+   "spell": "no, there aren’t"
+ },
+ {
+   "def1": "нет, не имелось",
+   "ipa": "ноу, ðэр ˈwɑзəнт",
+   "spell": "no, there wasn’t"
+ },
+ {
+   "def1": "на корабле",
+   "ipa": "ɑн ə щɪп",
+   "spell": "on a ship"
+ },
+ {
+   "def1": "в автобусе",
+   "ipa": "ɑн ðə бʌс",
+   "spell": "on the bus"
+ },
+ {
+   "def1": "в самолёте",
+   "ipa": "ɑн ðə плэйн",
+   "spell": "on the plane"
+ },
+ {
+   "def1": "в поезде",
+   "ipa": "ɑн ðə трэйн",
+   "spell": "on the train"
+ },
+ {
+   "def1": "в отпуске",
+   "ipa": "ɑн вэйˈкэйшəн",
+   "spell": "on vacation"
+ },
+ {
+   "def1": "тот, который",
+   "ipa": "wʌн",
+   "spell": "one"
+ },
+ {
+   "def1": "час ночи",
+   "ipa": "wʌн æм",
+   "spell": "one AM"
+ },
+ {
+   "def1": "пожалуйста, осторожно, двери закрываются!",
+   "ipa": "плиз wɑч ðə ˈклоузɪŋ дорз!",
+   "spell": "please watch the closing doors!"
+ },
+ {
+   "def1": "богатый",
+   "ipa": "рɪч",
+   "spell": "rich"
+ },
+ {
+   "def1": "вставая рано",
+   "ipa": "ˈрайзɪŋ ˈɜрли",
+   "spell": "rising early"
+ },
+ {
+   "def1": "бегая",
+   "ipa": "ˈрʌнɪŋ",
+   "spell": "running"
+ },
+ {
+   "def1": "бегающие люди",
+   "ipa": "ˈрʌнɪŋ ˈпипəл",
+   "spell": "running people"
+ },
+ {
+   "def1": "она чувствует себя пьяной",
+   "ipa": "щи филз дрʌŋк",
+   "spell": "she feels drunk"
+ },
+ {
+   "def1": "она (по)чувствовала себя пьяной",
+   "ipa": "щи фэлт дрʌŋк",
+   "spell": "she felt drunk"
+ },
+ {
+   "def1": "она выпила",
+   "ipa": "щи hæз дрʌŋк",
+   "spell": "she has drunk"
+ },
+ {
+   "def1": "овцы на корабле",
+   "ipa": "щип ɑн ə щɪп",
+   "spell": "sheep on a ship"
+ },
+ {
+   "def1": "курение",
+   "ipa": "ˈсмоукɪŋ",
+   "spell": "smoking"
+ },
+ {
+   "def1": "куря",
+   "ipa": "ˈсмоукɪŋ",
+   "spell": "smoking"
+ },
+ {
+   "def1": "ударный, под ударением",
+   "ipa": "стрэст",
+   "spell": "stressed"
+ },
+ {
+   "def1": "здание является гостиницей",
+   "ipa": "ðə ˈбɪлдɪŋ ɪз ə hоуˈтэл",
+   "spell": "the building is a hotel"
+ },
+ {
+   "def1": "притяжательный 's",
+   "ipa": "ðə пəˈзэсɪв эс",
+   "spell": "the possessive 's"
+ },
+ {
+   "def1": "солнце встаёт на востоке",
+   "ipa": "ðə сʌн ˈрайзəз ɪн ðи ист",
+   "spell": "the sun rises in the east"
+ },
+ {
+   "def1": "фильм «Терминатор»",
+   "ipa": "ðə ˈтɜрмəˌнэйтəр ˈмуви",
+   "spell": "the Terminator movie"
+ },
+ {
+   "def1": "США знамениты своей армией",
+   "ipa": "ðи ʌс ɪз ˈфэймəс фор ɪтс ˈɑрми",
+   "spell": "the US is famous for its army"
+ },
+ {
+   "def1": "нет белок",
+   "ipa": "ðэр ɑр ноу ˈскwɜрəлз",
+   "spell": "there are no squirrels"
+ },
+ {
+   "def1": "нет никаких белок",
+   "ipa": "ðэр ˈɑрəнт ˈэни ˈскwɜрəлз",
+   "spell": "there aren’t any squirrels"
+ },
+ {
+   "def1": "нет озера",
+   "ipa": "ðэр ˈɪзəнт ə лэйк",
+   "spell": "there isn’t a lake"
+ },
+ {
+   "def1": "нет аэропорта",
+   "ipa": "ðэр ˈɪзəнт əн ˈэрˌпорт",
+   "spell": "there isn’t an airport"
+ },
+ {
+   "def1": "имелся!",
+   "ipa": "ðэр wʌз!",
+   "spell": "there was!"
+ },
+ {
+   "def1": "усталый",
+   "ipa": "ˈтайəрд",
+   "spell": "tired"
+ },
+ {
+   "def1": "видимый, невидимый",
+   "ipa": "ˈвɪзəбəл, ɪнˈвɪзəбəл",
+   "spell": "visible, invisible"
+ },
+ {
+   "def1": "гуляя",
+   "ipa": "ˈwɔкɪŋ",
+   "spell": "walking"
+ },
+ {
+   "def1": "имелся ли?",
+   "ipa": "wʌз ðэр?",
+   "spell": "was there?"
+ },
+ {
+   "def1": "мы находились в школе",
+   "ipa": "wи wɜр æт скул",
+   "spell": "we were at school"
+ },
+ {
+   "def1": "мы находились там",
+   "ipa": "wи wɜр ðэр",
+   "spell": "we were there"
+ },
+ {
+   "def1": "богатство, богатый",
+   "ipa": "wэлθ, ˈwэлθи",
+   "spell": "wealth, wealthy"
+ },
+ {
+   "def1": "являлись; находились",
+   "ipa": "wɜр",
+   "spell": "were"
+ },
+ {
+   "def1": "ты был один?",
+   "ipa": "wɜр ю əˈлоун?",
+   "spell": "were you alone?"
+ },
+ {
+   "def1": "где вы находились на войне?",
+   "ipa": "wэр wɜр ю æт wор?",
+   "spell": "where were you at war?"
+ },
+ {
+   "def1": "работая",
+   "ipa": "ˈwɜркɪŋ",
+   "spell": "working"
+ },
+ {
+   "def1": "работающий",
+   "ipa": "ˈwɜркɪŋ",
+   "spell": "working"
+ },
+ {
+   "def1": "бы",
+   "ipa": "wʊд",
+   "spell": "would"
+ },
+ {
+   "def1": "да, имелся",
+   "ipa": "йэс, ðэр wʌз!",
+   "spell": "yes, there was!"
+ },
+ {
+   "def1": "ты идёшь спать",
+   "ipa": "ю гоу ту бэд",
+   "spell": "you go to bed"
+ },
+ {
+   "def1": "ты носил",
+   "ipa": "ю wор",
+   "spell": "you wore"
+ },
+ {
+   "def1": "ты находишься в моём классе",
+   "ipa": "йʊр ɪн май клæс",
+   "spell": "you’re in my class"
+ }
+]
+}
