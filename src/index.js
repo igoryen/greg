@@ -2,6 +2,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import DraggableSentenceGame from "./DraggableSentenceGame";
 import { useEffect, useState } from "react";
+import { HelmetProvider } from "react-helmet-async";
 
 import Layout from "./pages/Layout/Layout";
 import Home from "./pages/Home";
@@ -291,268 +292,270 @@ function LessonList() {
 
 export default function App() {
   return (
-    <Router>
-      <Routes>
+    <HelmetProvider>
+      <Router>
+        <Routes>
 
-        <Route path="/" element={<Layout />}>
-          <Route index element={<Home />} />
+          <Route path="/" element={<Layout />}>
+            <Route index element={<Home />} />
 
-          <Route path="/student/:slug" element={<StudentPage />} />
-          <Route path="/student/:slug/p/:number" element={<LessonPage />} />
+            <Route path="/student/:slug" element={<StudentPage />} />
+            <Route path="/student/:slug/p/:number" element={<LessonPage />} />
 
-          <Route path="ang" element={<Ang />} />
-          <Route path="asti" element={<Asti />} />
+            <Route path="ang" element={<Ang />} />
+            <Route path="asti" element={<Asti />} />
 
-          <Route path="aa" element={<AA />} />
-          <Route path="aa01" element={<AA01 />} />
+            <Route path="aa" element={<AA />} />
+            <Route path="aa01" element={<AA01 />} />
 
-          <Route path="about" element={<About />} />
+            <Route path="about" element={<About />} />
 
-          <Route path="ab" element={<AB />} />
-          <Route path="ab01" element={<AB01 />} />
-          <Route path="ab04" element={<AB04 />} />
-          <Route path="ab05" element={<AB05 />} />
-          <Route path="ab06" element={<AB06 />} />
-          <Route path="ab07" element={<AB07 />} />
-          <Route path="ab08" element={<AB08 />} />
-          <Route path="ab09" element={<AB09 />} />
-          <Route path="ab10" element={<AB10 />} />
-          <Route path="ab12" element={<AB12 />} />
-          <Route path="ab13" element={<AB13 />} />
-          <Route path="ab14" element={<AB14 />} />
-          <Route path="ab15" element={<AB15 />} />
-          <Route path="ab17" element={<AB17 />} />
-          <Route path="ab18" element={<AB18 />} />
-          <Route path="ab19" element={<AB19 />} />
-          <Route path="ab20" element={<AB20 />} />
-          <Route path="ab28" element={<AB28 />} />
-          <Route path="ab30" element={<AB30 />} />
-          <Route path="ab31" element={<AB31 />} />
-          <Route path="ab34" element={<AB34 />} />
-          <Route path="ab40" element={<AB40 />} />
-          <Route path="ab41" element={<AB41 />} />
-          <Route path="ab42" element={<AB42 />} />
-          <Route path="ab43" element={<AB43 />} />
-          <Route path="ab44" element={<AB44 />} />
-          <Route path="ab45" element={<AB45 />} />
-          <Route path="ab46" element={<AB46 />} />
+            <Route path="ab" element={<AB />} />
+            <Route path="ab01" element={<AB01 />} />
+            <Route path="ab04" element={<AB04 />} />
+            <Route path="ab05" element={<AB05 />} />
+            <Route path="ab06" element={<AB06 />} />
+            <Route path="ab07" element={<AB07 />} />
+            <Route path="ab08" element={<AB08 />} />
+            <Route path="ab09" element={<AB09 />} />
+            <Route path="ab10" element={<AB10 />} />
+            <Route path="ab12" element={<AB12 />} />
+            <Route path="ab13" element={<AB13 />} />
+            <Route path="ab14" element={<AB14 />} />
+            <Route path="ab15" element={<AB15 />} />
+            <Route path="ab17" element={<AB17 />} />
+            <Route path="ab18" element={<AB18 />} />
+            <Route path="ab19" element={<AB19 />} />
+            <Route path="ab20" element={<AB20 />} />
+            <Route path="ab28" element={<AB28 />} />
+            <Route path="ab30" element={<AB30 />} />
+            <Route path="ab31" element={<AB31 />} />
+            <Route path="ab34" element={<AB34 />} />
+            <Route path="ab40" element={<AB40 />} />
+            <Route path="ab41" element={<AB41 />} />
+            <Route path="ab42" element={<AB42 />} />
+            <Route path="ab43" element={<AB43 />} />
+            <Route path="ab44" element={<AB44 />} />
+            <Route path="ab45" element={<AB45 />} />
+            <Route path="ab46" element={<AB46 />} />
 
-          <Route path="ag" element={<AG />} />
-          <Route path="ag08" element={<AG08 />} />
-          <Route path="ag10" element={<AG10 />} />
+            <Route path="ag" element={<AG />} />
+            <Route path="ag08" element={<AG08 />} />
+            <Route path="ag10" element={<AG10 />} />
 
-          <Route path="alfabeta" element={<Alfabeta />} />
+            <Route path="alfabeta" element={<Alfabeta />} />
 
-          <Route path="as" element={<AS />} />
-          <Route path="as01" element={<AS01 />} />
-          <Route path="as02" element={<AS02 />} />
-          <Route path="as03" element={<AS03 />} />
-          <Route path="as06" element={<AS06 />} />
-          <Route path="as07" element={<AS07 />} />
+            <Route path="as" element={<AS />} />
+            <Route path="as01" element={<AS01 />} />
+            <Route path="as02" element={<AS02 />} />
+            <Route path="as03" element={<AS03 />} />
+            <Route path="as06" element={<AS06 />} />
+            <Route path="as07" element={<AS07 />} />
 
-          <Route path="aspsimp" element={<AspSimp />} />
-          <Route path="aspsc" element={<AspSimpCont />} />
+            <Route path="aspsimp" element={<AspSimp />} />
+            <Route path="aspsc" element={<AspSimpCont />} />
 
-          <Route path="/cnici" element={<LessonList />} />
-          <Route path="/cnici/:fileId" element={<DraggableSentenceGame />} />
-
-
-          <Route path="cnicro" element={<Cnicro />} />
-
-          <Route path="contact" element={<Contact />} />
-
-          <Route path="os" element={<OS />} />
-          <Route path="os01" element={<OS01 />} />
-
-          <Route path="dk" element={<DK />} />
-          <Route path="dk01" element={<DK01 />} />
-          <Route path="dk02" element={<DK02 />} />
-          <Route path="dk03" element={<DK03 />} />
-
-          {/* trial for non-jQuery card flipping functionality 250708 */}
-          <Route path="fcp" element={<FlipCardPage />} />
-          <Route path="gadri" element={<Gadri />} />
-          <Route path="grapheme" element={<Grapheme />} />
+            <Route path="/cnici" element={<LessonList />} />
+            <Route path="/cnici/:fileId" element={<DraggableSentenceGame />} />
 
 
-          <Route path="gk" element={<GK />} />
-          <Route path="gk01" element={<GK01 />} />
-          <Route path="gk02" element={<GK02 />} />
-          <Route path="gk03" element={<GK03 />} />
-          <Route path="gk05" element={<GK05 />} />
+            <Route path="cnicro" element={<Cnicro />} />
 
-          <Route path="gp" element={<GP />} />
-          <Route path="gp01" element={<GP01 />} />
-          <Route path="gp02" element={<GP02 />} />
-          <Route path="gp03" element={<GP03 />} />
-          <Route path="gp06" element={<GP06 />} />
-          <Route path="gp07" element={<GP07 />} />
-          <Route path="gp11" element={<GP11 />} />
-          <Route path="gp12" element={<GP12 />} />
+            <Route path="contact" element={<Contact />} />
 
-          <Route path="grm01" element={<Grm01 />} />
-          <Route path="grm02" element={<Grm02 />} />
+            <Route path="os" element={<OS />} />
+            <Route path="os01" element={<OS01 />} />
 
-          <Route path="im" element={<IM />} />
-          <Route path="im01" element={<IM01 />} />
-          <Route path="im04" element={<IM04 />} />
-          <Route path="im07" element={<IM07 />} />
-          <Route path="im09" element={<IM09 />} />
-          <Route path="im10" element={<IM10 />} />
-          <Route path="im12" element={<IM12 />} />
+            <Route path="dk" element={<DK />} />
+            <Route path="dk01" element={<DK01 />} />
+            <Route path="dk02" element={<DK02 />} />
+            <Route path="dk03" element={<DK03 />} />
+
+            {/* trial for non-jQuery card flipping functionality 250708 */}
+            <Route path="fcp" element={<FlipCardPage />} />
+            <Route path="gadri" element={<Gadri />} />
+            <Route path="grapheme" element={<Grapheme />} />
 
 
+            <Route path="gk" element={<GK />} />
+            <Route path="gk01" element={<GK01 />} />
+            <Route path="gk02" element={<GK02 />} />
+            <Route path="gk03" element={<GK03 />} />
+            <Route path="gk05" element={<GK05 />} />
 
-          <Route path="is" element={<IS />} />
-          <Route path="is01" element={<IS01 />} />
+            <Route path="gp" element={<GP />} />
+            <Route path="gp01" element={<GP01 />} />
+            <Route path="gp02" element={<GP02 />} />
+            <Route path="gp03" element={<GP03 />} />
+            <Route path="gp06" element={<GP06 />} />
+            <Route path="gp07" element={<GP07 />} />
+            <Route path="gp11" element={<GP11 />} />
+            <Route path="gp12" element={<GP12 />} />
 
-          <Route path="jarco" element={<Jarco />} />
-          <Route path="jimte" element={<Jimte />} />
+            <Route path="grm01" element={<Grm01 />} />
+            <Route path="grm02" element={<Grm02 />} />
 
-          <Route path="kalsa" element={<Kalsa />} />
-          <Route path="kooi" element={<Kooi />} />
-
-          <Route path="linsi" element={<Linsi />} />
-
-          <Route path="mg" element={<MG />} />
-          <Route path="mg02" element={<MG02 />} />
-          <Route path="mg03" element={<MG03 />} />
-          <Route path="mg04" element={<MG04 />} />
-
-          <Route path="ml" element={<ML />} />
-          <Route path="ml25" element={<ML25 />} />
-          <Route path="ml26" element={<ML26 />} />
-          <Route path="ml27" element={<ML27 />} />
-          <Route path="ml29" element={<ML29 />} />
-          <Route path="ml30" element={<ML30 />} />
-          <Route path="ml32" element={<ML32 />} />
-          <Route path="ml33" element={<ML33 />} />
-          <Route path="ml34" element={<ML34 />} />
-          <Route path="ml35" element={<ML35 />} />
-          <Route path="ml37" element={<ML37 />} />
-          <Route path="ml38" element={<ML38 />} />
-          <Route path="ml40" element={<ML40 />} />
-          <Route path="ml41" element={<ML41 />} />
-
-          <Route path="ms" element={<MS />} />
-          <Route path="ms06" element={<MS06 />} />
-          <Route path="ms09" element={<MS09 />} />
-          <Route path="ms10" element={<MS10 />} />
-          <Route path="ms11" element={<MS11 />} />
-          <Route path="ms12" element={<MS12 />} />
-          <Route path="ms13" element={<MS13 />} />
-          <Route path="ms17" element={<MS17 />} />
-          <Route path="ms18" element={<MS18 />} />
-
-          <Route path="os02" element={<OS02 />} />
-          <Route path="os06" element={<OS06 />} />
-
-          <Route path="ot" element={<OT />} />
-          <Route path="ot01" element={<OT01 />} />
-          <Route path="ot02" element={<OT02 />} />
-          <Route path="ot03" element={<OT03 />} />
-          <Route path="ot05" element={<OT05 />} />
-          <Route path="ot06" element={<OT06 />} />
-          <Route path="ot07" element={<OT07 />} />
-          <Route path="ot09" element={<OT09 />} />
-          <Route path="ot10" element={<OT10 />} />
-          <Route path="ot18" element={<OT18 />} />
-          <Route path="ot19" element={<OT19 />} />
-          <Route path="ot20" element={<OT20 />} />
-          <Route path="ot21" element={<OT21 />} />
-          <Route path="ot22" element={<OT22 />} />
-
-          <Route path="prenu" element={<Prenu />} />
-
-          <Route path="rimni" element={<Rimni />} />
-          <Route path="ruo" element={<Ruo />} />
-
-          <Route path="sb" element={<SB />} />
-          <Route path="sb01" element={<SB01 />} />
-          <Route path="sb02" element={<SB02 />} />
-          <Route path="sb03" element={<SB03 />} />
-          <Route path="sb05" element={<SB05 />} />
-          <Route path="sb11" element={<SB11 />} />
-          <Route path="sb12" element={<SB12 />} />
-          <Route path="sb15" element={<SB15 />} />
-          <Route path="sb20" element={<SB20 />} />
-          <Route path="sb21" element={<SB21 />} />
-          <Route path="sb22" element={<SB22 />} />
-          <Route path="sb23" element={<SB23 />} />
-          <Route path="sb24" element={<SB24 />} />
-          <Route path="sb25" element={<SB25 />} />
-
-          <Route path="sidju" element={<Sidju />} />
-          <Route path="clani" element={<Clani />} />
-          <Route path="smuni" element={<Smuni />} />
-
-          <Route path="ss" element={<SS />} />
-          <Route path="ss00" element={<SS00 />} />
-          <Route path="ss01" element={<SS01 />} />
-          <Route path="ss04" element={<SS04 />} />
-          <Route path="ss05" element={<SS05 />} />
-          <Route path="ss06" element={<SS06 />} />
-          <Route path="ss07" element={<SS07 />} />
-          <Route path="ss08" element={<SS08 />} />
-          <Route path="ss10" element={<SS10 />} />
-          <Route path="ss12" element={<SS12 />} />
-          <Route path="ss14" element={<SS14 />} />
-          <Route path="ss15" element={<SS15 />} />
-          <Route path="ss16" element={<SS16 />} />
-          <Route path="ss17" element={<SS17 />} />
-          <Route path="ss19" element={<SS19 />} />
-          <Route path="ss21" element={<SS21 />} />
-          <Route path="ss23" element={<SS23 />} />
-          <Route path="ss30" element={<SS30 />} />
-          <Route path="ss31" element={<SS31 />} />
-          <Route path="ss32" element={<SS32 />} />
-          <Route path="ss33" element={<SS33 />} />
-          <Route path="ss34" element={<SS34 />} />
-          <Route path="ss35" element={<SS35 />} />
-          <Route path="ss42" element={<SS42 />} />
-          <Route path="ss43" element={<SS43 />} />
-          <Route path="ss44" element={<SS44 />} />
-          <Route path="ss45" element={<SS45 />} />
-          <Route path="ss46" element={<SS46 />} />
-
-          <Route path="st" element={<ST />} />
-          <Route path="st01" element={<ST01 />} />
-          <Route path="st05" element={<ST05 />} />
-          <Route path="st06" element={<ST06 />} />
-
-          <Route path="tadni" element={<Tadni />} />
-
-          <Route path="vk" element={<VK />} />
-          <Route path="vk05" element={<VK05 />} />
-          <Route path="vk06" element={<VK06 />} />
+            <Route path="im" element={<IM />} />
+            <Route path="im01" element={<IM01 />} />
+            <Route path="im04" element={<IM04 />} />
+            <Route path="im07" element={<IM07 />} />
+            <Route path="im09" element={<IM09 />} />
+            <Route path="im10" element={<IM10 />} />
+            <Route path="im12" element={<IM12 />} />
 
 
-          <Route path="yk" element={<YK />} />
-          <Route path="yk01" element={<YK01 />} />
-          <Route path="yk03" element={<YK03 />} />
-          <Route path="yk05" element={<YK05 />} />
-          <Route path="yk06" element={<YK06 />} />
 
-          {/* // voksa - the file to use for pairs of words to make reels on Instagram */}
-          <Route path="voksa" element={<Voksa />} />
-          <Route path="bob" element={<Bob />} />
-          <Route path="jaw" element={<Jaw />} />
-          <Route path="leo" element={<Leo />} />
+            <Route path="is" element={<IS />} />
+            <Route path="is01" element={<IS01 />} />
 
-          <Route path="prisma" element={<Prisma />} />
+            <Route path="jarco" element={<Jarco />} />
+            <Route path="jimte" element={<Jimte />} />
 
-          {/* page to drill pronunciation of sounds */}
-          <Route path="uenba" element={<Uenba />} />
+            <Route path="kalsa" element={<Kalsa />} />
+            <Route path="kooi" element={<Kooi />} />
 
-          <Route path="zunsna" element={<Zunsna />} />
+            <Route path="linsi" element={<Linsi />} />
 
-          <Route path="tim" element={<Tim />} />
-          <Route path="dan" element={<Dan />} />
-          <Route path="sam" element={<Sam />} />
-          <Route path="*" element={<NoPage />} />
-        </Route>
-      </Routes>
-    </Router>
+            <Route path="mg" element={<MG />} />
+            <Route path="mg02" element={<MG02 />} />
+            <Route path="mg03" element={<MG03 />} />
+            <Route path="mg04" element={<MG04 />} />
+
+            <Route path="ml" element={<ML />} />
+            <Route path="ml25" element={<ML25 />} />
+            <Route path="ml26" element={<ML26 />} />
+            <Route path="ml27" element={<ML27 />} />
+            <Route path="ml29" element={<ML29 />} />
+            <Route path="ml30" element={<ML30 />} />
+            <Route path="ml32" element={<ML32 />} />
+            <Route path="ml33" element={<ML33 />} />
+            <Route path="ml34" element={<ML34 />} />
+            <Route path="ml35" element={<ML35 />} />
+            <Route path="ml37" element={<ML37 />} />
+            <Route path="ml38" element={<ML38 />} />
+            <Route path="ml40" element={<ML40 />} />
+            <Route path="ml41" element={<ML41 />} />
+
+            <Route path="ms" element={<MS />} />
+            <Route path="ms06" element={<MS06 />} />
+            <Route path="ms09" element={<MS09 />} />
+            <Route path="ms10" element={<MS10 />} />
+            <Route path="ms11" element={<MS11 />} />
+            <Route path="ms12" element={<MS12 />} />
+            <Route path="ms13" element={<MS13 />} />
+            <Route path="ms17" element={<MS17 />} />
+            <Route path="ms18" element={<MS18 />} />
+
+            <Route path="os02" element={<OS02 />} />
+            <Route path="os06" element={<OS06 />} />
+
+            <Route path="ot" element={<OT />} />
+            <Route path="ot01" element={<OT01 />} />
+            <Route path="ot02" element={<OT02 />} />
+            <Route path="ot03" element={<OT03 />} />
+            <Route path="ot05" element={<OT05 />} />
+            <Route path="ot06" element={<OT06 />} />
+            <Route path="ot07" element={<OT07 />} />
+            <Route path="ot09" element={<OT09 />} />
+            <Route path="ot10" element={<OT10 />} />
+            <Route path="ot18" element={<OT18 />} />
+            <Route path="ot19" element={<OT19 />} />
+            <Route path="ot20" element={<OT20 />} />
+            <Route path="ot21" element={<OT21 />} />
+            <Route path="ot22" element={<OT22 />} />
+
+            <Route path="prenu" element={<Prenu />} />
+
+            <Route path="rimni" element={<Rimni />} />
+            <Route path="ruo" element={<Ruo />} />
+
+            <Route path="sb" element={<SB />} />
+            <Route path="sb01" element={<SB01 />} />
+            <Route path="sb02" element={<SB02 />} />
+            <Route path="sb03" element={<SB03 />} />
+            <Route path="sb05" element={<SB05 />} />
+            <Route path="sb11" element={<SB11 />} />
+            <Route path="sb12" element={<SB12 />} />
+            <Route path="sb15" element={<SB15 />} />
+            <Route path="sb20" element={<SB20 />} />
+            <Route path="sb21" element={<SB21 />} />
+            <Route path="sb22" element={<SB22 />} />
+            <Route path="sb23" element={<SB23 />} />
+            <Route path="sb24" element={<SB24 />} />
+            <Route path="sb25" element={<SB25 />} />
+
+            <Route path="sidju" element={<Sidju />} />
+            <Route path="clani" element={<Clani />} />
+            <Route path="smuni" element={<Smuni />} />
+
+            <Route path="ss" element={<SS />} />
+            <Route path="ss00" element={<SS00 />} />
+            <Route path="ss01" element={<SS01 />} />
+            <Route path="ss04" element={<SS04 />} />
+            <Route path="ss05" element={<SS05 />} />
+            <Route path="ss06" element={<SS06 />} />
+            <Route path="ss07" element={<SS07 />} />
+            <Route path="ss08" element={<SS08 />} />
+            <Route path="ss10" element={<SS10 />} />
+            <Route path="ss12" element={<SS12 />} />
+            <Route path="ss14" element={<SS14 />} />
+            <Route path="ss15" element={<SS15 />} />
+            <Route path="ss16" element={<SS16 />} />
+            <Route path="ss17" element={<SS17 />} />
+            <Route path="ss19" element={<SS19 />} />
+            <Route path="ss21" element={<SS21 />} />
+            <Route path="ss23" element={<SS23 />} />
+            <Route path="ss30" element={<SS30 />} />
+            <Route path="ss31" element={<SS31 />} />
+            <Route path="ss32" element={<SS32 />} />
+            <Route path="ss33" element={<SS33 />} />
+            <Route path="ss34" element={<SS34 />} />
+            <Route path="ss35" element={<SS35 />} />
+            <Route path="ss42" element={<SS42 />} />
+            <Route path="ss43" element={<SS43 />} />
+            <Route path="ss44" element={<SS44 />} />
+            <Route path="ss45" element={<SS45 />} />
+            <Route path="ss46" element={<SS46 />} />
+
+            <Route path="st" element={<ST />} />
+            <Route path="st01" element={<ST01 />} />
+            <Route path="st05" element={<ST05 />} />
+            <Route path="st06" element={<ST06 />} />
+
+            <Route path="tadni" element={<Tadni />} />
+
+            <Route path="vk" element={<VK />} />
+            <Route path="vk05" element={<VK05 />} />
+            <Route path="vk06" element={<VK06 />} />
+
+
+            <Route path="yk" element={<YK />} />
+            <Route path="yk01" element={<YK01 />} />
+            <Route path="yk03" element={<YK03 />} />
+            <Route path="yk05" element={<YK05 />} />
+            <Route path="yk06" element={<YK06 />} />
+
+            {/* // voksa - the file to use for pairs of words to make reels on Instagram */}
+            <Route path="voksa" element={<Voksa />} />
+            <Route path="bob" element={<Bob />} />
+            <Route path="jaw" element={<Jaw />} />
+            <Route path="leo" element={<Leo />} />
+
+            <Route path="prisma" element={<Prisma />} />
+
+            {/* page to drill pronunciation of sounds */}
+            <Route path="uenba" element={<Uenba />} />
+
+            <Route path="zunsna" element={<Zunsna />} />
+
+            <Route path="tim" element={<Tim />} />
+            <Route path="dan" element={<Dan />} />
+            <Route path="sam" element={<Sam />} />
+            <Route path="*" element={<NoPage />} />
+          </Route>
+        </Routes>
+      </Router>
+    </HelmetProvider>
   );
 }
 

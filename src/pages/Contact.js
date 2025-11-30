@@ -1,12 +1,18 @@
 import "../../src/styles/contact.scss"
+import { Helmet } from "react-helmet-async";
+
 const Contact = (prop) => {
 
 
     return (
         <section id="contact">
+
+            <Helmet>
+                <title>Contact Anglofor</title>
+                <meta name="description" content="Anglofor: Contact me" />
+            </Helmet>
+
             <h1>Get in touch with me</h1>
-
-
 
             <div className="mike">
                 <div>📞 🇨🇦: <a href="tel:+16477036200" className=""> (647) 703-6200</a></div>
