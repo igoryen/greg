@@ -7,7 +7,7 @@ const FlipCardComponent = ({ words, lang = 'def1', lesnum }) => {
     const spellingToggleChange = () => setSpellingToggle(!spellingToggle);
 
     const highlightIPA = (ipa) => {
-        const charsToBold = ['h', 'w', 'æ', 'ð', 'ŋ', 'ɔ', 'ə', 'ʊ', 'ʌ', 'θ', 'ɑ', 'ɜ', 'ɪ', 'v'];
+        const charsToBold = ['h', 'w', 'æ', 'ð', 'ŋ', 'ɔ', 'ə', 'ɚ', 'ʊ', 'ʌ', 'θ', 'ɑ', 'ɜ', 'ɝ', 'ɪ', 'v'];
         // eslint-disable-next-line
         const regex = new RegExp(`(${charsToBold.map(c => c.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1")).join('|')})`, 'g');
         return ipa.replace(regex, "<b>$1</b>");
