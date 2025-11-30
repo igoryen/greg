@@ -8,8 +8,27 @@ const Contact = (prop) => {
         <section id="contact">
 
             <Helmet>
-                <title>Contact Anglofor</title>
-                <meta name="description" content="Anglofor: Contact me" />
+                <title>Contact Anglofor - English Tutoring</title>
+                <meta name="description" content="Get in touch with Anglofor for professional English tutoring services. Contact via phone, Instagram, Telegram, Facebook, or email." />
+
+                {/* Open Graph (Facebook, LinkedIn, WhatsApp, etc.) */}
+                <meta property="og:title" content="Contact Anglofor - English Tutoring" />
+                <meta property="og:description" content="Get in touch with Anglofor for professional English tutoring services. Contact via phone, Instagram, Telegram, Facebook, or email." />
+                {/* <meta property="og:url" content="https://yourapp.com/contact" /> */}
+                <meta property="og:type" content="website" />
+                {/* <meta property="og:image" content="https://yourapp.com/images/preview-image.jpg" /> */}
+                <meta property="og:site_name" content="Anglofor" />
+
+                {/* Twitter Card */}
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:title" content="Contact Anglofor - English Tutoring" />
+                <meta name="twitter:description" content="Get in touch with Anglofor for professional English tutoring services." />
+                {/* <meta name="twitter:image" content="https://yourapp.com/images/preview-image.jpg" /> */}
+                <meta name="twitter:site" content="@anglofor" />
+
+                {/* Additional important tags */}
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                {/* <link rel="canonical" href="https://yourapp.com/contact" /> */}
             </Helmet>
 
             <h1>Get in touch with me</h1>
