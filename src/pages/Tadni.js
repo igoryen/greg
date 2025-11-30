@@ -146,7 +146,13 @@ const Tadni = (prop) => {
             "slug": "st",
             "name": "Sana T.",
             "active": false
-        }, {
+        }, 
+        {
+            "slug": "tb",
+            "name": "Tatiana B.",
+            "active": true
+        },
+        {
             "slug": "va",
             "name": "Vitalii A.",
             "active": true

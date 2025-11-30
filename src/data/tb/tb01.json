@@ -1,0 +1,174 @@
+{
+  "student": "Tatiana B.",
+  "slug": "tb",
+  "period": "week",
+  "number": 48,
+  "date": "2025-11-30",
+  "words": [
+    {
+      "def1": "работник службы домашнего ухода",
+      "ipa": "ə hоум кэр прəˈвайдɚ",
+      "spell": "a home care provider"
+    },
+    {
+      "def1": "школа с английским уклоном",
+      "ipa": "ə скул wɪð əн ˈɪŋглɪш ˈфоукəс",
+      "spell": "a school with an English focus"
+    },
+    {
+      "def1": "строгий порядок слов",
+      "ipa": "ə стрɪкт wɝд ˈордɚ",
+      "spell": "a strict word order"
+    },
+    {
+      "def1": "репетитор",
+      "ipa": "ə ˈтутɚ",
+      "spell": "a tutor"
+    },
+    {
+      "def1": "всё время",
+      "ipa": "ɔл ðə тайм",
+      "spell": "all the time"
+    },
+    {
+      "def1": "дома",
+      "ipa": "æт hоум",
+      "spell": "at home"
+    },
+    {
+      "def1": "в шесть часов",
+      "ipa": "æт сɪкс əˈклɑк",
+      "spell": "at six o’clock"
+    },
+    {
+      "def1": "в шесть тридцать",
+      "ipa": "æт сɪкс ˈθɝди",
+      "spell": "at six thirty"
+    },
+    {
+      "def1": "на работе",
+      "ipa": "æт wɝк",
+      "spell": "at work"
+    },
+    {
+      "def1": "немецкий язык",
+      "ipa": "ˈджɝмəн",
+      "spell": "German"
+    },
+    {
+      "def1": "я хожу в спортзал",
+      "ipa": "ай гоу ту ðə джɪм",
+      "spell": "I go to the gym"
+    },
+    {
+      "def1": "я была в Сочи",
+      "ipa": "ай hæв бɪн ту ˈсоучи",
+      "spell": "I have been to Sochi"
+    },
+    {
+      "def1": "я жила в России всего 12 лет",
+      "ipa": "ай лɪвд ɪн ˈрʌшə фор ˈоунли 12 йɪрз",
+      "spell": "I lived in Russia for only 12 years"
+    },
+    {
+      "def1": "я переехала в Канаду в конце января этого года",
+      "ipa": "ай мувд ту ˈкæнəдə ɪн лэйт ˈджæнъюˌэри ðɪс йɪр",
+      "spell": "I moved to Canada in late January this year"
+    },
+    {
+      "def1": "я слушаю это много времени",
+      "ipa": "ай спэнд ə лɑт ʌв тайм ˈлɪсəнɪŋ ту ðɪс",
+      "spell": "I spend a lot of time listening to this"
+    },
+    {
+      "def1": "по-немецки",
+      "ipa": "ɪн ˈджɝмəн",
+      "spell": "in German"
+    },
+    {
+      "def1": "снимать квартиру дешевле, чем дом",
+      "ipa": "ɪт ɪз ˈчипɚ ту рэнт əн əˈпɑртмəнт ðæн ə hаус",
+      "spell": "it is cheaper to rent an apartment than a house"
+    },
+    {
+      "def1": "содержать домашних животных очень дорого",
+      "ipa": "ɪт ɪз ˈвэри ɪкˈспэнсɪв ту hæв пэтс",
+      "spell": "it is very expensive to have pets"
+    },
+    {
+      "def1": "мой муж и я",
+      "ipa": "май ˈhʌзбəнд æнд ай",
+      "spell": "my husband and I"
+    },
+    {
+      "def1": "без животных",
+      "ipa": "ноу пэтс",
+      "spell": "no pets"
+    },
+    {
+      "def1": "аренда квартиры дешевле, чем аренда дома",
+      "ipa": "ˈрэнтɪŋ əн əˈпɑртмəнт ɪз ˈчипɚ ðæн ˈрэнтɪŋ ə hаус",
+      "spell": "renting an apartment is cheaper than renting a house"
+    },
+    {
+      "def1": "научная фантастика",
+      "ipa": "ˈсайəнс ˈфɪкшəн, сай-фай",
+      "spell": "science fiction, sci-fi"
+    },
+    {
+      "def1": "гладко",
+      "ipa": "ˈсмуðли",
+      "spell": "smoothly"
+    },
+    {
+      "def1": "иногда вопросы важнее слов",
+      "ipa": "сəмˈтаймз ˈкwэсчəнз ɑр мор ɪмˈпортəнт ðæн wɝдз",
+      "spell": "sometimes questions are more important than words"
+    },
+    {
+      "def1": "космическая научная фантастика",
+      "ipa": "спэйс сай-фай",
+      "spell": "space sci-fi"
+    },
+    {
+      "def1": "порядок слов",
+      "ipa": "ðə wɝд ˈордɚ",
+      "spell": "the word order"
+    },
+    {
+      "def1": "ты живешь",
+      "ipa": "ю лɪв",
+      "spell": "you  live"
+    },
+    {
+      "def1": "ты уходишь",
+      "ipa": "ю лив",
+      "spell": "you leave"
+    },
+    {
+      "def1": "ты можешь обойтись, перебиться",
+      "ipa": "ю кæн гэт бай",
+      "spell": "you can get by"
+    },
+    {
+      "def1": "ты занимаешься йогой",
+      "ipa": "ю ду ˈйоугə",
+      "spell": "you do yoga"
+    },
+    {
+      "def1": "вы знакомитесь с ним ближе",
+      "ipa": "ю гэт ту ноу hɪм",
+      "spell": "you get to know him"
+    },
+    {
+      "def1": "ты готовишь завтрак",
+      "ipa": "ю мэйк ˈбрэкфəст",
+      "spell": "you make breakfast"
+    },
+    {
+      "def1": "ты отправляешь детей в школу на автобусе",
+      "ipa": "ю сэнд йʊɚ кɪдз ту скул ɑн ə бʌс",
+      "spell": "you send your kids to school on a bus"
+    }
+  ]
+}
