@@ -14,21 +14,23 @@ const Contact = (prop) => {
                 {/* Open Graph (Facebook, LinkedIn, WhatsApp, etc.) */}
                 <meta property="og:title" content="Contact Anglofor - English Tutoring" />
                 <meta property="og:description" content="Get in touch with Anglofor for professional English tutoring services. Contact via phone, Instagram, Telegram, Facebook, or email." />
-                {/* <meta property="og:url" content="https://yourapp.com/contact" /> */}
+                <meta property="og:url" content="https://anglofor.com/contact" />
                 <meta property="og:type" content="website" />
-                {/* <meta property="og:image" content="https://yourapp.com/images/preview-image.jpg" /> */}
+                <meta property="og:image" content="https://anglofor.com/images/preview-image-1200x630.jpeg" />
+                <meta property="og:image:width" content="1200" />
+                <meta property="og:image:height" content="630" />
                 <meta property="og:site_name" content="Anglofor" />
 
                 {/* Twitter Card */}
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="Contact Anglofor - English Tutoring" />
                 <meta name="twitter:description" content="Get in touch with Anglofor for professional English tutoring services." />
-                {/* <meta name="twitter:image" content="https://yourapp.com/images/preview-image.jpg" /> */}
+                <meta name="twitter:image" content="https://anglofor.com/images/preview-image-1200x630.jpeg" />
                 <meta name="twitter:site" content="@anglofor" />
 
                 {/* Additional important tags */}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                {/* <link rel="canonical" href="https://yourapp.com/contact" /> */}
+                <link rel="canonical" href="https://anglofor.com/contact" />
             </Helmet>
 
             <h1>Get in touch with me</h1>
