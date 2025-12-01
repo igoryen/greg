@@ -1,6 +1,7 @@
 import "../styles/Home/homeMain.scss";
 // import TestimonialCarousel from "../components/TestimonialCarousel";
 import Torveki from "../components/Torveki";
+import SEOHelmet from "../components/SEOHelmet";
 
 
 const HomePage = () => {
@@ -8,6 +9,14 @@ const HomePage = () => {
 
     return (
         <section className="main" id="home2">
+
+            <SEOHelmet
+                title="Anglofor - English Tutoring"
+                description="Get in touch with Anglofor for professional English tutoring services. Contact via phone, Instagram, Telegram, Facebook, or email."
+                url="https://anglofor.com/"
+                image="https://anglofor.com/images/preview-image-1200x630.jpeg"
+            />
+
             <div className="hello">
 
 
