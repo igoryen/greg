@@ -144,12 +144,49 @@
             top: 56%;
             left: -5px;
             width: 180%;
-            height: 2px;
+            height: 4px;
             background: rgba(255, 0, 0, 0.5);
             transform: rotate(-106deg);
 
+            animation: blink-animation 1s steps(2, start) infinite;
+            -webkit-animation: blink-animation 1s steps(2, start) infinite;
+        }
+
+        @keyframes blink-animation {
+            to {
+                visibility: hidden;
+            }
+        }
+
+        @-webkit-keyframes blink-animation {
+            to {
+                visibility: hidden;
+            }
+
+        }
+
+
+    }
+
+
+    .blink {
+        animation: blink-animation 1s steps(5, start) infinite;
+        -webkit-animation: blink-animation 1s steps(5, start) infinite;
+    }
+
+    @keyframes blink-animation {
+        to {
+            visibility: hidden;
         }
     }
+
+    @-webkit-keyframes blink-animation {
+        to {
+            visibility: hidden;
+        }
+    }
+
+
 
     .spell_ {
         // background-color: bisque;
