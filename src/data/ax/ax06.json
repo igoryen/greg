@@ -1,0 +1,679 @@
+{
+  "student": "Andrew S.",
+  "slug": "ax",
+  "period": "week",
+  "number": 47,
+  "date": "2025-11-21",
+  "words": [
+    {
+      "def1": "поездка (прогулка, езда) на машине",
+      "ipa": "ə кɑр райд",
+      "spell": "a car ride"
+    },
+    {
+      "def1": "поездка (путешествие) на машине",
+      "ipa": "ə кɑр трɪп",
+      "spell": "a car trip"
+    },
+    {
+      "def1": "глава",
+      "ipa": "ə ˈчæптɚ",
+      "spell": "a chapter"
+    },
+    {
+      "def1": "дисциплинированный человек",
+      "ipa": "ə ˈдɪсəплəнд ˈпɝсəн",
+      "spell": "a disciplined person"
+    },
+    {
+      "def1": "дайвер",
+      "ipa": "ə ˈдайвɚ",
+      "spell": "a diver"
+    },
+    {
+      "def1": "учёный муж",
+      "ipa": "ə ˈлɝнɪд мæн",
+      "spell": "a learned man"
+    },
+    {
+      "def1": "много пробок",
+      "ipa": "ə лɑт ʌв ˈтрæфɪк",
+      "spell": "a lot of traffic"
+    },
+    {
+      "def1": "режиссёр",
+      "ipa": "ə ˈмуви дəˈрэктɚ",
+      "spell": "a movie director"
+    },
+    {
+      "def1": "точка (.)",
+      "ipa": "ə ˈпɪриəд (.)",
+      "spell": "a period (.)"
+    },
+    {
+      "def1": "суть",
+      "ipa": "ə пойнт",
+      "spell": "a point"
+    },
+    {
+      "def1": "пословица",
+      "ipa": "ə ˈпрɑвɚб",
+      "spell": "a proverb"
+    },
+    {
+      "def1": "хребет, гребень",
+      "ipa": "ə рɪдж",
+      "spell": "a ridge"
+    },
+    {
+      "def1": "поговорка",
+      "ipa": "ə ˈсэйɪŋ",
+      "spell": "a saying"
+    },
+    {
+      "def1": "прыжок с парашютом",
+      "ipa": "ə ˈскайдайв",
+      "spell": "a skydive"
+    },
+    {
+      "def1": "разница во времени",
+      "ipa": "ə тайм ˈдɪфɚəнс",
+      "spell": "a time difference"
+    },
+    {
+      "def1": "палец ноги",
+      "ipa": "ə тоу",
+      "spell": "a toe"
+    },
+    {
+      "def1": "возраст vs край",
+      "ipa": "эйдж ˈвɝсəз эдж",
+      "spell": "age vs edge"
+    },
+    {
+      "def1": "пожилой",
+      "ipa": "эйджд",
+      "spell": "aged"
+    },
+    {
+      "def1": "инопланетянин",
+      "ipa": "əн ˈэйлиəн",
+      "spell": "an alien"
+    },
+    {
+      "def1": "край",
+      "ipa": "əн эдж",
+      "spell": "an edge"
+    },
+    {
+      "def1": "важный момент",
+      "ipa": "əн ɪмˈпортəнт пойнт",
+      "spell": "an important point"
+    },
+    {
+      "def1": "тебе нравится?",
+      "ipa": "ɑр ю энˈджойɪŋ йɚˈсэлф?",
+      "spell": "are you enjoying yourself?"
+    },
+    {
+      "def1": "ты всем доволен?",
+      "ipa": "ɑр ю ˈhæпи wɪð ˈэвриˌθɪŋ?",
+      "spell": "are you happy with everything?"
+    },
+    {
+      "def1": "по всему миру",
+      "ipa": "əˈраунд ðə wɝлд",
+      "spell": "around the world"
+    },
+    {
+      "def1": "в основном одно и то же",
+      "ipa": "ˈбэйсɪкли ðə сэйм",
+      "spell": "basically the same"
+    },
+    {
+      "def1": "благословенная Мария",
+      "ipa": "блэст ˈмэри",
+      "spell": "blessed Mary"
+    },
+    {
+      "def1": "хлеб",
+      "ipa": "брэд",
+      "spell": "bread"
+    },
+    {
+      "def1": "дыхание",
+      "ipa": "брэθ",
+      "spell": "breath"
+    },
+    {
+      "def1": "не могу жаловаться",
+      "ipa": "кæнт кəмˈплэйн",
+      "spell": "can’t complain"
+    },
+    {
+      "def1": "разве ты не можешь этого сделать?",
+      "ipa": "кæнт ю ду ɪт?",
+      "spell": "can’t you do it?"
+    },
+    {
+      "def1": "я работал?",
+      "ipa": "дɪд ай wɝк?",
+      "spell": "did I work?"
+    },
+    {
+      "def1": "ты (с)делал это?",
+      "ipa": "дɪд ю ду ɪт?",
+      "spell": "did you do it?"
+    },
+    {
+      "def1": "ты поел?",
+      "ipa": "дɪд ю ит?",
+      "spell": "did you eat?"
+    },
+    {
+      "def1": "у тебя было",
+      "ipa": "дɪд ю hæв",
+      "spell": "did you have"
+    },
+    {
+      "def1": "ты слышал?",
+      "ipa": "дɪд ю hир?",
+      "spell": "did you hear?"
+    },
+    {
+      "def1": "ты знал?",
+      "ipa": "дɪд ю ноу?",
+      "spell": "did you know?"
+    },
+    {
+      "def1": "ты ушёл?",
+      "ipa": "дɪд ю лив?",
+      "spell": "did you leave?"
+    },
+    {
+      "def1": "тебе понравилось?",
+      "ipa": "дɪд ю лайк ɪт?",
+      "spell": "did you like it?"
+    },
+    {
+      "def1": "ты видел?",
+      "ipa": "дɪд ю си?",
+      "spell": "did you see?"
+    },
+    {
+      "def1": "разве ты это не сделал?",
+      "ipa": "ˈдɪдəнт ю ду ɪт?",
+      "spell": "didn’t you do it?"
+    },
+    {
+      "def1": "разве ты не ел?",
+      "ipa": "ˈдɪдəнт ю ит?",
+      "spell": "didn’t you eat?"
+    },
+    {
+      "def1": "разве ты не слышал?",
+      "ipa": "ˈдɪдəнт ю hир?",
+      "spell": "didn’t you hear?"
+    },
+    {
+      "def1": "разве ты не знал?",
+      "ipa": "ˈдɪдəнт ю ноу?",
+      "spell": "didn’t you know?"
+    },
+    {
+      "def1": "разве ты не ушёл?",
+      "ipa": "ˈдɪдəнт ю лив?",
+      "spell": "didn’t you leave?"
+    },
+    {
+      "def1": "разве ты не видел?",
+      "ipa": "ˈдɪдəнт ю си?",
+      "spell": "didn’t you see?"
+    },
+    {
+      "def1": "веди (машину)!",
+      "ipa": "драйв!",
+      "spell": "drive!"
+    },
+    {
+      "def1": "ешь!",
+      "ipa": "ит!",
+      "spell": "eat!"
+    },
+    {
+      "def1": "тоже (нет)",
+      "ipa": "ˈиðɚ",
+      "spell": "either"
+    },
+    {
+      "def1": "каждую ночь",
+      "ipa": "ˈэвɚи найт",
+      "spell": "every night"
+    },
+    {
+      "def1": "каждый штат отличается",
+      "ipa": "ˈэвɚи стэйт ɪз ˈдɪфɚəнт",
+      "spell": "every state is different"
+    },
+    {
+      "def1": "обменивать, обмен",
+      "ipa": "ɪксˈчэйндж",
+      "spell": "exchange"
+    },
+    {
+      "def1": "обменять",
+      "ipa": "ɪксˈчэйндж",
+      "spell": "exchange"
+    },
+    {
+      "def1": "бензин",
+      "ipa": "ˈгæсəˌлин",
+      "spell": "gasoline"
+    },
+    {
+      "def1": "довольный",
+      "ipa": "ˈhæпи",
+      "spell": "happy"
+    },
+    {
+      "def1": "я в командировке",
+      "ipa": "ай æм ɑн ə ˈбɪзнəс трɪп",
+      "spell": "I am on a business trip"
+    },
+    {
+      "def1": "я в поездке",
+      "ipa": "ай æм ɑн ə трɪп",
+      "spell": "I am on a trip"
+    },
+    {
+      "def1": "я не могу дышать",
+      "ipa": "ай кæнт бриð",
+      "spell": "I can’t breathe"
+    },
+    {
+      "def1": "я не пошёл домой",
+      "ipa": "ай ˈдɪдəнт гоу hоум",
+      "spell": "I didn’t go home"
+    },
+    {
+      "def1": "я не работал",
+      "ipa": "ай ˈдɪдəнт wɝк",
+      "spell": "I didn’t work"
+    },
+    {
+      "def1": "я не знаю, могу ли я",
+      "ipa": "ай доунт ноу ɪф ай кæн",
+      "spell": "I don’t know if I can"
+    },
+    {
+      "def1": "я не знаю, есть ли оно там",
+      "ipa": "ай доунт ноу ɪф ɪт ɪз ðэр",
+      "spell": "I don’t know if it is there"
+    },
+    {
+      "def1": "я не знаю, что это",
+      "ipa": "ай доунт ноу wɑт ɪт ɪз",
+      "spell": "I don’t know what it is"
+    },
+    {
+      "def1": "я не знаю, какая температура",
+      "ipa": "ай доунт ноу wɑт ðə ˈтэмпрəчɚ ɪз",
+      "spell": "I don’t know what the temperature is"
+    },
+    {
+      "def1": "я сделал это",
+      "ipa": "ай hæв дʌн ɪт",
+      "spell": "I have done it"
+    },
+    {
+      "def1": "мне нужно было сделать это",
+      "ipa": "ай ˈнидɪд ту ду ɪт",
+      "spell": "I needed to do it"
+    },
+    {
+      "def1": "мне нужно было снять жильё",
+      "ipa": "ай ˈнидɪд ту рэнт ə плэйс",
+      "spell": "I needed to rent a place"
+    },
+    {
+      "def1": "я весь день вчера пробыл в отеле",
+      "ipa": "ай стэйд ɪн ðə hоуˈтэл ɔл дэй ˈйэстɚˌдэй",
+      "spell": "I stayed in the hotel all day yesterday"
+    },
+    {
+      "def1": "я пошёл на работу",
+      "ipa": "ай wэнт ту wɝк",
+      "spell": "I went to work"
+    },
+    {
+      "def1": "я работал",
+      "ipa": "ай wɝкт",
+      "spell": "I worked"
+    },
+    {
+      "def1": "в центре города",
+      "ipa": "ɪн ðə ˈдаунˈтаун ˈэриə",
+      "spell": "in the downtown area"
+    },
+    {
+      "def1": "невероятный",
+      "ipa": "ɪнˈкрэдəбəл",
+      "spell": "incredible"
+    },
+    {
+      "def1": "оно сходит, снимается",
+      "ipa": "ɪт кʌмз ɔф",
+      "spell": "it comes off"
+    },
+    {
+      "def1": "оно надевается на него",
+      "ipa": "ɪт гоуз ɑн ɪт",
+      "spell": "it goes on it"
+    },
+    {
+      "def1": "это делает тебя дисциплинированным человеком",
+      "ipa": "ɪт мэйкс ю ə ˈдɪсəплəнд ˈпɝсəн",
+      "spell": "it makes you a disciplined person"
+    },
+    {
+      "def1": "шёл дождь",
+      "ipa": "ɪт рэйнд",
+      "spell": "it rained"
+    },
+    {
+      "def1": "это требует дисциплины",
+      "ipa": "ɪт тэйкс ˈдɪсəплəн",
+      "spell": "it takes discipline"
+    },
+    {
+      "def1": "это заняло у меня шесть с половиной часов",
+      "ipa": "ɪт тʊк ми сɪкс æнд ə hæф ˈауɚз",
+      "spell": "it took me six and a half hours"
+    },
+    {
+      "def1": "это был хороший дом",
+      "ipa": "ɪт wʌз ə найс hаус",
+      "spell": "it was a nice house"
+    },
+    {
+      "def1": "это было проблемой для меня",
+      "ipa": "ɪт wʌз ə ˈпрɑблəм фор ми",
+      "spell": "it was a problem for me"
+    },
+    {
+      "def1": "мне было тяжело",
+      "ipa": "ɪт wʌз hɑрд фор ми",
+      "spell": "it was hard for me"
+    },
+    {
+      "def1": "я не уверен, что смогу это сделать",
+      "ipa": "айм нɑт щʊр (ɪф) ай кæн ду ɪт",
+      "spell": "I’m not sure (if) I can do it"
+    },
+    {
+      "def1": "я не уверен, хочу ли я идти",
+      "ipa": "айм нɑт щʊр ɪф ай wɑнт ту гоу",
+      "spell": "I’m not sure if I want to go"
+    },
+    {
+      "def1": "я не уверен, знает ли она",
+      "ipa": "айм нɑт щʊр ɪф щи ноуз",
+      "spell": "I’m not sure if she knows"
+    },
+    {
+      "def1": "законный, незаконный",
+      "ipa": "ˈлигəл, ɪˈлигəл",
+      "spell": "legal, illegal"
+    },
+    {
+      "def1": "я и мои друзья",
+      "ipa": "ми æнд май фрэндз",
+      "spell": "me and my friends"
+    },
+    {
+      "def1": "убит фанатом",
+      "ipa": "ˈмɝдɚд бай ə фæн",
+      "spell": "murdered by a fan"
+    },
+    {
+      "def1": "убит одним из своих фанатов",
+      "ipa": "ˈмɝдɚд бай wʌн ʌв hɪз фæнз",
+      "spell": "murdered by one of his fans"
+    },
+    {
+      "def1": "мы с дочерью",
+      "ipa": "май ˈдɔтɚ æнд ай",
+      "spell": "my daughter and I"
+    },
+    {
+      "def1": "мы с собакой",
+      "ipa": "май дɔг æнд ай",
+      "spell": "my dog and I"
+    },
+    {
+      "def1": "мы с другом",
+      "ipa": "май фрэнд æнд ай",
+      "spell": "my friend and I"
+    },
+    {
+      "def1": "мы с друзьями",
+      "ipa": "май фрэндз æнд ай",
+      "spell": "my friends and I"
+    },
+    {
+      "def1": "мы с конём",
+      "ipa": "май hорс æнд ай",
+      "spell": "my horse and I"
+    },
+    {
+      "def1": "моя поездка была отличной",
+      "ipa": "май райд wʌз грэйт",
+      "spell": "my ride was great"
+    },
+    {
+      "def1": "моя жена и я",
+      "ipa": "май wайф æнд ай",
+      "spell": "my wife and I"
+    },
+    {
+      "def1": "нуждаюсь, нуждался",
+      "ipa": "нид, ˈнидɪд",
+      "spell": "need, needed"
+    },
+    {
+      "def1": "приятный и короткий",
+      "ipa": "найс æнд шорт",
+      "spell": "nice and short"
+    },
+    {
+      "def1": "приятный и сладкий",
+      "ipa": "найс æнд сwит",
+      "spell": "nice and sweet"
+    },
+    {
+      "def1": "хорошие дороги",
+      "ipa": "найс роудз",
+      "spell": "nice roads"
+    },
+    {
+      "def1": "на краю",
+      "ipa": "ɑн ðи эдж",
+      "spell": "on the edge"
+    },
+    {
+      "def1": "наш дом был хорошим и находился возле парка",
+      "ipa": "ˈауɚ hаус wʌз найс, æнд нɪр ə бɪг пɑрк",
+      "spell": "our house was nice, and near a big park"
+    },
+    {
+      "def1": "люди",
+      "ipa": "ˈпипəл",
+      "spell": "people"
+    },
+    {
+      "def1": "народы",
+      "ipa": "ˈпипəлз",
+      "spell": "peoples"
+    },
+    {
+      "def1": "народы мира",
+      "ipa": "ˈпипəлз ʌв ðə wɝлд",
+      "spell": "peoples of the world"
+    },
+    {
+      "def1": "правильный, неправильный",
+      "ipa": "ˈрэгйəлɚ, ɪˈрэгйəлɚ",
+      "spell": "regular, irregular"
+    },
+    {
+      "def1": "кратко значит грубо",
+      "ipa": "шорт ɪз руд",
+      "spell": "short is rude"
+    },
+    {
+      "def1": "садись",
+      "ipa": "сɪт даун",
+      "spell": "sit down"
+    },
+    {
+      "def1": "присаживайся",
+      "ipa": "тэйк ə сит",
+      "spell": "take a seat"
+    },
+    {
+      "def1": "снимай",
+      "ipa": "тэйк ɔф",
+      "spell": "take off"
+    },
+    {
+      "def1": "народ Беларуси",
+      "ipa": "ðə ˈпипəл ʌв бэˈлɑрəс",
+      "spell": "the people of Belarus"
+    },
+    {
+      "def1": "остаток",
+      "ipa": "ðə рэст",
+      "spell": "the rest"
+    },
+    {
+      "def1": "остаток дня",
+      "ipa": "ðə рэст ʌв ðə дэй",
+      "spell": "the rest of the day"
+    },
+    {
+      "def1": "мир",
+      "ipa": "ðə wɝлд",
+      "spell": "the world"
+    },
+    {
+      "def1": "здесь нет реки",
+      "ipa": "ðэр ˈɪзəнт ə ˈрɪвɚ hир",
+      "spell": "there isn’t a river here"
+    },
+    {
+      "def1": "им не понравилась еда",
+      "ipa": "ðэй ˈдɪдəнт лайк ðə фуд",
+      "spell": "they didn’t like the food"
+    },
+    {
+      "def1": "они снимали свою жизнь",
+      "ipa": "ðэй фɪлмд ðэр лɪвз",
+      "spell": "they filmed their lives"
+    },
+    {
+      "def1": "они скучали по друзьям и семье",
+      "ipa": "ðэй мɪст ðэр фрэндз æнд ˈфæмəли",
+      "spell": "they missed their friends and family"
+    },
+    {
+      "def1": "им нужно было арендовать машину",
+      "ipa": "ðэй ˈнидɪд ту рэнт ə кɑр",
+      "spell": "they needed to rent a car"
+    },
+    {
+      "def1": "дышать",
+      "ipa": "ту бриð",
+      "spell": "to breathe"
+    },
+    {
+      "def1": "поменять",
+      "ipa": "ту чэйндж",
+      "spell": "to change"
+    },
+    {
+      "def1": "тоже (да)",
+      "ipa": "ту",
+      "spell": "too"
+    },
+    {
+      "def1": "неоднозначный",
+      "ipa": "əнˈклɪр",
+      "spell": "unclear"
+    },
+    {
+      "def1": "чего ты хочешь?",
+      "ipa": "wɑт ду ю wɑнт?",
+      "spell": "what do you want?"
+    },
+    {
+      "def1": "то, чего ты не знаешь",
+      "ipa": "wɑт ю доунт ноу",
+      "spell": "what you don’t know"
+    },
+    {
+      "def1": "где это было",
+      "ipa": "wэр ɪт wʌз",
+      "spell": "where it was"
+    },
+    {
+      "def1": "ты приезжаешь",
+      "ipa": "ю əˈрайв",
+      "spell": "you arrive"
+    },
+    {
+      "def1": "ты спросил",
+      "ipa": "ю æскт",
+      "spell": "you asked"
+    },
+    {
+      "def1": "ты сделал это",
+      "ipa": "ю дɪд ɪт",
+      "spell": "you did it"
+    },
+    {
+      "def1": "ты не сделал этого",
+      "ipa": "ю дɪд нɑт ду ɪт",
+      "spell": "you did not do it"
+    },
+    {
+      "def1": "вы обмениваетесь номерами",
+      "ipa": "ю ɪксˈчэйндж ˈнʌмбɚз",
+      "spell": "you exchange numbers"
+    },
+    {
+      "def1": "ты получаешь A взамен на B",
+      "ipa": "ю гэт ə ɪн ɪксˈчэйндж фор би",
+      "spell": "you get A in exchange for B"
+    },
+    {
+      "def1": "ты играл",
+      "ipa": "ю плэйд",
+      "spell": "you played"
+    },
+    {
+      "def1": "ты шёл пешком",
+      "ipa": "ю wɔкт",
+      "spell": "you walked"
+    },
+    {
+      "def1": "ты работал",
+      "ipa": "ю wɝкт",
+      "spell": "you worked"
+    },
+    {
+      "def1": "чувствуете себя проснувшимся?",
+      "ipa": "арэй ю ˈфилɪŋ əˈwэйк?",
+      "spell": "аre you feeling awake?"
+    }
+  ]
+}
