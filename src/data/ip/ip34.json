@@ -9,21 +9,21 @@
       "cefr": "",
       "def2": "sentīre est verbum prīncipāle",
       "def1": "відчувати - це основний дієслово",
-      "ipa": "fil ɪz ə meɪn vɜrb",
+      "ipa": "fil ɪz ə meɪn vɝb",
       "spell": "feel is a main verb"
     },
     {
       "cefr": "",
       "def2": "est est verbum prīncipāle",
       "def1": "бути - це основний дієслово",
-      "ipa": "ɪz ɪz ə meɪn vɜrb",
+      "ipa": "ɪz ɪz ə meɪn vɝb",
       "spell": "is is a main verb"
     },
     {
       "cefr": "",
       "def2": "differentia",
       "def1": "різниця",
-      "ipa": "ə ˈdɪfərəns",
+      "ipa": "ə ˈdɪfɚəns",
       "spell": "a difference"
     },
     {
@@ -44,21 +44,21 @@
       "cefr": "",
       "def2": "quadrāns",
       "def1": "чверть",
-      "ipa": "ə ˈkwɔrtər",
+      "ipa": "ə ˈkwɔrtɚ",
       "spell": "a quarter"
     },
     {
       "cefr": "",
       "def2": "verbum rēgulāre",
       "def1": "правильний дієслово",
-      "ipa": "ə ˈrɛɡjələr vɜrb",
+      "ipa": "ə ˈrɛɡjəlɚ vɝb",
       "spell": "a regular verb"
     },
     {
       "cefr": "",
       "def2": "littera tacita",
       "def1": "нема літера",
-      "ipa": "ə ˈsaɪlənt ˈlɛtər",
+      "ipa": "ə ˈsaɪlənt ˈlɛtɚ",
       "spell": "a silent letter"
     },
     {
@@ -72,14 +72,14 @@
       "cefr": "",
       "def2": "theātrum",
       "def1": "театр",
-      "ipa": "ə ˈθiətər",
+      "ipa": "ə ˈθiətɚ",
       "spell": "a theater"
     },
     {
       "cefr": "",
       "def2": "homō sitibundus",
       "def1": "спраглий чоловік",
-      "ipa": "ə ˈθɜrsti mæn",
+      "ipa": "ə ˈθɝsti mæn",
       "spell": "a thirsty man"
     },
     {
@@ -100,14 +100,14 @@
       "cefr": "",
       "def2": "verbum irregulāre",
       "def1": "неправильний дієслово",
-      "ipa": "ən ɪˈrɛɡjələr vɜrb",
+      "ipa": "ən ɪˈrɛɡjəlɚ vɝb",
       "spell": "an irregular verb"
     },
     {
       "cefr": "",
       "def2": "alīus",
       "def1": "інший",
-      "ipa": "əˈnʌðər wʌn",
+      "ipa": "əˈnʌðɚ wʌn",
       "spell": "another one"
     },
     {
@@ -121,7 +121,7 @@
       "cefr": "",
       "def2": "tibi fessus es?",
       "def1": "ти втомився?",
-      "ipa": "ɑr ju ˈtaɪərd?",
+      "ipa": "ɑr ju ˈtaɪɚd?",
       "spell": "are you tired?"
     },
     {
@@ -156,7 +156,7 @@
       "cefr": "",
       "def2": "tibi melius sentīs?",
       "def1": "тобі краще?",
-      "ipa": "du ju fil ˈbɛtər?",
+      "ipa": "du ju fil ˈbɛtɚ?",
       "spell": "do you feel better?"
     },
     {
@@ -254,21 +254,21 @@
       "cefr": "",
       "def2": "sitiō",
       "def1": "я хочу пити",
-      "ipa": "aɪ æm ˈθɜrsti",
+      "ipa": "aɪ æm ˈθɝsti",
       "spell": "I am thirsty"
     },
     {
       "cefr": "",
       "def2": "fatīgātus sum",
       "def1": "я втомився",
-      "ipa": "aɪ æm ˈtaɪərd",
+      "ipa": "aɪ æm ˈtaɪɚd",
       "spell": "I am tired"
     },
     {
       "cefr": "",
       "def2": "melius sentiō",
       "def1": "я почуваю себе краще",
-      "ipa": "aɪ fil ˈbɛtər",
+      "ipa": "aɪ fil ˈbɛtɚ",
       "spell": "I feel better"
     },
     {
@@ -296,7 +296,7 @@
       "cefr": "",
       "def2": "ad labōrem hōrā sextā eō",
       "def1": "я йду на роботу о шостій годині",
-      "ipa": "aɪ ɡoʊ tu wɜrk æt sɪks",
+      "ipa": "aɪ ɡoʊ tu wɝk æt sɪks",
       "spell": "I go to work at six"
     },
     {
@@ -331,7 +331,7 @@
       "cefr": "",
       "def2": "aestāte",
       "def1": "влітку",
-      "ipa": "ɪn ˈsʌmər",
+      "ipa": "ɪn ˈsʌmɚ",
       "spell": "in summer"
     },
     {
@@ -352,7 +352,7 @@
       "cefr": "",
       "def2": "hieme",
       "def1": "взимку",
-      "ipa": "ɪn ˈwɪntər",
+      "ipa": "ɪn ˈwɪntɚ",
       "spell": "in winter"
     },
     {
@@ -394,28 +394,28 @@
       "cefr": "",
       "def2": "aliud verbum est",
       "def1": "це інше слово",
-      "ipa": "ɪts ə ˈdɪfərənt wɜrd",
+      "ipa": "ɪts ə ˈdɪfɚənt wɝd",
       "spell": "it's a different word"
     },
     {
       "cefr": "",
       "def2": "quadrāns post ūndecimam est",
       "def1": "чверть на дванадцяту",
-      "ipa": "ɪts ˈkwɔrtər ˈæftər ɪˈlɛvən",
+      "ipa": "ɪts ˈkwɔrtɚ ˈæftɚ ɪˈlɛvən",
       "spell": "it's quarter after eleven"
     },
     {
       "cefr": "",
       "def2": "quadrāns post septimam est",
       "def1": "чверть на восьму",
-      "ipa": "ɪts ˈkwɔrtər ˈæftər ˈsɛvən",
+      "ipa": "ɪts ˈkwɔrtɚ ˈæftɚ ˈsɛvən",
       "spell": "it's quarter after seven"
     },
     {
       "cefr": "",
       "def2": "littera \"K\" tacet",
       "def1": "літера \"K\" нема",
-      "ipa": "ˈlɛtər \"keɪ\" ɪz ˈsaɪlənt",
+      "ipa": "ˈlɛtɚ \"keɪ\" ɪz ˈsaɪlənt",
       "spell": "letter \"K\" is silent"
     },
     {
@@ -436,7 +436,7 @@
       "cefr": "",
       "def2": "os lātē aperī",
       "def1": "широко відкрий рот",
-      "ipa": "ˈoʊpən jʊər maʊθ waɪd",
+      "ipa": "ˈoʊpən jʊɚ maʊθ waɪd",
       "spell": "open your mouth wide"
     },
     {
@@ -478,7 +478,7 @@
       "cefr": "",
       "def2": "decem post tertiam",
       "def1": "десять хвилин на четверту",
-      "ipa": "tɛn ˈæftər θri",
+      "ipa": "tɛn ˈæftɚ θri",
       "spell": "ten after three"
     },
     {
@@ -492,7 +492,7 @@
       "cefr": "",
       "def2": "verbum prīncipāle",
       "def1": "основний дієслово",
-      "ipa": "ðə meɪn vɜrb",
+      "ipa": "ðə meɪn vɝb",
       "spell": "the main verb"
     },
     {
@@ -506,14 +506,14 @@
       "cefr": "",
       "def2": "sitibundus",
       "def1": "спраглий",
-      "ipa": "ˈθɜrsti",
+      "ipa": "ˈθɝsti",
       "spell": "thirsty"
     },
     {
       "cefr": "",
       "def2": "Igor fessus",
       "def1": "втомлений Ігор",
-      "ipa": "ˈtaɪərd ɪˈɡɔr",
+      "ipa": "ˈtaɪɚd ɪˈɡɔr",
       "spell": "tired Igor"
     },
     {
@@ -541,7 +541,7 @@
       "cefr": "",
       "def2": "fatīgāre",
       "def1": "втомлювати",
-      "ipa": "tu ˈtaɪər",
+      "ipa": "tu ˈtaɪɚ",
       "spell": "to tire"
     },
     {
@@ -604,7 +604,7 @@
       "cefr": "",
       "def2": "quid est temperātūra in Fahrenheit?",
       "def1": "яка температура за Фаренгейтом?",
-      "ipa": "wʌts ðə ˈtɛmprəʧər ɪn ˈfɛrənˌhaɪt?",
+      "ipa": "wʌts ðə ˈtɛmprəʧɚ ɪn ˈfɛrənˌhaɪt?",
       "spell": "what's the temperature in Fahrenheit?"
     },
     {
@@ -618,7 +618,7 @@
       "cefr": "",
       "def2": "quandō ad labōrem is?",
       "def1": "коли ти йдеш на роботу?",
-      "ipa": "wɛn du ju ɡoʊ tu wɜrk?",
+      "ipa": "wɛn du ju ɡoʊ tu wɝk?",
       "spell": "when do you go to work?"
     },
     {
@@ -632,7 +632,7 @@
       "cefr": "",
       "def2": "cūr litterae tacitae ibi sunt?",
       "def1": "чому там є німі літери?",
-      "ipa": "waɪ ɑr ðə ˈsaɪlənt ˈlɛtərz ðɛr?",
+      "ipa": "waɪ ɑr ðə ˈsaɪlənt ˈlɛtɚz ðɛr?",
       "spell": "why are the silent letters there?"
     },
     {
@@ -646,7 +646,7 @@
       "cefr": "",
       "def2": "ūnum verbum prīncipāle tantum habēs",
       "def1": "у тебе може бути лише один основний дієслово",
-      "ipa": "ju kæn ˈoʊnli hæv wʌn meɪn vɜrb",
+      "ipa": "ju kæn ˈoʊnli hæv wʌn meɪn vɝb",
       "spell": "you can only have one main verb"
     },
     {
@@ -674,7 +674,7 @@
       "cefr": "",
       "def2": "mē fatīgās",
       "def1": "ти мене втомлюєш",
-      "ipa": "ju ˈtaɪər mi",
+      "ipa": "ju ˈtaɪɚ mi",
       "spell": "you tire me"
     }
   ]

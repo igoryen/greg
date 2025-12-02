@@ -14,7 +14,7 @@
         {
             "cefr": "",
             "def1": "наш",
-            "ipa": "ˈaʊər",
+            "ipa": "ˈaʊɚ",
             "spell": "our"
         },
         {
@@ -26,13 +26,13 @@
         {
             "cefr": "",
             "def1": "Пан",
-            "ipa": "ˈmɪstər.",
+            "ipa": "ˈmɪstɚ",
             "spell": "Mr."
         },
         {
             "cefr": "",
             "def1": "година",
-            "ipa": "ˈaʊər",
+            "ipa": "ˈaʊɚ",
             "spell": "hour"
         },
         {
@@ -56,7 +56,7 @@
         {
             "cefr": "",
             "def1": "прокляття",
-            "ipa": "kɜrs",
+            "ipa": "kɝs",
             "spell": "curse"
         },
         {
@@ -140,7 +140,7 @@
         {
             "cefr": "",
             "def1": "Пані (заміжня жінка)",
-            "ipa": "ˈmɪsɪz.",
+            "ipa": "ˈmɪsɪz",
             "spell": "Mrs."
         },
         {
@@ -200,7 +200,7 @@
         {
             "cefr": "",
             "def1": "Це моя дівчина!",
-            "ipa": "ðæts maɪ ɡɜrl!",
+            "ipa": "ðæts maɪ ɡɝl!",
             "spell": "That’s my girl!"
         },
         {
@@ -242,13 +242,13 @@
         {
             "cefr": "",
             "def1": "Це мій батько.",
-            "ipa": "ðɪs ɪz maɪ ˈfɑðər.",
+            "ipa": "ðɪs ɪz maɪ ˈfɑðɚ.",
             "spell": "This is my father."
         },
         {
             "cefr": "",
             "def1": "ось наш клас",
-            "ipa": "hɪrz ˈaʊər ˈklæsˌrum",
+            "ipa": "hɪrz ˈaʊɚ ˈklæsˌrum",
             "spell": "here’s our classroom"
         },
         {
@@ -266,13 +266,13 @@
         {
             "cefr": "",
             "def1": "Це мої брати.",
-            "ipa": "ðiz ɑr maɪ ˈbrʌðərz.",
+            "ipa": "ðiz ɑr maɪ ˈbrʌðɚz.",
             "spell": "These are my brothers."
         },
         {
             "cefr": "",
             "def1": "Це мої дочки.",
-            "ipa": "ðiz ɑr maɪ ˈdɔtərz.",
+            "ipa": "ðiz ɑr maɪ ˈdɔtɚz.",
             "spell": "These are my daughters."
         },
         {
@@ -284,13 +284,13 @@
         {
             "cefr": "",
             "def1": "Це мої сестри.",
-            "ipa": "ðiz ɑr maɪ ˈsɪstərz.",
+            "ipa": "ðiz ɑr maɪ ˈsɪstɚz.",
             "spell": "These are my sisters."
         },
         {
             "cefr": "",
             "def1": "Це мої мама і тато.",
-            "ipa": "ðiz ɑr maɪ ˈmʌðər ænd ˈfɑðər.",
+            "ipa": "ðiz ɑr maɪ ˈmʌðɚ ænd ˈfɑðɚ.",
             "spell": "These are my mother and father."
         }
     ]

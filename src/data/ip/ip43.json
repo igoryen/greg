@@ -51,14 +51,14 @@
       "cefr": "",
       "def2": "",
       "def1": "Вони зазвичай їздять на роботу автобусом?",
-      "ipa": "du ðeɪ ˈjuʒəwəli ɡoʊ tu wɜrk baɪ bʌs?",
+      "ipa": "du ðeɪ ˈjuʒəwəli ɡoʊ tu wɝk baɪ bʌs?",
       "spell": "Do they usually go to work by bus?"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "У тебе є кондиціонер у будинку?",
-      "ipa": "du ju hæv ən ɛr kənˈdɪʃənər ɪn jʊər haʊs?",
+      "ipa": "du ju hæv ən ɛr kənˈdɪʃənɚ ɪn jʊɚ haʊs?",
       "spell": "do you have an air conditioner in your house?"
     },
     {
@@ -107,7 +107,7 @@
       "cefr": "",
       "def2": "",
       "def1": "Я завжди приймаю душ вранці",
-      "ipa": "aɪ ˈɔlˌweɪz teɪk ə ˈʃaʊər ɪn ðə ˈmɔrnɪŋ",
+      "ipa": "aɪ ˈɔlˌweɪz teɪk ə ˈʃaʊɚ ɪn ðə ˈmɔrnɪŋ",
       "spell": "I always take a shower in the morning"
     },
     {
@@ -128,28 +128,28 @@
       "cefr": "",
       "def2": "",
       "def1": "Я ніколи не лягаю спати до 12:00",
-      "ipa": "aɪ ˈnɛvər ɡoʊ tu bɛd bɪˈfɔr 12:00",
+      "ipa": "aɪ ˈnɛvɚ ɡoʊ tu bɛd bɪˈfɔr 12:00",
       "spell": "I never go to bed before 12:00"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "Я віддаю перевагу з лимоном",
-      "ipa": "aɪ prəˈfɜr ɪt wɪð ˈlɛmən",
+      "ipa": "aɪ prəˈfɝ ɪt wɪð ˈlɛmən",
       "spell": "I prefer it with lemon"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "Іноді я готую рибу на вечерю",
-      "ipa": "aɪ səmˈtaɪmz meɪk fɪʃ fɔr ˈdɪnər",
+      "ipa": "aɪ səmˈtaɪmz meɪk fɪʃ fɔr ˈdɪnɚ",
       "spell": "I sometimes make fish for dinner"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "Я зазвичай роблю домашнє завдання на вихідних",
-      "ipa": "aɪ ˈjuʒəwəli du maɪ ˈhoʊmˌwɜrk ɑn ðə ˈwiˌkɛnd",
+      "ipa": "aɪ ˈjuʒəwəli du maɪ ˈhoʊmˌwɝk ɑn ðə ˈwiˌkɛnd",
       "spell": "I usually do my homework on the weekend"
     },
     {
@@ -163,21 +163,21 @@
       "cefr": "",
       "def2": "",
       "def1": "Тут не дуже холодно взимку",
-      "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri koʊld hir ɪn ˈwɪntər",
+      "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri koʊld hir ɪn ˈwɪntɚ",
       "spell": "it does not get very cold here in winter"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "Тут не дуже жарко влітку",
-      "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri hɑt hir ɪn ˈsʌmər",
+      "ipa": "ɪt dʌz nɑt ɡɛt ˈvɛri hɑt hir ɪn ˈsʌmɚ",
       "spell": "it does not get very hot here in summer"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "Стає рано",
-      "ipa": "ɪt ɡɛts ˈɜrli",
+      "ipa": "ɪt ɡɛts ˈɝli",
       "spell": "it gets early"
     },
     {
@@ -254,7 +254,7 @@
       "cefr": "",
       "def2": "",
       "def1": "Вчора було дуже жарко",
-      "ipa": "ɪt wʌz ˈvɛri hɑt ˈjɛstərˌdeɪ",
+      "ipa": "ɪt wʌz ˈvɛri hɑt ˈjɛstɚˌdeɪ",
       "spell": "it was very hot yesterday"
     },
     {
@@ -275,7 +275,7 @@
       "cefr": "",
       "def2": "",
       "def1": "Вона ніколи не ходить за покупками після роботи",
-      "ipa": "ʃi ˈnɛvər ɡoʊz ˈʃɑpɪŋ ˈæftər wɜrk",
+      "ipa": "ʃi ˈnɛvɚ ɡoʊz ˈʃɑpɪŋ ˈæftɚ wɝk",
       "spell": "she never goes shopping after work"
     },
     {
@@ -338,7 +338,7 @@
       "cefr": "",
       "def2": "",
       "def1": "упорядкувати слова",
-      "ipa": "tu ˈɔrdər ðə wɜrdz",
+      "ipa": "tu ˈɔrdɚ ðə wɝdz",
       "spell": "to order the words"
     },
     {

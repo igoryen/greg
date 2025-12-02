@@ -7,7 +7,7 @@
   "words": [
     {
       "def1": "сліпа людина",
-      "ipa": "ə blaɪnd ˈpɜrsən",
+      "ipa": "ə blaɪnd ˈpɝsən",
       "spell": "a blind person"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "def1": "дзеркало заднього виду",
-      "ipa": "ə rɪr vju ˈmɪrər",
+      "ipa": "ə rɪr vju ˈmɪrɚ",
       "spell": "a rear view mirror"
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "def1": "змініть шини!",
-      "ipa": "ʧeɪnʤ jʊər ˈtaɪərz!",
+      "ipa": "ʧeɪnʤ jʊɚ ˈtaɪɚz!",
       "spell": "change your tires!"
     },
     {
       "def1": "змініть двірники!",
-      "ipa": "ʧeɪnʤ jʊər ˈwaɪpərz!",
+      "ipa": "ʧeɪnʤ jʊɚ ˈwaɪpɚz!",
       "spell": "change your wipers!"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "def1": "відремонтуйте дзеркало заднього виду!",
-      "ipa": "fɪks jʊər rɪr vju ˈmɪrər!",
+      "ipa": "fɪks jʊɚ rɪr vju ˈmɪrɚ!",
       "spell": "Fix your rear view mirror!"
     },
     {
       "def1": "відремонтуйте бічні дзеркала!",
-      "ipa": "fɪks jʊər saɪd ˈmɪrərz!",
+      "ipa": "fɪks jʊɚ saɪd ˈmɪrɚz!",
       "spell": "fix your side mirrors!"
     },
     {
@@ -77,12 +77,12 @@
     },
     {
       "def1": "у мене тріщина на крилі",
-      "ipa": "aɪ hæv ə kræk ɑn ðə ˈfɛndər",
+      "ipa": "aɪ hæv ə kræk ɑn ðə ˈfɛndɚ",
       "spell": "I have a crack on the fender"
     },
     {
       "def1": "у мене подряпина на крилі",
-      "ipa": "aɪ hæv ə skræʧ ɑn ðə ˈfɛndər",
+      "ipa": "aɪ hæv ə skræʧ ɑn ðə ˈfɛndɚ",
       "spell": "I have a scratch on the fender"
     },
     {
@@ -97,17 +97,17 @@
     },
     {
       "def1": "у вашому багажнику",
-      "ipa": "ɪn jʊər trʌŋk",
+      "ipa": "ɪn jʊɚ trʌŋk",
       "spell": "in your trunk"
     },
     {
       "def1": "дивіться у дзеркало заднього виду",
-      "ipa": "lʊk ɪn jʊər rɪr vju ˈmɪrər",
+      "ipa": "lʊk ɪn jʊɚ rɪr vju ˈmɪrɚ",
       "spell": "look in your rear view mirror"
     },
     {
       "def1": "Дивіться! Ви залишили подряпину на моєму крилі!",
-      "ipa": "lʊk! ju pʊt ə skræʧ ɑn maɪ ˈfɛndər!",
+      "ipa": "lʊk! ju pʊt ə skræʧ ɑn maɪ ˈfɛndɚ!",
       "spell": "Look! You put a scratch on my fender!"
     },
     {
@@ -117,47 +117,47 @@
     },
     {
       "def1": "моя машина коштує мільйон доларів",
-      "ipa": "maɪ kɑr kɑsts ə ˈmɪljən ˈdɑlərz",
+      "ipa": "maɪ kɑr kɑsts ə ˈmɪljən ˈdɑlɚz",
       "spell": "my car costs a million dollars"
     },
     {
       "def1": "моє дзеркало заднього виду зламане",
-      "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈbroʊkən",
+      "ipa": "maɪ rɪr vju ˈmɪrɚ ɪz ˈbroʊkən",
       "spell": "my rear view mirror is broken"
     },
     {
       "def1": "моє дзеркало заднього виду відсутнє",
-      "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈmɪsɪŋ",
+      "ipa": "maɪ rɪr vju ˈmɪrɚ ɪz ˈmɪsɪŋ",
       "spell": "my rear view mirror is missing"
     },
     {
       "def1": "моє дзеркало заднього виду у порядку",
-      "ipa": "maɪ rɪr vju ˈmɪrər ɪz ˈoʊˈkeɪ",
+      "ipa": "maɪ rɪr vju ˈmɪrɚ ɪz ˈoʊˈkeɪ",
       "spell": "my rear view mirror is OK"
     },
     {
       "def1": "моє дзеркало заднього виду відвернуте",
-      "ipa": "maɪ rɪr vju ˈmɪrər ɪz tɜrnd əˈweɪ",
+      "ipa": "maɪ rɪr vju ˈmɪrɚ ɪz tɝnd əˈweɪ",
       "spell": "my rear view mirror is turned away"
     },
     {
       "def1": "моє праве бічне дзеркало зламане!",
-      "ipa": "maɪ raɪt saɪd ˈmɪrər ɪz ˈbroʊkən!",
+      "ipa": "maɪ raɪt saɪd ˈmɪrɚ ɪz ˈbroʊkən!",
       "spell": "my right side mirror is broken!"
     },
     {
       "def1": "у моїй шині дірка",
-      "ipa": "maɪ ˈtaɪər hæz ə hoʊl",
+      "ipa": "maɪ ˈtaɪɚ hæz ə hoʊl",
       "spell": "my tire has a hole"
     },
     {
       "def1": "у мене спущена шина",
-      "ipa": "maɪ ˈtaɪər ɪz flæt",
+      "ipa": "maɪ ˈtaɪɚ ɪz flæt",
       "spell": "my tire is flat"
     },
     {
       "def1": "моя шина втрачає повітря",
-      "ipa": "maɪ ˈtaɪər ˈluzəz ɛr",
+      "ipa": "maɪ ˈtaɪɚ ˈluzəz ɛr",
       "spell": "my tire loses air"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "def1": "відкрийте багажник, будь ласка!",
-      "ipa": "ˈoʊpən jʊər trʌŋk, pliz!",
+      "ipa": "ˈoʊpən jʊɚ trʌŋk, pliz!",
       "spell": "open your trunk, please!"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "def1": "у моїй шині дірка",
-      "ipa": "ðɛr ɪz ə hoʊl ɪn maɪ ˈtaɪər",
+      "ipa": "ðɛr ɪz ə hoʊl ɪn maɪ ˈtaɪɚ",
       "spell": "there is a hole in my tire"
     },
     {
@@ -207,22 +207,22 @@
     },
     {
       "def1": "увімкнути це",
-      "ipa": "tu tɜrn ɪt ɑn",
+      "ipa": "tu tɝn ɪt ɑn",
       "spell": "to turn it on"
     },
     {
       "def1": "вимкнути світло",
-      "ipa": "tu tɜrn ɔf ðə laɪt",
+      "ipa": "tu tɝn ɔf ðə laɪt",
       "spell": "to turn off the light"
     },
     {
       "def1": "увімкнути",
-      "ipa": "tu tɜrn ɑn",
+      "ipa": "tu tɝn ɑn",
       "spell": "to turn on"
     },
     {
       "def1": "увімкнути світло",
-      "ipa": "tu tɜrn ɑn ðə laɪt",
+      "ipa": "tu tɝn ɑn ðə laɪt",
       "spell": "to turn on the light"
     },
     {
@@ -232,47 +232,47 @@
     },
     {
       "def1": "вимкни це!",
-      "ipa": "tɜrn ɪt ɔf!",
+      "ipa": "tɝn ɪt ɔf!",
       "spell": "turn it off!"
     },
     {
       "def1": "вимкнути дальнє світло",
-      "ipa": "tɜrn ɔf ðə haɪ bimz",
+      "ipa": "tɝn ɔf ðə haɪ bimz",
       "spell": "turn off the high beams"
     },
     {
       "def1": "вимкніть дальнє світло!",
-      "ipa": "tɜrn ɔf ðə haɪ bimz!",
+      "ipa": "tɝn ɔf ðə haɪ bimz!",
       "spell": "turn off the high beams!"
     },
     {
       "def1": "вимкніть двірники!",
-      "ipa": "tɜrn ɔf jʊər ˈwaɪpərz!",
+      "ipa": "tɝn ɔf jʊɚ ˈwaɪpɚz!",
       "spell": "turn off your wipers!"
     },
     {
       "def1": "увімкніть дальнє світло!",
-      "ipa": "tɜrn ɑn ðə haɪ bimz!",
+      "ipa": "tɝn ɑn ðə haɪ bimz!",
       "spell": "turn on the high beams!"
     },
     {
       "def1": "увімкніть ближнє світло",
-      "ipa": "tɜrn ɑn ðə loʊ bimz",
+      "ipa": "tɝn ɑn ðə loʊ bimz",
       "spell": "turn on the low beams"
     },
     {
       "def1": "увімкніть двірники!",
-      "ipa": "tɜrn ɑn jʊər ˈwaɪpərz!",
+      "ipa": "tɝn ɑn jʊɚ ˈwaɪpɚz!",
       "spell": "turn on your wipers!"
     },
     {
       "def1": "що у вашому багажнику?",
-      "ipa": "wɑt ɪz ɪn jʊər trʌŋk?",
+      "ipa": "wɑt ɪz ɪn jʊɚ trʌŋk?",
       "spell": "what is in your trunk?"
     },
     {
       "def1": "де ваші бічні дзеркала?",
-      "ipa": "wɛr ɑr jʊər saɪd ˈmɪrərz?",
+      "ipa": "wɛr ɑr jʊɚ saɪd ˈmɪrɚz?",
       "spell": "where are your side mirrors?"
     },
     {
@@ -282,12 +282,12 @@
     },
     {
       "def1": "витріть цей бруд",
-      "ipa": "waɪp ðɪs dɜrt",
+      "ipa": "waɪp ðɪs dɝt",
       "spell": "wipe this dirt"
     },
     {
       "def1": "витріть лобове скло",
-      "ipa": "waɪp jʊər ˈwɪndˌʃild",
+      "ipa": "waɪp jʊɚ ˈwɪndˌʃild",
       "spell": "wipe your windshield"
     },
     {
@@ -312,42 +312,42 @@
     },
     {
       "def1": "ваше дзеркало заднього виду зламане",
-      "ipa": "jʊər rɪr vju ˈmɪrər ɪz ˈbroʊkən",
+      "ipa": "jʊɚ rɪr vju ˈmɪrɚ ɪz ˈbroʊkən",
       "spell": "your rear view mirror is broken"
     },
     {
       "def1": "ваші шини старі",
-      "ipa": "jʊər ˈtaɪərz ɑr oʊld",
+      "ipa": "jʊɚ ˈtaɪɚz ɑr oʊld",
       "spell": "your tires are old"
     },
     {
       "def1": "ваше лобове скло чисте",
-      "ipa": "jʊər ˈwɪndˌʃild ɪz klin",
+      "ipa": "jʊɚ ˈwɪndˌʃild ɪz klin",
       "spell": "your windshield is clean"
     },
     {
       "def1": "ваше лобове скло брудна",
-      "ipa": "jʊər ˈwɪndˌʃild ɪz ˈdɜrti",
+      "ipa": "jʊɚ ˈwɪndˌʃild ɪz ˈdɝti",
       "spell": "your windshield is dirty"
     },
     {
       "def1": "ваше лобове скло не чисте",
-      "ipa": "jʊər ˈwɪndˌʃild ɪz nɑt klin",
+      "ipa": "jʊɚ ˈwɪndˌʃild ɪz nɑt klin",
       "spell": "your windshield is not clean"
     },
     {
       "def1": "ваше лобове скло занадто брудна",
-      "ipa": "jʊər ˈwɪndˌʃild ɪz tu ˈdɜrti",
+      "ipa": "jʊɚ ˈwɪndˌʃild ɪz tu ˈdɝti",
       "spell": "your windshield is too dirty"
     },
     {
       "def1": "ваше лобове скло дуже брудна",
-      "ipa": "jʊər ˈwɪndˌʃild ɪz ˈvɛri ˈdɜrti",
+      "ipa": "jʊɚ ˈwɪndˌʃild ɪz ˈvɛri ˈdɝti",
       "spell": "your windshield is very dirty"
     },
     {
       "def1": "ваші двірники старі",
-      "ipa": "jʊər ˈwaɪpərz ɑr oʊld",
+      "ipa": "jʊɚ ˈwaɪpɚz ɑr oʊld",
       "spell": "your wipers are old"
     },
     {
@@ -357,7 +357,7 @@
     },
     {
       "def1": "бампер",
-      "ipa": "ˈfɛndər",
+      "ipa": "ˈfɛndɚ",
       "spell": "fender"
     },
     {
@@ -367,12 +367,12 @@
     },
     {
       "def1": "бічні дзеркала",
-      "ipa": "saɪd ˈmɪrərz",
+      "ipa": "saɪd ˈmɪrɚz",
       "spell": "side mirrors"
     },
     {
       "def1": "грязь",
-      "ipa": "dɜrt",
+      "ipa": "dɝt",
       "spell": "dirt"
     },
     {
@@ -382,12 +382,12 @@
     },
     {
       "def1": "двірники",
-      "ipa": "ˈwaɪpərz",
+      "ipa": "ˈwaɪpɚz",
       "spell": "wipers"
     },
     {
       "def1": "дзеркало",
-      "ipa": "ə ˈmɪrər",
+      "ipa": "ə ˈmɪrɚ",
       "spell": "a mirror"
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "def1": "камера, шина",
-      "ipa": "ˈtaɪər",
+      "ipa": "ˈtaɪɚ",
       "spell": "tire"
     },
     {
@@ -427,7 +427,7 @@
     },
     {
       "def1": "спущене колесо",
-      "ipa": "ə flæt ˈtaɪər",
+      "ipa": "ə flæt ˈtaɪɚ",
       "spell": "a flat tire"
     },
     {

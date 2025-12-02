@@ -29,7 +29,7 @@
       "cefr": "",
       "def2": "",
       "def1": "дослівний переклад - це не вільний переклад",
-      "ipa": "ə ˈlɪtərəl trænˈzleɪʃən ɪz nɑt ə fri trænˈzleɪʃən",
+      "ipa": "ə ˈlɪtɚəl trænˈzleɪʃən ɪz nɑt ə fri trænˈzleɪʃən",
       "spell": "a literal translation is not a free translation"
     },
     {
@@ -43,14 +43,14 @@
       "cefr": "",
       "def2": "",
       "def1": "допоміжна силова установка (APU)",
-      "ipa": "ən ɑɡˈzɪljəri ˈpaʊər ˈjunət (eɪ-pi-ju)",
+      "ipa": "ən ɑɡˈzɪljɚi ˈpaʊɚ ˈjunət (eɪ-pi-ju)",
       "spell": "an auxiliary power unit (APU)"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "допоміжне дієслово",
-      "ipa": "ən ɑɡˈzɪljəri vɜrb",
+      "ipa": "ən ɑɡˈzɪljɚi vɝb",
       "spell": "an auxiliary verb"
     },
     {
@@ -71,14 +71,14 @@
       "cefr": "",
       "def2": "",
       "def1": "чи подобається {твоїм дітям} суші?",
-      "ipa": "du {jʊər ˈʧɪldrən} laɪk ˈsuʃi ?",
+      "ipa": "du {jʊɚ ˈʧɪldrən} laɪk ˈsuʃi ?",
       "spell": "do {your children} like sushi ?"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "чи говорить {твій чоловік} іспанською?",
-      "ipa": "dʌz {jʊər ˈhʌzbənd} spik ˈspænɪʃ ?",
+      "ipa": "dʌz {jʊɚ ˈhʌzbənd} spik ˈspænɪʃ ?",
       "spell": "does {your husband} speak Spanish ?"
     },
     {
@@ -113,14 +113,14 @@
       "cefr": "",
       "def2": "",
       "def1": "це {твій телефон}?",
-      "ipa": "ɪz ðɪs {jʊər foʊn}?",
+      "ipa": "ɪz ðɪs {jʊɚ foʊn}?",
       "spell": "is this {your phone}?"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "{твій телефон} - це?",
-      "ipa": "ɪz {jʊər foʊn} ðɪs?",
+      "ipa": "ɪz {jʊɚ foʊn} ðɪs?",
       "spell": "is {your phone} this?"
     },
     {
@@ -141,14 +141,14 @@
       "cefr": "",
       "def2": "",
       "def1": "підмет і дієслово інвертовані",
-      "ipa": "ðə ˈsʌbʤɪkt ænd ðə vɜrb ɑr ɪnˈvɜrtɪd",
+      "ipa": "ðə ˈsʌbʤɪkt ænd ðə vɝb ɑr ɪnˈvɝtɪd",
       "spell": "the subject and the verb are inverted"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "відкрутити гайки коліс",
-      "ipa": "tu ɪnˈvɜrt ðə lʌɡ nʌts",
+      "ipa": "tu ɪnˈvɝt ðə lʌɡ nʌts",
       "spell": "to invert the lug nuts"
     },
     {
@@ -162,14 +162,14 @@
       "cefr": "",
       "def2": "",
       "def1": "поговорити з менеджером",
-      "ipa": "tu tɔk tu ðə ˈmænəʤər",
+      "ipa": "tu tɔk tu ðə ˈmænəʤɚ",
       "spell": "to talk to the manager"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "спілкуватися з партнером",
-      "ipa": "tu tɔk wɪð ə ˈpɑrtnər",
+      "ipa": "tu tɔk wɪð ə ˈpɑrtnɚ",
       "spell": "to talk with a partner"
     },
     {
@@ -190,28 +190,28 @@
       "cefr": "",
       "def2": "",
       "def1": "о котрій годині {твоя дружина} закінчує роботу?",
-      "ipa": "wɑt taɪm dʌz {jʊər waɪf} ˈfɪnɪʃ wɜrk?",
+      "ipa": "wɑt taɪm dʌz {jʊɚ waɪf} ˈfɪnɪʃ wɝk?",
       "spell": "what time does {your wife} finish  work?"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "де працюють {вони}?",
-      "ipa": "wɛr du {ðeɪ} wɜrk?",
+      "ipa": "wɛr du {ðeɪ} wɝk?",
       "spell": "where do {they} work?"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "де працюють {хто? що?}?",
-      "ipa": "wɛr du {hu? wɑt?} wɜrk?",
+      "ipa": "wɛr du {hu? wɑt?} wɝk?",
       "spell": "where do {who? what?} work?"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "де працюють {твої брати}?",
-      "ipa": "wɛr du {jʊər ˈbrʌðərz} wɜrk?",
+      "ipa": "wɛr du {jʊɚ ˈbrʌðɚz} wɝk?",
       "spell": "where do {your brothers} work?"
     },
     {
@@ -274,7 +274,7 @@
       "cefr": "",
       "def2": "",
       "def1": "чому ти втомлений?",
-      "ipa": "waɪ ɑr ju ˈtaɪərd?",
+      "ipa": "waɪ ɑr ju ˈtaɪɚd?",
       "spell": "why are you tired?"
     }
   ]

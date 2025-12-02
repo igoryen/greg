@@ -55,7 +55,7 @@
     },
     {
       "def2": "",
-      "ipa": "wɛr ɪz ðə ˈfɑrðəst ju hæv ˈɛvər ɡɔn?",
+      "ipa": "wɛr ɪz ðə ˈfɑrðəst ju hæv ˈɛvɚ ɡɔn?",
       "def1": "де найдалі ти коли-небудь був?",
       "spell": "where is the farthest you have ever gone?"
     },
@@ -97,13 +97,13 @@
     },
     {
       "def2": "",
-      "ipa": "aɪ ʤʌst teɪk hɜr tu wɜrk",
+      "ipa": "aɪ ʤʌst teɪk hɝ tu wɝk",
       "def1": "я просто відвожу її на роботу",
       "spell": "I just take her to work"
     },
     {
       "def2": "",
-      "ipa": "aɪ seɪ ɡʊd baɪ tu hɜr",
+      "ipa": "aɪ seɪ ɡʊd baɪ tu hɝ",
       "def1": "я кажу їй \"до побачення\"",
       "spell": "I say good bye to her"
     },
@@ -181,7 +181,7 @@
     },
     {
       "def2": "",
-      "ipa": "ˈɛvəri ˈmɔrnɪŋ",
+      "ipa": "ˈɛvɚi ˈmɔrnɪŋ",
       "def1": "щоранку",
       "spell": "every morning"
     },
@@ -283,7 +283,7 @@
     },
     {
       "def2": "",
-      "ipa": "ˈɜrli",
+      "ipa": "ˈɝli",
       "def1": "рано",
       "spell": "early"
     },
@@ -313,25 +313,25 @@
     },
     {
       "def2": "",
-      "ipa": "ˈdɪfərənt",
+      "ipa": "ˈdɪfɚənt",
       "def1": "різний",
       "spell": "different"
     },
     {
       "def2": "",
-      "ipa": "ˈdɪfərənt fudz",
+      "ipa": "ˈdɪfɚənt fudz",
       "def1": "різні страви",
       "spell": "different foods"
     },
     {
       "def2": "",
-      "ipa": "aɪ ˈjuʒəwəli (doʊnt) hæv ˈʃʊɡər",
+      "ipa": "aɪ ˈjuʒəwəli (doʊnt) hæv ˈʃʊɡɚ",
       "def1": "я зазвичай (не) їм цукор",
       "spell": "I usually (don't) have sugar"
     },
     {
       "def2": "",
-      "ipa": "ˈbʌtər",
+      "ipa": "ˈbʌtɚ",
       "def1": "масло",
       "spell": "butter"
     },
@@ -343,19 +343,19 @@
     },
     {
       "def2": "",
-      "ipa": "ˈnɛvər",
+      "ipa": "ˈnɛvɚ",
       "def1": "ніколи",
       "spell": "never"
     },
     {
       "def2": "",
-      "ipa": "aɪ ˈnɛvər hæv",
+      "ipa": "aɪ ˈnɛvɚ hæv",
       "def1": "я ніколи не їм",
       "spell": "I never have"
     },
     {
       "def2": "",
-      "ipa": "aɪ ˈɔlˌweɪz hæv ˈwɔtər",
+      "ipa": "aɪ ˈɔlˌweɪz hæv ˈwɔtɚ",
       "def1": "я завжди п’ю воду",
       "spell": "I always have water"
     },
@@ -379,7 +379,7 @@
     },
     {
       "def2": "",
-      "ipa": "ˈhɛlθiər",
+      "ipa": "ˈhɛlθiɚ",
       "def1": "здоровіший",
       "spell": "healthier"
     },
@@ -391,7 +391,7 @@
     },
     {
       "def2": "",
-      "ipa": "ˈsizər ˈsæləd",
+      "ipa": "ˈsizɚ ˈsæləd",
       "def1": "салат \"Цезар\"",
       "spell": "Cesar salad"
     },
@@ -409,7 +409,7 @@
     },
     {
       "def2": "",
-      "ipa": "ˈsaʊər krim",
+      "ipa": "ˈsaʊɚ krim",
       "def1": "сметана",
       "spell": "sour cream"
     },
@@ -421,7 +421,7 @@
     },
     {
       "def2": "",
-      "ipa": "ɪz ʃi ˈɡɑnə wɜrk təˈdeɪ?",
+      "ipa": "ɪz ʃi ˈɡɑnə wɝk təˈdeɪ?",
       "def1": "вона сьогодні працюватиме?",
       "spell": "Is she gonna work today?"
     },

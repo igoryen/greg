@@ -12,12 +12,12 @@
     },
     {
       "def1": "людина",
-      "ipa": "ə ˈpɜrsən",
+      "ipa": "ə ˈpɝsən",
       "spell": "a person"
     },
     {
       "def1": "запитання",
-      "ipa": "ə ˈkwɛsʧən wɜrd",
+      "ipa": "ə ˈkwɛsʧən wɝd",
       "spell": "a question word"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "def1": "після роботи",
-      "ipa": "ˈæftər wɜrk",
+      "ipa": "ˈæftɚ wɝk",
       "spell": "after work"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "def1": "ти втомлений у неділю ввечері?",
-      "ipa": "ɑr ju ˈtaɪərd ɑn ˈsʌnˌdeɪ ˈivnɪŋ?",
+      "ipa": "ɑr ju ˈtaɪɚd ɑn ˈsʌnˌdeɪ ˈivnɪŋ?",
       "spell": "are you tired on Sunday evening?"
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "def1": "пожежа в автомобілі",
-      "ipa": "ə kɑr ˈfaɪər",
+      "ipa": "ə kɑr ˈfaɪɚ",
       "spell": "a car fire"
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "def1": "ти робиш те саме що й у вихідні?",
-      "ipa": "du ju du ðə seɪm θɪŋ ˈɛvəri ˈwiˌkɛnd?",
+      "ipa": "du ju du ðə seɪm θɪŋ ˈɛvɚi ˈwiˌkɛnd?",
       "spell": "do you do the same thing every weekend?"
     },
     {
@@ -127,27 +127,27 @@
     },
     {
       "def1": "вогонь",
-      "ipa": "ə ˈfaɪər",
+      "ipa": "ə ˈfaɪɚ",
       "spell": "a fire"
     },
     {
       "def1": "пожежна машина",
-      "ipa": "ə ˈfaɪər kɑr",
+      "ipa": "ə ˈfaɪɚ kɑr",
       "spell": "a fire car"
     },
     {
       "def1": "пожежна машина",
-      "ipa": "ə ˈfaɪər trʌk",
+      "ipa": "ə ˈfaɪɚ trʌk",
       "spell": "a fire truck"
     },
     {
       "def1": "перший",
-      "ipa": "fɜrst",
+      "ipa": "fɝst",
       "spell": "first"
     },
     {
       "def1": "вперше",
-      "ipa": "fɔr ðə fɜrst taɪm",
+      "ipa": "fɔr ðə fɝst taɪm",
       "spell": "for the first time"
     },
     {
@@ -157,12 +157,12 @@
     },
     {
       "def1": "я зустрів цю людину",
-      "ipa": "aɪ dɪd mit ðɪs ˈpɜrsən => aɪ mɛt ðɪs ˈpɜrsən",
+      "ipa": "aɪ dɪd mit ðɪs ˈpɝsən => aɪ mɛt ðɪs ˈpɝsən",
       "spell": "I did meet this person => I met this person"
     },
     {
       "def1": "я зустрічаю цю людину",
-      "ipa": "aɪ du mit ðɪs ˈpɜrsən => aɪ mit ðɪs ˈpɜrsən",
+      "ipa": "aɪ du mit ðɪs ˈpɝsən => aɪ mit ðɪs ˈpɝsən",
       "spell": "I do meet this person => I meet this person"
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "def1": "я не зустрів цю людину",
-      "ipa": "aɪ dɪd nɑt mit ðɪs ˈpɜrsən",
+      "ipa": "aɪ dɪd nɑt mit ðɪs ˈpɝsən",
       "spell": "I did not meet this person"
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "def1": "я не працював",
-      "ipa": "aɪ dɪd nɑt wɜrk",
+      "ipa": "aɪ dɪd nɑt wɝk",
       "spell": "I did not work"
     },
     {
@@ -197,12 +197,12 @@
     },
     {
       "def1": "я працював",
-      "ipa": "aɪ dɪd wɜrk => aɪ wɜrkt",
+      "ipa": "aɪ dɪd wɝk => aɪ wɝkt",
       "spell": "I did work => I worked"
     },
     {
       "def1": "я не знаю цю людину",
-      "ipa": "aɪ du nɑt mit ðɪs ˈpɜrsən",
+      "ipa": "aɪ du nɑt mit ðɪs ˈpɝsən",
       "spell": "I do not meet this person"
     },
     {
@@ -212,22 +212,22 @@
     },
     {
       "def1": "я не працюю",
-      "ipa": "aɪ du nɑt wɜrk",
+      "ipa": "aɪ du nɑt wɝk",
       "spell": "I do not work"
     },
     {
       "def1": "я працюю",
-      "ipa": "aɪ du wɜrk => aɪ wɜrk",
+      "ipa": "aɪ du wɝk => aɪ wɝk",
       "spell": "I do work => I work"
     },
     {
       "def1": "я ніколи не граю в комп'ютерні ігри",
-      "ipa": "aɪ ˈnɛvər pleɪ kəmˈpjutər ɡeɪmz",
+      "ipa": "aɪ ˈnɛvɚ pleɪ kəmˈpjutɚ ɡeɪmz",
       "spell": "I never play computer games"
     },
     {
       "def1": "я ніколи не граю на піаніно",
-      "ipa": "aɪ ˈnɛvər pleɪ ðə piˈænoʊ",
+      "ipa": "aɪ ˈnɛvɚ pleɪ ðə piˈænoʊ",
       "spell": "I never play the piano"
     },
     {
@@ -242,7 +242,7 @@
     },
     {
       "def1": "я іноді тренуюся",
-      "ipa": "aɪ səmˈtaɪmz ˈɛksərˌsaɪz",
+      "ipa": "aɪ səmˈtaɪmz ˈɛksɚˌsaɪz",
       "spell": "I sometimes exercise"
     },
     {
@@ -272,27 +272,27 @@
     },
     {
       "def1": "я піду додому після роботи",
-      "ipa": "aɪ wɪl ɡoʊ hoʊm ˈæftər wɜrk",
+      "ipa": "aɪ wɪl ɡoʊ hoʊm ˈæftɚ wɝk",
       "spell": "I will go home after work"
     },
     {
       "def1": "я зустріну цю людину",
-      "ipa": "aɪ wɪl mit ðɪs ˈpɜrsən",
+      "ipa": "aɪ wɪl mit ðɪs ˈpɝsən",
       "spell": "I will meet this person"
     },
     {
       "def1": "я не зустріну цю людину",
-      "ipa": "aɪ wɪl nɑt mit ðɪs ˈpɜrsən",
+      "ipa": "aɪ wɪl nɑt mit ðɪs ˈpɝsən",
       "spell": "I will not meet this person"
     },
     {
       "def1": "я не буду працювати",
-      "ipa": "aɪ wɪl nɑt wɜrk",
+      "ipa": "aɪ wɪl nɑt wɝk",
       "spell": "I will not work"
     },
     {
       "def1": "я буду працювати",
-      "ipa": "aɪ wɪl wɜrk",
+      "ipa": "aɪ wɪl wɝk",
       "spell": "I will work"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "def1": "зустріти друзів після роботи",
-      "ipa": "mit frɛndz ˈæftər wɜrk",
+      "ipa": "mit frɛndz ˈæftɚ wɝk",
       "spell": "meet friends after work"
     },
     {
@@ -337,32 +337,32 @@
     },
     {
       "def1": "допоміжне дієслово \"do/does\"",
-      "ipa": "ði ɑɡˈzɪljəri “du/dʌz”",
+      "ipa": "ði ɑɡˈzɪljɚi “du/dʌz”",
       "spell": "the auxiliary “do/does”"
     },
     {
       "def1": "базова форма дієслова",
-      "ipa": "ðə beɪs fɔrm ʌv ðə vɜrb",
+      "ipa": "ðə beɪs fɔrm ʌv ðə vɝb",
       "spell": "the base form of the verb"
     },
     {
       "def1": "перший раз",
-      "ipa": "ðə fɜrst taɪm",
+      "ipa": "ðə fɝst taɪm",
       "spell": "the first time"
     },
     {
       "def1": "запитання стоїть першим",
-      "ipa": "ðə ˈkwɛsʧən wɜrd kʌmz fɜrst",
+      "ipa": "ðə ˈkwɛsʧən wɝd kʌmz fɝst",
       "spell": "the question word comes first"
     },
     {
       "def1": "поміняти місцями підмет і дієслово",
-      "ipa": "tu ɪnˈvɜrt ðə ˈsʌbʤɪkt ænd ðə vɜrb",
+      "ipa": "tu ɪnˈvɝt ðə ˈsʌbʤɪkt ænd ðə vɝb",
       "spell": "to invert the subject and the verb"
     },
     {
       "def1": "зустріти людину вперше",
-      "ipa": "tu mit ə ˈpɜrsən fɔr ðə fɜrst taɪm",
+      "ipa": "tu mit ə ˈpɝsən fɔr ðə fɝst taɪm",
       "spell": "to meet a person for the first time"
     },
     {
@@ -372,17 +372,17 @@
     },
     {
       "def1": "пожежа вантажівки",
-      "ipa": "ə trʌk ˈfaɪər",
+      "ipa": "ə trʌk ˈfaɪɚ",
       "spell": "a truck fire"
     },
     {
       "def1": "що ти зазвичай робиш у суботу?",
-      "ipa": "wɑt du ju ˈjuʒəwəli du ɑn ˈsætərˌdeɪ!",
+      "ipa": "wɑt du ju ˈjuʒəwəli du ɑn ˈsætɚˌdeɪ!",
       "spell": "what do you usually do on Saturday!"
     },
     {
       "def1": "що ти робитимеш після роботи?",
-      "ipa": "wɑt wɪl ju du ˈæftər wɜrk?",
+      "ipa": "wɑt wɪl ju du ˈæftɚ wɝk?",
       "spell": "what will you do after work?"
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "def1": "порядок слів",
-      "ipa": "ə wɜrd ˈɔrdər",
+      "ipa": "ə wɝd ˈɔrdɚ",
       "spell": "a word order"
     },
     {

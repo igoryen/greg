@@ -44,7 +44,7 @@
       "cefr": "",
       "def2": "",
       "def1": "вони працюють у високій будівлі",
-      "ipa": "ðeɪ wɜrk ɪn ðə tɔl ˈbɪldɪŋ",
+      "ipa": "ðeɪ wɝk ɪn ðə tɔl ˈbɪldɪŋ",
       "spell": "they work in the tall building"
     },
     {
@@ -72,7 +72,7 @@
       "cefr": "",
       "def2": "",
       "def1": "півгодини",
-      "ipa": "hæf ən ˈaʊər",
+      "ipa": "hæf ən ˈaʊɚ",
       "spell": "half an hour"
     },
     {
@@ -121,7 +121,7 @@
       "cefr": "",
       "def2": "",
       "def1": "тверезий",
-      "ipa": "ˈsoʊbər",
+      "ipa": "ˈsoʊbɚ",
       "spell": "sober"
     },
     {
@@ -156,21 +156,21 @@
       "cefr": "",
       "def2": "",
       "def1": "у мене дві сестри",
-      "ipa": "aɪ hæv tu ˈsɪstərz",
+      "ipa": "aɪ hæv tu ˈsɪstɚz",
       "spell": "I have two sisters"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "у мене немає сестер",
-      "ipa": "aɪ du nɑt hæv ˈɛni ˈsɪstərz",
+      "ipa": "aɪ du nɑt hæv ˈɛni ˈsɪstɚz",
       "spell": "I do not have any sisters"
     },
     {
       "cefr": "",
       "def2": "",
       "def1": "футбол",
-      "ipa": "ˈsɑkər",
+      "ipa": "ˈsɑkɚ",
       "spell": "soccer"
     },
     {
@@ -191,7 +191,7 @@
       "cefr": "",
       "def2": "",
       "def1": "ще два брати",
-      "ipa": "tu mɔr ˈbrʌðərz",
+      "ipa": "tu mɔr ˈbrʌðɚz",
       "spell": "two more brothers"
     },
     {
@@ -254,7 +254,7 @@
       "cefr": "",
       "def2": "",
       "def1": "я сьогодні ще не працював",
-      "ipa": "aɪ ˈhævənt wɜrkt təˈdeɪ jɛt",
+      "ipa": "aɪ ˈhævənt wɝkt təˈdeɪ jɛt",
       "spell": "I haven't worked today yet"
     },
     {
@@ -275,7 +275,7 @@
       "cefr": "",
       "def2": "",
       "def1": "я чекаю на неї",
-      "ipa": "aɪ weɪt fɔr hɜr",
+      "ipa": "aɪ weɪt fɔr hɝ",
       "spell": "I wait for her"
     }
   ]

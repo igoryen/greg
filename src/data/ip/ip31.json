@@ -79,21 +79,21 @@
       "cefr": "",
       "def2": "circulus",
       "def1": "коло",
-      "ipa": "ə ˈsɜrkəl",
+      "ipa": "ə ˈsɝkəl",
       "spell": "a circle"
     },
     {
       "cefr": "",
       "def2": "circumducere aliquid",
       "def1": "обвести щось",
-      "ipa": "tu ˈsɜrkəl ˈsʌmθɪŋ",
+      "ipa": "tu ˈsɝkəl ˈsʌmθɪŋ",
       "spell": "to circle something"
     },
     {
       "cefr": "",
       "def2": "circumductum est",
       "def1": "це обведено",
-      "ipa": "ɪt ɪz ˈsɜrkəld",
+      "ipa": "ɪt ɪz ˈsɝkəld",
       "spell": "it is circled"
     },
     {
@@ -107,7 +107,7 @@
       "cefr": "",
       "def2": "cum clientibus loqui",
       "def1": "спілкуватися з клієнтами",
-      "ipa": "tu tɔk tu ðə ˈkʌstəmərz",
+      "ipa": "tu tɔk tu ðə ˈkʌstəmɚz",
       "spell": "to talk to the customers"
     },
     {
@@ -128,7 +128,7 @@
       "cefr": "",
       "def2": "ex voce eius dicere",
       "def1": "розпізнавати по голосу",
-      "ipa": "tu tɛl baɪ hɜr vɔɪs",
+      "ipa": "tu tɛl baɪ hɝ vɔɪs",
       "spell": "to tell by her voice"
     },
     {
@@ -275,21 +275,21 @@
       "cefr": "",
       "def2": "iuxta sedere",
       "def1": "сидіти поруч",
-      "ipa": "tu sɪt nɛkst tu iʧ ˈʌðər",
+      "ipa": "tu sɪt nɛkst tu iʧ ˈʌðɚ",
       "spell": "to sit next to each other"
     },
     {
       "cefr": "",
       "def2": "laetane est eam iterum videre?",
       "def1": "вона рада знову її побачити?",
-      "ipa": "ɪz ʃi ˈhæpi tu si hɜr əˈɡɛn?",
+      "ipa": "ɪz ʃi ˈhæpi tu si hɝ əˈɡɛn?",
       "spell": "is she happy to see her again?"
     },
     {
       "cefr": "",
       "def2": "laetus eam iterum videre",
       "def1": "радий знову її побачити",
-      "ipa": "ˈhæpi tu si hɜr əˈɡɛn",
+      "ipa": "ˈhæpi tu si hɝ əˈɡɛn",
       "spell": "happy to see her again"
     },
     {
@@ -303,7 +303,7 @@
       "cefr": "",
       "def2": "meministine?",
       "def1": "ти пам'ятаєш?",
-      "ipa": "du ju rɪˈmɛmbər?",
+      "ipa": "du ju rɪˈmɛmbɚ?",
       "spell": "do you remember?"
     },
     {
@@ -324,7 +324,7 @@
       "cefr": "",
       "def2": "non impleo tuum cisternam",
       "def1": "я не заправляю твій бак",
-      "ipa": "aɪ doʊnt fɪl jʊər tæŋk",
+      "ipa": "aɪ doʊnt fɪl jʊɚ tæŋk",
       "spell": "I don't fill your tank"
     },
     {
@@ -373,7 +373,7 @@
       "cefr": "",
       "def2": "operarisne hodie?",
       "def1": "ти сьогодні працюєш?",
-      "ipa": "du ju wɜrk təˈdeɪ?",
+      "ipa": "du ju wɝk təˈdeɪ?",
       "spell": "do you work today?"
     },
     {
@@ -394,14 +394,14 @@
       "cefr": "",
       "def2": "properare debeo",
       "def1": "мені потрібно поспішати",
-      "ipa": "aɪ nid tu ˈhɜri",
+      "ipa": "aɪ nid tu ˈhɝi",
       "spell": "I need to hurry"
     },
     {
       "cefr": "",
       "def2": "quam iucundum mirum!",
       "def1": "який приємний сюрприз!",
-      "ipa": "wɑt ə naɪs sərˈpraɪz!",
+      "ipa": "wɑt ə naɪs sɚˈpraɪz!",
       "spell": "what a nice surprise!"
     },
     {
@@ -485,7 +485,7 @@
       "cefr": "",
       "def2": "tuam cisternam imples",
       "def1": "ти заправляєш свій бак",
-      "ipa": "ju fɪl jʊər tæŋk",
+      "ipa": "ju fɪl jʊɚ tæŋk",
       "spell": "you fill your tank"
     },
     {
@@ -527,14 +527,14 @@
       "cefr": "",
       "def2": "unde eius volatus?",
       "def1": "звідки її рейс?",
-      "ipa": "wɛr ɪz hɜr flaɪt frʌm?",
+      "ipa": "wɛr ɪz hɝ flaɪt frʌm?",
       "spell": "where is her flight from?"
     },
     {
       "cefr": "",
       "def2": "ut unicum verbum",
       "def1": "як одне слово",
-      "ipa": "laɪk ə ˈsɪŋɡəl wɜrd",
+      "ipa": "laɪk ə ˈsɪŋɡəl wɝd",
       "spell": "like a single word"
     },
     {
@@ -548,35 +548,35 @@
       "cefr": "",
       "def2": "verba coniuncta",
       "def1": "пов'язані слова",
-      "ipa": "lɪŋkt wɜrdz",
+      "ipa": "lɪŋkt wɝdz",
       "spell": "linked words"
     },
     {
       "cefr": "",
       "def2": "verba coniungere",
       "def1": "зв'язувати слова",
-      "ipa": "tu lɪŋk wɜrdz",
+      "ipa": "tu lɪŋk wɝdz",
       "spell": "to link words"
     },
     {
       "cefr": "",
       "def2": "verba coniungimus",
       "def1": "ми зв'язуємо слова",
-      "ipa": "wi lɪŋk ðə wɜrdz",
+      "ipa": "wi lɪŋk ðə wɝdz",
       "spell": "we link the words"
     },
     {
       "cefr": "",
       "def2": "verbum",
       "def1": "дієслово",
-      "ipa": "ə vɜrb",
+      "ipa": "ə vɝb",
       "spell": "a verb"
     },
     {
       "cefr": "",
       "def2": "vocem eius audi",
       "def1": "слухай її голос",
-      "ipa": "ˈlɪsən tu hɜr vɔɪs",
+      "ipa": "ˈlɪsən tu hɝ vɔɪs",
       "spell": "listen to her voice"
     },
     {
