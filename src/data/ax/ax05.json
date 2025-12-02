@@ -1,0 +1,644 @@
+{
+  "student": "Andrew S.",
+  "slug": "as",
+  "period": "week",
+  "number": 45,
+  "date": "2025-11-07",
+  "words": [
+    {
+      "def1": "книга для чтения",
+      "ipa": "ə бʊк ту рид",
+      "spell": "a book to read"
+    },
+    {
+      "def1": "чек-лист",
+      "ipa": "ə ˈчэˌклɪст",
+      "spell": "a checklist"
+    },
+    {
+      "def1": "корова - это не человек",
+      "ipa": "ə кау ɪз нɑт ə ˈпɝсəн",
+      "spell": "a cow is not a person"
+    },
+    {
+      "def1": "корова не человек",
+      "ipa": "ə кау ɪз нɑт ˈhъюмəн",
+      "spell": "a cow is not human"
+    },
+    {
+      "def1": "мёртвый человек, т.е. гомо-сапиенс",
+      "ipa": "ə дэд ˈhъюмəн",
+      "spell": "a dead human"
+    },
+    {
+      "def1": "мёртвый человек",
+      "ipa": "ə дэд ˈпɝсəн",
+      "spell": "a dead person"
+    },
+    {
+      "def1": "оценка, отметка",
+      "ipa": "ə грэйд",
+      "spell": "a grade"
+    },
+    {
+      "def1": "гостиничная парковка",
+      "ipa": "ə hоуˈтэл ˈпɑркɪŋ лɑт",
+      "spell": "a hotel parking lot"
+    },
+    {
+      "def1": "огромный драгоценный камень",
+      "ipa": "ə hъюдж ˈджуəл",
+      "spell": "a huge jewel"
+    },
+    {
+      "def1": "драгоценный камень",
+      "ipa": "ə ˈджуəл",
+      "spell": "a jewel"
+    },
+    {
+      "def1": "кинозвезда",
+      "ipa": "ə ˈмуви стɑр",
+      "spell": "a movie star"
+    },
+    {
+      "def1": "человек, люди",
+      "ipa": "ə ˈпɝсəн, ˈпипəл",
+      "spell": "a person, people"
+    },
+    {
+      "def1": "фраза",
+      "ipa": "ə фрэйз",
+      "spell": "a phrase"
+    },
+    {
+      "def1": "место, куда можно пойти",
+      "ipa": "ə плэйс ту гоу",
+      "spell": "a place to go"
+    },
+    {
+      "def1": "резиновый грабитель",
+      "ipa": "ə ˈрʌбɚ ˈрɑбɚ",
+      "spell": "a rubber robber"
+    },
+    {
+      "def1": "научно-фантастический фильм",
+      "ipa": "ə си-фай ˈмуви",
+      "spell": "a sci-fi movie"
+    },
+    {
+      "def1": "отпуск, проведённый дома",
+      "ipa": "ə стэй-кэйшəн",
+      "spell": "a stay-cation"
+    },
+    {
+      "def1": "забастовка",
+      "ipa": "ə страйк",
+      "spell": "a strike"
+    },
+    {
+      "def1": "конспект; сводка; краткое изложение",
+      "ipa": "ə ˈсʌмɚи",
+      "spell": "a summary"
+    },
+    {
+      "def1": "отпуск",
+      "ipa": "ə вэйˈкэйшəн",
+      "spell": "a vacation"
+    },
+    {
+      "def1": "вид на парк",
+      "ipa": "ə въю ʌв ðə пɑрк",
+      "spell": "a view of the park"
+    },
+    {
+      "def1": "год",
+      "ipa": "ə йɪр",
+      "spell": "a year"
+    },
+    {
+      "def1": "здание 10",
+      "ipa": "ˈбɪлдɪŋ тэн",
+      "spell": "building ten"
+    },
+    {
+      "def1": "сельская местность, село",
+      "ipa": "ˈкʌнтриˌсайд",
+      "spell": "countryside"
+    },
+    {
+      "def1": "двойное отрицание",
+      "ipa": "ə ˈдʌбəл ˈнэгəтɪв",
+      "spell": "a double negative"
+    },
+    {
+      "def1": "в 1863-м г.",
+      "ipa": "ɪн эйˈтин ˈсɪксти-θри",
+      "spell": "in eighteen sixty-three"
+    },
+    {
+      "def1": "фальшивый, ложный",
+      "ipa": "фɔлс",
+      "spell": "FALSE"
+    },
+    {
+      "def1": "беллетристика, художественная литература; вымысел",
+      "ipa": "ˈфɪкшəн",
+      "spell": "fiction"
+    },
+    {
+      "def1": "дом 5",
+      "ipa": "hаус файв",
+      "spell": "house five"
+    },
+    {
+      "def1": "я из большой семьи",
+      "ipa": "ай æм фрʌм ə бɪг ˈфæмəли",
+      "spell": "I am from a big family"
+    },
+    {
+      "def1": "я весьма этим разочарован",
+      "ipa": "ай æм кwайт ˌдɪсəˈпойнтɪд wɪð ɪт",
+      "spell": "I am quite disappointed with it"
+    },
+    {
+      "def1": "я могу тебе помочь",
+      "ipa": "ай кæн hэлп ю",
+      "spell": "I can help you"
+    },
+    {
+      "def1": "я немного поплавал",
+      "ipa": "ай дɪд сʌм ˈсwɪмɪŋ",
+      "spell": "I did some swimming"
+    },
+    {
+      "def1": "я не обязан этим заниматься",
+      "ipa": "ай доунт hæв ту ду ðɪс",
+      "spell": "I don’t have to do this"
+    },
+    {
+      "def1": "я завидую тебе",
+      "ipa": "ай ˈэнви ю",
+      "spell": "I envy you"
+    },
+    {
+      "def1": "мне больше нравятся триллеры",
+      "ipa": "ай лайк ˈθрɪлɚз ˈбэтɚ",
+      "spell": "I like thrillers better"
+    },
+    {
+      "def1": "я живу рядом с океаном",
+      "ipa": "ай лɪв нэкст ту ðи ˈоушəн",
+      "spell": "I live next to the ocean"
+    },
+    {
+      "def1": "я видел, как они прыгают",
+      "ipa": "ай сɔ ðэм джʌмп",
+      "spell": "I saw them jump"
+    },
+    {
+      "def1": "я плавал",
+      "ipa": "ай сwæм",
+      "spell": "I swam"
+    },
+    {
+      "def1": "я отдохнул",
+      "ipa": "ай тʊк ə рэст",
+      "spell": "I took a rest"
+    },
+    {
+      "def1": "я хочу что-нибудь сделать",
+      "ipa": "ай wɑнт ту ду ˈсʌмθɪŋ",
+      "spell": "I want to do something"
+    },
+    {
+      "def1": "я был разочарован",
+      "ipa": "ай wʌз ˌдɪсəˈпойнтɪд",
+      "spell": "I was disappointed"
+    },
+    {
+      "def1": "я был перегружен",
+      "ipa": "ай wʌз ошеломлен, потрясен",
+      "spell": "I was ошеломлён, потрясён"
+    },
+    {
+      "def1": "я был разочарован (меня это не впечатлило)",
+      "ipa": "ай wʌз ˌʌндɚˈwэлмд",
+      "spell": "I was underwhelmed"
+    },
+    {
+      "def1": "я не был удивлён",
+      "ipa": "ай ˈwɑзəнт сɚˈпрайзд",
+      "spell": "I wasn’t surprised"
+    },
+    {
+      "def1": "я вышел на улицу",
+      "ipa": "ай wэнт ˈаутˈсайд",
+      "spell": "I went outside"
+    },
+    {
+      "def1": "в пригороде",
+      "ipa": "ɪн ðə ˈсʌбɚбз",
+      "spell": "in the suburbs"
+    },
+    {
+      "def1": "эта история правдива?",
+      "ipa": "ɪз ðɪс ˈстори тру?",
+      "spell": "is this story true?"
+    },
+    {
+      "def1": "оно знаменито ограблением",
+      "ipa": "ɪт ɪз ˈфэймəс фор ə ˈрɑбɚи",
+      "spell": "it is famous for a robbery"
+    },
+    {
+      "def1": "становится всё холоднее и холоднее",
+      "ipa": "ɪт ɪз ˈгэтɪŋ ˈкоулдɚ æнд ˈкоулдɚ",
+      "spell": "it is getting colder and colder"
+    },
+    {
+      "def1": "оно служит тебе домом",
+      "ipa": "ɪт ɪз hоум ту ю",
+      "spell": "it is home to you"
+    },
+    {
+      "def1": "это картинка номер четыре",
+      "ipa": "ɪт ɪз ˈпɪкчɚ фор",
+      "spell": "it is picture four"
+    },
+    {
+      "def1": "это четвёртая картинка",
+      "ipa": "ɪт ɪз ðə форθ ˈпɪкчɚ",
+      "spell": "it is the fourth picture"
+    },
+    {
+      "def1": "шёл дождь",
+      "ipa": "ɪт рэйнд",
+      "spell": "it rained"
+    },
+    {
+      "def1": "мне потребовалось десять минут, чтобы припарковать машину",
+      "ipa": "ɪт тʊк ми тэн ˈмɪнəтс ту пɑрк май кɑр",
+      "spell": "it took me ten minutes to park my car"
+    },
+    {
+      "def1": "это был его дом",
+      "ipa": "ɪт wʌз hɪз hоум",
+      "spell": "it was his home"
+    },
+    {
+      "def1": "это служило ему домом",
+      "ipa": "ɪт wʌз hоум ту hɪм",
+      "spell": "it was home to him"
+    },
+    {
+      "def1": "это было очень легко украсть",
+      "ipa": "ɪт wʌз ˈвэри ˈизи ту стил",
+      "spell": "it was very easy to steal"
+    },
+    {
+      "def1": "это правдивая история",
+      "ipa": "ɪтс ə тру ˈстори",
+      "spell": "it’s a true story"
+    },
+    {
+      "def1": "это в центре города",
+      "ipa": "ɪтс ɪн ðə ˈсэнтɚ ʌв ðə ˈсɪти",
+      "spell": "it’s in the center of the city"
+    },
+    {
+      "def1": "это не ложь (не выдумка)",
+      "ipa": "ɪтс нɑт ə лай",
+      "spell": "it’s not a lie"
+    },
+    {
+      "def1": "здесь довольно тихо",
+      "ipa": "ɪтс кwайт ˈкwайəт hир",
+      "spell": "it’s quite quiet here"
+    },
+    {
+      "def1": "я новичок за рулём",
+      "ipa": "айм ə ну ˈдрайвɚ",
+      "spell": "I’m a new driver"
+    },
+    {
+      "def1": "я сегодня неважно себя чувствую",
+      "ipa": "айм нɑт wэл тəˈдэй",
+      "spell": "I’m not well today"
+    },
+    {
+      "def1": "украшения",
+      "ipa": "ˈджуəлри",
+      "spell": "jewelry"
+    },
+    {
+      "def1": "приземление",
+      "ipa": "ˈлæндɪŋ",
+      "spell": "landing"
+    },
+    {
+      "def1": "оставь меня в покое!",
+      "ipa": "лив ми əˈлоун!",
+      "spell": "leave me alone!"
+    },
+    {
+      "def1": "оставь меня!",
+      "ipa": "лив ми!",
+      "spell": "leave me!"
+    },
+    {
+      "def1": "оставь машину",
+      "ipa": "лив ðə кɑр",
+      "spell": "leave the car"
+    },
+    {
+      "def1": "уходи из дома!",
+      "ipa": "лив ðə hаус!",
+      "spell": "leave the house!"
+    },
+    {
+      "def1": "уходи!",
+      "ipa": "лив!",
+      "spell": "leave!"
+    },
+    {
+      "def1": "загрузил",
+      "ipa": "ˈлоудɪд",
+      "spell": "loaded"
+    },
+    {
+      "def1": "ниже или выше",
+      "ipa": "ˈлоуɚ ор ˈhайɚ",
+      "spell": "lower or higher"
+    },
+    {
+      "def1": "предметы роскоши",
+      "ipa": "ˈлʌгжɚи θɪŋз",
+      "spell": "luxury things"
+    },
+    {
+      "def1": "современный разговор",
+      "ipa": "ˈмɑдɚн ˈтɔкɪŋ",
+      "spell": "modern talking"
+    },
+    {
+      "def1": "гораздо дешевле",
+      "ipa": "мʌч ˈчипɚ",
+      "spell": "much cheaper"
+    },
+    {
+      "def1": "публицистика, документальная литература",
+      "ipa": "нɑнˈфɪкшəн",
+      "spell": "non-fiction"
+    },
+    {
+      "def1": "Норвегия",
+      "ipa": "ˈнорˌwэй",
+      "spell": "Norway"
+    },
+    {
+      "def1": "не моя вина",
+      "ipa": "нɑт май фɔлт",
+      "spell": "not my fault"
+    },
+    {
+      "def1": "страница один",
+      "ipa": "пэйдж wʌн",
+      "spell": "page one"
+    },
+    {
+      "def1": "припаркуйте свой автомобиль",
+      "ipa": "пɑрк ю кɑр",
+      "spell": "park you car"
+    },
+    {
+      "def1": "парковка",
+      "ipa": "ˈпɑркɪŋ",
+      "spell": "parking"
+    },
+    {
+      "def1": "парковка моей машины заняла у меня десять минут",
+      "ipa": "ˈпɑркɪŋ май кɑр тʊк ми тэн ˈмɪнəтс",
+      "spell": "parking my car took me ten minutes"
+    },
+    {
+      "def1": "навыки парковки",
+      "ipa": "ˈпɑркɪŋ скɪлз",
+      "spell": "parking skills"
+    },
+    {
+      "def1": "парковщики помогают вам с парковкой",
+      "ipa": "ˈпɑркɪŋ вæˈлэйз hэлп ю wɪð ˈпɑркɪŋ",
+      "spell": "parking valets help you with parking"
+    },
+    {
+      "def1": "картинка под буквой \"Ф\"\"",
+      "ipa": "ˈпɪкчɚ эф",
+      "spell": "picture F"
+    },
+    {
+      "def1": "ораторское искусство",
+      "ipa": "ˈпʌблɪк ˈспикɪŋ",
+      "spell": "public speaking"
+    },
+    {
+      "def1": "тихий",
+      "ipa": "ˈкwайəт",
+      "spell": "quiet"
+    },
+    {
+      "def1": "тихий, тише",
+      "ipa": "ˈкwайəт, ˈкwайəтɚ",
+      "spell": "quiet, quieter"
+    },
+    {
+      "def1": "довольно",
+      "ipa": "кwайт",
+      "spell": "quite"
+    },
+    {
+      "def1": "грабь!",
+      "ipa": "рɑб!",
+      "spell": "rob!"
+    },
+    {
+      "def1": "ограбление",
+      "ipa": "ˈрɑбɚи",
+      "spell": "robbery"
+    },
+    {
+      "def1": "три, три, три!",
+      "ipa": "рʌб!",
+      "spell": "rub!"
+    },
+    {
+      "def1": "резиновый",
+      "ipa": "ˈрʌбɚи",
+      "spell": "rubbery"
+    },
+    {
+      "def1": "скажи «анекдот»",
+      "ipa": "сэй ə джоук",
+      "spell": "say a joke"
+    },
+    {
+      "def1": "научная фантастика",
+      "ipa": "ˈсайəнс ˈфɪкшəн",
+      "spell": "science fiction"
+    },
+    {
+      "def1": "она хороший человек",
+      "ipa": "щиз ə найс ˈпɝсəн",
+      "spell": "she’s a nice person"
+    },
+    {
+      "def1": "пока что",
+      "ipa": "соу фɑр",
+      "spell": "so far"
+    },
+    {
+      "def1": "говорить по-английски",
+      "ipa": "спик ˈɪŋглɪш",
+      "spell": "speak English"
+    },
+    {
+      "def1": "расскажи мне анекдот",
+      "ipa": "тэл ми ə джоук",
+      "spell": "tell me a joke"
+    },
+    {
+      "def1": "самый успешный",
+      "ipa": "ðə моуст сəкˈсэсфəл",
+      "spell": "the most successful"
+    },
+    {
+      "def1": "океан совсем близко",
+      "ipa": "ðи ˈоушəн ɪз ˈвэри клоус",
+      "spell": "the ocean is very close"
+    },
+    {
+      "def1": "тепло от Гольфстрима",
+      "ipa": "ðə wормθ фрʌм ðə гʌлф стрим",
+      "spell": "the warmth from the Gulf Stream"
+    },
+    {
+      "def1": "нет ванны",
+      "ipa": "ðэр ˈɪзəнт ə ˈбæθтəб",
+      "spell": "there isn’t a bathtub"
+    },
+    {
+      "def1": "есть ванна",
+      "ipa": "ðэрз ə ˈбæθтəб",
+      "spell": "there’s a bathtub"
+    },
+    {
+      "def1": "нет ванны",
+      "ipa": "ðэрз ноу ˈбæθтəб",
+      "spell": "there’s no bathtub"
+    },
+    {
+      "def1": "говорят",
+      "ipa": "ðэй сэй",
+      "spell": "they say"
+    },
+    {
+      "def1": "они говорят об этом",
+      "ipa": "ðэй спик əˈбаут ɪт",
+      "spell": "they speak about it"
+    },
+    {
+      "def1": "они разговаривают об этом",
+      "ipa": "ðэй тɔк əˈбаут ɪт",
+      "spell": "they talk about it"
+    },
+    {
+      "def1": "они рассказывают об этом",
+      "ipa": "ðэй тэл əˈбаут ɪт",
+      "spell": "they tell about it"
+    },
+    {
+      "def1": "они были смешнее",
+      "ipa": "ðэй wɝ ˈфʌниɚ",
+      "spell": "they were funnier"
+    },
+    {
+      "def1": "эта история правдива",
+      "ipa": "ðɪс ˈстори ɪз тру",
+      "spell": "this story is true"
+    },
+    {
+      "def1": "триллеры",
+      "ipa": "ˈθрɪлɚз",
+      "spell": "thrillers"
+    },
+    {
+      "def1": "вызывать, звать",
+      "ipa": "ту кɔл",
+      "spell": "to call"
+    },
+    {
+      "def1": "вместе с ним",
+      "ipa": "тəˈгэðɚ wɪð hɪм",
+      "spell": "together with him"
+    },
+    {
+      "def1": "повысить или понизить температуру",
+      "ipa": "тɝн ðə ˈтэмпрəчɚ ʌп ор даун",
+      "spell": "turn the temperature up or down"
+    },
+    {
+      "def1": "мы все люди",
+      "ipa": "wи ɑр ɔл ˈhъюмəн",
+      "spell": "we are all human"
+    },
+    {
+      "def1": "мы все люди",
+      "ipa": "wи ɑр ɔл ˈпɝсəнз",
+      "spell": "we are all persons"
+    },
+    {
+      "def1": "были, не были",
+      "ipa": "wɝ, ˈwɝəнт",
+      "spell": "were, weren’t"
+    },
+    {
+      "def1": "где ты был на войне?",
+      "ipa": "wэр wɝ ю æт wор?",
+      "spell": "where were you at war?"
+    },
+    {
+      "def1": "кому ты звонишь (сейчас)?",
+      "ipa": "hу ɑр ю ˈкɔлɪŋ?",
+      "spell": "who are you calling?"
+    },
+    {
+      "def1": "кто звонит (сейчас)?",
+      "ipa": "hу ɪз ˈкɔлɪŋ?",
+      "spell": "who is calling?"
+    },
+    {
+      "def1": "без ордера",
+      "ipa": "wɪˈθаут ə ˈwорəнт",
+      "spell": "without a warrant"
+    },
+    {
+      "def1": "работа, которую нужно сделать",
+      "ipa": "wɝк ту ду",
+      "spell": "work to do"
+    },
+    {
+      "def1": "ты рассказываешь сказку",
+      "ipa": "ю тэл ə тэйл",
+      "spell": "you tell a tale"
+    },
+    {
+      "def1": "ты ждал",
+      "ipa": "ю ˈwэйтɪд",
+      "spell": "you waited"
+    },
+    {
+      "def1": "ты смотришь комедии",
+      "ipa": "ю wɑч ˈкɑмəдиз",
+      "spell": "you watch comedies"
+    }
+  ]
+}
