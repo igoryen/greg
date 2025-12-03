@@ -94,6 +94,18 @@ const Prenu = (props) => {
             </div>
 
             <div className="henry">
+
+                <div className="mike">
+                    <p>...</p>
+                    <p>I work with <i>him</i>.</p>
+                    <p>You work with  <i>them</i>.</p>
+                    <p>He works with  <i>me</i>.</p>
+                    <p>She works with  <i>us</i>.</p>
+                    <p>It works with  <i>her</i>.</p>
+                    <p>We work with  <i>you</i>.</p>
+                    <p>They work with  <i>it</i>.</p>
+                </div>
+
                 <div className="mike">
                     <p>👁️👁️👓👀🤓</p>
                     <p>I see <i>him</i>.</p>
