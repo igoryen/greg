@@ -18,7 +18,7 @@ const Sidju = () => {
         { label: "Kalsa", path: "/kalsa", desc: "The Chaos (1922)" },
         { label: "Kooi", path: "/kooi", desc: "imperatives" },
         { label: "Linsi", path: "/linsi", desc: "bookmarks to web resources" },
-        { label: "Prenu", path: "/prenu", desc: "possessive pronouns" },
+        { label: "Prenu", path: "/prenu", desc: "pronouns" },
         { label: "Rimni", path: "/rimni", desc: "IPA symbols" },
         { label: "Ruo", path: "/ruo", desc: "IPA to Cyrillic converter" },
         { label: "Smuni", path: "/smuni", desc: "Interlinear texts" },
