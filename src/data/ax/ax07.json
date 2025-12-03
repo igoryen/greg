@@ -1,0 +1,1304 @@
+{
+  "student": "Andrew S.",
+  "slug": "ax",
+  "period": "week",
+  "number": 48,
+  "date": "2025-11-28",
+  "words": [
+    {
+      "def1": "задний двор",
+      "ipa": "ə ˈбæˌкйɑрд",
+      "spell": "a backyard"
+    },
+    {
+      "def1": "прекрасная пора",
+      "ipa": "ə ˈбъютəфəл ˈсизəн",
+      "spell": "a beautiful season"
+    },
+    {
+      "def1": "кошачий хвост",
+      "ipa": "ə кæтс тэйл",
+      "spell": "a cat’s tail"
+    },
+    {
+      "def1": "концерт",
+      "ipa": "ə ˈкɑнсɝт",
+      "spell": "a concert"
+    },
+    {
+      "def1": "полицейский у двери",
+      "ipa": "ə кɑп æт ðə дор",
+      "spell": "a cop at the door"
+    },
+    {
+      "def1": "собачий нос",
+      "ipa": "ə дɔгз ноуз",
+      "spell": "a dog’s nose"
+    },
+    {
+      "def1": "дурак",
+      "ipa": "ə фул",
+      "spell": "a fool"
+    },
+    {
+      "def1": "предплечье",
+      "ipa": "ə ˈфɔˌрɑрм",
+      "spell": "a forearm"
+    },
+    {
+      "def1": "инородное тело",
+      "ipa": "ə ˈфорəн ˈбɑди",
+      "spell": "a foreign body"
+    },
+    {
+      "def1": "иностранец",
+      "ipa": "ə ˈфорəнɚ",
+      "spell": "a foreigner"
+    },
+    {
+      "def1": "банда",
+      "ipa": "ə гæŋ",
+      "spell": "a gang"
+    },
+    {
+      "def1": "хорошая концовка",
+      "ipa": "ə гʊд ˈэндɪŋ",
+      "spell": "a good ending"
+    },
+    {
+      "def1": "рука",
+      "ipa": "ə hæнд",
+      "spell": "a hand"
+    },
+    {
+      "def1": "много людей",
+      "ipa": "ə лɑт ʌв ˈпипəл",
+      "spell": "a lot of people"
+    },
+    {
+      "def1": "название места",
+      "ipa": "ə плэйс нэйм",
+      "spell": "a place name"
+    },
+    {
+      "def1": "русскоговорящий",
+      "ipa": "ə ˈрʌшəн ˈспикɚ",
+      "spell": "a Russian speaker"
+    },
+    {
+      "def1": "русофон",
+      "ipa": "ə ˈрʌсəфоун",
+      "spell": "a Russophone"
+    },
+    {
+      "def1": "саморез, шуруп",
+      "ipa": "ə скру",
+      "spell": "a screw"
+    },
+    {
+      "def1": "скульптура",
+      "ipa": "ə ˈскʌлпчɚ",
+      "spell": "a sculpture"
+    },
+    {
+      "def1": "кусок пиццы",
+      "ipa": "ə слайс ʌв ˈпитсə",
+      "spell": "a slice of pizza"
+    },
+    {
+      "def1": "статуя",
+      "ipa": "ə ˈстæˌчу",
+      "spell": "a statue"
+    },
+    {
+      "def1": "незнакомец",
+      "ipa": "ə ˈстрэйнджɚ",
+      "spell": "a stranger"
+    },
+    {
+      "def1": "влюблённая женщина",
+      "ipa": "ə ˈwʊмəн ɪн лʌв",
+      "spell": "a woman in love"
+    },
+    {
+      "def1": "про их жизни",
+      "ipa": "əˈбаут ðэр лɪвз",
+      "spell": "about their lives"
+    },
+    {
+      "def1": "квартира (AmE)",
+      "ipa": "əн əˈпɑртмəнт",
+      "spell": "an apartment"
+    },
+    {
+      "def1": "рука",
+      "ipa": "əн ɑрм",
+      "spell": "an arm"
+    },
+    {
+      "def1": "экспонат",
+      "ipa": "əн ɪгˈзɪбɪт",
+      "spell": "an exhibit"
+    },
+    {
+      "def1": "выставка",
+      "ipa": "əн ˌэксəˈбɪшəн",
+      "spell": "an exhibition"
+    },
+    {
+      "def1": "рожок мороженого",
+      "ipa": "əн айс крим коун",
+      "spell": "an ice cream cone"
+    },
+    {
+      "def1": "предложение",
+      "ipa": "əн ˈɔфɚ",
+      "spell": "an offer"
+    },
+    {
+      "def1": "андреева работа",
+      "ipa": "ˈæнˌдруз джɑб",
+      "spell": "Andrew’s job"
+    },
+    {
+      "def1": "там много русских людей?",
+      "ipa": "ɑр ðэр ə лɑт ʌв ˈрʌшəн ˈпипəл ðэр?",
+      "spell": "are there a lot of Russian people there?"
+    },
+    {
+      "def1": "как правило",
+      "ipa": "æз ə рул",
+      "spell": "as a rule"
+    },
+    {
+      "def1": "будь осторожен, с кем разговариваешь",
+      "ipa": "би ˈкэрфəл hу ю тɔк ту",
+      "spell": "be careful who you talk to"
+    },
+    {
+      "def1": "потому что она предложила подвезти его домой",
+      "ipa": "бɪˈкɔз щи ˈɔфɚд ту драйв hɪм hоум",
+      "spell": "because she offered to drive him home"
+    },
+    {
+      "def1": "спокойный",
+      "ipa": "кɑм",
+      "spell": "calm"
+    },
+    {
+      "def1": "классическая музыка",
+      "ipa": "ˈклæсɪкəл ˈмъюзɪк",
+      "spell": "classical music"
+    },
+    {
+      "def1": "иди домой!",
+      "ipa": "кʌм hоум!",
+      "spell": "come home!"
+    },
+    {
+      "def1": "общераспространённый",
+      "ipa": "ˈкɑмəн",
+      "spell": "common"
+    },
+    {
+      "def1": "ты пришёл домой?",
+      "ipa": "дɪд ю кʌм hоум?",
+      "spell": "did you come home?"
+    },
+    {
+      "def1": "ты получил это обратно?",
+      "ipa": "дɪд ю гэт ɪт бæк?",
+      "spell": "did you get it back?"
+    },
+    {
+      "def1": "ты ходил/пошёл домой?",
+      "ipa": "дɪд ю гоу hоум?",
+      "spell": "did you go home?"
+    },
+    {
+      "def1": "ты ходил в спортзал?",
+      "ipa": "дɪд ю гоу ту ðə джɪм?",
+      "spell": "did you go to the gym?"
+    },
+    {
+      "def1": "ты слышал, что Metallica в городе?",
+      "ipa": "дɪд ю hир мəˈтæлɪкə ɪз ɪн таун?",
+      "spell": "did you hear Metallica is in town?"
+    },
+    {
+      "def1": "разве ты не знал?",
+      "ipa": "ˈдɪдəнт ю ноу?",
+      "spell": "didn’t you know?"
+    },
+    {
+      "def1": "разве ты не играл в футбол вчера?",
+      "ipa": "ˈдɪдəнт ю плэй ˈсɑкɚ ˈйэстɚˌдэй?",
+      "spell": "didn’t you play soccer yesterday?"
+    },
+    {
+      "def1": "не приходи домой",
+      "ipa": "доунт кʌм hоум",
+      "spell": "don’t come home"
+    },
+    {
+      "def1": "не лети домой",
+      "ipa": "доунт флай hоум",
+      "spell": "don’t fly home"
+    },
+    {
+      "def1": "не иди домой",
+      "ipa": "доунт гоу hоум",
+      "spell": "don’t go home"
+    },
+    {
+      "def1": "не беги домой",
+      "ipa": "доунт рʌн hоум",
+      "spell": "don’t run home"
+    },
+    {
+      "def1": "не напортачь",
+      "ipa": "доунт скру ðɪс ʌп",
+      "spell": "don’t screw this up"
+    },
+    {
+      "def1": "не разговаривай с ним",
+      "ipa": "доунт тɔк ту hɪм",
+      "spell": "don’t talk to him"
+    },
+    {
+      "def1": "не разговаривай с незнакомцами",
+      "ipa": "доунт тɔк ту ˈстрэйнджɚз",
+      "spell": "don’t talk to strangers"
+    },
+    {
+      "def1": "подвези его домой",
+      "ipa": "драйв hɪм hоум",
+      "spell": "drive him home"
+    },
+    {
+      "def1": "поезжай домой",
+      "ipa": "драйв hоум",
+      "spell": "drive home"
+    },
+    {
+      "def1": "каждый из моих одноклассников",
+      "ipa": "ич ʌв май ˈклæˌсмэйтс",
+      "spell": "each of my classmates"
+    },
+    {
+      "def1": "всё лежит на поверхности",
+      "ipa": "ˈэвриˌθɪŋ ɪз ɑн ðə ˈсɝфəс",
+      "spell": "everything is on the surface"
+    },
+    {
+      "def1": "взволнованный, взбудораженный",
+      "ipa": "ɪкˈсайтɪд",
+      "spell": "excited"
+    },
+    {
+      "def1": "пятнадцатый, пятидесятый",
+      "ipa": "фɪфˈтинθ, ˈфɪфтиɪθ",
+      "spell": "fifteenth, fiftieth"
+    },
+    {
+      "def1": "лети домой",
+      "ipa": "флай hоум",
+      "spell": "fly home"
+    },
+    {
+      "def1": "для кого?",
+      "ipa": "фор hум?",
+      "spell": "for whom?"
+    },
+    {
+      "def1": "иностранный, чуждый, посторонний",
+      "ipa": "ˈфорəн",
+      "spell": "foreign"
+    },
+    {
+      "def1": "иди",
+      "ipa": "гоу",
+      "spell": "go"
+    },
+    {
+      "def1": "иди домой!",
+      "ipa": "гоу hоум!",
+      "spell": "go home!"
+    },
+    {
+      "def1": "имей, съешь!",
+      "ipa": "hæв",
+      "spell": "have"
+    },
+    {
+      "def1": "съешь банан",
+      "ipa": "hæв ə бəˈнæнə!",
+      "spell": "have a banana!"
+    },
+    {
+      "def1": "он впервые увидел её на станции",
+      "ipa": "hи фɝст сɔ hɝ æт ðə ˈстэйшəн",
+      "spell": "he first saw her at the station"
+    },
+    {
+      "def1": "у него было больше вещей",
+      "ipa": "hи hæд мор θɪŋз",
+      "spell": "he had more things"
+    },
+    {
+      "def1": "он влюблён в неё",
+      "ipa": "hи ɪз ɪн лʌв wɪð hɝ",
+      "spell": "he is in love with her"
+    },
+    {
+      "def1": "он оставил, покинул, ушёл",
+      "ipa": "hи лэфт",
+      "spell": "he left"
+    },
+    {
+      "def1": "он оставил его там",
+      "ipa": "hи лэфт ɪт ðэр",
+      "spell": "he left it there"
+    },
+    {
+      "def1": "он потерял много личных вещей",
+      "ipa": "hи лɔст ə лɑт ʌв ˈпɝсɪнɪл стʌф",
+      "spell": "he lost a lot of personal stuff"
+    },
+    {
+      "def1": "он сделал отчёт",
+      "ipa": "hи мэйд ə рɪˈпорт",
+      "spell": "he made a report"
+    },
+    {
+      "def1": "он встретил её на вокзале",
+      "ipa": "hи мэт hɝ æт ðə трэйн ˈстэйшəн",
+      "spell": "he met her at the train station"
+    },
+    {
+      "def1": "он упустил шанс завести девушку",
+      "ipa": "hи мɪст ə чæнс ту гэт ə ˈгɝлˌфрэнд",
+      "spell": "he missed a chance to get a girlfriend"
+    },
+    {
+      "def1": "он допросил каждого из моих одноклассников",
+      "ipa": "hи ˈкwэсчəнд ич ʌв май ˈклæˌсмэйтс",
+      "spell": "he questioned each of my classmates"
+    },
+    {
+      "def1": "он написал ей снова",
+      "ipa": "hи ˈтэкстɪд hɝ əˈгэн",
+      "spell": "he texted her again"
+    },
+    {
+      "def1": "он ответил ей",
+      "ipa": "hи ˈтэкстɪд hɝ бæк",
+      "spell": "he texted her back"
+    },
+    {
+      "def1": "он хочет отношений с ней",
+      "ipa": "hи wɑнтс ə риˈлэйшəнˌщɪп wɪð hɝ",
+      "spell": "he wants a relationship with her"
+    },
+    {
+      "def1": "он не был бедным",
+      "ipa": "hи wʌз нɑт пʊр",
+      "spell": "he was not poor"
+    },
+    {
+      "def1": "его ограбили",
+      "ipa": "hи wʌз рɑбд",
+      "spell": "he was robbed"
+    },
+    {
+      "def1": "он работает в банке",
+      "ipa": "hи wɝкс фор ə бæŋк",
+      "spell": "he works for a bank"
+    },
+    {
+      "def1": "её телефон умер",
+      "ipa": "hɝ фоун дайд",
+      "spell": "her phone died"
+    },
+    {
+      "def1": "у её телефона села батарея",
+      "ipa": "hɝ фоунз ˈбæтɚи дайд",
+      "spell": "her phone’s battery died"
+    },
+    {
+      "def1": "он где-то рядом",
+      "ipa": "hиз əˈраунд",
+      "spell": "he’s around"
+    },
+    {
+      "def1": "дома",
+      "ipa": "hоум",
+      "spell": "home"
+    },
+    {
+      "def1": "домой",
+      "ipa": "hоум",
+      "spell": "home"
+    },
+    {
+      "def1": "как она могла открыть дверь?",
+      "ipa": "hау кʊд щи ˈоупəн ðə дор?",
+      "spell": "how could she open the door?"
+    },
+    {
+      "def1": "откуда ты знаешь?",
+      "ipa": "hау ду ю ноу?",
+      "spell": "how do you know?"
+    },
+    {
+      "def1": "я запутался",
+      "ipa": "ай æм кəнˈфъюзд",
+      "spell": "I am confused"
+    },
+    {
+      "def1": "я иду домой (сейчас)",
+      "ipa": "ай æм ˈгоуɪŋ hоум",
+      "spell": "I am going home"
+    },
+    {
+      "def1": "я собираюсь пойти домой",
+      "ipa": "ай æм ˈгоуɪŋ ту гоу hоум",
+      "spell": "I am going to go home"
+    },
+    {
+      "def1": "я ответил",
+      "ipa": "ай ˈæнсɚд",
+      "spell": "I answered"
+    },
+    {
+      "def1": "я позвал / позвонил тебе",
+      "ipa": "ай кɔлд ю",
+      "spell": "I called you"
+    },
+    {
+      "def1": "я пришёл домой",
+      "ipa": "ай кэйм hоум",
+      "spell": "I came home"
+    },
+    {
+      "def1": "я не могу найти общий язык с ним",
+      "ipa": "ай кæнт си ай ту ай wɪð hɪм",
+      "spell": "I can't see eye to eye with him"
+    },
+    {
+      "def1": "я передумал",
+      "ipa": "ай чэйнджд май майнд",
+      "spell": "I changed my mind"
+    },
+    {
+      "def1": "я не мог себе представить, что она может так поступить",
+      "ipa": "ай ˈкʊдəнт ɪˈмæджəн щи кʊд ду ðæт",
+      "spell": "I couldn’t imagine she could do that"
+    },
+    {
+      "def1": "мне не нравится находиться рядом с ним",
+      "ipa": "ай доунт лайк ту би əˈраунд hɪм",
+      "spell": "I don’t like to be around him"
+    },
+    {
+      "def1": "я впервые приехал сюда в прошлом году",
+      "ipa": "ай фɝст кэйм hир лæст йɪр",
+      "spell": "I first came here last year"
+    },
+    {
+      "def1": "я впервые увидел её вчера",
+      "ipa": "ай фɝст сɔ hɝ ˈйэстɚˌдэй",
+      "spell": "I first saw her yesterday"
+    },
+    {
+      "def1": "я вернулся домой поздно",
+      "ipa": "ай гɑт hоум лэйт",
+      "spell": "I got home late"
+    },
+    {
+      "def1": "у меня была двухнедельная командировка",
+      "ipa": "ай hæд ə ту-wик ˈбɪзнəс трɪп",
+      "spell": "I had a two-week business trip"
+    },
+    {
+      "def1": "я был в Денвере",
+      "ipa": "ай hæв бɪн ту ˈдэнвɚ",
+      "spell": "I have been to Denver"
+    },
+    {
+      "def1": "я живу в Нью-Йорке почти восемь лет",
+      "ipa": "ай hæв лɪвд ɪн ну йорк фор ˈɔлˌмоуст эйт йɪрз",
+      "spell": "I have lived in New York for almost eight years"
+    },
+    {
+      "def1": "мне нравится, когда солнечно",
+      "ipa": "ай лайк ɪт wэн ɪт ɪз ˈсʌни",
+      "spell": "I like it when it is sunny"
+    },
+    {
+      "def1": "мне нравится когда",
+      "ipa": "ай лайк ɪт wэн …",
+      "spell": "I like it when …"
+    },
+    {
+      "def1": "мне нравятся дождливые дни",
+      "ipa": "ай лайк ˈрэйни дэйз",
+      "spell": "I like rainy days"
+    },
+    {
+      "def1": "я живу рядом",
+      "ipa": "ай лɪв ˈнɪрˈбай",
+      "spell": "I live nearby"
+    },
+    {
+      "def1": "я живу на пятнадцатом этаже",
+      "ipa": "ай лɪв ɑн ðə фɪфˈтинθ флор",
+      "spell": "I live on the fifteenth floor"
+    },
+    {
+      "def1": "я переехал в Нью-Йорк",
+      "ipa": "ай мувд ту ну йорк",
+      "spell": "I moved to New York"
+    },
+    {
+      "def1": "мне нужно попасть домой",
+      "ipa": "ай нид ту гэт hоум",
+      "spell": "I need to get home"
+    },
+    {
+      "def1": "мне нужно заплатить",
+      "ipa": "ай нид ту пэй",
+      "spell": "I need to pay"
+    },
+    {
+      "def1": "я никогда не чувствую себя уверенно",
+      "ipa": "ай ˈнэвɚ фил щʊр",
+      "spell": "I never feel sure"
+    },
+    {
+      "def1": "мне нравится только Новый год",
+      "ipa": "ай ˈоунли лайк ну йɪрз дэй",
+      "spell": "I only like New Year’s Day"
+    },
+    {
+      "def1": "я сказал",
+      "ipa": "ай сэд",
+      "spell": "I said"
+    },
+    {
+      "def1": "я всё ещё это делаю",
+      "ipa": "ай стɪл ду ɪт",
+      "spell": "I still do it"
+    },
+    {
+      "def1": "я подумал",
+      "ipa": "ай θɔт",
+      "spell": "I thought"
+    },
+    {
+      "def1": "я хочу уйти",
+      "ipa": "ай wɑнт ту лив",
+      "spell": "I want to leave"
+    },
+    {
+      "def1": "я хочу спать",
+      "ipa": "ай wɑнт ту слип",
+      "spell": "I want to sleep"
+    },
+    {
+      "def1": "я был старшеклассником",
+      "ipa": "ай wʌз ə hай скул ˈстудəнт",
+      "spell": "I was a high school student"
+    },
+    {
+      "def1": "меня ограбили",
+      "ipa": "ай wʌз рɑбд",
+      "spell": "I was robbed"
+    },
+    {
+      "def1": "я думал",
+      "ipa": "ай wʌз ˈθɪŋкɪŋ",
+      "spell": "I was thinking"
+    },
+    {
+      "def1": "я пошёл домой",
+      "ipa": "ай wэнт hоум",
+      "spell": "I went home"
+    },
+    {
+      "def1": "если вернуться мыслями, то поймёшь",
+      "ipa": "ɪф ю θɪŋк бæк, юл рɪˈмэмбɚ",
+      "spell": "if you think back, you'll remember"
+    },
+    {
+      "def1": "ноутбук Игоря",
+      "ipa": "ɪˈгорз ˈлæпˌтɑп",
+      "spell": "Igor’s laptop"
+    },
+    {
+      "def1": "в моём кармане",
+      "ipa": "ɪн май ˈпɑкəт",
+      "spell": "in my pocket"
+    },
+    {
+      "def1": "это сбивает с толку",
+      "ipa": "ɪт ɪз кəнˈфъюзɪŋ",
+      "spell": "it is confusing"
+    },
+    {
+      "def1": "здесь легче найти работу",
+      "ipa": "ɪт ɪз ˈизиɚ ту файнд ə джɑб hир",
+      "spell": "it is easier to find a job here"
+    },
+    {
+      "def1": "в Нью-Йорке легче всего найти работу",
+      "ipa": "ɪт ɪз ˈизиəст ту файнд ə джɑб ɪн эн-wай",
+      "spell": "it is easiest to find a job in NY"
+    },
+    {
+      "def1": "это его дом!",
+      "ipa": "ɪт ɪз hɪз hаус!",
+      "spell": "it is his house!"
+    },
+    {
+      "def1": "похоже на то, что",
+      "ipa": "ɪт лʊкс лайк",
+      "spell": "it looks like"
+    },
+    {
+      "def1": "похоже на то",
+      "ipa": "ɪт лʊкс лайк ðæт",
+      "spell": "it looks like that"
+    },
+    {
+      "def1": "оно было выключено",
+      "ipa": "ɪт wʌз ɔф",
+      "spell": "it was off"
+    },
+    {
+      "def1": "это была не она",
+      "ipa": "ɪт ˈwɑзəнт hɝ",
+      "spell": "it wasn’t her"
+    },
+    {
+      "def1": "это примерно в тридцати минутах ходьбы отсюда",
+      "ipa": "ɪтс əˈбаут ə ˈθɝди-ˈмɪнəт wɔк фрʌм hир",
+      "spell": "it’s about a thirty-minute walk from here"
+    },
+    {
+      "def1": "пора!",
+      "ipa": "ɪтс тайм!",
+      "spell": "it’s time!"
+    },
+    {
+      "def1": "оставь его",
+      "ipa": "лив ɪт",
+      "spell": "leave it"
+    },
+    {
+      "def1": "пойдём домой!",
+      "ipa": "лэтс гоу hоум!",
+      "spell": "let’s go home!"
+    },
+    {
+      "def1": "одинокий",
+      "ipa": "ˈлоунли",
+      "spell": "lonely"
+    },
+    {
+      "def1": "поищи, посмотри (в интернете, в книге)",
+      "ipa": "лʊк ɪт ʌп",
+      "spell": "look it up"
+    },
+    {
+      "def1": "посмотри в окно",
+      "ipa": "лʊк аут ʌв ðə ˈwɪндоу",
+      "spell": "look out of the window"
+    },
+    {
+      "def1": "осторожно!",
+      "ipa": "лʊк аут!",
+      "spell": "look out!"
+    },
+    {
+      "def1": "выгляни!",
+      "ipa": "лʊк аут!",
+      "spell": "look out!"
+    },
+    {
+      "def1": "возможно, это была любовь с первого взгляда",
+      "ipa": "ˈмэйби ɪт wʌз лʌв æт фɝст сайт",
+      "spell": "maybe it was love at first sight"
+    },
+    {
+      "def1": "возможно, она как-то смогла найти ключ",
+      "ipa": "ˈмэйби щи кʊд файнд ðə ки ˈсʌмˌhау",
+      "spell": "maybe she could find the key somehow"
+    },
+    {
+      "def1": "возможно, ты прав",
+      "ipa": "ˈмэйби ю ɑр райт",
+      "spell": "maybe you are right"
+    },
+    {
+      "def1": "жалкий",
+      "ipa": "ˈмɪзɚəбəл",
+      "spell": "miserable"
+    },
+    {
+      "def1": "побольше ценных вещей",
+      "ipa": "мор ˈвæлйəбəл θɪŋз",
+      "spell": "more valuable things"
+    },
+    {
+      "def1": "там живут в основном русскоговорящие",
+      "ipa": "ˈмоустли ˈрʌшəн ˈспикɚз лɪв ðэр",
+      "spell": "mostly Russian speakers live there"
+    },
+    {
+      "def1": "гораздо веселее",
+      "ipa": "мʌч мор фʌн",
+      "spell": "much more fun"
+    },
+    {
+      "def1": "гораздо радостнее",
+      "ipa": "мʌч мор ˈджойфəл",
+      "spell": "much more joyful"
+    },
+    {
+      "def1": "мои духи",
+      "ipa": "май ˈпɝфъюм",
+      "spell": "my perfume"
+    },
+    {
+      "def1": "мои вещи украли",
+      "ipa": "май стʌф wʌз ˈстоулəн",
+      "spell": "my stuff was stolen"
+    },
+    {
+      "def1": "мои часы пропали",
+      "ipa": "май wɑч wʌз гɔн",
+      "spell": "my watch was gone"
+    },
+    {
+      "def1": "приятно познакомиться",
+      "ipa": "найс ту мит ю",
+      "spell": "nice to meet you"
+    },
+    {
+      "def1": "рад тебя видеть",
+      "ipa": "найс ту си ю",
+      "spell": "nice to see you"
+    },
+    {
+      "def1": "Оливия было её фальшивым именем",
+      "ipa": "оуˈлɪвиə wʌз hɝ фэйк нэйм",
+      "spell": "Olivia was her fake name"
+    },
+    {
+      "def1": "Оливия было не её настоящим именем",
+      "ipa": "оуˈлɪвиə wʌз нɑт hɝ риəл нэйм",
+      "spell": "Olivia was not her real name"
+    },
+    {
+      "def1": "двадцать пятого",
+      "ipa": "ɑн ðə ˈтwэнти-фɪфθ",
+      "spell": "on the twenty-fifth"
+    },
+    {
+      "def1": "забери их",
+      "ipa": "пɪк ðэм ʌп",
+      "spell": "pick them up"
+    },
+    {
+      "def1": "бедный Дэвид!",
+      "ipa": "пʊр ˈдэйвɪд!",
+      "spell": "poor David!"
+    },
+    {
+      "def1": "бедняга!",
+      "ipa": "пʊр θɪŋ!",
+      "spell": "poor thing!"
+    },
+    {
+      "def1": "бедный ты!",
+      "ipa": "пʊр ю!",
+      "spell": "poor you!"
+    },
+    {
+      "def1": "стали прибывать беженцы",
+      "ipa": "ˈрэˌфъюджиз ˈстɑртɪд ˈкʌмɪŋ",
+      "spell": "refugees started coming"
+    },
+    {
+      "def1": "беги домой",
+      "ipa": "рʌн hоум",
+      "spell": "run home"
+    },
+    {
+      "def1": "слышится русская речь",
+      "ipa": "ˈрʌшəн спич ɪз hɝд",
+      "spell": "Russian speech is heard"
+    },
+    {
+      "def1": "плыви домой (по воде)!",
+      "ipa": "сэйл hоум!",
+      "spell": "sail home!"
+    },
+    {
+      "def1": "она всегда делала первый шаг",
+      "ipa": "щи ˈɔлˌwэйз мэйд ðə фɝст стэп",
+      "spell": "she always made the first step"
+    },
+    {
+      "def1": "она обокрала его квартиру",
+      "ipa": "щи ˈбɝглəˌрайзд hɪз əˈпɑртмəнт",
+      "spell": "she burglarized his apartment"
+    },
+    {
+      "def1": "она передумала",
+      "ipa": "щи чэйнджд hɝ майнд",
+      "spell": "she changed her mind"
+    },
+    {
+      "def1": "она могла позвонить",
+      "ipa": "щи кʊд кɔл",
+      "spell": "she could call"
+    },
+    {
+      "def1": "она могла сделать это одна",
+      "ipa": "щи кʊд ду ðæт əˈлоун",
+      "spell": "she could do that alone"
+    },
+    {
+      "def1": "у неё нет ключа от его квартиры",
+      "ipa": "щи ˈдʌзəнт hæв ə ки ту hɪз əˈпɑртмəнт",
+      "spell": "she doesn’t have a key to his apartment"
+    },
+    {
+      "def1": "она подвезла его домой",
+      "ipa": "щи дроув hɪм hоум",
+      "spell": "she drove him home"
+    },
+    {
+      "def1": "она подвезла его к его дому",
+      "ipa": "щи дроув hɪм ту hɪз hаус",
+      "spell": "she drove him to his house"
+    },
+    {
+      "def1": "она нашла способ",
+      "ipa": "щи фаунд ə wэй",
+      "spell": "she found a way"
+    },
+    {
+      "def1": "у неё другое имя",
+      "ipa": "щи hæз əˈнʌðɚ нэйм",
+      "spell": "she has another name"
+    },
+    {
+      "def1": "она пригласила его на кофе",
+      "ipa": "щи ɪнˈвайтɪд hɪм фор ˈкɑфи",
+      "spell": "she invited him for coffee"
+    },
+    {
+      "def1": "она пригласила его выпить чашку кофе",
+      "ipa": "щи ɪнˈвайтɪд hɪм ту hæв ə кʌп ʌв ˈкɑфи",
+      "spell": "she invited him to have a cup of coffee"
+    },
+    {
+      "def1": "она опаздывает (сейчас)",
+      "ipa": "щи ɪз ˈрʌнɪŋ лэйт",
+      "spell": "she is running late"
+    },
+    {
+      "def1": "ей нужно было время",
+      "ipa": "щи ˈнидɪд тайм",
+      "spell": "she needed time"
+    },
+    {
+      "def1": "она так и не ответила",
+      "ipa": "щи ˈнэвɚ ˈæнсɚд",
+      "spell": "she never answered"
+    },
+    {
+      "def1": "она так и не пришла",
+      "ipa": "щи ˈнэвɚ кэйм",
+      "spell": "she never came"
+    },
+    {
+      "def1": "она никогда не лгала",
+      "ipa": "щи ˈнэвɚ лайд",
+      "spell": "she never lied"
+    },
+    {
+      "def1": "она предложила подвезти его",
+      "ipa": "щи ˈɔфɚд hɪм ə лɪфт",
+      "spell": "she offered him a lift"
+    },
+    {
+      "def1": "она предложила подвезти его",
+      "ipa": "щи ˈɔфɚд ту гɪв hɪм ə лɪфт",
+      "spell": "she offered to give him a lift"
+    },
+    {
+      "def1": "она украла",
+      "ipa": "щи стоул",
+      "spell": "she stole"
+    },
+    {
+      "def1": "она написала ему",
+      "ipa": "щи ˈтэкстɪд hɪм",
+      "spell": "she texted him"
+    },
+    {
+      "def1": "она пыталась встретиться с ним в концертном зале",
+      "ipa": "щи трайд ту мит hɪм æт ə ˈкɑнсɝт hɔл",
+      "spell": "she tried to meet him at a concert hall"
+    },
+    {
+      "def1": "она хотела увидеть, где он живёт",
+      "ipa": "щи ˈwɔнтɪд ту си wэр hи лɪвд",
+      "spell": "she wanted to see where he lived"
+    },
+    {
+      "def1": "она была воровкой-взломщицей",
+      "ipa": "щи wʌз ə ˈбɝглɚ",
+      "spell": "she was a burglar"
+    },
+    {
+      "def1": "она была преступницей",
+      "ipa": "щи wʌз ə ˈкрɪмəнəл",
+      "spell": "she was a criminal"
+    },
+    {
+      "def1": "она была воровкой",
+      "ipa": "щи wʌз ə θиф",
+      "spell": "she was a thief"
+    },
+    {
+      "def1": "она попала в аварию",
+      "ipa": "щи wʌз ɪн əн ˈæксəдəнт",
+      "spell": "she was in an accident"
+    },
+    {
+      "def1": "она была членом шайки",
+      "ipa": "щи wʌз пɑрт ʌв ə гæŋ",
+      "spell": "she was part of a gang"
+    },
+    {
+      "def1": "она была там",
+      "ipa": "щи wʌз ðэр",
+      "spell": "she was there"
+    },
+    {
+      "def1": "она ждала его",
+      "ipa": "щи wʌз ˈwэйтɪŋ фор hɪм",
+      "spell": "she was waiting for him"
+    },
+    {
+      "def1": "она работает в сфере недвижимости",
+      "ipa": "щи wɝкс ɪн ˈпрɑпɚти",
+      "spell": "she works in property"
+    },
+    {
+      "def1": "кто-то помог ей",
+      "ipa": "ˈсʌмˌбɑди hэлпт hɝ",
+      "spell": "somebody helped her"
+    },
+    {
+      "def1": "как-то",
+      "ipa": "ˈсʌмˌhау",
+      "spell": "somehow"
+    },
+    {
+      "def1": "держись подальше, если они навязчивы",
+      "ipa": "стэй əˈwэй ɪф ðэй ɑр ˈпʊщи",
+      "spell": "stay away if they are pushy"
+    },
+    {
+      "def1": "плыви домой",
+      "ipa": "сwɪм hоум",
+      "spell": "swim home"
+    },
+    {
+      "def1": "поезжай домой на автобусе",
+      "ipa": "тэйк ə бʌс hоум",
+      "spell": "take a bus home"
+    },
+    {
+      "def1": "поезжай домой на такси",
+      "ipa": "тэйк ə ˈтæкси hоум",
+      "spell": "take a taxi home"
+    },
+    {
+      "def1": "поговори со мной",
+      "ipa": "тɔк ту ми",
+      "spell": "talk to me"
+    },
+    {
+      "def1": "говори!",
+      "ipa": "тɔк!",
+      "spell": "talk!"
+    },
+    {
+      "def1": "расскажи смешную историю",
+      "ipa": "тэл ə ˈфʌни ˈстори",
+      "spell": "tell a funny story"
+    },
+    {
+      "def1": "расскажи мне",
+      "ipa": "тэл ми",
+      "spell": "tell me"
+    },
+    {
+      "def1": "расскажи мне анекдот",
+      "ipa": "тэл ми ə джоук",
+      "spell": "tell me a joke"
+    },
+    {
+      "def1": "расскажи мне всё",
+      "ipa": "тэл ми ˈэвриˌθɪŋ",
+      "spell": "tell me everything"
+    },
+    {
+      "def1": "это было не её настоящее имя",
+      "ipa": "ðæт wʌз нɑт hɝ риəл нэйм",
+      "spell": "that was not her real name"
+    },
+    {
+      "def1": "легко сказать, трудно сделать",
+      "ipa": "ðæтс ˈизиɚ сэд ðæн дʌн",
+      "spell": "that's easier said than done"
+    },
+    {
+      "def1": "вот как он добрался домой",
+      "ipa": "ðæтс hау hи гɑт hоум",
+      "spell": "that’s how he got home"
+    },
+    {
+      "def1": "автобус был полный",
+      "ipa": "ðə бʌс wʌз фʊл",
+      "spell": "the bus was full"
+    },
+    {
+      "def1": "концовка",
+      "ipa": "ðи ˈэндɪŋ",
+      "spell": "the ending"
+    },
+    {
+      "def1": "страницы книги",
+      "ipa": "ðə ˈпэйджəз ʌв ə бʊк",
+      "spell": "the pages of a book"
+    },
+    {
+      "def1": "притяжательный падеж",
+      "ipa": "ðə ˈсæксəн ˈджэнəтɪв",
+      "spell": "the Saxon Genitive"
+    },
+    {
+      "def1": "центр города",
+      "ipa": "ðə таун ˈсэнтɚ",
+      "spell": "the town center"
+    },
+    {
+      "def1": "у нашей двери еноты",
+      "ipa": "ðэр ɑр рæˈкунз æт ˈауɚ дор",
+      "spell": "there are raccoons at our door"
+    },
+    {
+      "def1": "у нашей двери белки",
+      "ipa": "ðэр ɑр ˈскwɝəлз æт ˈауɚ дор",
+      "spell": "there are squirrels at our door"
+    },
+    {
+      "def1": "у нашей двери медведь",
+      "ipa": "ðэрз ə бэр æт ˈауɚ дор",
+      "spell": "there’s a bear at our door"
+    },
+    {
+      "def1": "кто-то у двери!",
+      "ipa": "ðэрз ˈсʌмˌбɑди æт ðə дор!",
+      "spell": "there’s somebody at the door!"
+    },
+    {
+      "def1": "они так никого и не нашли",
+      "ipa": "ðэй ˈнэвɚ фаунд ˈэнибəди",
+      "spell": "they never found anybody"
+    },
+    {
+      "def1": "они так и не нашли это",
+      "ipa": "ðэй ˈнэвɚ фаунд ɪт",
+      "spell": "they never found it"
+    },
+    {
+      "def1": "они убежали",
+      "ipa": "ðэй рæн əˈwэй",
+      "spell": "they ran away"
+    },
+    {
+      "def1": "они бежали от войны",
+      "ipa": "ðэй рæн əˈwэй фрʌм ðə wор",
+      "spell": "they ran away from the war"
+    },
+    {
+      "def1": "они разговаривали",
+      "ipa": "ðэй тɔкт",
+      "spell": "they talked"
+    },
+    {
+      "def1": "они разговаривали о (классической) музыке",
+      "ipa": "ðэй тɔкт əˈбаут (ˈклæсɪкəл) ˈмъюзɪк",
+      "spell": "they talked about (classical) music"
+    },
+    {
+      "def1": "они разговаривали о том, что делали",
+      "ipa": "ðэй тɔкт əˈбаут wɑт ðэй дɪд",
+      "spell": "they talked about what they did"
+    },
+    {
+      "def1": "они разговаривали о том, где живут",
+      "ipa": "ðэй тɔкт əˈбаут wэр ðэй лɪвд",
+      "spell": "they talked about where they lived"
+    },
+    {
+      "def1": "они обычно готовят индейку",
+      "ipa": "ðэй ˈюжəwəли кʊк ˈтɝки",
+      "spell": "they usually cook turkey"
+    },
+    {
+      "def1": "быть рядом с кем-то",
+      "ipa": "ту би əˈраунд ˈсʌмˌбɑди",
+      "spell": "to be around somebody"
+    },
+    {
+      "def1": "скинуть мне на телеграм",
+      "ipa": "ту дрɑп ɪт ту ми ɑн ˈтэлəˌгрæм",
+      "spell": "to drop it to me on Telegram"
+    },
+    {
+      "def1": "предложить работу",
+      "ipa": "ту ˈɔфɚ ə джɑб",
+      "spell": "to offer a job"
+    },
+    {
+      "def1": "плавать",
+      "ipa": "ту сwɪм",
+      "spell": "to swim"
+    },
+    {
+      "def1": "включи светильник",
+      "ipa": "тɝн ɑн ə лайт",
+      "spell": "turn on a light"
+    },
+    {
+      "def1": "включи свет",
+      "ipa": "тɝн ɑн ðə лайт",
+      "spell": "turn on the light"
+    },
+    {
+      "def1": "жди меня!",
+      "ipa": "wэйт фор ми!",
+      "spell": "wait for me!"
+    },
+    {
+      "def1": "осторожно, машина!",
+      "ipa": "wɑч аут фор ə кɑр!",
+      "spell": "watch out for a car!"
+    },
+    {
+      "def1": "осторожно!",
+      "ipa": "wɑч аут!",
+      "spell": "watch out!"
+    },
+    {
+      "def1": "мы разговариваем (сейчас)",
+      "ipa": "wи ɑр ˈтɔкɪŋ",
+      "spell": "we are talking"
+    },
+    {
+      "def1": "нам нравится, когда так",
+      "ipa": "wи лайк ɪт лайк ðɪс",
+      "spell": "we like it like this"
+    },
+    {
+      "def1": "мы остались там на ночь",
+      "ipa": "wи стэйд ðэр ˈоувɚˈнайт",
+      "spell": "we stayed there overnight"
+    },
+    {
+      "def1": "для чего? на что?",
+      "ipa": "wɑт фор",
+      "spell": "what for"
+    },
+    {
+      "def1": "когда ты приехал в Канаду?",
+      "ipa": "wэн дɪд ю кʌм ту ˈкæнəдə?",
+      "spell": "when did you come to Canada?"
+    },
+    {
+      "def1": "когда ты ездил в Канаду?",
+      "ipa": "wэн дɪд ю гоу ту ˈкæнəдə?",
+      "spell": "when did you go to Canada?"
+    },
+    {
+      "def1": "когда ты переехал в Канаду?",
+      "ipa": "wэн дɪд ю мув ту ˈкæнəдə?",
+      "spell": "when did you move to Canada?"
+    },
+    {
+      "def1": "когда я учился в старших классах",
+      "ipa": "wэн ай wʌз ɪн hай скул",
+      "spell": "when I was in high school"
+    },
+    {
+      "def1": "когда тот день наступил",
+      "ipa": "wэн ðæт дэй əˈрайвд",
+      "spell": "when that day arrived"
+    },
+    {
+      "def1": "когда видео закончилось",
+      "ipa": "wэн ðə ˈвɪдиоу ˈфɪнɪшт",
+      "spell": "when the video finished"
+    },
+    {
+      "def1": "в каком районе Лондона он живёт?",
+      "ipa": "wэр ɪн ˈлʌндəн дʌз hи лɪв?",
+      "spell": "where in London does he live?"
+    },
+    {
+      "def1": "чей дом?",
+      "ipa": "hуз hаус?",
+      "spell": "whose house?"
+    },
+    {
+      "def1": "почему нет?",
+      "ipa": "wай нɑт?",
+      "spell": "why not?"
+    },
+    {
+      "def1": "без партнёров",
+      "ipa": "wɪˈθаут ˈпɑртнɚз",
+      "spell": "without partners"
+    },
+    {
+      "def1": "обеспокоенный",
+      "ipa": "ˈwɝид",
+      "spell": "worried"
+    },
+    {
+      "def1": "янки, домой!",
+      "ipa": "ˈйæŋкиз гоу hоум!",
+      "spell": "Yankees go home!"
+    },
+    {
+      "def1": "редко можно было услышать русскую речь",
+      "ipa": "ю кʊд ˈрэрли hир ˈрʌшəн спич",
+      "spell": "you could rarely hear Russian speech"
+    },
+    {
+      "def1": "ты ждёшь кого-то",
+      "ipa": "ю wэйт фор ˈсʌмˌбɑди",
+      "spell": "you wait for somebody"
+    }
+  ]
+}
