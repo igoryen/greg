@@ -1,0 +1,1169 @@
+{
+  "student": "Ruslan P.",
+  "slug": "rp",
+  "period": "week",
+  "number": 48,
+  "date": "2025-11-30",
+  "words": [
+    {
+      "def1": "шашлык",
+      "ipa": "ˈщɪшкəбɑб",
+      "spell": "(shish) kebab"
+    },
+    {
+      "def1": "красивая машина",
+      "ipa": "ə ˈбъютəфəл кɑр",
+      "spell": "a beautiful car"
+    },
+    {
+      "def1": "кабель",
+      "ipa": "ə ˈкэйбəл",
+      "spell": "a cable"
+    },
+    {
+      "def1": "конфета",
+      "ipa": "ə ˈкæнди",
+      "spell": "a candy"
+    },
+    {
+      "def1": "зарядное устройство",
+      "ipa": "ə ˈчɑрджɚ",
+      "spell": "a charger"
+    },
+    {
+      "def1": "круг",
+      "ipa": "ə ˈсɝкəл",
+      "spell": "a circle"
+    },
+    {
+      "def1": "печенье",
+      "ipa": "ə ˈкʊки",
+      "spell": "a cookie"
+    },
+    {
+      "def1": "чашка в кепке",
+      "ipa": "ə кʌп ɪн ə кæп",
+      "spell": "a cup in a cap"
+    },
+    {
+      "def1": "умерший отец",
+      "ipa": "ə дэд дæд",
+      "spell": "a dead dad"
+    },
+    {
+      "def1": "пожарный грузовик",
+      "ipa": "ə ˈфайɚ трʌк",
+      "spell": "a fire truck"
+    },
+    {
+      "def1": "внучка",
+      "ipa": "ə ˈгрæнˌдɔтɚ",
+      "spell": "a granddaughter"
+    },
+    {
+      "def1": "внук",
+      "ipa": "ə ˈгрæндˌсʌн",
+      "spell": "a grandson"
+    },
+    {
+      "def1": "правнучка",
+      "ipa": "ə грэйт ˈгрæнˌдɔтɚ",
+      "spell": "a great granddaughter"
+    },
+    {
+      "def1": "прадед",
+      "ipa": "ə грэйт ˈгрæндˌфɑðɚ",
+      "spell": "a great grandfather"
+    },
+    {
+      "def1": "прабабушка",
+      "ipa": "ə грэйт ˈгрæндˌмʌðɚ",
+      "spell": "a great grandmother"
+    },
+    {
+      "def1": "правнук",
+      "ipa": "ə грэйт ˈгрæндˌсʌн",
+      "spell": "a great grandson"
+    },
+    {
+      "def1": "половина",
+      "ipa": "ə hæф",
+      "spell": "a half"
+    },
+    {
+      "def1": "брелок для ключей",
+      "ipa": "ə ки чэйн",
+      "spell": "a key chain"
+    },
+    {
+      "def1": "буханка",
+      "ipa": "ə лоуф",
+      "spell": "a loaf"
+    },
+    {
+      "def1": "много вещей",
+      "ipa": "ə лɑт ʌв θɪŋз",
+      "spell": "a lot of things"
+    },
+    {
+      "def1": "карта",
+      "ipa": "ə мæп",
+      "spell": "a map"
+    },
+    {
+      "def1": "еда, блюдо",
+      "ipa": "ə мил",
+      "spell": "a meal"
+    },
+    {
+      "def1": "приём пищи",
+      "ipa": "ə мил",
+      "spell": "a meal"
+    },
+    {
+      "def1": "упаковщик",
+      "ipa": "ə ˈпæкɚ",
+      "spell": "a packer"
+    },
+    {
+      "def1": "руки робота",
+      "ipa": "ə ˈроуˌбɑтс ɑрмз",
+      "spell": "a robot’s arms"
+    },
+    {
+      "def1": "бутерброд",
+      "ipa": "ə ˈсæндwɪч",
+      "spell": "a sandwich"
+    },
+    {
+      "def1": "учёный",
+      "ipa": "ə ˈсайəнтɪст",
+      "spell": "a scientist"
+    },
+    {
+      "def1": "скинхед",
+      "ipa": "ə ˈскɪнˌhэд",
+      "spell": "a skinhead"
+    },
+    {
+      "def1": "студенческий билет",
+      "ipa": "ə ˈстудəнтс ɪд",
+      "spell": "a student’s ID"
+    },
+    {
+      "def1": "рабочий кабинет дома",
+      "ipa": "ə ˈстʌди",
+      "spell": "a study"
+    },
+    {
+      "def1": "вещь",
+      "ipa": "ə θɪŋ",
+      "spell": "a thing"
+    },
+    {
+      "def1": "ветеран",
+      "ipa": "ə ˈвэтɚəн",
+      "spell": "a veteran"
+    },
+    {
+      "def1": "я здесь?",
+      "ipa": "æм ай hир?",
+      "spell": "am I here?"
+    },
+    {
+      "def1": "прилагательное",
+      "ipa": "əн ˈæджɪктɪв",
+      "spell": "an adjective"
+    },
+    {
+      "def1": "исключение",
+      "ipa": "əн ɪкˈсэпшəн",
+      "spell": "an exception"
+    },
+    {
+      "def1": "мнение",
+      "ipa": "əн əˈпɪнйəн",
+      "spell": "an opinion"
+    },
+    {
+      "def1": "что-нибудь",
+      "ipa": "ˈэниˌθɪŋ",
+      "spell": "anything"
+    },
+    {
+      "def1": "дома",
+      "ipa": "æт hоум",
+      "spell": "at home"
+    },
+    {
+      "def1": "плохой",
+      "ipa": "бæд",
+      "spell": "bad"
+    },
+    {
+      "def1": "барбекю",
+      "ipa": "ˈбɑрбɪˌкъю (ˈбибиˌкъю)",
+      "spell": "barbeque (BBQ)"
+    },
+    {
+      "def1": "лучше",
+      "ipa": "ˈбэтɚ",
+      "spell": "better"
+    },
+    {
+      "def1": "крупнейшие IT-компании",
+      "ipa": "бɪг тэк",
+      "spell": "big tech"
+    },
+    {
+      "def1": "большой, больше",
+      "ipa": "бɪг, ˈбɪгɚ",
+      "spell": "big, bigger"
+    },
+    {
+      "def1": "грустный, унылый",
+      "ipa": "блу",
+      "spell": "blue"
+    },
+    {
+      "def1": "скучный",
+      "ipa": "ˈборɪŋ",
+      "spell": "boring"
+    },
+    {
+      "def1": "хлеб",
+      "ipa": "брэд",
+      "spell": "bread"
+    },
+    {
+      "def1": "хлеб с маслом",
+      "ipa": "брэд æнд ˈбʌтɚ",
+      "spell": "bread and butter"
+    },
+    {
+      "def1": "масло",
+      "ipa": "ˈбʌтɚ",
+      "spell": "butter"
+    },
+    {
+      "def1": "ты можешь назвать эти?",
+      "ipa": "кæн ю нэйм ðиз?",
+      "spell": "can you name these?"
+    },
+    {
+      "def1": "дешёвый, дешевле",
+      "ipa": "чип, ˈчипɚ",
+      "spell": "cheap, cheaper"
+    },
+    {
+      "def1": "цвет",
+      "ipa": "ˈкʌлɚ",
+      "spell": "color"
+    },
+    {
+      "def1": "резак",
+      "ipa": "ˈкʌтɚ",
+      "spell": "cutter"
+    },
+    {
+      "def1": "папа",
+      "ipa": "дæд",
+      "spell": "dad"
+    },
+    {
+      "def1": "мёртвый",
+      "ipa": "дэд",
+      "spell": "dead"
+    },
+    {
+      "def1": "трудный",
+      "ipa": "ˈдɪфəкəлт",
+      "spell": "difficult"
+    },
+    {
+      "def1": "грязный",
+      "ipa": "ˈдɝти",
+      "spell": "dirty"
+    },
+    {
+      "def1": "расстояние",
+      "ipa": "ˈдɪстəнс",
+      "spell": "distance"
+    },
+    {
+      "def1": "я работаю?",
+      "ipa": "ду ай wɝк?",
+      "spell": "do I work?"
+    },
+    {
+      "def1": "у тебя есть деньги?",
+      "ipa": "ду ю hæв ˈэни ˈмʌни?",
+      "spell": "do you have any money?"
+    },
+    {
+      "def1": "у него есть деньги?",
+      "ipa": "дʌз hи hæв ˈмʌни?",
+      "spell": "does he have money?"
+    },
+    {
+      "def1": "не нужно (делать)",
+      "ipa": "доунт",
+      "spell": "don’t"
+    },
+    {
+      "def1": "ранний; рано",
+      "ipa": "ˈɝли",
+      "spell": "early"
+    },
+    {
+      "def1": "далеко от работы",
+      "ipa": "фɑр фрʌм wɝк",
+      "spell": "far from work"
+    },
+    {
+      "def1": "пятнадцать минут",
+      "ipa": "фɪфˈтин ˈмɪнəтс",
+      "spell": "fifteen minutes"
+    },
+    {
+      "def1": "пятьдесят минут на автобусе",
+      "ipa": "ˈфɪфти ˈмɪнəтс бай бʌс",
+      "spell": "fifty minutes by bus"
+    },
+    {
+      "def1": "для примера",
+      "ipa": "фор ɪгˈзæмпəл",
+      "spell": "for example"
+    },
+    {
+      "def1": "четыре литра (жидкости) в день",
+      "ipa": "фор ˈлитɚз (ʌв ˈлɪкwəдз) ə дэй",
+      "spell": "four liters (of liquids) a day"
+    },
+    {
+      "def1": "фрукты",
+      "ipa": "фрут",
+      "spell": "fruit"
+    },
+    {
+      "def1": "хороший",
+      "ipa": "гʊд",
+      "spell": "good"
+    },
+    {
+      "def1": "имеешь, имеет",
+      "ipa": "hæв, hæз",
+      "spell": "have, has"
+    },
+    {
+      "def1": "у него нет денег",
+      "ipa": "hи ˈдʌзəнт hæв ˈмʌни",
+      "spell": "he doesn’t have money"
+    },
+    {
+      "def1": "он заканчивает в одиннадцать утра",
+      "ipa": "hи ˈфɪнɪщɪз æт ɪˈлэвəн æм",
+      "spell": "he finishes at eleven AM"
+    },
+    {
+      "def1": "он идёт",
+      "ipa": "hи гоуз",
+      "spell": "he goes"
+    },
+    {
+      "def1": "у него есть деньги",
+      "ipa": "hи hæз ˈмʌни",
+      "spell": "he has money"
+    },
+    {
+      "def1": "он упаковщик",
+      "ipa": "hи ɪз ə ˈпæкɚ",
+      "spell": "he is a packer"
+    },
+    {
+      "def1": "ему три года",
+      "ipa": "hи ɪз θри (йɪрз оулд)",
+      "spell": "he is three (years old)"
+    },
+    {
+      "def1": "ему двадцать пять",
+      "ipa": "hи ɪз ˈтwэнти файв",
+      "spell": "he is twenty five"
+    },
+    {
+      "def1": "ему нравится его работа",
+      "ipa": "hи лайкс hɪз джɑб",
+      "spell": "he likes his job"
+    },
+    {
+      "def1": "он говорит им",
+      "ipa": "hи сэз ту ðэм",
+      "spell": "he says to them"
+    },
+    {
+      "def1": "он рассказывает им",
+      "ipa": "hи тэлз ðэм",
+      "spell": "he tells them"
+    },
+    {
+      "def1": "он работает упаковщиком",
+      "ipa": "hи wɝкс æз ə ˈпæкɚ",
+      "spell": "he works as a packer"
+    },
+    {
+      "def1": "он работает на заводе",
+      "ipa": "hи wɝкс ɪн ə ˈфæктɚи",
+      "spell": "he works in a factory"
+    },
+    {
+      "def1": "здоровье",
+      "ipa": "hэлθ",
+      "spell": "health"
+    },
+    {
+      "def1": "здоровый",
+      "ipa": "ˈhэлθи",
+      "spell": "healthy"
+    },
+    {
+      "def1": "вот, пожалуйста",
+      "ipa": "hир ю ɑр/гоу",
+      "spell": "here you are/go"
+    },
+    {
+      "def1": "сколько это стоит?",
+      "ipa": "hау мʌч ɪз ɪт?",
+      "spell": "how much is it?"
+    },
+    {
+      "def1": "я нахожусь здесь",
+      "ipa": "ай æм hир",
+      "spell": "I am here"
+    },
+    {
+      "def1": "я не являюсь",
+      "ipa": "ай æм нɑт",
+      "spell": "I am not"
+    },
+    {
+      "def1": "я не нахожусь здесь",
+      "ipa": "ай æм нɑт hир",
+      "spell": "I am not here"
+    },
+    {
+      "def1": "я пришёл на работу в восемь утра",
+      "ipa": "ай кэйм ту wɝк æт эйт æм",
+      "spell": "I came to work at eight AM"
+    },
+    {
+      "def1": "я не работаю",
+      "ipa": "ай ду нɑт wɝк",
+      "spell": "I do not work"
+    },
+    {
+      "def1": "я не имею никаких денег",
+      "ipa": "ай доунт hæв ˈэни ˈмʌни",
+      "spell": "I don’t have any money"
+    },
+    {
+      "def1": "мне не нравятся другие блюда со свёклой",
+      "ipa": "ай доунт лайк ˈʌðɚ фудз wɪð бит",
+      "spell": "I don’t like other foods with beet"
+    },
+    {
+      "def1": "больше ничего не хочу",
+      "ipa": "ай доунт wɑнт ˈэниˌθɪŋ элс",
+      "spell": "I don’t want anything else"
+    },
+    {
+      "def1": "у меня есть машина",
+      "ipa": "ай hæв ə кɑр",
+      "spell": "I have a car"
+    },
+    {
+      "def1": "у меня есть дом",
+      "ipa": "ай hæв ə hаус",
+      "spell": "I have a house"
+    },
+    {
+      "def1": "я имею немного денег",
+      "ipa": "ай hæв сʌм ˈмʌни",
+      "spell": "I have some money"
+    },
+    {
+      "def1": "мне это очень нравится",
+      "ipa": "ай лайк ɪт ˈвэри мʌч",
+      "spell": "I like it very much"
+    },
+    {
+      "def1": "я никогда не завтракаю",
+      "ipa": "ай ˈнэвɚ hæв ˈбрэкфəст",
+      "spell": "I never have breakfast"
+    },
+    {
+      "def1": "мне нравится только борщ",
+      "ipa": "ай ˈоунли лайк боршт",
+      "spell": "I only like borscht"
+    },
+    {
+      "def1": "я иногда завтракаю",
+      "ipa": "ай сəмˈтаймз hæв ˈбрэкфəст",
+      "spell": "I sometimes have breakfast"
+    },
+    {
+      "def1": "я думаю",
+      "ipa": "ай θɪŋк",
+      "spell": "I think"
+    },
+    {
+      "def1": "я обычно завтракаю",
+      "ipa": "ай ˈюжəwəли hæв ˈбрэкфəст",
+      "spell": "I usually have breakfast"
+    },
+    {
+      "def1": "я ушёл домой в восемь вечера",
+      "ipa": "ай wэнт hоум æт эйт ˈпиˈэм",
+      "spell": "I went home at eight PM"
+    },
+    {
+      "def1": "я проработал под её началом два года",
+      "ipa": "ай wɝкт ˈʌндɚ hɝ фор ту йɪрз",
+      "spell": "I worked under her for two years"
+    },
+    {
+      "def1": "важный",
+      "ipa": "ɪмˈпортəнт",
+      "spell": "important"
+    },
+    {
+      "def1": "это большой дом",
+      "ipa": "ɪт ɪз ə бɪг hаус",
+      "spell": "it is a big house"
+    },
+    {
+      "def1": "это дом",
+      "ipa": "ɪт ɪз ə hаус",
+      "spell": "it is a house"
+    },
+    {
+      "def1": "ему сто лет",
+      "ipa": "ɪт ɪз ə ˈhʌндрɪд йɪрз оулд",
+      "spell": "it is a hundred years old"
+    },
+    {
+      "def1": "это очень большой дом",
+      "ipa": "ɪт ɪз ə ˈвэри бɪг hаус",
+      "spell": "it is a very big house"
+    },
+    {
+      "def1": "это очень большой красивый дом",
+      "ipa": "ɪт ɪз ə ˈвэри бɪг, ˈбъютəфəл hаус",
+      "spell": "it is a very big, beautiful house"
+    },
+    {
+      "def1": "это яблоко",
+      "ipa": "ɪт ɪз əн ˈæпəл",
+      "spell": "it is an apple"
+    },
+    {
+      "def1": "легко парковаться",
+      "ipa": "ɪт ɪз ˈизи ту пɑрк",
+      "spell": "it is easy to park"
+    },
+    {
+      "def1": "это медленно",
+      "ipa": "ɪт ɪз слоу",
+      "spell": "it is slow"
+    },
+    {
+      "def1": "это машина среднего размера",
+      "ipa": "ɪтс ə ˈмɪдˌсайз кɑр",
+      "spell": "it’s a mid-size car"
+    },
+    {
+      "def1": "его название",
+      "ipa": "ɪтс нэйм",
+      "spell": "its name"
+    },
+    {
+      "def1": "его нос",
+      "ipa": "ɪтс ноуз",
+      "spell": "its nose"
+    },
+    {
+      "def1": "его колёса",
+      "ipa": "ɪтс wилз",
+      "spell": "its wheels"
+    },
+    {
+      "def1": "это сумка",
+      "ipa": "ɪтс ə бæг",
+      "spell": "it’s a bag"
+    },
+    {
+      "def1": "это хорошая книга",
+      "ipa": "ɪтс ə гʊд бʊк",
+      "spell": "it’s a good book"
+    },
+    {
+      "def1": "это яблоко",
+      "ipa": "ɪтс əн ˈæпəл",
+      "spell": "it’s an apple"
+    },
+    {
+      "def1": "это легко сделать",
+      "ipa": "ɪтс ˈизи ту ду",
+      "spell": "it’s easy to do"
+    },
+    {
+      "def1": "её легко парковать",
+      "ipa": "ɪтс ˈизи ту пɑрк",
+      "spell": "it’s easy to park"
+    },
+    {
+      "def1": "легко сказать",
+      "ipa": "ɪтс ˈизи ту сэй",
+      "spell": "it’s easy to say"
+    },
+    {
+      "def1": "легко видеть",
+      "ipa": "ɪтс ˈизи ту си",
+      "spell": "it’s easy to see"
+    },
+    {
+      "def1": "очень чисто, опрятно, аккуратно",
+      "ipa": "ɪтс ˈвэри нит",
+      "spell": "it’s very neat"
+    },
+    {
+      "def1": "давай поедим",
+      "ipa": "лэтс ит",
+      "spell": "let’s eat"
+    },
+    {
+      "def1": "пойдём",
+      "ipa": "лэтс гоу",
+      "spell": "let’s go"
+    },
+    {
+      "def1": "давай поспим",
+      "ipa": "лэтс слип",
+      "spell": "let’s sleep"
+    },
+    {
+      "def1": "давай подождём",
+      "ipa": "лэтс wэйт",
+      "spell": "let’s wait"
+    },
+    {
+      "def1": "смычка",
+      "ipa": "ˈлɪŋкɪŋ",
+      "spell": "linking"
+    },
+    {
+      "def1": "жидкий",
+      "ipa": "ˈлɪкwɪд",
+      "spell": "liquid"
+    },
+    {
+      "def1": "слушание",
+      "ipa": "ˈлɪсəнɪŋ",
+      "spell": "listening"
+    },
+    {
+      "def1": "Мэри - их мать",
+      "ipa": "ˈмэри ɪз ðэр ˈмʌðɚ",
+      "spell": "Mary is their mother"
+    },
+    {
+      "def1": "машин брат",
+      "ipa": "ˈмэриз ˈбрʌðɚ",
+      "spell": "Mary’s brother"
+    },
+    {
+      "def1": "машин папа",
+      "ipa": "ˈмэриз дæд",
+      "spell": "Mary’s dad"
+    },
+    {
+      "def1": "машина мама",
+      "ipa": "ˈмэриз мɑм",
+      "spell": "Mary’s mom"
+    },
+    {
+      "def1": "машин компьютер",
+      "ipa": "ˈмэриз кəмˈпъютɚ",
+      "spell": "Mary’s computer"
+    },
+    {
+      "def1": "я тоже",
+      "ipa": "ми ту",
+      "spell": "me too"
+    },
+    {
+      "def1": "Миа их сестра",
+      "ipa": "ˈмиə ɪз ðэр ˈсɪстɚ",
+      "spell": "Mia is their sister"
+    },
+    {
+      "def1": "Миа сестра {Ширы и Джерри}",
+      "ipa": "ˈмиə ɪз {ˈщɪрə æнд ˈджэри}эс ˈсɪстɚ",
+      "spell": "Mia is {Shira and Jerry}’s sister"
+    },
+    {
+      "def1": "монотонный",
+      "ipa": "мəˈнɑтəнəс",
+      "spell": "monotonous"
+    },
+    {
+      "def1": "моя машина",
+      "ipa": "май кɑр",
+      "spell": "my car"
+    },
+    {
+      "def1": "в моей семье две машины",
+      "ipa": "май ˈфæмəли hæз ту кɑрз",
+      "spell": "my family has two cars"
+    },
+    {
+      "def1": "моя голова",
+      "ipa": "май hэд",
+      "spell": "my head"
+    },
+    {
+      "def1": "мамин и папин дом",
+      "ipa": "май мɑм æнд дæдз hаус",
+      "spell": "my mom and dad’s house"
+    },
+    {
+      "def1": "мамина комната",
+      "ipa": "май мɑмз рум",
+      "spell": "my mom’s room"
+    },
+    {
+      "def1": "мою сестру зовут Молли",
+      "ipa": "май ˈсɪстɚз нэйм ɪз ˈмɑли",
+      "spell": "my sister’s name is Molly"
+    },
+    {
+      "def1": "назови их имена",
+      "ipa": "нэйм ðэм",
+      "spell": "name them"
+    },
+    {
+      "def1": "назови вещи",
+      "ipa": "нэйм θɪŋз",
+      "spell": "name things"
+    },
+    {
+      "def1": "назови эту вещь",
+      "ipa": "нэйм ðɪс θɪŋ",
+      "spell": "name this thing"
+    },
+    {
+      "def1": "назови это!",
+      "ipa": "нэйм ðɪс!",
+      "spell": "name this!"
+    },
+    {
+      "def1": "новая технология",
+      "ipa": "ну тэк",
+      "spell": "new tech"
+    },
+    {
+      "def1": "новый, новее",
+      "ipa": "ну, ˈнуɚ",
+      "spell": "new, newer"
+    },
+    {
+      "def1": "ещё нет",
+      "ipa": "нɑт йэт",
+      "spell": "not yet"
+    },
+    {
+      "def1": "число",
+      "ipa": "ˈнʌмбɚ",
+      "spell": "number"
+    },
+    {
+      "def1": "устаревшая технология",
+      "ipa": "оулд тэк",
+      "spell": "old tech"
+    },
+    {
+      "def1": "старый, старше",
+      "ipa": "оулд, ˈоулдɚ",
+      "spell": "old, older"
+    },
+    {
+      "def1": "другие страны",
+      "ipa": "ˈʌðɚ ˈкʌнтриз",
+      "spell": "other countries"
+    },
+    {
+      "def1": "специфический, своеобразный",
+      "ipa": "пəˈкъюлйɚ",
+      "spell": "peculiar"
+    },
+    {
+      "def1": "люди завтракают как обычно",
+      "ipa": "ˈпипəл hæв ðэр ˈюжəwəл ˈбрэкфəст",
+      "spell": "people have their usual breakfast"
+    },
+    {
+      "def1": "в моей стране люди обильно ужинают",
+      "ipa": "ˈпипəл ɪн май ˈкʌнтри hæв ə бɪг ˈдɪнɚ",
+      "spell": "people in my country have a big dinner"
+    },
+    {
+      "def1": "люди начали приходить после полудня",
+      "ipa": "ˈпипəл ˈстɑртɪд ту кʌм ˈæфтɚ тwэлв ˈпиˈэм",
+      "spell": "people started to come after twelve PM"
+    },
+    {
+      "def1": "совершенный",
+      "ipa": "ˈпɝˌфɪкт",
+      "spell": "perfect"
+    },
+    {
+      "def1": "RAV4 - машина среднего размера",
+      "ipa": "ɑр-эй-ви4 ɪз ə ˈмидиəм-сайз кɑр",
+      "spell": "RAV4 is a medium-size car"
+    },
+    {
+      "def1": "сало",
+      "ipa": "ˈсɑлоу (ə ˌйʊрəˈпиəн фуд)",
+      "spell": "salo (a European food)"
+    },
+    {
+      "def1": "наука",
+      "ipa": "ˈсайəнс",
+      "spell": "science"
+    },
+    {
+      "def1": "увидимся позже",
+      "ipa": "си ю ˈлэйтɚ",
+      "spell": "see you later"
+    },
+    {
+      "def1": "она не ходит",
+      "ipa": "щи ˈдʌзəнт гоу",
+      "spell": "she doesn’t go"
+    },
+    {
+      "def1": "она не имеет денег",
+      "ipa": "щи ˈдʌзəнт hæв ˈмʌни",
+      "spell": "she doesn’t have money"
+    },
+    {
+      "def1": "она не знает",
+      "ipa": "щи ˈдʌзəнт ноу",
+      "spell": "she doesn’t know"
+    },
+    {
+      "def1": "она не читает книги",
+      "ipa": "щи ˈдʌзəнт рид бʊкс",
+      "spell": "she doesn’t read books"
+    },
+    {
+      "def1": "она не носит очки",
+      "ipa": "щи ˈдʌзəнт wэр ˈглæсəз",
+      "spell": "she doesn’t wear glasses"
+    },
+    {
+      "def1": "она не работает",
+      "ipa": "щи ˈдʌзəнт wɝк",
+      "spell": "she doesn’t work"
+    },
+    {
+      "def1": "она слушает (сейчас)",
+      "ipa": "щи ɪз ˈлɪсəнɪŋ",
+      "spell": "she is listening"
+    },
+    {
+      "def1": "ей один год",
+      "ipa": "щи ɪз wʌн (йɪр оулд)",
+      "spell": "she is one (year old)"
+    },
+    {
+      "def1": "ей двадцать три",
+      "ipa": "щи ɪз ˈтwэнти θри",
+      "spell": "she is twenty three"
+    },
+    {
+      "def1": "она работает",
+      "ipa": "щи wɝкс",
+      "spell": "she works"
+    },
+    {
+      "def1": "серебряный",
+      "ipa": "ˈсɪлвɚ",
+      "spell": "silver"
+    },
+    {
+      "def1": "единственное число, множественное число",
+      "ipa": "ˈсɪŋгйəлɚ, ˈплʊрəл",
+      "spell": "singular, plural"
+    },
+    {
+      "def1": "маленький, меньше",
+      "ipa": "смɔл, ˈсмɔлɚ",
+      "spell": "small, smaller"
+    },
+    {
+      "def1": "кое-какие другие вещи",
+      "ipa": "сʌм ˈʌðɚ θɪŋз",
+      "spell": "some other things"
+    },
+    {
+      "def1": "кое-что, нечто, что-то",
+      "ipa": "ˈсʌмθɪŋ",
+      "spell": "something"
+    },
+    {
+      "def1": "кислый",
+      "ipa": "ˈсауɚ",
+      "spell": "sour"
+    },
+    {
+      "def1": "стабильный",
+      "ipa": "ˈстэйбəл",
+      "spell": "stable"
+    },
+    {
+      "def1": "выматывающий, напряжённый, тяжёлый",
+      "ipa": "ˈстрэсфəл",
+      "spell": "stressful"
+    },
+    {
+      "def1": "студенческий, ученический",
+      "ipa": "ˈстудəнтс",
+      "spell": "students’"
+    },
+    {
+      "def1": "студенческая общага",
+      "ipa": "ˈстудəнтс дорм",
+      "spell": "students’ dorm"
+    },
+    {
+      "def1": "преподавай, учитель",
+      "ipa": "тич, ˈтичɚ",
+      "spell": "teach, teacher"
+    },
+    {
+      "def1": "спасибо большое!",
+      "ipa": "θæŋк ю ˈвэри мʌч!",
+      "spell": "thank you very much!"
+    },
+    {
+      "def1": "огромное спасибо!",
+      "ipa": "θæŋкс ə лɑт!",
+      "spell": "thanks a lot!"
+    },
+    {
+      "def1": "спасибо!",
+      "ipa": "θæŋкс!",
+      "spell": "thanks!"
+    },
+    {
+      "def1": "тот дом (очень) старый",
+      "ipa": "ðæт hаус ɪз (ˈвэри) оулд",
+      "spell": "that house is (very) old"
+    },
+    {
+      "def1": "руки робота",
+      "ipa": "ðи ɑрмз ʌв ðə ˈроуˌбɑт",
+      "spell": "the arms of the robot"
+    },
+    {
+      "def1": "игрушка мальчиков",
+      "ipa": "ðə бойз той",
+      "spell": "the boys’ toy"
+    },
+    {
+      "def1": "крыша машины",
+      "ipa": "ðə кɑрз руф",
+      "spell": "the car’s roof"
+    },
+    {
+      "def1": "пятая комната",
+      "ipa": "ðə фɪфθ рум",
+      "spell": "the fifth room"
+    },
+    {
+      "def1": "молодожёны",
+      "ipa": "ðə ˈнулиˌwэдз",
+      "spell": "the newlyweds"
+    },
+    {
+      "def1": "противоположность белого",
+      "ipa": "ðи ˈɑпəзəт ʌв wайт",
+      "spell": "the opposite of white"
+    },
+    {
+      "def1": "стандартная комплектация машины",
+      "ipa": "ðə ˈстæндɚд ˈпæкəдж",
+      "spell": "the standard package"
+    },
+    {
+      "def1": "мир",
+      "ipa": "ðə wɝлд",
+      "spell": "the world"
+    },
+    {
+      "def1": "нулевой артикль",
+      "ipa": "ðə ˈзɪроу ˈɑртəкəл",
+      "spell": "the zero article"
+    },
+    {
+      "def1": "на этой картинке есть люди",
+      "ipa": "ðэр ɑр ˈпипəл ɪн ðɪс ˈпɪкчɚ",
+      "spell": "there are people in this picture"
+    },
+    {
+      "def1": "вот, пожалуйста",
+      "ipa": "ðэр ю гоу",
+      "spell": "there you go"
+    },
+    {
+      "def1": "эти машины из Японии",
+      "ipa": "ðиз кɑрз ɑр фрʌм джəˈпæн",
+      "spell": "these cars are from Japan"
+    },
+    {
+      "def1": "эти люди молодые",
+      "ipa": "ðиз ˈпипəл ɑр йʌŋ",
+      "spell": "these people are young"
+    },
+    {
+      "def1": "это очень трудные вопросы",
+      "ipa": "ðэй ɑр ˈвэри ˈдɪфəкəлт ˈкwэсчəнз",
+      "spell": "they are very difficult questions"
+    },
+    {
+      "def1": "этот дом — больница",
+      "ipa": "ðɪс hаус ɪз ə ˈhɑˌспɪтəл",
+      "spell": "this house is a hospital"
+    },
+    {
+      "def1": "это мать моего мужа",
+      "ipa": "ðɪс ɪз май ˈhʌзбəндз ˈмʌðɚ",
+      "spell": "this is my husband’s mother"
+    },
+    {
+      "def1": "те деревья зелёные",
+      "ipa": "ðоуз триз ɑр грин",
+      "spell": "those trees are green"
+    },
+    {
+      "def1": "четверг",
+      "ipa": "ˈθɝзˌдэй",
+      "spell": "Thursday"
+    },
+    {
+      "def1": "обвести кружком",
+      "ipa": "ту ˈсɝкəл",
+      "spell": "to circle"
+    },
+    {
+      "def1": "есть, поедать",
+      "ipa": "ту ит",
+      "spell": "to eat"
+    },
+    {
+      "def1": "владеть",
+      "ipa": "ту пəˈзэс",
+      "spell": "to possess"
+    },
+    {
+      "def1": "учиться",
+      "ipa": "ту ˈстʌди",
+      "spell": "to study"
+    },
+    {
+      "def1": "сегодня было лучше, чем вчера",
+      "ipa": "тəˈдэй wʌз ˈбэтɚ ðæн ˈйэстɚˌдэй",
+      "spell": "today was better than yesterday"
+    },
+    {
+      "def1": "уродливый",
+      "ipa": "ˈʌгли",
+      "spell": "ugly"
+    },
+    {
+      "def1": "очень специфическая еда",
+      "ipa": "ˈвэри спəˈсɪфɪк",
+      "spell": "very specific"
+    },
+    {
+      "def1": "вьетнамская еда",
+      "ipa": "виэтнɑˈмис фуд",
+      "spell": "Vietnamese food"
+    },
+    {
+      "def1": "какая хорошая работа!",
+      "ipa": "wɑт ə найс джɑб!",
+      "spell": "what a nice job!"
+    },
+    {
+      "def1": "что они такое?",
+      "ipa": "wɑт ɑр ðэй?",
+      "spell": "what are they?"
+    },
+    {
+      "def1": "чем он занимается?",
+      "ipa": "wɑт дʌз hи ду?",
+      "spell": "what does he do?"
+    },
+    {
+      "def1": "какие хорошие наушники!",
+      "ipa": "wɑт найс ˈирбʌдз!",
+      "spell": "what nice earbuds!"
+    },
+    {
+      "def1": "какие хорошие брюки!",
+      "ipa": "wɑт найс пæнтс!",
+      "spell": "what nice pants!"
+    },
+    {
+      "def1": "какие хорошие туфли!",
+      "ipa": "wɑт найс щуз!",
+      "spell": "what nice shoes!"
+    },
+    {
+      "def1": "кто",
+      "ipa": "hу",
+      "spell": "who"
+    },
+    {
+      "def1": "чей",
+      "ipa": "hуз",
+      "spell": "whose"
+    },
+    {
+      "def1": "трусливый",
+      "ipa": "ˈйэлоу",
+      "spell": "yellow"
+    },
+    {
+      "def1": "ты пакуешь",
+      "ipa": "ю пæк",
+      "spell": "you pack"
+    },
+    {
+      "def1": "твой отец умер",
+      "ipa": "йʊɚ дæд ɪз дэд",
+      "spell": "your dad is dead"
+    },
+    {
+      "def1": "молодой, моложе",
+      "ipa": "йʌŋ, ˈйʌŋгɚ",
+      "spell": "young, younger"
+    },
+    {
+      "def1": "микронаушники (типа \"капли\")",
+      "ipa": "ˈирбʌдз",
+      "spell": "earbuds"
+    }
+  ]
+}
