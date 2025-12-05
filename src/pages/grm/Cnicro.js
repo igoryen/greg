@@ -5,26 +5,26 @@ const Cnicro = (props) => {
 
     const [index, setIndex] = useState(0);
 
-    const here = ["hɪr", "here", "хир"];
-    const igh = ["aɪ", "I", "ай"];
-    const hesheit = ["hi ʃi ɪt", "he she it", "hи щи ɪт"];
-    const weyouthey = ["wi ju ðeɪ", "we you they", "ўи ю ðэй"];
+    const here = ["here", "hɪr", "хир"];
+    const igh = ["I", "aɪ", "ай"];
+    const hesheit = ["he she it", "hi ʃi ɪt", "hи щи ɪт"];
+    const weyouthey = ["we you they", "wi ju ðeɪ", "wи ю ðэй"];
 
-    const am = ["æm", "am", "æм"];
-    const ams = ["m", "'m", "м"];
-    const is = ["ɪz", "is", "ɪз"];
-    const iss = ["z s", "'s", "з с"];
-    const are = ["ɑr", "are", "ɑр"];
-    const ares = ["r", "'re", "р"];
+    const am = ["am", "æm", "æм"];
+    const ams = ["'m", "m", "м"];
+    const is = ["is", "ɪz", "ɪз"];
+    const iss = ["'s", "z s", "з с"];
+    const are = ["are", "ɑr", "ɑр"];
+    const ares = ["'re", "r", "р"];
 
-    const be = ["bi", "BE", "БИ"];
-    const not = ["nɑt", "not", "нɑт"];
-    const nots = ["nt", "n't", "нт"];
+    const be = ["BE", "bi", "БИ"];
+    const not = ["not", "nɑt", "нɑт"];
+    const nots = ["n't", "nt", "нт"];
 
     return (
         <section className="cnicro">
             <div className="kimbo">
-                <button onClick={() => setIndex((index + 1) % 3)}>Next</button>
+                <button onClick={() => setIndex((index + 1) % 3)}>Change letters <span>⬇️</span></button>
             </div>
 
             <div className="jimbo">

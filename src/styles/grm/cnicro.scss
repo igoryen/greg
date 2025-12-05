@@ -5,6 +5,21 @@
     font-family: "Noto Sans", sans-serif;
     width: 100%;
 
+    .kimbo {
+        button {
+            display: flex;
+            align-items: center;
+            padding: 0.5em;
+            background-color: #3589d9;
+            color: white;
+            font-weight: 600;
+
+            span {
+                font-size: 1.5em;
+            }
+        }
+    }
+
 
     .sncBlock {
         border: 3px solid brown;
@@ -21,7 +36,7 @@
 
 
     .snc {
-        align-items: flex-end;
+        align-items: anchor-center;
         border-radius: 10px;
         display: flex;
         // flex-direction: column;
@@ -81,6 +96,8 @@
             }
 
             &.verb {
+                position: relative;
+
                 &.be {
                     align-items: center;
                     // background-color: purple;                    
@@ -96,7 +113,10 @@
                     color: brown;
 
                     .emoji {
-                        font-size: 37px;
+                        font-size: 0.5em;
+                        position: absolute;
+                        top: 0;
+                        right: 0;
                     }
                 }
             }
