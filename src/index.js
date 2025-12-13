@@ -75,6 +75,8 @@ import DK01 from "./pages/dk/DK01";
 import DK02 from "./pages/dk/DK02";
 import DK03 from "./pages/dk/DK03";
 
+import Fatne from "./pages/grm/Fatne";
+
 import FlipCardPage from "./components/FlipCardPage";
 import Gadri from "./pages/Gadri";
 import Grapheme from "./pages/scr/Grapheme";
@@ -370,6 +372,9 @@ export default function App() {
             <Route path="dk01" element={<DK01 />} />
             <Route path="dk02" element={<DK02 />} />
             <Route path="dk03" element={<DK03 />} />
+
+            <Route path="fatne" element={<Fatne />} />
+
 
             {/* trial for non-jQuery card flipping functionality 250708 */}
             <Route path="fcp" element={<FlipCardPage />} />

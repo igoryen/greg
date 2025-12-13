@@ -11,6 +11,7 @@ const Sidju = () => {
         { label: "Clani", path: "/clani", desc: "vowels: long, short" },
         { label: "Cnici", path: "/cnici", desc: "order the words in a sentence (DND)" },
         { label: "Cnicro", path: "/cnicro", desc: "\"be\" in present simple" },
+        { label: "Fatne", path: "/fatne", desc: "inversion" },
         { label: "Gadri", path: "/gadri", desc: "articles: ə/ən, ðə/ði" },
         { label: "Grapheme", path: "/grapheme", desc: "Graphemes" },
         { label: "Jarco", path: "/jarco", desc: "Demonstrative pronouns" },

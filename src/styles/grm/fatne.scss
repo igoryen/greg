@@ -1,0 +1,66 @@
+@mixin eng-font {
+    // font-family: Georgia, 'Times New Roman', Times, serif;
+    // font-family: "Playwrite DE Grund Guides", sans-serif;
+    font-family: "EB Garamond", serif;
+    // color: #a84822;
+    color: #5f2914;
+    // color: #333;
+    // text-shadow: 1px 1px 2px #000000a6;
+    font-size: 1.2em;
+}
+
+#fatne {
+    // font-size: large;
+    font-family: "Noto Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+
+    ol {
+        list-style: none;
+    }
+
+    ol {
+        list-style-type: decimal;
+        list-style-position: outside;
+        counter-reset: item;
+        padding-left: 0;
+        /* Remove default padding */
+        margin-left: 0;
+        /* Remove default margin */
+
+        li {
+            // background: mistyrose;
+            // color: darkred;
+            padding: 10px;
+            margin-left: 20px;
+            display: list-item;
+            /* Ensure it displays as list item */
+            list-style-position: outside;
+            margin-left: 2em;
+            /* Create space for numbers */
+            padding-left: 0.5em;
+            padding: 10px;
+        }
+
+    }
+
+    .aaa {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bbb {
+        color: #ccc;
+    }
+
+    .ccc {
+        @include eng-font();
+    }
+
+    .ddd {
+        font-size: 1em;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+
+}
