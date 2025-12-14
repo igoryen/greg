@@ -11,42 +11,42 @@ const Fatne = (prop) => {
 
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only can it swim, but it can also fly.</div>
+                    <div class="ccc">Not only <b>can <i>it</i> swim</b>, but it can also fly.</div>
                     <div class="ddd">Мало того что он умеет плавать, он ещё и летать умеет</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only do I enjoy running, but I also find it very relaxing. </div>
+                    <div class="ccc">Not only <b>do <i>I</i> enjoy</b> running, but I also find it very relaxing. </div>
                     <div class="ddd">Мало того что мне нравится бегать, я ещё и нахожу это очень расслабляющим.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only do you speak German, but you also speak English.</div>
+                    <div class="ccc">Not only <b>do <i>you</i> speak</b> German, but you also speak English.</div>
                     <div class="ddd">Мало того что ты говоришь по-немецки, ты ещё и по-английски говоришь</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only does he speak French, but he also writes poetry in it. </div>
+                    <div class="ccc">Not only <b>does <i>he</i> speak</b> French, but he also writes poetry in it. </div>
                     <div class="ddd">Мало того что он говорит по-французски, он ещё и пишет на нём стихи.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only does he speak, but he also does cross-stitch.</div>
+                    <div class="ccc">Not only <b>does <i>he</i> speak</b>, but he also does cross-stitch.</div>
                     <div class="ddd">Мало того что он говорит, он ещё и вышивает крестиком</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only is it dangerous for you, but also for your whole family.</div>
+                    <div class="ccc">Not only <b>is <i>it</i> dangerous</b> for you, but also for your whole family.</div>
                     <div class="ddd">Мало того что это опасно для тебя, (так) ещё и для всей твоей семьи</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only is the car expensive, but it is also unreliable. </div>
+                    <div class="ccc">Not only <b>is <i>the car</i> expensive</b>, but it is also unreliable. </div>
                     <div class="ddd">Мало того что машина дорогая, она ещё и ненадёжная.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only is the plot great, but it's also very well written.</div>
+                    <div class="ccc">Not only <b>is <i>the plot</i> great</b>, but it's also very well written.</div>
                     <div class="ddd">Мало того что сюжет отличный, он ещё и очень хорошо написан.</div>
                 </li>
             </ol>
@@ -56,17 +56,12 @@ const Fatne = (prop) => {
             <ol>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only did S [do], but S also [did] </div>
-                    <div class="ddd">Мало того что S сделал, (но) S также сделал</div>
-                </li>
-                <li class="aaa">
-                    <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only did he kill the sheriff, but he also killed the deputy.</div>
+                    <div class="ccc">Not only <b>did <i>he</i> kill</b> the sheriff, but he also killed the deputy.</div>
                     <div class="ddd">Мало того что он убил шерифа, он ещё и убил помощника.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only did she forget my birthday, but she also didn't apologize. </div>
+                    <div class="ccc">Not only <b>did <i>she</i> forget</b> my birthday, but she also didn't apologize. </div>
                     <div class="ddd">Мало того что она забыла о моём дне рождения, она ещё и не извинилась.</div>
                 </li>
                 <li class="aaa">
@@ -84,7 +79,7 @@ const Fatne = (prop) => {
             <ol>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only was the hotel room depressing, (but) it was cold as well.</div>
+                    <div class="ccc">Not only <b>was <i>the hotel room</i> depressing</b>, (but) it was cold as well.</div>
                     <div class="ddd">Мало того что номер в отеле был угнетающим, он ещё и был холодным.</div>
                 </li>
 
@@ -117,7 +112,7 @@ const Fatne = (prop) => {
 
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Fast do the hours and years proceed! </div>
+                    <div class="ccc">Fast <b>do <i>the hours and years</i> proceed</b>! </div>
                     <div class="ddd">Быстро же бегут часы и годы!</div>
                 </li>
                 <li class="aaa">

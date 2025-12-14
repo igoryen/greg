@@ -64,8 +64,22 @@
         // font-family: Georgia, 'Times New Roman', Times, serif;
         // font-family: "Playwrite DE Grund Guides", sans-serif;
         font-family: "EB Garamond", serif;
-        color: #a84822;
+        color: #7b3418;
         // color: #5f2914;
+
+        b {
+            font-weight: 100;
+            background-color: #f5d5da;
+            border: 2px solid #f5d5da;
+            border-radius: 3px;
+        }
+
+        i {
+            font-style: normal;
+
+            background-color: yellow;
+            border-radius: 3px;
+        }
     }
 
     .ddd {
