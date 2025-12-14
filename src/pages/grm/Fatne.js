@@ -5,15 +5,13 @@ const Fatne = (prop) => {
         <section id="fatne">
 
             <h1>Inversion</h1>
+
+            <h2>Not only _does S [do], but S also [does]</h2>
             <ol>
+
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only _does S [do], but S also [does]</div>
-                    <div class="ddd"></div>
-                </li>
-                <li class="aaa">
-                    <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only can it swim, but it can also fly </div>
+                    <div class="ccc">Not only can it swim, but it can also fly.</div>
                     <div class="ddd">Мало того что он умеет плавать, он ещё и летать умеет</div>
                 </li>
                 <li class="aaa">
@@ -23,7 +21,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only do you speak German, but you also speak English </div>
+                    <div class="ccc">Not only do you speak German, but you also speak English.</div>
                     <div class="ddd">Мало того что ты говоришь по-немецки, ты ещё и по-английски говоришь</div>
                 </li>
                 <li class="aaa">
@@ -33,12 +31,12 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only does he speak, but he also does cross-stitch </div>
+                    <div class="ccc">Not only does he speak, but he also does cross-stitch.</div>
                     <div class="ddd">Мало того что он говорит, он ещё и вышивает крестиком</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only is it dangerous for you, but also for your whole family </div>
+                    <div class="ccc">Not only is it dangerous for you, but also for your whole family.</div>
                     <div class="ddd">Мало того что это опасно для тебя, (так) ещё и для всей твоей семьи</div>
                 </li>
                 <li class="aaa">
@@ -48,14 +46,14 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v1:</div>
-                    <div class="ccc">Not only is the plot great, but it's also very well written </div>
+                    <div class="ccc">Not only is the plot great, but it's also very well written.</div>
                     <div class="ddd">Мало того что сюжет отличный, он ещё и очень хорошо написан.</div>
                 </li>
-                <li class="aaa">
-                    <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only _did S [do], but S also [did]</div>
-                    <div class="ddd"></div>
-                </li>
+            </ol>
+
+            <h2>Not only _did S [do], but S also [did]</h2>
+
+            <ol>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
                     <div class="ccc">Not only _did S [do], but S also [did] </div>
@@ -63,7 +61,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only did he kill the sheriff, but he also killed the deputy </div>
+                    <div class="ccc">Not only did he kill the sheriff, but he also killed the deputy.</div>
                     <div class="ddd">Мало того что он убил шерифа, он ещё и убил помощника.</div>
                 </li>
                 <li class="aaa">
@@ -73,34 +71,32 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only did they dislike her, but they also hated her family </div>
+                    <div class="ccc">Not only did they dislike her, but they also hated her family.</div>
                     <div class="ddd">Мало того что она была им несимпатична, они ещё и ненавидели её семью.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only did you forget to do this but you also forgot to do that </div>
+                    <div class="ccc">Not only did you forget to do this but you also forgot to do that.</div>
                     <div class="ddd">Мало того что ты забыл сделать это, ты ещё и забыл сделать то.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v2:</div>
-                    <div class="ccc">Not only was the hotel room depressing, (but) it was cold as well </div>
+                    <div class="ccc">Not only was the hotel room depressing, (but) it was cold as well.</div>
                     <div class="ddd">Мало того что номер в отеле был угнетающим, он ещё и был холодным.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v3:</div>
-                    <div class="ccc">Not only had he killed him but he had also killed a nun </div>
+                    <div class="ccc">Not only had he killed him but he had also killed a nun.</div>
                     <div class="ddd">Мало того что он убил его, он ещё и убил монахиню.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.add.v3:</div>
-                    <div class="ccc">Not only had he shot the sheriff but he had also killed his deputy </div>
+                    <div class="ccc">Not only had he shot the sheriff but he had also killed his deputy.</div>
                     <div class="ddd">Мало того что он застрелил шерифа, он ещё и убил его помощника.</div>
                 </li>
-                <li class="aaa">
-                    <div class="bbb">Inv.add.v3:</div>
-                    <div class="ccc">Not only had S [done], but S had also [done]</div>
-                    <div class="ddd"></div>
-                </li>
+
+                <h2>Not only had S [done], but S had also [done]</h2>
+
                 <li class="aaa">
                     <div class="bbb">Inv.add.v3:</div>
                     <div class="ccc">Not only had they lost the map, but their phone batteries had also died. </div>
@@ -131,15 +127,14 @@ const Fatne = (prop) => {
                     <div class="ccc">Much have I traveled around the world, but never have I heard of that place. </div>
                     <div class="ddd">Много я путешествовал по миру, но никогда не слышал об этом месте.</div>
                 </li>
+            </ol>
+
+            <h2>Never _had S [done]</h2>
+            <ol>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never _had S [done]</div>
-                    <div class="ddd"></div>
-                </li>
-                <li class="aaa">
-                    <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never before had Stirlitz been so close to failure  </div>
-                    <div class="ddd">Никогда ещё Штирлиц не был так близок к провалу </div>
+                    <div class="ccc">Never before had Stirlitz been so close to failure.</div>
+                    <div class="ddd">Никогда ещё Штирлиц не был так близок к провалу.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
@@ -153,7 +148,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never had we seen such magnificent scenery </div>
+                    <div class="ccc">Never had we seen such magnificent scenery.</div>
                     <div class="ddd">Никогда ещё мы не видели такого великолепного пейзажа.</div>
                 </li>
                 <li class="aaa">
@@ -163,14 +158,12 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never has he regretted the decision he made on that day </div>
+                    <div class="ccc">Never has he regretted the decision he made on that day.</div>
                     <div class="ddd">Никогда он не сожалел о решении, принятом в тот день.</div>
                 </li>
-                <li class="aaa">
-                    <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never has S [done]</div>
-                    <div class="ddd"></div>
-                </li>
+            </ol>
+            <h2>Never has S [done]</h2>
+            <ol>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
                     <div class="ccc">Never has she lied to her parents. </div>
@@ -183,47 +176,47 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never have I heard such a thing </div>
+                    <div class="ccc">Never have I heard such a thing.</div>
                     <div class="ddd">Никогда я не слышал такого.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never have I seen so many people in an art gallery looking happy </div>
+                    <div class="ccc">Never have I seen so many people in an art gallery looking happy.</div>
                     <div class="ddd">Никогда я не видел столько счастливых людей в художественной галерее.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never have I seen such a thing </div>
+                    <div class="ccc">Never have I seen such a thing.</div>
                     <div class="ddd">Никогда я не видел такого.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Never have we seen such magnificent scenery </div>
+                    <div class="ccc">Never have we seen such magnificent scenery.</div>
                     <div class="ddd">Никогда мы не видели такого великолепного пейзажа.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Not always does this happen </div>
+                    <div class="ccc">Not always does this happen.</div>
                     <div class="ddd">Не всегда это происходит.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Not idly do the leaves of Lothlorien fall </div>
+                    <div class="ccc">Not idly do the leaves of Lothlorien fall.</div>
                     <div class="ddd">Не напрасно падают листья Лотлориэна.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Not often can you hear such a thing </div>
+                    <div class="ccc">Not often can you hear such a thing.</div>
                     <div class="ddd">Не часто услышишь такое.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Not often do things like this happen </div>
+                    <div class="ccc">Not often do things like this happen.</div>
                     <div class="ddd">Не часто случаются подобные вещи.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Not often do you see such a thing </div>
+                    <div class="ccc">Not often do you see such a thing.</div>
                     <div class="ddd">Не часто увидишь такое.</div>
                 </li>
                 <li class="aaa">
@@ -248,17 +241,17 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Rarely am I this wrong </div>
+                    <div class="ccc">Rarely am I this wrong.</div>
                     <div class="ddd">Редко я так ошибаюсь.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Rarely do we see such courage </div>
+                    <div class="ccc">Rarely do we see such courage.</div>
                     <div class="ddd">Редко мы видим такое мужество.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Rarely do you see such a thing </div>
+                    <div class="ccc">Rarely do you see such a thing.</div>
                     <div class="ddd">Редко увидишь такое.</div>
                 </li>
                 <li class="aaa">
@@ -278,17 +271,17 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Rarely have I been this wrong </div>
+                    <div class="ccc">Rarely have I been this wrong.</div>
                     <div class="ddd">Редко я так ошибался.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Rarely have I met a more irritating person </div>
+                    <div class="ccc">Rarely have I met a more irritating person.</div>
                     <div class="ddd">Редко встречал я более раздражающего человека.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.adv:</div>
-                    <div class="ccc">Rarely have I read such a badly written novel </div>
+                    <div class="ccc">Rarely have I read such a badly written novel.</div>
                     <div class="ddd">Редко читал я столь плохо написанный роман.</div>
                 </li>
                 <li class="aaa">
@@ -313,7 +306,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.cond.later.v2:</div>
-                    <div class="ccc">Only later did I understand that this was not the way to proceed </div>
+                    <div class="ccc">Only later did I understand that this was not the way to proceed.</div>
                     <div class="ddd">Только позже я понял, что это не тот путь, по которому следует идти.</div>
                 </li>
                 <li class="aaa">
@@ -323,7 +316,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.cond.then.v2:</div>
-                    <div class="ccc">Only then did I realize the full scale of the disaster </div>
+                    <div class="ccc">Only then did I realize the full scale of the disaster.</div>
                     <div class="ddd">Только тогда я осознал весь масштаб катастрофы.</div>
                 </li>
                 <li class="aaa">
@@ -333,7 +326,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.cond.then.v2:</div>
-                    <div class="ccc">Only then was I able to relax </div>
+                    <div class="ccc">Only then was I able to relax.</div>
                     <div class="ddd">Только тогда я смог расслабиться.</div>
                 </li>
                 <li class="aaa">
@@ -343,17 +336,17 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.cond.when.v1:</div>
-                    <div class="ccc">Only when you leave home do you realize how expensive everything is </div>
+                    <div class="ccc">Only when you leave home do you realize how expensive everything is.</div>
                     <div class="ddd">Только когда уезжаешь из дома, понимаешь, как всё дорого.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.cond.when.v2:</div>
-                    <div class="ccc">Only when I spoke to the manager was the problem taken seriously </div>
+                    <div class="ccc">Only when I spoke to the manager was the problem taken seriously.</div>
                     <div class="ddd">Только когда я поговорил с менеджером, к проблеме отнеслись серьёзно.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.cond.when.v2:</div>
-                    <div class="ccc">Only when it is unusually cold do we light the fire </div>
+                    <div class="ccc">Only when it is unusually cold do we light the fire.</div>
                     <div class="ddd">Только когда необычайно холодно, мы разжигаем камин.</div>
                 </li>
                 <li class="aaa">
@@ -363,7 +356,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.cond.when.v2:</div>
-                    <div class="ccc">Only when we read his autobiography did we understand what he had really suffered </div>
+                    <div class="ccc">Only when we read his autobiography did we understand what he had really suffered.</div>
                     <div class="ddd">Только когда мы прочитали его автобиографию, мы поняли, через что он на самом деле прошёл.</div>
                 </li>
                 <li class="aaa">
@@ -378,17 +371,17 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">Hardly had (A) happened when/before (B) happened // focuses on the scant completion of the first event (A was barely done when B happened). If you want to highlight how little time you had to enjoy A </div>
+                    <div class="ccc">Hardly had (A) happened when/before (B) happened // focuses on the scant completion of the first event (A was barely done when B happened). If you want to highlight how little time you had to enjoy A.</div>
                     <div class="ddd">Едва (A) произошло, как/прежде чем произошло (B) // акцент на едва завершённом первом событии (A едва случилось, как B). Если нужно подчеркнуть, как мало времени было, чтобы насладиться A.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">Hardly had I said it when I regretted it </div>
+                    <div class="ccc">Hardly had I said it when I regretted it.</div>
                     <div class="ddd">Не успел я это сказать, как пожалел об этом</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">Hardly had I sat down when/before the train began to move </div>
+                    <div class="ccc">Hardly had I sat down when/before the train began to move.</div>
                     <div class="ddd">Едва я сел, как/прежде чем поезд тронулся.</div>
                 </li>
                 <li class="aaa">
@@ -398,7 +391,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">Hardly had she put the comb in her hair when the poison in it took effect and the girl fell down senseless </div>
+                    <div class="ccc">Hardly had she put the comb in her hair when the poison in it took effect and the girl fell down senseless.</div>
                     <div class="ddd">Едва она вставила гребень в волосы, как подействовал яд, и девушка упала без чувств.</div>
                 </li>
                 <li class="aaa">
@@ -413,7 +406,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">Hardly had we arrived when we had to leave again </div>
+                    <div class="ccc">Hardly had we arrived when we had to leave again.</div>
                     <div class="ddd">Едва мы приехали, как нам снова пришлось уезжать</div>
                 </li>
                 <li class="aaa">
@@ -423,7 +416,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">Hardly had we started to eat when we heard someone knocking at the door </div>
+                    <div class="ccc">Hardly had we started to eat when we heard someone knocking at the door.</div>
                     <div class="ddd">Едва мы начали есть, как услышали, как кто-то стучит в дверь.</div>
                 </li>
                 <li class="aaa">
@@ -433,7 +426,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">No sooner had (A) happened ... than (B) happened // focuses on the quick succession of events (A, then immediately B). If you want to highlight how quickly B happened </div>
+                    <div class="ccc">No sooner had (A) happened ... than (B) happened // focuses on the quick succession of events (A, then immediately B). If you want to highlight how quickly B happened.</div>
                     <div class="ddd">Не успело (A) произойти, как произошло (B) // акцент на быстрой смене событий (A, затем немедленно B). Если нужно подчеркнуть, как быстро случилось B.</div>
                 </li>
                 <li class="aaa">
@@ -443,22 +436,22 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">No sooner had he gone to sleep than the phone rang </div>
+                    <div class="ccc">No sooner had he gone to sleep than the phone rang.</div>
                     <div class="ddd">Не успел он заснуть, как зазвонил телефон.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">No sooner had I come to the bus stop than my bus arrived </div>
+                    <div class="ccc">No sooner had I come to the bus stop than my bus arrived.</div>
                     <div class="ddd">Не успел я подойти к автобусной остановке, как приехал мой автобус.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">No sooner had I gone to bed than he came </div>
+                    <div class="ccc">No sooner had I gone to bed than he came.</div>
                     <div class="ddd">Не успел я лечь спать, как он пришёл.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">No sooner had I opened the fridge than the cat was near </div>
+                    <div class="ccc">No sooner had I opened the fridge than the cat was near.</div>
                     <div class="ddd">Не успел я открыть холодильник, как кот оказался рядом.</div>
                 </li>
                 <li class="aaa">
@@ -488,7 +481,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">No sooner had we sat down at the kitchen table than the twins burst in </div>
+                    <div class="ccc">No sooner had we sat down at the kitchen table than the twins burst in.</div>
                     <div class="ddd">Не успели мы сесть за кухонный стол, как ворвались близнецы.</div>
                 </li>
                 <li class="aaa">
@@ -498,7 +491,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.immed:</div>
-                    <div class="ccc">Scarcely had he had time to destroy the evidence before the police arrived, when the police arrived </div>
+                    <div class="ccc">Scarcely had he had time to destroy the evidence before the police arrived, when the police arrived.</div>
                     <div class="ddd">Едва у него было время уничтожить улики, прежде чем прибыла полиция, как полиция прибыла.</div>
                 </li>
                 <li class="aaa">
@@ -528,7 +521,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.prereq.v1:</div>
-                    <div class="ccc">_ thing 1 should happen first, then thing 2 can happen next </div>
+                    <div class="ccc">_ thing 1 should happen first, then thing 2 can happen next.</div>
                     <div class="ddd">Сначала должно произойти событие 1, затем может произойти событие 2.</div>
                 </li>
                 <li class="aaa">
@@ -543,12 +536,12 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.prereq.v1:</div>
-                    <div class="ccc">Not until you become a parent yourself do you understand what it really means </div>
+                    <div class="ccc">Not until you become a parent yourself do you understand what it really means.</div>
                     <div class="ddd">Только сам став родителем, понимаешь, что это на самом деле значит.</div>
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.prereq.v1:</div>
-                    <div class="ccc">Not until you can behave like an adult will we treat you like an adult </div>
+                    <div class="ccc">Not until you can behave like an adult will we treat you like an adult.</div>
                     <div class="ddd">Только когда ты сможешь вести себя как взрослый, мы будем относиться к тебе как к взрослому.</div>
                 </li>
                 <li class="aaa">
@@ -558,7 +551,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.prereq.v1:</div>
-                    <div class="ccc">Not until you've tried to write a novel yourself do you realize how hard it is </div>
+                    <div class="ccc">Not until you've tried to write a novel yourself do you realize how hard it is.</div>
                     <div class="ddd">Только попробовав самому написать роман, понимаешь, как это трудно.</div>
                 </li>
                 <li class="aaa">
@@ -578,7 +571,7 @@ const Fatne = (prop) => {
                 </li>
                 <li class="aaa">
                     <div class="bbb">Inv.prereq.v2:</div>
-                    <div class="ccc">Not until years later did I realize my mistake </div>
+                    <div class="ccc">Not until years later did I realize my mistake.</div>
                     <div class="ddd">Только годы спустя я осознал свою ошибку.</div>
                 </li>
             </ol>
