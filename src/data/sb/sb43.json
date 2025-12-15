@@ -1,0 +1,814 @@
+{
+  "student": "Svetlana B.",
+  "slug": "sb",
+  "period": "week",
+  "number": 59,
+  "date": "2025-12-11",
+  "words": [
+    {
+      "def1": "книга А. Дюма",
+      "ipa": "ə bʊk baɪ eɪ. duˈmɑ",
+      "spell": "a book by A. Dumas"
+    },
+    {
+      "def1": "книга Булгакова",
+      "ipa": "ə bʊk baɪ bʊlˈgɑkəv",
+      "spell": "a book by Bulgakov"
+    },
+    {
+      "def1": "брошюра",
+      "ipa": "ə broʊˈʃʊr",
+      "spell": "a brochure"
+    },
+    {
+      "def1": "рождественская ярмарка",
+      "ipa": "ə ˈkrɪsməs fɛr",
+      "spell": "a Christmas fair"
+    },
+    {
+      "def1": "перевод времени (на зимнее/летнее время)",
+      "ipa": "ə klɑk ʧeɪnʤ",
+      "spell": "a clock change"
+    },
+    {
+      "def1": "культурный человек",
+      "ipa": "ə ˈkʌlʧərd ˈpɜrsən",
+      "spell": "a cultured person"
+    },
+    {
+      "def1": "бесплатный журнал",
+      "ipa": "ə fri ˈmæɡəˌzin",
+      "spell": "a free magazine"
+    },
+    {
+      "def1": "ущелье",
+      "ipa": "ə ɡɔrʤ",
+      "spell": "a gorge"
+    },
+    {
+      "def1": "великолепный завтрак-шведский стол",
+      "ipa": "ə mæɡˈnɪfəsənt ˈsmɔrɡəsˌbɔrd ˈbrɛkfəst",
+      "spell": "a magnificent smorgasbord breakfast"
+    },
+    {
+      "def1": "магистерская диссертация, дипломная работа",
+      "ipa": "ə ˈmæstərz (dɪˈɡri) ˈθisəs",
+      "spell": "a master’s (degree) thesis"
+    },
+    {
+      "def1": "средиземноморский климат",
+      "ipa": "ə ˌmɛdətəˈreɪniən ˈklaɪmət",
+      "spell": "a Mediterranean climate"
+    },
+    {
+      "def1": "ботан, заумник",
+      "ipa": "ə nɜrd",
+      "spell": "a nerd"
+    },
+    {
+      "def1": "ботанические дебаты о звёздных кораблях",
+      "ipa": "ə ˈnɜrdɪʃ dəˈbeɪt əˈbaʊt ˈstɑrˌʃɪps",
+      "spell": "a nerdish debate about starships"
+    },
+    {
+      "def1": "роман",
+      "ipa": "ə ˈnɑvəl",
+      "spell": "a novel"
+    },
+    {
+      "def1": "человек, погруженный в мысли",
+      "ipa": "ə ˈpɜrsən lɔst ɪn θɔt",
+      "spell": "a person lost in thought"
+    },
+    {
+      "def1": "фонема",
+      "ipa": "ə ˈfoʊnim",
+      "spell": "a phoneme"
+    },
+    {
+      "def1": "значок",
+      "ipa": "ə pɪn, ə ˈbʌtən",
+      "spell": "a pin, a button"
+    },
+    {
+      "def1": "сюжет",
+      "ipa": "ə plɑt",
+      "spell": "a plot"
+    },
+    {
+      "def1": "человек энциклопедических знаний, эрудит",
+      "ipa": "ə ˈpɑliˌmæθ",
+      "spell": "a polymath"
+    },
+    {
+      "def1": "обед в складчину",
+      "ipa": "ə ˈpɑtˌlʌk",
+      "spell": "a potluck"
+    },
+    {
+      "def1": "звонок (телефона)",
+      "ipa": "ə ˈrɪŋtoʊn",
+      "spell": "a ringtone"
+    },
+    {
+      "def1": "слезливая любовная песня",
+      "ipa": "ə ˈʃmɔltsi lʌv sɔŋ",
+      "spell": "a schmaltzy love song"
+    },
+    {
+      "def1": "карьерист, честолюбец",
+      "ipa": "ə ˈsoʊʃəl ˈklaɪmər",
+      "spell": "a social climber"
+    },
+    {
+      "def1": "социальная лестница",
+      "ipa": "ə ˈsoʊʃəl ˈlædər",
+      "spell": "a social ladder"
+    },
+    {
+      "def1": "тявкающая собака",
+      "ipa": "ə ˈjæpɪŋ dɔɡ",
+      "spell": "a yapping dog"
+    },
+    {
+      "def1": "байка, история",
+      "ipa": "ə jɑrn",
+      "spell": "a yarn"
+    },
+    {
+      "def1": "после того, как ему исполнилось 45",
+      "ipa": "ˈæftər hi tɜrnd 45",
+      "spell": "after he turned 45"
+    },
+    {
+      "def1": "после пары напитков у неё начинает заплетаться язык",
+      "ipa": "ˈæftər ʤʌst ə ˈkʌpəl ʌv drɪŋks, ʃi stɑrts tu slɜr",
+      "spell": "after just a couple of drinks, she starts to slur"
+    },
+    {
+      "def1": "после того, как ей исполнилось 19",
+      "ipa": "ˈæftər ʃi tɜrnd 19",
+      "spell": "after she turned 19"
+    },
+    {
+      "def1": "фоновый, окружающий",
+      "ipa": "ˈæmbiənt",
+      "spell": "ambient"
+    },
+    {
+      "def1": "подросток-интроверт",
+      "ipa": "ən ˈɪntroʊˌvɜrtɪd ˈtiˌneɪʤər",
+      "spell": "an introverted teenager"
+    },
+    {
+      "def1": "а потом никого не осталось",
+      "ipa": "ænd ðɛn ðɛr wɜr nʌn",
+      "spell": "and then there were none"
+    },
+    {
+      "def1": "спросить дорогу",
+      "ipa": "æsk fɔr dəˈrɛkʃənz",
+      "spell": "ask for directions"
+    },
+    {
+      "def1": "уверять, заверять",
+      "ipa": "əˈʃʊr",
+      "spell": "assure"
+    },
+    {
+      "def1": "обнадёживать, ободрять",
+      "ipa": "ˌriəˈʃʊr",
+      "spell": "reassure"
+    },
+    {
+      "def1": "аудитория, публика",
+      "ipa": "ˈɑdiəns",
+      "spell": "audience"
+    },
+    {
+      "def1": "ужасный",
+      "ipa": "ˈɑfəl",
+      "spell": "awful"
+    },
+    {
+      "def1": "неловкий, нескладный",
+      "ipa": "ˈɑkwərd",
+      "spell": "awkward"
+    },
+    {
+      "def1": "по мотивам книги",
+      "ipa": "beɪst ɑn ə bʊk",
+      "spell": "based on a book"
+    },
+    {
+      "def1": "принеси чипсы или что-нибудь ещё",
+      "ipa": "brɪŋ ʧɪps ɔr ˌwʌˈtɛvər",
+      "spell": "bring chips or whatever"
+    },
+    {
+      "def1": "сигналящие машины",
+      "ipa": "kɑrz ˈhɔŋkɪŋ",
+      "spell": "cars honking"
+    },
+    {
+      "def1": "классическая литература",
+      "ipa": "ˈklæsɪkəl ˈlɪtərəʧər",
+      "spell": "classical literature"
+    },
+    {
+      "def1": "закрой багажник",
+      "ipa": "kloʊs ðə hʊd",
+      "spell": "close the hood"
+    },
+    {
+      "def1": "одежда",
+      "ipa": "kloʊðz",
+      "spell": "clothes"
+    },
+    {
+      "def1": "состояние",
+      "ipa": "kənˈdɪʃən",
+      "spell": "condition"
+    },
+    {
+      "def1": "сознание",
+      "ipa": "ˈkɑnʃəsnəs",
+      "spell": "consciousness"
+    },
+    {
+      "def1": "продолжать читать",
+      "ipa": "kənˈtɪnju tu rid",
+      "spell": "continue to read"
+    },
+    {
+      "def1": "дополнительное образование",
+      "ipa": "kənˈtɪnjuɪŋ ˌɛʤəˈkeɪʃən",
+      "spell": "continuing education"
+    },
+    {
+      "def1": "граф Дракула",
+      "ipa": "kaʊnt ˈdrækjulə",
+      "spell": "count Dracula"
+    },
+    {
+      "def1": "граф Монте-Кристо",
+      "ipa": "kaʊnt ˈmɑnti ˈkrɪˌstoʊ",
+      "spell": "count Monte Cristo"
+    },
+    {
+      "def1": "определённо",
+      "ipa": "ˈdɛfənətli",
+      "spell": "definitely"
+    },
+    {
+      "def1": "каждый сам за себя",
+      "ipa": "ˈɛvriˌwʌn ɪz ɑn ðɛr oʊn",
+      "spell": "everyone is on their own"
+    },
+    {
+      "def1": "для небольших личных проектов",
+      "ipa": "fɔr smɔl ˈpɜrsɪnɪl ˈprɑʤɛkts",
+      "spell": "for small personal projects"
+    },
+    {
+      "def1": "лесистые возвышенности",
+      "ipa": "ˈfɔrəstəd ˈhaɪləndz",
+      "spell": "forested highlands"
+    },
+    {
+      "def1": "Гибралтар",
+      "ipa": "ʤɪˈbrɔltər",
+      "spell": "Gibraltar"
+    },
+    {
+      "def1": "вы (неформ.)",
+      "ipa": "ju ɡaɪz",
+      "spell": "you guys"
+    },
+    {
+      "def1": "он не чувствует себя таким расслабленным, как раньше",
+      "ipa": "hi ˈdʌzənt fil æz rɪˈlækst æz bɪˈfɔr",
+      "spell": "he doesn't feel as relaxed as before"
+    },
+    {
+      "def1": "он получил степень магистра",
+      "ipa": "hi ɜrnd ə ˈmæstərz dɪˈɡri",
+      "spell": "he earned a master's degree"
+    },
+    {
+      "def1": "он узнал",
+      "ipa": "hi faʊnd aʊt",
+      "spell": "he found out"
+    },
+    {
+      "def1": "он схватил её",
+      "ipa": "hi ɡræbd hɜr",
+      "spell": "he grabbed her"
+    },
+    {
+      "def1": "он страдает клаустрофобией",
+      "ipa": "hi ɪz ˌklɔstrəˈfoʊbɪk",
+      "spell": "he is claustrophobic"
+    },
+    {
+      "def1": "он сыграл слезливую любовную песню",
+      "ipa": "hi pleɪd ə ˈʃmɔltsi lʌv sɔŋ",
+      "spell": "he played a schmaltzy love song"
+    },
+    {
+      "def1": "он плохо спит",
+      "ipa": "hi slips ˈpʊrli",
+      "spell": "he sleeps poorly"
+    },
+    {
+      "def1": "он избаловал его",
+      "ipa": "hi spɔɪld hɪm",
+      "spell": "he spoiled him"
+    },
+    {
+      "def1": "он рассказал длинную историю",
+      "ipa": "hi spʌn ə lɔŋ jɑrn",
+      "spell": "he spun a long yarn"
+    },
+    {
+      "def1": "он сделал первый вдох",
+      "ipa": "hi tʊk hɪz fɜrst brɛθ",
+      "spell": "he took his first breath"
+    },
+    {
+      "def1": "он был изнурён/ истощён болезнью",
+      "ipa": "hi wʌz dəˈbɪləˌteɪtɪd baɪ hɪz ˈɪlnəs",
+      "spell": "he was debilitated by his illness"
+    },
+    {
+      "def1": "он проснулся в 2 часа ночи",
+      "ipa": "hi woʊk ʌp æt 2 əˈklɑk ɪn ðə ˈmɔrnɪŋ",
+      "spell": "he woke up at 2 o'clock in the morning"
+    },
+    {
+      "def1": "он работал в разных компаниях",
+      "ipa": "hi wɜrkt fɔr ˈdɪfərənt ˈkʌmpəniz",
+      "spell": "he worked for different companies"
+    },
+    {
+      "def1": "он работал над магистерской диссертацией 2 года",
+      "ipa": "hi wɜrkt ɑn hɪz ˈmæstərz dɪˈɡri fɔr 2 jɪrz",
+      "spell": "he worked on his master’s degree for 2 years"
+    },
+    {
+      "def1": "он рассеянный",
+      "ipa": "hiz ə ˈskædərˌbreɪn",
+      "spell": "he's a scatter-brain"
+    },
+    {
+      "def1": "внимание, ребята!",
+      "ipa": "heɪ ɡaɪz, ˈlɪsən ʌp!",
+      "spell": "hey guys, listen up!"
+    },
+    {
+      "def1": "он пустомеля",
+      "ipa": "hiz ə ˈrætəl breɪn",
+      "spell": "he’s a rattle brain"
+    },
+    {
+      "def1": "он никогда хорошо не спит",
+      "ipa": "hiz ˈnɛvər bɪn ə ɡʊd ˈslipər",
+      "spell": "he’s never been a good sleeper"
+    },
+    {
+      "def1": "его ответ был слишком заумным",
+      "ipa": "hɪz ˈænsər wʌz tu ˈnɜrdi",
+      "spell": "his answer was too nerdy"
+    },
+    {
+      "def1": "у него заложен нос",
+      "ipa": "hɪz noʊz ɪz stʌft",
+      "spell": "his nose is stuffed"
+    },
+    {
+      "def1": "хотелось бы надеяться, надо надеяться",
+      "ipa": "ˈhoʊpfəli",
+      "spell": "hopefully"
+    },
+    {
+      "def1": "сколько их было",
+      "ipa": "haʊ ˈmɛni ðɛr wɜr",
+      "spell": "how many there were"
+    },
+    {
+      "def1": "как это загадочно",
+      "ipa": "haʊ mɪsˈtɪriəs ɪt ɪz",
+      "spell": "how mysterious it is"
+    },
+    {
+      "def1": "я дышу",
+      "ipa": "aɪ brið",
+      "spell": "I breathe"
+    },
+    {
+      "def1": "мне не нужно было просыпаться",
+      "ipa": "aɪ ˈdɪdənt hæv tu weɪk ʌp",
+      "spell": "I didn’t have to wake up"
+    },
+    {
+      "def1": "я понял это позже",
+      "ipa": "aɪ ˈdɪdənt ˌʌndərˈstænd ənˈtɪl ˈleɪtər",
+      "spell": "I didn’t understand until later"
+    },
+    {
+      "def1": "я иду на работу",
+      "ipa": "aɪ ɡoʊ tu wɜrk",
+      "spell": "I go to work"
+    },
+    {
+      "def1": "мне пришлось работать допоздна",
+      "ipa": "aɪ hæd tu wɜrk leɪt",
+      "spell": "I had to work late"
+    },
+    {
+      "def1": "я знаю, что это слащаво, но я всё равно плачу",
+      "ipa": "aɪ noʊ ɪts ˈʃmɔltsi, bʌt aɪ stɪl kraɪ",
+      "spell": "I know it's schmaltzy, but I still cry"
+    },
+    {
+      "def1": "я лежал в кровати",
+      "ipa": "aɪ leɪ ɪn bɛd",
+      "spell": "I lay in bed"
+    },
+    {
+      "def1": "я прочитал 15 страниц из 100",
+      "ipa": "aɪ rid 15 ˈpeɪʤəz aʊt ʌv 100",
+      "spell": "I read 15 pages out of 100"
+    },
+    {
+      "def1": "я совершил поездку",
+      "ipa": "aɪ tʊk ə trɪp",
+      "spell": "I took a trip"
+    },
+    {
+      "def1": "я напишу вам позже",
+      "ipa": "aɪl tɛkst ju ɡaɪz ˈleɪtər",
+      "spell": "I'll text you guys later"
+    },
+    {
+      "def1": "параллельно с этим",
+      "ipa": "ɪn ˈpɛrəˌlɛl wɪð ðæt",
+      "spell": "in parallel with that"
+    },
+    {
+      "def1": "в ближайшем будущем",
+      "ipa": "ɪn ðə nɪr ˈfjuʧər",
+      "spell": "in the near future"
+    },
+    {
+      "def1": "в свою очередь",
+      "ipa": "ɪn tɜrn",
+      "spell": "in turn"
+    },
+    {
+      "def1": "непрерывный",
+      "ipa": "ɪnˈsɛsənt",
+      "spell": "incessant"
+    },
+    {
+      "def1": "он перестал существовать",
+      "ipa": "ɪt sist tu ɪɡˈzɪst",
+      "spell": "it ceased to exist"
+    },
+    {
+      "def1": "это точно не",
+      "ipa": "ɪt ˈdɛfənətli ˈɪzənt",
+      "spell": "it definitely isn’t"
+    },
+    {
+      "def1": "это развилось из-за его работы",
+      "ipa": "ɪt dɪˈvɛləpt bɪˈkɔz ʌv hɪz ʤɑb",
+      "spell": "it developed because of his job"
+    },
+    {
+      "def1": "оно преследует тебя",
+      "ipa": "ɪt hɔnts ju",
+      "spell": "it haunts you"
+    },
+    {
+      "def1": "как будто собаки внутри твоего дома",
+      "ipa": "ɪt ɪz æz ɪf ðə dɑɡz wɜr ɪnˈsaɪd jʊər haʊs",
+      "spell": "it is as if the dogs were inside your house"
+    },
+    {
+      "def1": "оно перевёрнуто, переставлено",
+      "ipa": "ɪt ɪz ɪnˈvɜrtɪd",
+      "spell": "it is inverted"
+    },
+    {
+      "def1": "это стоит увидеть",
+      "ipa": "ɪt ɪz wɜrθ ˈsiɪŋ",
+      "spell": "it is worth seeing"
+    },
+    {
+      "def1": "должно быть, это было хорошо",
+      "ipa": "ɪt mʌst hæv bɪn ɡʊd",
+      "spell": "it must have been good"
+    },
+    {
+      "def1": "должно быть, это была любовь",
+      "ipa": "ɪt mʌst hæv bɪn lʌv",
+      "spell": "it must have been love"
+    },
+    {
+      "def1": "мне показалось странным",
+      "ipa": "ɪt strʌk mi æz ɑd",
+      "spell": "it struck me as odd"
+    },
+    {
+      "def1": "просто перезагрузи или что-то в этом роде",
+      "ipa": "ʤʌst riˈstɑrt ɪt ɔr ˌwʌˈtɛvər",
+      "spell": "just restart it or whatever"
+    },
+    {
+      "def1": "молчи",
+      "ipa": "kip ˈsaɪlənt",
+      "spell": "keep silent"
+    },
+    {
+      "def1": "лекции",
+      "ipa": "ˈlɛkʧərz",
+      "spell": "lectures"
+    },
+    {
+      "def1": "как ленивец",
+      "ipa": "laɪk ə sloʊθ",
+      "spell": "like a sloth"
+    },
+    {
+      "def1": "много книг",
+      "ipa": "ˈmɛni bʊks",
+      "spell": "many books"
+    },
+    {
+      "def1": "гораздо дружелюбнее",
+      "ipa": "mʌʧ ˈfrɛndliər",
+      "spell": "much friendlier"
+    },
+    {
+      "def1": "моё дыхание",
+      "ipa": "maɪ brɛθ",
+      "spell": "my breath"
+    },
+    {
+      "def1": "мой муж и я",
+      "ipa": "maɪ ˈhʌzbənd ænd aɪ",
+      "spell": "my husband and I"
+    },
+    {
+      "def1": "ботанический, заумный",
+      "ipa": "ˈnɜrdɪʃ",
+      "spell": "nerdish"
+    },
+    {
+      "def1": "в поезде",
+      "ipa": "ɑn ðə treɪn",
+      "spell": "on the train"
+    },
+    {
+      "def1": "в целом",
+      "ipa": "ɑn ðə hoʊl",
+      "spell": "on the whole"
+    },
+    {
+      "def1": "ономатопея",
+      "ipa": "ˌɑnəˌmætəˈpiə",
+      "spell": "onomatopoeia"
+    },
+    {
+      "def1": "или что-то в этом роде",
+      "ipa": "ɔr ˌwʌˈtɛvər",
+      "spell": "or whatever"
+    },
+    {
+      "def1": "люди, которые не хотят разговаривать",
+      "ipa": "ˈpipəl hu doʊnt wɑnt tu tɔk",
+      "spell": "people who don’t want to talk"
+    },
+    {
+      "def1": "читай дальше!",
+      "ipa": "rid ɑn!",
+      "spell": "read on!"
+    },
+    {
+      "def1": "слезливый; сентиментальный; слащавый",
+      "ipa": "ˈʃmɔltsi",
+      "spell": "schmaltzy"
+    },
+    {
+      "def1": "увидимся в семь или около того",
+      "ipa": "si ju æt ˈsɛvən ɔr ˌwʌˈtɛvər",
+      "spell": "see you at seven or whatever"
+    },
+    {
+      "def1": "у неё заумное хобби",
+      "ipa": "ʃi hæz ə ˈnɜrdɪʃ ˈhɑbi",
+      "spell": "she has a nerdish hobby"
+    },
+    {
+      "def1": "она терпела его вспыльчивый характер",
+      "ipa": "ʃi pʊt ʌp wɪð hɪz ˈvaɪələnt ˈtɛmpər",
+      "spell": "she put up with his violent temper"
+    },
+    {
+      "def1": "она рассказала дикую историю",
+      "ipa": "ʃi spʌn ə waɪld jɑrn",
+      "spell": "she spun a wild yarn"
+    },
+    {
+      "def1": "она женщина постарше",
+      "ipa": "ʃiz ən ˈoʊldər ˈwʊmən",
+      "spell": "she’s an older woman"
+    },
+    {
+      "def1": "что-нибудь хрустящее",
+      "ipa": "ˈsʌmθɪŋ ˈkrʌnʧi",
+      "spell": "something crunchy"
+    },
+    {
+      "def1": "странным образом, как это ни странно",
+      "ipa": "ˈstreɪnʤli",
+      "spell": "strangely"
+    },
+    {
+      "def1": "к счастью",
+      "ipa": "ˈθæŋkfəli",
+      "spell": "thankfully"
+    },
+    {
+      "def1": "вот это история!",
+      "ipa": "ðæts kwaɪt ə jɑrn",
+      "spell": "that's quite a yarn"
+    },
+    {
+      "def1": "дверь со скрипом открылась",
+      "ipa": "ðə dɔr krikt ˈoʊpən",
+      "spell": "the door creaked open"
+    },
+    {
+      "def1": "непрерывный шум прекратился",
+      "ipa": "ði ɪnˈsɛsənt nɔɪz sist",
+      "spell": "the incessant noise ceased"
+    },
+    {
+      "def1": "организационные проблемы путешествий с маленькими детьми",
+      "ipa": "ðə ləˈʤɪstɪks ʌv ˈtrævəlɪŋ wɪð smɔl ˈʧɪldrən",
+      "spell": "the logistics of travelling with small children"
+    },
+    {
+      "def1": "фильм был слишком сентиментальным",
+      "ipa": "ðə ˈmuvi wʌz tu ˈʃmɔltsi",
+      "spell": "the movie was too schmaltzy"
+    },
+    {
+      "def1": "солнце встаёт в 5:30",
+      "ipa": "ðə sʌn ˈraɪzəz æt 5:30",
+      "spell": "the sun rises at 5:30"
+    },
+    {
+      "def1": "температура плюс один градус",
+      "ipa": "ðə ˈtɛmprəʧər ɪz plʌs wʌn dɪˈɡri",
+      "spell": "the temperature is plus one degree"
+    },
+    {
+      "def1": "стучат колёса поезда",
+      "ipa": "ðə treɪn wilz ˈklætər",
+      "spell": "the train wheels clatter"
+    },
+    {
+      "def1": "здесь другая погода",
+      "ipa": "ðə ˈwɛðər ɪz ˈdɪfərənt hir",
+      "spell": "the weather is different here"
+    },
+    {
+      "def1": "должно быть, что-то происходит",
+      "ipa": "ðɛr mʌst bi ˈsʌmθɪŋ ˈɡoʊɪŋ ɑn",
+      "spell": "there must be something going on"
+    },
+    {
+      "def1": "что-то витает в воздухе",
+      "ipa": "ðɛrz ˈsʌmθɪŋ ɪn ði ɛr",
+      "spell": "there’s something in the air"
+    },
+    {
+      "def1": "они интроверты",
+      "ipa": "ðeɪ ɑr ˈɪntroʊˌvɜrts",
+      "spell": "they are introverts"
+    },
+    {
+      "def1": "они на час отстают от нас",
+      "ipa": "ðeɪ ɑr wʌn ˈaʊər bɪˈhaɪnd ʌs",
+      "spell": "they are one hour behind us"
+    },
+    {
+      "def1": "им за 60",
+      "ipa": "ðeɪ ɑr ˈoʊvər 60",
+      "spell": "they are over 60"
+    },
+    {
+      "def1": "они посигналили ему",
+      "ipa": "ðeɪ hɑŋkt æt hɪm",
+      "spell": "they honked at him"
+    },
+    {
+      "def1": "до полудня",
+      "ipa": "ənˈtɪl nun",
+      "spell": "until noon"
+    },
+    {
+      "def1": "«Война и мир» Льва Толстого",
+      "ipa": "wɔr ænd pis baɪ ˈlioʊ ˈtoʊlˌstɔɪ",
+      "spell": "War and Peace by Leo Tolstoy"
+    },
+    {
+      "def1": "мы не можем выспаться",
+      "ipa": "wi kænt ɡɛt ɪˈnʌf slip",
+      "spell": "we can't get enough sleep"
+    },
+    {
+      "def1": "у нас родился сын",
+      "ipa": "wi hæd ˈaʊər sʌn",
+      "spell": "we had our son"
+    },
+    {
+      "def1": "нам приходилось вкладывать в него все силы",
+      "ipa": "wi hæd tu ɪnˈvɛst ɔl ˈaʊər ˈɛnərʤi ɪn hɪm",
+      "spell": "we had to invest all our energy in him"
+    },
+    {
+      "def1": "мы часто забываем",
+      "ipa": "wi ˈɔfən fərˈɡɛt",
+      "spell": "we often forget"
+    },
+    {
+      "def1": "мы сказали, что не умеем говорить по-французски",
+      "ipa": "wi sɛd wi ˈkʊdənt spik frɛnʧ",
+      "spell": "we said we couldn’t speak French"
+    },
+    {
+      "def1": "мы осмотрели достопримечательности",
+      "ipa": "wi sɔ sʌm saɪts",
+      "spell": "we saw some sights"
+    },
+    {
+      "def1": "мы посетили городок",
+      "ipa": "wi ˈvɪzɪtɪd ə taʊn",
+      "spell": "we visited a town"
+    },
+    {
+      "def1": "что вы думаете?",
+      "ipa": "wɑt du ju ɡaɪz θɪŋk?",
+      "spell": "what do you guys think?"
+    },
+    {
+      "def1": "пока я была в декретном отпуске",
+      "ipa": "waɪl aɪ wʌz ɑn məˈtɜrnɪti liv",
+      "spell": "while I was on maternity leave"
+    },
+    {
+      "def1": "кто убийца?",
+      "ipa": "hu ɪz ðə ˈmɜrdərər?",
+      "spell": "who is the murderer?"
+    },
+    {
+      "def1": "ты сдержанный, замкнутый, необщительный",
+      "ipa": "ju ɑr rɪˈzɜrvd",
+      "spell": "you are reserved"
+    },
+    {
+      "def1": "тебе встречается предложение",
+      "ipa": "ju kʌm əˈkrɔs ə ˈsɛntəns",
+      "spell": "you come across a sentence"
+    },
+    {
+      "def1": "вы",
+      "ipa": "ju ɡaɪz",
+      "spell": "you guys"
+    },
+    {
+      "def1": "у тебя есть это преимущество",
+      "ipa": "ju hæv ðæt ˈɡoʊɪŋ fɔr ju",
+      "spell": "you have that going for you"
+    },
+    {
+      "def1": "тебе следовало подумать",
+      "ipa": "ju ɔt tu hæv θɔt",
+      "spell": "you ought to have thought"
+    },
+    {
+      "def1": "ты ходишь на курсы дополнительного образования",
+      "ipa": "ju teɪk kənˈtɪnjuɪŋ ˌɛʤəˈkeɪʃən ˈkɔrsəz",
+      "spell": "you take continuing education courses"
+    },
+    {
+      "def1": "ты зеваешь",
+      "ipa": "ju jɔn",
+      "spell": "you yawn"
+    }
+  ]
+}
