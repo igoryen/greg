@@ -1,0 +1,82 @@
+#adverbi {
+    // font-size: large;
+    font-family: "Noto Sans", sans-serif;
+    display: flex;
+    flex-direction: column;
+
+    h2 {
+        background-color: bisque;
+    }
+
+    ol {
+        list-style-type: decimal;
+        list-style-position: outside;
+        counter-reset: item;
+        padding-left: 0;
+        /* Remove default padding */
+        margin-left: 0;
+        /* Remove default margin */
+
+        li {
+            // background: mistyrose;
+            // color: darkred;
+            padding: 10px;
+            margin-left: 20px;
+            display: list-item;
+            /* Ensure it displays as list item */
+            list-style-position: outside;
+            margin-left: 2em;
+            /* Create space for numbers */
+            padding-left: 0.5em;
+            padding: 10px;
+            display: list-item !important;
+        }
+
+    }
+
+    .aaa {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bbb {
+        // order: 3;
+        // text-align: end;
+        color: #ccc;
+        display: none;
+    }
+
+    .ccc {
+        font-size: 1.5em;
+        line-height: 1.2;
+        margin-bottom: 0.5em;
+        // font-family: Georgia, 'Times New Roman', Times, serif;
+        // font-family: "Playwrite DE Grund Guides", sans-serif;
+        font-family: "EB Garamond", serif;
+        color: #7b3418;
+        // color: #5f2914;
+
+        b {
+            font-weight: 100;
+            background-color: #f5d5da;
+            border: 2px solid #f5d5da;
+            border-radius: 3px;
+        }
+
+        i {
+            font-style: normal;
+
+            background-color: yellow;
+            border-radius: 3px;
+        }
+    }
+
+    .ddd {
+        line-height: 1.2;
+        font-size: 1.1em;
+        color: #333;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+
+}

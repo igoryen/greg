@@ -11,6 +11,7 @@ import StudentPage from "./pages/StudentPage";
 import LessonPage from "./pages/LessonPage";
 
 import About from "./pages/About";
+import Adverbi from "./pages/grm/Adverbi";
 import Ang from "./pages/Ang";
 import AspSimp from "./pages/grm/AspSimp";
 import AspSimpCont from "./pages/grm/AspSimpCont";
@@ -303,6 +304,8 @@ export default function App() {
 
             <Route path="/student/:slug" element={<StudentPage />} />
             <Route path="/student/:slug/p/:number" element={<LessonPage />} />
+
+            <Route path="/adverbi" element={<Adverbi />} />
 
             <Route path="ang" element={<Ang />} />
             <Route path="asti" element={<Asti />} />

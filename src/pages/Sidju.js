@@ -5,6 +5,7 @@ const Sidju = () => {
     const navigate = useNavigate();
 
     const pages = [
+        { label: "Adverbi", path: "/adverbi", desc: "adverbs" },
         { label: "Alfabeta", path: "/alfabeta", desc: "the names of the letters" },
         { label: "AspSC", path: "/aspsc", desc: "Aspects: simple vs continuous" },
         { label: "Asti", path: "/asti", desc: "the existential THERE" },
