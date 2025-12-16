@@ -3,6 +3,26 @@
     // background-color: aqua;
     width: 100%;
 
+    .lundy {
+        line-height: 1;
+
+        button {
+            // padding: 1em 0.3em;
+            cursor: pointer;
+            border-top: 0;
+            border-left: 0;
+            margin-right: 0.5em;
+            border-width: 1px;
+            padding: 0 3px;
+            border-color: bisque;
+            font-size: 0.8em;
+
+            &:hover {
+                background-color: rgb(168, 209, 245);
+            }
+        }
+    }
+
     .mesherakov {
 
         display: grid;

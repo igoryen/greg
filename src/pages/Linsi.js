@@ -3,10 +3,43 @@ import ExternalLink
     from "../components/ExternalLink";
 const Linsi = (prop) => {
 
+    const externalLinks = [
+        { name: "deepseek", url: "https://chat.deepseek.com/" },
+        { name: "toPhonetics", url: "https://tophonetics.com/" },
+        { name: "Anglofor: Ruo", url: "https://anglofor.com/ruo" },
+        { name: "CSV to JSON", url: "https://www.convertcsv.com/csv-to-json.htm" },
+        { name: "JSON to TSV", url: "https://jsonformatter.org/json-to-tsv" },
+        { name: "Emojipedia", url: "https://emojipedia.org/" },
+        { name: "Random.org", url: "https://www.random.org/lists/" },
+        { name: "Wiktionary", url: "https://en.wiktionary.org/" },
+        { name: "Multitran", url: "https://www.multitran.com/m.exe?l1=1&l2=2" },
+        { name: "Longman", url: "https://www.ldoceonline.com/" },
+        { name: "TurboScribe, video downloader", url: "https://turboscribe.ai/downloader/youtube/video" },
+        { name: "Советские учебники", url: "https://sovetskie-uchebniki.ru/" },
+        { name: "Cambridge Dictionary", url: "https://dictionary.cambridge.org/" },
+        { name: "Lojban dictionary", url: "https://la-lojban.github.io/sutysisku/lojban/index.html" },
+
+    ];
+
+    function renderExternalLinks() {
+        return [...externalLinks]
+            .sort((a, b) => a.name.localeCompare(b.name))
+            .map(({ name, url }) => (
+                <ExternalLink key={url} url={url}>
+                    {name}
+                </ExternalLink>
+            ));
+    }
+
 
     return (
         <section id="linsi">
-            <h1>ABC</h1>
+
+            <div className="lundy">
+                {renderExternalLinks()}
+            </div>
+
+            {/* <h1>ABC</h1>
             <div className="mesherakov">
                 <ExternalLink url="https://chat.deepseek.com/">deepseek</ExternalLink>
                 <ExternalLink url="https://tophonetics.com/">toPhonetics</ExternalLink>
@@ -28,7 +61,7 @@ const Linsi = (prop) => {
             <h1>Media</h1>
             <div className="mesherakov">
                 <ExternalLink url="https://turboscribe.ai/downloader/youtube/video">TurboScribe</ExternalLink>
-            </div>
+            </div> */}
         </section>
     );
 };
