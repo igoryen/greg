@@ -18,6 +18,7 @@ const Linsi = (prop) => {
         { name: "Советские учебники", url: "https://sovetskie-uchebniki.ru/" },
         { name: "Cambridge Dictionary", url: "https://dictionary.cambridge.org/" },
         { name: "Lojban dictionary", url: "https://la-lojban.github.io/sutysisku/lojban/index.html" },
+        { name: "Comparative sentence (wiki)", url: "https://en.wikipedia.org/wiki/Comparative_sentence" },
 
     ];
 
