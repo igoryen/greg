@@ -1,0 +1,539 @@
+{
+  "student": "Vitaliy A.",
+  "slug": "va",
+  "period": "week",
+  "number": 50,
+  "date": "2025-12-12",
+  "words": [
+    {
+      "def1": "я нахожусь здесь",
+      "ipa": "ай æм hир",
+      "spell": "I am here"
+    },
+    {
+      "def1": "тоже",
+      "ipa": ", ту",
+      "spell": ", too"
+    },
+    {
+      "def1": "я не нахожусь здесь",
+      "ipa": "ай æм нɑт hир",
+      "spell": "I am not here"
+    },
+    {
+      "def1": "нахожусь ли я здесь?",
+      "ipa": "æм ай hир?",
+      "spell": "am I here?"
+    },
+    {
+      "def1": "здесь находится ВЕЛОСИПЕД",
+      "ipa": "ə байк ɪз hир",
+      "spell": "a bike is here"
+    },
+    {
+      "def1": "город",
+      "ipa": "ə ˈсɪти",
+      "spell": "a city"
+    },
+    {
+      "def1": "здесь находится ДОМ",
+      "ipa": "ə hаус ɪз hир",
+      "spell": "a house is here"
+    },
+    {
+      "def1": "здесь находится КОМНАТА",
+      "ipa": "ə рум ɪз hир",
+      "spell": "a room is here"
+    },
+    {
+      "def1": "здесь находится УЧИТЕЛЬ",
+      "ipa": "ə ˈтичɚ ɪз hир",
+      "spell": "a teacher is here"
+    },
+    {
+      "def1": "здесь находится ДЕРЕВО",
+      "ipa": "ə три ɪз hир",
+      "spell": "a tree is here"
+    },
+    {
+      "def1": "опять",
+      "ipa": "əˈгэн",
+      "spell": "again"
+    },
+    {
+      "def1": "ладно! всё в порядке",
+      "ipa": "ɔл райт",
+      "spell": "all right"
+    },
+    {
+      "def1": "вы из Украины",
+      "ipa": "ю ɑр фрʌм юˈкрэйн",
+      "spell": "you are from Ukraine"
+    },
+    {
+      "def1": "вы в порядке?",
+      "ipa": "ɑр ю ˈоуˈкэй?",
+      "spell": "are you OK?"
+    },
+    {
+      "def1": "до свидания!",
+      "ipa": "бай!",
+      "spell": "bye!"
+    },
+    {
+      "def1": "кафе",
+      "ipa": "ə кəˈфэй",
+      "spell": "a cafe"
+    },
+    {
+      "def1": "кока-кола",
+      "ipa": "коук",
+      "spell": "coke"
+    },
+    {
+      "def1": "стяжение, сокращение",
+      "ipa": "ə кəнˈтрæкшəн",
+      "spell": "a contraction"
+    },
+    {
+      "def1": "из, от",
+      "ipa": "фрʌм",
+      "spell": "from"
+    },
+    {
+      "def1": "из Канады",
+      "ipa": "фрʌм ˈкæнəдə",
+      "spell": "from Canada"
+    },
+    {
+      "def1": "из Китая",
+      "ipa": "фрʌм ˈчайнə",
+      "spell": "from China"
+    },
+    {
+      "def1": "из России",
+      "ipa": "фрʌм ˈрʌшə",
+      "spell": "from Russia"
+    },
+    {
+      "def1": "из Украины",
+      "ipa": "фрʌм юˈкрэйн",
+      "spell": "from Ukraine"
+    },
+    {
+      "def1": "из Ванкувера",
+      "ipa": "фрʌм вæнˈкувɚ",
+      "spell": "from Vancouver"
+    },
+    {
+      "def1": "откуда",
+      "ipa": "фрʌм wэр",
+      "spell": "from where"
+    },
+    {
+      "def1": "полный",
+      "ipa": "фʊл",
+      "spell": "full"
+    },
+    {
+      "def1": "до свидания!",
+      "ipa": "ˌгʊдˈбай!",
+      "spell": "Goodbye!"
+    },
+    {
+      "def1": "я не знаю",
+      "ipa": "ай доунт ноу",
+      "spell": "I don’t know"
+    },
+    {
+      "def1": "я знаю",
+      "ipa": "ай ноу",
+      "spell": "I know"
+    },
+    {
+      "def1": "я вижу КЛАСС",
+      "ipa": "ай си ə клæс",
+      "spell": "I see a class"
+    },
+    {
+      "def1": "я вижу ДОМ",
+      "ipa": "ай си ə hаус",
+      "spell": "I see a house"
+    },
+    {
+      "def1": "я вижу КОМНАТУ",
+      "ipa": "ай си ə рум",
+      "spell": "I see a room"
+    },
+    {
+      "def1": "в",
+      "ipa": "ɪн",
+      "spell": "in"
+    },
+    {
+      "def1": "информация",
+      "ipa": "ˌɪнфɚˈмэйшəн",
+      "spell": "information"
+    },
+    {
+      "def1": "интересная информация",
+      "ipa": "ˈɪнтрəстɪŋ ˌɪнфɚˈмэйшəн",
+      "spell": "interesting information"
+    },
+    {
+      "def1": "она тоже (происходит) из Бразилии?",
+      "ipa": "ɪз щи фрʌм брəˈзɪл, ту?",
+      "spell": "is she from Brazil, too?"
+    },
+    {
+      "def1": "холодно!",
+      "ipa": "ɪт ɪз коулд",
+      "spell": "it is cold"
+    },
+    {
+      "def1": "оно находится в Украине",
+      "ipa": "ɪтс ɪн юˈкрэйн",
+      "spell": "it’s in Ukraine"
+    },
+    {
+      "def1": "всё в порядке",
+      "ipa": "ɪтс ˈоуˈкэй",
+      "spell": "it’s OK"
+    },
+    {
+      "def1": "время — шесть!",
+      "ipa": "ɪтс сɪкс",
+      "spell": "it’s six"
+    },
+    {
+      "def1": "у меня всё хорошо",
+      "ipa": "айм файн",
+      "spell": "I’m fine"
+    },
+    {
+      "def1": "я (происхожу) из Харькова",
+      "ipa": "айм фрʌм ˈxɑркəв",
+      "spell": "I’m from Kharkov"
+    },
+    {
+      "def1": "я (происхожу) из Лимы",
+      "ipa": "айм фрʌм ˈлаймə",
+      "spell": "I’m from Lima"
+    },
+    {
+      "def1": "я (происхожу) из Украины",
+      "ipa": "айм фрʌм юˈкрэйн",
+      "spell": "I’m from Ukraine"
+    },
+    {
+      "def1": "у меня всё нормально / хорошо",
+      "ipa": "айм ˈоуˈкэй",
+      "spell": "I’m OK"
+    },
+    {
+      "def1": "одну минуту",
+      "ipa": "джʌст ə ˈмɪнəт",
+      "spell": "just a minute"
+    },
+    {
+      "def1": "только 7 дней",
+      "ipa": "джʌст ˈсэвəн дэйз",
+      "spell": "just seven days"
+    },
+    {
+      "def1": "посмотри на это",
+      "ipa": "лʊк æт ɪт",
+      "spell": "look at it"
+    },
+    {
+      "def1": "встреча",
+      "ipa": "ə ˈмитɪŋ",
+      "spell": "a meeting"
+    },
+    {
+      "def1": "много",
+      "ipa": "мʌч",
+      "spell": "much"
+    },
+    {
+      "def1": "моё имя",
+      "ipa": "май нэйм",
+      "spell": "my name"
+    },
+    {
+      "def1": "отрицательное",
+      "ipa": "ˈнэгəтɪв",
+      "spell": "negative"
+    },
+    {
+      "def1": "приятно",
+      "ipa": "найс",
+      "spell": "nice"
+    },
+    {
+      "def1": "на",
+      "ipa": "ɑн",
+      "spell": "on"
+    },
+    {
+      "def1": "либо, или",
+      "ipa": "ор",
+      "spell": "or"
+    },
+    {
+      "def1": "телефон",
+      "ipa": "ə фоун",
+      "spell": "a phone"
+    },
+    {
+      "def1": "положительное",
+      "ipa": "ˈпɑзəтɪв",
+      "spell": "positive"
+    },
+    {
+      "def1": "увидимся",
+      "ipa": "си ю",
+      "spell": "see you"
+    },
+    {
+      "def1": "увидимся в пятницу",
+      "ipa": "си ю ɑн ˈфрайˌдэй",
+      "spell": "see you on Friday"
+    },
+    {
+      "def1": "увидимся завтра",
+      "ipa": "си ю тəˈмɑˌроу",
+      "spell": "see you tomorrow"
+    },
+    {
+      "def1": "она (происходит) из Мексики",
+      "ipa": "щи ɪз фрʌм ˈмэксəˌкоу",
+      "spell": "she is from Mexico"
+    },
+    {
+      "def1": "она хорошая",
+      "ipa": "щи ɪз гʊд",
+      "spell": "she is good"
+    },
+    {
+      "def1": "она (находится) здесь",
+      "ipa": "щи ɪз hир",
+      "spell": "she is here"
+    },
+    {
+      "def1": "говорение, речь",
+      "ipa": "ˈспикɪŋ",
+      "spell": "speaking"
+    },
+    {
+      "def1": "татуирование",
+      "ipa": "тæˈтуɪŋ",
+      "spell": "tattooing"
+    },
+    {
+      "def1": "спасибо",
+      "ipa": "θæŋкс",
+      "spell": "thanks"
+    },
+    {
+      "def1": "велосипед (находится) ЗДЕСЬ",
+      "ipa": "ðə байк ɪз hир",
+      "spell": "the bike is here"
+    },
+    {
+      "def1": "дом (находится) ЗДЕСЬ",
+      "ipa": "ðə hаус ɪз hир",
+      "spell": "the house is here"
+    },
+    {
+      "def1": "комната (находится) ЗДЕСЬ",
+      "ipa": "ðə рум ɪз hир",
+      "spell": "the room is here"
+    },
+    {
+      "def1": "учитель (находится) ЗДЕСЬ",
+      "ipa": "ðə ˈтичɚ ɪз hир",
+      "spell": "the teacher is here"
+    },
+    {
+      "def1": "дерево (находится) ЗДЕСЬ",
+      "ipa": "ðə три ɪз hир",
+      "spell": "the tree is here"
+    },
+    {
+      "def1": "вещь",
+      "ipa": "ə θɪŋ",
+      "spell": "a thing"
+    },
+    {
+      "def1": "познакомиться",
+      "ipa": "ту мит",
+      "spell": "to meet"
+    },
+    {
+      "def1": "татуировать",
+      "ipa": "ту тæˈту",
+      "spell": "to tattoo"
+    },
+    {
+      "def1": "сегодняшний день",
+      "ipa": "тəˈдэй",
+      "spell": "today"
+    },
+    {
+      "def1": "завтрашний день",
+      "ipa": "тəˈмɑˌроу",
+      "spell": "tomorrow"
+    },
+    {
+      "def1": "слишком много информации",
+      "ipa": "ту мʌч ˌɪнфɚˈмэйшəн",
+      "spell": "too much information"
+    },
+    {
+      "def1": "дерево",
+      "ipa": "ə чри",
+      "spell": "a tree"
+    },
+    {
+      "def1": "Украина",
+      "ipa": "юˈкрэйн",
+      "spell": "Ukraine"
+    },
+    {
+      "def1": "очень",
+      "ipa": "ˈвэри",
+      "spell": "very"
+    },
+    {
+      "def1": "очень интересно",
+      "ipa": "ˈвэри ˈɪнтрəстɪŋ",
+      "spell": "very interesting"
+    },
+    {
+      "def1": "конец недели",
+      "ipa": "ə ˈwиˌкэнд",
+      "spell": "a weekend"
+    },
+    {
+      "def1": "что",
+      "ipa": "wɑт",
+      "spell": "what"
+    },
+    {
+      "def1": "что это? (чем является это?)",
+      "ipa": "wɑт ɪз ɪт?",
+      "spell": "what is it?"
+    },
+    {
+      "def1": "какая твоя страна?",
+      "ipa": "wɑт ɪз йʊɚ ˈкʌнтри?",
+      "spell": "what is your country?"
+    },
+    {
+      "def1": "как тебя зовут?",
+      "ipa": "wɑт ɪз йʊɚ нэйм?",
+      "spell": "what is your name?"
+    },
+    {
+      "def1": "где? куда?",
+      "ipa": "wэр?",
+      "spell": "where?"
+    },
+    {
+      "def1": "где я?",
+      "ipa": "wэр æм ай?",
+      "spell": "where am I?"
+    },
+    {
+      "def1": "откуда ты?",
+      "ipa": "wэр ɑр ю фрʌм?",
+      "spell": "where are you from?"
+    },
+    {
+      "def1": "где ты?",
+      "ipa": "wэр ɑр ю?",
+      "spell": "where are you?"
+    },
+    {
+      "def1": "где он?",
+      "ipa": "wэр ɪз hи?",
+      "spell": "where is he?"
+    },
+    {
+      "def1": "где оно?",
+      "ipa": "wэр ɪз ɪт?",
+      "spell": "where is it?"
+    },
+    {
+      "def1": "где находится Харьков?",
+      "ipa": "wэр ɪз ˈxɑркəв?",
+      "spell": "Where is Kharkov?"
+    },
+    {
+      "def1": "где она?",
+      "ipa": "wэр ɪз щи?",
+      "spell": "where is she?"
+    },
+    {
+      "def1": "откуда",
+      "ipa": "wэр … фрʌм",
+      "spell": "where … from"
+    },
+    {
+      "def1": "вы, ты",
+      "ipa": "ю",
+      "spell": "you"
+    },
+    {
+      "def1": "Соединённые Штаты (США)",
+      "ipa": "ðə юˈнайтɪд стэйтс (ðи ʌс)",
+      "spell": "the United States (the US)"
+    },
+    {
+      "def1": "Англия",
+      "ipa": "ˈɪŋглəнд",
+      "spell": "England"
+    },
+    {
+      "def1": "кровь",
+      "ipa": "блʌд",
+      "spell": "blood"
+    },
+    {
+      "def1": "Корея",
+      "ipa": "кɔˈриə",
+      "spell": "Korea"
+    },
+    {
+      "def1": "страна",
+      "ipa": "ə ˈкʌнтри",
+      "spell": "a country"
+    },
+    {
+      "def1": "национальность",
+      "ipa": "ə ˌнæшəˈнæлəти",
+      "spell": "a nationality"
+    },
+    {
+      "def1": "пиши",
+      "ipa": "райт",
+      "spell": "write"
+    },
+    {
+      "def1": "Испания",
+      "ipa": "спэйн",
+      "spell": "Spain"
+    },
+    {
+      "def1": "Турция",
+      "ipa": "ˈтɝки",
+      "spell": "Turkey"
+    },
+    {
+      "def1": "Китай",
+      "ipa": "ˈчайнə",
+      "spell": "China"
+    }
+  ]
+}
