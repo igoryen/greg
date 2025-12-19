@@ -1,4 +1,5 @@
 import "../../styles/son/alfabeta.scss";
+import SEOHelmet from "../../components/SEOHelmet";
 
 const letterData = [
     { letter: 'A', ipa1: 'a:', ipa2: 'eɪ', group: 'ay', spell: 'Alfa' },
@@ -32,6 +33,14 @@ const letterData = [
 const Alfabeta = (props) => {
     return (
         <section id="alfabeta">
+
+            <SEOHelmet
+                title="Alphabet | Anglofor"
+                description="English Alphabet Pronunciation & the ICAO Phonetic Alphabet"
+                url="https://anglofor.com/alfabeta"
+                image="https://anglofor.com/images/preview-image-1200x630.jpeg"
+            />
+
             {letterData.map(({ letter, ipa1, ipa2, group, spell }) => (
                 <div
                     key={letter}
