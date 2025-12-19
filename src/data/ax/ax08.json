@@ -1,0 +1,959 @@
+{
+  "student": "Andrew S.",
+  "slug": "ax",
+  "period": "week",
+  "number": 49,
+  "date": "2025-12-05",
+  "words": [
+    {
+      "def1": "велосипед",
+      "ipa": "ə байк",
+      "spell": "a bike"
+    },
+    {
+      "def1": "кража со взломом",
+      "ipa": "ə ˈбɝглɚи",
+      "spell": "a burglary"
+    },
+    {
+      "def1": "заглавная буква",
+      "ipa": "ə ˈкæпəтəл ˈлэтɚ",
+      "spell": "a capital letter"
+    },
+    {
+      "def1": "клиент",
+      "ipa": "ə ˈклайəнт",
+      "spell": "a client"
+    },
+    {
+      "def1": "сокращение, стяжение",
+      "ipa": "ə кəнˈтрæкшəн",
+      "spell": "a contraction"
+    },
+    {
+      "def1": "покупатель",
+      "ipa": "ə ˈкʌстəмɚ",
+      "spell": "a customer"
+    },
+    {
+      "def1": "болезнь",
+      "ipa": "ə дɪˈзиз",
+      "spell": "a disease"
+    },
+    {
+      "def1": "документальный фильм",
+      "ipa": "ə ˌдɑкйəˈмэнтɚи",
+      "spell": "a documentary"
+    },
+    {
+      "def1": "комод",
+      "ipa": "ə ˈдрэсɚ",
+      "spell": "a dresser"
+    },
+    {
+      "def1": "сказка",
+      "ipa": "ə ˈфэри тэйл",
+      "spell": "a fairy tale"
+    },
+    {
+      "def1": "фантазия",
+      "ipa": "ə ˈфæнтəси",
+      "spell": "a fantasy"
+    },
+    {
+      "def1": "поле",
+      "ipa": "ə филд",
+      "spell": "a field"
+    },
+    {
+      "def1": "плод воображения",
+      "ipa": "ə ˈфɪгмɪнт ʌв (йʊɚ) ɪˌмæджəˈнэйшəн",
+      "spell": "a figment of (your) imagination"
+    },
+    {
+      "def1": "слесарь",
+      "ipa": "ə ˈлɑкˌсмɪθ",
+      "spell": "a locksmith"
+    },
+    {
+      "def1": "строчная буква",
+      "ipa": "ə ˈлоуɚ кэйс ˈлэтɚ",
+      "spell": "a lower case letter"
+    },
+    {
+      "def1": "пропавший без вести",
+      "ipa": "ə ˈмɪсɪŋ ˈпɝсəн",
+      "spell": "a missing person"
+    },
+    {
+      "def1": "дворец",
+      "ipa": "ə ˈпæлəс",
+      "spell": "a palace"
+    },
+    {
+      "def1": "пьедестал, основание",
+      "ipa": "ə ˈпэдəстəл",
+      "spell": "a pedestal"
+    },
+    {
+      "def1": "шрам",
+      "ipa": "ə скɑр",
+      "spell": "a scar"
+    },
+    {
+      "def1": "болезнь, недомогание",
+      "ipa": "ə ˈсɪкнəс",
+      "spell": "a sickness"
+    },
+    {
+      "def1": "учащийся, студент",
+      "ipa": "ə ˈстудəнт",
+      "spell": "a student"
+    },
+    {
+      "def1": "гласная буква",
+      "ipa": "ə ˈвауəл",
+      "spell": "a vowel"
+    },
+    {
+      "def1": "оружие",
+      "ipa": "ə ˈwэпəн",
+      "spell": "a weapon"
+    },
+    {
+      "def1": "против",
+      "ipa": "əˈгэнст",
+      "spell": "against"
+    },
+    {
+      "def1": "сообщник",
+      "ipa": "əн əˈкɑмплəс",
+      "spell": "an accomplice"
+    },
+    {
+      "def1": "бухгалтер",
+      "ipa": "əн əˈкаунтəнт",
+      "spell": "an accountant"
+    },
+    {
+      "def1": "апостроф",
+      "ipa": "əн əˈпɑстрəфи",
+      "spell": "an apostrophe"
+    },
+    {
+      "def1": "болезнь",
+      "ipa": "əн ˈɪлнəс",
+      "spell": "an illness"
+    },
+    {
+      "def1": "в то время как я ехал",
+      "ipa": "æз ай wʌз ˈдрайвɪŋ",
+      "spell": "as I was driving"
+    },
+    {
+      "def1": "плохо построенный",
+      "ipa": "ˈбæдли бɪлт",
+      "spell": "badly built"
+    },
+    {
+      "def1": "основанный на науке",
+      "ipa": "бэйст ɑн ˈсайəнс",
+      "spell": "based on science"
+    },
+    {
+      "def1": "Бостон севернее Нью-Йорка",
+      "ipa": "ˈбɑстəн ɪз ˈфɝðɚ норθ ðæн ну йорк",
+      "spell": "Boston is further north than New York"
+    },
+    {
+      "def1": "Канада находится на севере",
+      "ipa": "ˈкæнəдə ɪз ɪн ðə норθ",
+      "spell": "Canada is in the north"
+    },
+    {
+      "def1": "ты слышал, как он пришёл?",
+      "ipa": "дɪд ю hир hɪм кʌм?",
+      "spell": "did you hear him come?"
+    },
+    {
+      "def1": "ты видел, как загорелся красный свет?",
+      "ipa": "дɪд ю си ðə ˈтрæфɪк лайт гоу рэд?",
+      "spell": "did you see the traffic light go red?"
+    },
+    {
+      "def1": "художественная литература",
+      "ipa": "ˈфɪкшəн",
+      "spell": "fiction"
+    },
+    {
+      "def1": "страхование от пожара",
+      "ipa": "ˈфайɚ ɪнˈщʊрəнс",
+      "spell": "fire insurance"
+    },
+    {
+      "def1": "для них",
+      "ipa": "фор ðэм",
+      "spell": "for them"
+    },
+    {
+      "def1": "убирайся отсюда!",
+      "ipa": "гэт аут ʌв hир!",
+      "spell": "get out of here!"
+    },
+    {
+      "def1": "отдай деньги им",
+      "ipa": "гɪв ðə ˈмʌни ту ðэм",
+      "spell": "give the money to them"
+    },
+    {
+      "def1": "твёрдая научная фантастика",
+      "ipa": "hɑрд си-фай",
+      "spell": "hard sci-fi"
+    },
+    {
+      "def1": "он смотрит, как я это делаю",
+      "ipa": "hи ˈwɑчəз ми ду ɪт",
+      "spell": "he watches me do it"
+    },
+    {
+      "def1": "он злится",
+      "ipa": "hи гэтс ˈæŋгри",
+      "spell": "he gets angry"
+    },
+    {
+      "def1": "он трудолюбивый",
+      "ipa": "hи ɪз ˈhɑрˌдwɝкɪŋ",
+      "spell": "he is hard-working"
+    },
+    {
+      "def1": "он бездельничает",
+      "ipa": "hи ɪз ˈайдəл",
+      "spell": "he is idle"
+    },
+    {
+      "def1": "он ленивый",
+      "ipa": "hи ɪз ˈлэйзи",
+      "spell": "he is lazy"
+    },
+    {
+      "def1": "он крадёт кольцо",
+      "ipa": "hи стилз ðə рɪŋ",
+      "spell": "he steals the ring"
+    },
+    {
+      "def1": "он забирает кольцо своей матери",
+      "ipa": "hи тэйкс hɪз ˈмʌðɚз рɪŋ",
+      "spell": "he takes his mother’s ring"
+    },
+    {
+      "def1": "он думает, что тот украл его, и злится на него",
+      "ipa": "hи θɪŋкс hи стоул ɪт æнд гэтс ˈæŋгри æт hɪм",
+      "spell": "he thinks he stole it and gets angry at him"
+    },
+    {
+      "def1": "он хочет найти хоть что-нибудь",
+      "ipa": "hи wɑнтс ту файнд ˈэниˌθɪŋ æт ɔл",
+      "spell": "he wants to find anything at all"
+    },
+    {
+      "def1": "он хочет отдать ему это и получить взамен деньги",
+      "ipa": "hи wɑнтс ту гɪв ɪт ту hɪм æнд гэт ˈмʌни ɪн рɪˈтɝн",
+      "spell": "he wants to give it to him and get money in return"
+    },
+    {
+      "def1": "он хочет продать это ему",
+      "ipa": "hи wɑнтс ту сэл ɪт ту hɪм",
+      "spell": "he wants to sell it to him"
+    },
+    {
+      "def1": "он хочет продать кольцо парню",
+      "ipa": "hи wɑнтс ту сэл ðə рɪŋ ту ðə гай",
+      "spell": "he wants to sell the ring to the guy"
+    },
+    {
+      "def1": "его ждёт сюрприз",
+      "ipa": "hиз ɪн фор ə сɚˈпрайз",
+      "spell": "he’s in for a surprise"
+    },
+    {
+      "def1": "чем они отличаются?",
+      "ipa": "hау ɑр ðэй ˈдɪфɚəнт?",
+      "spell": "how are they different?"
+    },
+    {
+      "def1": "как он его получает?",
+      "ipa": "hау дʌз hи гэт ɪт?",
+      "spell": "how does he get it?"
+    },
+    {
+      "def1": "люди ко всему привыкают",
+      "ipa": "ˈhъюмəнз гэт юзд ту ˈэвриˌθɪŋ",
+      "spell": "humans get used to everything"
+    },
+    {
+      "def1": "я слышу, как она плачет",
+      "ipa": "ай hир hɝ край",
+      "spell": "I hear her cry"
+    },
+    {
+      "def1": "я слышу, как ты читаешь",
+      "ipa": "ай hир ю рид",
+      "spell": "I hear you read"
+    },
+    {
+      "def1": "я вижу, как она бежит",
+      "ipa": "ай си hɝ рʌн",
+      "spell": "I see her run"
+    },
+    {
+      "def1": "я слышал, как она кричала",
+      "ipa": "ай hɝд hɝ йэл",
+      "spell": "I heard her yell"
+    },
+    {
+      "def1": "я вижу, как ты танцуешь",
+      "ipa": "ай си ю дæнс",
+      "spell": "I see you dance"
+    },
+    {
+      "def1": "я болею",
+      "ipa": "ай æм ɪл",
+      "spell": "I am ill"
+    },
+    {
+      "def1": "я ухожу",
+      "ipa": "ай æм ˈливɪŋ",
+      "spell": "I am leaving"
+    },
+    {
+      "def1": "меня тошнит",
+      "ipa": "ай æм сɪк",
+      "spell": "I am sick"
+    },
+    {
+      "def1": "я болею",
+      "ipa": "ай æм сɪк",
+      "spell": "I am sick"
+    },
+    {
+      "def1": "я привык к этому",
+      "ipa": "ай æм юзд ту ɪт",
+      "spell": "I am used to it"
+    },
+    {
+      "def1": "я вижу сквозь него",
+      "ipa": "ай кæн си θру ɪт",
+      "spell": "I can see through it"
+    },
+    {
+      "def1": "я не видел, как она вошла",
+      "ipa": "ай ˈдɪдəнт си hɝ кʌм ɪн",
+      "spell": "I didn’t see her come in"
+    },
+    {
+      "def1": "я не знаю, что такое стекло",
+      "ipa": "ай доунт ноу wɑт глæс ɪз",
+      "spell": "I don’t know what glass is"
+    },
+    {
+      "def1": "я не знаю, что это такое",
+      "ipa": "ай доунт ноу wɑт ɪт ɪз",
+      "spell": "I don’t know what it is"
+    },
+    {
+      "def1": "я не знаю, что такое температура",
+      "ipa": "ай доунт ноу wɑт ˈтэмпрəчɚ ɪз",
+      "spell": "I don’t know what temperature is"
+    },
+    {
+      "def1": "я не люблю читать длинные тексты",
+      "ipa": "ай доунт лайк ˈрэдɪŋ лɔŋ тэкстс",
+      "spell": "I don’t like reading long texts"
+    },
+    {
+      "def1": "я не возражаю",
+      "ipa": "ай доунт майнд",
+      "spell": "I don’t mind"
+    },
+    {
+      "def1": "я не помню, когда в последний раз читал книгу",
+      "ipa": "ай доунт рɪˈмэмбɚ wэн ай лæст рид ə бʊк",
+      "spell": "I don’t remember when I last read a book"
+    },
+    {
+      "def1": "меня тошнит",
+      "ipa": "ай фил сɪк",
+      "spell": "I feel sick"
+    },
+    {
+      "def1": "я нахожу это интересным",
+      "ipa": "ай файнд ɪт ˈɪнтрəстɪŋ",
+      "spell": "I find it interesting"
+    },
+    {
+      "def1": "я отдаю это им",
+      "ipa": "ай гɪв ɪт ту ðэм",
+      "spell": "I give it to them"
+    },
+    {
+      "def1": "я отдаю им свою машину",
+      "ipa": "ай гɪв май кɑр ту ðэм",
+      "spell": "I give my car to them"
+    },
+    {
+      "def1": "я отдаю им деньги",
+      "ipa": "ай гɪв ðə ˈмʌни ту ðэм",
+      "spell": "I give the money to them"
+    },
+    {
+      "def1": "у меня насморк",
+      "ipa": "ай hæв ə ˈрʌни ноуз",
+      "spell": "I have a runny nose"
+    },
+    {
+      "def1": "я никогда не ездил на метро",
+      "ipa": "ай hæв ˈнэвɚ бɪн ɑн ðə ˈсʌˌбwэй",
+      "spell": "I have never been on the subway"
+    },
+    {
+      "def1": "я слышу, как она стучит в дверь",
+      "ipa": "ай hир hɝ нɑк ɑн ðə дор",
+      "spell": "I hear her knock on the door"
+    },
+    {
+      "def1": "мне нравится",
+      "ipa": "ай лайк",
+      "spell": "I like"
+    },
+    {
+      "def1": "мне нравится там, где тепло",
+      "ipa": "ай лайк ɪт wэр ɪтс wорм",
+      "spell": "I like it where it’s warm"
+    },
+    {
+      "def1": "мне нравится читать",
+      "ipa": "ай лайк ˈрэдɪŋ",
+      "spell": "I like reading"
+    },
+    {
+      "def1": "мне нравится смотреть",
+      "ipa": "ай лайк ˈwɑчɪŋ",
+      "spell": "I like watching"
+    },
+    {
+      "def1": "мне очень понравилась концовка",
+      "ipa": "ай лайкт ðи ˈэндɪŋ ˈвэри мʌч",
+      "spell": "I liked the ending very much"
+    },
+    {
+      "def1": "мне нужна помощь",
+      "ipa": "ай нид hэлп",
+      "spell": "I need help"
+    },
+    {
+      "def1": "я читаю дома",
+      "ipa": "ай рид æт hоум",
+      "spell": "I read at home"
+    },
+    {
+      "def1": "мне очень понравилась концовка",
+      "ipa": "ай ˈрɪли лайкт ðи ˈэндɪŋ",
+      "spell": "I really liked the ending"
+    },
+    {
+      "def1": "я видел, как он взял это",
+      "ipa": "ай сɔ hɪм тэйк ɪт",
+      "spell": "I saw him take it"
+    },
+    {
+      "def1": "я вижу, как падает снег",
+      "ipa": "ай си ðə сноу фɔл",
+      "spell": "I see the snow fall"
+    },
+    {
+      "def1": "я всё ещё не могу привыкнуть",
+      "ipa": "ай стɪл кæнт гэт юзд ту ɪт",
+      "spell": "I still can’t get used to it"
+    },
+    {
+      "def1": "я думал",
+      "ipa": "ай θɔт",
+      "spell": "I thought"
+    },
+    {
+      "def1": "я делал это раньше",
+      "ipa": "ай юзд ту ду ɪт",
+      "spell": "I used to do it"
+    },
+    {
+      "def1": "я там родился и вырос",
+      "ipa": "ай wʌз борн æнд рэйзд ðэр",
+      "spell": "I was born and raised there"
+    },
+    {
+      "def1": "я был тихо зол",
+      "ipa": "ай wʌз лоу ки мæд",
+      "spell": "I was low key mad"
+    },
+    {
+      "def1": "каким образом",
+      "ipa": "ɪн wɑт wэй",
+      "spell": "in what way"
+    },
+    {
+      "def1": "оно принадлежало её мужу",
+      "ipa": "ɪт бɪˈлɔŋд ту hɝ ˈhʌзбəнд",
+      "spell": "it belonged to her husband"
+    },
+    {
+      "def1": "оно принадлежало их отцу",
+      "ipa": "ɪт бɪˈлɔŋд ту ðэр ˈфɑðɚ",
+      "spell": "it belonged to their father"
+    },
+    {
+      "def1": "это включает тебя",
+      "ipa": "ɪт ɪнˈклудз ю",
+      "spell": "it includes you"
+    },
+    {
+      "def1": "это дорого ей",
+      "ipa": "ɪт ɪз дɪр ту hɝ",
+      "spell": "it is dear to her"
+    },
+    {
+      "def1": "оно находится севернее Нью-Йорка",
+      "ipa": "ɪт ɪз норθ ʌв ну йорк",
+      "spell": "it is north of New York"
+    },
+    {
+      "def1": "солнечно",
+      "ipa": "ɪт ɪз ˈсʌни",
+      "spell": "it is sunny"
+    },
+    {
+      "def1": "было солнечно",
+      "ipa": "ɪт wʌз ˈсʌни",
+      "spell": "it was sunny"
+    },
+    {
+      "def1": "оно будет испорчено",
+      "ipa": "ɪт wɪл би ˈруəнд",
+      "spell": "it will be ruined"
+    },
+    {
+      "def1": "оно скоро будет разрушено",
+      "ipa": "ɪт wɪл сун би дɪˈстройд",
+      "spell": "it will soon be destroyed"
+    },
+    {
+      "def1": "оно скоро развалится",
+      "ipa": "ɪт wɪл сун фɔл əˈпɑрт",
+      "spell": "it will soon fall apart"
+    },
+    {
+      "def1": "всё веселье и игры, пока это не происходит с тобой",
+      "ipa": "ɪтс ɔл фʌн æнд гэймз əнˈтɪл ɪт ˈhæпəнз ту ю",
+      "spell": "it's all fun and games until it happens to you"
+    },
+    {
+      "def1": "оно не ценно для меня",
+      "ipa": "ɪтс нɑт ˈвæлйəбəл ту ми",
+      "spell": "it's not valuable to me"
+    },
+    {
+      "def1": "оно настолько старое, что разваливается",
+      "ipa": "ɪтс соу оулд ɪтс ˈфɑлɪŋ əˈпɑрт",
+      "spell": "it's so old it's falling apart"
+    },
+    {
+      "def1": "определённо холоднее",
+      "ipa": "ɪтс ˈкоулдɚ фор щʊр",
+      "spell": "it’s colder for sure"
+    },
+    {
+      "def1": "это отличается от Нью-Йорка",
+      "ipa": "ɪтс ˈдɪфɚəнт фрʌм ну йорк",
+      "spell": "it’s different from New York"
+    },
+    {
+      "def1": "это дальше на севере",
+      "ipa": "ɪтс ˈфɝðɚ норθ",
+      "spell": "it’s further north"
+    },
+    {
+      "def1": "будет дождь",
+      "ipa": "ɪтс ˈгɑнə рэйн",
+      "spell": "it’s gonna rain"
+    },
+    {
+      "def1": "мне это интересно",
+      "ipa": "ɪтс ˈɪнтрəстɪŋ фор ми",
+      "spell": "it’s interesting for me"
+    },
+    {
+      "def1": "это кольцо их отца",
+      "ipa": "ɪтс ðэр ˈфɑðɚз рɪŋ",
+      "spell": "it’s their father’s ring"
+    },
+    {
+      "def1": "сегодня среда",
+      "ipa": "ɪтс ˈwэнзˌдэй тəˈдэй",
+      "spell": "it’s Wednesday today"
+    },
+    {
+      "def1": "я похож на X",
+      "ipa": "айм лайк экс",
+      "spell": "I’m like X"
+    },
+    {
+      "def1": "мышцы сокращаются",
+      "ipa": "ˈмʌсəлз ˈкɑнˌтрæкт",
+      "spell": "muscles contract"
+    },
+    {
+      "def1": "мои шторы задернуты",
+      "ipa": "май ˈкɝтəнз ɑр дрɔн",
+      "spell": "my curtains are drawn"
+    },
+    {
+      "def1": "документальная литература",
+      "ipa": "нɑнˈфɪкшəн",
+      "spell": "non-fiction"
+    },
+    {
+      "def1": "больше нет, уже нет",
+      "ipa": "нɑт ˈэни мор",
+      "spell": "not any more"
+    },
+    {
+      "def1": "на экране",
+      "ipa": "ɑн скрин",
+      "spell": "on screen"
+    },
+    {
+      "def1": "наше время вышло",
+      "ipa": "ˈауɚ тайм ɪз ʌп",
+      "spell": "our time is up"
+    },
+    {
+      "def1": "документация, бумажная работа",
+      "ipa": "ˈпэйпɚˌwɝк",
+      "spell": "paperwork"
+    },
+    {
+      "def1": "люди всегда приспосабливаются",
+      "ipa": "ˈпипəл ˈɔлˌwэйз əˈдæпт",
+      "spell": "people always adapt"
+    },
+    {
+      "def1": "люди, которые владеют домами",
+      "ipa": "ˈпипəл hу оун ˈhаузɪз",
+      "spell": "people who own houses"
+    },
+    {
+      "def1": "за ночь",
+      "ipa": "пɝ найт",
+      "spell": "per night"
+    },
+    {
+      "def1": "рисунок четыре",
+      "ipa": "ˈпɪкчɚ фор",
+      "spell": "picture four"
+    },
+    {
+      "def1": "научная фантастика",
+      "ipa": "ˈсайəнс ˈфɪкшəн (си-фай)",
+      "spell": "science fiction (sci-fi)"
+    },
+    {
+      "def1": "прозрачный",
+      "ipa": "си-θру",
+      "spell": "see-through"
+    },
+    {
+      "def1": "она видит, как я пою",
+      "ipa": "щи сиз ми сɪŋ",
+      "spell": "she sees me sing"
+    },
+    {
+      "def1": "она смотрит, как я пишу",
+      "ipa": "щи ˈwɑчəз ми райт",
+      "spell": "she watches me write"
+    },
+    {
+      "def1": "у неё были дружки",
+      "ipa": "щи hæд ˈбʌдиз",
+      "spell": "she had buddies"
+    },
+    {
+      "def1": "закуска для змеи (мышь)",
+      "ipa": "снэйк снæк",
+      "spell": "snake snack"
+    },
+    {
+      "def1": "снежные зимы",
+      "ipa": "ˈсноуи ˈwɪнтɚз",
+      "spell": "snowy winters"
+    },
+    {
+      "def1": "мягкая научная фантастика",
+      "ipa": "сɑфт си-фай",
+      "spell": "soft sci-fi"
+    },
+    {
+      "def1": "текст песни",
+      "ipa": "сɔŋ ˈлɪрɪкс",
+      "spell": "song lyrics"
+    },
+    {
+      "def1": "это странно!",
+      "ipa": "ðæтс стрэйндж!",
+      "spell": "that’s strange!"
+    },
+    {
+      "def1": "это необычно!",
+      "ipa": "ðæтс əнˈюжˌуəл!",
+      "spell": "that’s unusual!"
+    },
+    {
+      "def1": "в окнах дворца нет стекла",
+      "ipa": "ðə ˈпæлəс ˈwɪндоуз hæв ноу глæс",
+      "spell": "the palace windows have no glass"
+    },
+    {
+      "def1": "человек умирает сразу",
+      "ipa": "ðə ˈпɝсəн дайз æт wʌнс",
+      "spell": "the person dies at once"
+    },
+    {
+      "def1": "самая южная часть",
+      "ipa": "ðə ˈсʌðɚнˌмоуст пɑрт",
+      "spell": "the southernmost part"
+    },
+    {
+      "def1": "зимы были более снежными",
+      "ipa": "ðə ˈwɪнтɚз wɝ ˈсноуиɚ",
+      "spell": "the winters were snowier"
+    },
+    {
+      "def1": "их мама",
+      "ipa": "ðэр мɑм",
+      "spell": "their mom"
+    },
+    {
+      "def1": "они смотрят, как он открывает это",
+      "ipa": "ðэй wɑч hɪм ˈоупəн ɪт",
+      "spell": "they watch him open it"
+    },
+    {
+      "def1": "они наблюдают как мы живём",
+      "ipa": "ðэй wɑч ʌс лɪв",
+      "spell": "they watch us live"
+    },
+    {
+      "def1": "они могут простудиться",
+      "ipa": "ðэй кæн кæч ə коулд",
+      "spell": "they can catch a cold"
+    },
+    {
+      "def1": "они кричат и вопят",
+      "ipa": "ðэй скрим æнд шаут",
+      "spell": "they scream and shout"
+    },
+    {
+      "def1": "они смотрят, как он открывает её",
+      "ipa": "ðэй wɑч hɪм ˈоупəн ɪт",
+      "spell": "they watch him open it"
+    },
+    {
+      "def1": "это ограбление!",
+      "ipa": "ðɪс ɪз ə ˈрɑбɚи!",
+      "spell": "this is a robbery!"
+    },
+    {
+      "def1": "это первый раз, когда он видит X",
+      "ipa": "ðɪс ɪз ðə фɝст тайм hи сиз экс",
+      "spell": "this is the first time he sees X"
+    },
+    {
+      "def1": "через, сквозь",
+      "ipa": "θру",
+      "spell": "through"
+    },
+    {
+      "def1": "сокращаться",
+      "ipa": "ту кəнˈтрæкт",
+      "spell": "to contract"
+    },
+    {
+      "def1": "умирать",
+      "ipa": "ту дай",
+      "spell": "to die"
+    },
+    {
+      "def1": "найти работу",
+      "ipa": "ту файнд wɝк",
+      "spell": "to find work"
+    },
+    {
+      "def1": "сделать прививку от гриппа",
+      "ipa": "ту гэт ə флу шɑт",
+      "spell": "to get a flu shot"
+    },
+    {
+      "def1": "убить двух зайцев одним выстрелом",
+      "ipa": "ту кɪл ту бɝдз wɪð wʌн стоун",
+      "spell": "to kill two birds with one stone"
+    },
+    {
+      "def1": "уйти из дома",
+      "ipa": "ту лив hоум",
+      "spell": "to leave home"
+    },
+    {
+      "def1": "встречать, знакомиться",
+      "ipa": "ту мит",
+      "spell": "to meet"
+    },
+    {
+      "def1": "вскрыть замок отмычкой",
+      "ipa": "ту пɪк ə лɑк",
+      "spell": "to pick a lock"
+    },
+    {
+      "def1": "воспитывать ребёнка",
+      "ipa": "ту рэйз ə чайлд",
+      "spell": "to raise a child"
+    },
+    {
+      "def1": "визжать, вопить",
+      "ipa": "ту скрим",
+      "spell": "to scream"
+    },
+    {
+      "def1": "кричать",
+      "ipa": "ту шаут",
+      "spell": "to shout"
+    },
+    {
+      "def1": "сделать сезонную прививку от гриппа",
+      "ipa": "ту тэйк ə ˈсизəнəл флу шɑт",
+      "spell": "to take a seasonal flu shot"
+    },
+    {
+      "def1": "орать",
+      "ipa": "ту йэл",
+      "spell": "to yell"
+    },
+    {
+      "def1": "то, что",
+      "ipa": "wɑт",
+      "spell": "what"
+    },
+    {
+      "def1": "то, что он делает",
+      "ipa": "wɑт hи дʌз",
+      "spell": "what he does"
+    },
+    {
+      "def1": "то, что он делает, гораздо хуже",
+      "ipa": "wɑт hи дʌз ɪз мʌч wɝс",
+      "spell": "what he does is much worse"
+    },
+    {
+      "def1": "какой способ",
+      "ipa": "wɑт wэй",
+      "spell": "what way"
+    },
+    {
+      "def1": "то, что ты делаешь",
+      "ipa": "wɑт ю ду",
+      "spell": "what you do"
+    },
+    {
+      "def1": "когда я говорю \"Эндрю\", я имею в виду тебя",
+      "ipa": "wэн ай сэй ˈæндру, ай рəˈфɝ ту ю",
+      "spell": "when I say Andrew, I refer to you"
+    },
+    {
+      "def1": "когда мы впервые приехали",
+      "ipa": "wэн wи фɝст кэйм",
+      "spell": "when we first came"
+    },
+    {
+      "def1": "там, где",
+      "ipa": "wэр",
+      "spell": "where"
+    },
+    {
+      "def1": "там, где тепло",
+      "ipa": "wэр ɪтс wорм",
+      "spell": "where it’s warm"
+    },
+    {
+      "def1": "пока она спит",
+      "ipa": "wайл щи слипс",
+      "spell": "while she sleeps"
+    },
+    {
+      "def1": "кого ты имеешь в виду?",
+      "ipa": "hу ду ю рəˈфɝ ту?",
+      "spell": "who do you refer to?"
+    },
+    {
+      "def1": "кого она имеет в виду?",
+      "ipa": "hу дʌз щи рəˈфɝ ту?",
+      "spell": "who does she refer to?"
+    },
+    {
+      "def1": "то, почему",
+      "ipa": "wай",
+      "spell": "why"
+    },
+    {
+      "def1": "ты видишь, как он готовит",
+      "ipa": "ю си hɪм кʊк",
+      "spell": "you see him cook"
+    },
+    {
+      "def1": "ты видишь, как я работаю",
+      "ipa": "ю си ми wɝк",
+      "spell": "you see me work"
+    },
+    {
+      "def1": "ты это придумываешь",
+      "ipa": "ю мэйк ɪт ʌп",
+      "spell": "you make it up"
+    },
+    {
+      "def1": "тебе нужно читать на английском",
+      "ipa": "ю нид ту рид ɪн ˈɪŋглɪш",
+      "spell": "you need to read in English"
+    },
+    {
+      "def1": "ты видишь, как загораются огни",
+      "ipa": "ю си ðə лайтс гоу ɑн",
+      "spell": "you see the lights go on"
+    },
+    {
+      "def1": "ключ от твоей машины",
+      "ipa": "йʊɚ кɑр ки",
+      "spell": "your car key"
+    },
+    {
+      "def1": "твои наушники",
+      "ipa": "йʊɚ ˈɪрˌфоунз",
+      "spell": "your earphones"
+    },
+    {
+      "def1": "вы привыкнете",
+      "ipa": "юл гэт юзд ту ɪт",
+      "spell": "you’ll get used to it"
+    },
+    {
+      "def1": "ты заблудился",
+      "ipa": "йʊр лɔст",
+      "spell": "you’re lost"
+    }
+  ]
+}
