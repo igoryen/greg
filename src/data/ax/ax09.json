@@ -1,0 +1,1269 @@
+{
+  "student": "Andrew S.",
+  "slug": "ax",
+  "period": "week",
+  "number": 50,
+  "date": "2025-12-12",
+  "words": [
+    {
+      "def1": "загруженный ресторан",
+      "ipa": "ə ˈбɪзи ˈрэстəˌрɑнт",
+      "spell": "a busy restaurant"
+    },
+    {
+      "def1": "облачное небо",
+      "ipa": "ə ˈклауди скай",
+      "spell": "a cloudy sky"
+    },
+    {
+      "def1": "удобный овощ",
+      "ipa": "ə ˈкʌмфɚтəбəл ˈвэджтəбəл",
+      "spell": "a comfortable vegetable"
+    },
+    {
+      "def1": "запятая",
+      "ipa": "ə ˈкɑмə",
+      "spell": "a comma"
+    },
+    {
+      "def1": "конкурс, соревнование",
+      "ipa": "ə ˈкɑнтэст",
+      "spell": "a contest"
+    },
+    {
+      "def1": "участник конкурса, конкурсант",
+      "ipa": "ə кəнˈтэстəнт",
+      "spell": "a contestant"
+    },
+    {
+      "def1": "пустыня",
+      "ipa": "ə ˈдэзɝт",
+      "spell": "a desert"
+    },
+    {
+      "def1": "в пустыне нет растений",
+      "ipa": "ə ˈдэзɝт ˈдʌзəнт hæв ˈэни плæнтс",
+      "spell": "a desert doesn’t have any plants"
+    },
+    {
+      "def1": "десерт",
+      "ipa": "ə дɪˈзɝт",
+      "spell": "a dessert"
+    },
+    {
+      "def1": "целитель",
+      "ipa": "ə ˈhилɚ",
+      "spell": "a healer"
+    },
+    {
+      "def1": "сильный дождь",
+      "ipa": "ə ˈhэви рэйн",
+      "spell": "a heavy rain"
+    },
+    {
+      "def1": "львиный рёв",
+      "ipa": "ə ˈлайəнз рор",
+      "spell": "a lion’s roar"
+    },
+    {
+      "def1": "длинное прилагательное",
+      "ipa": "ə лɔŋ ˈæджɪктɪв",
+      "spell": "a long adjective"
+    },
+    {
+      "def1": "точка",
+      "ipa": "ə ˈпɪриəд",
+      "spell": "a period"
+    },
+    {
+      "def1": "момент, пункт",
+      "ipa": "ə пойнт",
+      "spell": "a point"
+    },
+    {
+      "def1": "момент во времени",
+      "ipa": "ə пойнт ɪн тайм",
+      "spell": "a point in time"
+    },
+    {
+      "def1": "викторина, опрос",
+      "ipa": "ə кwɪз",
+      "spell": "a quiz"
+    },
+    {
+      "def1": "песчаное место",
+      "ipa": "ə ˈсæнди плэйс",
+      "spell": "a sandy place"
+    },
+    {
+      "def1": "небольшой дождь",
+      "ipa": "ə смɔл ˈшауɚ",
+      "spell": "a small shower"
+    },
+    {
+      "def1": "утверждение",
+      "ipa": "ə ˈстэйтмəнт",
+      "spell": "a statement"
+    },
+    {
+      "def1": "учащийся",
+      "ipa": "ə ˈстудəнт",
+      "spell": "a student"
+    },
+    {
+      "def1": "предатель",
+      "ipa": "ə ˈтрэйтɚ",
+      "spell": "a traitor"
+    },
+    {
+      "def1": "кит",
+      "ipa": "ə wэйл",
+      "spell": "a whale"
+    },
+    {
+      "def1": "звук кита",
+      "ipa": "ə wэйлз саунд",
+      "spell": "a whale’s sound"
+    },
+    {
+      "def1": "почти полмиллиона долларов",
+      "ipa": "ˈɔлˌмоуст hæф ə ˈмɪлйəн ˈдɑлɚз",
+      "spell": "almost half a million dollars"
+    },
+    {
+      "def1": "рядом, наряду с",
+      "ipa": "əˈлɔŋˈсайд",
+      "spell": "alongside"
+    },
+    {
+      "def1": "бухгалтер",
+      "ipa": "əн əˈкаунтəнт",
+      "spell": "an accountant"
+    },
+    {
+      "def1": "слон в два раза больше лошади",
+      "ipa": "əн ˈэлəфəнт ɪз тwайс ðə сайз ʌв ə hорс",
+      "spell": "an elephant is twice the size of a horse"
+    },
+    {
+      "def1": "ещё одна ценная вещь",
+      "ipa": "əˈнʌðɚ ˈвæлйəбəл θɪŋ",
+      "spell": "another valuable thing"
+    },
+    {
+      "def1": "такие же многочисленные, как",
+      "ipa": "æз ˈмэни æз",
+      "spell": "as many as"
+    },
+    {
+      "def1": "так же много, как",
+      "ipa": "æз мʌч æз",
+      "spell": "as much as"
+    },
+    {
+      "def1": "на сегодняшний день",
+      "ipa": "æз ʌв тəˈдэй",
+      "spell": "as of today"
+    },
+    {
+      "def1": "как можно скорее",
+      "ipa": "æз сун æз ˈпɑсəбəл",
+      "spell": "as soon as possible"
+    },
+    {
+      "def1": "пока мы говорим, в данный момент",
+      "ipa": "æз wи спик",
+      "spell": "as we speak"
+    },
+    {
+      "def1": "больше, крупнее",
+      "ipa": "ˈбɪгɚ",
+      "spell": "bigger"
+    },
+    {
+      "def1": "Болливуд снимает намного больше фильмов, чем Голливуд",
+      "ipa": "ˈбɑˌлиwʊд мэйкс ˈмэни мор фɪлмз ðæн ˈhɑлиˌwʊд",
+      "spell": "Bollywood makes many more films than Hollywood"
+    },
+    {
+      "def1": "позови друга, чтобы он помог тебе",
+      "ipa": "кɔл йʊɚ фрэнд ту hэлп ю",
+      "spell": "call your friend to help you"
+    },
+    {
+      "def1": "здесь можно летать?",
+      "ipa": "кæн ю флай hир?",
+      "spell": "can you fly here?"
+    },
+    {
+      "def1": "здесь можно сидеть?",
+      "ipa": "кæн ю сɪт hир?",
+      "spell": "can you sit here?"
+    },
+    {
+      "def1": "Цельсий",
+      "ipa": "ˈсэлсиəс",
+      "spell": "Celsius"
+    },
+    {
+      "def1": "ясный, неясный",
+      "ipa": "клɪр, əнˈклɪр",
+      "spell": "clear, unclear"
+    },
+    {
+      "def1": "по сравнению с",
+      "ipa": "кəмˈпэрд ту",
+      "spell": "compared to"
+    },
+    {
+      "def1": "опасный",
+      "ipa": "ˈдэйнджɚəс",
+      "spell": "dangerous"
+    },
+    {
+      "def1": "он получил что-нибудь?",
+      "ipa": "дɪд hи гэт ˈэниˌθɪŋ?",
+      "spell": "did he get anything?"
+    },
+    {
+      "def1": "разве он ничего не получил?",
+      "ipa": "ˈдɪдəнт hи гэт ˈэниˌθɪŋ?",
+      "spell": "didn’t he get anything?"
+    },
+    {
+      "def1": "ты случайно не играешь в лотерею?",
+      "ipa": "ду ю плэй ðə ˈлɑтɚи бай ˈэни чæнс?",
+      "spell": "do you play the lottery by any chance?"
+    },
+    {
+      "def1": "сделать, отменить",
+      "ipa": "ду, əнˈду",
+      "spell": "do, undo"
+    },
+    {
+      "def1": "это заставляет тебя чувствовать себя хорошо?",
+      "ipa": "дʌз ɪт мэйк ю фил гʊд?",
+      "spell": "does it make you feel good?"
+    },
+    {
+      "def1": "не трогай моё барахло",
+      "ipa": "доунт тʌч май стʌф/щɪт",
+      "spell": "don’t touch my stuff/shit"
+    },
+    {
+      "def1": "точка ком (.com)",
+      "ipa": "дɑт кɑм (.кɑм)",
+      "spell": "dot com (.com)"
+    },
+    {
+      "def1": "в час пик",
+      "ipa": "ˈдʊрɪŋ рʌш ˈауɚ",
+      "spell": "during rush hour"
+    },
+    {
+      "def1": "здесь всё в фунтах",
+      "ipa": "ˈэвриˌθɪŋ ɪз ɪн паунд hир",
+      "spell": "everything is in lb here"
+    },
+    {
+      "def1": "всё по-честному",
+      "ipa": "ˈэвриˌθɪŋ ɪз ɑн ðə ˈлэвəл",
+      "spell": "everything is on the level"
+    },
+    {
+      "def1": "образно",
+      "ipa": "фɪˈгйʊрəтɪвли",
+      "spell": "figuratively"
+    },
+    {
+      "def1": "смешной",
+      "ipa": "ˈфʌни",
+      "spell": "funny"
+    },
+    {
+      "def1": "сделай правильно!",
+      "ipa": "гэт ɪт райт!",
+      "spell": "get it right!"
+    },
+    {
+      "def1": "хороший, лучше, наилучший",
+      "ipa": "гʊд, ˈбэтɚ, ðə бэст",
+      "spell": "good, better, the best"
+    },
+    {
+      "def1": "седые волосы",
+      "ipa": "грэй hэр",
+      "spell": "gray hair"
+    },
+    {
+      "def1": "седые волоски",
+      "ipa": "грэй hэрз",
+      "spell": "gray hairs"
+    },
+    {
+      "def1": "он позвал своего друга",
+      "ipa": "hи кɔлд hɪз фрэнд",
+      "spell": "he called his friend"
+    },
+    {
+      "def1": "он мог быть",
+      "ipa": "hи кʊд би",
+      "spell": "he could be"
+    },
+    {
+      "def1": "он ничего не получил",
+      "ipa": "hи ˈдɪдəнт гэт ə θɪŋ",
+      "spell": "he didn’t get a thing"
+    },
+    {
+      "def1": "он ничего не получил",
+      "ipa": "hи ˈдɪдəнт гэт ˈэниˌθɪŋ",
+      "spell": "he didn’t get anything"
+    },
+    {
+      "def1": "он дал неправильный ответ",
+      "ipa": "hи гэйв ə рɔŋ ˈæнсɚ",
+      "spell": "he gave a wrong answer"
+    },
+    {
+      "def1": "он дал ему что-то взамен",
+      "ipa": "hи гэйв hɪм ˈсʌмθɪŋ ɪн рɪˈтɝн",
+      "spell": "he gave him something in return"
+    },
+    {
+      "def1": "он ничего не получил",
+      "ipa": "hи гɑт ˈнʌθɪŋ",
+      "spell": "he got nothing"
+    },
+    {
+      "def1": "он получил что-то",
+      "ipa": "hи гɑт ˈсʌмθɪŋ",
+      "spell": "he got something"
+    },
+    {
+      "def1": "он ответил неправильно",
+      "ipa": "hи гɑт ðи ˈæнсɚ рɔŋ",
+      "spell": "he got the answer wrong"
+    },
+    {
+      "def1": "он ушёл из дома",
+      "ipa": "hи лэфт hоум",
+      "spell": "he left home"
+    },
+    {
+      "def1": "он украл кольцо",
+      "ipa": "hи стоул ðə рɪŋ",
+      "spell": "he stole the ring"
+    },
+    {
+      "def1": "он хотел быть очень богатым человеком",
+      "ipa": "hи ˈwɔнтɪд ту би ə ˈвэри рɪч ˈпɝсəн",
+      "spell": "he wanted to be a very rich person"
+    },
+    {
+      "def1": "он хотел быть очень богатым",
+      "ipa": "hи ˈwɔнтɪд ту би ˈвэри рɪч",
+      "spell": "he wanted to be very rich"
+    },
+    {
+      "def1": "он хотел продать кольцо принцу",
+      "ipa": "hи ˈwɔнтɪд ту сэл ðə рɪŋ ту ðə прɪнс",
+      "spell": "he wanted to sell the ring to the prince"
+    },
+    {
+      "def1": "он был жадным",
+      "ipa": "hи wʌз ˈгриди",
+      "spell": "he was greedy"
+    },
+    {
+      "def1": "кто \"он\"?",
+      "ipa": "hи hу?",
+      "spell": "he who?"
+    },
+    {
+      "def1": "тяжёлый, тяжелее",
+      "ipa": "ˈhэви, ˈhэвиɚ",
+      "spell": "heavy, heavier"
+    },
+    {
+      "def1": "её звали Сандра",
+      "ipa": "hɝ нэйм wʌз ˈсæндрə",
+      "spell": "her name was Sandra"
+    },
+    {
+      "def1": "как ты это нашёл?",
+      "ipa": "hау дɪд ю файнд ɪт?",
+      "spell": "how did you find it?"
+    },
+    {
+      "def1": "как вы это находите?",
+      "ipa": "hау ду ю файнд ɪт?",
+      "spell": "how do you find it?"
+    },
+    {
+      "def1": "как это сказать по-английски?",
+      "ipa": "hау ду ю сэй ðæт ɪн ˈɪŋглɪш?",
+      "spell": "how do you say that in English?"
+    },
+    {
+      "def1": "как это говорится?",
+      "ipa": "hау ду ю сэй ðæт?",
+      "spell": "how do you say that?"
+    },
+    {
+      "def1": "как это пишется?",
+      "ipa": "hау ду ю спэл ɪт?",
+      "spell": "how do you spell it?"
+    },
+    {
+      "def1": "сколько он получил?",
+      "ipa": "hау мʌч дɪд hи гэт?",
+      "spell": "how much did he get?"
+    },
+    {
+      "def1": "сколько он планировал получить от него?",
+      "ipa": "hау мʌч дɪд hи плæн ту гэт фрʌм hɪм?",
+      "spell": "how much did he plan to get from him?"
+    },
+    {
+      "def1": "сколько стоит одна монета?",
+      "ipa": "hау мʌч дʌз wʌн койн кɑст?",
+      "spell": "how much does one coin cost?"
+    },
+    {
+      "def1": "насколько дольше это было?",
+      "ipa": "hау мʌч ˈлɔŋгɚ wʌз ɪт?",
+      "spell": "how much longer was it?"
+    },
+    {
+      "def1": "я вернулся в Нью-Йорк",
+      "ipa": "ай æм бæк ɪн ну йорк",
+      "spell": "I am back in New York"
+    },
+    {
+      "def1": "я не уверен в этом",
+      "ipa": "ай æм нɑт щʊр əˈбаут ɪт",
+      "spell": "I am not sure about it"
+    },
+    {
+      "def1": "я стою в пробке",
+      "ipa": "ай æм стʌк ɪн ˈтрæфɪк",
+      "spell": "I am stuck in traffic"
+    },
+    {
+      "def1": "я могу убавить (температуру)",
+      "ipa": "ай кæн тɝн ɪт даун (ˈтэмпрəчɚ)",
+      "spell": "I can turn it down (temperature)"
+    },
+    {
+      "def1": "я могу прибавить (температуру)",
+      "ipa": "ай кæн тɝн ɪт ʌп (ˈтэмпрəчɚ)",
+      "spell": "I can turn it up (temperature)"
+    },
+    {
+      "def1": "не знаю, смогу ли я",
+      "ipa": "ай доунт ноу ɪф ай кæн",
+      "spell": "I don’t know if I can"
+    },
+    {
+      "def1": "мне не нравится, когда в квартире очень жарко",
+      "ipa": "ай доунт лайк ɪт wэн ɪтс ˈвэри hɑт ɪнˈсайд ðи əˈпɑртмəнт",
+      "spell": "I don’t like it when it’s very hot inside the apartment"
+    },
+    {
+      "def1": "сомневаюсь",
+      "ipa": "ай даут ɪт",
+      "spell": "I doubt it"
+    },
+    {
+      "def1": "я нахожу это интересным/скучным",
+      "ipa": "ай файнд ɪт ˈɪнтрəстɪŋ/ˈборɪŋ",
+      "spell": "I find it interesting/boring"
+    },
+    {
+      "def1": "Нью-Йорк кажется мне слишком сумасшедшим",
+      "ipa": "ай файнд ну йорк ту ˈкрэйзи",
+      "spell": "I find New York too crazy"
+    },
+    {
+      "def1": "я застрял в пробке",
+      "ipa": "ай гɑт стʌк ɪн ˈтрæфɪк",
+      "spell": "I got stuck in traffic"
+    },
+    {
+      "def1": "я там застрял",
+      "ipa": "ай гɑт стʌк ðэр",
+      "spell": "I got stuck there"
+    },
+    {
+      "def1": "я промок",
+      "ipa": "ай гɑт wэт",
+      "spell": "I got wet"
+    },
+    {
+      "def1": "я никогда не слышал звук кита",
+      "ipa": "ай hæв ˈнэвɚ hɝд ðə саунд ʌв ə wэйл",
+      "spell": "I have never heard the sound of a whale"
+    },
+    {
+      "def1": "я надеюсь, что так",
+      "ipa": "ай hоуп соу",
+      "spell": "I hope so"
+    },
+    {
+      "def1": "мне нужно позвонить",
+      "ipa": "ай нид ту мэйк ə фоун кɔл",
+      "spell": "I need to make a phone call"
+    },
+    {
+      "def1": "я помню",
+      "ipa": "ай рɪˈмэмбɚ",
+      "spell": "I remember"
+    },
+    {
+      "def1": "думаю, это правда",
+      "ipa": "ай θɪŋк ɪтс тру",
+      "spell": "I think it’s true"
+    },
+    {
+      "def1": "думаю, что нет!",
+      "ipa": "ай θɪŋк нɑт!",
+      "spell": "I think not!"
+    },
+    {
+      "def1": "думаю, что да",
+      "ipa": "ай θɪŋк соу",
+      "spell": "I think so"
+    },
+    {
+      "def1": "ли",
+      "ipa": "ɪф",
+      "spell": "if"
+    },
+    {
+      "def1": "если вы ответите на вопрос правильно",
+      "ipa": "ɪф ю ˈæнсɚ ðə ˈкwэсчəн райт",
+      "spell": "if you answer the question right"
+    },
+    {
+      "def1": "если включить нелегальных иммигрантов",
+      "ipa": "ɪф ю ɪнˈклуд ɪˈлигəл ˈɪмəгрəнтс",
+      "spell": "if you include illegal immigrants"
+    },
+    {
+      "def1": "взамен на деньги",
+      "ipa": "ɪн рɪˈтɝн фор ˈмʌни",
+      "spell": "in return for money"
+    },
+    {
+      "def1": "это лишает смысла",
+      "ipa": "ɪт дɪˈфитс ðə ˈпɝпəс",
+      "spell": "it defeats the purpose"
+    },
+    {
+      "def1": "оно лечит",
+      "ipa": "ɪт кйʊрз",
+      "spell": "it cures"
+    },
+    {
+      "def1": "оно удваивается каждый раз",
+      "ipa": "ɪт ˈдʌбəлз ˈэвɚи тайм",
+      "spell": "it doubles every time"
+    },
+    {
+      "def1": "оно исцелило меня",
+      "ipa": "ɪт hилд ми",
+      "spell": "it healed me"
+    },
+    {
+      "def1": "это исцеляет",
+      "ipa": "ɪт hилз",
+      "spell": "it heals"
+    },
+    {
+      "def1": "оно полно песка",
+      "ipa": "ɪт ɪз фʊл ʌв сæнд",
+      "spell": "it is full of sand"
+    },
+    {
+      "def1": "это грамматически правильно",
+      "ipa": "ɪт ɪз грəˈмæтəкəли кəˈрэкт",
+      "spell": "it is grammatically correct"
+    },
+    {
+      "def1": "это понятно",
+      "ipa": "ɪт ɪз ˌʌндɚˈстæндəбəл",
+      "spell": "it is understandable"
+    },
+    {
+      "def1": "там всегда тепло",
+      "ipa": "ɪт ɪз wорм ˈоувɚ ðэр ɔл ðə тайм",
+      "spell": "it is warm over there all the time"
+    },
+    {
+      "def1": "это не растения",
+      "ipa": "ɪт ˈɪзəнт плæнтс",
+      "spell": "it isn’t plants"
+    },
+    {
+      "def1": "это длилось дольше",
+      "ipa": "ɪт ˈлæстɪд ˈлɔŋгɚ",
+      "spell": "it lasted longer"
+    },
+    {
+      "def1": "это было (на год) дольше",
+      "ipa": "ɪт wʌз (ə йɪр) ˈлɔŋгɚ",
+      "spell": "it was (a year) longer"
+    },
+    {
+      "def1": "это было дольше",
+      "ipa": "ɪт wʌз ˈлɔŋгɚ",
+      "spell": "it was longer"
+    },
+    {
+      "def1": "страшно, хоть вешайся",
+      "ipa": "ɪтс соу ˈскэри, ю кʊд джʌст hæŋ йɚˈсэлф",
+      "spell": "it's so scary, you could just hang yourself"
+    },
+    {
+      "def1": "страшно, хоть в гроб ложись",
+      "ipa": "ɪтс соу ˈскэри, ю майт æз wэл джʌст дай",
+      "spell": "it's so scary, you might as well just die"
+    },
+    {
+      "def1": "холодновато",
+      "ipa": "ɪтс ə ˈлɪтəл коулд",
+      "spell": "it’s a little cold"
+    },
+    {
+      "def1": "солнечный день",
+      "ipa": "ɪтс ə ˈсʌни дэй",
+      "spell": "it’s a sunny day"
+    },
+    {
+      "def1": "на Аляске всегда холодно",
+      "ipa": "ɪтс ˈɔлˌwэйз коулд ɪн əˈлæскə",
+      "spell": "it’s always cold in Alaska"
+    },
+    {
+      "def1": "это честно",
+      "ipa": "ɪтс фэр",
+      "spell": "it’s fair"
+    },
+    {
+      "def1": "это моё барахло",
+      "ipa": "ɪтс май стʌф",
+      "spell": "it’s my stuff"
+    },
+    {
+      "def1": "льёт как из ведра",
+      "ipa": "ɪтс ˈпорɪŋ рэйн",
+      "spell": "it’s pouring rain"
+    },
+    {
+      "def1": "идёт сильный дождь",
+      "ipa": "ɪтс ˈрэйнɪŋ hɑрд",
+      "spell": "it’s raining hard"
+    },
+    {
+      "def1": "это правда",
+      "ipa": "ɪтс тру",
+      "spell": "it’s true"
+    },
+    {
+      "def1": "там очень холодно ночью",
+      "ipa": "ɪтс ˈвэри коулд ðэр æт найт",
+      "spell": "it’s very cold there at night"
+    },
+    {
+      "def1": "там очень жарко днём",
+      "ipa": "ɪтс ˈвэри hɑт ðэр ˈдʊрɪŋ ðə дэй",
+      "spell": "it’s very hot there during the day"
+    },
+    {
+      "def1": "оно очень ценное",
+      "ipa": "ɪтс ˈвэри ˈвæлйəбəл",
+      "spell": "it’s very valuable"
+    },
+    {
+      "def1": "по-стариковски",
+      "ipa": "лайк əн оулд ˈпɝсəн, лайк оулд ˈпипəл",
+      "spell": "like an old person, like old people"
+    },
+    {
+      "def1": "намного больше машин",
+      "ipa": "ˈмэни мор кɑрз",
+      "spell": "many more cars"
+    },
+    {
+      "def1": "намного больше клиентов",
+      "ipa": "ˈмэни мор ˈкʌстəмɚз",
+      "spell": "many more customers"
+    },
+    {
+      "def1": "намного больше дней",
+      "ipa": "ˈмэни мор дэйз",
+      "spell": "many more days"
+    },
+    {
+      "def1": "намного больше волосков",
+      "ipa": "ˈмэни мор hэрз",
+      "spell": "many more hairs"
+    },
+    {
+      "def1": "намного больше километров",
+      "ipa": "ˈмэни мор кəˈлɑˌмʌтɚз",
+      "spell": "many more kilometers"
+    },
+    {
+      "def1": "намного больше людей",
+      "ipa": "ˈмэни мор ˈпипəл",
+      "spell": "many more people"
+    },
+    {
+      "def1": "намного больше вещей",
+      "ipa": "ˈмэни мор θɪŋз",
+      "spell": "many more things"
+    },
+    {
+      "def1": "надеть маску, снять маску",
+      "ipa": "мæск, əнˈмæск",
+      "spell": "mask, unmask"
+    },
+    {
+      "def1": "может быть, даже это",
+      "ipa": "ˈмэйби ˈивɪн ðæт",
+      "spell": "maybe even that"
+    },
+    {
+      "def1": "более опасный",
+      "ipa": "мор ˈдэйнджɚəс",
+      "spell": "more dangerous"
+    },
+    {
+      "def1": "более современный",
+      "ipa": "мор ˈмɑдɚн",
+      "spell": "more modern"
+    },
+    {
+      "def1": "намного больше энергии",
+      "ipa": "мʌч мор ˈэнɚджи",
+      "spell": "much more energy"
+    },
+    {
+      "def1": "намного больше еды",
+      "ipa": "мʌч мор фуд",
+      "spell": "much more food"
+    },
+    {
+      "def1": "намного больше волос",
+      "ipa": "мʌч мор hэр",
+      "spell": "much more hair"
+    },
+    {
+      "def1": "намного больше света",
+      "ipa": "мʌч мор лайт",
+      "spell": "much more light"
+    },
+    {
+      "def1": "намного больше денег",
+      "ipa": "мʌч мор ˈмʌни",
+      "spell": "much more money"
+    },
+    {
+      "def1": "намного больше вещей",
+      "ipa": "мʌч мор стʌф",
+      "spell": "much more stuff"
+    },
+    {
+      "def1": "намного больше времени",
+      "ipa": "мʌч мор тайм",
+      "spell": "much more time"
+    },
+    {
+      "def1": "намного больше работы",
+      "ipa": "мʌч мор wɝк",
+      "spell": "much more work"
+    },
+    {
+      "def1": "нет, нельзя",
+      "ipa": "ноу, ю кæнт",
+      "spell": "no, you can’t"
+    },
+    {
+      "def1": "одно или больше слов",
+      "ipa": "wʌн ор мор wɝдз",
+      "spell": "one or more words"
+    },
+    {
+      "def1": "одна целая пять десятых",
+      "ipa": "wʌн пойнт файв (1.5)",
+      "spell": "one point five (1.5)"
+    },
+    {
+      "def1": "одна ценная вещь",
+      "ipa": "wʌн ˈвæлйəбəл θɪŋ",
+      "spell": "one valuable thing"
+    },
+    {
+      "def1": "население",
+      "ipa": "ˌпɑпйəˈлэйшəн",
+      "spell": "population"
+    },
+    {
+      "def1": "возможный, невозможный",
+      "ipa": "ˈпɑсəбəл, ɪмˈпɑсəбəл",
+      "spell": "possible, impossible"
+    },
+    {
+      "def1": "симпатичный, довольно",
+      "ipa": "ˈпрɪти",
+      "spell": "pretty"
+    },
+    {
+      "def1": "вполне возможно",
+      "ipa": "кwайт ˈпɑсəбəл",
+      "spell": "quite possible"
+    },
+    {
+      "def1": "замените батарейки",
+      "ipa": "ˌриˈплэйс ðə ˈбæтɚиз",
+      "spell": "replace the batteries"
+    },
+    {
+      "def1": "замените Y на I",
+      "ipa": "ˌриˈплэйс wай wɪð ай",
+      "spell": "replace Y with I"
+    },
+    {
+      "def1": "водоросли",
+      "ipa": "ˈсиˌwид",
+      "spell": "seaweed"
+    },
+    {
+      "def1": "увидеть, развидеть (забыть увиденное)",
+      "ipa": "си, ʌнˈси",
+      "spell": "see, unsee"
+    },
+    {
+      "def1": "она не помогла ему",
+      "ipa": "щи ˈдɪдəнт hэлп hɪм",
+      "spell": "she didn’t help him"
+    },
+    {
+      "def1": "бок о бок",
+      "ipa": "сайд бай сайд",
+      "spell": "side by side"
+    },
+    {
+      "def1": "персонал, коллектив",
+      "ipa": "стæф",
+      "spell": "staff"
+    },
+    {
+      "def1": "барахло",
+      "ipa": "стʌф, щɪт",
+      "spell": "stuff, shit"
+    },
+    {
+      "def1": "сделай предположение",
+      "ipa": "тэйк ə гэс",
+      "spell": "take a guess"
+    },
+    {
+      "def1": "поговорить о двух моментах",
+      "ipa": "тɔк əˈбаут ту пойнтс",
+      "spell": "talk about two points"
+    },
+    {
+      "def1": "спасибо, что вы онлайн",
+      "ipa": "θæŋкс фор ˈбиɪŋ ˈɔнˌлайн",
+      "spell": "thanks for being online"
+    },
+    {
+      "def1": "спасибо, что пришли",
+      "ipa": "θæŋкс фор ˈкʌмɪŋ",
+      "spell": "thanks for coming"
+    },
+    {
+      "def1": "спасибо, что зашли онлайн",
+      "ipa": "θæŋкс фор ˈкʌмɪŋ ˈɔнˌлайн",
+      "spell": "thanks for coming online"
+    },
+    {
+      "def1": "лучший вариант",
+      "ipa": "ðə бэст ˈɑпшəн",
+      "spell": "the best option"
+    },
+    {
+      "def1": "бутылка возвращается",
+      "ipa": "ðə ˈбɑтəл рɪˈтɝнз",
+      "spell": "the bottle returns"
+    },
+    {
+      "def1": "облака - предатели",
+      "ipa": "ðə клаудз ɑр ðə ˈтрэйтɚз",
+      "spell": "the clouds are the traitors"
+    },
+    {
+      "def1": "облака прячут солнце",
+      "ipa": "ðə клаудз hайд ðə сʌн",
+      "spell": "the clouds hide the sun"
+    },
+    {
+      "def1": "доктор лечит",
+      "ipa": "ðə ˈдɑктɚ кйʊрз",
+      "spell": "the doctor cures"
+    },
+    {
+      "def1": "дверь ведёт во двор",
+      "ipa": "ðə дор лидз ту ðə йɑрд",
+      "spell": "the door leads to the yard"
+    },
+    {
+      "def1": "дверь открывается на двор",
+      "ipa": "ðə дор ˈоупəнз ˈɑнту ðə йɑрд",
+      "spell": "the door opens onto the yard"
+    },
+    {
+      "def1": "обмен был честным",
+      "ipa": "ðи ɪксˈчэйндж wʌз фэр",
+      "spell": "the exchange was fair"
+    },
+    {
+      "def1": "еда готова к употреблению",
+      "ipa": "ðə фуд ɪз ˈрэди ту би ˈитəн",
+      "spell": "the food is ready to be eaten"
+    },
+    {
+      "def1": "еда готова к употреблению",
+      "ipa": "ðə фуд ɪз ˈрэди ту ит",
+      "spell": "the food is ready to eat"
+    },
+    {
+      "def1": "отсутствие океана",
+      "ipa": "ðə лæк ʌв ðи ˈоушəн",
+      "spell": "the lack of the ocean"
+    },
+    {
+      "def1": "ленивый брат",
+      "ipa": "ðə ˈлэйзи ˈбрʌðɚ",
+      "spell": "the lazy brother"
+    },
+    {
+      "def1": "лекарство лечит",
+      "ipa": "ðə ˈмэдəсəн кйʊрз",
+      "spell": "the medicine cures"
+    },
+    {
+      "def1": "больше всего объектов",
+      "ipa": "ðə моуст ˈɑбджэктс",
+      "spell": "the most objects"
+    },
+    {
+      "def1": "место, где очень холодно",
+      "ipa": "ðə плэйс wэр ɪт ɪз ˈвэри коулд",
+      "spell": "the place where it is very cold"
+    },
+    {
+      "def1": "солнце прячется за облаками",
+      "ipa": "ðə сʌн hайдз бɪˈhайнд ðə клаудз",
+      "spell": "the sun hides behind the clouds"
+    },
+    {
+      "def1": "солнце не предатель",
+      "ipa": "ðə сʌн ɪз нɑт ðə ˈтрэйтɚ",
+      "spell": "the sun is not the traitor"
+    },
+    {
+      "def1": "самая высокая гора",
+      "ipa": "ðə ˈтɔлɪст ˈмаунтəн",
+      "spell": "the tallest mountain"
+    },
+    {
+      "def1": "война длилась (на два года) дольше",
+      "ipa": "ðə wор ˈлæстɪд (ту йɪрз) ˈлɔŋгɚ",
+      "spell": "the war lasted (two years) longer"
+    },
+    {
+      "def1": "война длилась шесть лет",
+      "ipa": "ðə wор ˈлæстɪд сɪкс йɪрз",
+      "spell": "the war lasted six years"
+    },
+    {
+      "def1": "наихудший",
+      "ipa": "ðə wɝст",
+      "spell": "the worst"
+    },
+    {
+      "def1": "есть место на Земле",
+      "ipa": "ðэр ɪз ə плэйс ɑн ɝθ",
+      "spell": "there is a place on Earth"
+    },
+    {
+      "def1": "в коробке были золотые монеты",
+      "ipa": "ðэр wɝ гоулд койнз ɪнˈсайд ðə бɑкс",
+      "spell": "there were gold coins inside the box"
+    },
+    {
+      "def1": "они могут позвать друга",
+      "ipa": "ðэй кæн кɔл ə фрэнд",
+      "spell": "they can call a friend"
+    },
+    {
+      "def1": "они могут позвонить другу",
+      "ipa": "ðэй кæн мэйк ə кɔл ту ə фрэнд",
+      "spell": "they can make a call to a friend"
+    },
+    {
+      "def1": "они получают вдвое больше денег (чем мы)",
+      "ipa": "ðэй гэт ˈдʌбəл ðə ˈмʌни (wи ду)",
+      "spell": "they get double the money (we do)"
+    },
+    {
+      "def1": "они измерили это в децибелах",
+      "ipa": "ðэй ˈмэжɚд ɪт ɪн ˈдэсəбəлз",
+      "spell": "they measured it in decibels"
+    },
+    {
+      "def1": "это вдвое больше той суммы",
+      "ipa": "ðɪс ɪз ˈдʌбəл ðæт əˈмаунт",
+      "spell": "this is double that amount"
+    },
+    {
+      "def1": "этого в два раза больше, чем того",
+      "ipa": "ðɪс ɪз тwайс æз мʌч æз ðæт",
+      "spell": "this is twice as much as that"
+    },
+    {
+      "def1": "этого в 2 раза больше, чем того",
+      "ipa": "ðɪс ɪз тwайс ðæт",
+      "spell": "this is twice that"
+    },
+    {
+      "def1": "это заставляет меня чувствовать себя хорошо",
+      "ipa": "ðɪс мэйкс ми фил гʊд",
+      "spell": "this makes me feel good"
+    },
+    {
+      "def1": "три или больше слога",
+      "ipa": "θри ор мор ˈсɪлəбəлз",
+      "spell": "three or more syllables"
+    },
+    {
+      "def1": "три раза",
+      "ipa": "θри таймз",
+      "spell": "three times"
+    },
+    {
+      "def1": "время лечит (все раны)",
+      "ipa": "тайм hилз ɔл wундз",
+      "spell": "time heals all wounds"
+    },
+    {
+      "def1": "поменять Y на I",
+      "ipa": "ту чэйндж фрʌм wай ту ай",
+      "spell": "to change from Y to I"
+    },
+    {
+      "def1": "обменять кольцо на деньги",
+      "ipa": "ту ɪксˈчэйндж ðə рɪŋ фор ˈмʌни",
+      "spell": "to exchange the ring for money"
+    },
+    {
+      "def1": "найти работу",
+      "ipa": "ту файнд wɝк",
+      "spell": "to find work"
+    },
+    {
+      "def1": "получить",
+      "ipa": "ту гэт",
+      "spell": "to get"
+    },
+    {
+      "def1": "промокнуть",
+      "ipa": "ту гэт wэт",
+      "spell": "to get wet"
+    },
+    {
+      "def1": "прокатиться на машине",
+      "ipa": "ту гоу аут фор ə драйв",
+      "spell": "to go out for a drive"
+    },
+    {
+      "def1": "сделать вывод, донести мысль",
+      "ipa": "ту мэйк ə пойнт",
+      "spell": "to make a point"
+    },
+    {
+      "def1": "к северу отсюда",
+      "ipa": "ту ðə норθ ʌв hир",
+      "spell": "to the north of here"
+    },
+    {
+      "def1": "к северу от США очень холодно",
+      "ipa": "ту ðə норθ ʌв ðи ʌс ɪт ɪз ˈвэри коулд",
+      "spell": "to the north of the US it is very cold"
+    },
+    {
+      "def1": "к югу отсюда",
+      "ipa": "ту ðə сауθ ʌв hир",
+      "spell": "to the south of here"
+    },
+    {
+      "def1": "сегодняшние слова",
+      "ipa": "тəˈдэйз wɝдз",
+      "spell": "today’s words"
+    },
+    {
+      "def1": "минус двадцать",
+      "ipa": "ˈтwэнти бɪˈлоу",
+      "spell": "twenty below"
+    },
+    {
+      "def1": "двадцать в Торонто",
+      "ipa": "ˈтwэн(т)и ɪн тəˈрɑн(т)оу",
+      "spell": "twenty in Toronto"
+    },
+    {
+      "def1": "до этого момента",
+      "ipa": "ʌп ту ðɪс пойнт",
+      "spell": "up to this point"
+    },
+    {
+      "def1": "ценный для него",
+      "ipa": "ˈвæлйəбəл ту hɪм",
+      "spell": "valuable to him"
+    },
+    {
+      "def1": "тепло",
+      "ipa": "wормθ",
+      "spell": "warmth"
+    },
+    {
+      "def1": "мы выросли с этим",
+      "ipa": "wи гру ʌп wɪð ɪт",
+      "spell": "we grew up with it"
+    },
+    {
+      "def1": "сорняки",
+      "ipa": "wид",
+      "spell": "weed"
+    },
+    {
+      "def1": "влажнее и влажнее",
+      "ipa": "ˈwэтɚ æнд ˈwэтɚ",
+      "spell": "wetter and wetter"
+    },
+    {
+      "def1": "то, что",
+      "ipa": "wɑт",
+      "spell": "what"
+    },
+    {
+      "def1": "что случилось потом?",
+      "ipa": "wɑт ˈhæпəнд нэкст?",
+      "spell": "what happened next?"
+    },
+    {
+      "def1": "что случилось в тот день",
+      "ipa": "wɑт ˈhæпəнд ɑн ðæт дэй",
+      "spell": "what happened on that day"
+    },
+    {
+      "def1": "каков был его план?",
+      "ipa": "wɑт wʌз hɪз плæн?",
+      "spell": "what was his plan?"
+    },
+    {
+      "def1": "то, что ты делаешь",
+      "ipa": "wɑт ю ду",
+      "spell": "what you do"
+    },
+    {
+      "def1": "то, что ты ешь",
+      "ipa": "wɑт ю ит",
+      "spell": "what you eat"
+    },
+    {
+      "def1": "когда я прохожу мимо этого места",
+      "ipa": "wэн ай гоу бай ðə плэйс",
+      "spell": "when I go by the place"
+    },
+    {
+      "def1": "когда я прохожу мимо этого места",
+      "ipa": "wэн ай пæс бай ðə плэйс",
+      "spell": "when I pass by the place"
+    },
+    {
+      "def1": "на чём мы остановились?",
+      "ipa": "wэр дɪд wи стɑп?",
+      "spell": "where did we stop?"
+    },
+    {
+      "def1": "где свобода слова?",
+      "ipa": "wэр ɪз ðə ˈфридəм ʌв спич?",
+      "spell": "where is the freedom of speech?"
+    },
+    {
+      "def1": "в то время как",
+      "ipa": "wэˈрæз",
+      "spell": "whereas"
+    },
+    {
+      "def1": "который является",
+      "ipa": "wɪч ɪз",
+      "spell": "which is"
+    },
+    {
+      "def1": "то есть",
+      "ipa": "wɪч ɪз",
+      "spell": "which is"
+    },
+    {
+      "def1": "да кому какое дело!",
+      "ipa": "hу кэрз!",
+      "spell": "who cares!"
+    },
+    {
+      "def1": "без нелегальных иммигрантов",
+      "ipa": "wɪˈθаут ɪˈлигəл ˈɪмəгрəнтс",
+      "spell": "without illegal immigrants"
+    },
+    {
+      "def1": "хуже",
+      "ipa": "wɝс",
+      "spell": "worse"
+    },
+    {
+      "def1": "X в два раза больше, чем Y",
+      "ipa": "экс ɪз ˈдʌбəл wай",
+      "spell": "X is double Y"
+    },
+    {
+      "def1": "ты подавлен, у тебя депрессия",
+      "ipa": "ю ɑр дɪˈпрэст",
+      "spell": "you are depressed"
+    },
+    {
+      "def1": "ты стала симпатичнее, чем два года назад",
+      "ipa": "ю ɑр ˈпрɪтиɚ ðæн ю wɝ ту йɪрз əˈгоу",
+      "spell": "you are prettier than you were two years ago"
+    },
+    {
+      "def1": "ты - то, что ты ешь",
+      "ipa": "ю ɑр wɑт ю ит",
+      "spell": "you are what you eat"
+    },
+    {
+      "def1": "так нельзя",
+      "ipa": "ю кæнт ду ðæт",
+      "spell": "you can’t do that"
+    },
+    {
+      "def1": "у тебя депрессия",
+      "ipa": "ю hæв дɪˈпрэшəн",
+      "spell": "you have depression"
+    }
+  ]
+}
