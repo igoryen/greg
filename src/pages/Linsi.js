@@ -20,6 +20,7 @@ const Linsi = (prop) => {
         { name: "Lojban dictionary", url: "https://la-lojban.github.io/sutysisku/lojban/index.html" },
         { name: "Comparative sentence (wiki)", url: "https://en.wikipedia.org/wiki/Comparative_sentence" },
         { name: "Shaw-Spell", url: "https://joro.io/shaw-spell/" },
+        { name: "Linkglimpse", url: "https://www.linkglimpse.com/" }
 
     ];
 
