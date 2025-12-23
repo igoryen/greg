@@ -1,0 +1,939 @@
+{
+  "student": "Andrew S.",
+  "slug": "ax",
+  "period": "week",
+  "number": 51,
+  "date": "2025-12-19",
+  "words": [
+    {
+      "def1": "битва",
+      "ipa": "ə ˈбæтəл",
+      "spell": "a battle"
+    },
+    {
+      "def1": "счёт",
+      "ipa": "ə бɪл",
+      "spell": "a bill"
+    },
+    {
+      "def1": "смелый лысый мужчина",
+      "ipa": "ə боулд бɔлд мæн",
+      "spell": "a bold bald man"
+    },
+    {
+      "def1": "бутылка",
+      "ipa": "ə ˈбɑтəл",
+      "spell": "a bottle"
+    },
+    {
+      "def1": "счёт в ресторане",
+      "ipa": "ə чэк",
+      "spell": "a check"
+    },
+    {
+      "def1": "петух",
+      "ipa": "ə кɑк",
+      "spell": "a cock"
+    },
+    {
+      "def1": "эспрессо без кофеина",
+      "ipa": "ə диˈкæфəˌнэйтɪд ˌэˈспрэсоу, ə ˈдикæф ˌэˈспрэсоу",
+      "spell": "a decaffeinated espresso, a decaf espresso"
+    },
+    {
+      "def1": "пустыня",
+      "ipa": "ə ˈдэзɝт",
+      "spell": "a desert"
+    },
+    {
+      "def1": "десерт",
+      "ipa": "ə дɪˈзɝт",
+      "spell": "a dessert"
+    },
+    {
+      "def1": "шикарный ресторан",
+      "ipa": "ə ˈфæнси ˈрэстəˌрɑнт",
+      "spell": "a fancy restaurant"
+    },
+    {
+      "def1": "ссора",
+      "ipa": "ə файт",
+      "spell": "a fight"
+    },
+    {
+      "def1": "свежий фруктовый салат",
+      "ipa": "ə фрэш ˈсæлəд мэйд wɪð фрут",
+      "spell": "a fresh salad made with fruit"
+    },
+    {
+      "def1": "лошадь не тяжелее машины",
+      "ipa": "ə hорс ɪз нɑт ˈhэвиɚ ðæн ə кɑр",
+      "spell": "a horse is not heavier than a car"
+    },
+    {
+      "def1": "много продуктов",
+      "ipa": "ə лɑт ʌв фудз",
+      "spell": "a lot of foods"
+    },
+    {
+      "def1": "много новостей",
+      "ipa": "ə лɑт ʌв нуз",
+      "spell": "a lot of news"
+    },
+    {
+      "def1": "много товаров",
+      "ipa": "ə лɑт ʌв ˈпрɑдəктс",
+      "spell": "a lot of products"
+    },
+    {
+      "def1": "приём пищи, блюдо",
+      "ipa": "ə мил",
+      "spell": "a meal"
+    },
+    {
+      "def1": "приём пищи состоит из блюд",
+      "ipa": "ə мил кəнˈсɪстс ʌв ˈкорсəз",
+      "spell": "a meal consists of courses"
+    },
+    {
+      "def1": "ссора",
+      "ipa": "ə ˈкwорəл",
+      "spell": "a quarrel"
+    },
+    {
+      "def1": "чек, квитанция",
+      "ipa": "ə рɪˈсит",
+      "spell": "a receipt"
+    },
+    {
+      "def1": "расслабленный период",
+      "ipa": "ə рɪˈлæкст ˈпɪриəд",
+      "spell": "a relaxed period"
+    },
+    {
+      "def1": "салат из свежих фруктов",
+      "ipa": "ə ˈсæлəд мэйд wɪð фрэш фрут",
+      "spell": "a salad made with fresh fruit"
+    },
+    {
+      "def1": "соломинка",
+      "ipa": "ə стрɔ",
+      "spell": "a straw"
+    },
+    {
+      "def1": "клубника",
+      "ipa": "ə ˈстрɔˌбэри",
+      "spell": "a strawberry"
+    },
+    {
+      "def1": "суеверие",
+      "ipa": "ə ˌсупɚˈстɪшəн",
+      "spell": "a superstition"
+    },
+    {
+      "def1": "после основного блюда",
+      "ipa": "ˈæфтɚ ə мэйн корс",
+      "spell": "after a main course"
+    },
+    {
+      "def1": "путешествие на самолёте безопаснее, чем на поезде",
+      "ipa": "эр ˈтрæвəл ɪз ˈсэйфɚ ðæн трэйн ˈтрæвəл",
+      "spell": "air travel is safer than train travel"
+    },
+    {
+      "def1": "всё насчёт этого",
+      "ipa": "ɔл əˈбаут ɪт",
+      "spell": "all about it"
+    },
+    {
+      "def1": "всем восточным славянам они нравятся",
+      "ipa": "ɔл ˈистɚн слɑвз лайк ðэм",
+      "spell": "all Eastern Slavs like them"
+    },
+    {
+      "def1": "шведский стол (ешь, сколько можешь)",
+      "ipa": "əн ɔл-ю-кæн-ит (эй-wай-си-и)",
+      "spell": "an all-you-can-eat (AYCE)"
+    },
+    {
+      "def1": "алфавит",
+      "ipa": "əн ˈæлфəˌбэт",
+      "spell": "an alphabet"
+    },
+    {
+      "def1": "спор, аргумент",
+      "ipa": "əн ˈɑргйəмəнт",
+      "spell": "an argument"
+    },
+    {
+      "def1": "древний",
+      "ipa": "ˈэйнчəнт",
+      "spell": "ancient"
+    },
+    {
+      "def1": "сердитый",
+      "ipa": "ˈæŋгри",
+      "spell": "angry"
+    },
+    {
+      "def1": "ты следишь за мыслью?",
+      "ipa": "ɑр ю ˈфɑлоуɪŋ ми?",
+      "spell": "are you following me?"
+    },
+    {
+      "def1": "в ресторанах",
+      "ipa": "æт ˈрэстəˌрɑнтс",
+      "spell": "at restaurants"
+    },
+    {
+      "def1": "в конце видео",
+      "ipa": "æт ðи энд ʌв ðə ˈвɪдиоу",
+      "spell": "at the end of the video"
+    },
+    {
+      "def1": "неудача, невезение",
+      "ipa": "бæд лʌк",
+      "spell": "bad luck"
+    },
+    {
+      "def1": "лысый",
+      "ipa": "бɔлд",
+      "spell": "bald"
+    },
+    {
+      "def1": "белорусские блюда",
+      "ipa": "ˌбэлəˈруси.əн фудз",
+      "spell": "Belarusian foods"
+    },
+    {
+      "def1": "удача получше",
+      "ipa": "ˈбэтɚ лʌк",
+      "spell": "better luck"
+    },
+    {
+      "def1": "не повезло сегодня, повезёт завтра",
+      "ipa": "ˈбэтɚ лʌк нэкст тайм",
+      "spell": "better luck next time"
+    },
+    {
+      "def1": "между Рождеством и Новым годом",
+      "ipa": "бɪˈтwин ˈkɹɪs.məs æнд ðə ну йɪрз дэй",
+      "spell": "between Christmas and the New Year's Day"
+    },
+    {
+      "def1": "варёный",
+      "ipa": "бойлд",
+      "spell": "boiled"
+    },
+    {
+      "def1": "смелый",
+      "ipa": "боулд",
+      "spell": "bold"
+    },
+    {
+      "def1": "ни пуха ни пера!",
+      "ipa": "брэйк ə лэг!",
+      "spell": "break a leg!"
+    },
+    {
+      "def1": "можно счёт, пожалуйста?",
+      "ipa": "кæн ай hæв ðə чэк плиз?",
+      "spell": "can I have the check please?"
+    },
+    {
+      "def1": "морковь слаще помидоров",
+      "ipa": "ˈкæрəтс ɑр ˈсwитɚ ðæн тəˈмэйтоуз",
+      "spell": "carrots are sweeter than tomatoes"
+    },
+    {
+      "def1": "кока-кола",
+      "ipa": "коук",
+      "spell": "coke"
+    },
+    {
+      "def1": "холоднее, чем тогда",
+      "ipa": "ˈкоулдɚ ðæн ðэн",
+      "spell": "colder than then"
+    },
+    {
+      "def1": "сбитый с толку, запутанный",
+      "ipa": "кəнˈфъюзд",
+      "spell": "confused"
+    },
+    {
+      "def1": "испанский стыд",
+      "ipa": "крɪндж",
+      "spell": "cringe"
+    },
+    {
+      "def1": "решить, что делать",
+      "ipa": "ˌдɪˈсайд wɑт ту ду",
+      "spell": "decide what to do"
+    },
+    {
+      "def1": "обезвоженный",
+      "ipa": "дɪˈhайдрэйтəд",
+      "spell": "dehydrated"
+    },
+    {
+      "def1": "обезлюженная территория",
+      "ipa": "диˈпɑпйəˌлэйтɪд ˈэриə",
+      "spell": "depopulated area"
+    },
+    {
+      "def1": "прямая речь",
+      "ipa": "дəˈрэкт спич",
+      "spell": "direct speech"
+    },
+    {
+      "def1": "пельмени, вареники",
+      "ipa": "ˈдʌмплɪŋз",
+      "spell": "dumplings"
+    },
+    {
+      "def1": "далёкий, дальше (по расстоянию)",
+      "ipa": "фɑр, ˈфɝðɚ (ˈфɑрðɚ)",
+      "spell": "far, further (farther)"
+    },
+    {
+      "def1": "на рабочий ужин",
+      "ipa": "фор ə ˈwɝкɪŋ ˈдɪнɚ",
+      "spell": "for a working dinner"
+    },
+    {
+      "def1": "на удачу",
+      "ipa": "фор лʌк",
+      "spell": "for luck"
+    },
+    {
+      "def1": "по особым случаям",
+      "ipa": "фор ˈспэшəл əˈкэйжəнз",
+      "spell": "for special occasions"
+    },
+    {
+      "def1": "конечно",
+      "ipa": "фор щʊр",
+      "spell": "for sure"
+    },
+    {
+      "def1": "с двадцать пятого декабря по первое января",
+      "ipa": "фрʌм дɪˈсэмбɚ ˈтwэнти-фɪфθ ту ˈджæнъюˌэри фɝст",
+      "spell": "from December twenty-fifth to January First"
+    },
+    {
+      "def1": "давай! вперёд! приступай! действуй!",
+      "ipa": "гоу əˈhэд!",
+      "spell": "go ahead!"
+    },
+    {
+      "def1": "иди на север!",
+      "ipa": "гоу норθ!",
+      "spell": "go north!"
+    },
+    {
+      "def1": "иди куда-нибудь ещё!",
+      "ipa": "гоу ˈсʌмˌwэр элс!",
+      "spell": "go somewhere else!"
+    },
+    {
+      "def1": "иди на юг!",
+      "ipa": "гоу сауθ!",
+      "spell": "go south!"
+    },
+    {
+      "def1": "иди на запад!",
+      "ipa": "гоу wэст!",
+      "spell": "go west!"
+    },
+    {
+      "def1": "молодец!",
+      "ipa": "гʊд джɑб!",
+      "spell": "good job!"
+    },
+    {
+      "def1": "удачи!",
+      "ipa": "гʊд лʌк!",
+      "spell": "good luck!"
+    },
+    {
+      "def1": "он отвечает",
+      "ipa": "hи ˈæнсɚз",
+      "spell": "he answers"
+    },
+    {
+      "def1": "он позвонил ей",
+      "ipa": "hи кɔлд hɝ",
+      "spell": "he called her"
+    },
+    {
+      "def1": "он поздравил её с днём рождения",
+      "ipa": "hи кəнˈгрæчəˌлэйтɪд hɝ ɑн hɝ ˈбɝθˌдэй",
+      "spell": "he congratulated her on her birthday"
+    },
+    {
+      "def1": "он проигнорировал его",
+      "ipa": "hи ɪгˈнорд hɪм",
+      "spell": "he ignored him"
+    },
+    {
+      "def1": "он пригласил её на ужин",
+      "ipa": "hи ɪнˈвайтɪд hɝ ту ˈдɪнɚ",
+      "spell": "he invited her to dinner"
+    },
+    {
+      "def1": "он приглашает её на рабочий ужин",
+      "ipa": "hи ɪнˈвайтс hɝ ту ə ˈwɝкɪŋ ˈдɪнɚ",
+      "spell": "he invites her to a working dinner"
+    },
+    {
+      "def1": "он намного богаче",
+      "ipa": "hи ɪз ə лɑт ˈрɪчɚ",
+      "spell": "he is a lot richer"
+    },
+    {
+      "def1": "он намного богаче",
+      "ipa": "hи ɪз мʌч ˈрɪчɚ",
+      "spell": "he is much richer"
+    },
+    {
+      "def1": "он богаче богатого",
+      "ipa": "hи ɪз ˈрɪчɚ ðæн рɪч",
+      "spell": "he is richer than rich"
+    },
+    {
+      "def1": "он самый богатый",
+      "ipa": "hи ɪз ðə ˈрɪчəст",
+      "spell": "he is the richest"
+    },
+    {
+      "def1": "он сделал так, чтобы ей было трудно отказать",
+      "ipa": "hи мэйд ɪт ˈдɪфəкəлт фор hɝ ту рɪˈфъюз",
+      "spell": "he made it difficult for her to refuse"
+    },
+    {
+      "def1": "он быстро замолкает",
+      "ipa": "hи ˈкwɪкли шʌтс ʌп",
+      "spell": "he quickly shuts up"
+    },
+    {
+      "def1": "он сказал ей \"С днём рождения\"",
+      "ipa": "hи сэд ˈhæпи ˈбɝθˌдэй ту hɝ",
+      "spell": "he said Happy Birthday to her"
+    },
+    {
+      "def1": "он спел ей \"С днём рождения\"",
+      "ipa": "hи сæŋ ˈhæпи ˈбɝθˌдэй ту hɝ",
+      "spell": "he sang Happy Birthday to her"
+    },
+    {
+      "def1": "он спел это ей",
+      "ipa": "hи сæŋ ɪт ту hɝ",
+      "spell": "he sang it to her"
+    },
+    {
+      "def1": "он сказал ему, что нужно взять интервью",
+      "ipa": "hи тоулд hɪм hи ˈнидɪд ту ду əн ˈɪнтɚˌвъю",
+      "spell": "he told him he needed to do an interview"
+    },
+    {
+      "def1": "он бы перевёл тему",
+      "ipa": "hи wʊд чэйндж ðə ˈсʌбджɪкт",
+      "spell": "he would change the subject"
+    },
+    {
+      "def1": "дома; домой",
+      "ipa": "hоум",
+      "spell": "home"
+    },
+    {
+      "def1": "домашний",
+      "ipa": "ˈhоумˈмэйд",
+      "spell": "homemade"
+    },
+    {
+      "def1": "домашнее ванильное мороженое",
+      "ipa": "ˈhоумˈмэйд вəˈнɪлə айс крим",
+      "spell": "homemade vanilla ice cream"
+    },
+    {
+      "def1": "дорогая, я дома",
+      "ipa": "ˈhʌни, айм hоум",
+      "spell": "honey, I’m home"
+    },
+    {
+      "def1": "откуда мы знаем, что у неё день рождения?",
+      "ipa": "hау ду wи ноу ɪтс hɝ ˈбɝθˌдэй?",
+      "spell": "how do we know it’s her birthday?"
+    },
+    {
+      "def1": "откуда ты знаешь?",
+      "ipa": "hау ду ю ноу?",
+      "spell": "how do you know?"
+    },
+    {
+      "def1": "как ты обычно празднуешь?",
+      "ipa": "hау ду ю ˈнормəли ˈсэлəˌбрэйт?",
+      "spell": "how do you normally celebrate?"
+    },
+    {
+      "def1": "я запутался",
+      "ipa": "ай æм кəнˈфъюзд",
+      "spell": "I am confused"
+    },
+    {
+      "def1": "я могу запутаться",
+      "ipa": "ай кæн гэт кəнˈфъюзд",
+      "spell": "I can get confused"
+    },
+    {
+      "def1": "я даже не подавал заявку",
+      "ipa": "ай ˈдɪдəнт (ˈивɪн) əˈплай",
+      "spell": "I didn’t (even) apply"
+    },
+    {
+      "def1": "меня не взяли на работу",
+      "ipa": "ай ˈдɪдəнт гэт ðə джɑб",
+      "spell": "I didn’t get the job"
+    },
+    {
+      "def1": "я не сдал экзамен на вождение",
+      "ipa": "ай ˈдɪдəнт пæс май ˈдрайвɪŋ тэст",
+      "spell": "I didn’t pass my driving test"
+    },
+    {
+      "def1": "мне не нравится, когда пасмурно",
+      "ipa": "ай доунт лайк ɪт wэн ɪтс ˈглуми",
+      "spell": "I don’t like it when it’s gloomy"
+    },
+    {
+      "def1": "мне не нравится, когда на меня смотрят во время еды",
+      "ipa": "ай доунт лайк ˈпипəл ˈwɑчɪŋ ми ит (ту wɑч ми ит)",
+      "spell": "I don’t like people watching me eat (to watch me eat)"
+    },
+    {
+      "def1": "я не хочу с тобой спорить",
+      "ipa": "ай доунт wɑнт ту ˈɑргъю wɪð ю",
+      "spell": "I don’t want to argue with you"
+    },
+    {
+      "def1": "я не хочу с тобой ссориться",
+      "ipa": "ай доунт wɑнт ту файт wɪð ю",
+      "spell": "I don’t want to fight with you"
+    },
+    {
+      "def1": "глаза у меня от мамы",
+      "ipa": "ай гэт май айз фрʌм май ˈмʌðɚ",
+      "spell": "I get my eyes from my mother"
+    },
+    {
+      "def1": "я забил гол",
+      "ipa": "ай гɑт ə гоул",
+      "spell": "I got a goal"
+    },
+    {
+      "def1": "я запутался",
+      "ipa": "ай гɑт кəнˈфъюзд",
+      "spell": "I got confused"
+    },
+    {
+      "def1": "я сделал правильно",
+      "ipa": "ай гɑт ɪт райт",
+      "spell": "I got it right"
+    },
+    {
+      "def1": "я поссорился с женой",
+      "ipa": "ай hæд ə файт wɪð май wайф",
+      "spell": "I had a fight with my wife"
+    },
+    {
+      "def1": "у меня завтра экзамен по английскому",
+      "ipa": "ай hæв май ˈɪŋглɪш ɪгˈзæм тəˈмɑˌроу",
+      "spell": "I have my English exam tomorrow"
+    },
+    {
+      "def1": "мне нравится, когда солнечно",
+      "ipa": "ай лайк ɪт wэн ɪтс ˈсʌни",
+      "spell": "I like it when it’s sunny"
+    },
+    {
+      "def1": "я потерял нить мысли",
+      "ipa": "ай лɔст май трэйн ʌв θɔт",
+      "spell": "I lost my train of thought"
+    },
+    {
+      "def1": "я потерял мысль, не понял тебя",
+      "ipa": "ай лɔст ю",
+      "spell": "I lost you"
+    },
+    {
+      "def1": "я сдала экзамен!",
+      "ipa": "ай пæст май ɪгˈзæм!",
+      "spell": "I passed my exam!"
+    },
+    {
+      "def1": "я забил гол",
+      "ipa": "ай скорд ə гоул",
+      "spell": "I scored a goal"
+    },
+    {
+      "def1": "я обычно ложусь спать (примерно) в 11 вечера",
+      "ipa": "ай ˈюжəwəли гоу ту бэд æт (əˈраунд) ɪˈлэвəн ˈпиˈэм",
+      "spell": "I usually go to bed at (around) eleven PM"
+    },
+    {
+      "def1": "я обычно люблю выпить кофе с кусочком шоколада",
+      "ipa": "ай ˈюжəwəли лайк ту hæв ə ˈкɑфи wɪð ə пис ʌв ˈчɔклəт",
+      "spell": "I usually like to have a coffee with a piece of chocolate"
+    },
+    {
+      "def1": "в пакетах",
+      "ipa": "ɪн бæгз",
+      "spell": "in bags"
+    },
+    {
+      "def1": "косвенная речь",
+      "ipa": "ɪндəˈрэкт спич",
+      "spell": "indirect speech"
+    },
+    {
+      "def1": "Стамбул находится севернее Нью-Йорка",
+      "ipa": "ˌɪстɑнˈбул ɪз ˈфɝðɚ норθ ðæн ну йорк",
+      "spell": "Istanbul is further north than New York"
+    },
+    {
+      "def1": "это в пяти минутах ходьбы",
+      "ipa": "ɪтс ə файв-ˈмɪнəт wɔк",
+      "spell": "it’s a five-minute walk"
+    },
+    {
+      "def1": "здесь всё дело в умении",
+      "ipa": "ɪтс ɔл əˈбаут скɪл",
+      "spell": "it’s all about skill"
+    },
+    {
+      "def1": "здесь всё дело в температуре",
+      "ipa": "ɪтс ɔл əˈбаут ðə ˈтэмпрəчɚ",
+      "spell": "it’s all about the temperature"
+    },
+    {
+      "def1": "здесь всё дело в погоде",
+      "ipa": "ɪтс ɔл əˈбаут ðə ˈwэðɚ",
+      "spell": "it’s all about the weather"
+    },
+    {
+      "def1": "здесь всё дело в X",
+      "ipa": "ɪтс ɔл əˈбаут экс",
+      "spell": "it’s all about X"
+    },
+    {
+      "def1": "оно сделано из семян",
+      "ipa": "ɪтс мэйд ʌв сидз",
+      "spell": "it’s made of seeds"
+    },
+    {
+      "def1": "это неясно",
+      "ipa": "ɪтс əнˈклɪр",
+      "spell": "it’s unclear"
+    },
+    {
+      "def1": "в Лондоне влажнее, чем в Милане",
+      "ipa": "ˈлʌндəн ɪз ˈwэтɚ ðæн мəˈлɑн",
+      "spell": "London is wetter than Milan"
+    },
+    {
+      "def1": "удача",
+      "ipa": "лʌк",
+      "spell": "luck"
+    },
+    {
+      "def1": "новогодняя ночь",
+      "ipa": "ну йɪрз ив",
+      "spell": "New Year’s Eve"
+    },
+    {
+      "def1": "полдень",
+      "ipa": "нун, ˈмɪдˌдэй",
+      "spell": "noon, midday"
+    },
+    {
+      "def1": "север; на север",
+      "ipa": "норθ",
+      "spell": "north"
+    },
+    {
+      "def1": "не много новостей",
+      "ipa": "нɑт мʌч нуз",
+      "spell": "not much news"
+    },
+    {
+      "def1": "апельсины полезнее клубники",
+      "ipa": "ˈорəнджəз ɑр ˈhэлθиɚ ðæн ɑр ˈстрɔˌбэриз",
+      "spell": "oranges are healthier than are strawberries"
+    },
+    {
+      "def1": "платить по счетам",
+      "ipa": "ту пэй ðə бɪлз",
+      "spell": "to pay the bills"
+    },
+    {
+      "def1": "физическое насилие",
+      "ipa": "ˈфɪзɪкəл ˈвайəлəнс",
+      "spell": "physical violence"
+    },
+    {
+      "def1": "на самом деле",
+      "ipa": "ˈрɪли",
+      "spell": "really"
+    },
+    {
+      "def1": "жареные семечки подсолнуха",
+      "ipa": "ˈроустɪд ˈсʌнˌфлауɚ сидз",
+      "spell": "roasted sunflower seeds"
+    },
+    {
+      "def1": "Роб попытался первым",
+      "ipa": "рɑб трайд фɝст",
+      "spell": "Rob tried first"
+    },
+    {
+      "def1": "русская еда",
+      "ipa": "ˈрʌшəн фуд",
+      "spell": "Russian food"
+    },
+    {
+      "def1": "русскоговорящие люди",
+      "ipa": "ˈрʌшəн-ˈспикɪŋ ˈпипəл",
+      "spell": "Russian-speaking people"
+    },
+    {
+      "def1": "грустный и злой",
+      "ipa": "сæд æнд мæд",
+      "spell": "sad and mad"
+    },
+    {
+      "def1": "сиденья",
+      "ipa": "ситс",
+      "spell": "seats"
+    },
+    {
+      "def1": "семечки",
+      "ipa": "сидз",
+      "spell": "seeds"
+    },
+    {
+      "def1": "семечки на сиденьях",
+      "ipa": "сидз ɑн ситс",
+      "spell": "seeds on seats"
+    },
+    {
+      "def1": "раболепный, холопский",
+      "ipa": "ˈсɝвəл",
+      "spell": "servile"
+    },
+    {
+      "def1": "она звонит ей и сообщает хорошие новости",
+      "ipa": "щи кɔлз hɝ æнд гɪвз hɝ гʊд нуз",
+      "spell": "she calls her and gives her good news"
+    },
+    {
+      "def1": "она быстро соглашается",
+      "ipa": "щи ˈкwɪкли əˈгриз",
+      "spell": "she quickly agrees"
+    },
+    {
+      "def1": "она сказала \"да\" на приглашение Дэниела",
+      "ipa": "щи сэд йэс ту ˈдæнйəлз ˌɪнвɪˈтэйшəн",
+      "spell": "she said yes to Daniel’s invitation"
+    },
+    {
+      "def1": "она говорит \"да\"",
+      "ipa": "щи сэз йэс",
+      "spell": "she says yes"
+    },
+    {
+      "def1": "сэр",
+      "ipa": "сɝ",
+      "spell": "sir"
+    },
+    {
+      "def1": "семечки подсолнуха",
+      "ipa": "ˈсʌнˌфлауɚ сидз",
+      "spell": "sunflower seeds"
+    },
+    {
+      "def1": "такси в Техасе",
+      "ipa": "ˈтæксиз ɪн ˈтэксəс",
+      "spell": "taxis in Texas"
+    },
+    {
+      "def1": "такси",
+      "ipa": "ˈтæксиз",
+      "spell": "taxis"
+    },
+    {
+      "def1": "техасские такси",
+      "ipa": "ˈтэксəс ˈтæксиз",
+      "spell": "Texas taxis"
+    },
+    {
+      "def1": "чем",
+      "ipa": "ðæн",
+      "spell": "than"
+    },
+    {
+      "def1": "вот в чём всё дело",
+      "ipa": "ðæт ɪз wɑт ɪтс ɔл əˈбаут",
+      "spell": "that is what it’s all about"
+    },
+    {
+      "def1": "вот в чём на самом деле всё дело",
+      "ipa": "ðæтс ˈрɪли wɑт ɪтс ɔл əˈбаут",
+      "spell": "that’s really what it’s all about"
+    },
+    {
+      "def1": "зелень",
+      "ipa": "ðə гринз",
+      "spell": "the greens"
+    },
+    {
+      "def1": "у США больше территории, чем у Бразилии",
+      "ipa": "ðи ʌс hæз мор лæнд ðæн брəˈзɪл",
+      "spell": "the US has more land than Brazil"
+    },
+    {
+      "def1": "тогда",
+      "ipa": "ðэн",
+      "spell": "then"
+    },
+    {
+      "def1": "на Таймс-сквер много людей",
+      "ipa": "ðэр ɑр ə лɑт ʌв ˈпипəл ɪн таймз скwэр",
+      "spell": "there are a lot of people in Times Square"
+    },
+    {
+      "def1": "меня не наняли",
+      "ipa": "ðэй ˈдɪдəнт ˈhайɚ ми",
+      "spell": "they didn’t hire me"
+    },
+    {
+      "def1": "густой",
+      "ipa": "θɪк",
+      "spell": "thick"
+    },
+    {
+      "def1": "густые волосы",
+      "ipa": "θɪк hэр",
+      "spell": "thick hair"
+    },
+    {
+      "def1": "тонкие волосы",
+      "ipa": "θɪн hэр",
+      "spell": "thin hair"
+    },
+    {
+      "def1": "эта плохая новость опечалила меня",
+      "ipa": "ðɪс бæд нуз мэйд ми сæд",
+      "spell": "this bad news made me sad"
+    },
+    {
+      "def1": "это настроение",
+      "ipa": "ðɪс муд",
+      "spell": "this mood"
+    },
+    {
+      "def1": "эти новости",
+      "ipa": "ðɪс нуз",
+      "spell": "this news"
+    },
+    {
+      "def1": "сюда, пожалуйста",
+      "ipa": "ðɪс wэй, плиз",
+      "spell": "this way, please"
+    },
+    {
+      "def1": "ссориться, спорить",
+      "ipa": "ту ˈɑргъю",
+      "spell": "to argue"
+    },
+    {
+      "def1": "опрокинуть стол",
+      "ipa": "ту флɪп ðə ˈтэйбəл",
+      "spell": "to flip the table"
+    },
+    {
+      "def1": "кататься на велосипеде",
+      "ipa": "ту гоу ˈсайкəлɪŋ",
+      "spell": "to go cycling"
+    },
+    {
+      "def1": "украинская еда",
+      "ipa": "юˈкрэйниəн фуд",
+      "spell": "Ukrainian food"
+    },
+    {
+      "def1": "словесное насилие",
+      "ipa": "ˈвɝбəл əˈбъюс",
+      "spell": "verbal abuse"
+    },
+    {
+      "def1": "жду вашего разрешения!",
+      "ipa": "ˈwэйтɪŋ фор йʊɚ гоу-əˈhэд!",
+      "spell": "waiting for your go-ahead!"
+    },
+    {
+      "def1": "мы могли бы куда-нибудь сходить",
+      "ipa": "wи кʊд гоу аут ˈсʌмˌwэр",
+      "spell": "we could go out somewhere"
+    },
+    {
+      "def1": "нам есть о чём поговорить",
+      "ipa": "wи hæв ə лɑт ту тɔк əˈбаут",
+      "spell": "we have a lot to talk about"
+    },
+    {
+      "def1": "о чём всё это?",
+      "ipa": "wɑт ɪз ɪт ɔл əˈбаут?",
+      "spell": "what is it all about?"
+    },
+    {
+      "def1": "из чего это сделано?",
+      "ipa": "wɑт ɪз ɪт мэйд ʌв?",
+      "spell": "what is it made of?"
+    },
+    {
+      "def1": "то, в чём здесь всё дело",
+      "ipa": "wɑт ɪтс ɔл əˈбаут",
+      "spell": "what it’s all about"
+    },
+    {
+      "def1": "где это находится?",
+      "ipa": "wэр ɪз ɪт ˈлоуˌкэйд?",
+      "spell": "where is it located?"
+    },
+    {
+      "def1": "бы",
+      "ipa": "wʊд",
+      "spell": "would"
+    },
+    {
+      "def1": "ты меня запутал",
+      "ipa": "ю кəнˈфъюзд ми",
+      "spell": "you confused me"
+    },
+    {
+      "def1": "ты ничего не пропускаешь",
+      "ipa": "ю доунт мɪс ˈэниˌθɪŋ",
+      "spell": "you don’t miss anything"
+    },
+    {
+      "def1": "у тебя красивые глаза",
+      "ipa": "ю hæв ˈбъютəфəл айз",
+      "spell": "you have beautiful eyes"
+    },
+    {
+      "def1": "у тебя красивые глаза",
+      "ipa": "юв гɑт ˈбъютəфəл айз",
+      "spell": "you’ve got beautiful eyes"
+    }
+  ]
+}
