@@ -1,0 +1,869 @@
+{
+  "student": "Igor P.",
+  "slug": "ip",
+  "period": "week",
+  "number": 50,
+  "date": "2025-12-12",
+  "words": [
+    {
+      "def1": "відрижка",
+      "ipa": "ə белч",
+      "spell": "a belch"
+    },
+    {
+      "def1": "пробіл",
+      "ipa": "ə блæŋк",
+      "spell": "a blank"
+    },
+    {
+      "def1": "хіропрактик",
+      "ipa": "ə ˈкайрəˌпрæктɚ",
+      "spell": "a chiropractor"
+    },
+    {
+      "def1": "ялинка",
+      "ipa": "ə ˈкрисмəс трi",
+      "spell": "a Christmas tree"
+    },
+    {
+      "def1": "компанія",
+      "ipa": "ə ˈкʌмпəнi",
+      "spell": "a company"
+    },
+    {
+      "def1": "учасник конкурсу",
+      "ipa": "ə кəнˈтестəнт",
+      "spell": "a contestant"
+    },
+    {
+      "def1": "щеплення від грипу",
+      "ipa": "ə флу шɑт",
+      "spell": "a flu shot"
+    },
+    {
+      "def1": "велике число",
+      "ipa": "ə hай ˈнʌмбɚ",
+      "spell": "a high number"
+    },
+    {
+      "def1": "готель",
+      "ipa": "ə hоуˈтел",
+      "spell": "a hotel"
+    },
+    {
+      "def1": "лев",
+      "ipa": "ə ˈлайəн",
+      "spell": "a lion"
+    },
+    {
+      "def1": "ніч",
+      "ipa": "ə найт",
+      "spell": "a night"
+    },
+    {
+      "def1": "пластикова ялинка",
+      "ipa": "ə ˈплæстик трi",
+      "spell": "a plastic tree"
+    },
+    {
+      "def1": "справжня ялинка",
+      "ipa": "ə рiəл трi",
+      "spell": "a real tree"
+    },
+    {
+      "def1": "рев",
+      "ipa": "ə рор",
+      "spell": "a roar"
+    },
+    {
+      "def1": "укол",
+      "ipa": "ə шɑт",
+      "spell": "a shot"
+    },
+    {
+      "def1": "смердюча монгольська армія",
+      "ipa": "ə ˈстиŋкi ˈмɑŋґəл ˈɑрмi",
+      "spell": "a stinky Mongol army"
+    },
+    {
+      "def1": "салон тату",
+      "ipa": "ə тæˈту шɑп",
+      "spell": "a tattoo shop"
+    },
+    {
+      "def1": "кіт",
+      "ipa": "ə wейл",
+      "spell": "a whale"
+    },
+    {
+      "def1": "після того, як ти з’їси часник",
+      "ipa": "ˈæфтɚ ю iт ˈґɑрлик",
+      "spell": "after you eat garlic"
+    },
+    {
+      "def1": "майже",
+      "ipa": "ˈɔлˌмоуст",
+      "spell": "almost"
+    },
+    {
+      "def1": "майже завжди",
+      "ipa": "ˈɔлˌмоуст ˈɔлˌwейз",
+      "spell": "almost always"
+    },
+    {
+      "def1": "завжди",
+      "ipa": "ˈɔлˌwейз",
+      "spell": "always"
+    },
+    {
+      "def1": "освіжувач повітря",
+      "ipa": "əн ер ˈфрешəнɚ",
+      "spell": "an air freshener"
+    },
+    {
+      "def1": "унція",
+      "ipa": "əн аунс",
+      "spell": "an ounce"
+    },
+    {
+      "def1": "і все таке",
+      "ipa": "æнд ɔл",
+      "spell": "and all"
+    },
+    {
+      "def1": "і все таке",
+      "ipa": "æнд ɔл ðæт",
+      "spell": "and all that"
+    },
+    {
+      "def1": "такий розумний, як ти",
+      "ipa": "æз смɑрт æз ю",
+      "spell": "as smart as you"
+    },
+    {
+      "def1": "опівдні",
+      "ipa": "æт ˈмидˌдей",
+      "spell": "at midday"
+    },
+    {
+      "def1": "опівночі",
+      "ipa": "æт ˈмидˌнайт",
+      "spell": "at midnight"
+    },
+    {
+      "def1": "середній",
+      "ipa": "ˈævɚидж",
+      "spell": "average"
+    },
+    {
+      "def1": "через погоду",
+      "ipa": "биˈкɔз ʌv ðə ˈwеðɚ",
+      "spell": "because of the weather"
+    },
+    {
+      "def1": "правильно",
+      "ipa": "кəˈрект",
+      "spell": "correct"
+    },
+    {
+      "def1": "небезпечний",
+      "ipa": "ˈдейнджɚəс",
+      "spell": "dangerous"
+    },
+    {
+      "def1": "різний",
+      "ipa": "ˈдифɚəнт",
+      "spell": "different"
+    },
+    {
+      "def1": "важко піднятися",
+      "ipa": "ˈдифəкəлт ту клайм",
+      "spell": "difficult to climb"
+    },
+    {
+      "def1": "у тебе вже це є?",
+      "ipa": "ду ю hæv ит йет?",
+      "spell": "do you have it yet?"
+    },
+    {
+      "def1": "це смердить?",
+      "ipa": "дʌз ит стиŋк?",
+      "spell": "does it stink?"
+    },
+    {
+      "def1": "навички водіння",
+      "ipa": "ˈдрайvиŋ скилз",
+      "spell": "driving skills"
+    },
+    {
+      "def1": "схід",
+      "ipa": "iст",
+      "spell": "east"
+    },
+    {
+      "def1": "Англія в Європі",
+      "ipa": "ˈиŋґлəнд из ин ˈйʊрəп",
+      "spell": "England is in Europe"
+    },
+    {
+      "def1": "точно",
+      "ipa": "иґˈзæктлi",
+      "spell": "exactly"
+    },
+    {
+      "def1": "Фаренгейт",
+      "ipa": "ˈферəнˌhайт",
+      "spell": "Fahrenheit"
+    },
+    {
+      "def1": "заповнити пропуски",
+      "ipa": "фил ин ðə блæŋкс",
+      "spell": "fill in the blanks"
+    },
+    {
+      "def1": "заповнити мій бак",
+      "ipa": "фил май тæŋк",
+      "spell": "fill my tank"
+    },
+    {
+      "def1": "багато років",
+      "ipa": "фор ˈменi йирз",
+      "spell": "for many years"
+    },
+    {
+      "def1": "з першого дня",
+      "ipa": "фрʌм дей wʌн",
+      "spell": "from day one"
+    },
+    {
+      "def1": "часник",
+      "ipa": "ˈґɑрлик",
+      "spell": "garlic"
+    },
+    {
+      "def1": "часник смердить",
+      "ipa": "ˈґɑрлик из ˈстиŋкi",
+      "spell": "garlic is stinky"
+    },
+    {
+      "def1": "золото удвічі важче за срібло",
+      "ipa": "ґоулд из тwайс æз ˈhеvi æз ˈсилvɚ",
+      "spell": "gold is twice as heavy as silver"
+    },
+    {
+      "def1": "він виграє гроші",
+      "ipa": "hi wинз ˈмʌнi",
+      "spell": "he wins money"
+    },
+    {
+      "def1": "важкий, важчий",
+      "ipa": "ˈhеvi, ˈhеviɚ",
+      "spell": "heavy, heavier"
+    },
+    {
+      "def1": "високий",
+      "ipa": "hай",
+      "spell": "high"
+    },
+    {
+      "def1": "гарячий, гарячіший",
+      "ipa": "hɑт, ˈhɑтɚ",
+      "spell": "hot, hotter"
+    },
+    {
+      "def1": "як ти можеш працювати водієм",
+      "ipa": "hау кæн ю wɝк æз ə ˈдрайvɚ",
+      "spell": "how can you work as a driver"
+    },
+    {
+      "def1": "як довго це триває?",
+      "ipa": "hау лɔŋ дʌз ит лæст?",
+      "spell": "how long does it last?"
+    },
+    {
+      "def1": "я такий розумний, як ти",
+      "ipa": "ай æм æз смɑрт æз ю",
+      "spell": "I am as smart as you"
+    },
+    {
+      "def1": "я на парковці",
+      "ipa": "ай æм æт ə ˈпɑркиŋ лɑт",
+      "spell": "I am at a parking lot"
+    },
+    {
+      "def1": "я чую музику",
+      "ipa": "ай кæн hiр ˈм’юзик",
+      "spell": "I can hear music"
+    },
+    {
+      "def1": "я можу слухати музику",
+      "ipa": "ай кæн ˈлисəн ту ˈм’юзик",
+      "spell": "I can listen to music"
+    },
+    {
+      "def1": "я можу взяти вихідний будь-якого дня",
+      "ipa": "ай кæн тейк ˈенi дей ɔф",
+      "spell": "I can take any day off"
+    },
+    {
+      "def1": "я не можу захворіти на грип",
+      "ipa": "ай кæнт кæч ðə флу",
+      "spell": "I can’t catch the flu"
+    },
+    {
+      "def1": "я не чую",
+      "ipa": "ай кæнт hiр",
+      "spell": "I can’t hear"
+    },
+    {
+      "def1": "я не можу слухати",
+      "ipa": "ай кæнт ˈлисəн",
+      "spell": "I can’t listen"
+    },
+    {
+      "def1": "я вирішив поспати довше",
+      "ipa": "ай ˌдиˈсайдид ту слiп ин",
+      "spell": "I decided to sleep in"
+    },
+    {
+      "def1": "я ходжу в туалет",
+      "ipa": "ай ґоу ту ˈбæˌθрум",
+      "spell": "I go to bathroom"
+    },
+    {
+      "def1": "я чую щодня",
+      "ipa": "ай hiр ˈеvрiˈдей",
+      "spell": "I hear everyday"
+    },
+    {
+      "def1": "я чув",
+      "ipa": "ай hɝд",
+      "spell": "I heard"
+    },
+    {
+      "def1": "я щойно прийшов додому",
+      "ipa": "ай джʌст кейм hоум",
+      "spell": "I just came home"
+    },
+    {
+      "def1": "я слухав",
+      "ipa": "ай ˈлисəнд",
+      "spell": "I listened"
+    },
+    {
+      "def1": "я дивлюся новини на телефоні",
+      "ipa": "ай wɑч ðə нуз ɑн май фоун",
+      "spell": "I watch the news on my phone"
+    },
+    {
+      "def1": "я працюю до півночі",
+      "ipa": "ай wɝк əнˈтил ˈмидˌнайт",
+      "spell": "I work until midnight"
+    },
+    {
+      "def1": "насправді",
+      "ipa": "ин фæкт",
+      "spell": "in fact"
+    },
+    {
+      "def1": "середини серпня",
+      "ipa": "ин мид-ˈɑґəст",
+      "spell": "in mid-August"
+    },
+    {
+      "def1": "середини грудня",
+      "ipa": "ин мид-диˈсембɚ",
+      "spell": "in mid-December"
+    },
+    {
+      "def1": "це недовго триває",
+      "ipa": "ит ˈдʌзəнт лæст лɔŋ",
+      "spell": "it doesn't last long"
+    },
+    {
+      "def1": "це не має значення",
+      "ipa": "ит ˈдʌзəнт ˈмæтɚ",
+      "spell": "it doesn’t matter"
+    },
+    {
+      "def1": "це майже скінчилося",
+      "ipa": "ит из ˈɔлˌмоуст ˈоуvɚ",
+      "spell": "it is almost over"
+    },
+    {
+      "def1": "холодно",
+      "ipa": "ит из коулд",
+      "spell": "it is cold"
+    },
+    {
+      "def1": "сьогодні п'ятниця",
+      "ipa": "ит из ˈфрайˌдей тəˈдей",
+      "spell": "it is Friday today"
+    },
+    {
+      "def1": "це величезне",
+      "ipa": "ит из х’юдж",
+      "spell": "it is huge"
+    },
+    {
+      "def1": "це Північна Америка",
+      "ipa": "ит из норθ əˈмерəкə",
+      "spell": "it is North America"
+    },
+    {
+      "def1": "це середа",
+      "ipa": "ит из ˈwензˌдей",
+      "spell": "it is Wednesday"
+    },
+    {
+      "def1": "сьогодні середа",
+      "ipa": "ит из ˈwензˌдей тəˈдей",
+      "spell": "it is Wednesday today"
+    },
+    {
+      "def1": "це тривало чотири роки",
+      "ipa": "ит ˈлæстид фор йирз",
+      "spell": "it lasted four years"
+    },
+    {
+      "def1": "це виробляє",
+      "ipa": "ит прəˈдусəз",
+      "spell": "it produces"
+    },
+    {
+      "def1": "це смердить",
+      "ipa": "ит стиŋкс",
+      "spell": "it stinks"
+    },
+    {
+      "def1": "це був жарт",
+      "ipa": "ит wʌз ə джоук",
+      "spell": "it was a joke"
+    },
+    {
+      "def1": "це було не добре",
+      "ipa": "ит ˈwɑзəнт файн",
+      "spell": "it wasn't fine"
+    },
+    {
+      "def1": "воно важить багато",
+      "ipa": "ит wейз ə лɑт",
+      "spell": "it weighs a lot"
+    },
+    {
+      "def1": "це в центрі Лінвуда",
+      "ipa": "итс ˈдаунˈтаун ин ˈлинwʊд",
+      "spell": "it's downtown in Lynnwood"
+    },
+    {
+      "def1": "це в центрі Торонто",
+      "ipa": "итс ˈдаунˈтаун ин тəˈрɑнтоу",
+      "spell": "it's downtown in Toronto"
+    },
+    {
+      "def1": "це в центрі Лінвуда",
+      "ipa": "итс ин ˈлинwʊдз ˈдаунˈтаун",
+      "spell": "it's in Lynnwood's downtown"
+    },
+    {
+      "def1": "там зима",
+      "ipa": "итс ˈwинтɚ ðер",
+      "spell": "it's winter there"
+    },
+    {
+      "def1": "це вдвічі більше, ніж те",
+      "ipa": "итс ˈдʌбəл ðæт",
+      "spell": "it’s double that"
+    },
+    {
+      "def1": "пізній, пізніше",
+      "ipa": "лейт, ˈлейтɚ",
+      "spell": "late, later"
+    },
+    {
+      "def1": "світло",
+      "ipa": "лайт",
+      "spell": "light"
+    },
+    {
+      "def1": "навички слухання",
+      "ipa": "ˈлисəниŋ скилз",
+      "spell": "listening skills"
+    },
+    {
+      "def1": "голосний, голосніший",
+      "ipa": "лауд, ˈлаудɚ",
+      "spell": "loud, louder"
+    },
+    {
+      "def1": "більш небезпечний",
+      "ipa": "мор ˈдейнджɚəс",
+      "spell": "more dangerous"
+    },
+    {
+      "def1": "більш важкий",
+      "ipa": "мор ˈдифəкəлт",
+      "spell": "more difficult"
+    },
+    {
+      "def1": "мій вихідний",
+      "ipa": "май дей ɔф",
+      "spell": "my day off"
+    },
+    {
+      "def1": "мій вихідний – неділя",
+      "ipa": "май дей ɔф из ˈсʌнˌдей",
+      "spell": "my day off is Sunday"
+    },
+    {
+      "def1": "у моєї дружини сьогодні вихідний",
+      "ipa": "май wайф из ˈhævиŋ ə дей ɔф тəˈдей",
+      "spell": "my wife is having a day off today"
+    },
+    {
+      "def1": "моя дружина молодша за мене",
+      "ipa": "май wайф из ˈйʌŋґɚ ðæн мi",
+      "spell": "my wife is younger than me"
+    },
+    {
+      "def1": "північ",
+      "ipa": "норθ",
+      "spell": "north"
+    },
+    {
+      "def1": "ще ні",
+      "ipa": "нɑт йет",
+      "spell": "not yet"
+    },
+    {
+      "def1": "старий, старіший",
+      "ipa": "оулд, ˈоулдɚ",
+      "spell": "old, older"
+    },
+    {
+      "def1": "на вихідних",
+      "ipa": "ɑн ˈwiˌкендз",
+      "spell": "on weekends"
+    },
+    {
+      "def1": "за кубічний дюйм",
+      "ipa": "пɝ ˈк’юбик инч",
+      "spell": "per cubic inch"
+    },
+    {
+      "def1": "правий",
+      "ipa": "райт",
+      "spell": "right"
+    },
+    {
+      "def1": "вона йде на прийом",
+      "ipa": "шi из ˈґоуиŋ ту əн əˈпойнтмəнт",
+      "spell": "she is going to an appointment"
+    },
+    {
+      "def1": "вона отримує досвід",
+      "ipa": "шiз ˈґетиŋ сʌм икˈспирiəнс",
+      "spell": "she’s getting some experience"
+    },
+    {
+      "def1": "вона зустрічається з нею там",
+      "ipa": "шiз ˈмiтиŋ hɝ ðер",
+      "spell": "she’s meeting her there"
+    },
+    {
+      "def1": "срібло",
+      "ipa": "ˈсилvɚ",
+      "spell": "silver"
+    },
+    {
+      "def1": "повільний, повільніший",
+      "ipa": "слоу, ˈслоуɚ",
+      "spell": "slow, slower"
+    },
+    {
+      "def1": "малий, менший",
+      "ipa": "смɔл, ˈсмɔлɚ",
+      "spell": "small, smaller"
+    },
+    {
+      "def1": "запах",
+      "ipa": "смел",
+      "spell": "smell"
+    },
+    {
+      "def1": "південь",
+      "ipa": "сауθ",
+      "spell": "south"
+    },
+    {
+      "def1": "південний",
+      "ipa": "ˈсʌðɚн",
+      "spell": "southern"
+    },
+    {
+      "def1": "мовленнєві навички",
+      "ipa": "ˈспiкиŋ скилз",
+      "spell": "speaking skills"
+    },
+    {
+      "def1": "Сідней, Дісней",
+      "ipa": "ˈсиднi, ˈдизнi",
+      "spell": "Sydney, Disney"
+    },
+    {
+      "def1": "температура",
+      "ipa": "ˈтемпрəчɚ",
+      "spell": "temperature"
+    },
+    {
+      "def1": "ніж",
+      "ipa": "ðæн",
+      "spell": "than"
+    },
+    {
+      "def1": "дякую за пораду",
+      "ipa": "θæŋк ю фор ðə ˈпойнтɚ/тип",
+      "spell": "thank you for the pointer/tip"
+    },
+    {
+      "def1": "це означає, що",
+      "ipa": "ðæт мiнз ðæт",
+      "spell": "that means that"
+    },
+    {
+      "def1": "дні тижня",
+      "ipa": "ðə дейз ʌv ðə wiк",
+      "spell": "the days of the week"
+    },
+    {
+      "def1": "номер будинку",
+      "ipa": "ðə hаус ˈнʌмбɚ",
+      "spell": "the house number"
+    },
+    {
+      "def1": "єдина проблема – пластикова ялинка не пахне",
+      "ipa": "ði ˈоунлi ˈпрɑблəм из ə ˈплæстик трi hæз ноу смел",
+      "spell": "the only problem is a plastic tree has no smell"
+    },
+    {
+      "def1": "інше – гаразд",
+      "ipa": "ðə рест из файн",
+      "spell": "the rest is fine"
+    },
+    {
+      "def1": "південна півкуля",
+      "ipa": "ðə ˈсʌðɚн ˈhемиˌсфир",
+      "spell": "the southern hemisphere"
+    },
+    {
+      "def1": "сонце; син",
+      "ipa": "ðə сʌн; ə сʌн",
+      "spell": "the sun; a son"
+    },
+    {
+      "def1": "Сполучене Королівство",
+      "ipa": "ðə юˈнайтид ˈкиŋдəм",
+      "spell": "the United Kingdom"
+    },
+    {
+      "def1": "Сполучені Штати",
+      "ipa": "ðə юˈнайтид стейтс",
+      "spell": "the United States"
+    },
+    {
+      "def1": "світ",
+      "ipa": "ðə wɝлд",
+      "spell": "the world"
+    },
+    {
+      "def1": "вони вмирають",
+      "ipa": "ðей дай",
+      "spell": "they die"
+    },
+    {
+      "def1": "їй не платять",
+      "ipa": "ðей доунт пей hɝ",
+      "spell": "they don’t pay her"
+    },
+    {
+      "def1": "підніматися",
+      "ipa": "ту клайм",
+      "spell": "to climb"
+    },
+    {
+      "def1": "піднятися на гору",
+      "ipa": "ту клайм ə ˈмаунтəн",
+      "spell": "to climb a mountain"
+    },
+    {
+      "def1": "піднятися на K2",
+      "ipa": "ту клайм кей2",
+      "spell": "to climb K2"
+    },
+    {
+      "def1": "закрити; близько",
+      "ipa": "ту клоус; клоус",
+      "spell": "to close; close"
+    },
+    {
+      "def1": "наповнювати, відчувати",
+      "ipa": "ту фил, ту фiл",
+      "spell": "to fill, to feel"
+    },
+    {
+      "def1": "відповісти правильно",
+      "ipa": "ту ґет ði ˈæнсɚ райт",
+      "spell": "to get the answer right"
+    },
+    {
+      "def1": "відповісти неправильно",
+      "ipa": "ту ґет ði ˈæнсɚ рɔŋ",
+      "spell": "to get the answer wrong"
+    },
+    {
+      "def1": "чути",
+      "ipa": "ту hiр",
+      "spell": "to hear"
+    },
+    {
+      "def1": "слухати",
+      "ipa": "ту ˈлисəн",
+      "spell": "to listen"
+    },
+    {
+      "def1": "губити",
+      "ipa": "ту луз",
+      "spell": "to lose"
+    },
+    {
+      "def1": "виробляти",
+      "ipa": "ту прəˈдус",
+      "spell": "to produce"
+    },
+    {
+      "def1": "поспати довше",
+      "ipa": "ту слiп ин",
+      "spell": "to sleep in"
+    },
+    {
+      "def1": "розпилювати",
+      "ipa": "ту спрей",
+      "spell": "to spray"
+    },
+    {
+      "def1": "вигравати",
+      "ipa": "ту wин",
+      "spell": "to win"
+    },
+    {
+      "def1": "об'єднаний",
+      "ipa": "юˈнайтид",
+      "spell": "united"
+    },
+    {
+      "def1": "до півночі",
+      "ipa": "əнˈтил ˈмидˌнайт",
+      "spell": "until midnight"
+    },
+    {
+      "def1": "у нас цього ще немає",
+      "ipa": "wi доунт hæv ит йет",
+      "spell": "we don’t have it yet"
+    },
+    {
+      "def1": "ми хочемо купити маленьку ялинку",
+      "ipa": "wi wɑнт ту бай ə смɔл трi",
+      "spell": "we want to buy a small tree"
+    },
+    {
+      "def1": "робочі дні",
+      "ipa": "ˈwiкˌдейз",
+      "spell": "weekdays"
+    },
+    {
+      "def1": "захід",
+      "ipa": "wест",
+      "spell": "west"
+    },
+    {
+      "def1": "який сьогодні день?",
+      "ipa": "wɑт дей из ит тəˈдей?",
+      "spell": "what day is it today?"
+    },
+    {
+      "def1": "що ти робиш першим ділом вранці?",
+      "ipa": "wɑт ду ю ду фɝст θиŋ ин ðə ˈморниŋ?",
+      "spell": "what do you do first thing in the morning?"
+    },
+    {
+      "def1": "те, що Голлівуд виробляє",
+      "ipa": "wɑт ˈhɑлiˌwʊд прəˈдусəз",
+      "spell": "what Hollywood produces"
+    },
+    {
+      "def1": "який сьогодні день?",
+      "ipa": "wɑт из ит тəˈдей?",
+      "spell": "what is it today?"
+    },
+    {
+      "def1": "о котрій ти прокидаєшся?",
+      "ipa": "wɑт тайм ду ю wейк ʌп?",
+      "spell": "what time do you wake up?"
+    },
+    {
+      "def1": "тоді як",
+      "ipa": "wеˈрæз",
+      "spell": "whereas"
+    },
+    {
+      "def1": "який є",
+      "ipa": "wич из",
+      "spell": "which is"
+    },
+    {
+      "def1": "чому ні?",
+      "ipa": "wай нɑт?",
+      "spell": "why not?"
+    },
+    {
+      "def1": "ти на рік старший за мене",
+      "ipa": "ю ɑр ə йир ˈоулдɚ ðæн мi",
+      "spell": "you are a year older than me"
+    },
+    {
+      "def1": "ти на рік молодший за мене",
+      "ipa": "ю ɑр ə йир ˈйʌŋґɚ ðæн мi",
+      "spell": "you are a year younger than me"
+    },
+    {
+      "def1": "ти старший за мене",
+      "ipa": "ю ɑр ˈоулдɚ ðæн мi",
+      "spell": "you are older than me"
+    },
+    {
+      "def1": "ти не працюєш на вихідних",
+      "ipa": "ю доунт wɝк ɑн ˈwiˌкендз",
+      "spell": "you don’t work on weekends"
+    },
+    {
+      "def1": "ти працюєш у будні",
+      "ipa": "ю wɝк ɑн ˈwiкˌдейз",
+      "spell": "you work on weekdays"
+    },
+    {
+      "def1": "молодий, молодший",
+      "ipa": "йʌŋ, ˈйʌŋґɚ",
+      "spell": "young, younger"
+    },
+    {
+      "def1": "твоя машина смердить",
+      "ipa": "йʊɚ кɑр стиŋкс",
+      "spell": "your car stinks"
+    },
+    {
+      "def1": "твій єдиний вихідний",
+      "ipa": "йʊɚ ˈоунлi дей ɔф",
+      "spell": "your only day off"
+    }
+  ]
+}
