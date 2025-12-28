@@ -5,530 +5,530 @@
   "number": 50,
   "date": "2025-12-10",
   "words": [
- {
-   "def1": "борода",
-   "ipa": "ə bɪrd",
-   "spell": "a beard"
- },
- {
-   "def1": "страна, которая регулярно в состоянии войны",
-   "ipa": "ə ˈkʌntri ðæt ɪz ˈrɛɡjələrli æt wɔr",
-   "spell": "a country that is regularly at war"
- },
- {
-   "def1": "свидание, дата",
-   "ipa": "ə deɪt",
-   "spell": "a date"
- },
- {
-   "def1": "плавник",
-   "ipa": "ə fɪn",
-   "spell": "a fin"
- },
- {
-   "def1": "красивый мужчина/женщина",
-   "ipa": "ə ɡʊd-ˈlʊkɪŋ mæn/ˈwʊmən",
-   "spell": "a good-looking man/woman"
- },
- {
-   "def1": "немного выше меня",
-   "ipa": "ə ˈlɪtəl bɪt ˈtɔlər ðæn mi",
-   "spell": "a little bit taller than me"
- },
- {
-   "def1": "пропавший без вести",
-   "ipa": "ə ˈmɪsɪŋ ˈpɜrsən",
-   "spell": "a missing person"
- },
- {
-   "def1": "бегун",
-   "ipa": "ə ˈrʌnər",
-   "spell": "a runner"
- },
- {
-   "def1": "насморк",
-   "ipa": "ə ˈrʌni noʊz",
-   "spell": "a runny nose"
- },
- {
-   "def1": "грех",
-   "ipa": "ə sɪn",
-   "spell": "a sin"
- },
- {
-   "def1": "размер",
-   "ipa": "ə saɪz",
-   "spell": "a size"
- },
- {
-   "def1": "худощавый мужчина",
-   "ipa": "ə ˈslɛndər mæn",
-   "spell": "a slender man"
- },
- {
-   "def1": "искра",
-   "ipa": "ə spɑrk",
-   "spell": "a spark"
- },
- {
-   "def1": "стиль",
-   "ipa": "ə staɪl",
-   "spell": "a style"
- },
- {
-   "def1": "гласная буква",
-   "ipa": "ə ˈvaʊəl",
-   "spell": "a vowel"
- },
- {
-   "def1": "война",
-   "ipa": "ə wɔr",
-   "spell": "a war"
- },
- {
-   "def1": "женщина, женщины",
-   "ipa": "ə ˈwʊmən, ˈwɪmən",
-   "spell": "a woman, women"
- },
- {
-   "def1": "Афганистан",
-   "ipa": "æfˈɡænəˌstæn",
-   "spell": "Afghanistan"
- },
- {
-   "def1": "удивительный",
-   "ipa": "əˈmeɪzɪŋ",
-   "spell": "amazing"
- },
- {
-   "def1": "прилагательное",
-   "ipa": "ən ˈæʤɪktɪv",
-   "spell": "an adjective"
- },
- {
-   "def1": "внешность",
-   "ipa": "əˈpɪrəns",
-   "spell": "appearance"
- },
- {
-   "def1": "устаревший, архаичный",
-   "ipa": "ɑrˈkeɪɪk",
-   "spell": "archaic"
- },
- {
-   "def1": "вспомогательный",
-   "ipa": "ɑɡˈzɪljəri",
-   "spell": "auxiliary"
- },
- {
-   "def1": "вспомогательная полиция",
-   "ipa": "ɑɡˈzɪljəri pəˈlis",
-   "spell": "auxiliary police"
- },
- {
-   "def1": "лысый",
-   "ipa": "bɔld",
-   "spell": "bald"
- },
- {
-   "def1": "смелый",
-   "ipa": "boʊld",
-   "spell": "bold"
- },
- {
-   "def1": "у всех насморк",
-   "ipa": "ˈɛvriˌbɑdi hæz ə ˈrʌni noʊz",
-   "spell": "everybody has a runny nose"
- },
- {
-   "def1": "седые волосы",
-   "ipa": "ɡreɪ hɛr",
-   "spell": "gray hair"
- },
- {
-   "def1": "рука об руку",
-   "ipa": "hænd ɪn hænd",
-   "spell": "hand in hand"
- },
- {
-   "def1": "у него нет усов",
-   "ipa": "hi ˈdʌzənt hæv ə ˈmʌˌstæʃ",
-   "spell": "he doesn’t have a mustache"
- },
- {
-   "def1": "он не выглядит как серьёзный мужчина",
-   "ipa": "hi ˈdʌzənt lʊk laɪk ə ˈsɪriəs mæn",
-   "spell": "he doesn’t look like a serious man"
- },
- {
-   "def1": "он идёт на прогулку",
-   "ipa": "hi ɡoʊz fɔr ə wɔk",
-   "spell": "he goes for a walk"
- },
- {
-   "def1": "у него щетина",
-   "ipa": "hi hæz ˈstʌbəl",
-   "spell": "he has stubble"
- },
- {
-   "def1": "он мужчина с лишним весом",
-   "ipa": "hi ɪz ən ˈoʊvərˌweɪt mæn",
-   "spell": "he is an overweight man"
- },
- {
-   "def1": "он интересный (весёлый в общении)",
-   "ipa": "hi ɪz fʌn",
-   "spell": "he is fun"
- },
- {
-   "def1": "он смешной",
-   "ipa": "hi ɪz ˈfʌni",
-   "spell": "he is funny"
- },
- {
-   "def1": "он среднего роста",
-   "ipa": "hi ɪz ˈmidiəm haɪt",
-   "spell": "he is medium height"
- },
- {
-   "def1": "он улыбается",
-   "ipa": "hi ɪz ˈsmaɪlɪŋ",
-   "spell": "he is smiling"
- },
- {
-   "def1": "он такой",
-   "ipa": "hiz laɪk ðæt",
-   "spell": "he’s like that"
- },
- {
-   "def1": "откуда ты знаешь?",
-   "ipa": "haʊ du ju noʊ?",
-   "spell": "how do you know?"
- },
- {
-   "def1": "как это сказать?",
-   "ipa": "haʊ du ju seɪ ðæt?",
-   "spell": "how do you say that?"
- },
- {
-   "def1": "я не лучший человек, чтобы говорить об этом",
-   "ipa": "aɪ æm nɑt ðə bɛst ˈpɜrsən tu tɔk əˈbaʊt ɪt",
-   "spell": "I am not the best person to talk about it"
- },
- {
-   "def1": "я очень рад",
-   "ipa": "aɪ æm ˈvɛri ɡlæd",
-   "spell": "I am very glad"
- },
- {
-   "def1": "я не знаю, на скольки языках он может говорить",
-   "ipa": "aɪ doʊnt noʊ haʊ ˈmɛni ˈlæŋɡwəʤəz hi kæn spik",
-   "spell": "I don’t know how many languages he can speak"
- },
- {
-   "def1": "я заставляю себя это делать",
-   "ipa": "aɪ meɪk ˌmaɪˈsɛlf du ɪt",
-   "spell": "I make myself do it"
- },
- {
-   "def1": "я хочу, чтобы мои дети получили гражданство",
-   "ipa": "aɪ wɑnt maɪ ˈʧɪldrən tu ɡɛt ˈsɪtɪzənˌʃɪp",
-   "spell": "I want my children to get citizenship"
- },
- {
-   "def1": "я хочу, чтобы у моих детей был выбор",
-   "ipa": "aɪ wɑnt maɪ ˈʧɪldrən tu hæv ə ʧɔɪs",
-   "spell": "I want my children to have a choice"
- },
- {
-   "def1": "я хочу, чтобы у моих детей была свобода выбора",
-   "ipa": "aɪ wɑnt maɪ ˈʧɪldrən tu hæv ˈfridəm ʌv ʧɔɪs",
-   "spell": "I want my children to have freedom of choice"
- },
- {
-   "def1": "непогода, суровая погода",
-   "ipa": "ɪnˈklɛmənt ˈwɛðər",
-   "spell": "inclement weather"
- },
- {
-   "def1": "есть там кто-нибудь?",
-   "ipa": "ɪz ðɛr ˈɛnibədi ðɛr?",
-   "spell": "is there anybody there?"
- },
- {
-   "def1": "оно протекает",
-   "ipa": "ɪt ɪz ˈlikɪŋ",
-   "spell": "it is leaking"
- },
- {
-   "def1": "будет восемь градусов",
-   "ipa": "ɪts ˈɡoʊɪŋ tu bi eɪt dɪˈɡriz",
-   "spell": "it’s going to be eight degrees"
- },
- {
-   "def1": "ограничимся одной фразой",
-   "ipa": "lɛts ˈlɪmət aʊərˈsɛlvz tu wʌn freɪz",
-   "spell": "let's limit ourselves to one phrase"
- },
- {
-   "def1": "как; нравиться",
-   "ipa": "laɪk, tu laɪk",
-   "spell": "like, to like"
- },
- {
-   "def1": "длинные прямые чёрные волосы",
-   "ipa": "lɔŋ streɪt blæk hɛr",
-   "spell": "long straight black hair"
- },
- {
-   "def1": "среднего роста",
-   "ipa": "ˈmidiəm haɪt",
-   "spell": "medium height"
- },
- {
-   "def1": "пропавший, отсутствующий",
-   "ipa": "ˈmɪsɪŋ",
-   "spell": "missing"
- },
- {
-   "def1": "мой муж — тот человек, с которым стоит поговорить об этом",
-   "ipa": "maɪ ˈhʌzbənd ɪz ðə ˈpɜrsən tu tɔk tu əˈbaʊt ɪt",
-   "spell": "my husband is the person to talk to about it"
- },
- {
-   "def1": "напротив",
-   "ipa": "ˈɑpəzət",
-   "spell": "opposite"
- },
- {
-   "def1": "личность",
-   "ipa": "ˌpɜrsəˈnælɪti",
-   "spell": "personality"
- },
- {
-   "def1": "увидимся в следующую среду",
-   "ipa": "si ju nɛkst ˈwɛnzˌdeɪ",
-   "spell": "see you next wednesday"
- },
- {
-   "def1": "она не хочет, чтобы он остался один",
-   "ipa": "ʃi ˈdʌzənt wɑnt hɪm tu ɛnd ʌp əˈloʊn",
-   "spell": "she doesn’t want him to end up alone"
- },
- {
-   "def1": "она красивая",
-   "ipa": "ʃi ɪz ˈbjutəfəl",
-   "spell": "she is beautiful"
- },
- {
-   "def1": "она предвзята",
-   "ipa": "ʃi ɪz ˈbaɪəst",
-   "spell": "she is biased"
- },
- {
-   "def1": "она близка с ним",
-   "ipa": "ʃi ɪz kloʊs tu hɪm",
-   "spell": "she is close to him"
- },
- {
-   "def1": "ей нравятся розы",
-   "ipa": "ʃi laɪks ˈroʊzɪz",
-   "spell": "she likes roses"
- },
- {
-   "def1": "она любит розы",
-   "ipa": "ʃi lʌvz ˈroʊzɪz",
-   "spell": "she loves roses"
- },
- {
-   "def1": "она видит только его хорошие стороны",
-   "ipa": "ʃi ˈoʊnli siz hɪz ɡʊd saɪd",
-   "spell": "she only sees his good side"
- },
- {
-   "def1": "ей следует подумать о его старости",
-   "ipa": "ʃi ɔt tu θɪŋk əˈbaʊt hɪz oʊld eɪʤ",
-   "spell": "she ought to think about his old age"
- },
- {
-   "def1": "она красивая",
-   "ipa": "ʃiz ˈbjutəfəl/ˈprɪti",
-   "spell": "she's beautiful/pretty"
- },
- {
-   "def1": "он/она привлекательный(ая)",
-   "ipa": "ʃi/hi ɪz əˈtræktɪv",
-   "spell": "she/he is attractive"
- },
- {
-   "def1": "она заинтересована, озабочена",
-   "ipa": "ʃiz kənˈsɜrnd",
-   "spell": "she’s concerned"
- },
- {
-   "def1": "она беспокоится",
-   "ipa": "ʃiz ˈwɜrid",
-   "spell": "she’s worried"
- },
- {
-   "def1": "бок о бок",
-   "ipa": "saɪd baɪ saɪd",
-   "spell": "side by side"
- },
- {
-   "def1": "стройный",
-   "ipa": "slɪm",
-   "spell": "slim"
- },
- {
-   "def1": "заснеженные крыши",
-   "ipa": "ˈsnoʊi rufs",
-   "spell": "snowy roofs"
- },
- {
-   "def1": "такой большой",
-   "ipa": "soʊ bɪɡ",
-   "spell": "so big"
- },
- {
-   "def1": "так много",
-   "ipa": "soʊ mʌʧ",
-   "spell": "so much"
- },
- {
-   "def1": "такой",
-   "ipa": "sʌʧ",
-   "spell": "such"
- },
- {
-   "def1": "высокий, низкий",
-   "ipa": "tɔl, ʃɔrt",
-   "spell": "tall, short"
- },
- {
-   "def1": "огромное спасибо",
-   "ipa": "θæŋk ju soʊ mʌʧ",
-   "spell": "thank you so much"
- },
- {
-   "def1": "снег начнёт таять",
-   "ipa": "ðə snoʊ wɪl stɑrt ˈmɛltɪŋ",
-   "spell": "the snow will start melting"
- },
- {
-   "def1": "они занимаются спортом",
-   "ipa": "ðeɪ ˈɛksərˌsaɪz",
-   "spell": "they exercise"
- },
- {
-   "def1": "худой; с лишним весом",
-   "ipa": "θɪn; ˈoʊvərˌweɪt",
-   "spell": "thin; overweight"
- },
- {
-   "def1": "это человек, с кем у меня назначено свидание",
-   "ipa": "ðɪs ɪz maɪ deɪt",
-   "spell": "this is my date"
- },
- {
-   "def1": "жесть, олово",
-   "ipa": "tɪn",
-   "spell": "tin"
- },
- {
-   "def1": "быть",
-   "ipa": "tu bi",
-   "spell": "to be"
- },
- {
-   "def1": "быть похожим",
-   "ipa": "tu bi laɪk",
-   "spell": "to be like"
- },
- {
-   "def1": "закрывать; близкий",
-   "ipa": "tu kloʊs; kloʊs",
-   "spell": "to close; close"
- },
- {
-   "def1": "остаться в одиночестве",
-   "ipa": "tu ɛnd ʌp əˈloʊn",
-   "spell": "to end up alone"
- },
- {
-   "def1": "замёрзнуть (в итоге)",
-   "ipa": "tu ɛnd ʌp koʊld",
-   "spell": "to end up cold"
- },
- {
-   "def1": "заболеть (в итоге)",
-   "ipa": "tu ɛnd ʌp sɪk",
-   "spell": "to end up sick"
- },
- {
-   "def1": "выделить это",
-   "ipa": "tu ˈhaɪˌlaɪt ɪt",
-   "spell": "to highlight it"
- },
- {
-   "def1": "смеяться",
-   "ipa": "tu læf",
-   "spell": "to laugh"
- },
- {
-   "def1": "протекать",
-   "ipa": "tu lik",
-   "spell": "to leak"
- },
- {
-   "def1": "выглядеть как",
-   "ipa": "tu lʊk laɪk",
-   "spell": "to look like"
- },
- {
-   "def1": "служить в армии",
-   "ipa": "tu sɜrv ɪn ði ˈɑrmi",
-   "spell": "to serve in the army"
- },
- {
-   "def1": "как он выглядит?",
-   "ipa": "wɑt dʌz hi lʊk laɪk?",
-   "spell": "what does he look like?"
- },
- {
-   "def1": "каковы свидания?",
-   "ipa": "wɑt ɪz ˈdeɪtɪŋ laɪk?",
-   "spell": "what is dating like?"
- },
- {
-   "def1": "какой он как человек?",
-   "ipa": "wɑt ɪz hi laɪk?",
-   "spell": "what is he like?"
- },
- {
-   "def1": "каким это было?",
-   "ipa": "wɑt wʌz ɪt laɪk?",
-   "spell": "what was it like?"
- },
- {
-   "def1": "когда у него нет щетины",
-   "ipa": "wɛn hi ˈdʌzənt hæv ˈstʌbəl",
-   "spell": "when he doesn’t have stubble"
- },
- {
-   "def1": "когда я иду на прогулку",
-   "ipa": "wɛn aɪ ɡoʊ fɔr ə wɔk",
-   "spell": "when I go for a walk"
- },
- {
-   "def1": "белый верх, чёрный низ",
-   "ipa": "waɪt tɑp, blæk ˈbɑtəm",
-   "spell": "white top, black bottom"
- },
- {
-   "def1": "с кем лучше всего поговорить об этом",
-   "ipa": "hu ɪz ðə bɛst ˈpɜrsən tu tɔk tu əˈbaʊt ɪt",
-   "spell": "who is the best person to talk to about it"
- }
-]
+    {
+      "def1": "борода",
+      "ipa": "ə bɪrd",
+      "spell": "a beard"
+    },
+    {
+      "def1": "страна, которая регулярно в состоянии войны",
+      "ipa": "ə ˈkʌntri ðæt ɪz ˈrɛɡjələrli æt wɔr",
+      "spell": "a country that is regularly at war"
+    },
+    {
+      "def1": "свидание, дата",
+      "ipa": "ə deɪt",
+      "spell": "a date"
+    },
+    {
+      "def1": "плавник",
+      "ipa": "ə fɪn",
+      "spell": "a fin"
+    },
+    {
+      "def1": "красивый мужчина/женщина",
+      "ipa": "ə ɡʊd-ˈlʊkɪŋ mæn/ˈwʊmən",
+      "spell": "a good-looking man/woman"
+    },
+    {
+      "def1": "немного выше меня",
+      "ipa": "ə ˈlɪtəl bɪt ˈtɔlər ðæn mi",
+      "spell": "a little bit taller than me"
+    },
+    {
+      "def1": "пропавший без вести",
+      "ipa": "ə ˈmɪsɪŋ ˈpɜrsən",
+      "spell": "a missing person"
+    },
+    {
+      "def1": "бегун",
+      "ipa": "ə ˈrʌnər",
+      "spell": "a runner"
+    },
+    {
+      "def1": "насморк",
+      "ipa": "ə ˈrʌni noʊz",
+      "spell": "a runny nose"
+    },
+    {
+      "def1": "грех",
+      "ipa": "ə sɪn",
+      "spell": "a sin"
+    },
+    {
+      "def1": "размер",
+      "ipa": "ə saɪz",
+      "spell": "a size"
+    },
+    {
+      "def1": "худощавый мужчина",
+      "ipa": "ə ˈslɛndər mæn",
+      "spell": "a slender man"
+    },
+    {
+      "def1": "искра",
+      "ipa": "ə spɑrk",
+      "spell": "a spark"
+    },
+    {
+      "def1": "стиль",
+      "ipa": "ə staɪl",
+      "spell": "a style"
+    },
+    {
+      "def1": "гласная буква",
+      "ipa": "ə ˈvaʊəl",
+      "spell": "a vowel"
+    },
+    {
+      "def1": "война",
+      "ipa": "ə wɔr",
+      "spell": "a war"
+    },
+    {
+      "def1": "женщина, женщины",
+      "ipa": "ə ˈwʊmən, ˈwɪmən",
+      "spell": "a woman, women"
+    },
+    {
+      "def1": "Афганистан",
+      "ipa": "æfˈɡænəˌstæn",
+      "spell": "Afghanistan"
+    },
+    {
+      "def1": "удивительный",
+      "ipa": "əˈmeɪzɪŋ",
+      "spell": "amazing"
+    },
+    {
+      "def1": "прилагательное",
+      "ipa": "ən ˈæʤɪktɪv",
+      "spell": "an adjective"
+    },
+    {
+      "def1": "внешность",
+      "ipa": "əˈpɪrəns",
+      "spell": "appearance"
+    },
+    {
+      "def1": "устаревший, архаичный",
+      "ipa": "ɑrˈkeɪɪk",
+      "spell": "archaic"
+    },
+    {
+      "def1": "вспомогательный",
+      "ipa": "ɑɡˈzɪljəri",
+      "spell": "auxiliary"
+    },
+    {
+      "def1": "вспомогательная полиция",
+      "ipa": "ɑɡˈzɪljəri pəˈlis",
+      "spell": "auxiliary police"
+    },
+    {
+      "def1": "лысый",
+      "ipa": "bɔld",
+      "spell": "bald"
+    },
+    {
+      "def1": "смелый",
+      "ipa": "boʊld",
+      "spell": "bold"
+    },
+    {
+      "def1": "у всех насморк",
+      "ipa": "ˈɛvriˌbɑdi hæz ə ˈrʌni noʊz",
+      "spell": "everybody has a runny nose"
+    },
+    {
+      "def1": "седые волосы",
+      "ipa": "ɡreɪ hɛr",
+      "spell": "gray hair"
+    },
+    {
+      "def1": "рука об руку",
+      "ipa": "hænd ɪn hænd",
+      "spell": "hand in hand"
+    },
+    {
+      "def1": "у него нет усов",
+      "ipa": "hi ˈdʌzənt hæv ə ˈmʌˌstæʃ",
+      "spell": "he doesn’t have a mustache"
+    },
+    {
+      "def1": "он не выглядит как серьёзный мужчина",
+      "ipa": "hi ˈdʌzənt lʊk laɪk ə ˈsɪriəs mæn",
+      "spell": "he doesn’t look like a serious man"
+    },
+    {
+      "def1": "он идёт на прогулку",
+      "ipa": "hi ɡoʊz fɔr ə wɔk",
+      "spell": "he goes for a walk"
+    },
+    {
+      "def1": "у него щетина",
+      "ipa": "hi hæz ˈstʌbəl",
+      "spell": "he has stubble"
+    },
+    {
+      "def1": "он мужчина с лишним весом",
+      "ipa": "hi ɪz ən ˈoʊvərˌweɪt mæn",
+      "spell": "he is an overweight man"
+    },
+    {
+      "def1": "он интересный (весёлый в общении)",
+      "ipa": "hi ɪz fʌn",
+      "spell": "he is fun"
+    },
+    {
+      "def1": "он смешной",
+      "ipa": "hi ɪz ˈfʌni",
+      "spell": "he is funny"
+    },
+    {
+      "def1": "он среднего роста",
+      "ipa": "hi ɪz ˈmidiəm haɪt",
+      "spell": "he is medium height"
+    },
+    {
+      "def1": "он улыбается",
+      "ipa": "hi ɪz ˈsmaɪlɪŋ",
+      "spell": "he is smiling"
+    },
+    {
+      "def1": "он такой",
+      "ipa": "hiz laɪk ðæt",
+      "spell": "he’s like that"
+    },
+    {
+      "def1": "откуда ты знаешь?",
+      "ipa": "haʊ du ju noʊ?",
+      "spell": "how do you know?"
+    },
+    {
+      "def1": "как это сказать?",
+      "ipa": "haʊ du ju seɪ ðæt?",
+      "spell": "how do you say that?"
+    },
+    {
+      "def1": "я не лучший человек, чтобы говорить об этом",
+      "ipa": "aɪ æm nɑt ðə bɛst ˈpɜrsən tu tɔk əˈbaʊt ɪt",
+      "spell": "I am not the best person to talk about it"
+    },
+    {
+      "def1": "я очень рад",
+      "ipa": "aɪ æm ˈvɛri ɡlæd",
+      "spell": "I am very glad"
+    },
+    {
+      "def1": "я не знаю, на скольки языках он может говорить",
+      "ipa": "aɪ doʊnt noʊ haʊ ˈmɛni ˈlæŋɡwəʤəz hi kæn spik",
+      "spell": "I don’t know how many languages he can speak"
+    },
+    {
+      "def1": "я заставляю себя это делать",
+      "ipa": "aɪ meɪk ˌmaɪˈsɛlf du ɪt",
+      "spell": "I make myself do it"
+    },
+    {
+      "def1": "я хочу, чтобы мои дети получили гражданство",
+      "ipa": "aɪ wɑnt maɪ ˈʧɪldrən tu ɡɛt ˈsɪtɪzənˌʃɪp",
+      "spell": "I want my children to get citizenship"
+    },
+    {
+      "def1": "я хочу, чтобы у моих детей был выбор",
+      "ipa": "aɪ wɑnt maɪ ˈʧɪldrən tu hæv ə ʧɔɪs",
+      "spell": "I want my children to have a choice"
+    },
+    {
+      "def1": "я хочу, чтобы у моих детей была свобода выбора",
+      "ipa": "aɪ wɑnt maɪ ˈʧɪldrən tu hæv ˈfridəm ʌv ʧɔɪs",
+      "spell": "I want my children to have freedom of choice"
+    },
+    {
+      "def1": "непогода, суровая погода",
+      "ipa": "ɪnˈklɛmənt ˈwɛðər",
+      "spell": "inclement weather"
+    },
+    {
+      "def1": "есть там кто-нибудь?",
+      "ipa": "ɪz ðɛr ˈɛnibədi ðɛr?",
+      "spell": "is there anybody there?"
+    },
+    {
+      "def1": "оно протекает",
+      "ipa": "ɪt ɪz ˈlikɪŋ",
+      "spell": "it is leaking"
+    },
+    {
+      "def1": "будет восемь градусов",
+      "ipa": "ɪts ˈɡoʊɪŋ tu bi eɪt dɪˈɡriz",
+      "spell": "it’s going to be eight degrees"
+    },
+    {
+      "def1": "ограничимся одной фразой",
+      "ipa": "lɛts ˈlɪmət aʊərˈsɛlvz tu wʌn freɪz",
+      "spell": "let's limit ourselves to one phrase"
+    },
+    {
+      "def1": "как; нравиться",
+      "ipa": "laɪk, tu laɪk",
+      "spell": "like, to like"
+    },
+    {
+      "def1": "длинные прямые чёрные волосы",
+      "ipa": "lɔŋ streɪt blæk hɛr",
+      "spell": "long straight black hair"
+    },
+    {
+      "def1": "среднего роста",
+      "ipa": "ˈmidiəm haɪt",
+      "spell": "medium height"
+    },
+    {
+      "def1": "пропавший, отсутствующий",
+      "ipa": "ˈmɪsɪŋ",
+      "spell": "missing"
+    },
+    {
+      "def1": "мой муж — тот человек, с которым стоит поговорить об этом",
+      "ipa": "maɪ ˈhʌzbənd ɪz ðə ˈpɜrsən tu tɔk tu əˈbaʊt ɪt",
+      "spell": "my husband is the person to talk to about it"
+    },
+    {
+      "def1": "напротив",
+      "ipa": "ˈɑpəzət",
+      "spell": "opposite"
+    },
+    {
+      "def1": "личность",
+      "ipa": "ˌpɜrsəˈnælɪti",
+      "spell": "personality"
+    },
+    {
+      "def1": "увидимся в следующую среду",
+      "ipa": "si ju nɛkst ˈwɛnzˌdeɪ",
+      "spell": "see you next wednesday"
+    },
+    {
+      "def1": "она не хочет, чтобы он остался один",
+      "ipa": "ʃi ˈdʌzənt wɑnt hɪm tu ɛnd ʌp əˈloʊn",
+      "spell": "she doesn’t want him to end up alone"
+    },
+    {
+      "def1": "она красивая",
+      "ipa": "ʃi ɪz ˈbjutəfəl",
+      "spell": "she is beautiful"
+    },
+    {
+      "def1": "она предвзята",
+      "ipa": "ʃi ɪz ˈbaɪəst",
+      "spell": "she is biased"
+    },
+    {
+      "def1": "она близка с ним",
+      "ipa": "ʃi ɪz kloʊs tu hɪm",
+      "spell": "she is close to him"
+    },
+    {
+      "def1": "ей нравятся розы",
+      "ipa": "ʃi laɪks ˈroʊzɪz",
+      "spell": "she likes roses"
+    },
+    {
+      "def1": "она любит розы",
+      "ipa": "ʃi lʌvz ˈroʊzɪz",
+      "spell": "she loves roses"
+    },
+    {
+      "def1": "она видит только его хорошие стороны",
+      "ipa": "ʃi ˈoʊnli siz hɪz ɡʊd saɪd",
+      "spell": "she only sees his good side"
+    },
+    {
+      "def1": "ей следует подумать о его старости",
+      "ipa": "ʃi ɔt tu θɪŋk əˈbaʊt hɪz oʊld eɪʤ",
+      "spell": "she ought to think about his old age"
+    },
+    {
+      "def1": "она красивая",
+      "ipa": "ʃiz ˈbjutəfəl/ˈprɪti",
+      "spell": "she's beautiful/pretty"
+    },
+    {
+      "def1": "он/она привлекательный(ая)",
+      "ipa": "ʃi/hi ɪz əˈtræktɪv",
+      "spell": "she/he is attractive"
+    },
+    {
+      "def1": "она заинтересована, озабочена",
+      "ipa": "ʃiz kənˈsɜrnd",
+      "spell": "she’s concerned"
+    },
+    {
+      "def1": "она беспокоится",
+      "ipa": "ʃiz ˈwɜrid",
+      "spell": "she’s worried"
+    },
+    {
+      "def1": "бок о бок",
+      "ipa": "saɪd baɪ saɪd",
+      "spell": "side by side"
+    },
+    {
+      "def1": "стройный",
+      "ipa": "slɪm",
+      "spell": "slim"
+    },
+    {
+      "def1": "заснеженные крыши",
+      "ipa": "ˈsnoʊi rufs",
+      "spell": "snowy roofs"
+    },
+    {
+      "def1": "такой большой",
+      "ipa": "soʊ bɪɡ",
+      "spell": "so big"
+    },
+    {
+      "def1": "так много",
+      "ipa": "soʊ mʌʧ",
+      "spell": "so much"
+    },
+    {
+      "def1": "такой",
+      "ipa": "sʌʧ",
+      "spell": "such"
+    },
+    {
+      "def1": "высокий, низкий",
+      "ipa": "tɔl, ʃɔrt",
+      "spell": "tall, short"
+    },
+    {
+      "def1": "огромное спасибо",
+      "ipa": "θæŋk ju soʊ mʌʧ",
+      "spell": "thank you so much"
+    },
+    {
+      "def1": "снег начнёт таять",
+      "ipa": "ðə snoʊ wɪl stɑrt ˈmɛltɪŋ",
+      "spell": "the snow will start melting"
+    },
+    {
+      "def1": "они занимаются спортом",
+      "ipa": "ðeɪ ˈɛksərˌsaɪz",
+      "spell": "they exercise"
+    },
+    {
+      "def1": "худой; с лишним весом",
+      "ipa": "θɪn; ˈoʊvərˌweɪt",
+      "spell": "thin; overweight"
+    },
+    {
+      "def1": "это человек, с кем у меня назначено свидание",
+      "ipa": "ðɪs ɪz maɪ deɪt",
+      "spell": "this is my date"
+    },
+    {
+      "def1": "жесть, олово",
+      "ipa": "tɪn",
+      "spell": "tin"
+    },
+    {
+      "def1": "быть",
+      "ipa": "tu bi",
+      "spell": "to be"
+    },
+    {
+      "def1": "быть похожим",
+      "ipa": "tu bi laɪk",
+      "spell": "to be like"
+    },
+    {
+      "def1": "закрывать; близкий",
+      "ipa": "tu kloʊs; kloʊs",
+      "spell": "to close; close"
+    },
+    {
+      "def1": "остаться в одиночестве",
+      "ipa": "tu ɛnd ʌp əˈloʊn",
+      "spell": "to end up alone"
+    },
+    {
+      "def1": "замёрзнуть (в итоге)",
+      "ipa": "tu ɛnd ʌp koʊld",
+      "spell": "to end up cold"
+    },
+    {
+      "def1": "заболеть (в итоге)",
+      "ipa": "tu ɛnd ʌp sɪk",
+      "spell": "to end up sick"
+    },
+    {
+      "def1": "выделить это",
+      "ipa": "tu ˈhaɪˌlaɪt ɪt",
+      "spell": "to highlight it"
+    },
+    {
+      "def1": "смеяться",
+      "ipa": "tu læf",
+      "spell": "to laugh"
+    },
+    {
+      "def1": "протекать",
+      "ipa": "tu lik",
+      "spell": "to leak"
+    },
+    {
+      "def1": "выглядеть как",
+      "ipa": "tu lʊk laɪk",
+      "spell": "to look like"
+    },
+    {
+      "def1": "служить в армии",
+      "ipa": "tu sɜrv ɪn ði ˈɑrmi",
+      "spell": "to serve in the army"
+    },
+    {
+      "def1": "как он выглядит?",
+      "ipa": "wɑt dʌz hi lʊk laɪk?",
+      "spell": "what does he look like?"
+    },
+    {
+      "def1": "каковы свидания?",
+      "ipa": "wɑt ɪz ˈdeɪtɪŋ laɪk?",
+      "spell": "what is dating like?"
+    },
+    {
+      "def1": "какой он как человек?",
+      "ipa": "wɑt ɪz hi laɪk?",
+      "spell": "what is he like?"
+    },
+    {
+      "def1": "каково это было?",
+      "ipa": "wɑt wʌz ɪt laɪk?",
+      "spell": "what was it like?"
+    },
+    {
+      "def1": "когда у него нет щетины",
+      "ipa": "wɛn hi ˈdʌzənt hæv ˈstʌbəl",
+      "spell": "when he doesn’t have stubble"
+    },
+    {
+      "def1": "когда я иду на прогулку",
+      "ipa": "wɛn aɪ ɡoʊ fɔr ə wɔk",
+      "spell": "when I go for a walk"
+    },
+    {
+      "def1": "белый верх, чёрный низ",
+      "ipa": "waɪt tɑp, blæk ˈbɑtəm",
+      "spell": "white top, black bottom"
+    },
+    {
+      "def1": "с кем лучше всего поговорить об этом",
+      "ipa": "hu ɪz ðə bɛst ˈpɜrsən tu tɔk tu əˈbaʊt ɪt",
+      "spell": "who is the best person to talk to about it"
+    }
+  ]
 }
