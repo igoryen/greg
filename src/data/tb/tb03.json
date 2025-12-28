@@ -1,0 +1,309 @@
+{
+  "student": "Tatiana B",
+  "slug": "tb",
+  "period": "week",
+  "number": 52,
+  "date": "2025-12-24",
+  "words": [
+    {
+      "def1": "выбор",
+      "ipa": "ə ʧɔɪs",
+      "spell": "a choice"
+    },
+    {
+      "def1": "аптека",
+      "ipa": "ə ˈdrʌɡˌstɔr",
+      "spell": "a drugstore"
+    },
+    {
+      "def1": "фабрика, завод",
+      "ipa": "ə ˈfæktəri",
+      "spell": "a factory"
+    },
+    {
+      "def1": "семейный праздник",
+      "ipa": "ə ˈfæməli ˈhɑləˌdeɪ",
+      "spell": "a family holiday"
+    },
+    {
+      "def1": "пароль",
+      "ipa": "ə ˈpæˌswɜrd",
+      "spell": "a password"
+    },
+    {
+      "def1": "тихий мальчик",
+      "ipa": "ə ˈkwaɪət bɔɪ",
+      "spell": "a quiet boy"
+    },
+    {
+      "def1": "в шесть утра",
+      "ipa": "æt sɪks æm",
+      "spell": "at six AM"
+    },
+    {
+      "def1": "в магазине",
+      "ipa": "æt ðə stɔr",
+      "spell": "at the store"
+    },
+    {
+      "def1": "будь тихо, тише",
+      "ipa": "bi ˈkwaɪət",
+      "spell": "be quiet"
+    },
+    {
+      "def1": "ты часто звонишь домой?",
+      "ipa": "du ju ˈɔfən kɔl hoʊm?",
+      "spell": "do you often call home?"
+    },
+    {
+      "def1": "ты обычно смотришь фильмы на английском?",
+      "ipa": "du ju ˈjuʒəwəli wɑʧ ˈmuviz ɪn ˈɪŋɡlɪʃ?",
+      "spell": "do you usually watch movies in English?"
+    },
+    {
+      "def1": "он очень редко бывает на работе",
+      "ipa": "hi ɪz ˈvɛri ˈrɛrli æt wɜrk",
+      "spell": "he is very rarely at work"
+    },
+    {
+      "def1": "её выбор прекрасен",
+      "ipa": "hɜr ˈʧɔɪsəz ɑr ɡreɪt",
+      "spell": "her choices are great"
+    },
+    {
+      "def1": "её мама выбирала красивых мужчин",
+      "ipa": "hɜr mɑm ʧoʊz ˈhænsəm mɛn",
+      "spell": "her mom chose handsome men"
+    },
+    {
+      "def1": "я иду на прогулку",
+      "ipa": "aɪ ɡoʊ fɔr ə wɔk",
+      "spell": "I go for a walk"
+    },
+    {
+      "def1": "у меня это было в прошлом",
+      "ipa": "aɪ hæd ɪt ɪn ðə pæst",
+      "spell": "I had it in the past"
+    },
+    {
+      "def1": "мне нравится видеть",
+      "ipa": "aɪ laɪk tu si",
+      "spell": "I like to see"
+    },
+    {
+      "def1": "я хочу быть в моменте",
+      "ipa": "aɪ wɑnt tu bi ɪn ðə ˈmoʊmənt",
+      "spell": "I want to be in the moment"
+    },
+    {
+      "def1": "в больнице",
+      "ipa": "ɪn ðə ˈhɑˌspɪtəl",
+      "spell": "in the hospital"
+    },
+    {
+      "def1": "в этой области",
+      "ipa": "ɪn ðɪs ˈɛriə",
+      "spell": "in this area"
+    },
+    {
+      "def1": "в две тысячи двадцать шестом (2026) году",
+      "ipa": "ɪn ˈtwɛnti ˈtwɛnti-sɪks (2026)",
+      "spell": "in twenty twenty-six (2026)"
+    },
+    {
+      "def1": "это намного красочнее",
+      "ipa": "ɪts mʌʧ mɔr ˈkʌlərfəl",
+      "spell": "it’s much more colorful"
+    },
+    {
+      "def1": "это не для меня",
+      "ipa": "ɪts nɑt fɔr mi",
+      "spell": "it’s not for me"
+    },
+    {
+      "def1": "это не моё (чашка чая)",
+      "ipa": "ɪts nɑt maɪ kʌp ʌv ti",
+      "spell": "it’s not my cup of tea"
+    },
+    {
+      "def1": "здесь очень тихо",
+      "ipa": "ɪts ˈvɛri ˈkwaɪət",
+      "spell": "it’s very quiet"
+    },
+    {
+      "def1": "и тебя с Рождеством!",
+      "ipa": "ˈmɛri ˈkrɪsməs tu ju, tu!",
+      "spell": "Merry Christmas to you, too!"
+    },
+    {
+      "def1": "моя одежда",
+      "ipa": "maɪ kloʊðz",
+      "spell": "my clothes"
+    },
+    {
+      "def1": "не совсем",
+      "ipa": "nɑt kwaɪt",
+      "spell": "not quite"
+    },
+    {
+      "def1": "один мужчина, два мужчины",
+      "ipa": "wʌn mæn, tu mɛn",
+      "spell": "one man, two men"
+    },
+    {
+      "def1": "противоположности притягиваются",
+      "ipa": "ˈɑpəzəts əˈtrækt",
+      "spell": "opposites attract"
+    },
+    {
+      "def1": "тихая погода",
+      "ipa": "ˈkwaɪət ˈwɛðər",
+      "spell": "quiet weather"
+    },
+    {
+      "def1": "довольно далеко",
+      "ipa": "kwaɪt fɑr",
+      "spell": "quite far"
+    },
+    {
+      "def1": "довольно хорошо",
+      "ipa": "kwaɪt ɡʊd",
+      "spell": "quite good"
+    },
+    {
+      "def1": "довольно тихо",
+      "ipa": "kwaɪt ˈkwaɪət",
+      "spell": "quite quiet"
+    },
+    {
+      "def1": "довольно хорошо",
+      "ipa": "kwaɪt wɛl",
+      "spell": "quite well"
+    },
+    {
+      "def1": "она в разводе",
+      "ipa": "ʃi ɪz dɪˈvɔrst",
+      "spell": "she is divorced"
+    },
+    {
+      "def1": "ей сорок два",
+      "ipa": "ʃi ɪz ˈfɔrti-tu",
+      "spell": "she is forty-two"
+    },
+    {
+      "def1": "она выглядит жизнерадостной",
+      "ipa": "ʃi lʊks ˈʧɪrfəl",
+      "spell": "she looks cheerful"
+    },
+    {
+      "def1": "она блондинка",
+      "ipa": "ʃiz (eɪ) blɑnd",
+      "spell": "she’s (a) blonde"
+    },
+    {
+      "def1": "социальные сети",
+      "ipa": "ˈsoʊʃəl ˈnɛˌtwɜrks",
+      "spell": "social networks"
+    },
+    {
+      "def1": "поэтому",
+      "ipa": "ðæts waɪ",
+      "spell": "that’s why"
+    },
+    {
+      "def1": "текст не говорит об этом здесь",
+      "ipa": "ðə tɛkst ˈdʌzənt tɔk əˈbaʊt ɪt hir",
+      "spell": "the text doesn’t talk about it here"
+    },
+    {
+      "def1": "они оба примерно одного возраста",
+      "ipa": "ðeɪ ɑr boʊθ əˈraʊnd ðə seɪm eɪʤ",
+      "spell": "they are both around the same age"
+    },
+    {
+      "def1": "они оба независимые люди",
+      "ipa": "ðeɪ ɑr boʊθ ˌɪndɪˈpɛndənt ˈpipəl",
+      "spell": "they are both independent people"
+    },
+    {
+      "def1": "они празднуют",
+      "ipa": "ðeɪ ˈsɛləˌbreɪt",
+      "spell": "they celebrate"
+    },
+    {
+      "def1": "они празднуют это скромно",
+      "ipa": "ðeɪ ˈsɛləˌbreɪt ɪt ɪn ə smɔl weɪ",
+      "spell": "they celebrate it in a small way"
+    },
+    {
+      "def1": "они делают то же самое",
+      "ipa": "ðeɪ du ðə seɪm θɪŋ",
+      "spell": "they do the same thing"
+    },
+    {
+      "def1": "у них больше украшений",
+      "ipa": "ðeɪ hæv mɔr ˌdɛkəˈreɪʃənz",
+      "spell": "they have more decorations"
+    },
+    {
+      "def1": "у них больше огней",
+      "ipa": "ðeɪ hæv mɔr laɪts",
+      "spell": "they have more lights"
+    },
+    {
+      "def1": "вещи, которые мы делаем",
+      "ipa": "θɪŋz (ðæt) wi du",
+      "spell": "things (that) we do"
+    },
+    {
+      "def1": "это было очень недобрым высказыванием",
+      "ipa": "ðɪs wʌz ə ˈvɛri ənˈkaɪnd θɪŋ tu seɪ",
+      "spell": "this was a very unkind thing to say"
+    },
+    {
+      "def1": "отвечать",
+      "ipa": "tu ˈænsər",
+      "spell": "to answer"
+    },
+    {
+      "def1": "пойти на свидание с ним/ней",
+      "ipa": "tu ɡoʊ ɑn ə deɪt wɪð hɪm/hɜr",
+      "spell": "to go on a date with him/her"
+    },
+    {
+      "def1": "невероятный",
+      "ipa": "ˌʌnbəˈlivəbəl",
+      "spell": "unbelievable"
+    },
+    {
+      "def1": "поживём — увидим",
+      "ipa": "weɪt ænd si",
+      "spell": "wait and see"
+    },
+    {
+      "def1": "вы выбираете, выбрали",
+      "ipa": "ju ʧuz, ʧoʊz",
+      "spell": "you choose, chose"
+    },
+    {
+      "def1": "ты не чувствуешь себя так одиноко",
+      "ipa": "ju doʊnt fil æz ˈloʊnli",
+      "spell": "you don’t feel as lonely"
+    },
+    {
+      "def1": "ты не гордишься своей страной",
+      "ipa": "ju doʊnt fil praʊd ʌv jʊər ˈkʌntri",
+      "spell": "you don’t feel proud of your country"
+    },
+    {
+      "def1": "ты не испытываешь гордости за свою страну",
+      "ipa": "ju fil noʊ praɪd ɪn jʊər ˈkʌntri",
+      "spell": "you feel no pride in your country"
+    },
+    {
+      "def1": "ты ходишь на работу пешком",
+      "ipa": "ju wɔk tu wɜrk",
+      "spell": "you walk to work"
+    }
+  ]
+}
