@@ -1,0 +1,884 @@
+{
+  "student": "Ruslan P",
+  "slug": "rp",
+  "period": "week",
+  "number": 50,
+  "date": "2025-12-14",
+  "words": [
+    {
+      "def1": "ванна",
+      "ipa": "ə ˈбæθтəб",
+      "spell": "a bathtub"
+    },
+    {
+      "def1": "синяк",
+      "ipa": "ə бруз",
+      "spell": "a bruise"
+    },
+    {
+      "def1": "галочка",
+      "ipa": "ə чэк мɑрк",
+      "spell": "a checkmark"
+    },
+    {
+      "def1": "концерт",
+      "ipa": "ə ˈкɑнсɝт",
+      "spell": "a concert"
+    },
+    {
+      "def1": "блюдо, тарелка",
+      "ipa": "ə дɪш",
+      "spell": "a dish"
+    },
+    {
+      "def1": "посудомойщик, посудомоечная машина",
+      "ipa": "ə дɪш ˈwɑшɚ",
+      "spell": "a dish washer"
+    },
+    {
+      "def1": "жилой дом",
+      "ipa": "ə hоум",
+      "spell": "a home"
+    },
+    {
+      "def1": "планировщик, органайзер",
+      "ipa": "ə ˈплæнɚ",
+      "spell": "a planner"
+    },
+    {
+      "def1": "лист бумаги",
+      "ipa": "ə щит ʌв ˈпэйпɚ",
+      "spell": "a sheet of paper"
+    },
+    {
+      "def1": "время, чтобы сделать X",
+      "ipa": "ə тайм ту ду экс",
+      "spell": "a time to do X"
+    },
+    {
+      "def1": "глагол",
+      "ipa": "ə вɝб",
+      "spell": "a verb"
+    },
+    {
+      "def1": "способ",
+      "ipa": "ə wэй",
+      "spell": "a way"
+    },
+    {
+      "def1": "рабочая неделя",
+      "ipa": "ə ˈwɝˌкwик",
+      "spell": "a workweek"
+    },
+    {
+      "def1": "действие, акт",
+      "ipa": "æкт",
+      "spell": "act"
+    },
+    {
+      "def1": "активность, дело, занятие",
+      "ipa": "æкˈтɪвəти",
+      "spell": "activity"
+    },
+    {
+      "def1": "образованный человек",
+      "ipa": "əн ˈэджəˌкэйтəд ˈпɝсəн",
+      "spell": "an educated person"
+    },
+    {
+      "def1": "они одинаковы?",
+      "ipa": "ɑр ðэй ðə сэйм?",
+      "spell": "are they the same?"
+    },
+    {
+      "def1": "в полночь",
+      "ipa": "æт ˈмɪдˌнайт",
+      "spell": "at midnight"
+    },
+    {
+      "def1": "за Барри, (дальше чем)",
+      "ipa": "бɪˈɑнд ˈбæри",
+      "spell": "beyond Barrie"
+    },
+    {
+      "def1": "иди ко мне",
+      "ipa": "кʌм ту ми",
+      "spell": "come to me"
+    },
+    {
+      "def1": "ты сильно упал?",
+      "ipa": "дɪд ю фɔл hɑрд?",
+      "spell": "did you fall hard?"
+    },
+    {
+      "def1": "посуда",
+      "ipa": "ˈдɪшəз",
+      "spell": "dishes"
+    },
+    {
+      "def1": "ты когда-нибудь пьёшь кофе вечером?",
+      "ipa": "ду ю ˈэвɚ hæв ˈкɑфи ɪн ðи ˈивнɪŋ?",
+      "spell": "do you ever have coffee in the evening?"
+    },
+    {
+      "def1": "делание",
+      "ipa": "ˈдуɪŋ",
+      "spell": "doing"
+    },
+    {
+      "def1": "не смотри, как я это режу",
+      "ipa": "доунт wɑч ми кʌт ɪт",
+      "spell": "don’t watch me cut it"
+    },
+    {
+      "def1": "не смотри, как я танцую",
+      "ipa": "доунт wɑч ми дæнс",
+      "spell": "don’t watch me dance"
+    },
+    {
+      "def1": "не смотри, как я пью",
+      "ipa": "доунт wɑч ми дрɪŋк",
+      "spell": "don’t watch me drink"
+    },
+    {
+      "def1": "не смотри, как я ем",
+      "ipa": "доунт wɑч ми ит",
+      "spell": "don’t watch me eat"
+    },
+    {
+      "def1": "не смотри, как я курю",
+      "ipa": "доунт wɑч ми смоук",
+      "spell": "don’t watch me smoke"
+    },
+    {
+      "def1": "не смотри, как я работаю",
+      "ipa": "доунт wɑч ми wɝк",
+      "spell": "don’t watch me work"
+    },
+    {
+      "def1": "особенно",
+      "ipa": "əˈспэшли",
+      "spell": "especially"
+    },
+    {
+      "def1": "свободный, бесплатный",
+      "ipa": "фри",
+      "spell": "free"
+    },
+    {
+      "def1": "частота",
+      "ipa": "ˈфрикwəнси",
+      "spell": "frequency"
+    },
+    {
+      "def1": "иди домой!",
+      "ipa": "гоу hоум!",
+      "spell": "go home!"
+    },
+    {
+      "def1": "съешь банан",
+      "ipa": "hæв ə бəˈнæнə",
+      "spell": "have a banana"
+    },
+    {
+      "def1": "выпей кофе",
+      "ipa": "hæв ə ˈкɑфи",
+      "spell": "have a coffee"
+    },
+    {
+      "def1": "он всегда умирает",
+      "ipa": "hи ˈɔлˌwэйз дайз",
+      "spell": "he always dies"
+    },
+    {
+      "def1": "он никогда не ругается",
+      "ipa": "hи ˈнэвɚ ˈкɝсɪз",
+      "spell": "he never curses"
+    },
+    {
+      "def1": "дома",
+      "ipa": "hоум",
+      "spell": "home"
+    },
+    {
+      "def1": "домой",
+      "ipa": "hоум",
+      "spell": "home"
+    },
+    {
+      "def1": "Один дома",
+      "ipa": "hоум əˈлоун",
+      "spell": "Home Alone"
+    },
+    {
+      "def1": "дорогая, я дома!",
+      "ipa": "ˈhʌни, айм hоум!",
+      "spell": "honey, I’m home!"
+    },
+    {
+      "def1": "Как я встретил вашу мать",
+      "ipa": "hау ай мэт йʊɚ ˈмʌðɚ",
+      "spell": "how I met your mother"
+    },
+    {
+      "def1": "как?",
+      "ipa": "hау?",
+      "spell": "how?"
+    },
+    {
+      "def1": "я почти никогда не ем фастфуд",
+      "ipa": "ай ˈɔлˌмоуст ˈнэвɚ ит фæст фуд",
+      "spell": "I almost never eat fast food"
+    },
+    {
+      "def1": "я всегда выхожу на улицу с коллегами",
+      "ipa": "ай ˈɔлˌwэйз гоу ˈаутˈсайд wɪð май ˈкоуˈwɝкɚз",
+      "spell": "I always go outside with my co-workers"
+    },
+    {
+      "def1": "я повар",
+      "ipa": "ай æм ə кʊк",
+      "spell": "I am a cook"
+    },
+    {
+      "def1": "я учитель",
+      "ipa": "ай æм ə ˈтичɚ",
+      "spell": "I am a teacher"
+    },
+    {
+      "def1": "я совсем один",
+      "ipa": "ай æм ɔл əˈлоун",
+      "spell": "I am all alone"
+    },
+    {
+      "def1": "я один",
+      "ipa": "ай æм əˈлоун",
+      "spell": "I am alone"
+    },
+    {
+      "def1": "я принят на работу (работаю по найму)",
+      "ipa": "ай æм эмˈплойд",
+      "spell": "I am employed"
+    },
+    {
+      "def1": "я принят на работу в YM",
+      "ipa": "ай æм эмˈплойд бай wай-эм",
+      "spell": "I am employed by YM"
+    },
+    {
+      "def1": "я один дома",
+      "ipa": "ай æм hоум əˈлоун",
+      "spell": "I am home alone"
+    },
+    {
+      "def1": "я не безработный",
+      "ipa": "ай æм нɑт ˌʌнэмˈплойд",
+      "spell": "I am not unemployed"
+    },
+    {
+      "def1": "я прихожу домой",
+      "ipa": "ай кʌм hоум",
+      "spell": "I come home"
+    },
+    {
+      "def1": "я делаю домашнее задание по английскому",
+      "ipa": "ай ду май ˈɪŋглɪш ˈhоумˌwɝк",
+      "spell": "I do my English homework"
+    },
+    {
+      "def1": "мне не хватает практики",
+      "ipa": "ай доунт гэт ɪˈнʌф ˈпрæктəс",
+      "spell": "I don’t get enough practice"
+    },
+    {
+      "def1": "я совсем не люблю врачей",
+      "ipa": "ай доунт лайк ˈдɑктɚз æт ɔл",
+      "spell": "I don’t like doctors at all"
+    },
+    {
+      "def1": "я обычно не чувствую усталости",
+      "ipa": "ай доунт ˈюжəwəли фил ˈтайɚд",
+      "spell": "I don’t usually feel tired"
+    },
+    {
+      "def1": "я обычно не спешу",
+      "ipa": "ай доунт ˈюжəwəли ˈhɝи",
+      "spell": "I don’t usually hurry"
+    },
+    {
+      "def1": "я выпиваю колу",
+      "ipa": "ай hæв ə коук",
+      "spell": "I have a coke"
+    },
+    {
+      "def1": "я съедаю хотдог",
+      "ipa": "ай hæв ə ˈhɑтˌдɔг",
+      "spell": "I have a hotdog"
+    },
+    {
+      "def1": "я слышу, как ты кричишь",
+      "ipa": "ай hир ю шаут(ɪŋ)",
+      "spell": "I hear you shout(ing)"
+    },
+    {
+      "def1": "я надеюсь",
+      "ipa": "ай hоуп",
+      "spell": "I hope"
+    },
+    {
+      "def1": "я знаю, что ты чувствуешь",
+      "ipa": "ай ноу hау ю фил",
+      "spell": "I know how you feel"
+    },
+    {
+      "def1": "прикинь, да? и не говори!",
+      "ipa": "ай ноу, райт?",
+      "spell": "I know, right?"
+    },
+    {
+      "def1": "мне нравятся утра в мои выходные",
+      "ipa": "ай лайк ˈморнɪŋз ɑн май дэйз ɔф",
+      "spell": "I like mornings on my days off"
+    },
+    {
+      "def1": "я люблю ничего не делать",
+      "ipa": "ай лʌв ˈдуɪŋ джʌст ˈнʌθɪŋ",
+      "spell": "I love doing just nothing"
+    },
+    {
+      "def1": "я никогда не пью кофе вечером",
+      "ipa": "ай ˈнэвɚ дрɪŋк ˈкɑфи ɪн ðи ˈивнɪŋ",
+      "spell": "I never drink coffee in the evening"
+    },
+    {
+      "def1": "я никогда не ем большой обед",
+      "ipa": "ай ˈнэвɚ hæв ə бɪг лʌнч",
+      "spell": "I never have a big lunch"
+    },
+    {
+      "def1": "я никогда не слушаю её",
+      "ipa": "ай ˈнэвɚ ˈлɪсəн ту hɝ",
+      "spell": "I never listen to her"
+    },
+    {
+      "def1": "я никогда не курю",
+      "ipa": "ай ˈнэвɚ смоук",
+      "spell": "I never smoke"
+    },
+    {
+      "def1": "я никогда не принимаю душ утром",
+      "ipa": "ай ˈнэвɚ тэйк ə ˈшауɚ ɪн ðə ˈморнɪŋ",
+      "spell": "I never take a shower in the morning"
+    },
+    {
+      "def1": "я видел, как ты это делаешь",
+      "ipa": "ай сɔ ю ду ɪт",
+      "spell": "I saw you do it"
+    },
+    {
+      "def1": "я видел, как ты катаешься на сноуборде",
+      "ipa": "ай сɔ ю ˈсноуˌборд",
+      "spell": "I saw you snowboard"
+    },
+    {
+      "def1": "я вижу, как она танцует",
+      "ipa": "ай си hɝ дæнс",
+      "spell": "I see her dance"
+    },
+    {
+      "def1": "я вижу, как ты катаешься на коньках",
+      "ipa": "ай си ю скэйт",
+      "spell": "I see you skate"
+    },
+    {
+      "def1": "я иногда ношу пятьдесят килограммов",
+      "ipa": "ай сəмˈтаймз ˈкæри ˈфɪфти ˈкиˌлоуз",
+      "spell": "I sometimes carry fifty kilos"
+    },
+    {
+      "def1": "я говорил на нём хорошо (в то время)",
+      "ipa": "ай споук ɪт wэл (æт ðə тайм)",
+      "spell": "I spoke it well (at the time)"
+    },
+    {
+      "def1": "я делаю шаг",
+      "ipa": "ай тэйк ə стэп",
+      "spell": "I take a step"
+    },
+    {
+      "def1": "я делаю шаги",
+      "ipa": "ай тэйк стэпс",
+      "spell": "I take steps"
+    },
+    {
+      "def1": "я обучал новых сотрудников",
+      "ipa": "ай тɔт ну эмˈплойиз",
+      "spell": "I taught new employees"
+    },
+    {
+      "def1": "я обычно делаю работу по дому",
+      "ipa": "ай ˈюжəwəли ду ˈhауˌсwɝк",
+      "spell": "I usually do housework"
+    },
+    {
+      "def1": "я обычно пью кофе до двух дня",
+      "ipa": "ай ˈюжəwəли дрɪŋк ˈкɑфи бɪˈфор ту ˈпиˈэм",
+      "spell": "I usually drink coffee before two PM"
+    },
+    {
+      "def1": "я обычно встаю в шесть тридцать",
+      "ipa": "ай ˈюжəwəли гэт ʌп æт сɪкс-ˈθɝди",
+      "spell": "I usually get up at six-thirty"
+    },
+    {
+      "def1": "я обычно ложусь спать в десять тридцать вечера",
+      "ipa": "ай ˈюжəwəли гоу ту бэд æт тэн-ˈθɝди ˈпиˈэм",
+      "spell": "I usually go to bed at ten-thirty PM"
+    },
+    {
+      "def1": "я обычно иду на работу в семь утра",
+      "ipa": "ай ˈюжəwəли гоу ту wɝк æт ˈсэвəн æм",
+      "spell": "I usually go to work at seven AM"
+    },
+    {
+      "def1": "я обычно завтракаю",
+      "ipa": "ай ˈюжəwəли hæв ˈбрэкфəст",
+      "spell": "I usually have breakfast"
+    },
+    {
+      "def1": "я обычно завтракаю дома",
+      "ipa": "ай ˈюжəwəли hæв ˈбрэкфəст æт hоум",
+      "spell": "I usually have breakfast at home"
+    },
+    {
+      "def1": "я обычно пью кофе и ем тост",
+      "ipa": "ай ˈюжəwəли hæв ˈкɑфи æнд тоуст",
+      "spell": "I usually have coffee and toast"
+    },
+    {
+      "def1": "я обычно ужинаю в шесть вечера",
+      "ipa": "ай ˈюжəwəли hæв ˈдɪнɚ æт сɪкс ˈпиˈэм",
+      "spell": "I usually have dinner at six PM"
+    },
+    {
+      "def1": "я обычно обедаю в два часа дня",
+      "ipa": "ай ˈюжəwəли hæв лʌнч æт ту ˈпиˈэм",
+      "spell": "I usually have lunch at two PM"
+    },
+    {
+      "def1": "я обычно принимаю душ",
+      "ipa": "ай ˈюжəwəли тэйк ə ˈшауɚ",
+      "spell": "I usually take a shower"
+    },
+    {
+      "def1": "я обычно смотрю сериал",
+      "ipa": "ай ˈюжəwəли wɑч ə ˈтиˈви шоʊ",
+      "spell": "I usually watch a TV show"
+    },
+    {
+      "def1": "я был кассиром",
+      "ipa": "ай wʌз ə кæˈщɪр",
+      "spell": "I was a cashier"
+    },
+    {
+      "def1": "я ходил в Service Ontario",
+      "ipa": "ай wэнт ту ˈсɝвəс ɑнˈтэриоу",
+      "spell": "I went to Service Ontario"
+    },
+    {
+      "def1": "я сделаю это снова",
+      "ipa": "ай wɪл ду ɪт əˈгэн",
+      "spell": "I will do it again"
+    },
+    {
+      "def1": "в свободное время",
+      "ipa": "ɪн май фри тайм",
+      "spell": "in my free time"
+    },
+    {
+      "def1": "утром",
+      "ipa": "ɪн ðə ˈморнɪŋ",
+      "spell": "in the morning"
+    },
+    {
+      "def1": "он знаменит?",
+      "ipa": "ɪз hи ˈфэймəс?",
+      "spell": "is he famous?"
+    },
+    {
+      "def1": "как сказать! по-разному; это зависит",
+      "ipa": "ɪт дɪˈпэндз",
+      "spell": "it depends"
+    },
+    {
+      "def1": "это зависит от сезона",
+      "ipa": "ɪт ɑн дɪˈпэндз ɑн ðə ˈсизəн",
+      "spell": "it on depends on the season"
+    },
+    {
+      "def1": "здесь не грязно, не неряшливо",
+      "ipa": "ɪтс нɑт ˈмэси",
+      "spell": "it’s not messy"
+    },
+    {
+      "def1": "это противоположность полуночи",
+      "ipa": "ɪтс ðи ˈɑпəзəт ʌв ˈмɪдˌнайт",
+      "spell": "it’s the opposite of midnight"
+    },
+    {
+      "def1": "сейчас два сорок пять дня",
+      "ipa": "ɪтс ту ˈфорти-файв ˈпиˈэм",
+      "spell": "it’s two forty-five PM"
+    },
+    {
+      "def1": "послушай, как она отвечает",
+      "ipa": "ˈлɪсəн ту hɝ ˈæнсɚ",
+      "spell": "listen to her answer"
+    },
+    {
+      "def1": "слушай, как она говорит",
+      "ipa": "ˈлɪсəн ту hɝ тɔк",
+      "spell": "listen to her talk"
+    },
+    {
+      "def1": "слушай, как она об этом говорит",
+      "ipa": "ˈлɪсəн ту hɝ тɔк əˈбаут ɪт",
+      "spell": "listen to her talk about it"
+    },
+    {
+      "def1": "послушай, как я пою",
+      "ipa": "ˈлɪсəн ту ми сɪŋ",
+      "spell": "listen to me sing"
+    },
+    {
+      "def1": "долго, дольше",
+      "ipa": "лɔŋ, ˈлɔŋгɚ",
+      "spell": "long, longer"
+    },
+    {
+      "def1": "мясо",
+      "ipa": "мит",
+      "spell": "meat"
+    },
+    {
+      "def1": "более или менее",
+      "ipa": "мор ор лэс",
+      "spell": "more or less"
+    },
+    {
+      "def1": "я и мои коллеги",
+      "ipa": "май ˈкоуˈwɝкɚз æнд ай",
+      "spell": "my coworkers and I"
+    },
+    {
+      "def1": "мой чешский \"заржавел\"",
+      "ipa": "май чэк ɪз ˈрʌсти",
+      "spell": "my Czech is rusty"
+    },
+    {
+      "def1": "мои часы показывают, сколько шагов я делаю",
+      "ipa": "май wɑч шоʊз ми hау ˈмэни стэпс ай тэйк",
+      "spell": "my watch shows me how many steps I take"
+    },
+    {
+      "def1": "приятно познакомиться",
+      "ipa": "найс ту мит ю",
+      "spell": "nice to meet you"
+    },
+    {
+      "def1": "никаких иголок",
+      "ipa": "ноу ˈнидəлз",
+      "spell": "no needles"
+    },
+    {
+      "def1": "полдень (12:00)",
+      "ipa": "нун",
+      "spell": "noon"
+    },
+    {
+      "def1": "одиннадцатого декабря",
+      "ipa": "ɑн дɪˈсэмбɚ ɪˈлэвəнθ",
+      "spell": "on December eleventh"
+    },
+    {
+      "def1": "люди в моей стране едят борщ",
+      "ipa": "ˈпипəл ɪн май ˈкʌнтри ит бɔршт",
+      "spell": "people in my country eat borsht"
+    },
+    {
+      "def1": "физически и морально",
+      "ipa": "ˈфɪзɪкəли æнд ˈмэнтəли",
+      "spell": "physically and mentally"
+    },
+    {
+      "def1": "у неё было двое детей",
+      "ipa": "щи hæд ту ˈчɪлдрəн",
+      "spell": "she had two children"
+    },
+    {
+      "def1": "у неё такие же выходные",
+      "ipa": "щи hæз ðə сэйм ˈwиˌкэндз",
+      "spell": "she has the same weekends"
+    },
+    {
+      "def1": "она никогда не пьёт",
+      "ipa": "щи ˈнэвɚ дрɪŋкс",
+      "spell": "she never drinks"
+    },
+    {
+      "def1": "(по) шестнадцать часов в день",
+      "ipa": "сɪкˈстин ˈауɚз ə дэй",
+      "spell": "sixteen hours a day"
+    },
+    {
+      "def1": "абсолютный максимум",
+      "ipa": "ðи ˈæбсəˌлут ˈмæксəмəм",
+      "spell": "the absolute maximum"
+    },
+    {
+      "def1": "лучший",
+      "ipa": "ðə бэст",
+      "spell": "the best"
+    },
+    {
+      "def1": "сердце хорошо работает",
+      "ipa": "ðə hɑрт дʌз ə гʊд джɑб",
+      "spell": "the heart does a good job"
+    },
+    {
+      "def1": "сердце выполняет свою работу",
+      "ipa": "ðə hɑрт дʌз ɪтс wɝк",
+      "spell": "the heart does its work"
+    },
+    {
+      "def1": "по-японски",
+      "ipa": "ðə ˌджæпəˈниз wэй",
+      "spell": "the Japanese way"
+    },
+    {
+      "def1": "тот же самый",
+      "ipa": "ðə сэйм",
+      "spell": "the same"
+    },
+    {
+      "def1": "победитель",
+      "ipa": "ðə ˈwɪнɚ",
+      "spell": "the winner"
+    },
+    {
+      "def1": "худший",
+      "ipa": "ðə wɝст",
+      "spell": "the worst"
+    },
+    {
+      "def1": "они в основном одинаковы",
+      "ipa": "ðэй ɑр ˈмоустли ðə сэйм",
+      "spell": "they are mostly the same"
+    },
+    {
+      "def1": "они умеют",
+      "ipa": "ðэй ноу hау",
+      "spell": "they know how"
+    },
+    {
+      "def1": "так, вот так",
+      "ipa": "ðɪс wэй",
+      "spell": "this way"
+    },
+    {
+      "def1": "четверг",
+      "ipa": "ˈθɝзˌдэй",
+      "spell": "Thursday"
+    },
+    {
+      "def1": "отвечать",
+      "ipa": "ту ˈæнсɚ",
+      "spell": "to answer"
+    },
+    {
+      "def1": "создать рабочее место",
+      "ipa": "ту криˈэйт ə джɑб",
+      "spell": "to create a job"
+    },
+    {
+      "def1": "спешить",
+      "ipa": "ту ˈhɝи",
+      "spell": "to hurry"
+    },
+    {
+      "def1": "сделать стул",
+      "ipa": "ту мэйк ə чэр",
+      "spell": "to make a chair"
+    },
+    {
+      "def1": "сделать дорогу",
+      "ipa": "ту мэйк ə роуд",
+      "spell": "to make a road"
+    },
+    {
+      "def1": "сделать завтрак",
+      "ipa": "ту мэйк ˈбрэкфəст",
+      "spell": "to make breakfast"
+    },
+    {
+      "def1": "(по)знакомиться",
+      "ipa": "ту мит",
+      "spell": "to meet"
+    },
+    {
+      "def1": "встречаться",
+      "ipa": "ту мит",
+      "spell": "to meet"
+    },
+    {
+      "def1": "смотри, как я режу",
+      "ipa": "wɑч ми кʌт",
+      "spell": "watch me cut"
+    },
+    {
+      "def1": "смотри, как я танцую",
+      "ipa": "wɑч ми дæнс",
+      "spell": "watch me dance"
+    },
+    {
+      "def1": "смотри, как я пью",
+      "ipa": "wɑч ми дрɪŋк",
+      "spell": "watch me drink"
+    },
+    {
+      "def1": "смотри, как я ем",
+      "ipa": "wɑч ми ит",
+      "spell": "watch me eat"
+    },
+    {
+      "def1": "смотри, как я курю",
+      "ipa": "wɑч ми смоук",
+      "spell": "watch me smoke"
+    },
+    {
+      "def1": "смотри, как я работаю",
+      "ipa": "wɑч ми wɝк",
+      "spell": "watch me work"
+    },
+    {
+      "def1": "мы приходим домой",
+      "ipa": "wи кʌм hоум",
+      "spell": "we come home"
+    },
+    {
+      "def1": "мы делаем работу",
+      "ipa": "wи ду ðə wɝк",
+      "spell": "we do the work"
+    },
+    {
+      "def1": "мы оказываемся мёртвыми",
+      "ipa": "wи энд ʌп дэд",
+      "spell": "we end up dead"
+    },
+    {
+      "def1": "в нашем здании есть тренажёрный зал",
+      "ipa": "wи hæв ə джɪм ɪн ˈауɚ ˈбɪлдɪŋ",
+      "spell": "we have a gym in our building"
+    },
+    {
+      "def1": "мы выходим из дома",
+      "ipa": "wи лив ðə hаус",
+      "spell": "we leave the house"
+    },
+    {
+      "def1": "мы моем посуду",
+      "ipa": "wи wɑш ðə ˈдɪшəз",
+      "spell": "we wash the dishes"
+    },
+    {
+      "def1": "какое сегодня число?",
+      "ipa": "wɑт дэйт ɪз ɪт тəˈдэй?",
+      "spell": "what date is it today?"
+    },
+    {
+      "def1": "какой сегодня день?",
+      "ipa": "wɑт дэй ɪз ɪт тəˈдэй?",
+      "spell": "what day is it today?"
+    },
+    {
+      "def1": "чем занимаешься? (род занятий)",
+      "ipa": "wɑт ду ю ду?",
+      "spell": "what do you do?"
+    },
+    {
+      "def1": "что она делает (сейчас)?",
+      "ipa": "wɑт ɪз щи ˈдуɪŋ?",
+      "spell": "what is she doing?"
+    },
+    {
+      "def1": "сколько времени?",
+      "ipa": "wɑт тайм ɪз ɪт?",
+      "spell": "what time is it?"
+    },
+    {
+      "def1": "когда я впервые тебя встретил",
+      "ipa": "wэн ай фɝст мэт ю",
+      "spell": "when I first met you"
+    },
+    {
+      "def1": "где вы познакомились?",
+      "ipa": "wэр дɪд ю мит?",
+      "spell": "where did you meet?"
+    },
+    {
+      "def1": "чей",
+      "ipa": "hуз",
+      "spell": "whose"
+    },
+    {
+      "def1": "почему он знаменит?",
+      "ipa": "wай ɪз hи ˈфэймəс?",
+      "spell": "why is he famous?"
+    },
+    {
+      "def1": "почему нет?",
+      "ipa": "wай нɑт?",
+      "spell": "why not?"
+    },
+    {
+      "def1": "почему?",
+      "ipa": "wай?",
+      "spell": "why?"
+    },
+    {
+      "def1": "почему? потому что …",
+      "ipa": "wай? бɪˈкɔз …",
+      "spell": "why? because …"
+    },
+    {
+      "def1": "янки, пошли домой!",
+      "ipa": "ˈйæŋкиз гоу hоум",
+      "spell": "yankees go home"
+    },
+    {
+      "def1": "ты очень умный",
+      "ipa": "ю ɑр ˈвэри ɪнˈтэлəджəнт",
+      "spell": "you are very intelligent"
+    },
+    {
+      "def1": "ты живёшь долго",
+      "ipa": "ю лɪв лɔŋ",
+      "spell": "you live long"
+    },
+    {
+      "def1": "ты живёшь дольше",
+      "ipa": "ю лɪв ˈлɔŋгɚ",
+      "spell": "you live longer"
+    },
+    {
+      "def1": "ты никогда не помогаешь мне!",
+      "ipa": "ю ˈнэвɚ hэлп ми!",
+      "spell": "you never help me!"
+    },
+    {
+      "def1": "ты победил!",
+      "ipa": "ю wɪн!",
+      "spell": "you win!"
+    }
+  ]
+}
